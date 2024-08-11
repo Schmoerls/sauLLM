@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE633112019</doknr>
+   <ecli>ECLI:DE:BGH:2019:011019UXZR139.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20191001</entsch-datum>
+   <aktenzeichen>X ZR 139/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 121 Abs 2 PatG, Art 2 § 6 Abs 1 Nr 1 IntPatÜbkG, Art 56 EuPatÜbk, Art 138 Abs 1 Buchst a EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 11. September 2017, Az: 5 Ni 52/15 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Streitpatent bezüglich einer Anlage zur sicheren Durchführung von Transaktionen zwischen informationsverarbeitenden Systemen</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 11. September 2017 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Beklagte war bis zum 16. April 2016 Inhaber des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 259 046 (Streitpatents), das am 22. April 2002 unter Inanspruchnahme der Priorität einer österreichischen Patentanmeldung vom 23. April 2001 angemeldet worden ist. Das Europäische Patentamt wies einen Einspruch gegen das Streitpatent zurück. Die Beschwerde gegen diese Entscheidung blieb erfolglos.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den fünf weitere Ansprüche rückbezogen sind, lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Anlage für die sichere Durchführung von Transaktionen zwischen informationsverarbeitenden Systemen mit einem Terminal (102), das zur Eingabe einer Benutzerkennung dient, mit einer Auswerteeinheit (106), die mit dem Terminal (102) über ein primäres Netz (101) verbunden ist und im Wesentlichen aus einer Speicher- und Prozessoreinheit besteht, welche zur Speicherung von Benutzerstammdaten und laufenden Transaktionsdaten dient, mit einem Codegenerator, der einen Sicherheitscode erzeugt, mit einer Sendeeinrichtung, die den Sicherheitscode über ein sekundäres Netz (107) an ein Empfangsgerät (108) sendet, und mit einer Eingabemöglichkeit für den Sicherheitscode am Terminal und einer Überprüfung des eingegebenen Sicherheitscodes auf Gültigkeit durch die Auswerteeinheit (106), dadurch gekennzeichnet, dass die Auswerteeinheit (106) einen zusätzlichen Codegenerator zur Erstellung eines Zusatzcodes aufweist und eine zusätzliche Sendeeinrichtung zur Übermittlung des Zusatzcodes über das primäre Netz (101) an das Terminal (102) und zur Ausgabe des Zusatzcodes aufweist, wobei das Terminal neben der Eingabemöglichkeit des Sicherheitscodes eine Ausgabe- und Eingabemöglichkeit für den Zusatzcode aufweist und die Auswerteeinheit (106) derart ausgestaltet ist, dass diese den eingegebenen Zusatzcode überprüft und bei Gültigkeit von eingegebenem Sicherheitscode und Zusatzcode die Transaktion autorisiert."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig. Der Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in einer geänderten Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Klage abgewiesen. Hiergegen richtet sich die Berufung der Klägerin, die ihren erstinstanzlichen Antrag weiterverfolgt. Der Beklagte tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung bleibt erfolglos.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Anlage zur sicheren Durchführung von Transaktionen zwischen informationsverarbeitenden Systemen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Als Beispiele für Bereiche, in denen solche Transaktionen erfolgen, werden in der Streitpatentschrift das Online-Banking und der Online-Handel genannt. Im Stand der Technik war es nach Angabe der Streitpatentschrift bekannt, für die sichere Durchführung von Transaktionen Benutzerkennungen, Passwörter, PINs (Persönliche Identifikationsnummern) oder TANs (Transaktionsnummern) zu verwenden, um den Nutzer zu identifizieren und Transaktionen zu autorisieren. Während Benutzerkennungen und PINs bei nachlässiger Handhabung durch den Nutzer ein erhebliches Risiko begründeten, habe sich die Nutzung von TANs, die über einen sekundären Leitungsweg übermittelt werden, als relativ sicher erwiesen. Allerdings bestünden auch hier latente Sicherheitsprobleme, etwa wenn eine dem Nutzer zugesendete TAN-Liste von diesem nicht sicher aufbewahrt werde. Auch bei elektronischer Übermittlung einer TAN bestünden gewisse Risiken, etwa bei der Fälschung von Anmeldebildschirmen oder in den Fällen, in denen Dritte Zugriff auf das Gerät haben könnten, an das die TAN übermittelt werde. Es bestehe die Gefahr, dass eine unbefugte Person den kompletten Autorisierungscode erhalte und dadurch in die Lage versetzt werde, eine Transaktion zu autorisieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Dem Streitpatent liegt vor diesem Hintergrund das technische Problem zugrunde, eine Anlage mit erhöhter Transaktionssicherheit bereitzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>3. Diese Aufgabe soll erfindungsgemäß durch eine Vorrichtung gelöst werden, deren Merkmale sich wie folgt gliedern lassen (Merkmalsgliederung des Patentgerichts in eckigen Klammern):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Anlage für die sichere Durchführung von Transaktionen zwischen informationsverarbeitenden Systemen mit einem Terminal und einer Auswerteeinheit. [M1, M2 teilweise, M3]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die Auswerteeinheit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) ist mit dem Terminal über ein primäres Netz verbunden, [M3.1]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) besteht im Wesentlichen aus einer Speicher- und Prozessoreinheit, die zur Speicherung von Benutzerstammdaten und laufenden Transaktionsdaten dient, [M3.2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) umfasst einen Codegenerator, der einen Sicherheitscode erzeugt, und eine Sendeeinrichtung, die diesen über ein sekundäres Netz an ein Empfangsgerät sendet, [M4 und M5]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) umfasst einen zusätzlichen Codegenerator zur Erstellung eines Zusatzcodes und eine zusätzliche Sendeeinrichtung zur dessen Übermittlung über das primäre Netz an das Terminal. [M8, M8.1, M8.2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Das Terminal</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) dient der Eingabe einer Benutzerkennung, [M2 Rest]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) ermöglicht die Eingabe des Sicherheitscodes, [M6]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) ermöglicht die Ausgabe und die Eingabe des Zusatzcodes. [M9]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die Auswerteeinheit überprüft den eingegebenen Sicherheitscode und den eingegebenen Zusatzcode und autorisiert bei deren Gültigkeit die Transaktion. [M7, M10]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Der Autorisierungscode ist danach aufgeteilt in einen Sicherheitscode und einen Zusatzcode, die auf unterschiedlichen Wegen übermittelt werden. Beide müssen eingegeben und von der Auswerteeinheit als gültig erkannt werden, damit die Transaktion autorisiert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>4. Im Hinblick auf einige Merkmale bedarf der Patentanspruch der Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Der Begriff der Transaktion ist in der Streitpatentschrift nicht definiert. Als Beispiele für die Anwendung der Lehre sind dort das Online-Banking, ein Bezahlvorgang im Online-Handel oder die Gewährung des Zutritts zu einem Gebäude genannt. In Absatz 2 der Beschreibung sind mit PIN und TAN einige Instrumente benannt, wie sie zur Sicherung etwa von Banküberweisungen, Wertpapierkäufen und -verkäufen und dergleichen eingesetzt werden. Diesen Vorgängen ist gemeinsam, dass sie aus Sicherheitsgründen einer besonderen Autorisierung oder Authentifizierung bedürfen. Charakteristisch für eine Transaktion im Sinne des Streitpatents ist danach, dass es sich um einzelne Vorgänge innerhalb einer Kommunikation zwischen zwei informationsverarbeitenden Systemen handelt, für die eine besondere, erhöhte Sicherheit gewünscht wird. Dieses Bedürfnis nach einer erhöhten Sicherheit kann sich insbesondere daraus ergeben, dass vermögensrelevante Änderungen vorgenommen oder sensible Daten angezeigt werden sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Bedeutung des Begriffs in Patentanspruch 1 ist damit enger als der im Bereich der Datenbanktechnik gebräuchliche Begriff der Transaktion als einer Folge von Programmschritten, die den Datenbestand nach fehlerfreier, vollständiger Ausführung in einem konsistenten Zustand hinterlassen. Zwar wird eine Transaktion im Sinne des Streitpatents regelmäßig auch eine Veränderung des Datenbestands bewirken. Nicht jede Veränderung des Datenbestands ist aber zwangsläufig eine Transaktion im Sinne des Streitpatents. Erst recht ist mit diesem Begriff nicht jeder Kommunikationsvorgang im World Wide Web, etwa jeder Austausch von Daten nach dem Client-Server-Modell gemeint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Das Patentgericht hat zutreffend angenommen, dass es sich bei einem Zusatzcode im Sinne des Streitpatents um einen transaktionsspezifischen Code handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Wie sich aus Merkmal 4 ergibt, dienen der Sicherheitscode und der Zusatzcode der Autorisierung der Transaktion, sollen also gewährleisten, dass nur eine berechtigte Person diese auslösen kann. Sicherheitscode wie Zusatzcode müssen daher in einer Beziehung zur Transaktion im oben erläuterten Sinne stehen. Sicherheits- und Zusatzcode sind nach der geschützten Lehre die Instrumente, mit denen dem erhöhten Sicherungsbedürfnis Rechnung getragen wird. Damit handelt es sich beim Zusatzcode - nicht anders als beim Sicherheitscode - um einen Code, der gerade für diese besondere Situation vorgesehen ist. Dies schließt nicht schlechterdings aus, den Code zugleich für andere Zwecke zu nutzen. Es darf sich aber nicht um ein Mittel handeln, mit dem die Kommunikation zwischen den beteiligten informationsverarbeitenden Systemen in ihrer Gesamtheit geschützt oder verwaltet wird. Der Zusatzcode muss vielmehr in einzelnen dafür vorgesehenen Situationen als weiteres Sicherungsmittel zu den Mitteln für die grundlegende Absicherung der Kommunikationsbeziehung hinzutreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 werde dem Fachmann, der von der deutschen Offenlegungsschrift 197 18 103 (NK12) oder von der europäischen Patentanmeldung 1 065 634 (NK14) ausgehe, weder durch das Buch von Scott Mitchell und James Atkinson (SAMS Teach Yourself Active Server Pages 3.0 in 21 Days, NK13), noch durch die Aufsätze von Henrik Loser (Techniken für Web-basierte Datenbankanwendungen, Informatik Forsch. Entw. 1998, S. 196 ff., NK 15) und Arun Iyengar (Dynamic Argument Embedding: Preserving State on the World Wide Web, IEEE Internet Computing 1997, S. 50 ff., NK16) nahegelegt. In diesen Dokumenten gehe es jeweils nur um die netzwerkseitige Verwaltung von Verbindungen zwischen Server und Client. Die dafür erörterten Instrumente wie Session-IDs, Cookies und Statusparameter mit User-ID beträfen jedoch jeweils die Sitzung (<em>session</em>) und seien nicht transaktionsspezifisch. Aus ihnen ergebe sich daher keine Anregung, einen Zusatzcode vorzusehen, der transaktionsspezifisch sei und der Autorisierung einer Transaktion diene. Zudem vermittele keine dieser Schriften eine technische Lehre, wonach zwei Codegeneratoren und zwei Sendeeinrichtungen dem Erzeugen und Senden eines Sicherheits- und eines Zusatzcodes dienten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Eine solche Anregung ergebe sich auch nicht aus dem US-Patent 6 061 741 (NK18). Der Fachmann, der von NK12 oder NK14 ausgehe, habe bereits keinen Anlass, die NK18 heranzuziehen, denn dieses Dokument befasse sich nicht mit der Autorisierung von Transaktionen, sondern mit der Synchronisation von verbindungslosen Anwendungen in Client-Server-Systemen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>1. Das Patentgericht hat mit zutreffenden Erwägungen, die von der Berufung nicht angegriffen werden, dargelegt, warum der Fachmann, der von NK12 oder NK14 ausgeht, durch NK13, NK15 oder NK16 keine Anregung erhält, einen Zusatzcode vorzusehen, der der Autorisierung einer Transaktion dient und über das primäre Netz an das Terminal übertragen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Entgegen der Auffassung der Klägerin wurde dem Fachmann, der von NK12 oder NK14 ausgeht, auch durch NK18 keine solche Anregung vermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend hat das Patentgericht angenommen, dass NK12 oder NK14, die unter den hier interessierenden Aspekten weitgehend übereinstimmen, den Ausgangspunkt der Bemühungen des Fachmanns darstellten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>NK12 schlägt für die Autorisierung von Transaktionen in Datenübertragungssystemen, etwa für das Online-Banking, vor, dass dem Benutzer, zu dem mittels informationsverarbeitender Systeme, etwa über das Internet, unter Nutzung eines Passworts oder dergleichen eine Verbindung aufgebaut wurde, über einen anderen Übertragungsweg eine TAN übermittelt wird, die der Benutzer eingibt, die sodann überprüft wird und bei deren Gültigkeit die Autorisierung der Transaktion erfolgt. Als Beispiele sind dort die Übersendung einer TAN an ein Mobiltelefon, an einen Pager oder ein Faxgerät aufgeführt. Die dort beschriebene Vorgehensweise nimmt die Merkmale 1, 2a bis 2c und 3a und 3b von Anspruch 1 des Streitpatents vorweg. Die TAN entspricht dem Sicherheitscode im Sinne von Merkmal 2c und 3b.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Nicht offenbart ist dagegen die Erzeugung und Übermittlung eines Zusatzcodes über das primäre Netz, die Ausgabe und Eingabe dieses Zusatzcodes und dessen Prüfung zur Autorisierung der Transaktion.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>b) NK18 vermittelte dem Fachmann nicht die Anregung, zur Erhöhung der Sicherheit bei der Durchführung von Transaktionen zusätzlich zu einem Sicherheitscode, der über ein sekundäres Netz übermittelt wird, einen Zusatzcode über das primäre Netz zu übermitteln und beide Codes für die Autorisierung der Transaktion einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>aa) NK18 erläutert, dass es in Systemen wie dem Internet, in dem die Verbindung zwischen Client und Server nicht dauerhaft besteht, sondern immer wieder unterbrochen und wiederhergestellt wird, vielfach eines Mechanismus zur Synchronisierung der Verbindung bedarf. Dieser solle gewährleisten, dass Server und Client wechselseitig prüfen und erkennen können, auf welchem Stand sich der jeweils andere Teil befindet. Auf diese Weise solle etwa sichergestellt werden, dass die Reaktion eines Verbindungspartners auf eine bestimmte Anfrage richtig zugeordnet werden kann, obwohl die Kommunikation zwischen Client und Server immer wieder unterbrochen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>In NK18 ist zwar verschiedentlich auch von Transaktionen (<em>transactions</em>) die Rede. Dieser Begriff bezeichnet dort jedoch, wie sich aus dem Zusammenhang der NK18 ergibt, nicht einzelne Vorgänge mit erhöhtem Sicherheitsbedürfnis, sondern grundsätzlich jeden Schritt eines Kommunikationszyklus oder einer Sitzung (s. insbesondere Sp. 2 Z. 46 f., Sp. 3 Z. 33 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>NK18 schlägt vor, zur Synchronisierung der Verbindung Sitzungstoken zu verwenden, die einen Client-Token und einen Panel-Token umfassen. Bei einem Client-Token handelt es sich um einen Code, der dazu dient, den Client zu identifizieren, bei einem Panel-Token um einen Code, der Informationen über den aktuellen Zustand dieses Clients vermittelt. Ein solcher Token kann nach NK18 etwa durch die Bildung einer Prüfsumme erstellt werden, die den zuletzt angezeigten Bildschirminhalt repräsentiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) NK18 spricht darüber hinaus die Möglichkeit an, solche Token zu nutzen, um bestimmte Objekte mit einer „Flagge“ unverwechselbar zu kennzeichnen und weiter vorzusehen, dass ein Anwender über eine bestimmte, „passende“ Signatur verfügen müsse, um in Bezug auf dieses Objekt als berechtigt angesehen zu werden (Sp. 2, Z. 49 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Damit ist zwar aufgezeigt, dass solche Token nicht nur zur Synchronisation genutzt werden können, sondern auch für andere Zwecke, etwa zur Prüfung von Berechtigungen. Entgegen der Auffassung der Klägerin ergab sich daraus jedoch nicht die Anregung, die in NK18 offenbarten Token als zusätzliches Sicherungsmittel für Kommunikationsvorgänge der in NK12 und NK14 offenbarten Art einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Zwar war es im Stand der Technik bekannt, unterschiedliche Maßnahmen zur Berechtigungsprüfung vorzusehen und für einzelne, besonders sicherungsbedürftige Vorgänge mehrere solcher Instrumente nebeneinander zum Einsatz zu bringen. Daraus ergab sich aber nicht die Anregung, die in NK18 in erster Linie für Synchronisierungszwecke und damit zur Absicherung der Kommunikationsbeziehung insgesamt eingesetzten Token als zusätzliches Sicherungsmittel für besonders sicherungsbedürftige Vorgänge einzusetzen. Der in NK18 enthaltene Hinweis, dass solche Token auch zur Authentifizierung eines Benutzers eingesetzt werden können, mag dem Fachmann Anlass gegeben haben, sie anstelle eines Passworts, einer PIN oder möglicherweise einer TAN in Betracht zu ziehen. Eine Anregung, die in NK12 und NK14 offenbarten Vorgehensweisen, bei denen die TAN aus Sicherheitsgründen auf einem separaten Weg übertragen wird, dahin zu ergänzen, dass zusätzlich auf dem primären Übermittlungsweg ein Token übersendet und zusammen mit der TAN zur Autorisierung eines besonders sicherungsbedürftigen Vorgangs herangezogen wird, ergab sich indes auch daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE633112019&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

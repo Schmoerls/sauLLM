@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300872015</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20150609</entsch-datum>
+   <aktenzeichen>X ZR 101/13</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 14 PatG, § 38 PatG, Art 69 Abs 1 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 26. Februar 2013, Az: 3 Ni 28/09 (EU), Urteil<br/>vorgehend BGH, 17. Juli 2012, Az: X ZR 117/11, Urteil<br/>vorgehend BPatG München, 14. April 2011, Az: 3 Ni 28/09 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren betreffend ein Europäisches Patent: Prüfungsumfang des Patentgerichts hinsichtlich einer unzulässigen Erweiterung; Verzicht auf die Bestimmung des Erfindungsgegenstands -Polymerschaum II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Polymerschaum II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Prüfung einer unzulässigen Erweiterung muss eine Auslegung des hierauf zu überprüfenden Patentanspruchs vorausgehen, bei der dessen Sinngehalt und insbesondere der Beitrag, den ein streitiges Merkmal zum Leistungsergebnis der Erfindung liefert, zu bestimmen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Von der Bestimmung des Erfindungsgegenstands kann nicht mit der Begründung abgesehen werden, ein Merkmal sei unbestimmt und (deshalb) zur Abgrenzung vom Stand der Technik ungeeignet (im Anschluss an BGH, Urteil vom 31. März 2009, X ZR 95/05, BGHZ 180, 215 - Straßenbaumaschine).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 26. Februar 2013 verkündete Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 102 809 (Streitpatents), das am 30. Juli 1999 unter Inanspruchnahme einer US-amerikanischen Priorität vom 31. Juli 1998 international angemeldet worden ist und Polymerschaum enthaltende Artikel sowie ein Verfahren zu deren Herstellung betrifft. Das Streitpatent umfasst 38 Patentansprüche, von denen die Ansprüche 1 und 15 in der Verfahrenssprache wie folgt lauten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A method for preparing a polymer foam, said method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) providing a plurality of expandable polymeric microspheres and a molten polymer composition containing less than 20 wt.% solvent, each expandable polymeric microsphere including a polymer shell and a core material in the form of a gas, liquid, or combination thereof, that expands upon heating, with the expansion of the core material, in turn, causing the shell to expand;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) melt mixing the molten polymer composition and the plurality of expandable polymeric microspheres, under process conditions, including temperature and shear rate, selected to form an expandable extrudable composition;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) extruding the expandable extrudable composition through a die to form the polymer foam; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) at least partially expanding a plurality of the expandable polymeric microspheres before the expandable extrudable composition exits the die.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">15. An article comprising the polymer foam obtainable according to the method of claim 1."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und die Erfindung sei nicht so deutlich offenbart, dass ein Fachmann sie ausführen könne. Ferner hat die Klägerin sich auf fehlende Patentfähigkeit berufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt. Auf die Berufung der Beklagten hat der Senat das Urteil des Patentgerichts aufgehoben und die Sache zu neuer Verhandlung und Entscheidung an das Patentgericht zurückverwiesen (Urteil vom 17. Juli 2012 - X ZR 117/11, BGHZ 194, 107 = GRUR 2012, 1124 - Polymerschaum, nachfolgend: erstes Berufungsurteil).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent erneut für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, mit der sie weiterhin die Abweisung der Klage anstrebt, soweit sie das Streitpatent verteidigt. Nach ihrem zuletzt gestellten Hauptantrag soll Patentanspruch 1, den sie vor dem Patentgericht noch in der erteilten Fassung verteidigt hat, folgende Fassung erhalten, auf die sich die Unteransprüche 2 bis 14 rückbeziehen sollen (Änderungen gegenüber der erteilten Fassung hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A method for preparing a polymer foam, said method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) providing a plurality of expandable polymeric microspheres and a molten polymer composition containing less than 20 wt.% solvent <strong>in an extruder</strong>, each expandable polymeric microsphere including a polymer shell and a core material in the form of a gas, liquid, or combination thereof, that expands upon heating, with the expansion of the core material, in turn, causing the shell to expand;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) melt mixing the molten polymer composition and the plurality of expandable polymeric microspheres <strong>in the extruder</strong>, under process conditions, including temperature and shear rate, selected to form an expandable extrudable composition;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) extruding the expandable extrudable composition through a die to form the polymer foam; and at least partially expanding a plurality of the expandable polymeric microspheres before the expandable extrudable composition exits the die."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Der nebengeordnete Patentanspruch 15 soll nach dem Hauptantrag die bereits vor dem Patentgericht verteidigte Fassung erhalten, die wie folgt lautet (Änderungen gegenüber der erteilten Fassung hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"An article comprising the polymer foam obtainable according to the method of claim 1, <strong>wherein said polymer foam is an adhesive, and wherein the polymer composition comprises an acrylate or methacrylate adhesive polymer or copolymer.</strong>"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die hierauf rückbezogenen Patentansprüche 16 bis 23 und 25 bis 35 sollen in der erteilten Fassung beibehalten werden. Der nach der erteilten Fassung nebengeordnete Patentanspruch 36 und die hierauf rückbezogenen Unteransprüche 37 und 38 sollen nach dem zuletzt gestellten Hauptantrag entfallen. Hilfsweise verteidigt die Beklagte das Streitpatent in elf geänderten Fassungen. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Parteien haben eine Mehrzahl von Gutachten vorgelegt, die Prof. Dr.-Ing. F.    O.    , Hochschule                          Maschinenbau &amp; Produktion, für die Klägerin und Prof. Dr.-Ing. M.   S.   , Inhaber des Lehrstuhls für Polymerwerkstoffe                , für die Beklagte erstattet haben.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>A. Das Patentgericht hat angenommen, der Gegenstand des Streitpatents sei nicht patentfähig, und hat dies im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 enthalte eine unzulässige Erweiterung gegenüber den Ursprungsunterlagen, die zwar nicht zur Nichtigerklärung, aber dazu führe, dass der Prüfung auf Patentfähigkeit ein um diese Erweiterung bereinigter Gegenstand des Streitpatents zugrunde zu legen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Gegenstand des Streitpatents seien Herstellungsverfahren, die sowohl stofflich als auch verfahrenstechnisch im Rahmen der Anspruchsmerkmale nahezu unbegrenzt breit gestaltbar seien. Sofern in der Beschreibung konkrete Anhaltspunkte zur Auslegung des Anspruchs fehlten, sei auf das Grundwissen des Fachmanns und vorveröffentlichte Fachliteratur zurückzugreifen. Der Begriff "<em>molten polymer composition</em>" sei allein schon wegen der stofflichen Unbestimmtheit des Begriffs Polymerzusammensetzung und den offen formulierten Verfahrensbedingungen nicht durch einen eng festlegbaren Schmelzbereich gekennzeichnet. Ein Schmelzpunkt im herkömmlichen Sinne existiere für Polymere in der Regel nicht, erst recht nicht für komplexe Polymerzusammensetzungen. Der Übergang vom festen in den flüssigen Zustand findet nicht bei einer bestimmten, genau definierten Temperatur statt, sondern in einem von Fall zu Fall unterschiedlich breit ausgeprägten Erweichungsbereich vom festen über den viskosen, schwerflüssigen hin zum verflüssigten Zustand. Der Übergang vom festen in den flüssigen bzw. vollständig geschmolzenen Bereich lasse sich nur durch verschiedene physikalische Parameter kennzeichnen. Der Schermodul sinke mit Beginn des Erweichungsbereichs über den gummi-elastischen Bereich in den mit der Fließtemperatur Tf beginnenden Bereich einer Schmelze mit zunehmender Temperatur gegen Null. Die das Fließverhalten einer Polymerschmelze besonders kennzeichnende Größe sei jedoch die Viskosität, die mit steigender Temperatur abnehme. Die unter den Patentanspruch 1 subsumierbaren Polymerzusammensetzungen wiesen, von wenigen Ausnahmen abgesehen, mehr oder weniger ausgeprägt breite Erweichungs- bzw. Verflüssigungsbereiche auf, innerhalb deren sie zwar so weich seien, dass sie im Extruder relativ gut gemischt und verarbeitet werden könnten, bei denen ein geschmolzener Zustand jedoch noch nicht vorliege und für die Verarbeitung auch nicht zwingend erforderlich sei. Die Frage, zu welchem Zeitpunkt und bei welcher Temperatur eine Polymerzusammensetzung als geschmolzen zu bezeichnen sei, trete gegenüber diesen Verarbeitungserfordernissen in den Hintergrund und sei aufgrund der Komplexität der Zusammensetzung der Polymermatrix in vielen, wenn nicht in den meisten Fällen nicht oder nur schwer festzulegen, im Streitfall letztlich aber ohne Bedeutung. Da das Streitpatent auch bis zu 20 Gewichtsprozent eines beliebigen Lösungsmittels zulasse, sei der Begriff "<em>molten polymer composition</em>" nicht nur unbestimmt, sondern vielmehr zur Kennzeichnung und insbesondere zur Abgrenzung zum Stand der Technik ungeeignet und aufgabenhaft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die in der Formulierung "Bereitstellen einer geschmolzenen Polymerzusammensetzung" (<em>providing a molten polymer composition</em>) zum Ausdruck kommende Reihenfolge der Verfahrensschritte dergestalt, dass die Polymerzusammensetzung vor Zugabe der Mikrokugeln geschmolzen sein müsse, werde in den ursprünglichen Anmeldeunterlagen (veröffentlicht als WO 00/06637) nicht offenbart. Weder die Ansprüche noch die Beschreibung der Anmeldung enthielten den Begriff "<em>molten polymer composition</em>" als solchen. Auch sonst fänden sich keine Anhaltspunkte in den Anmeldeunterlagen, dass die Polymerzusammensetzung in geschmolzenem Zustand bereitzustellen und die Mikrokugeln ausschließlich der bereits geschmolzenen Polymermasse zuzugeben seien. Der auch in den ursprünglichen Anmeldeunterlagen verwendete Fachbegriff des Schmelzmischens (<em>melt mixing</em>) sage nichts darüber aus, in welchem Zustand die zu mischenden Komponenten vorgelegt würden. Insbesondere könne aus diesem Begriff nicht auf den Einsatz einer bereits vor der Zugabe der Mikrokugeln in den Extruder geschmolzenen Polymermischung geschlossen werden. Denn beim Schmelzmischen würden die zur Herstellung von Polymermischungen eingesetzten Polymere für gewöhnlich in ihrem Ist-Zustand bei Raumtemperatur in dem gegebenenfalls vorgeheizten Mischgefäß vorgelegt und in der bei einer gewählten Temperatur entstehenden Schmelze gemischt, um eine möglichst homogene Schmelze zu erhalten. Dass die Polymerzusammensetzung bei Zugabe der Mikrokugeln in geschmolzenem Zustand vorliegen müsse, werde auch nicht implizit durch die Beschreibung des Extrusionsverfahrens in den Ausführungsbeispielen offenbart, und zwar weder in den Beispielen, die sich auf Polymerzusammensetzungen beliebiger Art bezögen noch in den Beispielen, die die speziellen Hot-Melt-Zusammensetzungen beträfen. Insgesamt enthielten die allgemeine Beschreibung der Anmeldung und die Ausführungsbeispiele keinen Hinweis darauf, dass zwischen dem Erweichungs-, Fließ- und Schmelzverhalten der Zusammensetzung der Polymermatrix und der Zugabe der Mikrokugeln ein Zusammenhang bestehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Damit enthalte Patentanspruch 1 in der mit dem Hauptantrag verteidigten Fassung mit der Vorgabe, dass eine geschmolzene Polymerzusammensetzung bereitzustellen sei, ein in den ursprünglichen Anmeldeunterlagen nicht offenbartes Merkmal. Da die Zugabe der Mikrokugeln in eine zum Zeitpunkt der Zugabe bereits geschmolzene Polymerzusammensetzung einer von vielen unter die in den ursprünglichen Anmeldeunterlagen offenbarte Lehre subsumierbaren, möglichen Verfahrensabläufen darstelle, stelle die im Erteilungsverfahren vorgenommene Festlegung auf diese Verfahrensgestaltung gegenüber dem Gegenstand der ursprünglichen Anmeldung allerdings weder eine Erweiterung noch ein Aliud dar, so dass eine Nichtigerklärung des Streitpatents wegen unzulässiger Erweiterung nicht in Betracht komme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 in der mit dem Hauptantrag verteidigten Fassung sei nicht patentfähig. Dieser Beurteilung stehe nicht entgegen, dass der Bundesgerichtshof den Gegenstand von Patentanspruch 1 im ersten Berufungsurteil für neu und auf erfinderischer Tätigkeit beruhend erachtet habe. Die Bindungswirkung des ersten Berufungsurteils beschränke sich auch nach dem reformierten Patentnichtigkeitsverfahrensrecht auf den Fall, dass der zu beurteilende Sachverhalt gleich bleibe, mithin der zu berücksichtigende Stand der Technik oder die zu beurteilende Fassung des Streitpatents sich nicht änderten. Im Streitfall habe sich die Beurteilungsgrundlage insofern geändert, als das nicht in den ursprünglichen Anmeldeunterlagen offenbarte Merkmal bei der Prüfung der Patentfähigkeit außer Betracht zu lassen sei und die Klägerin im Rahmen der neuen Verhandlung nach der Zurückverweisung des Verfahrens neuen Stand der Technik eingeführt habe. Neues tatsächliches Vorbringen sei durch die Bindungswirkung des ersten Berufungsurteils nicht ausgeschlossen. Danach werde der Gegenstand von Patentanspruch 1 in der mit dem Hauptantrag verteidigten Fassung von mehreren Entgegenhaltungen vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>B. Dies hält der Nachprüfung im Berufungsverfahren nur im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft in der verteidigten Fassung Polymerschaum enthaltende Erzeugnisse und Verfahren zu deren Herstellung in einem Extruder.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Solche Gegenstände waren im Prioritätszeitpunkt des Streitpatents bereits bekannt und finden in unterschiedlichen Bereichen wie beispielsweise in der Luftfahrt, im Fahrzeugbau und auf medizinischem Gebiet Verwendung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Polymerschaum zeichnet sich dadurch aus, dass er eine geringere Dichte aufweist als die in ihm enthaltende Polymermatrix. Die Reduzierung der Dichte wird mit unterschiedlichen Verfahrensweisen erreicht, so durch die Erzeugung von gasgefüllten Hohlräumen in der Matrix (z.B. mit Hilfe eines Treibmittels) oder durch das Zusetzen polymerer, insbesondere expandierbarer Mikrokugeln oder nicht-polymerer wie gläserner Mikrokugeln. Die Streitpatentschrift verweist in diesem Zusammenhang auf die deutsche Offenlegungsschrift 195 31 631 (E01), die ein Verfahren zur Herstellung eines thermoplastischen Polymerschaums mittels Extrusions- oder Spritzgussmaschinen betrifft (Beschr. Abs. 2, 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>In der Streitpatentschrift wird nicht ausdrücklich angegeben, welches technische Problem das Streitpatent betrifft. Es lässt sich allgemein dahin formulieren, ein Verfahren zur Verfügung zu stellen, bei dem das Aufschäumen mittels expandierbarer Mikrokugeln zuverlässig und ohne Zerstörung der Mikrokugeln möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung des Problems schlägt das Streitpatent in der mit dem Hauptantrag zuletzt verteidigten Fassung von Patentanspruch 1 ein Verfahren mit folgenden Merkmalen vor:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Verfahren zur Herstellung eines Polymerschaums durch Bereitstellen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 von mehreren expandierbaren polymeren Mikrokugeln und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 einer geschmolzenen Polymerzusammensetzung (<em>molten polymer composition</em>)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.3 in einem Extruder.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die geschmolzene Polymerzusammensetzung enthält weniger als 20 Gewichtsprozent Lösungsmittel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Jede expandierbare polymere Mikrokugel umfasst eine Polymerhülle und ein Kernmaterial, das</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 aus einem Gas, einer Flüssigkeit oder einer Kombination davon besteht und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 beim Erwärmen expandiert, was zur Expansion der Polymerhülle führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die geschmolzene Polymerzusammensetzung und die expandierbaren Mikrokugeln werden im Extruder schmelzgemischt (<em>melt mixing the molten polymer composition and the plurality of expandable polymeric microspheres in the extruder</em>), wobei die Prozessbedingungen einschließlich Temperatur und Schergeschwindigkeit so gewählt werden, dass eine Zusammensetzung gebildet wird, die</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1 extrudierbar und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2 expandierbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Die expandierbare extrudierbare Zusammensetzung wird durch eine Düse extrudiert, um den Polymerschaum zu bilden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. Mehrere der expandierbaren polymeren Mikrokugeln expandieren zumindest teilweise, bevor die expandierbare, extrudierbare Zusammensetzung aus der Düse tritt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Der mit dem Hauptantrag beanspruchte nebengeordnete Erzeugnisanspruch 15 ist auch in seiner verteidigten Fassung als Product-by-Process-Anspruch ausgestaltet und dadurch definiert, dass die Erzeugnisse durch das Verfahren nach Patentanspruch 1 erhältlich sind, wobei der Polymerschaum ein Klebstoff ist und die Polymerzusammensetzung ein adhäsives Acrylat- oder Methacrylat-Polymer oder -Copolymer enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>3. Für die Auslegung von Patentanspruch 1 ist der sowohl in Merkmal 1.2 als auch in Merkmal 4 verwendete Begriff der "<em>molten polymer composition</em>" von zentraler Bedeutung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Die Parteien vertreten unterschiedliche Auffassungen dazu, unter welchen Voraussetzungen eine Polymerzusammensetzung im Sinne von Patentanspruch 1 als "geschmolzen" (<em>molten</em>) anzusehen ist. Die Beklagte knüpft an das Durchschreiten des Glasübergangstemperaturbereichs an, in dessen Mitte die Glasübergangstemperatur T<sub>g</sub> liegt, die durch das relative Maximum der tan-δ-Kurve gekennzeichnet ist. Sie ist der Ansicht, dass eine geschmolzene Polymerzusammensetzung bereits dann vorliegt, wenn die - infolge der Erwärmung der Polymerzusammensetzung einsetzenden - Mikro-Brownschen-Bewegungen zu Gestaltänderungen der Kettenmoleküle in der Weise führen, dass das Polymer elastisch ("gummi-elastisch") und in der Mitte dieses gummi-elastischen Bereichs das relative Minimum der tan-δ-Kurve durchschritten wird. Sie stützt sich dabei darauf, dass die Polymermatrix, wie auch das Patentgericht ausgeführt hat, in diesem Stadium ihr mechanisches Struktur- und rheologisches Fließverhalten kontinuierlich infolge der steigenden Temperatur verändert und verarbeitbar wird. Dagegen kann nach Ansicht der Klägerin von einer geschmolzenen Polymerzusammensetzung erst dann die Rede sein, wenn die durch Steigerung der Temperatur stärker werdenden Brownschen Molekularbewegungen den Zusammenhalt der Molekülketten weiter dadurch reduzieren, dass die Verschlaufungen der Molekülketten gelöst und wieder neu gebildet würden. Erst dann sei das Polymer nicht mehr elastisch, sondern gehe in einen "geschmolzenen" Zustand über.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>b) Das Patentgericht hat - insoweit von den Parteien unbeanstandet - festgestellt, dass für Polymere und erst recht für komplexe Polymerzusammensetzungen kein Schmelzpunkt im herkömmlichen Sinn besteht (übereinstimmend die von den Parteien vorgelegten Gutachten, s. nur Gutachten S.   [G9], S. 3-7, und Gutachten O.    [K4], S. 7-11). Es hat weiter angenommen, dass die unter Patentanspruch 1 subsumierbaren Matrix(co)polymere mehr oder weniger breite Erweichungs- bzw. Verflüssigungsbereiche aufwiesen, innerhalb deren sie im Extruder mit anderen Zusatzstoffen gut gemischt und verarbeitet werden könnten. In dieser Phase seien die Polymere noch nicht geschmolzen, was für die Verarbeitung aber auch nicht zwingend erforderlich sei. Zu welchem Zeitpunkt und bei welcher Temperatur die Polymerzusammensetzung als geschmolzen zu bezeichnen sei, lasse sich letztlich nicht oder kaum festlegen, weswegen das Merkmal unbestimmt und "zur Abgrenzung vom Stand der Technik ungeeignet" sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Damit hat es das Patentgericht unterlassen, den Gegenstand des Streitpatents im Lichte der Gesamtoffenbarung der Patentschrift zu bestimmen, bevor es sich der Frage zuwandte, ob dieser Gegenstand gegenüber den ursprünglichen Unterlagen unzulässig erweitert ist. Ein erteilter Patentanspruch hat Rechtsnormcharakter (BGH, Beschluss vom 8. Juli 2008 - X ZB 13/06, GRUR 2008, 887 Rn. 13 - Momentanpol II), und es ist eine Rechtsfrage, was sich aus einem Patentanspruch als geschützter Gegenstand ergibt (st. Rspr. seit BGH, Urteil vom 18. Mai 1999 - X ZR 156/97, BGHZ 142, 7 - Räumschild). Die verbindliche Beantwortung von Rechtsfragen ist Aufgabe des angerufenen Gerichts, von der es auch dann nicht entbunden ist, wenn die Rechtsnorm unklar oder deren Auslegung schwierig ist. Ebenso wenig wie der Verletzungsrichter sich darauf zurückziehen darf, den Erfindungsgegenstand ganz oder teilweise nicht bestimmen zu können (BGH, Urteil vom 31. März 2009 - X ZR 95/05, BGHZ 180, 215 Rn. 16 - Straßenbaumaschine), kann das Patentgericht von der Bestimmung des Erfindungsgegenstands mit der Begründung absehen, ein Merkmal sei unbestimmt und (deshalb) zur "Abgrenzung vom Stand der Technik" ungeeignet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Der Sinngehalt eines Merkmals ist mit Blick darauf zu ermitteln, was mit dem Merkmal aus der Sicht des Fachmanns im Hinblick auf die Erfindung erreicht werden soll. Dabei können der allgemeine wie auch der übliche fachliche Sprachgebrauch Anhaltspunkte für das Verständnis des Fachmanns geben. Mit Rücksicht darauf, dass Begriffe in einer Patentbeschreibung abweichend vom allgemeinen Sprachgebrauch benutzt werden können, ist letztlich aber der sich aus dem Gesamtzusammenhang der Patentschrift ergebende Begriffsinhalt maßgeblich. Für einen Rückgriff auf den allgemeinen Sprachgebrauch ist umso weniger Raum, je mehr der Inhalt der Patentschrift auf ein abweichendes Verständnis hindeutet (BGH, Urteil vom 2. März 1999 - X ZR 85/96, GRUR 1999, 909, 911 f. - Spannschraube). Soweit es die Heranziehung der Beschreibung in ihrer Gesamtheit für die Anspruchsauslegung betrifft, ist grundsätzlich ein Verständnis des Anspruchs angezeigt, das im Einklang mit den Erläuterungen in der Beschreibung insgesamt steht. Nur wenn und soweit sich daraus ein Verständnis des Anspruchs ergeben würde, das eindeutig nicht dem entsprechen kann, was unter Schutz gestellt werden soll, ist der Schluss gerechtfertigt, dass aus Teilen der Beschreibung keine Schlussfolgerungen in Bezug auf den geschützten Gegenstand gezogen werden dürfen. Eine Auslegung des Patentanspruchs, die zur Folge hätte, dass keines der in der Patentschrift geschilderten Ausführungsbeispiele vom Gegenstand des Patents erfasst würde, kommt nur dann in Betracht, wenn andere Auslegungsmöglichkeiten, die zumindest zur Einbeziehung eines Teils der Ausführungsbeispiele führen, zwingend ausscheiden oder wenn sich aus dem Patentanspruch hinreichend deutliche Anhaltspunkte dafür entnehmen lassen, dass tatsächlich etwas beansprucht wird, das so weitgehend von der Beschreibung abweicht (BGH, Urteil vom 14. Oktober 2014 - X ZR 35/11, GRUR 2015, 159 Rn. 26 - Zugriffsrechte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>4. Wann i. S. der Lehre des Streitpatents von einer "geschmolzenen" Polymerzusammensetzung ("<em>molten polymer composition</em>") gesprochen werden kann, ist funktionell zu bestimmen. Die Polymerzusammensetzung muss bei Zugabe der Mikrokugeln nicht im strengen Sinne geschmolzen, sondern ihre Viskosität muss lediglich soweit herabgesetzt sein, dass sie in einem Extruder verarbeitbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>a) Der Senat hat im ersten Berufungsurteil ausgeführt, dass der sowohl in Merkmal 1.2 als auch in Merkmal 4 verwendete Begriff der "<em>molten polymer composition</em>" eine Reihenfolge der Verfahrensschritte zum Ausdruck bringt, nach der die expandierbaren Mikrokugeln einer bereits vor der Beimischung "geschmolzenen" Polymerzusammensetzung zugesetzt werden. Dabei ist der Senat davon ausgegangen, dass der Fachmann mit dem Begriff "<em>molten polymer composition</em>" einen eindeutigen Sinngehalt verbindet und dass demgemäß die Temperatur der zu extrudierenden Polymerzusammensetzung "schon vor Zufügung der Mikrokugeln über dem Schmelzpunkt der Polymerzusammensetzung liegen muss" (so wörtlich Rn. 32 aE des ersten Berufungsurteils). Ferner hat er es für möglich gehalten und daher die Sache auch insoweit zur weiteren Prüfung durch das mit fachkundigen technischen Richtern besetzte Patentgericht zurückverwiesen, dass bei den Ausführungsbeispielen tatsächlich der Schmelzpunkt überschritten ist. An diesen Annahmen kann auf der Grundlage der Feststellungen im zweiten Urteil des Patentgerichts und des Vortrags der Parteien zum Schmelzpunkt von amorphen Polymeren oder Polymerzusammensetzungen der in Rede stehenden Art und zum Verständnis der Ausführungsbeispiele nicht festgehalten werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Die Streitpatentschrift enthält, wie das Patentgericht insoweit zutreffend ausführt, keine ausdrücklichen Angaben dazu, was im Hinblick darauf, dass bei Polymerzusammensetzungen kein exakt zu bestimmender Schmelzpunkt existiert, unter einer erfindungsgemäßen geschmolzenen Polymerzusammensetzung im Sinne der Merkmale 1.2 und 4 zu verstehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Nach dem allgemeinen fachlichen Verständnis, von dem auch die Gutachter beider Parteien übereinstimmend ausgehen, werden bei amorphen Polymeren die drei Aggregatzustände Glaszustand, gummi-elastischer Zustand und Schmelze unterschieden, wobei der Übergang von einem Aggregatzustand in den nächsten anders als bei kristallinen Stoffen bei Erhöhung der Temperatur nicht abrupt erfolgt. Vielmehr liegen zwischen den Aggregatzuständen die Übergangsbereiche Erweichung und Fließtemperatur (vgl. Schwarzl, Polymermechanik, Springer Verlag 1990, S. 86-91; Gutachten O.    [K4], S. 11-15; Gutachten S.   [G9], S. 2-7). In welchem Aggregatzustand sich ein Polymer befindet, richtet sich nach dem Verhältnis zwischen dem Speicherschermodul G' und dem Verlustschermodul G''. Der Speicherschermodul G' bezieht sich auf die Fähigkeit eines Werkstoffs, eine durch eine Belastung eingetretene Deformation wieder rückgängig machen zu können, d.h. das reversible elastische Verhalten (als Festkörpereigenschaft), während der Verlustschermodul G'' das "irreversible" viskose Verhalten eines Werkstoffs (als Flüssigkeitseigenschaft) beschreibt, bei dem die durch molekularen Veränderungen eingetretenen Deformationen nicht mehr zurückgestellt werden. Der Quotient von G'' und G' ergibt den Verlustfaktor tan δ. Im Glaszustand ist der Speicherschermodul höher als der Verlustschermodul. Bei steigender Temperatur nimmt der Verlustschermodul stetig zu, während der Speicherschermodul abnimmt. Im gummi-elastischen Zustand erreicht der Verlustfaktor ein lokales Minimum und steigt bei zunehmender Temperatur mit Abnahme des Speicherschermoduls an (vgl. Schwarzl, aaO, S. 90). Nach einer soweit ersichtlich allgemein anerkannten Definition markiert ein tan-δ-Wert von 1, bei dem mithin Speicherschermodul und Verlustschermodul gleich groß sind, bei Polymeren den Übergang vom Festkörper zum "flüssigen", d.h. geschmolzenen, Zustand. Auch in Patentanmeldungen der Beklagten (US 5 593 628, Sp. 17 Z. 35-39 und WO 98/46197, S. 5 Z. 12-15) wird von diesen Werten als Grenze für den Übergang zur Schmelze ausgegangen. Ebenso geht der Parteigutachter S.   von diesen Grenzwerten aus, wenn er ausführt, dass die Temperatur oberhalb der Schmelztemperatur, bei der Speicher- und Verlustmodul gleich sind und der Verlustfaktor tan δ somit 1 beträgt, einen Zustand der Polymerschmelze bezeichne, in der diese weniger elastisch und der viskose Anteil höher sei als bei der niedrigeren Temperatur, bei der der Verlustfaktor tan δ ein lokales Minimum betrage, der Werkstoff somit keine Formstabilität mehr besitze und von selbst verlaufe (G9 S. 5 Mitte; vgl. auch G11 S. 2 oben: "formale Definition einer Schmelztemperatur über das Kriterium tan δ = 1").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>bb) Allerdings ist - worauf der Parteigutachter S.   in Übereinstimmung mit den Ausführungen des Patentgerichts zu Recht hinweist - für die Verarbeitbarkeit von schmelzenden Polymerwerkstoffen nicht der Verlustfaktor tan δ entscheidend, sondern die bei der gewünschten Verarbeitungstemperatur vorliegende Viskosität als Maß für den Fließwiderstand eines Fluids (G11 S. 2 oben). Der Gutachter führt ferner aus, dass sich für die in seinem Gutachten vom 24. Mai 2012 (G7) angegebene Grenzviskosität von 10<sup>4</sup> Pa<sup>.</sup>s für die untersuchten Heißschmelzzusammensetzungen "Schmelztemperaturen" ergäben, die praktisch mit denen zusammenfielen, die aus der Heranziehung des Minimums der tan-δ-Kurve resultierten (G11 S. 5 oben), wobei zu beachten sei, dass die tatsächliche Viskosität über der Null-Viskosität liege, da die Polymerzusammensetzung im Extruder höheren Scherraten ausgesetzt sei (G11 S. 10 Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>cc) Dafür, den Begriff "<em>molten polymer composition</em>" in diesem Sinne funktionell zu interpretieren, spricht der Gesamtinhalt der Beschreibung des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(1) Soweit das Extrusionsverfahren im Allgemeinen beschrieben wird, finden sich in der Beschreibung keine Hinweise darauf, dass die expandierbaren Mikrokugeln erst dann zugesetzt werden sollen, wenn die Polymerzusammensetzung geschmolzen ist. Als Parameter für die Temperatur wird lediglich die Expansion der Mikrokugeln genannt; die vorzugswürdige Temperatur soll unter derjenigen liegen, die zur Expansion der Mikrokugeln führt. Wird die Temperatur höher gewählt, was nach der Beschreibung möglich ist, muss sie nach dem Mischen und vor dem Beifügen der Mikrokugeln wieder heruntergesetzt werden (S. 16 Z. 14-17). In jedem Fall sollen Temperaturen vermieden werden, die zu einer unerwünschten vorzeitigen Expansion der Mikrokugeln während des Mischvorgangs führen (S. 16 Z. 29 - S. 17 Z. 1). Zu der Frage, wie sich die Temperatur auf die Polymermischung auswirkt bzw. auswirken soll, nämlich ob diese bereits den Schmelzpunkt überschritten haben soll, enthält die Beschreibung der Anmeldung an dieser Stelle keine Aussage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(2) Ebensowenig offenbart die Beschreibung des Extrusionsverfahrens in den die Hot-Melt-Zusammensetzungen 1 bis 10 betreffenden Ausführungsbeispielen eine solche technische Lehre. Der Fachmann kann diesen Beispielen nicht entnehmen, dass die Polymerzusammensetzung bereits vollständig geschmolzen ist, wenn die Mikrokugeln zugegeben werden. Das Patentgericht hat nichts dafür festgestellt, dass der Fachmann der Offenbarung etwas anderes entnimmt, als dasjenige, was es selbst als fachmännisches Wissen beschreibt, dass es nämlich unerheblich ist, ob eine Polymerzusammensetzung zu einem bestimmten Zeitpunkt des Extrusionsprozesses bereits vollständig geschmolzen ist, solange die Viskosität hinreichend herabgesetzt und eine gute Durchmischung, hier auch mit den expandierbaren Mikrokugeln, gewährleistet ist, wobei die Temperaturen ohnehin nicht so hoch sein dürfen, dass die Mikrokugeln vorzeitig expandieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Allerdings ist das Patentgericht unzutreffend davon ausgegangen, dass der Extrusionsprozess in den Beispielen des Streitpatents über die gesamte Extruderstrecke bei 93,3°C durchgeführt wird. Diese Temperaturangabe bezieht sich lediglich auf den in einem ersten Extruder (Bonnot-Extruder) durchgeführten Verfahrensabschnitt, bei dem die Heißschmelzzusammensetzung gemischt wird. Der gemischte Schmelzklebstoff wird anschließend in einen - zweiten - (Doppelschnecken-)Extruder mit drei Einlassöffnungen (Pfleider-Extruder) eingespeist, in dem die Temperatur auf den in den Ausführungsbeispielen jeweils angegebenen Wert eingestellt wird. Da die Mikrokugeln erst in diesem zweiten Extruder über die dritte Öffnung zugegeben werden, kommt es für die Frage, ob die Polymerzusammensetzung zu diesem Zeitpunkt geschmolzen ist, auf die Temperatur im zweiten Extruder in diesem Streckenabschnitt an. Diese variiert von 82°C (Beispiele 10 und 11) bis 121°C (Beispiele 6, 7, 8, 9, 14, 15, 50, 51 und 52).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Gleichwohl ergeben die Beispiele nicht, dass die Heißschmelzzusammensetzungen im Zeitpunkt der Zugabe der Mikrokugeln in einem vollständig geschmolzenen Zustand vorliegen, da ihre Schmelztemperatur (im Sinne eines Verlustfaktors von 1) - wie der Parteigutachter O.    dargelegt hat (K4) - über den Verarbeitungstemperaturen im Extruder liegt. Den Ausführungsbeispielen lässt sich damit lediglich entnehmen, wie die Beklagte mit dem Gutachten S.   (G7) belegt hat, dass die Mikrokugeln der Polymerzusammensetzung zugegeben werden, wenn der Verlustfaktor tan δ sein lokales Minimum durchschritten hat, also unter einem Wert von 1 liegt, und die Polymermatrix sich damit im gummi-elastischen, verarbeitbaren Zustand befindet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(3) Schließlich lässt sich auch dem beschriebenen apparativen Aufbau nicht entnehmen, dass die Polymerzusammensetzung bereits geschmolzen ist, wenn die Mikrokugeln zugegeben werden. Die Zahnradpumpe wird zur Steuerung der Fließgeschwindigkeit im ersten Extruder eingesetzt, in dem eine Temperatur von 93,3°C herrscht. Bei dieser Temperatur ist die Polymerzusammensetzung nicht im strengen Sinne (Verlustfaktor tan δ = 1) geschmolzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>c) Der Umstand, dass, wie auch das Patentgericht angenommen hat und die Klägerin unter Bezugnahme auf die Ausführungen ihres Gutachters geltend macht, <em>keinem</em> der Beispiele zu entnehmen ist, dass die Temperatur der Polymermischung bei Zufügung der Mikrokugeln über der Schmelztemperatur im engeren, strengen Sinne liegt, sowie die funktionsorientierte Erwägung, dass es nur darauf ankommt, die Viskosität so weit herabzusetzen, dass sich die Polymerzusammensetzung gut im Extruder verarbeiten und mit den Mikrokugeln vermischen lässt, schließen ein Verständnis aus, nach dem Speicherschermodul und Verlustschermodul gleich groß sein müssen und mithin tan δ einen Wert von ³ 1 annehmen muss, wenn von einer "<em>molten polymer composition</em>" soll gesprochen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>5. Ist danach der Begriff "<em>molten polymer composition</em>" in den Merkmalen 1.2 und 4 dahin zu verstehen, dass die Polymerzusammensetzung bei Zugabe der Mikrokugeln nicht im strengen Sinne geschmolzen sein muss, sondern lediglich ihre Viskosität soweit herabgesetzt sein muss, dass sie in einem Extruder verarbeitbar ist, enthält der Gegenstand des Streitpatents insoweit keine unzulässige Erweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>II. Dennoch hat die Berufung im Ergebnis keinen Erfolg. Denn der so verstandene Gegenstand des Streitpatents ist nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>1. Die erneute Prüfung der Patentfähigkeit ist nicht deshalb entbehrlich, weil sie der Senat im ersten Berufungsurteil bereits bejaht hat. Diese Bewertung beruhte auf dem am Ende der damaligen mündlichen Berufungsverhandlung gegebenen Sachstand und den entsprechenden Erkenntnismöglichkeiten. Die tatsächliche Grundlage der Beurteilung hat sich nunmehr jedoch geändert, weil nach dem ersten Berufungsurteil tatsächliche Erkenntnisse über die Verarbeitung amorpher Polymere im Extruder hinzugekommen sind, die, wie ausgeführt, andere Schlussfolgerungen für das Verständnis der "<em>molten polymer composition</em>" gebieten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>2. Das Patentgericht hat zur Patentfähigkeit ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die deutsche Offenlegungsschrift 195 31 631 (E01) betreffe ein Verfahren zur Herstellung thermoplastischer Kunststoffschäume mit syntaktischer Schaumstruktur. Danach werde ein Gemisch aus thermoplastischem Polymer bzw. einer thermoplastischen Zusammensetzung und expandierbaren polymeren Mikrokugeln ohne Zusatz von Lösemitteln in geschmolzenem Zustand im Extruder durch eine Düse extrudiert. Die von der Lehre der E01 umfassten Ausführungsformen des Extrusionsverfahrens wiesen sämtliche Merkmale des streitpatentgemäßen Verfahrens auf. Da aus dem Wortlaut des Patentanspruchs 1 des Streitpatents in der erteilten Fassung nicht hervorgehe, wann genau im Verfahrensablauf die im Verfahrensschritt d vorgesehene mindestens teilweise Expansion der Mikrokugeln erfolge, erfasse das patentgemäße Verfahren sowohl Ausführungsformen, bei denen nahezu die gesamte Expansion bereits vor dem Austritt der Polymermasse aus der Extruderdüse stattfinde, als auch Ausführungsformen, bei denen nur eine geringfügige Expansion vor dem Austritt aus der Düse und die vollständige Expansion erst nach dem Austritt aus der Düse erfolge. Da das Merkmal, dass die Polymerzusammensetzung zunächst vollständig geschmolzen sein müsse, bevor die expandierbaren polymeren Mikrokugeln zugesetzt würden, nicht zu berücksichtigen sei, könne auch dahinstehen, dass die Temperaturführung in den Ausführungsbeispielen der E01, in denen die Temperaturen im Extrusionszylinder bei 395 bis 405 K und damit jedenfalls oberhalb des Schmelz- bzw. Erweichungsbereichs der eingesetzten Polyethylene lägen, sich nicht wesentlich von der Temperaturführung in den Ausführungsbeispielen des Streitpatents unterscheide.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Das Verfahren gemäß Patentanspruch 1 sei auch gegenüber der Abhandlung von Elfving, Foaming Plastics With Expancel Microspheres, Seminarbeitrag 19. Februar 1998, RAPRA Technology Ltd. (E02), nicht neu. Diese Abhandlung befasse sich mit dem Aufschäumen von Polymermassen mittels "Expancel"-Mikrokugeln. Sie betreffe - wie sich bereits aus ihrem Titel ergebe - Produkte eines Verfahrens mit den Kriterien der Merkmalsgruppen 1 und 3 und offenbare auch die übrigen Merkmale von Patentanspruch 1. So expandierten die Mikrokugeln schon teilweise im Extruderzylinder und damit vor dem Austritt aus der Extruderdüse, womit auch die Merkmale 5 und 6 offenbart seien. Die aufgabenhaft gehaltenen Merkmale der Merkmalsgruppe 4, wonach das Schmelzmischen der geschmolzenen Polymerzusammensetzung und der expandierbaren polymeren Mikrokugeln hinsichtlich Temperatur und Schergeschwindigkeit unter solchen Prozessbedingungen durchzuführen sei, dass eine expandierbare, extrudierbare Masse entstehe, stellten Selbstverständlichkeiten bei der Extrusion von Thermoplasten mit Mikrokugeln dar, die sich für den Fachmann auch aus den Temperaturangaben und den ihm geläufigen Erweichungs- und Schmelzbereichen der in der E02 verwendeten thermoplastischen Elastomere ergäben. Insoweit stünden fehlende Ausführungen in der E02 hierzu der Annahme der fehlenden Neuheit nicht entgegen. Entsprechendes gelte in Bezug auf Merkmal 2, das die E02 ebenfalls nicht ausdrücklich erwähne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn man mit der Beklagten von der Neuheit des Gegenstands von Patentanspruch 1 ausginge, sei die Patentfähigkeit jedenfalls deshalb zu verneinen, weil die E02 dem Fachmann das erfindungsgemäße Verfahren nahegelegt habe. Die Entgegenhaltung E02 gebe nicht nur die Anregung, Extrudate aus geeigneten thermoplastischen Zusammensetzungen als Polymermatrix und expandierbaren und extrudierbaren polymeren Mikrokugeln herzustellen, sondern vermittle eine ausreichende technische Lehre, so dass der Fachmann aufgrund seines Fachwissens ohne weiteres zu den für den jeweiligen Anwendungszweck maßgeschneiderten Verfahren mit den Merkmalen von Patentanspruch 1 des Streitpatents habe gelangen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 sei aber selbst bei Berücksichtigung des Merkmals "geschmolzene Polymerzusammensetzung" im Hinblick auf die im Rahmen der erneuten Verhandlung vor dem Patentgericht von der Klägerin als weitere Entgegenhaltung eingeführte internationale Anmeldung WO 97/47681 (E19) nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>3. Diese Beurteilung hält der Überprüfung im Berufungsverfahren im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Annahme des Patentgerichts wird der Gegenstand von Patentanspruch 1 in der verteidigten Fassung zwar nicht durch die deutsche Offenlegungsschrift 195 31 631 (E01) vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Die Entgegenhaltung E01 betrifft ein Verfahren zur Herstellung von thermoplastischen Kunststoffschäumen mit syntaktischer Schaumstruktur, bei dem handelsübliche Massenkunststoffe unter Verwendung von mit Gas oder Flüssigkeit gefüllten, thermoplastischen, unter Wärmeeinwirkung expandierenden Mikroballons in einem Extruder gemischt und aufgeschäumt werden (Sp. 1 Z. 1-12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>(1) Die expandierbaren Mikroballons bestehen in den Ausführungsbeispielen aus einer Polyacrylnitrilhülle und ca. 18 Gewichtsprozent eingeschlossenem Isopentan; dies entspricht den Merkmalen 1.1 und 3. Sie werden mit einer Polymerzusammensetzung, der kein Lösungsmittel zugesetzt wird, in einem Extruder verarbeitet (Merkmale 1.3 und 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>(2) Nach der Beschreibung ist das Verfahren nach der E01 dadurch gekennzeichnet, dass den zu verarbeitenden Matrixkunststoffen mit hohen Erweichungs- oder Schmelztemperaturen Komponenten beigemischt werden, die bereits vor Erreichen der Temperaturen, bei denen die Mikrokugeln expandieren, Schmelzanteile bilden. Durch die früh gebildeten Schmelzanteile soll der Aufbau von Druck noch vor dem (vollständigen) Schmelzen der Matrixpolymere ermöglicht und die Expansion der Mikroballons im Extruder oder der Spritzgussmaschine während der Existenz fester, höherschmelzender Matrixkunststoffanteile wirksam verhindert und ferner die Einwirkung von Scherkräften auf die Mikrokugeln weitgehend vermieden werden (Sp. 4 Z. 22-39). Das Expansionsvermögen der Mikrokugeln soll so für das scherwirkungsfreie Stadium nach dem Verlassen der Extruderdüse bewahrt und zur Ausbildung der angestrebten syntaktischen Schaumstrukturen nahezu vollständig nutzbar gemacht werden (Sp. 4 Z. 43-47). Damit sind auch die Merkmalsgruppe 4 und Merkmal 5 verwirklicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(3) Entgegen der Auffassung der Beklagten offenbart die E01 auch das Merkmal 6. Zwar besteht der Grundgedanke der E01 darin, einer vorzeitig, d.h. vor dem Verlassen der Extruderdüse, eintretenden Expansion der Mikrokugeln aufgrund der zum Aufschmelzen des Polymers erforderlichen Temperatur durch Druckaufbau entgegenzuwirken. Wie sich jedoch insbesondere der Beschreibung der Beispiele 2, 3 und 7 entnehmen lässt, ermöglicht das erfindungsgemäße Verfahren die <em>nahezu vollständige</em> (Beispiele 2 und 3) oder <em>hochgradige</em> (Beispiel 7) Nutzung des Expansionsvolumens der Mikroballons zur Bildung der syntaktischen Schaumstruktur. Danach kann praktisch nicht ausgeschlossen werden, dass Mikrokugeln bereits vor dem Austritt aus der Extruderdüse zumindest teilweise expandieren. Bestätigt wird dies auch durch die Ausführungen in E02 (S. 3 lk. Sp. "Extrusion" Abs. 2). Dort heißt es, dass die Expansion zwar größtenteils hinter der Düse stattfinden solle, wenn der Druck abfalle. Die zum Aufschäumen verschiedener Polymere geeigneten Expancel-Mikrokugeln begännen aber schon im Extrusionszylinder ein wenig zu expandieren ("<em>start to expand a little already in the barrel</em>"). Damit ist Merkmal 6 verwirklicht. Denn es erlaubt, wie vom Patentgericht zutreffend ausgeführt, weder eine Quantifizierung des Anteils von Mikrokugeln, die erfindungsgemäß bereits vor Austritt aus der Düse expandiert sein sollen, noch eine Quantifizierung des Ausmaßes der Expansion.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(4) Nicht offenbart ist jedoch Merkmal 1.2. In Beispiel 6 der E01 werden zunächst die Polymerkomponenten gemischt, die aus einem Polyethylenpulver mit einem Schmelzpunkt von ca. 380 K und einem Granulat bestehen, das sich zu gleichen Teilen aus einem linearen Polyethylen niederer Dichte (LLD-PE) und einem hochmolekularen Polyisobutylen zusammensetzt, das als unter Normalbedingungen bereits hochviskos fließfähig bezeichnet wird. Sodann werden Mikroballons homogen untergemischt und es erfolgt die Verarbeitung auf dem Extruder, wie zu Beispiel 1 geschildert. Danach enthält die Polymerzusammensetzung zwar bereits fließfähige Anteile. Sie ist jedoch nicht insgesamt fließfähig in dem Sinn wie Merkmal 1.2 nach den vorstehenden Erörterungen zu verstehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>bb) Der Gegenstand der mit dem Hauptantrag verteidigten Fassung von Patentanspruch 1 beruht jedoch nicht auf erfinderischer Tätigkeit, sondern war dem Fachmann, dessen Definition durch das Patentgericht die Parteien nicht in Zweifel ziehen, durch die US-Patentschrift 5 100 728 (E18) nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>(1) Die E18 beschreibt Haftklebebänder und ihre Herstellung und insbesondere geschäumte Haftklebebänder mit einer Polymermatrix auf Acryl- oder Kautschukbasis (Sp. 2 Z. 18-20), die extrudiert wird (Sp. 3 Z. 8-15). Genannt werden insbesondere Polymerzusammensetzungen aus Acrylaten unterschiedlich niedriger Glasübergangstemperaturen (Sp. 5 Z. 5-19). Die Trägerschicht umfasst Mikrokugeln niedriger Dichte (Sp. 2 Z. 13-15), die aus Keramik, Polymer, Glas, Kohlenstoff oder einem anderen geeigneten Material bestehen und fest, hohl oder porös, starr oder elastisch und klebrig oder nicht klebrig sein können (Sp. 2 Z. 25-31, Sp. 6 Z. 31-50). Hohle Mikrokugeln werden bevorzugt, besonders bevorzugt werden hohle Keramikmikrokugeln, da sie hohe Bruchfestigkeit aufwiesen und im Allgemeinen preisgünstiger seien als Glas-, Polymer- und Kohlenstoffmikrokugeln (Sp. 7 Z. 12-17). Es können - wie im Streitpatent (vgl. dort Abs. 12 der Beschreibung) - zusätzliche Füllstoffe verwendet werden, und sämtliche Komponenten können gemischt in den Extruder gegeben werden. Es ist jedoch auch möglich, einen oder mehrere der Füllstoffe erst der bereits im Extrusionszylinder befindlichen Polymerzusammensetzung zuzugeben. Enthält der Füllstoff zerbrechliche Mikrokugeln niedriger Dichte, wird es bevorzugt, ihn am hinteren Ende des Extruders ("<em>at the downstream end</em>") zuzugeben, um die Bruchgefahr zu vermindern (Sp. 10 Z. 62-67).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(2) Die E18 bezieht sich danach zwar nicht auf expandierbare Mikrokugeln, offenbart dem Fachmann aber ein Verfahren, das für empfindliche, leicht zerbrechliche Mikroglaskugeln die Bruchgefahr mindert, indem diese erst am hinteren Ende des Extruders ("<em>at the downstream end</em>") zugegeben werden. Sie zeigt dem Fachmann überdies, dass Mikrokugeln unterschiedlicher Art, insbesondere auch Polymerhohlkugeln, verwendet werden können. Dies gab ihm Anlass, auch expandierbare Hohlkugeln in Betracht zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann, der anstelle von Mikroglaskugeln expandierbare Mikrokugeln verwenden will, wusste aus der Technischen Mitteilung Nr. 24 des Mikrokugel-Herstellers Expancel (E03), dass ein Zusammenhang zwischen der Temperatur und der Verweildauer im Extruder sowie dessen Arbeitsgeschwindigkeit besteht und die Einstellung dieser Parameter das Verhalten der Mikrokugeln beeinflusst (S. 4 lk. Sp. Abschnitt: "Temperatures" und "Other Process Parameters - Extrusion"). So wird dem Fachmann in diesem Mitteilungsblatt geraten, am unteren Ende der empfohlenen Temperaturen zu arbeiten. Eine geringere Temperatur verlängere - so heißt es dort weiter - allerdings die Verweildauer im Extruder. Diese könne zwar verkürzt werden, wenn der Extruder bei höherer Geschwindigkeit arbeite. Eine hohe Geschwindigkeit erzeuge aber wiederum Reibungswärme und starke Scherkräfte, die die Mikrokugeln beschädigen oder zerstören könnten. Da expandierbare Mikrokugeln damit in ähnlicher Weise wie Mikroglaskugeln empfindlich auf zu hohe Temperaturen oder zu starke Scherkräfte reagieren, hatte der Fachmann Anlass, das in der E18 beschriebene Extrusionsverfahren auch auf die Extrusion von Polymerzusammensetzungen mit expandierbaren Mikrokugeln anzuwenden, weil für ihn erkennbar war, dass er durch spätere Zuführung der Mikrokugeln die geringere Viskosität der bereits erwärmten Polymerzusammensetzung vorteilhaft nutzen konnte. Zudem konnte er auf diese Weise einer zu starken Erwärmung der Mikrokugeln vorbeugen, woran ihm gerade bei expandierenden Mikrokugeln gelegen sein musste.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>b) Patentanspruch 15 ist nicht gesondert zu prüfen. Das Patentgericht führt unbeanstandet von der Berufung aus, dass die Beklagte ihre Haupt- und Hilfsanträge als geschlossene Anspruchssätze verstanden wissen wolle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>4. Schließlich hat das Streitpatent auch in der Fassung der Hilfsanträge keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>a) Mit Hilfsantrag I wird der Verfahrensschritt a formal in zwei Abschnitte aufgeteilt, wobei der Abschnitt a sich nunmehr ausschließlich auf die Polymerzusammensetzung bezieht und Abschnitt b die Beschaffenheit der Mikrokugeln beschreibt und um den Zusatz "<em>and adding the unexpanded polymeric microspheres to the molten polymer composition</em>" ergänzt wird. Damit wird die in den Merkmalen 1.2 und 4 der mit dem Hauptantrag verteidigten Fassung zum Ausdruck kommende Reihenfolge der Verfahrensschritte ausdrücklich genannt. Eine sachliche Änderung ist damit nicht verbunden. Ferner soll dem bisherigen Verfahrensschritt b, nunmehr c, das Merkmal "<em>without causing the expandable microspheres to expand or break</em>" hinzugefügt werden. Neu eingefügt werden soll Verfahrensschritt d, der wie folgt lautet: "<em>transferring the expandable extrudable composition to an extrusion die</em>". Auch diese Merkmale enthalten keine Einschränkungen gegenüber dem Hauptantrag, sondern werden dort vorausgesetzt, wenn nach den Merkmalen 4.1 und 4.2 eine extrudierbare und expandierbare Zusammensetzung gebildet werden soll, die nach Merkmal 5 durch eine Düse extrudiert wird. Mithin können auch sie die Patentfähigkeit nicht begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Schließlich soll der Gegenstand von Patentanspruch 1 (entsprechend Patentanspruch 15 des Hauptantrags) auf die Herstellung eines klebenden Polymerschaums (<em>adhesive polymer foam</em>) beschränkt werden, wobei die Polymerzusammensetzung ein "<em>acrylate or methacrylate adhesive polymer or copolymer</em>" umfassen soll (Hinzufügung bei Verfahrensschritt f).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Der Einsatz des Verfahrens nach Patentanspruch 1 zur Herstellung eines klebenden Polymerschaums unter Verwendung eines (Meth-)Acrylat-(Co-)Polymers war dem Fachmann jedoch ausgehend von der Entgegenhaltung E18 nahegelegt, die eine Haftklebepolymermatrix auf Acrylbasis verwendet. Wie die Entgegenhaltung E02 dokumentiert (E02, S. 2 Tabelle 1), war dem Fachmann bekannt, dass entsprechende Verfahren auch zur Herstellung eines klebenden Polymerschaums eingesetzt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand von Patentanspruch 1 in der Fassung Hilfsantrags II ist ebenfalls nicht patentfähig. Hilfsantrag II entspricht im Wesentlichen Hilfsantrag I, wobei der Gegenstand von Patentanspruch 1 auf Hot-Melt-Polymerzusammensetzungen eingeschränkt ist und das in Verfahrensschritt c mit Hilfsantrag I aufgenommene Merkmal "<em>without causing the expandable microspheres to expand or break</em>" wieder gestrichen werden soll. Die Verwendung von Hot-Melt-Polymerzusammensetzungen ist dem Fachmann beispielsweise aus der E03 bekannt. Dort wird u.a. das auch im Streitpatent als für die Polymermatrix des Schaums brauchbar erachtetes Ethylenvinylacetat (EVA, vgl. Beschr. Abs. 48) als ein zur Extrusion mit Expancel-Mikrokugeln kompatibles Polymer genannt. Ebenso ist dem Fachmann die Verwendung von Hot-Melt-Zusammensetzungen aus der E18 bekannt (Sp. 5 Z. 31; Sp. 14 Z. 23-28).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>c) Ebenso wenig ist der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags III patentfähig. Dieser Hilfsantrag setzt auf Hilfsantrag II auf, wobei bei Verfahrensschritt b am Ende das Merkmal "<em>and adding the </em>
+                  <em>
+                     <span style="text-decoration:underline">unexpanded</span>
+                  </em>
+                  <em> polymeric microspheres to the molten polymer composition</em>" durch das Merkmal "<em>and adding the </em>
+                  <em>
+                     <span style="text-decoration:underline">expandable</span>
+                  </em>
+                  <em> polymeric microspheres to the molten polymer composition</em>" ersetzt wird. Der Austausch der Begriffe "<em>unexpanded</em>" und "<em>expandable</em>" ist ohne sachliche Bedeutung. Ferner soll nach Hilfsantrag III folgender Verfahrensschritt d aufgenommen werden: "<em>wherein the temperature during melt mixing is controlled to a value insufficient to cause expandable microspheres to expand</em>". Dass die Mikrokugeln möglichst nicht schon während des Schmelzmischens expandieren sollen, ergibt sich für den Fachmann bereits aus der E01 (Sp. 4 Z. 22-39 und Z. 43-47).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Die Ersetzung des Begriffs "<em>a plurality</em>" durch "<em>most</em>" im letzten Verfahrensschritt ("<em>at least partially expanding most of</em> …") kann die Patentfähigkeit ebenfalls nicht begründen. Abgesehen davon, dass es diesem Kriterium bereits an der erforderlichen Klarheit fehlen dürfte, ist es in der Praxis nicht ausgeschlossen, dass Mikrokugeln zum größeren Teil bereits vor dem Austritt aus der Extruderdüse zumindest teilweise expandieren. So wird in der E02 (S. 3 lk. Sp. "Extrusion" Abs. 2) ausgeführt, dass die Kugeln schon im Extrusionszylinder ein wenig zu expandieren begännen ("<em>start to expand a little already in the barrel</em>").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>d) Hilfsantrag IV übernimmt im Wesentlichen die mit dem Hauptantrag verteidigte Fassung von Patentanspruch 1 mit der Maßgabe, dass die Mikrokugeln stromabwärts in den Extruder gegeben werden (<em>"feeding a polymer composition comprising an acrylate or methacrylate adhesive polymer or copolymer and downstream adding a plurality of expandable polymeric microspheres"</em>). Dieses Merkmal ist zu 3 b bereits abgehandelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>e) Hilfsantrag V entspricht Hilfsantrag IV, ist im Unterschied zu diesem aber auf Hot-Melt-Polymerzusammensetzungen beschränkt. Die Ausführungen zu Hilfsantrag II, der ebenfalls Hot-Melt-Polymerzusammensetzungen zum Gegenstand hat, und zu Hilfsantrag IV gelten entsprechend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>f) Hilfsantrag VI entspricht Hilfsantrag I, wobei lediglich das Merkmal "<em>wherein the polymer composition comprises an acrylate or methacrylate adhesive polymer or copolymer</em>" von Verfahrensschritt f in den Verfahrensschritt a verschoben werden soll. Da es sich hierbei lediglich um die Beschreibung einer möglichen Zusammensetzung des verwendeten Polymers handelt, nicht aber um eine Änderung des Verfahrensablaufs, unterscheidet sich Hilfsantrag VI damit in der Sache nicht von Hilfsantrag I. Damit ist die Patentfähigkeit des Gegenstands von Patentanspruch 1 aus den zu Hilfsantrag I angeführten Gründen nicht gegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>g) Hilfsantrag VII ergänzt Hilfsantrag VI um den Verfahrensschritt d aus Hilfsantrag III "<em>wherein the temperature during melt mixing is controlled to a value insufficient to cause expandable microspheres to expand</em>” und modifiziert den Verfahrensschritt g - wie schon Hilfsantrag III - weiter dahin, dass nicht eine Mehrzahl, sondern die meisten ("<em>most</em>" statt "<em>a plurality</em>") der expandierbaren polymeren Mikrokugeln zumindest teilweise expandiert sind, bevor die expandierbare extrudierbare Zusammensetzung die Düse verlässt. Auch in dieser Fassung ist Patentanspruch 1 aus den zu den Hilfsanträgen VI und III dargelegten Gründen nicht rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>h) Hilfsantrag VIII entspricht Hilfsantrag VII und sieht darüber hinaus einen neuen Verfahrensschritt h vor: "<em>further comprising crosslinking the expandable extrudable composition or the polymer adhesive foam</em>". Die Vernetzung der Polymermatrix ist dem Fachmann aus der E18 (Sp. 5 Z. 54-68) bekannt und stellt daher eine naheliegende Weiterbildung des Verfahrens dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>5. Die Hilfsanträge IX, X und XI unterscheiden sich von den Hilfsanträgen II, IV und V nur durch den Wegfall der Erzeugnisansprüche und bedürfen daher nach dem Vorstehenden keiner gesonderten Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>III. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG in Verbindung mit § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                         Gröning                               Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                     Deichfuß                        Kober-Dehm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300872015&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

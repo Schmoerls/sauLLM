@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE308252018</doknr>
+   <ecli>ECLI:DE:BGH:2018:090118UXZR14.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180109</entsch-datum>
+   <aktenzeichen>X ZR 14/16</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, § 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 15. Oktober 2015, Az: 1 Ni 1/14 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Definition des Fachmanns - Wärmeenergieverwaltung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Wärmeenergieverwaltung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Definition des Fachmanns dient dazu, eine fiktive Person festzulegen, aus deren Sicht das Patent und der Stand der Technik zu würdigen sind. Sie kann deshalb nicht auf Erwägungen zur Auslegung des Patents oder zur erfinderischen Tätigkeit gestützt werden.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung wird das Urteil des 1. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 15. Oktober 2015 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerinnen tragen die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 890 956, das unter Inanspruchnahme einer Priorität vom 13. Juni 2005 am 24. Mai 2006 angemeldet worden ist und ein Verfahren sowie ein System zur Verwaltung von Wärmeenergie in einem Gebäude mit einem Kanal für Aufzugsanlagen betrifft. Die Patentansprüche 1 und 8, auf die dreizehn weitere Patentansprüche rückbezogen sind, lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Procédé de gestion d'énergie thermique dans un bâtiment (10) comprenant une installation de levage (13) avec une cabine (16) mobile dans une gaine (14) et un passage de ventilation (22) entre ladite gaine (14) et l'atmosphère, ledit procédé comprenant les étapes suivantes:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">la surveillance d'au moins un paramètre d'état de ladite installation de levage (13), la surveillance d'au moins un paramètre d'état comprenant la surveillance de la présence d'une personne dans ladite installation de levage (13) e/ou la surveillance d'un mouvement de ladite cabine (16) dans ladite gaine (14);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">l'évaluation dans une unité de gestion (32) de la nécessité de ventilation de ladite gaine (14) sur base de ces paramètres, ladite unité de gestion (32) concluant la nécessité de ventilation de ladite gaine (14) lorsque la présence d'une personne est détecté e/ou lorsque le mouvement de ladite cabine (16) est détecté;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">le basculement d'un élément obturateur (30) associé audit passage de ventilation (22) d'une position d'ouverture, dans laquelle le passage de ventilation (22) est essentiellement ouvert, dans une position de fermeture, dans laquelle le passage de ventilation (22) est au moins partiellement obturé, uniquement lorsque ladite évaluation indique qu'une ventilation de ladite gaine (14) n'est pas requise, ledit élément obturateur (30) étant précontraint dans sa position d'ouverture.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">8. Système de gestion d'énergie thermique dans un bâtiment comprenant une installation de levage (13) avec une cabine (16) mobile dans une gaine (14) et un passage de ventilation (22) entre ladite gaine (14) et l'atmosphère, ledit système comprenant en outre:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">un élément obturateur (30) associe audit passage de ventilation (22), ledit élément obturateur (30) étant mobile entre une position d'ouverture, dans laquelle le passage de ventilation (22) est essentiellement ouvert, et une position de fermeture, dans laquelle le passage de ventilation (22) est au moins partiellement obturé;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">un moyen de précontrainte afin de maintenir, dans un état passif, ledit élément obturateur (30) dans sa position d'ouverture; et</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">une unité de gestion (32) contrôlant la position dudit élément obturateur (30), ladite unité de gestion (32) comprenant des moyens pour surveiller au moins un paramètre d'état de ladite installation de levage (13), et pour évaluer la nécessité de ventilation de ladite gaine (14), ladite unité de gestion (32) ne permettant le basculement dudit élément obturateur (30) en position de fermeture uniquement lorsque l'évaluation de la nécessité de ventilation de ladite gaine (14) indique qu'une ventilation de ladite gaine (14) n'est pas requise, lesdits moyens pour surveiller au moins un paramètre d'état de ladite installation de levage (13) comprenant au moins un moyen pour détecter la présence d'une personne dans ladite installation de levage (13) e/ou au moins un moyen pour détecter le mouvement de ladite cabine (16) dans ladite gaine (14), ladite unité de gestion (32) concluant la nécessité de ventilation de ladite gaine (14) lorsque la présence d'une personne est détectée e/ou lorsque le mouvement de ladite cabine (16) est détecté.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin zu 1 hat die Nichtigerklärung des Streitpatents im Umfang der Patentansprüche 1 und 8, soweit diese vorsehen, dass die Anwesenheit einer Person in der Aufzugsanlage erfasst wird, und der darauf rückbezogenen Patentansprüche 2 und 4 bis 7 bzw. 9 und 11 bis 15 beantragt und geltend gemacht, der angegriffene Gegenstand sei nicht patentfähig und die Erfindung sei nicht so offenbart, dass ein Fachmann sie ausführen könne. Die Klägerin zu 2 hat das Streitpatent in vollem Umfang wegen fehlender Patentfähigkeit angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat das Streitpatent in erster Linie in der erteilten Fassung und mit fünf Hilfsanträgen in geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent wegen fehlender Patentfähigkeit für nichtig erklärt. Dagegen wendet sich die Berufung der Beklagten, die ihre erstinstanzlichen Anträge weiterverfolgt. Die Klägerinnen treten dem Rechtsmittel im Umfang ihrer erstinstanzlichen Anträge entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung führt zur Abweisung der Klage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren und ein System zur Verwaltung von Wärmeenergie in einem Gebäude mit einem Kanal für Aufzugsanlagen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift war es im Stand der Technik üblich und in vielen Ländern rechtlich vorgeschrieben, einen Aufzugsschacht aus Sicherheitsgründen mit einer Lüftung zu versehen. Eine Lüftung habe indes bedeutende Wärmeverluste zur Folge, was insbesondere bei Niedrigenergie- oder Passivgebäuden dazu führen könne, dass der Einbau eines Aufzugs nicht möglich sei. Eine Anordnung des Schachts außerhalb der Wärmehülle sei häufig nicht gewünscht oder nicht möglich, der Bau einer Dichtungsschleuse mit hohen Kosten verbunden. Die in einigen Patenten vorgeschlagenen Systeme zur Zwangslüftung bei Brand oder Rauch benutzten den Aufzugsschacht als Rauchabzugsweg für andere Räume des Gebäudes. Dies stehe in Widerspruch zu Nr. 5.2.3 der Normen EN 81-1 und EN 81-2. Zudem werde der Lüftungskanal bei diesen Systemen außerhalb von Gefahrensituationen geschlossen gehalten, was den gesetzlichen Bestimmungen einiger Länder zuwiderlaufe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, eine Lösung zur Verfügung zu stellen, die üblichen Sicherheitsbestimmungen wie insbesondere den Normen EN 81-1 und EN 81-2 entspricht und zu möglichst geringen Energieverlusten führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieses Problems schlägt das Streitpatent in den Patentansprüchen 1 und 8 ein Verfahren und ein System vor, deren Merkmale sich wie folgt gliedern lassen (die bei Patentanspruch 8 teilweise abweichende Gliederung des Patentgerichts ist in eckigen Klammern wiedergegeben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 1</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 8</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1. Das Verfahren dient der Verwaltung von Wärmeenergie in einem Gebäude (10), das eine Aufzugsanlage (13) mit einer in einem Schacht (14) beweglichen Kabine (16) und einem Lüftungskanal (22) zwischen dem Schacht (14) und der Atmosphäre umfasst, und weist folgende Schritte auf:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1. Das System dient der Verwaltung von Wärmeenergie in einem Gebäude (10), das eine Aufzugsanlage (13) mit einer in einem Schacht (14) beweglichen Kabine (16) und einem Lüftungskanal (22) zwischen dem Schacht (14) und der Atmosphäre umfasst, und umfasst folgende Bestandteile:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2. Mindestens einer der beiden folgenden Zustandsparameter der Aufzugsanlage (13) wird überwacht</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2. eine Verwaltungseinheit (32), welche die Stellung eines Verschließelements (30) kontrolliert [4] und Mittel aufweist, um mindestens einen der beiden folgenden Zustandsparameter der Aufzugsanlage (13) zu überwachen [5]:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.1 die Anwesenheit einer Person in der Aufzugsanlage (13);</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.1 die Anwesenheit einer Person in der Aufzugsanlage (13) [5.1];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.2 die Bewegung der Kabine (16) im Schacht (14).</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.2 die Bewegung der Kabine (16) im Schacht (14) [5.2];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3. Anhand dieser Parameter bewertet eine Verwaltungseinheit (32), ob eine Lüftung des Schachts (14) notwendig ist.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3. Mittel der Verwaltungseinheit (32), um zu bewerten, ob eine Lüftung des Schachts (14) notwendig ist [5];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4. Die Verwaltungseinheit (32) sieht eine Lüftung des Schachts (14) als notwendig an, wenn mindestens einer der beiden folgenden Zustände erfasst wird:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4. die Verwaltungseinheit (32) sieht eine Lüftung des Schachts (14) als notwendig an, wenn mindestens einer der beiden folgenden Zustände erfasst wird [6]:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1 die Anwesenheit einer Person;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1 die Anwesenheit einer Person [6];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.2 die Bewegung der Kabine (16).</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.2 die Bewegung der Kabine (16) [6];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5. Nur dann, wenn die Auswertung ergibt, dass eine Lüftung des Schachts (14) nicht erforderlich ist, wird ein dem Lüftungskanal (22) zugeordnetes Verschließelement (30) von einer Offenstellung, in der der Lüftungskanal (22) im Wesentlichen offen ist, in eine Schließstellung, in der der Lüftungskanal (22) zumindest teilweise verschlossen ist, gekippt.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5. das Verschließelement (30) ist dem Lüftungskanal (22) zugeordnet und zwischen einer Offenstellung, in der der Lüftungskanal (22) im Wesentlichen offen ist, und einer Schließstellung, in der der Lüftungskanal (22) zumindest teilweise verschlossen ist, beweglich [2], wobei die Verwaltungseinheit (32) das Kippen des Verschließelements (30) in Schließstellung nur dann gestattet, wenn die Auswertung ergibt, dass eine Lüftung des Schachts (14) nicht erforderlich ist [5];</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">6. Das Verschließelement (30) ist in seine Offenstellung vorgespannt.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">6. ein Mittel zum Vorspannen, um in einem passiven Zustand das Verschließelement (30) in seiner Offenstellung zu halten [3].</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>4. Von entscheidender Bedeutung für die damit beanspruchte Lösung ist eine an Sicherheitsaspekten orientierte Steuerung des Verschließelements (30).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Ebenso wie einige der in der Streitpatentschrift erwähnten, aus dem Stand der Technik bekannten Systeme sieht die vom Streitpatent beanspruchte Lösung ein Verschließelement (30) vor, das in geschlossenem Zustand dem Entweichen von Wärmeenergie entgegenwirkt. Um die in der Beschreibung aufgezeigten Sicherheitsanforderungen dennoch einzuhalten, sorgt eine Verwaltungseinheit (32) dafür, dass das Verschließelement seine Schließstellung nur dann einnimmt, wenn eine Auswertung der überwachten Betriebsparameter ergibt, dass eine Offenhaltung nicht erforderlich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>b) Das Patentgericht ist davon ausgegangen, dass es zur Überwachung des Betriebsparameters "Anwesenheit einer Person in der Aufzugsanlage" nach den Merkmalen 2 und 2.1 ausreicht, die Betätigung eines Schalters oder Tasters auszuwerten, der allein dem Zweck dient, das Verschließelement zu öffnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Dies ist unzutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Nach dem allgemeinen Sprachgebrauch mag die Überprüfung, ob ein Schalter oder Taster manuell betätigt worden ist, zwar als Überwachung bezeichnet werden können. Aus der vom Streitpatent verfolgten Zielsetzung, die insbesondere in den Merkmalen 4 und 5 Niederschlag gefunden hat, und aus den in der Beschreibung geschilderten Ausführungsbeispielen ergibt sich indes, dass dies für eine Überwachung (surveillance) im Sinne der Merkmale 2 und 2.1 nicht ausreicht. Danach ist vielmehr erforderlich, dass ein Indikator herangezogen wird, anhand dessen für typische Nutzungssituationen hinreichend sicher beurteilt werden kann, ob sich eine Person in der Aufzugsanlage befindet. Hierfür ist weder erforderlich noch ausreichend, dass eine Detektionseinrichtung vorhanden ist, deren Ansprechen unter bestimmten, eher ungewöhnlichen Umständen auf die Anwesenheit einer Person hindeutet. Ebenfalls nicht ausreichend ist eine Vorrichtung, die Rückschlüsse auf die Anwesenheit einer Person nur dann zulässt, wenn dies durch eine allein darauf gerichtete Bedienoperation veranlasst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Beschreibung des Streitpatents deutet die Anwesenheit einer Person in der Aufzugsanlage darauf hin, dass die Anlage benutzt wird und deshalb nach den maßgeblichen gesetzlichen Bestimmungen eine Lüftung des Aufzugsschachts erforderlich ist (Abs. 12 Z. 36-38).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dem damit angesprochenen Aspekt der Sicherheit wäre nach der Zielsetzung des Streitpatents nicht hinreichend Genüge getan, wenn die Anwesenheit einer Person nur in besonderen, eher ungewöhnlichen Betriebssituationen festgestellt werden könnte oder wenn es hierzu einer eigens darauf gerichteten Bedienoperation bedürfte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>In diesem Zusammenhang wäre zwar unschädlich, wenn eine Person, die die Lüftung bei Betreten der Anlage aktiviert hat, diese beim Verlassen nicht deaktiviert. Dementsprechend sieht Merkmal 5 - entgegen der Auffassung der Beklagten - gerade nicht vor, dass der Lüftungskanal nur dann geöffnet werden darf, wenn die Anwesenheit einer Person oder ein vergleichbarer Betriebszustand festgestellt wird. Vielmehr wird aus Sicherheitsgründen ein Verschließen des Lüftungskanals nur zugelassen, wenn aufgrund der Auswertung nach Merkmal 4 feststeht, dass ein solcher Betriebszustand nicht vorliegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Um das angestrebte Maß an Sicherheit zu erreichen, muss aber gewährleistet sein, dass eine Person nicht ohne weiteres den Aufzug benutzen kann, ohne dass die Lüftung aktiviert wird. Diese Anforderung ist nicht erfüllt, wenn zur Bedienung des Aufzugs und zur Aktivierung der Lüftung zwei unterschiedliche Schalter betätigt werden müssen, die eine Benutzung des Aufzugs ohne vorherige Aktivierung der Lüftung ermöglichen. Selbst wenn der Schalter für die Aktivierung der Lüftung so ausgestaltet ist, dass er deutlich wahrnehmbar und leicht zu bedienen ist, und wenn zusätzlich in leicht erkennbarer Form auf dessen Bedeutung hingewiesen wird, ist nicht auszuschließen, dass einzelne Nutzer aus Unachtsamkeit, Bequemlichkeit oder Gewohnheit von einer Aktivierung absehen. Ein solch rudimentärer Schutz genügte nicht der Zielsetzung des Streitpatents, wie sie in den Merkmalen 4 und 5 zum Ausdruck kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>bb) Dem steht nicht entgegen, dass die Anwesenheit einer Person in der Aufzugsanlage nach der Beschreibung (Abs. 12 Z. 40-44) wahlweise durch ein unabhängiges System festgestellt (détectée par un système indépendant) oder durch einen Bedienungsvorgang an der Aufzugsanlage selbst signalisiert (bien fournit par la manœuvre de l'installation de levage elle-même) werden kann. Auch bei der zweiten Variante ist nämlich - anders beim Einsatz eines separat zu betätigenden Schalters - für typische Betriebssituationen gewährleistet, dass der Aufzug nur bei aktivierter Lüftung benutzt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Als Beispiele für ein unabhängiges System werden in der Beschreibung Präsenzsensoren (36, 38) (capteur de présence) in der Kabine oder am Boden des Aufzugsschachts angeführt (Abs. 27 Z. 15 f.). Entsprechende Ausführungen finden sich zur Feststellung, ob die Kabine in Bewegung ist (Abs. 13 Z. 51-54; Abs. 27 Z. 12-15). Als weitere Betriebsparameter, deren Überwachung in Betracht kommt, werden exemplarisch die Innentemperatur des Gebäudes oder des Aufzugsschachts, die Anwesenheit einer Person auf einem Treppenflur, die Außentemperatur, die Windgeschwindigkeit und die Sonneneinstrahlung angeführt (Abs. 17 Z. 45-50). Als geeignete Vorrichtungen zur Überwachung werden exemplarisch entsprechende Sensoren aufgezählt (Abs. 31 Z. 12-27). Diesen Erfassungsarten ist gemeinsam, dass sie nicht vom gezielten Verhalten einer Person abhängen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Für die Feststellung anhand eines Bedienvorgangs gilt im Ergebnis nichts anderes. Ein Bedienvorgang erfordert zwar in der Regel eine zielgerichtete Operation seitens des Benutzers. Wenn die Lüftung schon durch eine solche Bedienoperation - etwa das Drücken einer Taste zum Anfordern des Aufzugs, zum Schließen der Tür oder zum Ansteuern eines bestimmten Stockwerks - aktiviert wird, ist aber in typischen Betriebssituationen ohne weiteres Zutun des Benutzers gewährleistet, dass der Aufzug nicht ohne aktivierte Lüftung benutzt werden kann. Damit wird ein Sicherheitsniveau erreicht, das qualitativ mit demjenigen bei Einsatz von Sensoren vergleichbar ist und sich deutlich abhebt von demjenigen bei Einsatz eines separat zu betätigenden Schalters oder einer Detektionseinrichtung, die nur in bestimmten, eher ungewöhnlichen Situationen auf die Anwesenheit einer Person anspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die Erfindung sei hinreichend offenbart. Die Angaben "Bewegungsfühler" und "Präsenzfühler" vermittelten dem Fachmann, einem Techniker der Heizungs-, Lüftungs- und Klimatechnik mit Fachschulausbildung und mehrjähriger Erfahrung in der Umsetzung der Bau- und Aufzugsrichtlinien bei der Projektierung eines Aufzugs oder dessen Nachrüstung, ausreichend Informationen, welche Fühler und Auswertelogik grundsätzlich verwendet werden könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Patentansprüche 1 und 8 in der erteilten Fassung sei dem Fachmann jedoch durch eine Veröffentlichung der Konferenz Kantonaler Energiefachstellen (Aufzugsanlagen - Wärmeverluste mindern, A4) und einen Prospekt der Brandschutz-Technik und Rauchabzug GmbH (Spezialartikel für den vorbeugenden Brandschutz, A3) nahegelegt. In beiden Veröffentlichungen werde die Lüftung zwar nur im Brandfall oder bei Betätigen eines speziellen Schalters aktiviert. Letzteres reiche zur Offenbarung der Merkmale 2 und 2.1 jedoch aus. In A4 sei darüber hinaus nicht die konkrete Schaltung offenbart. Eine naheliegende Lösung ergebe sich insoweit aus A3, wo unter anderem ein Zentralgerät zur Überwachung und Steuerung der anderen Komponenten offenbart sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der mit Hilfsantrag 1 verteidigten Fassung sei durch die japanische Offenlegungsschrift Hei 6-10640 (A9) in Zusammenschau mit A3 und A4 nahegelegt. In A9 sei eine Aufzugsanlage mit permanent offener Lüftungsöffnung und einem Personenpräsenzfühler in der Kabine offenbart. Die rund neun Jahre später veröffentlichten Empfehlungen in A4 hätten dem Fachmann nahegelegt, eine solche Anlage zum Zwecke der Energieeinsparung nachzurüsten und mit einer Ansteuerung wie nach A3 zu versehen. Eine Verbindung des darin vorgesehenen Steuergeräts mit einer Belegungsermittlung, die der Personenpräsenzerfassung diene, sei naheliegend vorteilhaft. Entgegen der Auffassung der Beklagten sei davon auszugehen, dass ein Luftaustausch zwischen Kabine und Aufzugsschacht stattfinde, so dass eine Öffnung der Lüftungsklappen im Schacht auch eine Verbesserung der Luft in der Kabine bewirke.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren in einem entscheidenden Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht ist das Patentgericht davon ausgegangen, dass ein mit der Entwicklung von Aufzügen befasster und mit der Problemstellung des Streitpatents betrauter Fachmann im Prioritätszeitpunkt über die Kenntnisse und Fertigkeiten eines Technikers der Heizungs-, Lüftungs- und Klimatechnik verfügte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>a) Das Patentgericht hat hierzu ausgeführt, aus A4 ergebe sich, dass sich ein mit der Planung von Aufzügen betrauter Fachmann bereits im Jahr 2004 mit der Forderung nach einer aus Gründen der Energieeinsparung grundsätzlich luftdichten Gebäudehülle befasst habe. Hieraus sei zu folgern, dass er sich auch mit den Anforderungen an eine Schachtentlüftung befasst habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Diese Beurteilung ist jedenfalls im Ergebnis zutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Die von der Berufung eingehend erörterten Fragen, wie einzelne Merkmale des Streitpatents auszulegen sind und ob der so verstandene Gegenstand durch den Stand der Technik nahegelegt war, sind in diesem Zusammenhang nicht von Bedeutung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Definition des Fachmanns dient gerade dazu, eine fiktive Person festzulegen, aus deren Sicht das Patent und der Stand der Technik zu würdigen sind. Sie kann deshalb nicht auf Erwägungen zur Auslegung des Patents oder zur erfinderischen Tätigkeit gestützt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>bb) Im Ansatz zutreffend macht die Berufung geltend, dass die Definition des Fachmanns von dem technischen Problem abhängen kann, dessen Lösung die Erfindung dient, und dass sich das technische Problem aus dem ergibt, was die Erfindung tatsächlich leistet (BGH, Urteil vom 4. Februar 2010 - Xa ZR 36/08, GRUR 2010, 602 Rn. 27 - Gelenkanordnung; Urteil vom 14. Juni 2016 - X ZR 29/15, BGHZ 211, 1 = GRUR 2016, 921 Rn. 14 - Pemetrexed). Auch unter diesem Aspekt ist die angefochtene Entscheidung indes nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Nach Auffassung der Berufung spiegeln A4 und A3 als nächstliegender Stand der Technik das Wissen eines Aufzugsfachmanns im Prioritätszeitpunkt wider. Dafür spreche, dass beide Entgegenhaltungen aus den Anfängen der Aufzugsschachtentrauchung stammten, als Treppenhausentrauchungssysteme im Wesentlichen identisch auf Aufzugsanlagen übertragen worden seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Damit werden die Erwägungen des Patentgerichts nicht in Frage gestellt, sondern bestätigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dabei kann die - ohnehin nicht relevante (vgl. nur BGH, Urteil vom 31. Januar 2017 - X ZR 119/14, GRUR 2017, 498 Rn. 28 - Gestricktes Schuhoberteil) - Frage, welche Entgegenhaltung als "nächstliegender" Stand der Technik anzusehen, ebenso dahingestellt bleiben wie die Fragen, an welchen Personenkreis sich die genannten Entgegenhaltungen richten und von wem sie verfasst worden sind. Schon der Umstand, dass sie sich mit der Entrauchung eines Gebäudeteils befassen und hierzu Lösungen vorschlagen, die zur Entrauchung von Treppenhäusern bekannt waren, gab einem mit der Weiterentwicklung solcher Systeme betrauten Fachmann jedenfalls Veranlassung, einen Techniker der Heizungs-, Lüftungs- und Klimatechnik hinzuzuziehen, wenn er selbst nicht über ausreichende eigene Kenntnisse auf diesen Gebieten verfügte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Berufung kann aus dem Umstand, dass am Prioritätstag keine Lösung offenbart war, die sowohl den Anforderungen der Energieeinsparverordnung als auch den Anforderungen der Normen EN 81-1 und EN 81-2 entsprach, nicht gefolgert werden, dass es keinen Fachmann gab, der im Stande war, diese Aufgabe zu meistern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Wenn es am Prioritätstag tatsächlich kein System gab, das allen Anforderungen entsprach, und das Streitpatent erstmals eine entsprechende Lösung bereitstellte, mag dies ein gewichtiges Indiz für die Bejahung der Patentfähigkeit darstellen. Ob der Fachmann Anlass hatte, zu dieser Lösung zu gelangen, ist indes nach den für die Beurteilung der erfinderischen Tätigkeit maßgeblichen Kriterien zu entscheiden, nicht hingegen durch die Definition des Fachmanns.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>2. Zu Unrecht hat das Patentgericht den Gegenstand des Streitpatents in der erteilten Fassung als nicht patentfähig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung des Patentgerichts ist der Gegenstand der Patentansprüche 1 und 8 nicht durch die Entgegenhaltungen A4 und A3 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>aa) Die von der Konferenz Kantonaler Energiefachstellen in der Schweiz veröffentlichte Entgegenhaltung A4 enthält Empfehlungen für Architekten und Bauherren zur Vermeidung von Wärmeverlusten in Aufzügen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>In A4 wird ausgeführt, ein Aufzugsschacht müsse Öffnungen enthalten, um im Brandfall Rauch abführen und bei Bedarf Abwärme der Liftmotoren nach außen leiten zu können. Im regulären Betrieb gebe es keine Gründe, diese Öffnungen nicht zu verschließen. Deshalb wird vorgeschlagen, Lüftungsklappen anzubringen, deren Stellung über Thermostaten im Schachtkopf oder im Maschinenraum sowie über manuell zu betätigende Schalter gesteuert wird. Unterhalb einer von der jeweiligen Anlage abhängenden, in der Regel zwischen 35 und 40 °C liegenden Temperaturgrenze sollen die Klappen geschlossen, bei höheren Temperaturen, bei Betätigen eines entsprechenden Schalters, der auch als Feuerwehrschlüsselschalter ausgebildet sein könne, sowie im stromlosen Zustand hingegen geöffnet sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind die Merkmale 1, 2, 5 und 6 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Mit der in A4 offenbarten Konfiguration wird dem Entweichen von Wärmeenergie aus einem Gebäude mit Aufzug entgegengewirkt, indem zwei Zustandsparameter - Temperatur und Betätigung eines Schalters - überwacht werden. Aus der Vorgabe, dass die Klappen in stromlosem Zustand offen sind, ergibt sich, dass sie nur dann verschlossen werden, wenn die Auswertung der überwachten Parameter ergibt, dass ein Offenhalten nicht erforderlich ist. Dies erfordert ein Vorspannen der Klappen in die Offenstellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>cc) Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass die zusätzliche Ausgestaltung mit den Merkmalen 3 und 4 durch A3 nahegelegt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Die in A4 enthaltenen Ausführungen, wonach die Klappen in Abhängigkeit von Thermostaten und Schaltern gesteuert werden sollen, geben dem Fachmann zumindest Anlass, nach geeigneten Steuerungsmitteln zu suchen. Selbst wenn dieser Hinweis nicht ausreichen würde, um auf eine Verwaltungseinheit mit den Merkmalen 3 und 4 zurückzugreifen, wurden dem Fachmann, wie das Patentgericht im Einzelnen zutreffend dargelegt hat, in A3 nicht nur entsprechende Anregungen gegeben, sondern sogar geeignete Geräte aufgezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>In A3 ist ebenfalls ein System offenbart, bei dem die Lüftungsöffnung im Aufzugsschacht im regulären Betrieb geschlossen ist und nur im Brandfall, für dessen Feststellung ein Rauchansaugsystem eingesetzt wird, sowie optional bei manueller Betätigung eines Tasters geöffnet wird. Dies entspricht im Wesentlichen der in A4 beschriebenen Funktionalität. Der Fachmann hatte deshalb Anlass, zur näheren Ausgestaltung der in A4 vorgeschlagenen Lösung auf A3 zurückzugreifen. Dem steht nicht entgegen, dass die in A3 zum Verschließen der Öffnung vorgesehene Jalousie im Normalfall geschlossen ist und mit Hilfe eines Motors geöffnet werden muss. Der daraus resultierende Anpassungsbedarf wirft keine erkennbaren Probleme auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>dd) Entgegen der Auffassung des Patentgerichts sind weder in A4 noch in A3 die Merkmale 2.1 und 4.1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben ausgeführt wurde, reicht die Überwachung des Zustands eines manuell zu betätigenden Schalters nicht aus, um den Betriebszustand "Anwesenheit einer Person in der Aufzugsanlage" im Sinne von Merkmal 2.1 zu überwachen. Damit fehlt es zugleich an einer Offenbarung von Merkmal 4.1, weil mangels hinreichender Überwachung nicht gesichert ist, dass dieser Betriebszustand erfasst und bei der Steuerung des Verschließelements berücksichtigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>ee) Entgegen der Auffassung der Klägerin zu 1 reicht die in A4 offenbarte Temperaturüberwachung zur Offenbarung der Merkmale 2.1 und 4.1 ebenfalls nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Bei der in A4 offenbarten Lösung dienen die Thermostaten dazu, einen Brand oder eine zu starke Erwärmung der Aufzugsmotoren festzustellen. Je nach Anbringungsort und Anlagenkonfiguration mögen die Thermostaten im Einzelfall schon dann auslösen, wenn der Aufzug nur kurze Zeit in Betrieb ist oder wenn sich Personen im Schachtkopf oder im Maschinenraum - die im Sinne des Streitpatents einen Teil der Aufzugsanlage bilden - befinden. Damit ist eine den Anforderungen der Merkmalsgruppen 2 und 4 genügende Überwachung der Zustandsparameter "Anwesenheit einer Person in der Aufzugsanlage" oder "Bewegung der Kabine im Schacht" indes nicht gewährleistet, weil die genannten Betriebszustände allenfalls in besonderen, eher ungewöhnlichen Umständen erfasst werden können, nicht aber in den typischen Betriebssituationen, in denen dies nach dem Streitpatent erforderlich ist. Hinweise darauf, das System so zu konfigurieren, dass eine Erfassung auch in typischen Betriebssituationen möglich ist, ergeben sich weder aus A4 noch aus A3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>b) Die Beurteilung des Patentgerichts wird nicht von dessen Ausführungen zu Hilfsantrag 1 getragen. Der Gegenstand des Streitpatents ist ausgehend von der Entgegenhaltung A9 ebenfalls nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>aa) In A9 ist eine Vorrichtung zur Steuerung der Belüftung in einer Aufzugskabine offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung von A9 wird ausgeführt, im Stand der Technik seien Belüftungsvorrichtungen bekannt, die je nach der An- oder Abwesenheit von Fahrgästen automatisch ein- und ausgeschaltet würden. Die Gebläseumluftmenge während des Betriebs sei normalerweise konstant. Bei geringer Belegung oder niedriger Temperatur könne dies dazu führen, dass der Luftstrom als zu stark empfunden werde; außerdem werde Energie verschwendet. Bei starker Belegung oder hoher Temperatur könne die Luftmenge als unzureichend empfunden werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Zur Verbesserung dieses Zustands wird in A9 eine Vorrichtung vorgeschlagen, bei der die Luftmenge in Abhängigkeit von der Zahl der Fahrgäste, der Innentemperatur der Kabine oder einer Kombination dieser beiden Parameter bemessen wird. Die Anzahl der Fahrgäste wird hierbei anhand des Kabinengewichts ermittelt, die Innentemperatur durch einen Temperatursensor. In dem beschriebenen Ausführungsbeispiel wird die Lüftung zum Zwecke der Energieeinsparung erst dann eingeschaltet, wenn der Aufzug über einen Außenruf angefordert wird oder wenn ein Kabinenkommando erfolgt (Abs. 18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>bb) Damit ist die Merkmalsgruppe 2 offenbart. Mit dem Einschalten der Lüftung in Abhängigkeit vom Betätigen einer Taste zum Heranholen oder Bedienen des Aufzugs ist eine Überwachung der Betriebszustände "Anwesenheit einer Person in der Aufzugsanlage" und "Bewegung der Kabine im Schacht" offenbart, wie sie auch das Streitpatent als Ausführungsbeispiel für die Merkmale 2.1 und 2.2 vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>cc) Nicht offenbart sind, wie auch das Patentgericht nicht verkannt hat, jedenfalls die Merkmalsgruppe 4 sowie die Merkmale 5 und 6.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>A9 befasst sich nur mit der Belüftung der Aufzugskabine, nicht mit der Belüftung des Aufzugsschachts. Die Auswertung der überwachten Betriebsparameter entspricht zwar der in Merkmalsgruppe 4 vorgesehenen Logik. Sie dient aber lediglich der Steuerung der Kabinenlüftung. Wie der Schacht belüftet wird und ob er durch eine nach den Merkmalen 5 und 6 gesteuerte Verschließvorrichtung von der Atmosphäre getrennt ist, geht aus der Entgegenhaltung nicht hervor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>dd) Entgegen der Auffassung des Patentgerichts ergab sich für den Fachmann aus A4 und A3 nicht die Anregung, die in A9 offenbarte Steuerung für die Lüftung des Schachts durch Öffnen und Schließen eines Verschließelements vorzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>(1) Zu Recht ist das Patentgericht allerdings davon ausgegangen, dass der Fachmann Anlass zu der Überlegung hatte, ob und wie die in A9 offenbarte Vorrichtung an die Anforderungen der Normen EN 81-1 und EN 81-2 und der Energieeinsparverordnung angepasst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>(2) Zugunsten der Klägerinnen kann überdies unterstellt werden, dass es nahelag, die Kabine zu diesem Zweck mit einer Lüftungsöffnung in Boden und Decke zu versehen, wie dies die beiden technischen Normen jeweils unter Nr. 8.16.1 vorsehen, so dass der von der Beklagten eingehend erörterten Frage, ob A9 eine im Wesentlichen luftdicht abgeschlossene Kabine offenbart, in der die Luft lediglich umgewälzt wird, keine ausschlaggebende Bedeutung zukäme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>(3) Zugunsten der Klägerinnen kann ferner unterstellt werden, dass es nahelag, den Aufzugsschacht mit einer Klappe zu versehen, wie sie in A4 und A3 zum Zwecke der Anpassung an die Vorgaben der Energieeinsparverordnung vorgeschlagen wird. Gerade weil A9 sich nur mit der Belüftung der Kabine und einer dabei möglichen Einsparung von Energie befasst, spricht einiges dafür, dass der Fachmann, der eine solche Kabine in einen belüfteten Schacht einbauen und auch hierbei unnötige Energieverluste vermeiden möchte, auf diesbezügliche Vorbilder aus dem Stand der Technik zurückgreift.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>(4) Entgegen der Auffassung des Patentgerichts ergab sich für den Fachmann aber jedenfalls nicht die Anregung, die in A9 als Mittel zur Steuerung der Kabinenbelüftung offenbarte Überwachung der Anwesenheit einer Person und der Bewegung der Kabine auch als Mittel zur Steuerung der Verschlusseinrichtung für den Aufzugsschacht einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Der in A3 enthaltene Hinweis, das Zentralgerät sei auch über andere Systeme der Hausleittechnik ansteuerbar, mag dem Fachmann Anlass gegeben haben, nach anderen Parametern zu suchen, die für die Steuerung der Verschließeinrichtung relevant sind und automatisiert überwacht werden können. A3 gab aber keinen konkreten Hinweis, um welche Parameter es sich dabei handeln könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund gab der vom Patentgericht angeführte Umstand, dass die Zufuhr von frischer Luft in den Schacht für die Belüftung einer mit Lüftungsöffnungen versehenen Kabine von Vorteil sein kann, dem Fachmann keinen hinreichenden Anlass, eine Öffnung der Verschließeinrichtung bei jeder Benutzung des Aufzugs oder jeder Bewegung der Aufzugskabine vorzusehen. Die Ausführungen in A9, wonach das erforderliche Maß an Belüftung nicht nur vom Belegungsgrad, sondern auch von der Innentemperatur der Kabine abhängt, geben eher Veranlassung, die Öffnung an zusätzliche Bedingungen zu knüpfen. Dies gilt umso mehr, als A3 aus Gründen der Energieeinsparung eine Öffnung nur im Brandfall vorsieht und A4 sogar den ausdrücklichen Hinweis enthält, im regulären Betrieb gebe es keinen Grund, die Öffnung nicht zu verschließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Aus den Normen EN 81-1 und EN 81-2 ergibt sich insoweit keine weitergehende Anregung. Der darin jeweils unter Nr. 5.2.3 enthaltenen Regelung, der Schacht müsse angemessen entlüftet sein, lässt sich, wie in anderem Zusammenhang auch die Klägerin zu 1 geltend macht, nicht ohne weiteres entnehmen, dass bei jeder Benutzung des Aufzugs zwingend eine Lüftung zu erfolgen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>3. Die angefochtene Entscheidung erweist sich nicht aus anderen Gründen als im Ergebnis zutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung der Klägerin zu 2 ist der Gegenstand des Streitpatents auch durch die deutsche Offenlegungsschrift 198 49 868 (A7) nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>aa) In A7 ist eine Einrichtung zur Steuerung von Lüftungsmitteln in einem Gebäude offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung von A7 wird ausgeführt, zur Steuerung oder Automatisierung der Lüftung in einem Raum würden üblicherweise Kriterien wie Raumtemperatur oder Personenanwesenheit herangezogen. Diese besagten jedoch wenig über die Luftqualität. Bei großen Anlagen mit geschlossenem Lüftungskreislauf würden hochgenaue CO<sub>2</sub>-Sensoren eingesetzt. Diese seien aber entsprechend aufwändig. Für die Steuerung von Lüftungsmitteln in Einzelräumen wird deshalb eine Einrichtung vorgeschlagen, die die CO<sub>2</sub>-Konzentration erfasst und mit einem einstellbaren Schwellenwert vergleicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>bb) Damit ist kein Verfahren oder System zur Verwaltung von Wärmeenergie in einem Gebäude mit Aufzugsanlage offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Die in A7 vorgeschlagene Einrichtung mag zwar auch für diesen Zweck eingesetzt werden können. Ein solcher Einsatz ist in der Entgegenhaltung aber nicht beschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Hierbei kann offenbleiben, ob ein Aufzugsschacht, wie die Klägerin zu 1 in der mündlichen Verhandlung geltend gemacht hat, aus Sicht des Fachmanns als Raum im Sinne von A7 anzusehen ist. Selbst wenn dies zu bejahen wäre, ergäbe sich aus dem in A7 enthaltenen Hinweis, das vorgeschlagene System sei besonders zur Steuerung von Lüftungsmitteln von Einzelräumen geeignet, nicht die unmittelbare und eindeutige Offenbarung des Einsatzes in einem Aufzugsschacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>cc) Darüber hinaus ist in A7 nicht offenbart, die vorgeschlagene Einrichtung zur Überwachung der Anwesenheit von Personen in einer Aufzugsanlage einzusetzen und anhand der erfassten Daten ein Verschließelement in der vom Streitpatent beanspruchten Weise anzusteuern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Eine diesbezügliche Anregung hätte sich aus anderen Entgegenhaltungen wie A9, A4 oder A3 allenfalls dann ergeben, wenn der Fachmann Veranlassung gehabt hätte, die Anwesenheit von Personen in der Aufzugsanlage zum Anlass zu nehmen, das Verschließelement zu schließen. Daran fehlte es indes aus den bereits in Zusammenhang mit A9 angeführten Gründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Klägerin zu 1 ist der Gegenstand des Streitpatents durch die japanische Offenlegungsschrift Hei 4-184075 (A34) und die US-Patentschrift 5 718 627 (A22) ebenfalls nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>aa) In A34 wird ein System zur Zufuhr von Frischluft in ein Gebäude vorgeschlagen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Bei dem in A34 offenbarten System sind in einem Aufzugsschacht auf mehreren Stockwerken jeweils ein Frischlufteinlass und ein mit dem Gebäudeinneren verbundener Kanal angeordnet. Zur Luftbewegung werden Rückschlagventile eingesetzt, die auf die bei der Bewegung der Aufzugskabine entstehenden Druckänderungen reagieren. In Bereichen mit Überdruck strömt Luft aus dem Schacht in das Gebäudeinnere, in Bereichen mit Unterdruck wird Frischluft von außen in den Schacht gesaugt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>bb) Ob darin ein Verfahren zur Verwaltung von Wärmeenergie im Sinne von Merkmal 1 zu sehen ist, kann offen bleiben. Jedenfalls sind die Merkmale 2 bis 5 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Die als Verschließelemente fungierenden Rückschlagventile an den Frischlufteinlassen werden bei dem in A34 offenbarten System nicht durch eine Verwaltungseinheit gesteuert, die bestimmte Betriebsparameter überwacht, sondern allein durch den Luftdruck im Aufzugsschacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>cc) Aus A22 ergibt sich nicht die Anregung, das in A34 offenbarte System um die Merkmale 2 bis 5 zu ergänzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>In A22 ist ein System zur Belüftung eines Aufzugsschachts im Brandfall offenbart, bei dem über spezielle Kanäle angesaugte Frischluft mittels Ventilatoren von unten in den Schacht eingeblasen wird und in bestimmten Betriebssituationen über eine an der Oberseite des Schachts angebrachte Klappe entweicht. Diese Klappe ist steuerbar, damit die Luft bei bestimmten Stellungen der Aufzugskabine in das Gebäudeinnere entweichen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn der Fachmann Veranlassung gehabt haben sollte, die in A34 und A22 offenbarten Lösungen miteinander zu kombinieren, hätte sich daraus nicht die Anregung ergeben, mittels der in A22 vorgesehen Steuerung auch die Anwesenheit einer Person in der Aufzugsanlage oder die Bewegung der Kabine im Schacht zu überwachen und die Verschließeinrichtung zu öffnen, wenn mindestens einer dieser beiden Zustände eingetreten ist. In A22 hängt die Ansteuerung der Klappe davon ab, an welcher Position sich die Aufzugskabine befindet. Daraus ergibt sich nicht die Anregung, die Klappe aus anderen Gründen zu öffnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>c) Aus dem in zweiter Instanz vorgelegten Bauprüfdienst 3/1997 der Baubehörde Hamburg (A41) ergeben sich keine weiteren Anregungen. Deshalb kann dahingestellt bleiben, ob der diesbezügliche Vortrag der Klägerin zu 1 rechtzeitig ist und ob dieses Dokument am Prioritätstag öffentlich zugänglich war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>aa) In A41 wird dargelegt, Fahrschächte seien nach § 35 Abs. 5 der Hamburger Bauordnung mit einer Rauchabzugsvorrichtung zu versehen. Auf dieser Grundlage wird festgelegt, Rauchabzugseinrichtungen dürften gleichzeitig der Lüftung dienen, wenn sie bestimmten Anforderungen genügten. Für den Fall, dass Rauchabzugsöffnungen durch Klappen verschlossen würden, müssten diese sich bei Auftreten von Rauch oder bei Temperaturen von etwa 70 °C selbsttätig öffnen und zusätzlich von einer geeigneten Stelle aus von Hand betätigt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>bb) Daraus ist zwar zu entnehmen, dass die Anbringung einer Verschließeinrichtung jedenfalls in einem Bundesland schon im Jahr 1997 als zulässig angesehen wurde. Die Konstellationen, für die eine Öffnung zwingend vorgeschrieben wird, decken sich jedoch, wie auch die Klägerin zu 1 nicht verkennt, im Wesentlichen mit den in A4 und A3 genannten. Eine Anregung, die Aufzugsanlage auch auf die Anwesenheit einer Person zu überwachen, ergibt sich daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>d) Die Gründe, aus denen das Patentgericht die Erfindung als so hinreichend offenbart angesehen hat, dass der Fachmann sie ausführen kann, lassen keine fehlerhafte Beurteilung erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>aa) Das Patentgericht hat sich mit dem erstinstanzlichen Vorbringen der Klägerin zu 1, auf das diese in ihrer Berufungserwiderung pauschal Bezug nimmt, im Einzelnen befasst und dieses mit zutreffender Begründung als nicht stichhaltig angesehen. Zusätzliche Gesichtspunkte, die zu einer abweichenden Beurteilung führen könnten, zeigt die Berufungserwiderung nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der in der mündlichen Verhandlung geäußerten Auffassung der Klägerin zu 1 führt der Umstand, dass es das Streitpatent dem Fachmann überlässt, anhand welcher Kriterien die Anwesenheit einer Person in der Aufzugsanlage oder die Bewegung der Kabine im Schacht erfasst wird, nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung des Streitpatents werden dem Fachmann zwei gangbare Wege zur Erfassung der genannten Betriebszustände aufgezeigt, nämlich der Einsatz von Sensoren und die Auswertung von Bedienungsvorgängen an der Aufzugsanlage selbst. Damit ist die Erfindung ausreichend offenbart. Dass es zahlreiche andere, in der Patentschrift nicht näher dargestellte Möglichkeiten geben mag, das Vorliegen der genannten Betriebszustände zu erfassen, ist deshalb unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Obwohl die beiden Klägerinnen das Streitpatent in unterschiedlichem Umfang angegriffen haben, sind die Kosten auf sie gemäß § 100 Abs. 1 ZPO nach Kopfteilen zu verteilen. Für eine abweichende Verteilung nach § 100 Abs. 2 ZPO besteht kein Anlass, weil der auf einzelne Ansprüche beschränkte Angriff der Klägerin zu 1 im Falle einer isolierten Klage nicht zu einer erheblichen Reduzierung des Streitwerts geführt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE308252018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

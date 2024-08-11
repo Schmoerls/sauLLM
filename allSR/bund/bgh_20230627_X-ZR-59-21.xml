@@ -1,0 +1,2840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300882023</doknr>
+   <ecli>ECLI:DE:BGH:2023:270623UXZR59.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230627</entsch-datum>
+   <aktenzeichen>X ZR 59/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 81 PatG, § 121 Abs 2 PatG, § 93 ZPO</norm>
+   <vorinstanz>vorgehend BPatG München, 12. März 2021, Az: 6 Ni 4/20, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Veranlassung zur Erhebung einer Nichtigkeitsklage durch den Patentinhaber - Anzeigemonitor</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Anzeigemonitor</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein Patentinhaber gibt Anlass zur Erhebung einer Nichtigkeitsklage, wenn er dem potenziellen Nichtigkeitskläger trotz Aufforderung nicht schon vor Klageerhebung eine Rechtsstellung verschafft, die mit derjenigen nach der Nichtigerklärung des Patents vergleichbar ist (Bestätigung von BGH, Urteil vom 13. August 2013 - X ZR 73/12, GRUR 2013, 1282 Rn. 50 - Druckdatenübertragungsverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Eine vorherige Aufforderung seitens des Nichtigkeitsklägers ist nicht schon deshalb entbehrlich, weil der Patentinhaber im Rahmen von Lizenzverhandlungen hat erkennen lassen, dass er einem Rechtsstreit nicht aus dem Weg gehen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 6. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 12. März 2021 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den erstinstanzlichen Kosten des Rechtsstreits tragen die Beklagte vier Fünftel und die Klägerin ein Fünftel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Berufungsverfahrens trägt die Beklagte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des deutschen Patents 198 54 241 (Streitpatents), das am 24. November 1998 angemeldet wurde und die Darstellung von Bildern betrifft. Patentanspruch 1, auf den elf Ansprüche zurückbezogen sind, lautet in der von der Beklagten hauptsächlich verteidigten Fassung (Änderungen zur erteilten Fassung sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zum Darstellen von an einem Anzeigemonitor (7) wiedergebbaren Bildern (A, B, C), bei dem mittels eines Bildaufnahmesystems (2) einer Untersuchungsanlage digitale Bilddaten eines Untersuchungsvolumens eines Objekts (O) aufgenommen werden, bei welchem Verfahren am Anzeigemonitor (7) gleichzeitig wenigstens zwei Bilder (A, B, C) des Untersuchungsvolumens als Projektionsbilder oder Schnittbilder mit beliebiger Orientierung ihrer Bildebenen zueinander angezeigt werden, wobei in jedem Bild wenigstens eine Markierung (M) angezeigt wird, die eine Information über die Lage der Bildebene eines der anderen Bilder bezüglich des Bildes, in dem die Markierung angezeigt wird, angibt, <span style="text-decoration:underline">wobei die Orientierung der Bildebene eines Bilds (A, B, C) und damit die Ansicht des Bilds unter entsprechend angepasster Darstellung der Markierungen (M) geändert werden kann, und wobei die Änderung durch Bewegen der Markierungen (M) insbesondere Verschieben oder Verdrehen der Linien mittels geeigneter Steuermittel, insbesondere umfassend eine Steuerungsmaus (8) erfolgt.</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 13 der verteidigten Fassung, auf den ebenfalls elf Ansprüche zurückbezogen sind, stellt sinngemäß eine zur Ausführung dieses Verfahrens geeignete Vorrichtung unter Schutz, Patentanspruch 25 eine medizinische Untersuchungsanlage mit einem Bildaufnahmesystem und dieser Vorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die wegen Verletzung des Streitpatents gerichtlich in Anspruch genommen wird, hat geltend gemacht, der Gegenstand des Schutzrechts sei nicht patentfähig. Die Beklagte hat das Streitpatent mit einem Hauptantrag und neun Hilfsanträgen in geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, die das Streitpatent mit ihren erstinstanzlichen Anträgen sowie neun weiteren Hilfsanträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist nicht begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Die Klage ist trotz Erlöschens des Streitpatents weiterhin zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend angenommen hat und auch die Beklagte nicht in Zweifel zieht, hat die Klägerin das erforderliche Rechtsschutzinteresse, weil sie wegen Verletzung des Streitpatents in Anspruch genommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Das Streitpatent betrifft die Darstellung von Bildern auf einem Anzeigemonitor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents werden bei medizinischen Untersuchungen, etwa mittels Magnetresonanzanlagen, Computertomographen oder Röntgenanlagen, Bilder eines Untersuchungsobjektes aufgenommen und an einem Monitor dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Dabei sei es wichtig, dem Nutzer auf möglichst einfache Weise viele Informationen zu vermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Davon ausgehend liegt dem Streitpatent das technische Problem zugrunde, Bilder an einem Anzeigemonitor auf einfache und übersichtliche Weise darzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung schlägt das Streitpatent in der verteidigten Fassung von Patentanspruch 1 ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (Änderungen gegenüber der erteilten Fassung sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren zum Darstellen von an einem Anzeigemonitor (7) wiedergebbaren Bildern (A, B, C).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Mittels eines Bildaufnahmesystems (2) einer Untersuchungsanlage werden digitale Bilddaten eines Untersuchungsvolumens eines Objekts (O) aufgenommen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Am Anzeigemonitor (7) werden gleichzeitig wenigstens zwei Bilder (A, B, C) des Untersuchungsvolumens angezeigt, und zwar</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3.1 als Projektionsbilder oder Schnittbilder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3.2 mit beliebiger Orientierung ihrer Bildebenen zueinander.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">In jedem Bild wird wenigstens eine Markierung (M) angezeigt,</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.4.1 die eine Information angibt über die Lage der Bildebene eines der anderen Bilder bezüglich des Bildes, in dem die Markierung angezeigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">1.5</span>      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Die Orientierung der Bildebene eines Bilds (A, B, C) und damit die Ansicht des Bilds unter entsprechend angepasster Darstellung der Markierungen (M) kann geändert werden, und zwar</span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <span style="text-decoration:underline">1.5.1 durch Bewegen der Markierungen (M), insbesondere Verschieben oder Verdrehen der Linien mittels geeigneter Steuermittel, insbesondere umfassend eine Steuerungsmaus (8).</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Einige Merkmale bedürfen näherer Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand der Patentansprüche 1, 13 und 25 wird trotz im Einzelnen abweichender Merkmale durch die Art und Weise geprägt, in der die Bilder angezeigt werden. Die beiden zuletzt genannten Ansprüche unterliegen deshalb keiner anderen Beurteilung als Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>aa) Patentanspruch 13 sieht als zwingende Bestandteile der Vorrichtung eine Bildverarbeitungseinrichtung (6) und einen Anzeigemonitor (7) vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Damit bleibt offen, auf welche Weise die zur Anzeige eingesetzten Bilddaten gewonnen und wie sie der Verarbeitungseinrichtung zugeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>bb) Patentanspruch 25 sieht eine medizinische Untersuchungsanlage vor, die ein Bildaufnahmesystem und eine Vorrichtung nach Anspruch 13 umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Hieraus ergibt sich nicht zwingend, dass die beiden genannten Komponenten in einem gemeinsamen Gehäuse untergebracht oder in sonstiger Weise fest miteinander verbunden sind. Ebenfalls bleibt offen, in welcher Weise die Bilddaten gewonnen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>cc) Das in Patentanspruch 1 geschützte Verfahren umfasst nach Merkmal 1.2 auch die Aufnahme hierzu geeigneter digitaler Bilddaten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich der Ausgestaltung der hierzu eingesetzten Untersuchungsanlage und des zu dieser gehörenden Bildaufnahmesystems enthält Patentanspruch 1 ebenfalls keine näheren Vorgaben. Insbesondere ist der Gegenstand dieses Anspruchs nicht auf die in der Beschreibung beispielhaft aufgeführten Aufnahmesysteme (Röntgen, Ultraschall, Magnetresonanz, Computertomographie, Abs. 2, 20) beschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 fordert auch nicht zwingend, dass die Untersuchungsanlage neben dem Bildaufnahmesystem auch die Anzeigeeinrichtung umfasst. Er lässt vielmehr offen, auf welchem Weg die aufgenommenen digitalen Bilddaten zum Anzeigemonitor gelangen. Auch die Beschreibung sieht insoweit lediglich vor, dass die mit dem Bildaufnahmesystem der Untersuchungseinrichtung aufgenommenen digitalen Bilder an eine weitere Vorrichtung (5) mit einem Anzeigemonitor (7) weitergeleitet werden (Abs. 20 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Schnittbilder und Projektionsbilder im Sinne von Merkmal 1.3.1 stellen Ansichten aus dem Inneren des untersuchten Objekts dar. Das Streitpatent unterscheidet diese von Oberflächenbildern, die nur die äußere Ansicht eines Objekts zeigen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>aa) Ein Schnittbild im Sinne von Merkmal 1.3.1 zeigt eine einzelne Ebene des Untersuchungsvolumens. Es enthält deshalb zwingend eine zweidimensionale Darstellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Ein Projektionsbild im Sinne von Merkmal 1.3.1 stellt demgegenüber Informationen aus mehreren Ebenen des Untersuchungsvolumens dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Ein Beispiel dafür ist ein Röntgenbild. Dessen Inhalt hängt davon ab, wie stark die Röntgenstrahlen auf dem Weg durch das untersuchte Objekt bis zur dargestellten Bildebene absorbiert worden sind. Der Darstellung lässt sich jedoch nicht entnehmen, in welcher Ebene die Absorption erfolgt ist. Angezeigt werden also Informationen, die aus allen Ebenen zwischen der Strahlenquelle und der dargestellten Bildebene stammen können. Auch dabei handelt es sich um eine zweidimensionale Darstellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 sieht jedoch nicht zwingend vor, dass das Projektionsbild ein Röntgenbild ist. Er lässt vielmehr offen, auf welche Weise die Bilddaten gewonnen werden. Zu den in Betracht kommenden Aufnahmemethoden gehören nach der Beschreibung auch solche, die das aufgenommene Volumen in mehreren Einzelschichten darstellen. Mit einem solchen Bilddatensatz sei es möglich, eine Aufnahme in Form eines Volumenbildes, zum Beispiel als Projektionsbild oder als Oberflächenbild in dreidimensionaler Form darzustellen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Ob hieraus zu entnehmen ist, dass ein Projektionsbild im Sinne von Merkmal 1.3.1 auch eine dreidimensionale Darstellung enthalten kann, ist, wie noch aufzuzeigen sein wird, für die Entscheidung über den Rechtsbestand des Streitpatents nicht erheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>c) Eine Anzeige von mindestens zwei Bildern mit beliebiger Orientierung der Bildebenen zueinander gemäß Merkmal 1.3.2 erfordert, dass die Bildebenen grundsätzlich in jedem beliebigen Winkel und mit beliebigem Schnittpunkt zueinander stehen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Dies steht in Einklang mit den Ausführungsbeispielen in den Figuren 2 bis 7.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>In der nachfolgend wiedergegebenen Figur 2 werden drei Bilder (A, B, C) angezeigt, deren Ebenen (a, b, c) jeweils senkrecht zueinander stehen (Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene Figur 3 zeigt die Darstellung von drei Bildebenen, die parallel zu den in Figur 2 dargestellten Ebenen ausgerichtet, gegenüber diesen aber verschoben sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Auch damit ist die Orientierung der Bildebenen gegenüber Figur 2 geändert. Zur Orientierung gehört nicht nur der Winkel, in dem die einzelnen Ebenen zueinander stehen, sondern auch der Ort, an dem sie sich schneiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Die Figuren 4 bis 6 zeigen Darstellungen, bei denen mindestens eine Bildebene gegenüber einer anderen schräg verkippt oder verdreht angeordnet ist (Abs. 27-29). Gewissermaßen in Extremform ist dies in der nachfolgend wiedergegebenen Figur 7 dargestellt. Dort steht keine der drei Bildebenen senkrecht auf einer anderen (Abs. 30).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Klägerin genügt es vor diesem Hintergrund nicht, wenn irgendeine Orientierung der Bildebenen möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich insbesondere nicht aus den Ausführungen in der Beschreibung, nach dem erfindungsgemäßen Verfahren stünden mehrere Bilder beispielsweise senkrecht aufeinander (Abs. 6). Diese einleitende Schilderung umschreibt die technische Lösung nicht abschließend. Eine senkrechte Ausrichtung wird zudem nur als Beispiel angeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Aus dem Wortlaut von Merkmal 1.3.2 und den damit korrespondierenden Ausführungsbeispielen in den Figuren 2 bis 7 ergibt sich, dass es bei jedem Bild möglich sein muss, die Orientierung der Bildebene im Verhältnis zu den Ebenen der anderen Bilder grundsätzlich frei zu wählen. Dies bestätigen die Ausführungen in der Beschreibung, wonach in Figur 7 der größte Komplexitätsgrad erreicht sei, weil sämtliche Bilder beliebig im dreidimensionalen Raum orientiert seien (Abs. 30).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Dieser Anforderung ist nicht genügt, wenn die Orientierung der Bildebene nur bei einem Bild frei gewählt werden kann. Die Möglichkeit zur beliebigen Orientierung muss vielmehr für jedes der mindestens zwei Bilder bestehen, die Merkmal 1.3 vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>d) Die nach Merkmal 1.4 angezeigte Markierung (M) ist in Merkmal 1.4.1 lediglich dahin charakterisiert, dass sie eine Information über die Lage der Bildebene eines der anderen Bilder bezüglich des angezeigten Bildes angibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Wie diese Information beschaffen ist und in welcher Weise sie dargestellt wird, ist damit nicht näher festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>aa) In den Figuren 2 bis 7 bestehen die Markierungen aus Linien, die die Lage der Bildebene angeben (Abs. 23), und aus Pfeilen, die die Betrachtungsrichtung anzeigen (Abs. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Die Darstellung mittels Linien wird in der Beschreibung als zweckmäßig bezeichnet (Abs. 7). Hieraus und aus dem Umstand, dass Patentanspruch 1 insoweit keine Vorgaben enthält, ergibt sich, dass auch andere Arten der Markierung in Betracht kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Beklagten ist Merkmal 1.4.1 nicht zu entnehmen, dass die in der Markierung enthaltene Information ohne Rückgriff auf zusätzliche Informationen Aufschluss über die Lage der Bildebene geben muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Auch bei den Ausführungsbeispielen in den Figuren 2 bis 7 sind zusätzliche Informationen erforderlich, um die Bedeutung der Linien und Pfeile erfassen zu können. Insbesondere muss dem Betrachter bekannt sein, dass die Farbe der Linien und die diesen beigefügten Buchstaben darauf hinweisen, dass sie die Bildebene des Bildes darstellen, das mit demselben Buchstaben gekennzeichnet und mit derselben Farbe umrandet ist (Abs. 8, 23). Ein Mindestmaß an Informationen, das schon aus der bildlichen Darstellung selbst hervorgehen muss, ist Merkmal 1.4.1 vor diesem Hintergrund nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>cc) Anders als die Beklagte meint, muss die Anzahl der Markierungen in einem Bild nicht zwingend der Anzahl der übrigen Bilder entsprechen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmal 1.4 genügt es, wenn jedes Bild eine solche Markierung enthält. Diese Mindestanforderung gilt unabhängig von der Anzahl der dargestellten Bilder, also auch für Ausgestaltungen, in denen es zu jedem Bild mehr als ein weiteres Bild gibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Eine weitergehende Festlegung enthält erst Patentanspruch 2, der zwingend die Anzeige von drei Bildern und die Wiedergabe von zwei Markierungen in jedem Bild vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>e) Die in Merkmalsgruppe 1.5 vorgesehene Änderung der Orientierung muss in jedem nach Merkmal 1.3 vorgesehenen Bild möglich sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Nach dem Wortlaut von Merkmal 1.5 genügt es zwar, wenn die Orientierung der Bildebene "eines Bildes" geändert werden kann. Aus dem Zusammenhang mit Merkmal 1.3.2, wonach jedes in Merkmal 1.3 vorgesehene Bild eine beliebige Orientierung aufweisen kann, ergibt sich aber, dass für jedes dieser Bilder eine entsprechende Einstellmöglichkeit bestehen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Dem steht nicht entgegen, dass in den Figuren 3 und 4 im Vergleich zu der jeweils vorhergehenden Figur nur jeweils eine Markierung geändert worden ist. Aus dem Zusammenhang der Ausführungsbeispiele ergibt sich, dass solche Änderungen aufeinanderfolgend in jedem der betroffenen Bilder möglich sein müssen, und zwar grundsätzlich in beliebiger Reihenfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>III. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Patentanspruchs 1 in der hauptsächlich verteidigten Fassung sei gegenüber der als WO 98/16903 A1 veröffentlichten PCT-Anmeldung (NK21) nicht neu. Die Entgegenhaltung zeige ein Verfahren zum Darstellen von Bildern. Der Anzeigemonitor zeige gleichzeitig mindestens zwei Bilder als Schnittbilder und ein Projektionsbild. Die Bildebenen könnten orthogonal und schräg ausgewählt sowie mit beliebiger Orientierung und Winkellage zueinander angezeigt werden. In jedem Bild werde wenigstens eine Markierung angezeigt, die eine Information über die Lage der Bildebene angebe. Diese könnten mittels drag and drop an eine andere Stelle eines Bildes bewegt werden, wodurch sich die Orientierung der Bildebene ändere.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn NK21 lediglich eine schräge Bildebene ermöglichen sollte, an der die Ebenen der anderen Bilder jeweils orthogonal ausgerichtet sind, wende der Fachmann, ein Diplom-Informatiker, Diplom-Physiker oder Diplom-Ingenieur der Elektrotechnik mit Berufserfahrung auf dem Gebiet der Darstellung von (dreidimensionalen) Bildern aus medizinischen Untersuchungen, die in NK21 offenbarte technische Lehre der schrägen Bilddarstellung aufgrund ihrer Vorteile nicht nur für ein einziges Schnittbild an, sondern auch bei weiteren Schnittebenen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Die Unteransprüche 2 bis 12 in der hauptsächlich verteidigten Fassung wiesen keine patentbegründenden Besonderheiten auf. Die in Unteranspruch 2 vorgesehene Anzeige von drei Ansichten auf einem Anzeigemonitor mit jeweiligen Markierungen sei in Figur 16 der NK21 offenbart. Soweit Unteranspruch 3 angebe, dass abhängig von der Lage der Bildebenen verschiedene Markierungen verwendet werden, liege dies für den Fachmann im Rahmen seines handwerklichen Könnens und müsse zudem als nicht technisch außer Betracht bleiben. Dass die Markierungen wie nach den Unteransprüchen 4 und 5 vorgesehen als Linien ausgeführt sind, die im Wesentlichen über das gesamte Bild laufen, folge bereits aus Figur 16 der NK21. Dort sei auch die Lehre der Unteransprüche 7 und 8 vorweggenommen, wonach jedem Bild als Kennung eine bestimmte Farbe zugeordnet ist, die in der Markierung eines anderen Bildes aufgegriffen wird. Die in Unteranspruch 6 vorgesehene Verwendung von durchgezogenen und unterbrochenen Linien ergebe sich aus dem Fachwissen; gleiches gelte für die in Unteranspruch 9 gelehrte Angabe der Blickrichtung durch eine Zusatzmarkierung. Dass ein Trackball als Bedienelement verwendet werden solle, wie dies Unteranspruch 10 vorsehe, sei in NK21 offenbart. Die Merkmale der Unteransprüche 11 und 12 seien ebenfalls in NK21 vorweggenommen, die vorsehe, dass der Fachmann zwischen der ausschließlichen Anzeige von Schnittbildern oder einem dreidimensionalen Bild sowie Mischformen von Schnittbildern und dreidimensionalen Bildern auswähle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Hilfsantrag 1 sei in NK21 offenbart, nach deren Figur 16 die Anzahl der Linien in den jeweiligen Bildern der Anzahl der übrigen Schnittbilder entspreche. Des Weiteren offenbare NK21 die Änderung von zwei Markierungen in Form von Linien allein durch deren Bewegen gemäß den Hilfsanträgen 2 bis 4 sowie 6. Bei Hilfsantrag 5 sei kein technischer Unterschied zu Hilfsantrag 4 erkennbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Der in der mündlichen Verhandlung gestellte Hilfsantrag 9 sei als verspätet zurückzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Patentanspruchs 1 in der Fassung der Hilfsanträge 7 bis 9 sei unzulässig erweitert. Dass die Untersuchungsanlage als Röntgen-C-Bogen-Anlage ausgebildet sein könne, sei nicht ursprungsoffenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der nebengeordneten Vorrichtungsansprüche und der auf diese zurückbezogenen Unteransprüche, die in der hauptsächlich verteidigten Fassung als Ansprüche 13 bis 25 beziffert sind, unterlägen derselben Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Beurteilung hält der Überprüfung im Berufungsverfahren im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>1. Zu Unrecht hat das Patentgericht allerdings den mit dem Hauptantrag verteidigten Gegenstand von Patentanspruch 1 als durch NK21 vollständig offenbart angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>a) NK21 betrifft die Anzeige von Bildern auf einer an einen Computer gekoppelten Anzeigevorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Beschreibung von NK21 erzeugen medizinische Bildgebungsgeräte Volumenbilder, die mittels Volumen-Rendering-Techniken unter Einteilung des Untersuchungsobjekts in volumetrische Bausteine (Voxel) dreidimensional angezeigt werden (S. 1 Z. 10 ff.; S. 3 Z. 3 ff.). Da je nach Untersuchungsobjekt unterschiedliche Variablen einzustellen seien (S. 4 Z. 24 ff.), sei eine einfache Bedienung des Volumen-Rendering-Tools vorteilhaft (S. 5 Z. 16 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>NK21 schlägt hierzu vor, die von einem Bildaufnahmesystem aufgenommenen Bilder beispielsweise über ein Netzwerk an einen Advanced Diagnostic Viewer (ADV) zu übertragen (S. 11 Z. 28; S. 12 Z. 4-6; S. 13 Z. 2-8), auf dessen Monitor die Ansichten der Bilder verfeinert werden können (S. 6 Z. 15 ff.; S. 10 Z. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>bb) Eine beispielhafte Ansicht ist in der nachfolgend wiedergegebenen Figur 13 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Mit Hilfe der Steuerelemente am linken oberen Bildschirmrand können unterschiedliche Anzahlen von Unterfenstern mit verschiedenen Ansichten dargestellt werden. In dem dargestellten Beispiel werden vier Unterfenster angezeigt, die ein dreidimensionales Bild (314) und drei zweidimensionale Multiplanar-Reformatierungs-Ansichten (MPR) (310, 312, 316) wiedergeben (S. 25 Z. 20-25). Letztere stellen Schnitte durch das dreidimensionale Bildvolumen dar (S. 29 Z. 31 ff.). Für das dreidimensionale Bild ist über ein Menü (288) die Transparenz einstellbar (S. 34 Z. 7. ff.; S. 35 Z. 19 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Alternativ stehen neun Unterfenster zur Anzeige von neun MPR-Ansichten (S. 25 Z. 18-19), fünf Unterfenster mit zwei dreidimensionalen (Innenansicht, Außenansicht) und drei MPR-Ansichten (S. 26 Z. 3 ff.; Fig. 15) sowie ein einzelnes Unterfenster mit einer dreidimensionalen Ansicht (S. 25 Z. 26 f.; Fig. 14) zur Verfügung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>cc) Die Betrachtungsebene der dreidimensionalen Bilder (314) kann durch Bewegung der Maus nach Drücken der linken Maustaste verschoben werden, was beispielsweise eine kreisförmige Rotation um eine Achse bewirkt (S. 26 Z. 27 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Welche Orientierung angezeigt wird, ist durch vier mit den Buchstaben A, P, S und I (anterior, posterior, superior, inferior) beschriftete Achsen dargestellt (S. 27 Z. 13-25).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>dd) Für die zweidimensionalen MPR-Ansichten kann mit Hilfe eines Kontrollkästchens (oblique check box) (298) zwischen zwei unterschiedlichen Darstellungsarten umgeschaltet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Wenn das Kontrollkästchen (298) nicht aktiviert ist, werden in den drei MPR-Ansichten der Figur 13 stets dieselben drei Betrachtungsebenen (sagittal, koronal und horizontal) angezeigt, und zwar unabhängig von der Orientierung der dreidimensionalen Ansicht (S. 28 Z. 7-11; S. 37 Z. 12-18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Wenn das Kontrollkästchen (298) aktiviert ist, führen Änderungen in der Orientierung der dreidimensionalen Ansicht zu einer entsprechenden Änderung der Orientierung in den zweidimensionalen Ansichten (S. 21 Z. 25-27; S. 37 Z. 19-26). Änderungen der Orientierung in den zweidimensionalen Ansichten werden mit Achsenindikatoren angezeigt, die den Indikatoren (336, 338, 340, 442) der dreidimensionalen Ansicht ähnlich sind (S. 29 Z. 4-7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>ee) Jede MPR-Ansicht stellt eine Schicht (slice) oder einen Querschnitt des dreidimensionalen Volumens dar. Eine Ausführungsform ermöglicht es dem Benutzer, von jeder zweidimensionalen MPR-Ansicht von einer Scheibe auf der Ebene des Bildschirms oder den beiden senkrecht zu dieser stehenden Ebenen zu jeder beliebigen anderen Scheibe zu wechseln, auch wenn diese nicht nebeneinanderliegen (S. 30 Z. 2-4 und Z. 30 f.; S. 31 Z. 2-5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Dafür verfügt jede MPR-Ansicht über einen gefärbten Rahmen, der eine der drei Ebenen repräsentiert (S. 30 Z. 9-12), und über ein Fadenkreuz aus horizontalen und vertikalen Linien (352, 354; 356, 358; 360, 362; S. 30 Z. 12-22). Dies ist beispielhaft in der nachfolgend wiedergegebenen Figur 16 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Die Farbe der Linien stimmt mit der Rahmenfarbe der Ansicht überein, die die korrespondierende Ebene anzeigt. So haben die Linien 352 und 362 dieselbe Farbe wie der Rand des Unterfensters 348; die Linien 354 und 358 haben dieselbe Farbe wie der Rand des Unterfensters 350 und die Linien 356 und 360 haben dieselbe Farbe wie der Rand des Unterfensters 346 (S. 30 Z. 22-27).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Um die Ebene zu verändern, aktiviert der Benutzer eine Schaltfläche (272). Dann kann er die Linie eines Fadenkreuzes unter Drücken der rechten Maustaste bewegen. Dadurch wird die Ansicht in dem Unterfenster geändert, dessen Rahmen dieselbe Farbe hat wie die bewegte Linie. Um zwei MPR-Ansichten auf einmal zu ändern, kann der Schnittpunkt der beiden Linien mit der entsprechenden Farbe bewegt werden (S. 30 Z. 28 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>b) Damit sind die Merkmale 1.1 bis 1.3.1 und 1.4 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>c) Die Merkmale 1.3.2 und 1.5 sind demgegenüber nicht vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>aa) In dem Modus mit nicht aktiviertem Kontrollkästchen (298) ist Merkmal 1.3.2 bezüglich der dreidimensionalen Ansicht offenbart. Es fehlt aber an einer Offenbarung dieses Merkmals in Bezug auf die anderen Unterfenster.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>Ist das Kontrollkästchen (298) nicht aktiviert, führt eine Änderung der Orientierung der dreidimensionalen Ansicht nicht zu Änderungen der zweidimensionalen Darstellungen. Damit kann die dreidimensionale Darstellung in beliebiger Orientierung zu den Ebenen der anderen Darstellungen angezeigt werden, wie dies Merkmal 1.3.2 vorsieht. Eine entsprechende Änderung in den drei anderen Unterfenstern ist hingegen nicht möglich, weil diese in diesem Modus stets dieselbe Orientierung aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>bb) Für den Modus mit aktiviertem Kontrollkästchen (298) gilt im Ergebnis nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Die Orientierung der zweidimensionalen Bilder kann in diesem Modus zwar geändert werden. Sie ist aber abhängig von der Orientierung des dreidimensionalen Bildes. Damit fehlt es an einer beliebigen Einstellmöglichkeit für alle Fenster.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>cc) Die für beide Betriebsarten vorgesehene Möglichkeit, die MPR-Ansichten so zu verschieben, dass jede andere Schicht sichtbar wird, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Den oben dargestellten Ausführungen zu dieser Funktion ist lediglich zu entnehmen, dass die Fadenkreuzlinien auf der Ebene des Bildschirms sowie der zwei senkrecht zu dieser stehenden Ebenen verschoben werden können, um in (mindestens) einer MPR-Schicht eine andere Ebene anzuzeigen. Daraus geht nicht unmittelbar und eindeutig hervor, dass hierbei auch die Orientierung einzelner MPR-Ansichten derart geändert werden kann, dass sie nicht mehr orthogonal zu den anderen Ansichten stehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Dies gilt auch für den Fall, dass der Ursprung des Fadenkreuzes schräg bewegt wird. Auch dies zieht lediglich eine entsprechende Anpassung der orthogonal zueinanderstehenden Ansichten nach sich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>dd) Aus dem in NK21 formulierten Anspruch 59 ergibt sich kein weitergehender Offenbarungsgehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Anspruch 59 sieht vor, dass jede zweidimensionale Ansicht eine unterschiedliche schräge Ansichtsebene zeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Diese Anforderung ist auch dann erfüllt, wenn die Orientierung der einzelnen Ebenen in einem festen Verhältnis zueinandersteht. Der abstrakten Formulierung in Anspruch 59 kann nicht entnommen werden, dass es darüber hinaus möglich sein soll, jede Ansichtsebene unabhängig von der anderen zu ändern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Einem weiterreichenden Verständnis steht zudem der Umstand entgegen, dass Anspruch 59 auf Anspruch 56 zurückbezogen ist. Dieser sieht die Darstellung einer dreidimensionalen Ansicht und drei damit in Beziehung stehenden (interrelated) zweidimensionaler Ansichten vor. Dies entspricht der auch in der Beschreibung geschilderten Ausgestaltung, wonach die Orientierung der zweidimensionalen Ansichten derjenigen der dreidimensionalen Ansicht folgt, also nicht unabhängig von dieser verändert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>ee) Aus Anspruch 66 ergeben sich keine weitergehenden Schlussfolgerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Anspruch 66 sieht vor, dass die Bewegung einer Fadenkreuz-Linie die zweidimensionale Sicht in dem mit derselben Farbe umrandeten Unterfenster verändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Diese Formulierung knüpft an die bereits aufgezeigten Ausführungen in der Beschreibung an, aus denen sich aus den genannten Gründen eindeutig nur die Möglichkeit zum Verschieben der Linien und damit zum Auswählen der angezeigten Schicht ergibt, nicht aber die Möglichkeit, die Orientierung zu ändern. Auch wenn die Formulierung in Anspruch 66 abstrakter gehalten ist, kann ihr vor diesem Hintergrund nicht mit der erforderlichen Deutlichkeit entnommen werden, dass das beanspruchte System weitere, in der Beschreibung nicht offenbarte Funktionen aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>ff) Aus den Ausführungen in der Beschreibung, in denen die schräge Anzeigemöglichkeit allgemein als eine Möglichkeit aufgeführt ist (z.B. S. 23 Z. 4 ff., 10 ff.; S. 26 Z. 24-26; S. 36 Z. 23 ff.), ergibt sich ebenfalls kein weitergehender Offenbarungsgehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Auch diese Ausführungen enthalten keine unmittelbaren und eindeutigen Hinweise auf zusätzliche Funktionen, die über die im Zusammenhang mit den Figuren 13 und 16 beschriebenen Funktionen hinausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>gg) Der Hinweis, die Steuerelemente seien individuell einstellbar, um die Ansichten des Bildes bestmöglich untersuchen zu können (S. 41 Z. 12 ff.), bezieht sich auf die anhand der Figuren 13 bis 21 geschilderten Ausführungsbeispiele. Ihm ist ebenfalls nicht unmittelbar und eindeutig zu entnehmen, dass es zusätzliche Einstellmöglichkeiten gibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>hh) Der Hinweis, dass der Benutzer die Dicke einer dargestellten Schicht verändern und auf diese Weise zweidimensionale MPR-Ansichten in dreidimensionale transparente Bilder überführen kann (z.B. S. 37 Z. 29 ff.; S. 35 Z. 19 ff.), lässt ebenfalls nicht unmittelbar und eindeutig erkennen, dass die Orientierung der MPR-Ansichten unabhängig von der Orientierung der dreidimensionalen Ansicht geändert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>2. Zu Recht ist das Patentgericht jedoch zu dem Ergebnis gelangt, dass der mit dem Hauptantrag verteidigte Gegenstand von Patentanspruch 1 ausgehend von NK21 nahegelegen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>a) Die verschiedentlichen Hinweise in NK21, dass dem Benutzer möglichst vielfältige Möglichkeiten zur Einstellung zur Verfügung stehen sollten, gaben Anlass, nach sinnvollen Ergänzungen der in NK21 beschriebenen Funktionen zu suchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Bei den in NK21 offenbarten visuellen Steuerelementen handelt es sich um Voreinstellungen (presets), die durch den Benutzer verändert werden können, um eine bestmögliche Ansicht des Bildes zu ermöglichen (S. 41 Z. 12 ff.). Diese Ansichten sind optional veränderbar (S. 36 Z. 23 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Auch wenn sich aus diesen Hinweisen nicht unmittelbar und eindeutig eine Veränderungsmöglichkeit im Sinne der Merkmale 1.3.1 und 1.5 ergibt, lassen sie erkennen, dass NK21 kein geschlossenes System vorsieht, das möglichst unverändert bleiben sollte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>b) Zu den zusätzlichen Funktionen, die sich ausgehend davon anboten, gehört die Möglichkeit, durch Bewegen der Achsen nicht nur die angezeigte Schicht zu verändern, sondern auch eine schräge (oblique) Orientierung einzelner MPR-Ansichten zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Eine schräge Orientierung einer zweidimensionalen MPR-Ansicht ist wie geschildert an zahlreichen Beschreibungsstellen allgemein als eine vom Nutzer einstellbare Variante angesprochen (etwa S. 23 Z. 4 ff., 10 ff.; S. 26 Z. 24-26; S. 36 Z. 23 ff.). Auch wird die Veränderbarkeit nur einer Ansicht angesprochen, die unabhängig von den anderen manipulierbar sein soll (etwa S. 23 Z. 10 ff.; S. 41 S. 16-18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Die in NK21 offenbarte automatische Anpassung der MPR-Ansichten an die Orientierung der dreidimensionalen Ansicht bei aktivem Kontrollkästchen (298) mag zwar in vielen Konstellationen ausreichen bzw. Vorteile bieten. Mit der Möglichkeit, diese Funktion mittels des Kontrollkästchens (298) zu deaktivieren, zeigt NK21 aber auf, dass es in anderen Konstellationen sinnvoller sein kann, wenn Änderungen in einem Unterfenster nicht automatisch zu einer Änderung in anderen Unterfenstern führen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Diese Hinweise auf eine möglichst flexible Ausgestaltung der visuellen Steuerelemente genügen vor dem aufgezeigten Hintergrund selbst dann als Anregung, wenn es sich bei der orthogonalen Anordnung dreier Ansichten, wie die Beklagte meint, um einen eingefahrenen Stand der Technik gehandelt hat. NK21 zeigt, dass im Einzelfall eine individuelle Einstellungsmöglichkeit von Vorteil sein kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>3. Ebenfalls zu Recht hat das Patentgericht den Gegenstand der mit dem Hauptantrag verteidigten Unteransprüche als nicht patentfähig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>a) Patentanspruch 2 sieht vor, dass am Anzeigemonitor (7) drei Bilder (A, B, C) und in jedem Bild zwei Markierungen (M) betreffend die Bildebenenlage der beiden anderen Bilder wiedergegeben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung hat das Patentgericht ausgehend von NK21 zu Recht als naheliegend angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>Wie oben dargelegt wurde, kann der Benutzer bei dem in NK21 beschriebenen Ausführungsbeispiel die Anzahl der angezeigten Unterfenster variieren. Ausgehend davon lag es nahe, wahlweise die Anzeige von genau drei Ansichten zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen kann offen bleiben, ob Patentanspruch 2 der Anzeige von mehr als drei Bildern zwingend entgegensteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>b) Die Patentansprüche 3 und 6 sehen (mit unterschiedlichem Konkretisierungsgrad) vor, dass eine erste Markierung verwendet wird, wenn die Bildebenen senkrecht aufeinander stehen, und eine zweite Markierung, wenn die Bildebenen einen anderen Winkel zueinander aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung hat das Patentgericht zu Recht als naheliegend angesehen, weil NK21 bezüglich der Art und Weise, in der die Markierungen dargestellt sind, keine abschließenden Festlegungen enthält und Anlass bestand, die Markierungen möglichst aussagekräftig zu gestalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>c) Die in den Patentansprüchen 4 und 5 vorgesehenen Merkmale, dass als Markierungen Linien angezeigt werden, die im Wesentlichen über das gesamte Bild laufen, sind, wie auch die Berufung nicht in Zweifel zieht, in NK21 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>d) Patentanspruch 7 sieht vor, dass jedem Bild eine spezifische Kennung zugeordnet wird und die zu diesem Bild gehörende Markierung in anderen Bildern ebenfalls diese Kennung aufweist. Nach Patentanspruch 8 soll als Kennung eine Farbe verwendet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Auch diese Ausgestaltungen sind in NK21 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>e) Patentanspruch 9 sieht eine Zusatzmarkierung vor, die die Blickrichtung angibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Eine solche Markierung hat das Patentgericht zu Recht als naheliegend angesehen, weil Zeichnungen häufig Angaben zur Blickrichtung enthalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>f) Nach Patentanspruch 10 soll die Änderung der Bildebenenorientierung mittels eines Trackballs erfolgen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>Dieses Bedienelement ist, wie auch die Berufung nicht in Zweifel zieht, in NK21 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>g) Nach Patentanspruch 11 sollen Volumenbilder in Form von Projektionsbildern oder Schnittbildern wiedergegeben werden. Patentanspruch 12 sieht zusätzlich vor, dass die Art der Darstellung für jedes Bild beliebig wählbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Eine solche Ausgestaltung lag ausgehend von NK21 jedenfalls nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>In NK21 ist zwar nur die Auswahl zwischen einzelnen Darstellungsarten ausdrücklich beschrieben. Die an verschiedener Stelle enthaltenen Hinweise, dem Benutzer möglichst viele Auswahlmöglichkeiten zu bieten, gaben aber Anlass, auch insoweit zusätzliche individuelle Einstellungsmöglichkeiten vorzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>4. Die mit den Hilfsanträgen verteidigten Gegenstände sind ebenfalls nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 1 soll Patentanspruch 1 wie folgt geändert bzw. ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">In jedem Bild <span style="text-decoration:underline">(A, B, C)</span> wird wenigstens eine Markierung (M) angezeigt,</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp" style="margin-left:36pt">
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4.1 </p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die <span style="text-decoration:underline">jeweils</span> eine Information angibt über die Lage der Bildebene eines der anderen Bilder <span style="text-decoration:underline">(B, C)</span> bezüglich des Bildes <span style="text-decoration:underline">(A)</span>, in dem die Markierung angezeigt wird.</p>
+                    </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp" style="margin-left:54pt">
+                    <tr>
+                        <td colspan="1" rowspan="1" valign="top">
+                            <p style="text-align:left">
+                           <span style="text-decoration:underline">1.4.2</span> </p>
+                        </td>
+                        <td colspan="1" rowspan="1" valign="top">
+                            <p style="text-align:left">
+                           <span style="text-decoration:underline">Die Anzahl der Markierungen (M) entspricht der Anzahl der übrigen Bilder (B, C).</span>
+                        </p>
+                        </td>
+                    </tr>
+                </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung ist, wie das Patentgericht zutreffend ausgeführt hat, in NK21 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>Die drei in Figur 16 dargestellten MPR-Ansichten enthalten je zwei Markierungen, die die Lage der Bildebene in den beiden anderen Ansichten darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>Dass daneben noch ein Unterfenster mit einer dreidimensionalen Ansicht vorhanden ist, führt nicht zu einer abweichenden Beurteilung. Eine solche Ausgestaltung ist durch Hilfsantrag 1 nicht ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>b) Nach den Hilfsanträgen 1a bis 9a sollen die Anträge entsprechender Nummerierung jeweils dahin modifiziert werden, dass in Merkmal 1.3 die Wörter "Projektionsbilder oder Schnittbilder" ersetzt werden durch "Schnittbilder".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Diese Modifikation führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>Die Anzeige von mehreren Schnittbildern ist in NK21 offenbart. Selbst wenn die Hilfsanträge dahin zu verstehen wären, dass die Anzeige von anderen Ansichten nicht zulässig ist, wäre dies ausgehend von den in NK21 aufgezeigten Einstellmöglichkeiten eine naheliegende Variante.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>c) Hilfsantrag 2 sieht ergänzend zu Hilfsantrag 1 vor, dass die Änderung der Orientierung allein durch Bewegen der Markierungen bewirkt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>Eine solche Ausgestaltung war ausgehend von NK21 aus den bereits im Zusammenhang mit dem Hauptantrag angeführten Gründen ebenfalls nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>d) Nach Hilfsantrag 3 soll die mit dem Hauptantrag verteidigte Fassung von Patentanspruch 1 um die zusätzlichen Merkmale aus den Patentansprüchen 2 und 4 ergänzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung war auch in ihrer Kombination aus den bereits im Zusammenhang mit den genannten Unteransprüchen aufgezeigten Gründen naheliegend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>e) Nach Hilfsantrag 4 soll Patentanspruch 1 in der Fassung von Hilfsantrag 3 in Merkmal 1.5.1 wie folgt geändert werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.5.1 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">allein</span> durch Bewegen der Markierungen (M), <span style="text-decoration:line-through">insbesondere </span>
+                           <span style="text-decoration:underline">in Form von</span> Verschieben oder Verdrehen der Linien mittels geeigneter Steuermittel, insbesondere umfassend eine Steuerungsmaus (8).</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_133">133</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung hat das Patentgericht zu Recht als in NK21 offenbart angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_134">134</a>
+            </dt>
+            <dd>
+               <p>f) Nach Hilfsantrag 5 soll Patentanspruch 1 in der Fassung von Hilfsantrag 4 in Merkmal 1.2 dahin modifiziert werden, dass die Wörter "bei dem" ersetzt werden durch "wobei". Ferner sind die bislang auf Schutz einer Vorrichtung zum Verarbeiten und Wiedergeben digitaler Bilder gerichteten Ansprüche nunmehr auf den Schutz einer medizinischen Untersuchungsanlage gerichtet, die neben der genannten Vorrichtung ein Bildaufnahmesystem umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_135">135</a>
+            </dt>
+            <dd>
+               <p>Diese Änderungen führen, wie das Patentgericht zu Recht ausgeführt hat, nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_136">136</a>
+            </dt>
+            <dd>
+               <p>Die geänderte Formulierung in Patentanspruch 1 lässt keine Änderung in der Sache erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_137">137</a>
+            </dt>
+            <dd>
+               <p>Die Kombination einer Vorrichtung zum Verarbeiten und Wiedergeben digitaler Bilder mit einem Aufnahmesystem lag schon deshalb nahe, weil das Verarbeiten und Wiedergeben nur möglich ist, wenn Bilddaten vorliegen. Nähere Vorgaben, in welcher Weise die einzelnen Komponenten miteinander verbunden sind, sieht auch Hilfsantrag 5 nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_138">138</a>
+            </dt>
+            <dd>
+               <p>g) Nach Hilfsantrag 6 soll Patentanspruch 1 in der Fassung von Hilfsantrag 5 um die zusätzlichen Merkmale aus den Patentansprüchen 4 und 5 ergänzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_139">139</a>
+            </dt>
+            <dd>
+               <p>Auch diese Kombination ist aus den im Zusammenhang mit den genannten Unteransprüchen genannten Gründen nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_140">140</a>
+            </dt>
+            <dd>
+               <p>h) Nach Hilfsantrag 7 soll Patentanspruch 1 in der Fassung von Hilfsantrag 6 dahin ergänzt werden, dass die digitalen Bilddaten mittels einer Röntgen-C-Bogen-Anlage aufgenommen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_141">141</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung ist ausgehend von NK21 ebenfalls nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_142">142</a>
+            </dt>
+            <dd>
+               <p>NK21 ist zu entnehmen, dass der Art des eingesetzten Aufnahmesystems grundsätzlich keine ausschlaggebende Bedeutung zukommt. Angesichts dessen lag es nahe, auch die mit einem C-Bogen gewonnenen Bilddaten in der in NK21 offenbarten oder nahegelegten Weise darzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_143">143</a>
+            </dt>
+            <dd>
+               <p>i) Nach Hilfsantrag 8 soll Patentanspruch 1 in der Fassung von Hilfsantrag 7 in Merkmal 1.3.1 wie folgt modifiziert werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3.1 als <span style="text-decoration:underline">aus einem Volumenbild heraus erzeugte</span> Projektionsbilder oder Schnittbilder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_144">144</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung ist in NK21 offenbart. Dort können aus einem Volumenbild Schichten mit einstellbarer Dicke erzeugt werden. Dazu gehören auch zweidimensionale Darstellungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_145">145</a>
+            </dt>
+            <dd>
+               <p>j) Nach Hilfsantrag 9 soll Patentanspruch 1 in der Fassung des Hilfsantrags 8 wie folgt modifiziert werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3.1 als <span style="text-decoration:underline">aus einem Volumenbild heraus erzeugte, zweidimensionale, nicht dreidimensional perspektivisch dargestellte</span> Projektionsbilder oder Schnittbilder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.4.2 Am Anzeigemonitor (7) werden drei Bilder (A, B, C) <span style="text-decoration:underline">mit beliebiger Orientierung ihrer sämtlichen Bildebenen zueinander</span> wiedergegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.5      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Orientierung der Bildebene eines Bilds (A, B, C) und damit die Ansicht des Bilds <span style="text-decoration:underline">(A)</span> unter entsprechend angepasster Darstellung der Markierungen (M<span style="text-decoration:underline">, b, c</span>) <span style="text-decoration:underline">im Bild (A)</span> kann geändert werden, und zwar</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.5.1 allein durch Bewegen der Markierungen (M<span style="text-decoration:underline">, a</span>) <span style="text-decoration:underline">in einem der anderen Bilder (B, C)</span>, in Form von Verschieben oder Verdrehen der Linien mittels geeigneter Steuermittel, insbesondere umfassend eine Steuerungsmaus (8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_146">146</a>
+            </dt>
+            <dd>
+               <p>Auch diese Auswahl unter den ausgehend von NK21 in Betracht kommenden Anzeigeoptionen war aus den bereits oben aufgezeigten Gründen nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_147">147</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie § 97 Abs. 1, § 93 und § 92 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_148">148</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung des Patentgerichts hat die Klägerin nach § 93 ZPO einen Teil der erstinstanzlichen Kosten zu tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_149">149</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats kommt die Anwendung von § 93 ZPO in einem Patentnichtigkeitsverfahren insbesondere in Betracht, wenn der Beklagte, der keine Veranlassung zur Klage gegeben hat, das Schutzrecht nur in eingeschränkter Fassung verteidigt und auf den darüber hinausgehenden Schutz für die Vergangenheit und Zukunft verzichtet (BGH, Urteil vom 8. Dezember 1983 - X ZR 15/82, GRUR 1984, 272, 276 - Isolierglasscheibenrandfugenfüllvorrichtung; Urteil vom 13. August 2013 - X ZR 73/12, GRUR 2013, 1282 Rn. 47 - Druckdatenübertragungsverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_150">150</a>
+            </dt>
+            <dd>
+               <p>Eine solche Erklärung hat die Beklagte im Streitfall bereits in ihrem Teil-Widerspruch abgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_151">151</a>
+            </dt>
+            <dd>
+               <p>In diesem Schriftsatz hat die Beklagte entgegen den Ausführungen des Patentgerichts nicht nur das Streitpatent in eingeschränkter Fassung verteidigt - was für sich gesehen nicht ausreichen würde (vgl. BGH, Urteil vom 20. November 2018 - X ZR 17/17, Rn. 32). Vielmehr hat sie ergänzend erklärt, auf den darüberhinausgehenden Schutz mit Wirkung für die Vergangenheit zu verzichten. An diese Verzichtserklärung war und ist sie gebunden. Dass die Beklagte den Verzicht nur für die Vergangenheit erklärt hat, ist unschädlich, weil das Streitpatent im Zeitpunkt der Erklärung bereits erloschen war und die Beklagte dies ausdrücklich als Grund für die Beschränkung der Erklärung auf die Vergangenheit angegeben hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_152">152</a>
+            </dt>
+            <dd>
+               <p>b) Soweit die Beklagte das Streitpatent nicht verteidigt hat, hat sie keine Veranlassung zur Erhebung einer Nichtigkeitsklage gegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_153">153</a>
+            </dt>
+            <dd>
+               <p>aa) Ein Patentinhaber gibt Anlass zur Erhebung einer Nichtigkeitsklage, wenn er dem potenziellen Nichtigkeitskläger trotz Aufforderung nicht schon vor Klageerhebung eine Rechtsstellung verschafft, die mit derjenigen nach der Nichtigerklärung des Patents vergleichbar ist (BGH, Urteil vom 13. August 2013 - X ZR 73/12, GRUR 2013, 1282 Rn. 50 - Druckdatenübertragungsverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_154">154</a>
+            </dt>
+            <dd>
+               <p>Eine solche Aufforderung fehlt im Streitfall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_155">155</a>
+            </dt>
+            <dd>
+               <p>bb) Wie das Patentgericht im Ansatz zutreffend angenommen hat, kann eine vorherige Aufforderung entbehrlich sein, wenn aufgrund besonderer Umstände davon auszugehen ist, dass der Patentinhaber auf das Ansinnen nicht eingehen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_156">156</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung des Patentgerichts gaben die der Nichtigkeitsklage im Streitfall vorausgegangenen Lizenzverhandlungen indes keinen Grund zu einer diesbezüglichen Annahme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_157">157</a>
+            </dt>
+            <dd>
+               <p>Aus dem erstinstanzlichen Vorbringen der Klägerin und der vorgelegten Korrespondenz ist zu entnehmen, dass die Beklagte Einwendungen der Klägerin zum Anlass genommen hat, ihre unveränderte Lizenzforderung auf eine andere Begründung zu stützen. Hieraus und aus dem von der Beklagten erteilten Hinweis auf die hohen Kosten einer gerichtlichen Auseinandersetzung mag zu entnehmen gewesen sein, dass die Beklagte einem Rechtsstreit nicht aus dem Weg gehen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_158">158</a>
+            </dt>
+            <dd>
+               <p>Dies gab jedoch noch keinen hinreichenden Anlass für die Annahme, die Beklagte werde das Streitpatent in der erteilten Fassung verteidigen. Aus der Schilderung der Klägerin und der vorgelegten Korrespondenz geht hervor, dass sich die Beklagte in jenem Stadium mit rechtlichen Detailfragen noch nicht befasst hatte. Dies ließ es als nicht ausgeschlossen erscheinen, dass sie auf eine konkrete Aufforderung hin die Verteidigung des Streitpatents zumindest einschränken würde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_159">159</a>
+            </dt>
+            <dd>
+               <p>2. Die Kosten der Berufungsinstanz hat nach § 97 Abs. 1 ZPO allein die Beklagte zu tragen, weil nur noch über die eingeschränkten Fassungen des Streitpatents zu entscheiden war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="0" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Bacher     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Kober-Rehm     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Richterin am Bundesgerichtshof<br/>Dr. Marx kann wegen Urlaubs<br/>nicht <span>unterschreiben</span>
+                           </span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <span>Bacher</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Rombach</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Rensen     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300882023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

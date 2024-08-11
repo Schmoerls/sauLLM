@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>JURE140013466</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20140715</entsch-datum>
+   <aktenzeichen>X ZR 119/11</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 21 Abs 1 Nr 1 PatG, § 21 Abs 1 Nr 4 PatG, § 22 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 3. August 2011, Az: 5 Ni 70/09, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Einschränkung des Patentanspruchs auf Schaltungen mit ohm´schen Lasten durch fehlerhafte Verwendung des dafür üblichen Zeichens in der Patentschrift</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 3. August 2011 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte war Inhaberin des am 25. August 1989 angemeldeten und nach Klageerhebung durch Zeitablauf erloschenen deutschen Patents 39 28 195 (Streitpatent). Das Streitpatent umfasst vier Patentansprüche, von denen Anspruch 1 folgenden Wortlaut hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Schaltungsanordnung, die mit einem Ansteuersignal (3) angesteuert wird, wobei ein elektronischer Leistungsschalter (1) zum Schalten einer Last vorgesehen ist, der ein sourceseitig mit Bezugspotential und drainseitig mit Last verbundener Feldeffekttransistor ist, dessen Steuerelektrode (5) mit einem Emitterfolger (4) und einem zweiten, sourceseitig an Bezugspotential angeschlossenen Feldeffekttransistor (9) verbunden ist, und wobei dem Emitterfolger (4) das Ansteuersignal (3) und der Steuerelektrode (8) des zweiten Feldeffekttransistors (9) ein invertiertes Ansteuersignal (3') mittels einer Inverterstufe (7) zugeführt ist."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die von der Beklagten wegen Patentverletzung in Anspruch genommen wird, hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglichen Anmeldung hinaus. Zudem sei der Patentgegenstand weder neu, noch beruhe er auf einer erfinderischen Tätigkeit. Das Patentgericht hat die Nichtigkeitsklage abgewiesen. Hiergegen richtet sich die Berufung der Klägerin, mit der sie weiterhin die Nichtigerklärung in vollem Umfang begehrt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Im Auftrag des Senats hat Prof. Dr.-Ing.     D.     , Technische Universität    , ein schriftliches Gutachten erstattet, das sie in der mündlichen Verhandlung erläutert und ergänzt hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Schaltungsanordnung mit einem Feldeffekttransistor (FET), der als elektronischer Leistungsschalter dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>1. Bei der Verwendung von FET als Leistungsschalter haftet diesen eine hohe Eingangskapazität an. Dabei kann es vorkommen, dass der FET nicht schnell genug ausgeschaltet werden kann, weil in Folge der ihm anhaftenden hohen Eingangskapazität der bis zur Sättigung betriebene Leistungsschalter nicht schnell genug entladen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>2. Dem Gegenstand des Streitpatents liegt demnach das Problem zugrunde, einen als Leistungsschalter verwendeten FET mit einem möglichst geringen zusätzlichen Schaltungsaufwand in kürzester Zeit abschalten zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung schlägt Patentanspruch 1 eine Schaltungsanordnung mit folgenden Merkmalen vor:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Die Schaltung wird mit einem Ansteuersignal (3) angesteuert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Ein elektronischer Leistungsschalter (1) ist zum Schalten einer Last vorgesehen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. der ein sourceseitig mit Bezugspotential und drainseitig mit Last verbundener FET ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. dessen Steuerelektrode (5) mit einem Emitterfolger (4) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. einem zweiten, sourceseitig an Bezugspotential angeschlossenen FET (9) verbunden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. Dem Emitterfolger (4) ist das Ansteuersignal (3) zugeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. Der Steuerelektrode (8) des zweiten FET (9) ist ein invertiertes Ansteuersignal (3') mittels einer Inverterstufe (7) zugeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>3. Zur näheren Erläuterung ist Folgendes auszuführen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Das Schalten einer Last gemäß Merkmal 2 ist das Anschalten oder Ausschalten eines Laststroms. Ein Umschalten zwischen zwei Verbindungen ist damit nicht gemeint; ein einzelner FET ist dazu bauartbedingt nicht in der Lage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Eine Last im Sinne von Merkmal 2 ist, wie die gerichtliche Sachverständige eingehend erläutert hat, ein Strom, der im Vergleich zu den Strömen, die durch die Ansteuerschaltung fließen, verhältnismäßig groß ist. Nähere Festlegungen zur Beschaffenheit dieses Stroms lassen sich weder Patentanspruch 1 noch dem zur Auslegung heranzuziehenden weiteren Inhalt der Patentschrift entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Insbesondere lässt sich aus dem Umstand, dass in der (einzigen) Zeichnung der Streitpatentschrift die Last mit einem Schaltzeichen dargestellt wird, das üblicherweise für ohm'sche Lasten verwendet wird, nicht herleiten, dass andere, insbesondere induktive Lasten nicht erfasst sein sollen. In der Beschreibung des Streitpatents finden sich weder eine dahingehende Einschränkung noch sonstige Festlegungen dazu, wie die geschaltete Last beschaffen sein soll. Daraus ist zu folgern, dass grundsätzlich alle Lasten erfasst sind, die typischerweise mit Anordnungen der betreffenden Art geschaltet werden. Wie die gerichtliche Sachverständige dargelegt hat, gehören dazu auch induktive Lasten; rein ohm'sche Lasten sind in der Praxis demgegenüber eher selten. Vor diesem Hintergrund ist das in der Zeichnung verwendete Schaltzeichen als schematische Darstellung anzusehen, der keine zusätzliche Beschränkung entnommen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>c) Der Emitterfolger gemäß Merkmal 4 ist - entsprechend den zutreffenden und von der Sachverständigen bestätigten Ausführungen des Patentgerichts - ein bipolarer Transistor, der einen Emitterausgang aufweist. Soweit Unteranspruch 4 des Streitpatents dies nochmals präzisierend klarstellt, folgt daraus nicht, dass der Emitterfolger gemäß Patentanspruch 1 auch ein anders beschaffener Transistor sein könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Entsprechend der Funktion des Emitterfolgers im Gegenstand des Streitpatents sitzt dieser zwischen dem Ansteuersignal (3) und dem als Leistungsschalter fungierenden FET, um das Ansteuersignal (3) zu verstärken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>d) Das Bezugspotenzial gemäß den Merkmalen 3 und 5 wird in Zeichnungen für elektronische Schaltungen im Allgemeinen unter anderem mit dem Symbol ┴ dargestellt - wie auch in der Zeichnung zum Streitpatent. Es bedeutet, dass alle Leitungen, die damit verbunden sind, dasselbe Potential aufweisen, zwischen ihnen also keine Spannung anliegt. Zudem ist das Bezugspotenzial der Bezugspunkt für Spannungen, die an die Schaltung angelegt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>e) Das invertierte Ansteuersignal (3') gemäß Merkmal 7 ist ein Signal, das invers zum Ansteuersignal (3) gemäß den Merkmalen 1 und 6 verläuft. Gemäß Merkmal 7 muss es ferner mittels einer Inverterstufe (7) zugeführt werden. Aus der Beschreibung des Streitpatents (Sp. 1 Abs. 6 Z. 56 bis 61) und aus der Zeichnung in der Streitpatentschrift ist zu entnehmen, dass hierzu das Ansteuersignal (3) mittels einer Inverterstufe in das invertierte Signal (3') umgewandelt wird. Dass der Gegenstand von Patentanspruch 1 darüber hinausgehend auch Ausgestaltungen umfasst, bei denen das invertierte Ansteuersignal auf andere Weise erzeugt und mittels einer (weiteren) Inverterstufe der Steuerelektrode des zweiten FET zugeführt wird, lässt sich der Streitpatentschrift demgegenüber nicht entnehmen. Die gerichtliche Sachverständige hat insoweit darauf hingewiesen, dass in der Streitpatentschrift schon die Erzeugung des Ansteuersignals 3 nicht näher beschrieben, sondern dieses Signal in der nachstehend eingefügten Figur nur angedeutet wird und der Fachmann aus der Streitpatentschrift vor dem Hintergrund dieser spärlichen Informationen hinsichtlich der Erzeugung des invertierten Signals 3' keine weitergehenden Schlussfolgerung zieht, als die, dass das Ansteuersignal 3 (mittels Inverterstufe) in das invertierte Signal umgewandelt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left"> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="190px"
+                                src="bild1_0.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1. Der Gegenstand des Streitpatents gehe nicht deshalb über den Inhalt der ursprünglichen Anmeldung hinaus, weil die Schaltungsanordnung gemäß Patentanspruch 1 auch einen elektrischen Leistungsschalter umfasse. Der nebenstehenden Zeichnung zur ursprünglichen Patentanmeldung, die der Zeichnung zum Streitpatent entspricht, entnehme der Fachmann, dass der FET (1) als elektronischer Leistungsschalter einen integralen Bestandteil der erfindungsgemäßen Schaltungsanordnung darstelle. Ersichtlich wirke dieser mit den weiteren Transistoren (4, 9) zusammen. Ebenso zeige die Zeichnung, dass das Ansteuersignal (3) nicht nur über die Inverterstufe (7) dem zweiten FET (9), sondern über den Emitterfolger (4) auch dem Leistungsschalter (1) zugeführt werde. Weiterhin zeige die Zeichnung, dass der zweite FET sourceseitig an das Bezugspotenzial angeschlossen sei.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand des Streitpatents sei auch neu und beruhe auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left"> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="186px"
+                                src="bild2_1.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a) Die internationale Patentanmeldung 89/06070 (Anl. K1) offenbare - zur nebenstehenden Figur 1 der K1 - eine von einem Ansteuersignal Q angesteuerte Schaltungsanordnung mit einem elektronischen Leistungsschalter in Form einer hybriden Transistorschaltung (12) vom Darlington-Typ, die aus einem FET T1 am Eingang und einem Bipolartransistor T2 am Ausgang bestehe und eine Last am Anschluss 14 oder 16 schalte. Zum schnellen Ausschalten der Transistoren T1 und T2 seien einerseits ein weiterer Bipolartransistor 20 und andererseits ein weiterer FET 22 vorgesehen, die mit dem Ansteuersignal Q bzw. einem aus dem dazu invertierten Signal <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="18px"
+                                src="bild3_2.png"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/> angesteuert würden. Der weitere Bipolartransistor schließe zur Beschleunigung des Abschaltvorgangs die Gate-Source-Strecke des Transistors T1 kurz, wodurch diese Kapazität schnell entladen werde. Der weitere FET 22 werde von einem invertierten Signal <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="18px"
+                                src="bild4_3.png"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/> gesteuert und sei drainseitig mit der Basis des Bipolartransistors T2 verbunden sowie sourceseitig an Bezugspotenzial angeschlossen.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die K1 gebe an, dass die Typen der in der Schaltung verwendeten FET und Bipolartransistoren geändert werden könnten, ohne von der Erfindung abzuweichen. Damit sei jedoch nur ein Austausch des konkreten Bauelements innerhalb der jeweiligen Transistorfamilie offenbart. Der Fachmann verstehe diese Angabe nicht dahin, einen Bipolartransistor mit einem FET zu ersetzen, weil damit der Halbleiteraufbau strukturell und die daraus resultierenden elektrophysikalischen Eigenschaften verändert würden. Demnach unterscheide sich der Gegenstand des Streitpatents von der Lehre der K1 zumindest dadurch, dass der Leistungsschalter ein FET sei (Merkmal 3), dessen Steuerelektrode mit einem Emitterfolger verbunden sei (Merkmal 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left"> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="191px"
+                                src="bild7_4.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">b) Das Buch "Halbleiter-Schaltungstechnik" von Tietze/Schenk, 8. Auflage, 1989 (Anl. K3), zeige in der - nebenstehend wiedergegebenen - Abbildung 18.67 eine Schaltungsanordnung mit einem Ansteuersignal U<sub>e</sub> und einem elektronischen Leistungsschalter T<sub>1</sub>, der eine Last R<sub>V</sub> schalte und sourceseitig mit Bezugspotenzial sowie drainseitig mit der Last R<sub>V</sub> verbunden sei. Die Steuerelektrode des FET T<sub>1</sub> sei mit einem Emitterfolger T<sub>2</sub> sowie mit einem Bipolartransistor T<sub>3</sub> verbunden, der emitterseitig an das Bezugspotenzial angeschlossen sei. Von diesem Stand der Technik unterscheide sich die Lehre des Streitpatents jedenfalls dadurch, dass der zweite, sourceseitig an Bezugspotenzial angeschlossene und mit der Steuerelektrode des Leistungsschalters verbundene Transistor ein FET sei.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>3. Der Gegenstand des Streitpatents beruhe auch auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Es liege nicht auf der Hand, zur Beschleunigung des Abschaltvorgangs am Gate-Anschluss des FET sowohl einen Emitterfolger als auch einen weiteren FET vorzusehen. Die K1 zeige zwar sowohl einen Emitterfolger als auch einen weiteren FET; diese arbeiteten als kurzschließendes Element aber getrennt an zwei verschiedenen Transistoren (T1 und T2) der Darlington-Schaltung. Für den Übergang von dieser hybriden Darlington-Schaltung zu einem FET-Leistungsschalter biete der Stand der Technik keine Anregung. Vielmehr sei insoweit weiterer Entwicklungsaufwand erforderlich gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Ausgehend von der K3 unterscheide sich die Lehre des Streitpatents von der dort offenbarten Lösung auf den ersten Blick nur dadurch, dass anstelle des Bipolartransistors T<sub>3</sub> ein FET vorgesehen sei. Der Fachmann erkenne jedoch, dass die Verwendung eines gleichen Typs für die Transistoren T<sub>2</sub>, T<sub>3</sub> und T4 bei der Schaltung der K3 von besonderer Bedeutung sei. Der bipolare Typ dieser Transistoren mache diese auf einfache Weise integrationsfähig, worauf die K3 ausdrücklich hinweise. Der Fachmann sei deshalb von einem Wechsel zu einem FET abgehalten worden. Zudem seien weitere aufwändige Änderungen an der Schaltung der K3 vorzunehmen gewesen, ohne die diese bei Verwendung eines FET anstelle des Bipolartransistors T<sub>3</sub> nicht funktionsfähig wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>III. Dies hält der Nachprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>1. Wie das Berufungsgericht zutreffend erkannt hat, geht der Gegenstand des Streitpatents nicht über den Inhalt der ursprünglichen Anmeldung hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Zur angemeldeten Erfindung gehört nach ständiger Rechtsprechung alles, was der mit durchschnittlichen Kenntnissen und Fähigkeiten ausgestattete Fachmann des betreffenden Gebiets der Technik der ursprünglichen Anmeldung unmittelbar und eindeutig als zur angemeldeten Erfindung gehörend oder als mögliche Ausführungsform dieser Erfindung entnehmen kann (vgl. BGH, Urteil vom 17. Juli 2012 - X ZR 117/11, BGHZ 194, 107 Rn. 52 mwN - Polymerschaum). Patentansprüche, Beschreibung und Zeichnungen der Anmeldeunterlagen sind dabei grundsätzlich gleichwertige Offenbarungsmittel (BGH, Urteile vom 30. Januar 2007 - X ZR 156/02, GRUR 2007, 578, 580 - rückspülbare Filterkerze; vom 18. Februar 2010 - Xa ZR 52/08, GRUR 2010, 599 Rn. 22 - Formteil).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>b) Nach diesen Grundsätzen ist der Gegenstand des Streitpatents in der Zeichnung zur Anmeldung und der dazugehörigen Beschreibung mit allen Merkmalen des Patentanspruchs 1 und seiner Unteransprüche offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Der Gegenstand des Streitpatents geht nicht deshalb über den Inhalt der ursprüngliche eingereichten Unterlagen hinaus, weil die ursprünglich formulierten Ansprüche auf eine Schaltung zur Ansteuerung einer aus einem FET bestehenden Leistungsschaltstufe gerichtet waren, die Leistungsschaltstufe selbst also nicht umfassten. Aus der Gesamtheit der Anmeldung geht unmittelbar und eindeutig hervor, dass der Gegenstand der Erfindung die gesamte Schaltung umfasst, wie sie in Beschreibung und Zeichnung dargestellt ist. Dazu gehört nicht nur die Ansteuerschaltung, sondern auch der Leistungsschalter selbst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>bb) Zutreffend hat das Patentgericht entschieden, dass für den Fachmann, einen Elektroingenieur mit zumindest Fachhochschulabschluss, guten Kenntnissen in analoger Schaltungstechnik und mehrjähriger Berufserfahrung im Entwickeln von Leistungsschaltern, aus der in der Anmeldung wiedergegebenen Zeichnung - die mit der in der Streitpatentschrift enthaltenen Zeichnung übereinstimmt - unmittelbar und eindeutig erkennbar ist, dass die beiden FET (1 und 9) sourceseitig mit Bezugspotenzial verbunden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Wie die gerichtliche Sachverständige bestätigt hat, ist für den Fachmann aufgrund der verwendeten Schaltzeichen erkennbar, dass es sich bei den Bauteilen (9) und (1) um FET handelt, die einen Source-, einen Drain- und einen Gate-Anschluss aufweisen. Die Source-Anschlüsse beider FET sind jeweils mit einer Leitung verbunden, die mit einem Querstrich (┴) endet. Daraus ergibt sich die Verbindung mit dem Bezugspotenzial.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>cc) Der Gegenstand von Patentanspruch 1 geht auch insoweit nicht über den Inhalt der ursprünglichen Anmeldung hinaus, als es um die Erzeugung und Zuführung des invertierten Ansteuersignals (3') geht. Wie bereits oben dargelegt wurde, ist Merkmal 7 trotz des im Detail von der Anmeldung abweichenden Wortlauts dahin auszulegen, dass das invertierte Ansteuersignal (3') mittels eines Inverters aus dem Ansteuersignal (3) erzeugt wird. Dies ist auch in der Anmeldung so beschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>dd) Der Gegenstand von Patentanspruch 1 geht auch nicht deshalb über den Inhalt der ursprünglichen Anmeldung hinaus, weil zusätzlich zu den Merkmalen 3 und 5 nicht auch weitere Details aus der Zeichnung in den Anspruch übernommen worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist es dem Anmelder grundsätzlich nicht verwehrt, von mehreren Merkmalen eines Ausführungsbeispiels, die zusammengenommen, aber auch für sich betrachtet dem erfindungsgemäßen Erfolg förderlich sind, nur eines oder einzelne in den Patentanspruch aufzunehmen (BGH, Urteil vom 17. Juli 2012 - X ZR 117/11, BGHZ 194, 107 Rn. 52 - Polymerschaum mwN). Unzulässig sind lediglich Abstraktionen, mit denen auf eine Eigenschaft abgehoben wird, die in den ursprünglichen Unterlagen als solche nicht genannt wird und für den Fachmann daraus auch nicht ohne weiteres erkennbar ist (vgl. BGH, Urteil vom 14. August 2012 - X ZR 3/10, GRUR 2012, 1133 Rn. 32 - UV-empfindliche Druckplatte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>In Patentanspruch 1 war danach nicht der konkrete Typus eines FET zu bezeichnen, welcher in der Zeichnung wiedergegeben wird. Für den Fachmann waren andere Typen ebenso als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Ebenso war der Gegenstand von Patentanspruch 1 nicht auf ohm'sche Lasten zu beschränken. In der Beschreibung der Anmeldung ist - ebenso wie in der Streitpatentschrift - nicht näher spezifiziert, wie die geschaltete Last beschaffen ist (BK 2, Sp. 1 Z. 28 bis 30). Die Verwendung eines Schaltzeichens für ohm'sche Lasten ist deshalb auch in der Anmeldung als schematische Darstellung anzusehen, aus der nicht zu entnehmen ist, dass abweichend von der Beschreibung nur Schaltungen mit ohm'schen Lasten zum Gegenstand der Erfindung gehören sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Desgleichen kann der mehrfachen Verwendung des Zeichens "+" zur Bezeichnung eines Potenzials in der Zeichnung nicht entnommen werden, dass an diesen Anschlüssen dieselbe Spannung mit gleicher Spannungshöhe angeschlossen werden soll. Auch insoweit lassen sich der Beschreibung der Anmeldung keine näheren Festlegungen entnehmen. Das Funktionieren der offenbarten Schaltung hängt nicht davon ab, dass es sich um dieselbe Spannung handelt. Angesichts dessen ist das nicht näher spezifizierte Plus-Zeichen als schematische Darstellung anzusehen, der nur entnommen werden kann, dass eine im Vergleich zum Bezugspotential positive Spannung anliegen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 ist patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>a) Das Patentgericht hat zu Recht dessen Neuheit erkannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ist der Gegenstand von Patentanspruch 1 in K1 nicht vollständig offenbart. Dieses Dokument zeigt nicht die Merkmale 4 und 6, wonach der Leistungsschalter mit einem Emitterfolger verbunden ist, dem das Ansteuersignal (3) zugeführt wird. Der FET T1 ist in K1 zwar mit einem bipolaren Transistor (20) verbunden. Dieser dient aber nicht zum Einschalten des FET, sondern der Beschleunigung des Ausschaltvorgangs. Damit fehlt es zugleich an den Merkmalen 5 und 7, die für den Ausschaltvorgang einen zweiten FET vorsehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Auch in Figur 2 der K1 ist die genannte Kombination nicht offenbart. Dort ist zwar ein Emitterfolger 36 vorgesehen, der dem Einschalten des FET dient. Dieser ist aber entgegen Merkmal 4 nicht mit dem Gate-Anschluss des FET T1 verbunden. An dieser Stelle ist vielmehr ein FET (42) angeordnet. Weiterhin fehlt es auch in Figur 2 an einem zweiten FET gemäß den Merkmalen 5 und 7 für den Ausschaltvorgang. Für diesen Zweck wird auch in Figur 2 der bipolare Transistor (20) eingesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Der Klarstellung in der K1 am Anfang der Beschreibung des Ausführungsbeispiels, wonach die Pegel der Signale zum Kontrollieren des An- oder Ausschaltens verschiedener Schaltungselemente verändert werden können und der Typ der FET und bipolaren Transistoren von den gezeigten Elementen abweichen kann (K1 S. 9 Z. 9 bis 16), lässt sich entgegen der Auffassung der Berufung nicht eindeutig und unmittelbar entnehmen, dass der bipolare Transistor (20) durch einen FET und zugleich der FET (42) durch einen bipolaren Transistor ersetzt werden kann. Die zitierten Ausführungen lassen nicht erkennen, was mit "Typ" gemeint sein soll. Selbst wenn sie dahin zu verstehen wären, dass unter bestimmten Voraussetzungen ein FET durch einen bipolaren Transistor ersetzt werden kann oder umgekehrt, ergibt sich daraus nicht unmittelbar und eindeutig die Anweisung, einen solchen Austausch sowohl hinsichtlich des Transistors (20) als auch hinsichtlich des Transistors (42) vorzunehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand des Patentanspruchs 1 beruht auch auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Zwar waren die dem Streitpatent zugrunde liegenden Funktionsprinzipien, wie die gerichtliche Sachverständige erläutert hat, dem Fachmann am Prioritätstag aus allgemeinen Darstellungen zugänglich. Hieraus ergab sich aber keine hinreichende Anregung, diese Prinzipien gerade in der in Patentanspruch 1 geschützten Weise umzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left"> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="191px"
+                                src="bild8_5.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">aa) Ausgehend von der nebenstehenden Figur 18.66 in der K3 war dem Fachmann eine Schaltungsanordnung für einen Leistungsschalter bekannt, die von einem Ansteuersignal (U<sub>e</sub>) angesteuert wird und einen elektronischen Leistungsschalter (T<sub>1</sub>) zum Schalten einer Last (R<sub>V</sub>) aufweist, welcher ein sourceseitig mit Bezugspotenzial und drainseitig mit der Last verbundener FET ist. Die Steuerelektrode dieses FET ist mit einem Emitterfolger (T<sub>2</sub>) verbunden, dem das Ansteuersignal (U<sub>e</sub>) zugeführt ist. Zum Entladen und damit Ausschalten des Leistungsschalters (T<sub>1</sub>) ist ein weiterer bipolarer Transistor (T<sub>3</sub>) vorgesehen, der aufgrund seiner Bauart ohne Inverterstufe angesteuert werden kann.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Um von dieser Schaltung zum Gegenstand des Streitpatents zu gelangen, musste der Fachmann zwar lediglich den Transistor T3 durch einen FET ersetzen und diesen aufgrund seines abweichenden Schaltverhaltens mit einem invertierten Signal ansteuern. Dafür ergab sich jedoch weder aus K3 noch aus dem sonstigen Stand der Technik eine hinreichende Anregung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left"> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="138px"
+                                src="bild9_6.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">bb) Aus dem von der gerichtlichen Sachverständigen aufgezeigten und durch einen Auszug aus einem Lehrbuch belegten allgemeinen Fachwissen ergibt sich keine abweichende Beurteilung. Danach war dem Fachmann im Prioritätszeitpunkt zwar eine Schaltungsanordnung bekannt, bei der für das Entladen und Abschalten eines als Leistungsschalter eingesetzten FET ein zweiter FET genutzt wird, wie dies in der nebenstehenden, dem Sachverständigengutachten entnommenen Schaltungsanordnung gezeigt wird. Hieraus ergaben sich aber keine Hinweise darauf, dieses Schaltungsdetail in einer Anordnung einzusetzen, bei der das Ansteuersignal über einen bipolaren Transistor zugeführt wird.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Um zu einer solchen Lösung zu gelangen, musste der Fachmann die aus K1, K3 und der oben wiedergegebenen Abbildung bekannten Anordnungen in einem wesentlichen Punkt einer Abwandlung unterziehen, für die es kein Vorbild gab. Hierzu gab der Stand der Technik schon deshalb keine hinreichende Veranlassung, weil der Einsatz unterschiedlicher Transistortechnologien nach den Ausführungen der gerichtlichen Sachverständigen aus Sicht des Fachmanns eher ungewöhnlich ist und einer Integration in einem gemeinsamen Baustein entgegensteht. Der Vorteil des Einsatzes eines zweiten FET für die Ausschaltung liegt insbesondere auch darin, damit wiederum einen FET und damit den gleichen Transistortyp entsprechend dem als Leistungsschalter eingesetzten FET zu verwenden. Dieser Vorteil würde aufgegeben, wenn zusätzlich ein bipolarer Transistor als Emitterfolger für die Endstufenschaltung vorgesehen würde. Da es weder im druckschriftlichen Stand der Technik noch aus dem allgemeinen Fachwissen einen Hinweis gab, diesen Nachteil in Kauf zu nehmen, lag eine solche Weiterentwicklung, wie sie der Gegenstand des Streitpatents lehrt, für den Fachmann nicht nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>cc) Eine abweichende Beurteilung ergibt sich auch nicht aus K1. Dort ist zwar eine Schaltung offenbart, bei der zum Einschalten ein anderer Transistortyp eingesetzt wird als zur Beschleunigung des Ausschaltvorgangs. Wie bereits oben dargelegt wurde, ergab sich daraus jedoch nicht die Anregung, an beiden Stellen jeweils einen Transistor des anderen Typs einzusetzen. Aus K3 und dem allgemeinen Fachwissen ergaben sich keine weitergehenden Hinweise in diese Richtung. Die dort wiedergegebenen Überlegungen sprachen aus den ebenfalls bereits dargelegten Gründen vielmehr eher dafür, für beide Zwecke Transistoren desselben Typs einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG, § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gröning     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">RiBGH Dr. Grabinski kann<br/>seine Unterschrift wegen<br/>urlaubsbedingter Ortsabwesenheit<br/>nicht beifügen.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">Bacher</td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Gröning</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-JURE140013466&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

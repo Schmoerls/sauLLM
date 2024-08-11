@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300392024</doknr>
+   <ecli>ECLI:DE:BGH:2024:230124UXZR6.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240123</entsch-datum>
+   <aktenzeichen>X ZR 6/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 S 1 EuPatÜbk, § 4 S 1 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 20. Oktober 2021, Az: 5 Ni 13/19 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Erfindung bei Auswahl mehrerer Möglichkeiten - Authentifizierte Abstandsmessung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Authentifizierte Abstandsmessung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Eine erfinderische Tätigkeit kann nicht auf ein Merkmal gestützt werden, das eine beliebige, von einem bestimmten technischen Zweck losgelöste Auswahl aus mehreren Möglichkeiten darstellt (Bestätigung von BGH, Urteil vom 13. Juni 2023 - X ZR 51/21, GRUR 2023, 1259 Rn. 72 - Schlossgehäuse).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Anschlussberufung der Beklagten und unter Zurückweisung der Berufung der Klägerinnen wird das Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 20. Oktober 2021 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 1 973 297 wird mit Wirkung für die Bundesrepublik Deutschland dadurch teilweise für nichtig erklärt, dass die Patentansprüche 1 und 16 die nachfolgende Fassung erhalten und sich die übrigen Ansprüche auf diese Fassung beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A method of determining whether protected content stored on a first communication device (201) are to be accessed by a second communication device (203), the method comprising the step of performing a distance measurement between the first (201) and the second communication device (203) and checking whether said measured distance is within a pre-defined distance interval, characterized in that the distance measurement is an authenticated distance measurement and in that the first and the second communication device share a common secret and said common secret is used for performing the distance measurement and wherein the first device (201) authenticates the second device (203) and then the first device (201) securely shares the common secret with the second device (203) according to a key management protocol, and wherein the common secret is shared before performing the distance measurement.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">16. A first communication device (201) configured for determining whether protected content stored on the first communication device (201) are to be accessed by a second communication device (203), the first device comprising means for performing a distance measurement between the first (201) and the second communication device (203) and checking whether said measured distance is within a predefined distance interval, characterized in that the distance measurement is an authenticated distance measurement and that the first device comprises a memory storing a common secret also stored on the second communication device, which common secret is used for performing the distance measurement, the first device being configured (411, 413, 417) for authenticating the second device (203) and then securely sharing the secret with the second device before performing the distance measurement.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Rechtsstreits erster Instanz tragen die Beklagte 15 % und die Klägerinnen jeweils 42,5 %. Die Kosten des Berufungsverfahrens tragen die Klägerinnen je zur Hälfte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 973 297 (Streitpatents), das am 27. Juni 2003 unter Inanspruchnahme einer europäischen Priorität vom 26. Juli 2002 angemeldet worden ist und eine sichere authentifizierte Abstandsmessung betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den weitere vierzehn Patentansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A method of determining whether protected content stored on a first communication device (201) are to be accessed by a second communication device (203), the method comprising the step of performing a distance measurement between the first (201) and the second communication device (203) and checking whether said measured distance is within a pre-defined distance interval, characterized in that the distance measurement is an authenticated distance measurement and in that the first and the second communication device share a common secret and said common secret is used for performing the distance measurement and wherein</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- the first device (201) authenticates the second device (203) and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- the first device (201) securely shares the common secret with the second device (203) according to a key management protocol.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 16, auf den zwei weitere Ansprüche zurückbezogen sind, hat ein Kommunikationsmittel zur Durchführung eines entsprechenden Verfahrens zum Gegenstand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin zu 2, die wegen Verletzung des Streitpatents gerichtlich in Anspruch genommen wird, und die Klägerin zu 1, die diesem Rechtsstreit auf Seiten der Verletzungsbeklagten beigetreten ist, haben geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglichen Anmeldeunterlagen hinaus und sei nicht patentfähig. Zudem sei die Erfindung nicht so offenbart, dass ein Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent wie erteilt und hilfsweise in neun geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit es über die mit dem erstinstanzlichen Hilfsantrag III verteidigte Fassung hinausgeht, und die Klage im Übrigen abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer dagegen gerichteten Berufung streben die Klägerinnen weiterhin die vollständige Nichtigerklärung des Streitpatents an. Die Beklagte tritt dem Rechtsmittel entgegen. Mit ihrer Anschlussberufung verteidigt sie das Streitpatent vorrangig in den Fassungen der erstinstanzlichen Hilfsanträge I und II. Hilfsweise verfolgt sie ihre erstinstanzlichen Hilfsanträge IV bis IX weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Berufung und die Anschlussberufung sind zulässig. Nur die Anschlussberufung hat Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent befasst sich mit dem Zugriff auf geschützte digitale Inhalte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents gewinnt die digitale Speicherung von Informationen wie Musik, Video oder Software (im Folgenden: Inhalte) auf Speichermedien wie CD, DVD oder Festplatten zunehmend an Bedeutung. Da das Kopieren digitaler Inhalte anders als beim analogen Format keinen Qualitätsverlust verursache, bestehe die Gefahr unberechtigter Vervielfältigung in besonderem Maße. Dies habe zu einer Vielzahl von Verfahren zum Schutz gegen unerlaubte Kopien geführt (Abs. 1-4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Eine Möglichkeit des Schutzes bestehe darin sicherzustellen, dass Inhalte nur zwischen Vorrichtungen übertragen würden, bei denen die empfangende Vorrichtung als konform (compliant) authentifiziert worden und der Nutzer befugt sei, den Inhalt auf eine solche Vorrichtung zu übertragen. Sei eine Übertragung danach zulässig, erfolge sie typischerweise in verschlüsselter Form (Abs. 5 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Technologie des sicheren authentifizierten Kanals (secure authenticated channel, SAC) ermögliche die Authentifizierung von Vorrichtungen und die verschlüsselte Übertragung von Inhalten. Dennoch stünden die Rechteinhaber einer Übertragung über das Internet ablehnend gegenüber. Es sei jedoch wünschenswert, dass etwa eine berechtigte Person, die ihren Nachbarn besuche, um mit diesem einen Film anzuschauen, dessen großformatiges Fernsehgerät nutzen könne. Für den Rechteinhaber könne das akzeptabel sein, wenn sichergestellt werde, dass sich der Nutzungsberechtigte in räumlicher Nähe des Fernsehgeräts befinde. Deshalb sei es von Interesse, für die Entscheidung darüber, ob der Zugriff oder die Kopie von Inhalten durch andere Geräte gestattet wird, eine authentifizierte Abstandsmessung zu nutzen (Abs. 7-9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund betrifft das Streitpatent das technische Problem, eine Möglichkeit zur sicheren Übertragung von Inhalten im Nahbereich bereitzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieses Problems schlägt Patentanspruch 1 in der in erster Linie verteidigten Fassung ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (Abweichungen von der erteilten Fassung sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" cellpadding="4" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A method of determining whether protected content stored on a first communication device (201) are to be accessed by a second communication device (203),</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren, um zu bestimmen, ob auf geschützten Inhalt, der auf einer ersten Kommunikationsvorrichtung (201) gespeichert ist, von einer zweiten Kommunikationsvorrichtung (203) zugegriffen werden darf,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">comprising the step of performing a distance measurement between the first (201) and the second communication device (203) and checking whether said measured distance is within a predefined distance interval;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">umfassend die Durchführung einer Abstandsmessung zwischen der ersten (201) und der zweiten (203) Kommunikationsvorrichtung und die Prüfung, ob der gemessene Abstand innerhalb eines vorbestimmten Intervalls liegt;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">the distance measurement is an authenticated distance measurement,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Abstandsmessung ist eine authentifizierte Abstandsmessung,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">the first and the second communication device share a common secret,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die erste und die zweite Kommunikationsvorrichtung teilen ein gemeinsames Geheimnis,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">said common secret is used for performing the distance measurement;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">das gemeinsame Geheimnis wird für die Durchführung der Abstandsmessung genutzt;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">the first device (201)</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die erste Vorrichtung (201)</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">authenticates the second device (203), and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">authentifiziert die zweite Vorrichtung (203) und</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">then</span> securely shares the common secret with the second device (203) according to a key management protocol;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">teilt <span style="text-decoration:underline">danach</span> auf sichere Weise das gemeinsame Geheimnis mit der zweiten Vorrichtung (203) entsprechend einem Key-Management-Protokoll;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">the common secret is shared before performing the distance measurement.</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">das gemeinsame Geheimnis wird geteilt, bevor die Abstandsmessung durchgeführt wird.</span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Die in Merkmal 5.1 vorgesehene Authentifizierung der zweiten Vorrichtung durch die erste Vorrichtung ist in Patentanspruch 1 nicht näher spezifiziert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Aus dem Zweck der Authentifizierung ergibt sich, dass sie brauchbare Anhaltspunkte dafür ergeben muss, ob das zweite Gerät zur Wiedergabe des Inhalts berechtigt ist. Nach den allgemeinen Erläuterungen in der Beschreibung kann hierzu geprüft werden, ob das zweite Gerät einem Satz vorbestimmter Regeln entspricht (Abs. 22: is compliant with a set of predefined compliance rules). Der Inhalt dieser Regeln und die Kriterien für die Beurteilung, ob das zweite Gerät ihnen entspricht, sind nicht näher festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Als Möglichkeiten zur technischen Umsetzung der Authentifizierung und des Teilens eines gemeinsamen Geheimnisses führt die Beschreibung beispielhaft die in den ISO-Standards 9798 und 11770 beschriebenen Protokolle an (Abs. 41). Patentanspruch 1 schreibt diese Protokolle nicht zwingend vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>b) Das in Merkmal 4 vorgesehene Teilen eines gemeinsamen Geheimnisses stellt eine weitere Maßnahme zur Berechtigungsprüfung dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>aa) Merkmal 4.1 gibt seinem Wortlaut nach zwar nur vor, dass das gemeinsame Geheimnis zur Durchführung der Abstandsmessung genutzt wird. Aus dem Zusammenhang mit Merkmal 3, wonach es sich um eine authentifizierte Abstandsmessung handeln muss, ergibt sich aber, dass das Teilen des Geheimnisses zugleich der Berechtigungsprüfung dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Nach den hierauf bezogenen Ausführungen in der Beschreibung gewährleistet die Nutzung des gemeinsamen Geheimnisses bei der Abstandsmessung, dass die Messung nicht mit einer dritten Vorrichtung erfolgt, die das Geheimnis nicht kennt (Abs. 17). Dies stellt sicher, dass die Abstandsmessung in Bezug auf diejenige Vorrichtung erfolgt, die gemäß Merkmal 5.1 authentifiziert worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>bb) Nach dem ergänzten Merkmal 5.2 darf das gemeinsame Geheimnis erst nach der Authentifizierung im Sinne von Merkmal 5.1 geteilt werden. Ferner ist ein Key-Management-Protokoll einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Als Beispiel für ein hierbei einzusetzendes Key-Management-Protokoll führt die Beschreibung die in ISO 11770-3 beschriebenen Methoden zum Transport oder zum Aushandeln von Schlüsseln an (Abs. 23). Patentanspruch 1 enthält keine Festlegung auf diesen Standard.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Funktion eines solchen Protokolls besteht darin, das gemeinsame Geheimnis auf sicherem Weg zu teilen, so dass nur berechtigte Vorrichtungen (devices being compliant with compliance rules) das Geheimnis empfangen können (Abs. 23). Auf welche Weise und mit welchem Grad an Sicherheit dies geschieht, gibt Patentanspruch 1 nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist nicht zwingend erforderlich, dass das gemeinsame Geheimnis dadurch geteilt wird, dass es von der ersten Vorrichtung an die zweite übermittelt wird. Vielmehr ist auch ein Aushandeln möglich, wie es in der Beschreibung beispielhaft angeführt wird, also ein Vorgang, bei dem sich die beteiligten Vorrichtungen auf die Verwendung eines bestimmten, ihnen schon zuvor bekannten Geheimnisses verständigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>cc) Der Inhalt des gemeinsamen Geheimnisses ist in Patentanspruch 1 ebenfalls nicht näher festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Aus dem bereits aufgezeigten Zweck von Merkmal 4 ergibt sich, dass es sich um eine Information handeln muss, auf die nur berechtigte Vorrichtungen Zugriff haben. Bestimmte Mindestanforderungen an die Sicherheit und an die Maßnahmen, um einen unbefugten Zugriff zu verhindern, ergeben sich daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>c) Die Merkmale 5.1, 4 und 4.1 schließen nicht aus, dass zusätzliche Prüfungen erfolgen, um die Authentizität oder Berechtigung der an dem Verfahren beteiligten Vorrichtungen zu überprüfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Dem Zusammenspiel der genannten Merkmale ist lediglich zu entnehmen, dass die Prüfung von Authentizität und Berechtigung mindestens mit den beiden darin definierten Verfahrensschritten zu erfolgen hat. Zusätzliche Prüfungen sind weder durch den Zweck dieser Merkmale noch durch sonstige Umstände ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>bb) Für solche zusätzlichen Prüfungen gilt die in den Merkmalen 5.1 und 5.2 definierte Vorgabe für die Reihenfolge nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Wie bereits dargelegt wurde, dient auch das Teilen eines gemeinsamen Geheimnisses im Sinne von Merkmal 4 einer zusätzlichen Berechtigungsprüfung. Für diesen Schritt kann die Vorgabe, dass das Geheimnis erst nach Authentifizierung geteilt werden darf, schon deshalb nicht gelten, weil das Teilen des Geheimnisses die zusätzliche Überprüfung erst ermöglichen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund kann den Merkmalen 5.1 und 5.2 nicht entnommen werden, dass optionale weitere Überprüfungsschritte zwingend vor dem Teilen des Geheimnisses erfolgen müssen. Die Vorgabe zur Reihenfolge gilt vielmehr nur für einen ersten Schritt der Authentifizierung, mit dem sichergestellt wird, dass die zweite Vorrichtung zum Teilen eines gemeinsamen Geheimnisses berechtigt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>d) Die in den Merkmalen 2 und 3 vorgesehene Abstandsmessung dient dazu, eine Wiedergabe nur auf solchen Vorrichtungen zu ermöglichen, die sich in räumlicher Nähe zur ersten Vorrichtung befinden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>aa) Als Mittel zur Durchführung der Messung führt die Beschreibung beispielhaft eine Messung der Umlaufzeit eines Signals (round trip time) an, also der Zeitspanne zwischen dem Aussenden eines bestimmten Signals durch die erste Vorrichtung und dem Eintreffen eines daraufhin von der zweiten Vorrichtung versandten zweiten Signals. Anhand dieser Zeitspanne kann die Entfernung errechnet werden (Abs. 16, 38, 45).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Um eine authentifizierte Messung im Sinne von Merkmal 3 zu gewährleisten, kann die zweite Vorrichtung das von ihr empfangene Signal mit Hilfe des gemeinsamen Geheimnisses modifizieren und die modifizierte Fassung an die erste Vorrichtung zurücksenden. Diese kann überprüfen, ob die Modifikation unter Einsatz des gemeinsamen Geheimnisses erfolgt ist (Abs. 16-19, 38, 45).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>bb) Patentanspruch 1 schreibt diese Vorgehensweise nicht zwingend vor. Er definiert auch keine Anforderungen in Bezug auf die höchstens zulässige Entfernung, die Zeitspanne, aus der die Entfernung gegebenenfalls berechnet wird, und die Genauigkeit der Messmethode.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Wie die Parteien im Ansatz übereinstimmend vortragen, hängt die Umlaufzeit eines Signals, also die Zeitspanne zwischen dem Aussenden eines Signals und dem Empfang einer Antwort, nicht nur vom Abstand zwischen den beteiligten Vorrichtungen ab, sondern auch von dem Zeitraum, der für die Verarbeitung des Signals in der zweiten Vorrichtung benötigt wird. Sofern das Signal über Zwischenstationen geleitet wird, etwa über Router, ist auch deren Verarbeitungsdauer von Bedeutung. Insbesondere die Verarbeitungsdauer in der zweiten Vorrichtung ist nicht ohne weiteres vorhersehbar. Sie hängt von der Rechenleistung des Geräts und dessen aktueller Auslastung ab. Eine auf der Umlaufzeit basierende Abstandsmessung ist deshalb mit Ungenauigkeiten verbunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Mangels diesbezüglicher Festlegungen in Patentanspruch 1 genügt zur Verwirklichung der Merkmale 2 und 3 jedes Messverfahren, bei der die gemessene Umlaufzeit oder sonstige Messwerte eine Abstandsbestimmung mit einer für praktische Zwecke brauchbaren Genauigkeit ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>cc) Ob aus dem Fehlen näherer Festlegungen des weiteren folgt, dass es genügt zu prüfen, ob das zweite Signal innerhalb einer bestimmten Zeitspanne eintrifft, ist für die Entscheidung über den Rechtsbestand nicht erheblich und kann daher offen bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>e) Die in Merkmal 5.3 definierte Vorgabe für die zeitliche Reihenfolge zwischen dem Teilen des gemeinsamen Geheimnisses und der Durchführung der Abstandsmessung bezieht sich entgegen der Auffassung des Patentgerichts nicht nur auf die Berechnung des Messergebnisses, sondern bereits auf die Ermittlung der Messwerte, die für die Berechnung der Entfernung herangezogen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>aa) Wie das Patentgericht im Ausgangspunkt zutreffend angenommen hat, ergibt sich eine Festlegung auf diese Reihenfolge nicht schon aus der Vorgabe aus Merkmal 4.1, wonach das gemeinsame Geheimnis für die Durchführung der Abstandsmessung genutzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Dieser Vorgabe mag zu entnehmen sein, dass das gemeinsame Geheimnis für die Erzeugung des Signals genutzt werden muss, das die zweite Vorrichtung zur Durchführung der Messung an die erste Vorrichtung übersendet. Sie schließt aber nicht aus, dass das gemeinsame Geheimnis erst während der Durchführung der Messung geteilt wird, etwa dergestalt, dass die Zeitmessung in dem Augenblick beginnt, in dem die erste Vorrichtung einen geheimen Wert zum Zwecke des Teilens an die zweite Vorrichtung versendet, und in dem Augenblick endet, in dem das von der zweiten Vorrichtung unter Einsatz des Geheimnisses erzeugte Signal bei der ersten Vorrichtung eintrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung des Patentgerichts ergibt sich aus Merkmal 5.3 jedoch eine weitergehende Anforderung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(1) Merkmal 5.3 ist dahin auszulegen, dass sich die Durchführung der authentifizierten Abstandsmessung nicht in der Berechnung eines Abstands anhand einer ermittelten Laufzeit oder eines sonstigen Messwerts erschöpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Dieses Merkmal normiert die Anforderung, dass das Geheimnis bereits zuvor geteilt wurde, nicht nur für einzelne Schritte, die zur Durchführung der Abstandsmessung gehören, sondern für diesen Vorgang insgesamt. Es gibt mithin vor, dass die Teilung des gemeinsamen Geheimnisses erfolgen muss, bevor die zur Durchführung der Messung erforderlichen Schritte begonnen haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(2) Der Vorgabe in Merkmal 4.1 ist zu entnehmen, dass sich die Durchführung der Abstandsmessung nicht in der Berechnung eines Abstands anhand einer ermittelten Laufzeit oder eines sonstigen Messwerts erschöpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Das gemeinsame Geheimnis findet keinen Eingang in diese Berechnung. Wie bereits oben dargelegt wurde, dient es der Überprüfung, ob das zweite Signal von einer nach Merkmal 5.1 authentifizierten Vorrichtung stammt. Zumindest diese Überprüfung gehört zur Durchführung der (authentifizierten) Abstandsmessung im Sinne der Merkmale 2, 3 und 4.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>(3) Dieses Verständnis von Merkmal 5.3 wird durch die Beschreibung gestützt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Für den Fall der Ermittlung des Abstands anhand der Laufzeit eines Umlaufsignals beginnt die Abstandsmessung danach bereits mit der Übermittlung des erstens Signals von der ersten Vorrichtung an die zweite Vorrichtung (Abs. 16, ebenso Anspruch 4). Die Verwendung des bereits zuvor geteilten Geheimnisses soll gewährleisten, dass der Abstand nur zu einer authentifizierten Vorrichtung gemessen wird (Abs. 17). Im Einklang damit führt die Beschreibung aus, dass das Geheimnis bereits geteilt worden ist, bevor die Abstandsmessung durchgeführt wird (Abs. 22, ebenso Abs. 45, Sp. 7 Z. 48-51).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Die von den Klägerinnen herangezogene Stelle der Beschreibung (Abs. 45, Sp. 8 Z. 8 ff.) rechtfertigt keine abweichende Beurteilung. Sie bestätigt lediglich, dass durch Nutzung des geteilten Geheimnisses für die Durchführung der Abstandsmessung zur Authentifizierung des rücklaufenden Signals sichergestellt wird, dass die Messung nur im Verhältnis zu berechtigten Vorrichtungen erfolgt, nötigt aber nicht zu einem Verständnis des Anspruchs dahin, dass mit der Durchführung der Abstandsmessung nur die Berechnung des Abstands gemeint ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>5. Die in Patentanspruch 16 geschützte Vorrichtung wird durch ihre Eignung für ein Verfahren mit den Merkmalen von Patentanspruch 1 geprägt und unterliegt deshalb derselben Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass in der erteilten Fassung nur Patentanspruch 16 eine Reihenfolge zwischen der Authentifizierung der zweiten Vorrichtung und dem Teilen des gemeinsamen Geheimnisses vorsieht, ist für die Beurteilung der in der Berufungsinstanz verteidigten Fassungen unerheblich, weil danach auch Patentanspruch 1 in Merkmal 5.2 den Ausdruck "then" enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Die Nichtigkeitsgründe der unzulässigen Erweiterung und der mangelnden Ausführbarkeit lägen nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der erteilten Fassung der Patentansprüche 16 und 1 sei gegenüber dem aus dem Hause der Beklagten stammenden Vorschlag für ein Open Copy Protection System (OCPS; Epstein/Pasieka, Philips Research Proposal to Broadcast Protection Discussion Group, Version 1.4 vom 7. Mai 2002, D8) nicht neu. Für die Fassung nach dem erstinstanzlichen Hilfsantrag I (jetzt: Hauptantrag) gelte nichts anderes. Der mit dem erstinstanzlichen Hilfsantrag I (jetzt: Hilfsantrag II) verteidigte Gegenstand sei durch D8 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Der mit dem erstinstanzlichen Hilfsantrag III verteidigte Gegenstand sei ursprünglich offenbart und patentfähig. D8 offenbare nicht, dass das gleiche gemeinsame Geheimnis sowohl für die Abstandsmessung als auch für den Aufbau eines sicheren authentifizierten Kanals verwendet werde. Der von I.  stammende Vorschlag für ein High-bandwith Digital Content Protection System (HDCP; Revision 1.0 vom 17. Februar 2000, D1) zeige keine Abstandsmessung und offenbare nicht, dass das Geheimnis erst geteilt werde, nachdem das zweite Gerät authentifiziert worden sei. Der verteidigte Gegenstand beruhe auch auf erfinderischer Tätigkeit. Selbst wenn die Lehre der D1 um eine Abstandsmessung nach D8 ergänzt werde, fehle es an einer Anregung, das für die Abstandsmessung genutzte Geheimnis auch für den Aufbau des sicheren authentifizierten Kanals zu verwenden. Ausgehend von D8 sei der verteidigte Gegenstand durch keine Entgegenhaltung nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält den Angriffen der Anschlussberufung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>1. Der mit dem Hauptantrag (erstinstanzlich: Hilfsantrag I) verteidigte Gegenstand geht entgegen der Auffassung der Klägerinnen nicht über den Inhalt der ursprünglich eingereichten Unterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats ist ein beanspruchter Gegenstand ursprünglich offenbart, wenn die im Anspruch bezeichnete technische Lehre den Ursprungsunterlagen in ihrer Gesamtheit unmittelbar und eindeutig als eine mögliche Ausführungsform der Erfindung zu entnehmen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Danach ist ein "breit" formulierter Anspruch unter dem Gesichtspunkt der unzulässigen Erweiterung jedenfalls dann unbedenklich, wenn sich ein in der Anmeldung beschriebenes Ausführungsbeispiel der Erfindung aus fachlicher Sicht als Ausgestaltung der im Anspruch beschriebenen allgemeineren technischen Lehre darstellt und diese Lehre in der beanspruchten Allgemeinheit bereits der Anmeldung als zu der angemeldeten Erfindung gehörend entnehmbar ist. Dies gilt insbesondere dann, wenn von mehreren Merkmalen eines Ausführungsbeispiels, die zusammengenommen, aber auch für sich betrachtet, dem erfindungsgemäßen Erfolg förderlich sind, nur eines oder nur einzelne in den Anspruch aufgenommen worden sind (vgl. nur BGH, Urteil vom 13. Juni 2023 - X ZR 47/21, GRUR 2023, 1274 Rn. 161 f. - Anschlussklemme).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>b) Diesen Anforderungen wird die mit dem Hauptantrag verteidigte Fassung von Patentanspruch 1 gerecht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>aa) Wie die Beklagte zutreffend dargelegt hat, findet diese Fassung ihre Grundlage in den Absätzen 34 und 35 mit der nachstehend wiedergegebenen Figur 2 der ursprünglichen Anmeldung (NK4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="327px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>In den genannten Absätzen wird die Abfolge der Ereignisse dahin beschrieben, dass die erste Vorrichtung (201) zunächst die zweite Vorrichtung (203) authentifiziert (Schritt 205), sodann ein Geheimnis mit ihr teilt (Schritt 207) und nachfolgend eine Abstandsmessung durchgeführt wird (Schritt 209), bevor schließlich Daten übertragen werden (Schritt 211).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Klägerinnen führt der Umstand, dass diese Reihenfolge in der Anmeldung sowohl an den oben wiedergegebenen Stellen (Abs. 35 f.) als auch an anderer Stelle (Abs. 42) nur in Zusammenhang mit einer Messung der Umlaufzeit eines Signals beschrieben wird, nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Schon der Bezug auf Figur 2, in der die aufeinanderfolgenden Schritte ohne Konkretisierung der Messmethode aufgeführt werden, spricht dafür, dass zwischen der dargestellten Reihenfolge und der Art und Weise, in der die Abstandsmessung erfolgt, kein zwingender Zusammenhang besteht. Dies wird bestätigt durch den Umstand, dass eine Abstandsmessung, wie sie in Figur 2 und den darauf bezogenen Ausführungen dargestellt ist, an anderer Stelle der Anmeldung (Abs. 15) unabhängig von der in Figur 2 dargestellten Reihenfolge als Beispiel für eine authentifizierte Abstandsmessung beschrieben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ergibt sich aus den ebenfalls in der Anmeldung enthaltenen Ausführungen, wonach zunächst eine Authentifizierung erfolgt und danach ein gemeinsames Geheimnis geteilt wird (Abs. 21), ebenfalls keine abweichende Beurteilung. Auch diese Passage deutet vielmehr darauf hin, dass die im Anschluss beschriebene Abstandsmessung erst nach dem Teilen des gemeinsamen Geheimnisses beginnt und nicht zwingend nach dem Vorbild der in der Anmeldung geschilderten Ausführungsbeispiele erfolgen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>2. Der mit dem Hauptantrag (erstinstanzlich: Hilfsantrag I) verteidigte Gegenstand von Patentanspruch 1 ist neu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>a) D8 nimmt diesen Gegenstand nicht vollständig vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>aa) D8 unterbreitet einen Vorschlag für einen verbesserten Schutz gegen unberechtigten Zugriff bei der Übertragung geschützten Inhalts von einer als Quelle (source) bezeichneten ersten Vorrichtung an eine als Senke (sink) bezeichnete zweite Vorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Die Entgegenhaltung schlägt eine Vorgehensweise vor, die fünf Phasen umfasst und in der nachfolgend wiedergegebenen Figur 1 schematisch dargestellt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>In der ersten Phase (authentication phase) authentifizieren die Quelle und die Senke sich wechselseitig. Dazu übermittelt die Quelle der Senke einen öffentlichen Schlüssel und ein Zertifikat einer vertrauenswürdigen Stelle (Trust Authority). Stellt die Senke fest, dass diese in Ordnung sind, übermittelt sie ihrerseits der Quelle einen öffentlichen Schlüssel und ein Zertifikat einer vertrauenswürdigen Stelle. Sind Zertifikat und öffentlicher Schlüssel der Senke nicht zu beanstanden, wird der Schlüssel akzeptiert (S. 7 letzter Absatz und S. 9 Abs. 1 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>In der zweiten Phase (key exchange phase) erzeugt die Quelle zwei Zufallszahlen (R<sub>Source</sub>, K<sub>RandSource</sub>). Diese werden zusammen mit weiteren Daten mit dem öffentlichen Schlüssel der Senke verschlüsselt und an die Senke übertragen. Die Senke entschlüsselt die Zufallszahl (R<sub>Source</sub>) mit Hilfe ihres privaten Schlüssels und erzeugt zwei weitere Zufallszahlen (R<sub>Sink</sub>, K<sub>RandSink</sub>). Sie verschlüsselt alle drei Zahlen (R<sub>Sink</sub>, R<sub>Source</sub>, K<sub>RandSink</sub>) sodann mit dem öffentlichen Schlüssel der Quelle und übermittelt sie an diese. Die Quelle entschlüsselt die Zahlen mit Hilfe ihres privaten Schlüssels (S. 9 Abs. 3 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Die Quelle misst die Zeit, die benötigt wurde, um die Zufallszahl (R<sub>Source</sub>) von der Quelle zur Senke und wieder zurück zu übertragen und vergleicht diese mit einem Grenzwert von einer Millisekunde. Wenn die gemessene Zeit den Grenzwert überschreitet und die einschlägigen Regelungen eine nicht-lokale Übertragung verbieten, wird der Vorgang abgebrochen (S. 9 Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Anderenfalls vergleicht die Quelle, ob der empfangene Wert (R<sub>Source</sub>) mit dem von ihr übermittelten übereinstimmt. Wenn dies der Fall ist, übermittelt sie die von der Senke erzeugte Zufallszahl (R<sub>Sink</sub>) verschlüsselt an die Senke. Diese überprüft ebenfalls, ob der empfangene Wert mit dem übermittelten übereinstimmt und ob die gemessene Zeit unterhalb des Grenzwerts von einer Millisekunde liegt (S. 9 Abs. 6 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>In der dritten Phase (key generation phase) erzeugen die Quelle und die Senke jeweils einen Sitzungsschlüssel. Diesen errechnen sie mit Hilfe ihrer beiden öffentlichen Schlüssel (K<sub>PubSource</sub>, K<sub>PubSink</sub>) und der in der zweiten Phase übermittelten Zufallswerte (K<sub>RandSource</sub>, K<sub>RandSink</sub>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Dieser Schlüssel wird in der vierten Phase (information transmisson stage) zur Verschlüsselung der übermittelten Inhalte eingesetzt (S. 9 Abs. 8 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind die Merkmale 1 bis 5.2 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>(1) Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass die Abstandsmessung anhand der Umlaufzeit der Zufallszahl (R<sub>Source</sub>) den Anforderungen von Merkmal 2 entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass ein sich mit Lichtgeschwindigkeit ausbreitendes Signal innerhalb der in D8 offenbarten Obergrenze von einer Millisekunde eine Entfernung von 300 Kilometern zurücklegen kann (also je 150 Kilometer Hin- und Rückweg), deutet allerdings darauf hin, dass die in D1 offenbarte Methode nur dann einen Rückschluss auf eine lokale Gegenstelle ermöglicht, wenn die Zeitspanne bis zum Eintreffen der Antwort nicht nur durch die Laufzeit des Signals bestimmt wird, sondern auch durch die für dessen Verarbeitung benötigten Zeiträume.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, schließt Merkmal 2 den Einsatz von Methoden, die mit derartigen Unsicherheiten verbunden sind, indes nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>(2) Ebenfalls zu Recht hat das Patentgericht entschieden, dass die Zufallszahl (R<sub>Source</sub>) ein gemeinsames Geheimnis von Quelle und Senke im Sinne von Merkmal 4.1 darstellt. Aufgrund der für die Übertragung eingesetzten Verschlüsselung ist dieser Wert nur für die beiden an dem Vorgang beteiligten Vorrichtungen zugänglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung des Patentgerichts ist Merkmal 5.3 hingegen nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Das Teilen des gemeinsamen Geheimnisses und die Durchführung der Abstandsmessung erfolgen bei dem in D8 offenbarten Verfahren nicht zeitlich nacheinander. Die Übermittlung des gemeinsamen Geheimnisses (R<sub>Source</sub>) von der Quelle an die Senke stellt zugleich den ersten Schritt der Abstandsmessung dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Die abweichende Auffassung der Klägerinnen beruht auf einer abweichenden Auslegung von Merkmal 5.3. Diese Auslegung trifft aus den oben aufgezeigten Gründen nicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>b) Der mit dem Hauptantrag verteidigte Gegenstand ist auch durch D1 nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>aa) D1 befasst sich mit dem Schutz der Übertragung von Videodaten von einem Sender (Digital Visual Interface Video Transmitter, DVI-Transmitter, Host) zu einem Empfänger (Digital Visual Interface Video Receiver).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Der erste Schritt der Authentifizierung ist in der nachfolgend wiedergegebenen Figur 2-1 schematisch dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Autorisierte Teilnehmer erhalten von einem mit dieser Aufgabe befassten Unternehmen (Digital Content Protection LLC) für ihre Anzeigegeräte einen Key Selection Vector (KSV) und einen Satz von geheimen Geräteschlüsseln (S. 6 Abschnitt 2.1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Der Sender übermittelt dem Empfänger eine Zufallszahl (An) und den Key Selection Vector des Senders (Aksv). Der Empfänger antwortet mit der Übermittlung des ihm zugewiesenen Key Selection Vectors (Bksv). Dieser wird darauf geprüft, ob er nicht widerrufen ist und je zwanzigmal die Werte 1 und 0 enthält (S. 6 Abschnitt 2.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Auf der Grundlage des Key Selection Vectors der jeweiligen Gegenstelle berechnen Sender und Empfänger einen geheimen Wert (Km bzw. Km'). Diese Werte stimmen überein, wenn alle geheimen Geräteschlüssel und der verwendete Key Selection Vector valide sind (S. 7 Abs. 1-3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Auf der Grundlage des geheimen Werts (Km bzw. Km') und der Zufallszahl (An) berechnen Sender und Empfänger je drei Werte (K<sub>s</sub>, M<sub>0</sub>, R<sub>0</sub>). Der Empfänger übermittelt den von ihm errechneten Wert (R<sub>0</sub>') an den Sender. Dieser Wert muss für den Sender innerhalb von 100 Millisekunden nach Beendigung des Schreibens von Aksv an den Empfänger zum Lesen verfügbar sein. Die in Sender und Empfänger berechneten Werte (R<sub>0</sub> bzw. R<sub>0</sub>') stimmen überein, wenn die Authentifikation erfolgreich war (S. 7 Abs. 4 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Die Prüfung, ob der Key Selection Vector (Bksv) widerrufen wurde, ist in Figur 2-1 - abweichend von der oben wiedergegeben textlichen Beschreibung (S. 6 Abschnitt 2.2) - erst als letzter Schritt dargestellt. Bei der Beschreibung des Betriebszustandes, in dem der Sender die Werte (R<sub>0</sub>, R<sub>0</sub>') vergleicht (State A3), wird darauf hingewiesen, die Überprüfung der Widerrufsliste für Bksv könne asynchron zu den übrigen Teilen des Protokolls ausgeführt werden und unmittelbar nach der Übermittlung dieses Vektors beginnen; sie müsse aber spätestens vor dem Übergang in den authentifizierten Status (A4) beendet sein (S. 12 zu Status A3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Im zweiten Teil des in D1 beschriebenen Authentifizierungsprotokolls überprüft der Sender, ob der Empfänger Bereitschaft meldet und ob eine Weitergabe von Inhalten an Geräte dieser Ebene zulässig ist (S. 8 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Ein dritter Teil des Authentifizierungsprotokolls wird vor der Übermittlung einzelner Videoframes ausgeführt. Hierbei erzeugen Sender und Empfänger zusätzliche Schlüssel (K<sub>i</sub>, M<sub>i</sub>, R<sub>i</sub>) und der Sender überprüft, ob der vom Empfänger erzeugte und übermittelte Parameter (R<sub>i</sub>') mit dem von ihm erzeugten Parameter (R<sub>i</sub>) übereinstimmt. Wenn der Lesevorgang für den Parameter (R<sub>i</sub>') nicht innerhalb von 250 Millisekunden nach dessen Einleitung abgeschlossen ist, wird die DVI-Verbindung als nicht authentifiziert betrachtet (S. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Die Inhalte werden vor der Übermittlung an den Empfänger verschlüsselt (S. 24 Abschnitt 3). Hierzu werden die bereits erwähnten Schlüssel (K<sub>s</sub>, K<sub>i</sub>) eingesetzt. Diese werden wie bereits erwähnt aus dem geheimen Wert (Km) und dem Zufallswert (An) abgeleitet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind die Merkmale 1, 4 und 5.1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>cc) Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass die in den Merkmalen 5.1 und 5.2 vorgegebene Reihenfolge, wonach das gemeinsame Geheimnis erst nach der Authentifizierung der zweiten Vorrichtung geteilt wird, in D1 nicht offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>(1) Zutreffend hat das Patentgericht angenommen, dass das Berechnen der Werte (Km, Km') nicht nur der Festlegung eines gemeinsamen Geheimnisses dient, sondern zugleich der Authentifikation.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>(2) Entgegen der Auffassung des Patentgerichts steht dies einer Offenbarung der in Patentanspruch 1 definierten Reihenfolge allerdings nicht schon deshalb entgegen, weil die Überprüfung der mit Hilfe des gemeinsamen Geheimnisses (Km, Km') errechneten Werte (R<sub>0</sub>, R<sub>0</sub>') in D1 ebenfalls als Teil des Authentifizierungsvorgangs bezeichnet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Wie oben dargelegt wurde, gilt die Vorgabe zur Reihenfolge aus den Merkmalen 5.1 und 5.2 nur für einen ersten Schritt der Authentifizierung, mit dem sichergestellt wird, dass die zweite Vorrichtung zum Teilen eines gemeinsamen Geheimnisses berechtigt ist. Ein erster Authentifizierungsschritt in diesem Sinne liegt bei dem in D1 offenbarten Verfahren schon im Austausch der Key Selection Vectors und der Überprüfung des vom Empfänger übermittelten Vectors durch den Sender. Folglich würde es ausreichen, wenn das Teilen eines gemeinsamen Geheimnisses diesem Schritt nachfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>(3) Wie die Beklagte zu Recht geltend macht, dient der Austausch der Key Selection Vectors bei dem in D1 offenbarten Verfahren indes auch dem Teilen eines gemeinsamen Geheimnisses.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Das gemeinsame Geheimnis steht den beiden Vorrichtungen zwar erst nach dem Berechnen der Werte (Km, Km') zur Verfügung. Dieser Prozess wird aber bereits durch den Austausch der Key Selection Vectors eingeleitet, weil diese die Auswahl der Schlüssel ermöglichen, mit deren Hilfe die Werte (Km, Km') ermittelt werden. Der Austausch der Vektoren entspricht mithin einem Key-Management-Protokoll im Sinne von Merkmal 5.2. Damit überschneiden sich die Authentifizierung im Sinne von Merkmal 5.1 und das Teilen des Geheimnisses im Sinne von Merkmal 5.2 bei D1 jedenfalls teilweise. Dies entspricht nicht der in diesen Merkmalen vorgegebenen Reihenfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>dd) Ebenfalls nicht offenbart ist eine Abstandsmessung im Sinne der Merkmale 2, 3, 4.1 und 5.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>(1) In diesem Zusammenhang kann dahingestellt bleiben, ob die in D1 beschriebene Timeout-Regel, nach der der Vorgang abgebrochen wird, wenn der Sender den vom Empfänger zu übermittelnden Wert R<sub>0</sub>' nicht innerhalb von 100 Millisekunden lesen kann, eine Messung im Sinne der genannten Merkmale darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Diese Messung wird bei dem in D1 offenbarten Verfahren jedenfalls nicht zur Ermittlung des Abstands eingesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>(2) Ebenfalls offen bleiben kann die Frage, ob es zur Offenbarung der Merkmale 2, 3 und 4.1 ausreichen würde, wenn eine Überschreitung des Zeitlimits bei dem in D1 beschriebenen Verfahren objektiv die Möglichkeit eröffnete, Rückschlüsse auf den räumlichen Abstand zwischen den beteiligten Vorrichtungen zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>Den Ausführungen aus D1 lässt sich nicht entnehmen, welche Faktoren für die Definition des Zeitlimits von 100 Millisekunden ausschlaggebend sind. Angesichts dessen lässt sich der Entgegenhaltung nicht eindeutig entnehmen, ob eine Überschreitung dieses Limits Rückschlüsse auf die Entfernung zwischen den beiden Vorrichtungen zulässt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>(3) Bezüglich des in D1 offenbarten Zeitlimits von 250 Millisekunden für die nachfolgenden Werte (R<sub>i</sub>') gilt Entsprechendes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>3. Der mit dem Hauptantrag verteidigte Gegenstand beruht auch auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>a) Auf der Suche nach Lösungen für das dem Streitpatent zugrunde liegende technische Problem bestand ausgehend von D1 allerdings Anlass, ähnliche Verfahren darauf zu untersuchen, ob sie eine Möglichkeit der Entfernungsmessung bieten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Hierzu bot sich eine ergänzende Heranziehung von D8 an, weil dort eine einfache Möglichkeit zur Unterscheidung von lokalen und nicht lokalen Zugriffen aufgezeigt wird und das dafür eingesetzte Mittel - eine Zeitmessung - in D1 ohnehin bereits vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>b) Auch eine Kombination von D1 und D8 führt jedoch nicht zu einer Verwirklichung aller Merkmale von Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>aa) Wenn die in D1 vorgesehene Messung der Umlaufzeit für den Wert (R<sub>0</sub>/R<sub>0</sub>') so ausgestaltet wird, dass sie zugleich zur Abstandsmessung eingesetzt werden kann, sind zwar die Merkmale 2, 3, 4.1 und 5.3 verwirklicht, nicht aber die in den Merkmalen 5.1 und 5.2 vorgegebene Reihenfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Auch bei einer solchen Modifikation finden die Authentifizierung und das Teilen des gemeinsamen Geheimnisses teilweise nebeneinander statt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>bb) Wenn die Abstandsmessung, wie von den Klägerinnen postuliert, mit Hilfe des im ersten Schritt übermittelten Wertes (An) durchgeführt wird, fehlt es zusätzlich an der Verwirklichung von Merkmal 5.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausgestaltung beginnt die Durchführung der Abstandsmessung vor dem Teilen des gemeinsamen Geheimnisses und zudem gleichzeitig mit der Authentifizierung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zeigen nicht auf, dass sich aus dem Stand der Technik eine Anregung ergab, das in D8 beschriebene Verfahren bei einem Einsatz im Umfeld von D1 dahin abzuwandeln, dass die Abstandsmessung erst erfolgt, nachdem die erste Vorrichtung ein gemeinsames Geheimnis mit der zweiten Vorrichtung geteilt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>cc) Aus dem in D8 enthaltenen Hinweis, dass der Zeitpunkt der Überprüfung des Vektors (Bksv) in unterschiedlicher Weise festgelegt werden kann, ergeben sich keine weitergehenden Anregungen in Richtung auf das Streitpatent.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>(1) Eine nähere Analyse der in D1 und D8 offenbarten Verfahren könnte allerdings die Erkenntnis vermitteln, dass die Schritte der Authentifizierung, des Teilens eines gemeinsamen Geheimnisses und der Abstandsmessung mit Hilfe einer Umlaufzeit zumindest teilweise auch zeitgleich ausgeführt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, finden bei dem in D1 offenbarten Verfahren die Authentifizierung und das Teilen des gemeinsamen Geheimnisses teilweise gleichzeitig statt, während die Messung der Umlaufzeit in einem nachfolgenden Schritt erfolgt. Bei dem in D8 offenbarten Verfahren folgen demgegenüber die Authentifizierung und das Teilen eines gemeinsamen Geheimnisses aufeinander, während die Messung der Umlaufzeit sich mit dem Teilen des Geheimnisses überschneidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>Technische Unterschiede, die diese Einteilung im jeweiligen Kontext als zwingend erscheinen lassen, sind in den Entgegenhaltungen nicht offenbart und auch sonst nicht ersichtlich. Daraus könnte die Schlussfolgerung gezogen werden, dass die zeitliche Abfolge im Wesentlichen eine Frage der Zweckmäßigkeit ist und dass je nach Ausgestaltung auch alle drei Verfahrensschritte getrennt aufeinander folgen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>(2) Anhaltspunkte, die eine solche analytische Betrachtung nahelegen könnten, ergeben sich jedoch weder aus D1 oder D8 noch aus sonstigen Umständen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>dd) Aus den in D1 enthaltenen Ausführungen zum dritten Teil des Authentifikationsprotokolls ergaben sich keine weitergehenden Anregungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>Wenn bei dem in D1 offenbarten Verfahren eine Abstandsmessung erst in Zusammenhang mit dem Versand der Parameter (R<sub>i</sub>') erfolgt, ist zwar Merkmal 5.3 verwirklicht, weil das Teilen eines gemeinsamen Geheimnisses in diesem Zeitpunkt bereits abgeschlossen ist. Auch diese Ausgestaltung verwirklicht aber nicht die zeitliche Reihenfolge nach den Merkmalen 5.1 und 5.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Klägerinnen ist es technisch nicht völlig belanglos und damit beliebig, ob die im Hauptantrag aufgeführten Verfahrensschritte sich überschneiden oder aufeinander folgen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Rechtsprechung des Senats kann eine erfinderische Tätigkeit nicht auf ein Merkmal gestützt werden, das eine beliebige, von einem bestimmten technischen Zweck losgelöste Auswahl aus mehreren Möglichkeiten darstellt (BGH, Urteil vom 13. Juni 2023 - X ZR 51/21, GRUR 2023, 1259 Rn. 72 - Schlossgehäuse).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>bb) Die in dem Merkmal 5.3 vorgesehene zeitliche Abfolge kann nicht als technisch beliebig angesehen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, wird die Laufzeit eines Signals unter anderem dadurch beeinflusst, in welchem Umfang das Signal Gegenstand von Rechenoperationen ist. Je umfangreicher solche Berechnungen sind, umso eher kann sich dies nachteilig auf die Genauigkeit der Abstandsmessung auswirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund eröffnet die in Merkmal 5.3 vorgegebene Reihenfolge die Möglichkeit zu einer erhöhten Genauigkeit, weil die zum Teilen des Geheimnisses erforderlichen Rechenoperationen vor Beginn der Messung ausgeführt werden, auf deren Ergebnis also keinen Einfluss haben. Die Reihenfolge dieser Schritte ist mithin aus technischer Sicht nicht beliebig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>d) Ausgehend von D8 ergaben sich ebenfalls keine weitergehenden Anregungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob ausgehend von D8 Anlass bestand, einzelne Verfahrensschritte durch vergleichbare Schritte aus D1 zu ersetzen. Selbst wenn dies der Fall gewesen wäre, hätte eine solche Kombination aus den oben dargelegten Gründen die Merkmale von Patentanspruch 1 in ihrer Gesamtheit weder verwirklicht noch nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie § 91 Abs. 1 und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher  </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">  Hoffmann  </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Richterin am Bundesgerichtshof<br/>Dr. Kober-Dehm kann nicht<br/>unterschreiben, weil ihr keine<br/>Signaturkarte zur Verfügung steht.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Crummenerl  </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Bacher</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300392024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

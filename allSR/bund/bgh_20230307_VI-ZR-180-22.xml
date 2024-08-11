@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310682023</doknr>
+   <ecli>ECLI:DE:BGH:2023:070323UVIZR180.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230307</entsch-datum>
+   <aktenzeichen>VI ZR 180/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 2 Abs 2 S 1  RDG, § 4 S 1  RDG, § 10 Abs 1 S 1 Nr 1  RDG</norm>
+   <vorinstanz>vorgehend LG Karlsruhe, 6. Mai 2022, Az: 20 S 35/21, Urteil<br/>vorgehend AG Karlsruhe-Durlach, 15. April 2021, Az: 2 C 49/21, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Zulässigkeit der Vereinbarung eines Erfolgshonorars bei einer Inkassodienstleistung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Zur Zulässigkeit der Vereinbarung eines Erfolgshonorars bei einer Inkassodienstleistung nach § 2 Abs. 2 RDG.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision der Beklagten gegen das Urteil der 20. Zivilkammer des Landgerichts Karlsruhe vom 6. Mai 2022 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Beklagte trägt die Kosten des Revisionsverfahrens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin begehrt von der Beklagten aus abgetretenem Recht die Erstattung vorgerichtlicher Rechtsverfolgungskosten nach der Regulierung eines Unfallereignisses.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin verfügt über eine Registrierung gemäß § 10 Abs. 1 Satz 1 Nr. 1 RDG für den Bereich der Inkassodienstleistungen. Sie betreibt eine Verbraucherplattform ("VINQO.DE"), auf welcher sie Geschädigten die außergerichtliche Geltendmachung und Durchsetzung von Ansprüchen auf Ersatz materiellen und immateriellen Schadens anbietet. In diesem Rahmen betreibt die Klägerin einen "Schmerzensgeldrechner", mit dem sie auf Grundlage eingegebener Verletzungen und hinterlegter Urteile eine voraussichtliche und unverbindliche Ersteinschätzung des zu erwartenden Schmerzensgeldes anbietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Zum Gegenstand des Auftrags und zur Vergütung der Klägerin enthalten ihre Allgemeinen Geschäftsbedingungen die folgenden Bestimmungen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"B. Nutzungsbedingungen von VINQO.DE</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">I. Vertragsgegenstand, Vertragsschluss</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(…) 2. Sie beauftragen uns - bzw. soweit ausdrücklich angegeben einen Rechtsanwalt - mit Einwilligung in die Allgemeinen Geschäftsbedingungen mit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) der Prüfung von Ansprüchen auf Grundlage der eingereichten Unterlagen und Daten,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) der Anforderung von Unterlagen und Auskünften, soweit erforderlich oder sachdienlich,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) der Berechnung und Ermittlung von Ansprüchen auf Grundlage des gemeldeten Sachverhalts,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) der außergerichtlichen Geltendmachung von Ansprüchen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">e) der Prüfung und ggfs. Abwehr rechtlicher Einwände des Anspruchsgegners,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">f) der Einlegung außergerichtlicher Rechtsbehelfe,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">g) soweit weitergehend vereinbart, die gerichtliche Durchsetzung Ihrer Ansprüche mithilfe unserer Partneranwälte,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">h) der Zwangsvollstreckung Ihrer Ansprüche,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">i) der Entgegennahme und Abgabe von Gestaltungsrechten und anderweitigen Willenserklärungen in Ihrem Namen, soweit diese sachdienlich zur Durchsetzung Ihrer Ansprüche sind,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">j) jedwede weiteren, im Zusammenhang mit der Durchsetzung von Ansprüchen stehenden Dienstleistungen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">k) der Geltendmachung und Durchsetzung von datenschutzrechtlichen Auskunftsansprüchen sowie von materiellen und immateriellen Schadensersatzansprüchen, die im Zusammenhang mit datenschutzrechtlichen Aspekten, insbesondere einem Datenschutzverstoß, stehen. (…)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">II. Kosten, Freistellung &amp; Abtretung des Kostenerstattungsanspruchs</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Vertretung und Durchsetzung der Ansprüche</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) Zwischen den Parteien wird eine Erfolgsvereinbarung geschlossen. Die Erfolgsbeteiligung, die - soweit nicht anders angegeben - 15,00 % beträgt, beschränkt sich auf Schmerzensgeldansprüche im Rahmen der außergerichtlichen Anspruchsdurchsetzung. Der Prozentsatz beinhaltet die jeweils geltende Mehrwertsteuer. Für die gerichtliche Durchsetzung mithilfe unserer Partnerkanzlei kann eine abweichende Erfolgsbeteiligung vereinbart werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) Wir erhalten für unsere Tätigkeit unbeschadet der Ziff. 1 die Vergütung, die gem. § 4 RDGEG i.V.m. RVG analog beansprucht werden kann. Diese muss von der Gegenseite im Erfolgsfall erstattet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) Mit Einwilligung in die Allgemeinen Geschäftsbedingungen wird der Kostenerstattungsanspruch in Höhe des gem. § 4 RDGEG i.V.m. RVG analog zu beanspruchenden Betrages aufschiebend bedingt zum Zeitpunkt der Mandatsannahme erstrangig und unerfüllt gegen Schädiger, Halter, Haftpflichtversicherer und Dritte aus dem gemeldeten Schadensereignis an uns an Erfüllung statt abgetreten. Wir nehmen diese Abtretung mit Mandatsannahme an. Soweit der Anspruchsgegner die Zahlung des Vergütungsanspruchs unberechtigt verweigert, setzen wir diesen gerichtlich im eigenen Namen und auf eigene Rechnung durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) Soweit einer unserer Partneranwälte unmittelbar beauftragt werden soll, richtet sich die Vergütung nach dem Rechtsanwaltsvergütungsgesetz (RVG). Es kommt in diesem Fall ein Anwaltsvertrag mit dem Anwalt und nicht mit uns zustande.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) Sollten wir ihre Ansprüche nicht erfolgreich durchsetzen, so stellen wir sie von der Zahlung einer Vergütung für unsere Tätigkeit sowie für ggfs. darüber hinaus entstandene Kosten frei, die wir für die Rechtsdurchsetzung veranlasst haben (Kosten für Auskünfte, Arztberichte, Beauftragung einer Partnerkanzlei etc.)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Der Geschädigte, der durch ein von einem rangierenden Abschleppfahrzeug umgestoßenes Motorrad Prellungen erlitten hatte, beauftragte die Klägerin am 23. Oktober 2020 mit der außergerichtlichen Geltendmachung seiner Ansprüche. Die Klägerin wandte sich daraufhin an das beklagte Abschleppunternehmen und forderte die Zahlung eines Schmerzensgeldes von 1.300 € zuzüglich Kostenpauschale in Höhe von 25 € und Rechtsverfolgungskosten. Die Beklagte zahlte hierauf 625 € (600 € Schmerzensgeld zuzüglich Kostenpauschale), die Regulierung der Rechtsverfolgungskosten lehnte sie hingegen ab. Die Klägerin begehrt nunmehr die Zahlung der sich aus einem Gegenstandswert von 625 € berechnenden Rechtsdienstleistungskosten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Amtsgericht hat der Klage im Wesentlichen (bis auf einen Teil der in Rechnung gestellten Umsatzsteuer) stattgegeben. Die zugelassene Berufung der Beklagten blieb vor dem Landgericht ohne Erfolg. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Beklagte ihr Ziel der vollständigen Klagabweisung weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht (LG Karlsruhe, Urteil vom 6. Mai 2022 - 20 S 35/21, juris) hat zur Begründung seiner Entscheidung - soweit für das Revisionsverfahren von Interesse - im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Der Zahlungsanspruch sei in der vom Amtsgericht zuerkannten Höhe begründet (§ 7 StVG, §§ 398, 249 BGB). Die Klägerin sei vom Geschädigten wirksam mit der außergerichtlichen Durchsetzung seiner Schadensersatzansprüche beauftragt worden. Die Tätigkeit der Klägerin halte sich im Rahmen der ihr erteilten Inkassodienstleistungsbefugnis nach § 10 Abs. 1 Satz 1 Nr. 1 RDG. Eine Überschreitung der Erlaubnis der Klägerin ergebe sich auch nicht im Zusammenhang mit deren Vergütungsmodell, welches einerseits durch eine Erfolgsbeteiligung, andererseits durch die Freihaltung von Kosten im Misserfolgsfall gekennzeichnet sei. Diese Vereinbarung führe nicht zu einer Interessenkollision i.S.v. § 4 RDG oder sonst einem Verstoß gegen diese Vorschrift. Die Vereinbarung einer Erfolgsbeteiligung nur bei außergerichtlicher Anspruchsdurchsetzung verleite nicht dazu, ein niedrigeres Schmerzensgeld einzufordern, um den Erfolg der außergerichtlichen Tätigkeit und damit die Erfolgsbeteiligung von 15 % sicherzustellen. Aus der Regelung ergebe sich, dass auch für den Fall einer gerichtlichen Durchsetzung eine Erfolgsbeteiligung vorgesehen sei, wenn auch mit der Besonderheit, dass diese dann abweichend vereinbart werden könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Diese Erwägungen halten der revisionsrechtlichen Überprüfung im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Jeweils frei von Rechtsfehlern hat das Berufungsgericht seiner Entscheidung zugrunde gelegt, dass dem Geschädigten gegen die Beklagte ein Anspruch auf Zahlung von Schmerzensgeld in Höhe von 600 € zuzüglich Kostenpauschale zustand und dass der Geschädigte grundsätzlich Ersatz der Rechtsverfolgungskosten in entsprechender Höhe verlangen kann. Hiergegen wendet sich die Revision nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Zutreffend ist das Berufungsgericht weiter davon ausgegangen, dass sich die Tätigkeit der Klägerin im Rahmen der ihr nach § 10 Abs. 1 Satz 1 Nr. 1 i.V.m. § 2 Abs. 2 Satz 1 RDG erteilten Erlaubnis zur Erbringung von Inkassodienstleistungen hält (vgl. BGH, Urteile vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 18 ff.; vom 8. April 2020 - VIII ZR 130/19, NJW-RR 2020, 779 Rn. 30 ff.; vom 13. Juni 2022 - VIa ZR 418/21, NJW 2022, 3350 Rn. 15). Der Begriff der Inkassodienstleistung ist nicht in einem zu engen Sinne zu verstehen. Insbesondere ist es einem registrierten Inkassodienstleister nicht verwehrt, im Rahmen des außergerichtlichen Forderungseinzugs in substantieller Weise Rechtsberatung vorzunehmen (BGH, Urteile vom 27. Mai 2020 - VIII ZR 45/19, NZM 2020, 551 Rn. 53 [in BGHZ 225, 352 nicht abgedruckt]; vom 7. Dezember 2022 - VIII ZR 81/21, juris Rn. 40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Anders als von der Beklagten in der Revisionsverhandlung vertreten, ist die Tätigkeit der Klägerin weder von vornherein in einer ihre Inkassoerlaubnis überschreitenden Weise (zugleich) auf die Abwehr von (Gegen-)Ansprüchen ausgerichtet (vgl. hierzu BGH, Urteil vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 96), noch erwecken die - vom Senat eigenständig auszulegenden (vgl. Senat, Urteil vom 18. Februar 2020 - VI ZR 135/19, NJW 2020, 1888 Rn. 9 mwN) - Allgemeinen Geschäftsbedingungen der Klägerin den Eindruck, tatsächlich werde nicht der Auftrag für eine (bloße) Inkassodienstleistung eines entsprechend registrierten Dienstleisters, sondern für eine umfassende anwaltliche Rechtsbesorgung erteilt. Vielmehr wird in den Allgemeinen Geschäftsbedingungen der Klägerin deutlich zwischen der Klägerin als allein außergerichtlich tätigem Inkassounternehmen ("uns", vgl. Ziff. B.I.2 AGB Klägerin) einerseits und den - gegebenenfalls gesondert zu beauftragenden - Rechtsanwälten/Partneranwälten der Klägerin (vgl. Ziff. B.I.2, 2.g, II.1.a, 1.c, 1.d AGB Klägerin) andererseits unterschieden. Soweit die Beklagte in diesem Zusammenhang in der Revisionsverhandlung ergänzend auf den (aktuellen) Internetauftritt der Klägerin abzustellen suchte, war dieser Vortrag schon aus verfahrensrechtlichen Gründen nicht zu berücksichtigen (§ 559 Abs. 1 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die konkreten Umstände des einfach gelagerten Ausgangssachverhaltes selbst geben für die Annahme, die Tätigkeit der Klägerin könnte sich außerhalb ihrer Inkassoerlaubnis bewegt haben, ohnehin keine Veranlassung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Entgegen der Auffassung der Revision verstößt die zwischen dem Geschädigten und der Klägerin geschlossene Vergütungsvereinbarung nicht mit der Folge der Nichtigkeit auch der Abtretungserklärung gegen § 4 RDG in der bis zum 30. September 2021 geltenden Fassung (nachfolgend § 4 RDG aF).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 4 RDG aF - nunmehr nach dessen Satz 1 - dürfen Rechtsdienstleistungen, die unmittelbaren Einfluss auf die Erfüllung einer anderen Leistungspflicht haben können, nicht erbracht werden, wenn hierdurch die ordnungsgemäße Erbringung der Rechtsdienstleistung gefährdet wird. Dies setzt voraus, dass die Rechtsdienstleistung einen unmittelbaren gestaltenden Einfluss auf eine andere, bereits bestehende (Haupt-)Leistungspflicht des Dienstleistenden haben kann (BGH, Urteile vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 200; vom 8. April 2020 - VIII ZR 130/19, NJW-RR 2020, 779 Rn. 63; jeweils mwN). An einer solchen zum Zeitpunkt der Inkassodienstleistung bereits bestehenden Leistungspflicht der Klägerin fehlt es hier. Insbesondere handelt es sich bei der von der Klägerin im Falle einer Erfolglosigkeit ihrer Bemühungen vorzunehmenden Kostenfreihaltung des Geschädigten nicht um eine "andere Leistungspflicht", sondern um einen Bestandteil der von der Klägerin für den Geschädigten zu erbringenden Inkassodienstleistung. Sie steht mit der von der Klägerin betriebenen Forderungseinziehung in einem so engen Zusammenhang, dass sie - auch aus der Sicht des Kunden, dessen Schutz als Rechtsuchender die Vorschrift des § 4 RDG aF unter anderem dienen soll - nicht als eine andere Leistungspflicht im Sinne des § 4 RDG aF angesehen werden kann (vgl. BGH, Urteile vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 196, 202; vom 8. April 2020 - VIII ZR 130/19, NJW-RR 2020, 779 Rn. 64; vom 13. Juli 2021 - II ZR 84/20, BGHZ 230, 255 Rn. 48; jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Es bedarf weiterhin keiner Entscheidung, ob es Fälle geben kann, in denen zum Schutz des Rechtsverkehrs und der rechtsuchenden Kunden des Inkassodienstleisters eine erweiternde Auslegung oder analoge Anwendung der - hinsichtlich ihres Tatbestandes grundsätzlich eher eng ausgestalteten - Vorschrift des § 4 RDG aF geboten sein kann, wenn zwar deren Tatbestandsvoraussetzungen - insbesondere weil es sich bei der in einem möglichen Konflikt mit der Rechtsdienstleistung stehenden Handlungsweise oder Verpflichtung des Inkassodienstleisters nicht um eine "andere Leistungspflicht" handelt - nicht erfüllt sind, gleichwohl aber eine relevante Interessenkollision besteht (offengelassen bereits von BGH, Urteil vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 213). Denn ein solcher Fall liegt hier nicht vor, da es bereits an einer relevanten Interessenkollision fehlt (vgl. BGH, Urteil vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 187 ff., 196; Urteil vom 13. Juli 2021 - II ZR 84/20, BGHZ 230, 255 Rn. 58 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Eine solche Interessenkollision folgt insbesondere nicht daraus, dass nach den Allgemeinen Geschäftsbedingungen der Klägerin auf der einen Seite eine Erfolgsbeteiligung der Klägerin in Höhe von 15 % des außergerichtlich durchgesetzten Schmerzensgeldes und auf der anderen Seite die Kostenfreihaltung des Geschädigten vereinbart wurde. Die Vereinbarung eines solchen Erfolgshonorars ist nicht geeignet, die Erfüllung der von der Klägerin übernommenen Pflicht einer möglichst erfolgreichen Durchsetzung der Ansprüche ihres Kunden ernsthaft zu beeinträchtigen. Anders als die Revision meint, besteht nicht die konkrete Gefahr, dass die Klägerin Abstriche bei der Einforderung der Schmerzensgeldansprüche macht, um sich so zu Lasten ihres Kunden das Erfolgshonorar zu sichern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Dieser Gefahr wird vielmehr in hinreichendem Maße durch die Ausgestaltung der abgeschlossenen Vergütungsvereinbarung entgegengewirkt, die Anreize zu einer möglichst erfolgreichen Anspruchsdurchsetzung setzt. Schon die gegen den Schädiger durchsetzbare Höhe des der Klägerin an Erfüllungs statt abgetretenen allgemeinen Kostenerstattungsanspruchs des Geschädigten (Ziff. B.II.1.b und c AGB Klägerin) bemisst sich - wie auch der Streitfall zeigt - nach dem Wert der erstrittenen Ersatzleistungen. Vor allem aber bewirkt gerade die Vereinbarung eines Erfolgshonorars ein beträchtliches eigenes Interesse der Klägerin an einer möglichst erfolgreichen Durchsetzung der Ansprüche des Geschädigten, da sich die Höhe des Erfolgshonorars nach der Höhe der außergerichtlich durchgesetzten Schmerzensgeldzahlung richtet (Ziff. B.II.1.a AGB Klägerin). Der damit - jedenfalls weitgehend - vorhandene (prinzipielle) Gleichlauf der Interessen der Klägerin und des Geschädigten steht der Annahme einer relevanten Interessenkollision im Sinne des § 4 RDG aF entgegen (vgl. BGH, Urteil vom 27. November 2019 - VIII ZR 285/18, BGHZ 224, 89 Rn. 196; Deckenbrock in ders./Henssler, RDG, 5. Aufl., § 4 Rn. 28a mwN; vgl. allgemein zur Zulässigkeit eines Erfolgshonorars jetzt auch § 13c Abs. 3 RDG). Dies gilt im Streitfall umso mehr, als sich die Klägerin lediglich zur außergerichtlichen Geltendmachung der Ansprüche des Geschädigten verpflichtet hat, weshalb ihr Kostenrisiko im Vergleich zum Führen einer gerichtlichen Auseinandersetzung begrenzt ist. Auch bleibt es dem Geschädigten grundsätzlich unbenommen, Ersatz weiteren Schadens von der Beklagten zu verlangen. Abgetreten an die Klägerin hat der Geschädigte nach Ziff. B.II.1.c AGB Klägerin lediglich seinen Kostenerstattungsanspruch in Höhe des § 4 RDGEG in der bis zum 30. September 2021 geltenden Fassung i.V.m. RVG (jetzt § 13e RDG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Abgesehen davon bedeutet die Tatsache, dass auf Seiten des Inkassodienstleistungsunternehmens möglicherweise vom Kunden abweichende Interessen vorhanden sind, nicht, dass es diese auch auf Kosten des Kunden verfolgen darf. Im Gegenteil stehen, sofern der Inkassodienstleister zum Nachteil seiner Kunden eigennützig seine Interessen verfolgt diesem entsprechende Schadensersatzansprüche zu, deren Werthaltigkeit durch die zwingende Berufshaftpflichtversicherung des Inkassodienstleisters (§ 12 Abs. 1 Nr. 3 RDG) gewährleistet ist. Für eine entsprechende Anwendung des § 4 RDG aF besteht daher auch insoweit keine Veranlassung (vgl. BGH, Urteil vom 13. Juli 2021 - II ZR 84/20, BGHZ 230, 255 Rn. 63 f.; Grunewald in BeckOK RDG, Stand 1.1.2023, § 4 Rn. 17). Schließlich verstößt ein Inkassodienstleistungsvertrag nicht allein deshalb gegen § 4 RDG aF, weil der Inkassodienstleister im Gebühreninteresse für den Kunden nachteilige Maßnahmen treffen könnte (vgl. BGH, Urteil vom 13. Juni 2022 - VIa ZR 418/21, NJW 2022, 3350 Rn. 60).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>4. Gegen die Bemessung der noch streitgegenständlichen Höhe des Klaganspruchs (§ 287 ZPO) wendet sich die Revision nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Seiters     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pentz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Oehler</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Klein     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Linder     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310682023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

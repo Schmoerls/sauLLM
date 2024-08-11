@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE306142012</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20120814</entsch-datum>
+   <aktenzeichen>X ZR 3/10</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 87 Abs 1 EuPatÜbk, Art 87 Abs 4 EuPatÜbk, Art 88 Abs 4 EuPatÜbk, Art 138 Abs 1 Buchst c EuPatÜbk, Art 2 § 6 Nr 3 IntPatÜbkG, § 21 Abs 1 Nr 4 PatG, § 22 Abs 1 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 10. Dezember 2009, Az: 3 Ni 24/08 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Anforderungen an die Offenbarung bei Inanspruchnahme des Prioritätsrechts; unzulässige Erweiterung - UV-unempfindliche Druckplatte</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>UV-unempfindliche Druckplatte</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Inanspruchnahme der Priorität einer früheren Anmeldung setzt voraus, dass die Prioritätsunterlagen die Gesamtheit der Merkmale der durch den Patentanspruch umschriebenen technischen Lehre deutlich offenbaren. Wird die erfindungsgemäße Lehre durch eine im Prioritätsdokument nicht (deutlich) offenbarte Eigenschaft eines ihrer Bestandteile charakterisiert, die dem Fachmann eine zielgerichtete Auswahl geeigneter Ausführungsformen erlaubt (hier: fehlende Fotoempfindlichkeit gegenüber ultraviolettem Licht), fehlt es an einer Offenbarung im Prioritätsdokument, wenn die Eigenschaft objektiv auch einem dort offenbarten Ausführungsbeispiel zukommt, sie für den Fachmann aber jedenfalls nicht ohne Weiteres zu erkennen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Entsprechendes gilt für den Nichtigkeitsgrund des Hinausgehens über den Inhalt der Anmeldung (unzulässige Erweiterung: vgl. Senat, Urteil vom 17. Juli 2012, X ZR 117/11 - Polymerschaum, BGHZ 194, 107).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 10. Dezember 2009 an Verkündungs statt zugestellte Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts abgeändert:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird insgesamt abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte, die auf Grund einverständlichen Parteiwechsels nach erfolgter Umschreibung des Patents in das Verfahren eingetreten ist, ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 823 327 (Streitpatents), das am 5. August 1997 unter Inanspruchnahme der Priorität dreier Voranmeldungen in Japan vom 6. August 1996, 14. November 1996 und 22. Januar 1997 angemeldet worden ist, ein Verfahren zur Herstellung einer positiv arbeitenden lithographischen Druckplatte betrifft und zehn Patentansprüche umfasst. Patentanspruch 1, auf den die übrigen Patentansprüche unmittelbar oder mittelbar zurückbezogen sind, lautet in der erteilten Fassung in der Verfahrenssprache Englisch:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A method for making a lithographic printing plate, which comprises a step of scanning and exposing a positive photosensitive lithographic printing plate having a positive photosensitive composition having no photosensitivity to ultraviolet light and showing a difference in solubility in an alkali developer as between an exposed portion and a non-exposed portion, which comprises, as components inducing the difference in solubility,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) a light-absorbing dye having an absorption band covering a part or whole of a wavelength region of from 650 to 1300 nm as a photo-thermal conversion material, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) a high molecular compound, of which the solubility in an alkali developer is changeable mainly by a change other than a chemical change, formed on a support,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">by means of a light ray belonging to a wavelength region of from 650 to 1300 nm and having a light intensity of at least 2 x 106 mJ/s cm² which is sufficient to let the high molecular compound form an image."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig und das Streitpatent offenbare die Erfindung nicht so deutlich und vollständig, dass der Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent in der erteilten Fassung und mit zwei Hilfsanträgen in geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit es über die Fassung nach Hilfsantrag II hinausgeht. Nach diesem hat Patentanspruch 1 folgende Fassung in deutscher Sprache erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Herstellung einer lithographischen Druckplatte, welches einen Schritt des Scannens und Belichtens einer positiven fotoempfindlichen lithographischen Druckplatte mit einer positiven fotoempfindlichen Zusammensetzung mit keiner Fotoempfindlichkeit gegenüber ultraviolettem Licht, welche einen Löslichkeitsunterschied in einem alkalischen Entwickler zwischen einem belichteten und einem unbelichteten Teil aufweist, umfasst, welche als Komponenten zum Hervorrufen des Löslichkeitsunterschieds umfasst</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(a) einen lichtabsorbierenden Farbstoff mit einem Absorptionsfrequenzbereich, welcher einen Teil oder die Gesamtheit des Wellenlängenbereichs von 650 bis 1.300 nm abdeckt, als fotothermisches Umwandlungsmaterial, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(b) eine hochmolekulare Verbindung, deren Löslichkeit in einem alkalischen Entwickler hauptsächlich durch eine Änderung, die sich von einer chemischen Änderung unterscheidet, veränderbar ist, welche auf einem Träger ausgebildet ist, mittels einer Lichtstrahlung, welche zu einem Wellenlängenbereich von 650 bis 1.300 nm gehört und welche eine Lichtintensität von mindestens 2 x 106 mJ/s cm² aufweist, die zur Ausbildung eines Bildes durch die hochmolekulare Verbindung ausreicht, worin die fotoempfindliche Zusammensetzung weiterhin enthält</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(c) ein löslichkeitsunterdrückendes Mittel, welches zum Senken der Auflösungsrate der Mischung, umfassend einen lichtabsorbierenden Farbstoff der Komponente (a) und eine hochmolekulare Verbindung der Komponente (b), in dem alkalischen Entwickler in der Lage ist, worin das löslichkeitsunterdrückende Mittel (c) mindestens einen Bestandteil, ausgewählt aus Sulfonsäureestern, Phosphorsäureestern, aromatischen Carbonsäureestern, Carbonsäureanhydriden, aromatischen Ketonen, aromatischen Aldehyden, aromatischen Aminen und aromatischen Ethern, darstellt."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Dagegen wendet sich die Berufung der Beklagten, die das Streitpatent in seiner erteilten Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Als gerichtlicher Sachverständiger hat Professor Dipl.-Phys. A.   W.   ,      , Hochschule     , S.   , ein schriftliches Gutachten erstattet, das er in der mündlichen Verhandlung erläutert und ergänzt hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren zur Herstellung einer lithographischen Druckplatte, die Träger der Druckinformationen für das Druckverfahren des lithographischen Offsetdrucks (eines indirekten Flachdruckverfahrens) ist. Die druckenden Partien der Druckplatte zeigen dabei ein wasserabstoßendes (hydrophobes) und fettfreundliches (oleophiles) Verhalten. Beim Druck wird die Druckplatte mit einer dünnen Farbschicht beaufschlagt, die nur die oleophilen Bereiche benetzt und sich dort in einem dünnen Film anlagert. Sie wird von dort auf einem Gummizylinder abgenommen, auf dem ein spiegelverkehrtes Bild entsteht, das mit Druck auf das Papier übertragen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nach dem Streitpatent wird eine positive lichtempfindliche Zusammensetzung als oleophile Beschichtung für die (normalerweise aus Aluminiumblech bestehende, infolge elektrochemischer Aufrauung stark hydrophile) Druckplatte verwendet, die gegenüber Lichtstrahlen in einem Wellenlängenbereich von 650 bis 1.300 nm empfindlich ist. Durch den Belichtungs- und anschließenden Entwicklungsprozess wird der Bereich entfernt, der mit Licht beaufschlagt wurde; es bleiben mithin die nicht belichteten Stellen der Beschichtung erhalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Zusammen mit dem Fortschritt in der Bildbearbeitungstechnologie durch Computer wurde die Aufmerksamkeit auf ein fotoempfindliches oder wärmeempfindliches direktes Plattenherstellungssystem gerichtet, bei dem ein (Foto-) Resist-Bild direkt aus digitaler Bildinformation durch einen Laserstrahl (mit dem ein Negativbild geschrieben wird) oder einen Thermoschreibkopf ohne Verwendung einer Silbersalzmaskierungsschicht gebildet wird ("Computer-to-Plate-Technologie"; CtP-Technologie). Das Bild wird dabei auf der mit dem fotoempfindlichen Material beschichteten Druckplatte im Wesentlichen durch einen Löslichkeitsunterschied in einem Entwickler zwischen einem belichteten und einem nicht belichteten Teil der Druckplatte erzeugt (Beschr. Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Je nachdem, in welchem Bereich des Spektrums die Absorptionsfrequenz des Farbstoffs liegt, muss zusätzlich eine Wärmebehandlung der belichteten Platte erfolgen und/oder es muss unter Gelblicht gearbeitet werden, um UV-empfindliches Beschichtungsmaterial vor unerwünschter Belichtung mit dem UV-Anteil zu schützen (Beschr. Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Durch das Streitpatent soll ein Verfahren zur Herstellung einer positiven fotoempfindlichen lithografischen Druckplatte zur Verfügung gestellt werden, das eine einfache Konstruktion der benötigten Vorrichtung ermöglicht, die mit hoher Empfindlichkeit arbeitet und bei der die Druckplatte eine hervorragende Aufbewahrungsstabilität besitzt; eine Nachbelichtungswärmebehandlung soll nicht erforderlich, die Belichtung bei gewöhnlichem weißen Licht möglich sein und die Druckplatte soll ausgezeichnete Brenneigenschaften aufweisen und bei hoher Empfindlichkeit belichtet werden (Beschr. Abs. 19 bis 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems schlägt Patentanspruch 1 des Streitpatents in seiner erteilten Fassung ein Verfahren zur Herstellung einer Druckplatte vor, das</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">1. einen Schritt des Scannens und Belichtens einer fotoempfindlichen lithographischen Druckplatte umfasst (BPatG: M1)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.1 mit einer positiven fotoempfindlichen Zusammensetzung (BPatG: M2),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.2 die keine Fotoempfindlichkeit gegenüber ultraviolettem Licht (BPatG: M3) aufweist und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3 einen Löslichkeitsunterschied in einem alkalischen Entwickler zwischen einem belichteten und einem unbelichteten Teil aufweist (BPatG: M4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">2. Der Löslichkeitsunterschied wird durch folgende Komponenten hervorgerufen (BPatG: M5):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.1 einen lichtabsorbierenden Farbstoff als Material zur fotothermischen Umwandlung mit einem Absorptionsfrequenzbereich, der den Wellenlängenbereich von 650 bis 1.300 nm ganz oder zum Teil abdeckt, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.2 eine hochmolekulare Verbindung (BPatG: M6),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">2.2.1 deren Löslichkeit in einem alkalischen Entwickler hauptsächlich durch eine sich von einer chemischen Änderung unterscheidende Änderung veränderbar ist und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">2.2.2 die auf einem Träger ausgebildet ist (BPatG: M8, M9a, M9b).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">3. Die Belichtung erfolgt mittels einer Lichtstrahlung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(3.1) in einem Wellenlängenbereich von 650 bis 1.300 nm und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(3.2) mit einer Lichtintensität von mindestens 2 x 106 mJ/s cm² (die zur Ausbildung des Bilds durch die hochmolekulare Verbindung ausreicht).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Einige Merkmale bedürfen besonderer Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Da der Anteil von UV-Strahlung im Tageslicht und bei vielen Leuchtstofflampen zu ungewollter Anbelichtung der Druckplatten führen und dies bei Positivplatten zu Farbannahmeschwierigkeiten und/oder zur Verringerung der Auflagenstabilität führen kann (Lehrbuch der Druckindustrie, 1990, S. 95; B13), verwendet das Streitpatent eine gegenüber ultraviolettem Licht unempfindliche Zusammensetzung (Merkmal 1.2). Die UV-Unempfindlichkeit der Zusammensetzung muss dabei dergestalt sein, dass sie eine Bearbeitung ohne Einhaltung besonderer Schutztechniken ermöglicht (vgl. Beschr. Abs. 21: <em>"A further object of the present invention is to provide a method for making a positive photosensitive lithographic printing plate, which does not require an operation under yellow light and whereby the operation can be carried out under usual white light containing ultraviolet light"</em>, sowie Abs. 6, in dem als Nachteil des Stands der Technik dargestellt wird, dass das fotoempfindliche Material gegenüber ultraviolettem Licht empfindlich und es daher notwendig sei, das Verfahren unter Gelblicht auszuführen, das kein ultraviolettes Licht enthalte, was unter dem Gesichtspunkt der Betriebseffizienz problematisch sei).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Der Löslichkeitsunterschied zwischen einem belichteten Teil und einem unbelichteten Teil (Merkmal 1.3), der darauf beruht, dass durch die Belichtung, insbesondere deren thermische Wirkung, die fotoempfindliche Schicht so verändert wird, dass ihre Löslichkeit in einem alkalischen Entwickler deutlich größer ist als ohne diese Einwirkung (Merkmal 2.2.1), muss folglich so beschaffen sein, dass er durch eine Lichtstrahlung außerhalb des UV-Bereichs aktiviert wird (Merkmal 3.1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Dazu besteht die lichtabsorbierende Schicht nach Merkmal 2.1 aus einem organischen Stoff, der in der Lage ist, elektromagnetische Strahlung im Bereich des tiefen Rots und des nahen Infrarots (650 - 1.300 nm) oder mindestens in einem Teilbereich davon zu absorbieren, sowie einer hochmolekularen Verbindung (Merkmal 2.2), d.h. einem Stoff mit einem hohen Molekulargewicht, der in seiner Löslichkeit in einer alkalischen Lösung durch eine reversible physikalische Reaktion "geschaltet" wird; er geht bei Einwirkung der alkalischen Lösung im einen Zustand schnell und im anderen Zustand erheblich langsamer in Lösung (Merkmal 2.2.1). Die hochmolekulare Verbindung bildet auf der Druckplatte die oleophile Schicht, die entsprechend dem zu druckenden Bild bestehen bleibt, an den nichtdruckenden Stellen aber aufgelöst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die Lichtintensität von mindestens 2 x 106 mJ/s cm² (Merkmal 3.2) besagt, dass die Beleuchtungsquelle so leistungsfähig sein muss, dass sie umgerechnet auf einen Quadratzentimeter 2.000 Watt abgibt. Die Anwendung der Lichtquelle erfolgt scannend, d.h. ein kleiner Lichtpunkt (Spot) von typischerweise 10 µm - 20 µm wird in x- und y-Richtung über die Fläche geführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat angenommen, dass die Erfindung für den Fachmann ausführbar offenbart sei. Es ist jedoch der Ansicht, dass Patentanspruch 1 des Streitpatents in seiner erteilten Fassung durch die erst nach dem Anmeldetag des Streitpatents erfolgte Veröffentlichung der internationalen Anmeldung WO 97-39894 (D1) als Anmeldung mit älterem Zeitrang neuheitsschädlich getroffen werde. Es hat, soweit es das Patent teilweise für nichtig erklärt hat, seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die D1 nehme wirksam die Priorität der britischen Patentanmeldungen 9608394.4 (D1.1) und 9614693.1 (D1.2) in Anspruch und stelle deshalb das prioritätsältere Recht dar. Dass die D1 alle Merkmale des Patentanspruchs 1 des Streitpatents in seiner erteilten Fassung mit Ausnahme der Angaben zur Lichtintensität vorwegnehme, stehe außer Streit. Aber auch die Lichtintensität sei entgegen der Auffassung der Beklagten vorweggenommen. Sie sei zwar nicht ausdrücklich vorbeschrieben, die nach der D1 verwendeten Halblaserdioden hätten jedoch eine Leistung von 200 mW, emittierten Licht einer Wellenlänge zwischen 600 und 1.100 nm und seien auf einen Strahlendurchmesser von 10 µm fokussiert. Daraus errechne sich im Idealfall eine Lichtintensität von 2,55 x 108 mJ/s cm².</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der D1 sei den Prioritätsanmeldungen unmittelbar und eindeutig zu entnehmen. Nach den anzuwendenden Grundsätzen der Neuheitsprüfung sei über das explizit Beschriebene hinaus auch das als offenbart anzusehen, was zwar nicht ausdrücklich erwähnt, aus der Sicht des Fachmanns jedoch für die Ausführung der unter Schutz gestellten Lehre selbstverständlich sei und vom Fachmann mitgelesen werde und daher keiner besonderen Offenbarung bedürfe. Das „Mitlesen“ von Selbstverständlichem sei deshalb auch bei der Ermittlung des Inhalts einer für die wirksame Inanspruchnahme eines Prioritätsrechts maßgeblichen ursprünglichen Anmeldung einzubeziehen mit der einschränkenden Maßgabe, dass es auch darauf ankomme, ob der mit durchschnittlichen Kenntnissen und Fähigkeiten ausgestattete Fachmann des betreffenden Gebiets eine solche selbstverständliche Ergänzung der Anmeldung als zur Erfindung gehörend entnehmen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Nach diesen Grundsätzen sei von der Identität der Verfahren gemäß den prioritätsbegründenden Anmeldungen D1.1 und D1.2 mit den in den Patentansprüchen der D1 beschriebenen Gegenständen auszugehen. Das insoweit allein strittige Merkmal, nach dem die Löslichkeit der Beschichtungszusammensetzung in einem wässrigen alkalischen Entwickler durch einfallende UV-Strahlung nicht erhöht werde (<em>the aqueous developer solubility of the composition is not increased by incident UV radiation</em>), sei zwar in D1.1 und D1.2 nicht ausdrücklich erwähnt. Der Fachmann, ein Diplomchemiker oder Diplomphysiker, der mit der Herstellung von Materialien für die Fotografie vertraut sei und über Kenntnisse und Erfahrungen verfüge, wie sich diese Materialien auf die Herstellung von Vervielfältigungsformen oder Druckplatten übertragen ließen, lese dieses Merkmal beim Studium der D1.1 und D1.2 jedoch mit. Er stelle nämlich sofort fest, dass die Durchführung der in D1.1 und D1.2 beschriebenen Verfahren kein Schutzlicht erfordere. Denn es sei D1.1 und D1.2 kein Hinweis auf die zwingende Einhaltung einer solchen Maßnahme zu entnehmen. Vielmehr werde das Verfahren als sehr einfach durchführbar beschrieben. Das sei dem Fachmann im Umgang mit fotothermisch direkt bebilderbaren Druckplatten ohnehin geläufig. Das Fehlen einer solchen Angabe sei für den Fachmann daher ein klarer Hinweis, dass einfallende UV-Strahlung, die sowohl Bestandteil des Sonnenlichts als auch künstlicher Lichtquellen sein könne und mithin im Weißlicht vorkomme, die Löslichkeit der Beschichtungszusammensetzung nicht beeinflusse. Führte einfallendes UV-Licht nämlich zu einer Veränderung der Löslichkeit der Beschichtungszusammensetzung, wäre eine zufriedenstellende Bebilderung nicht möglich, da kein klares Bild entstehe. Der Fachmann entnehme dem Offenbarungsgehalt dieser Anmeldungen auch ohne ausdrückliche Erwähnung als selbstverständlich, dass bei der durch einen Wärmeeintrag erfolgenden Belichtung der Druckplatten die Löslichkeit der Beschichtungszusammensetzung durch einfallendes UV-Licht nicht beeinflusst werde. Nichts anderes folge aus der Veröffentlichung der japanischen Patentanmeldung Sho 56-69192 (D4); der Umgang mit fotothermisch direkt bebilderbaren Druckplatten sei dem Fachmann ohnehin geläufig gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält den Angriffen der Berufung nicht in vollem Umfang stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>1. Die am 22. April 1997 angemeldete, aber erst am 30. Oktober 1997 und damit nach dem Anmeldedatum des Streitpatents veröffentlichte D1 ist als ältere, nachveröffentlichte Patentanmeldung nur bei der Neuheitsprüfung heranzuziehen (Art. 54 Abs. 3 EPÜ). Da ihr Anmeldedatum nach den Prioritätsdaten des Streitpatents liegt, ist sie aber nur insoweit zu berücksichtigen, als sie die Priorität der in ihr beanspruchten Prioritätsanmeldungen D1.1 und/oder D1.2 wirksam in Anspruch nimmt (Art. 87, 88 Abs. 3, 4, Art. 89 EPÜ). Dabei ist nur das zu berücksichtigen, was den Prioritätsunterlagen unmittelbar und eindeutig zu entnehmen ist (BGH, Urt. vom 11. September 2001 - X ZR 168/98, BGHZ 148, 383 = GRUR 2002, 146 - Luftverteiler).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Davon kann bei dem Merkmal 1.2 des Streitpatents entsprechenden Merkmal der in der D1 gegebenen technischen Lehre, die Bestandteile der fotoempfindlichen Zusammensetzung so zu wählen, dass die Löslichkeit in einem wässrigen Entwickler durch einfallende UV-Strahlung nicht erhöht wird, entgegen der Auffassung des Patentgerichts keine Rede sein. Dies hat auch die Technische Beschwerdekammer 3.2.5 des Europäischen Patentamts in ihrer Entscheidung vom 12. August 2004 (T 888/02; B2) so gesehen. Die Beschwerdekammer hat sich dabei darauf gestützt, dass die D1.2 keine unmittelbare und eindeutige Offenbarung der Unempfindlichkeit der Zusammensetzung für UV-Licht enthalte. Dass die Zusammensetzung hitzeempfindlich sei und eine Druckplatte durch Hitzebeaufschlagung geschaffen werde, setze nicht notwendig voraus, dass die Zusammensetzung unempfindlich für UV-Licht sei. Zwar sei es möglich, dass die in der D1.2 beschriebenen Zusammensetzungen unempfindlich für UV-Licht seien, jedoch führe dies nicht zu einer impliziten Offenbarung dieses Merkmals. Zudem beziehe sich die D1 auf sechs Tests für die Bestimmung, ob eine Zusammensetzung für die Erfindung geeignet sei. Nur Test 6 betreffe die UV-Empfindlichkeit; er sei aber in der D1.2 nicht offenbart. Die Priorität werde damit zu Unrecht beansprucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Der Senat tritt im Ergebnis der Auffassung der Technischen Beschwerdekammer bei. Wie die Beklagte zutreffend ausführt, differenzieren die D1.1 und die D1.2 anders als die D1 nicht zwischen UV-empfindlichen und UV-unempfindlichen Beschichtungen. Dies stellt auch die Klägerin nicht in Abrede.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Annahme des Patentgerichts, dass das Merkmal gleichwohl aus fachmännischer Sicht mitzulesen sei, ist nicht gerechtfertigt. Sie beruht im Wesentlichen auf der Erwägung, dass den Veröffentlichungen kein Hinweis auf die Notwendigkeit zu entnehmen sei, unter Schutzlicht zu arbeiten. Das Fehlen eines solchen Hinweises ist jedoch in seiner Bedeutung für den Fachmann am Anmeldetag der D1.1 und D1.2 zumindest ambivalent. Denn wie die Beklagte unwiderlegt vorgetragen und der gerichtliche Sachverständige in der mündlichen Verhandlung nachdrücklich bestätigt hat, war zu diesem Zeitpunkt das Arbeiten unter Schutzlicht durchwegs üblich und wurde, wie sich aus der als Anlage B14 überreichten Kodak-Veröffentlichung ergibt, von Eastman Kodak auch für die als DITP (Direct Image Thermal Plates) bezeichneten Platten empfohlen, von denen die Klägerin geltend gemacht hat, dass sie (im Wesentlichen) tageslichtunempfindlich gewesen seien. Es lässt sich daher aus fachmännischer Sicht mit mindestens gleicher Berechtigung annehmen, dass in der D1.1 und der D1.2 ein entsprechender Hinweis zu erwarten gewesen wäre, wenn ein Verfahren beschrieben werden sollte, das wegen der UV-Unempfindlichkeit der beschriebenen fotoempfindlichen Zusammensetzungen kein Schutzlicht erforderte. Auch der gerichtliche Sachverständige hat in der mündlichen Verhandlung angegeben, dass die Fachwelt zum Prioritätszeitpunkt einen solchen Hinweis erwartet hätte und dass aus seinem Fehlen der Schluss gezogen werden musste, es seien Schutzmaßnahmen erforderlich. Die UV-Unempfindlichkeit hätte sich demnach erst im Weg eines Austestens ergeben. Von einer unmittelbaren und eindeutigen Offenbarung des Merkmals 2.1 kann mithin nicht gesprochen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Auch von einer impliziten Offenbarung kann entgegen der Auffassung der Vorinstanz nicht ausgegangen werden, ungeachtet dessen, dass wie auch die Beklagte nicht in Abrede stellt, in den Beispielen der D1.1 und der D1.2 Zusammensetzungen beschrieben werden, die objektiv gegenüber ultraviolettem Licht unempfindlich sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat erst kürzlich in Fortführung seiner älteren Rechtsprechung (Beschluss vom 17. Januar 1980 - X ZB 4/79, BGHZ 76, 97 - Terephthalsäure) bestätigt hat, genügt die Vorbekanntheit einer Verfahrensanweisung, deren Befolgung zwangsläufig eine Sache oder einen Zustand zur Folge hat, die objektiv die von der Erfindung gelehrte Beschaffenheit aufweist, für die Vorwegnahme der erfindungsgemäßen Lehre im Sinn der Neuheitsprüfung (Urteil vom 24. Juli 2012 - X ZR 126/09 - Leflunomid, zur Veröffentlichung vorgesehen). Darauf, ob der Fachmann Anlass hatte, die Sache auf das Vorhandensein der erfindungsgemäßen Eigenschaften zu analysieren, kommt es dabei nicht an. Wäre daher die D1.1 oder die D1.2 gegenüber dem Streitpatent als für die Neuheitsprüfung relevanter Stand der Technik zu berücksichtigen, spräche mithin einiges dafür, dass ein (auch im Übrigen erfindungsgemäßes) Verfahren als bekannt anzusehen wäre, bei dem eine Zusammensetzung verwendet wird, die - objektiv - keine Fotoempfindlichkeit gegenüber ultraviolettem Licht aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Indessen kommen die D1.1 und D1.2 nicht selbst als ältere Anmeldungen in Betracht, sondern sind nur für die Frage relevant, ob die D1 ihre Priorität wirksam in Anspruch nehmen kann. Dafür muss das Merkmal, nach dem die Löslichkeit der Beschichtungszusammensetzung in einem wässrigen alkalischen Entwickler durch einfallende UV-Strahlung nicht erhöht wird, nicht nur im Sinn des Art. 88 Abs. 4 EPÜ (entsprechend Art. 4 H PVÜ) in der Gesamtheit der Anmeldeunterlagen deutlich offenbart, sondern auch der D1.1 oder der D1.2 als zur Erfindung gehörend zu entnehmen sein (vgl. BGH, Beschluss vom 23. Januar 1990 - X ZB 9/89, BGHZ 110, 123, 126 - Spleißkammer; Urteil vom 11. September 2001 - X ZR 168/98, BGHZ 148, 383, 388 - Luftverteiler). Dies ist jedoch nicht der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Nach der ständigen Rechtsprechung des Senats ist hierfür erforderlich, dass der Fachmann die im Patentanspruch bezeichnete technische Lehre den Ursprungsunterlagen - "unmittelbar und eindeutig" (BGHZ 148, 383, 389 - Luftverteiler; Urteil vom 16. Dezember 2008 - X ZR 89/07, BGHZ 179, 168 Rn. 25 - Olanzapin; Urteil vom 8. Juli 2010 - Xa ZR 124/07, GRUR 2010, 910, Rn. 62 - fälschungssicheres Dokument) - als mögliche Ausführungsform der Erfindung entnehmen kann (Urteil vom 21. September 1993 - X ZR 50/91, Mitt. 1996, 204, 206 - Spielfahrbahn 03; Beschluss vom 11. September 2001 - X ZB 18/00, GRUR 2002, 49 - Drehmomentübertragungseinrichtung; Urteil vom 18. Februar 2010 - Xa ZR 52/08, GRUR 2010, 599, Rn. 22, 24 - Formteil). Wird ein Bestandteil der Lehre einer Entgegenhaltung (hier: der D1) durch eine im Prioritätsdokument (hier: D1.1, D1.2) nicht deutlich offenbarte Eigenschaft charakterisiert, die dem Fachmann eine zielgerichtete Auswahl geeigneter Ausführungsformen erlaubt (hier: fehlende Fotoempfindlichkeit gegenüber ultraviolettem Licht), fehlt es an einer Offenbarung in der Nachanmeldung, wenn die Eigenschaft objektiv auch einem offenbarten Ausführungsbeispiel des Prioritätsdokuments zukommt, sie für den Fachmann aber jedenfalls nicht ohne Weiteres zu erkennen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat allerdings zur Vermeidung einer unbilligen Beschränkung des Anmelders bei der Ausschöpfung des Offenbarungsgehalts auch Verallgemeinerungen ursprungsoffenbarter Ausführungsbeispiele zugelassen. Er hat einen "breit" formulierten Anspruch unter dem Gesichtspunkt der unzulässigen Erweiterung jedenfalls dann für unbedenklich erachtet, wenn sich ein in der Anmeldung beschriebenes Ausführungsbeispiel der Erfindung für den Fachmann als Ausgestaltung der im Anspruch umschriebenen allgemeineren technischen Lehre darstellt und diese Lehre in der beanspruchten Allgemeinheit für ihn bereits der Anmeldung - sei es in Gestalt eines in der Anmeldung formulierten Anspruchs, sei es nach dem Gesamtzusammenhang der Unterlagen - als zu der angemeldeten Erfindung gehörend entnehmbar ist (BGH, GRUR 2002, 49, 51 - Drehmomentübertragungseinrichtung). Solche Verallgemeinerungen sind vornehmlich dann zugelassen worden, wenn von mehreren Merkmalen eines Ausführungsbeispiels, die zusammengenommen, aber auch für sich betrachtet dem erfindungsgemäßen Erfolg förderlich sind, nur eines oder nur einzelne in den Patentanspruch aufgenommen werden (ständige Rechtsprechung seit BGHZ 110, 123, 126 - Spleißkammer; zuletzt Urteil vom 30. August 2011 - X ZR 12/10, juris, Rn. 30). Als zulässig ist jedoch - jedenfalls in der älteren Rechtsprechung - auch die Verallgemeinerung einer chemischen Verbindung angesehen worden (Urteil vom 18. Dezember 1975 - X ZR 51/72, BGHZ 66, 17, 30 - Alkylendiamine I). Die Grenze des Zulässigen ist jedoch überschritten, wenn mit der Abstraktion auf eine als solche nicht genannte oder für den Fachmann ohne Weiteres erkennbare Eigenschaft abgehoben wird. Für die Prioritätsbeanspruchung gilt jedenfalls kein weiterer Maßstab. Hierfür reicht daher nicht schon der Umstand aus, dass sich beim Nacharbeiten der Offenbarung eines Ausführungsbeispiels dieses Merkmal ergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>So liegt der Fall hier. Die UV-Unempfindlichkeit ist in der D1.1 und in der D1.2 nicht genannt, und sie war auch nicht ohne Weiteres zu erkennen. Damit kann die D1 nicht in prioritätsbegründender Weise auf diese Eigenschaft und damit auf ein Unterscheidungskriterium für die Auswahl zur Erzielung des erfindungsgemäßen Erfolgs geeigneter Zusammensetzungen abstellen, das die Prioritätsunterlagen nicht offenbaren, geschweige denn als zur Erfindung gehörend benennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Somit ist die Priorität der D1.1 und der D1.2 nicht wirksam in Anspruch genommen und der D1 kommt nur der Zeitrang ihres Anmeldetags zu, der nach dem für das Streitpatent wirksam in Anspruch genommenen Prioritätstag liegt. Die D1 ist damit nicht als ältere, nachveröffentlichte Anmeldung bei der Neuheitsprüfung zu berücksichtigen und rechnet nicht nach Art. 54 Abs. 3 EPÜ zum Stand der Technik.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>3. Schließlich wird Patentanspruch 1 des Streitpatents auch nicht durch die Kodak-Veröffentlichung "DITP Gold - Thermal Plates" vorweggenommen oder nahegelegt. Diese beschreibt zwar Druckplatten, deren UV-Empfindlichkeit in gewissem Umfang herabgesetzt sein mag, wie auch der gerichtliche Sachverständige bestätigt hat. Jedoch erreichte die Unempfindlichkeit nicht ein derartiges Ausmaß, dass ein Einsatz zum Beispiel unter Tageslichteinwirkung und ohne zusätzliche Schutzmaßnahmen möglich gewesen wäre. Das kommt auch in der Spezifikation zum Ausdruck, in der es heißt: <em>"For manual handling and platesetter loading, operate in yellow safelight."</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>4. Der weitere Stand der Technik kommt dem Gegenstand des Patentanspruchs 1 nicht näher. Die D4 betrifft nicht die Beschichtung von Druckplatten, sondern Filme für die Druckplattenkopie. Der Einsatz des dort beschriebenen Systems unterscheidet sich grundlegend vom Einsatz als lithographische Druckplatte. Es ist nicht ersichtlich, was die Übertragung der Lehre der D4 auf lithographische Druckplatten nahegelegt haben sollte. Im Übrigen trifft die Begründung, die das Patentgericht für die Rechtsbeständigkeit des Patentanspruchs 1 nach Hilfsantrag II gegeben hat, auch für den Gegenstand des Patentanspruchs 1 in seiner erteilten Fassung zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>IV. Wenn der Kläger mit einem der geltend gemachten Nichtigkeitsgründe Erfolg hatte, sind auf die Berufung des Beklagten auch die weiteren, in erster Instanz vom Kläger geltend gemachten, vom Patentgericht aber nicht für durchgreifend erachteten Angriffsmittel Verfahrensgegenstand, ohne dass es deren ausdrücklicher erneuter Geltendmachung, etwa im Weg der Anschlussberufung, bedarf (vgl. zum Berufungsverfahren früheren Rechts nach der Zivilprozessordnung BGH, Urteil vom 25. November 2003 - X ZR 159/00, GRUR 2004, 532 - Nassreinigung). Dies gilt auch für weitere Nichtigkeitsgründe, hier den Nichtigkeitsgrund der mangelhaften Offenbarung. Insoweit haben sich jedoch im Berufungsverfahren keine Gesichtspunkte ergeben, die das vom Patentgericht hierzu gefundene Ergebnis in Frage stellen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                 Keukenschrijver                                 Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                         Grabinski                                            Schuster</p>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE306142012&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

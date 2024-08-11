@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE315752013</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130423</entsch-datum>
+   <aktenzeichen>X ZR 27/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 52 Abs 2 Buchst d EuPatÜbk, Art 56 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 29. November 2011, Az: 4 Ni 63/09 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Patentfähigkeit eines Verfahrens zur Audiowiedergabe eines Navigationshinweises mit bestimmten Detailinformationen - Fahrzeugnavigationssystem</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Fahrzeugnavigationssystem</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Anweisung an den Fachmann, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen (hier: Straßennamen) zu berücksichtigen, betrifft den Inhalt der durch das Navigationssystem optisch oder akustisch wiedergegebenen Information und ist bei der Prüfung der technischen Lehre des Patents auf erfinderische Tätigkeit nicht zu berücksichtigen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 29. November 2011 verkündete Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 973 011 (Streitpatents), das am 14. Juli 1999 unter Inanspruchnahme der Priorität einer US-Patentanmeldung vom 15. Juli 1998 angemeldet worden ist und ein Verfahren sowie eine Vorrichtung zur Routenführung in einem Fahrzeugnavigationssystem betrifft. Patentanspruch 1, auf den siebzehn weitere Patentansprüche zurückbezogen sind, lautet in der erteilten Fassung in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A vehicle navigation system for use in a vehicle, the system comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">sensing means for generating data for use by the vehicle navigation system for navigation;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a user interface for communicating with a user of the vehicle navigation system, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a central processing unit which is operable to:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generate a route from a first position to a destination in response to the selection of the destination by the user, the route including a plurality of manoeuvres;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generate a plurality of manoeuvre instructions corresponding to said plurality of manoeuvres, selected ones of said manoeuvre instructions being associated with a street name having alphanumeric characters and an indication of a distance to the corresponding manoeuvre;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">present an audio representation of each of the manoeuvre instructions to the user prior to the execution of a corresponding one of the manoeuvres, wherein the audio representation of the selected manoeuvre instructions includes the associated street name and the distance indication;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">include, in response to a request received from a user to repeat a most recently presented manoeuvre instruction that includes a street name and a distance indication, an adjusted distance indication of the distance to the manoeuvre that corresponds to said previously presented manoeuvre instruction;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generate a repeat manoeuvre instruction comprising said previously presented manoeuvre instruction, said previously presented street name and said adjusted distance indication, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">present an audio representation of said repeat manoeuvre instruction to said user."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der nebengeordnete Patentanspruch 19 lautet in der erteilten Fassung in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A method for providing route guidance to a user of a vehicle navigation system, the method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating a route from a first position to a destination in response to the selection of the destination by the user, the route including a plurality of manoeuvres,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating a plurality of manoeuvre instructions corresponding to said plurality of manoeuvres, selected ones of said manoeuvre instructions being associated with a street name having alphanumeric characters and an indication of a distance to the corresponding manoeuvre;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">presenting an audio representation of each of the manoeuvre instructions to the user prior to the execution of a corresponding one of the manoeuvres, wherein the audio representation of the selected manoeuvre instructions includes the associated street name and the distance indication;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">including, in response to a request received from a user to repeat a most recently presented manoeuvre instruction that includes a street name and a distance indication, an adjusted distance indication of the distance to the manoeuvre that corresponds to said previously presented manoeuvre instruction;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating a repeat manoeuvre instruction comprising said previously presented manoeuvre instruction, said previously presented street name and said adjusted distance indication, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">presenting an audio representation of said repeat manoeuvre instruction to said user."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent angegriffen, weil sein Gegenstand nicht patentfähig und gegenüber den maßgeblichen Anmeldungsunterlagen erweitert sei. Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, mit der diese weiterhin die Abweisung der Klage erstrebt und das Streitpatent hilfsweise mit den bereits in erster Instanz gestellten Hilfsanträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren sowie eine Vorrichtung zur Routenführung in einem Fahrzeugnavigationssystem.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>1. In der Streitpatentschrift wird eingangs ausgeführt, die Nützlichkeit einer Sprachführung in Fahrzeugnavigationssystemen stehe außer Frage, weil der Fahrer hierdurch insbesondere in gefahrenträchtigen Situationen des fließenden Verkehrs nicht auf den Blickkontakt zum Display des Navigationssystems angewiesen sei. Die im Stand der Technik bekannten Navigationssysteme hielten zwar bereits in gewissem Umfang eine Sprachführung des Nutzers vor, indes sei es noch sehr schwierig, für den Nutzer eine Sprachführung bereitzustellen, die ein bevorstehendes Fahrmanöver auch nur einigermaßen präzise beschreibe. Dies habe seinen Grund in der Komplexität und Einzigartigkeit der jeweiligen Fahrsituation und der großen Bandbreite an Straßentopologien. Typischerweise nähmen die im Stand der Technik bekannten Fahrzeugnavigationssysteme Straßennamen oder den Namen der nächsten Ausfahrt nicht in die Sprachführung auf. Der Grund hierfür sei, dass Fahrzeugnavigationssysteme bislang auf eine Bibliothek mit Sprachanweisungen zurückgriffen, deren Umfang verhältnismäßig klein gehalten werde, um Speicherplatz einzusparen und Verarbeitungsressourcen zu schonen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein Fahrzeugnavigationssystem zur Verfügung zu stellen, das dem Fahrer die benötigten Informationen so anbietet, dass seine Abhängigkeit von der optischen Informationswiedergabe verringert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung wird in Patentanspruch 1 ein Navigationssystem vorgeschlagen, dessen Merkmale sich wie folgt gliedern lassen (in eckigen Klammern die Gliederung des Patentgerichts):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Navigationssystem dient der Nutzung in einem Fahrzeug [M1].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Das Navigationssystem umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Sensormittel zum Erzeugen von Daten, die zur Navigation genutzt werden [M2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) eine Benutzerschnittstelle zur Kommunikation mit dem Nutzer des Navigationssystems [M3] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) eine zentrale Verarbeitungseinheit [M4].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die zentrale Verarbeitungseinheit kann folgende Operationen ausführen (<em>is operable to</em>) [M4]:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Erzeugen einer Route von einer ersten Position zu einem Ziel in Antwort auf die Auswahl des Ziels durch den Nutzer, wobei die Route eine Vielzahl von Fahrmanövern aufweist [M4a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Erzeugen einer Vielzahl von Fahranweisungen, die der Vielzahl von Fahrmanövern entspricht, wobei ausgewählten Fahranweisungen [M4b]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">aa) ein alphanumerische Zeichen enthaltender Straßenname [M4b-aa] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">bb) eine Entfernungsangabe bis zum betreffenden Fahrmanöver zugeordnet ist [M4b-bb],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) Darbieten einer Audiowiedergabe jeder Fahranweisung, bevor das entsprechende Fahrmanöver ausgeführt wird, wobei die Audiowiedergabe der ausgewählten Fahranweisungen [M4c, M4c-aa]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">aa) den zugeordneten Straßennamen [M4c-aa] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">bb) die zugeordnete Entfernungsangabe beinhaltet [M4c-bb],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) Einfügen einer angepassten Angabe der Entfernung bis zu dem der zuvor dargebotenen Fahranweisung entsprechenden Fahrmanöver in Antwort auf eine empfangene Aufforderung des Nutzers zur Wiederholung der zuletzt wiedergegebenen - einen Straßennamen und eine Entfernungsangabe enthaltenden - Fahranweisung [M4d],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) Erzeugen einer Wiederholung der Fahranweisung, die die zuvor wiedergegebene Fahranweisung, den zuvor wiedergegebenen Straßennamen und die angepasste Entfernungsangabe enthält [M4e, M4e-aa, M4e-bb],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">f) Darbieten einer Audiowiedergabe dieser wiederholten Fahranweisung [M4f].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit für das Berufungsverfahren von Bedeutung, im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 sei nicht patentfähig, da er nicht auf erfinderischer Tätigkeit beruhe. Dem Fachmann, einem mit der Entwicklung von Fahrzeugnavigationssystemen befassten berufserfahrenen Diplom-Ingenieur der Fachrichtung Elektrotechnik oder Informatik, werde keine erfinderische Tätigkeit abverlangt, um vor dem Hintergrund der US-Patentschrift 5 729 109 (Entgegenhaltung K20) zum Gegenstand des Streitpatents zu gelangen. Der Gegenstand des erteilten Patentanspruchs 1 unterscheide sich durch den aus der der K20 bekannten Stand der Technik einzig dadurch, dass die Audiowiedergabe der Fahrmanöveranweisungen auch Straßennamen enthalte. Für den Fachmann sei indes nahegelegt, neben der Angabe der Entfernung zum nächsten Fahrmanöver auch den Straßennamen akustisch wiederzugeben. Denn ihm sei wohlbekannt, dass die im Fahrzeugnavigationssystem gespeicherten und angezeigten Straßen, Plätze und Kreuzungen üblicherweise Namen hätten. Aus der US-Patentschrift gehe hervor, dass der Straßenname optisch auf einem Display angezeigt und als Hinweis für das nächste Fahrmanöver verwendet werde. Da die von der Erfindung zu lösende Aufgabe darin bestanden habe, dem Fahrer eine Sprachführung bei der Nutzung des Fahrzeugnavigationssystems an die Hand zu geben, bei der der Fahrer vom Sichtkontakt zum Display unabhängiger ist, habe es nahegelegen, den bereits optisch angezeigten Straßennamen für das nächste Manöver gemeinsam mit der Entfernungsangabe bis zum nächsten Fahrmanöver akustisch wiederzugeben. Denn so werde die Abhängigkeit des Fahrers vom Display des Fahrzeugnavigationssystems reduziert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Auch der Gegenstand des Patentanspruchs 1 in der Fassung der bereits in erster Instanz gestellten Hilfsanträge ergebe sich in naheliegender Weise aus der US-Patentschrift 5 729 109. Ferner wiesen die nebengeordneten Verfahrensansprüche keinen über den Patentanspruch 1 hinausgehenden erfinderischen Gehalt auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren jedenfalls im Ergebnis stand. Das Patentgericht ist zutreffend zu der Beurteilung gelangt, dass der Gegenstand von Patentanspruch 1 nicht auf erfinderischer Tätigkeit beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>1. Soweit die Beklagte sich in der mündlichen Verhandlung darauf berufen hat, Merkmal 3b (in der Gliederung des Patentgerichts 4b) sei dahin zu verstehen, dass die dort näher beschriebenen Fahranweisungen - anders als im Stand der Technik bekannt - nicht während der Fahrt, sondern sogleich bei der (Nach-)Berechnung der Route für die gesamte Fahrtstrecke erzeugt würden, kann dies dem Patentanspruch nicht entnommen werden. Merkmal 3b gibt nur an, dass eine Vielzahl (<em>plurality</em>) von Fahranweisungen erzeugt wird. Wann dies geschieht und insbesondere dass dies bei der Berechnung der Route sogleich für die gesamte Fahrstrecke oder einen bestimmten Teil derselben geschieht, legt Patentanspruch 1 nicht fest. Auch die Beschreibung und Figur 2 sprechen zumindest nicht hinreichend deutlich für eine solche Auslegung. In Figur 2 ist der Schritt mit dem Bezugszeichen 206 als "<em>determine series of manoeuvers</em>" angegeben. Daraus kann nicht entnommen werden, dass die Serie alle Fahranweisungen bis zum Ziel umfasst, was bei einer langen Route auch erheblichen Speicherplatz in Anspruch nehmen würde, ohne dass dieser Aufwand einen erkennbaren Nutzen hätte. Dass eine Serie von Fahranweisungen erzeugt wird, kann vielmehr auch bedeuten, dass nicht nur die nächste, sondern mehrere der bevorstehenden Fahranweisungen erzeugt werden, um zu gewährleisten, dass diese dem Fahrer jeweils rechtzeitig zur Verfügung stehen. Anderes ergibt sich auch nicht aus der Beschreibung. Allerdings gibt die Beschreibung zu Figur 2 in Abschnitt 16 an "<em>The sequence can be all previously presented instructions up to the current vehicle position to the final manoeuvre</em>". Daraus ergibt sich aber jedenfalls nicht mehr zwingend, als dass bei der Vor- und Rückschau die Position des Fahrzeugs und die letzte Fahranweisung auf der Route Bezugspunkte bilden. Über den Zeitpunkt, zu dem die Fahranweisungen generiert werden, sagt auch diese Beschreibungsstelle nichts aus. Das gilt ebenso für Abschnitt 17, in dem ausgeführt wird, dass für jedes Fahrmanöver auf der Route eine Anweisung generiert wird. Auch dies lässt hinsichtlich des Zeitpunkts der Generierung keine eindeutigen Rückschlüsse zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>2. Es kann dahingestellt bleiben, ob - wie die Berufung geltend macht - die aus dem Jahr 1990 stammende US-Patentschrift 5 177 685 (Entgegenhaltung K8) ein Beleg für ein vom angesprochenen Fachmann erst zu überwindendes und auch noch im Prioritätszeitpunkt bestehendes Vorurteil gegen die akustische Wiedergabe von Straßennamen bei der Ausgabe von Fahranweisungen ist. Denn soweit die Merkmale 3c bis 3f der Anspruchsgruppe 3, die allein insoweit nicht in der Druckschrift K20 offenbart sind, als nach der dort offenbarten Lehre Straßennamen nicht in die akustisch wiedergegebenen Fahranweisungen für den Nutzer des Fahrzeugnavigationssystems einbezogen werden, demgegenüber vorsehen, dass dem Nutzer bei bestimmten Fahranweisungen auch die Straßennamen hörbar dargeboten werden, kann hiermit eine erfinderische Tätigkeit nicht begründet werden, weil hierdurch die Lösung des der Erfindung zugrunde liegenden technischen Problems nicht bestimmt oder auch nur beeinflusst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Ein Navigationsverfahren oder -system implementiert mit technischen Mitteln die Wiedergabe von Informationen, die dem Fahrer die Wahl einer zweckmäßigen Fahrtroute zu seinem Ziel erlauben und es ihm erleichtern, der gewählten Fahrtroute zu folgen, indem ihm zu einem geeigneten Zeitpunkt Detailinformationen über die nächstfolgende Entscheidungssituation zur Verfügung gestellt werden. Es steuert nicht das Fahrzeug, sondern stellt nur dafür zweckmäßige Informationen bereit. Die Wiedergabe von Informationen ist nach Art. 52 Abs. 2 Buchst. d 3 EPÜ als solche (Art. 52 Abs. 3 EPÜ) ebenso wenig dem Patentschutz zugänglich wie dieser nach Art. 52 Abs. 2 Buchst. c EPÜ für Programme für Datenverarbeitungsanlagen als solche in Betracht kommt. Anweisungen, die die Informationen betreffen, die nach der Lehre eines Patents wiedergegeben werden sollen, können daher auch unter dem Gesichtspunkt der erfinderischen Tätigkeit die Patentfähigkeit der erfindungsgemäßen Lehre nur dann und nur insoweit stützen, als sie die Lösung eines technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen (BGH, Beschluss vom 24. Mai 2004 - X ZB 20/03, BGHZ 159, 197, 204, 206 - Elektronischer Zahlungsverkehr; Urteil vom 26. Oktober 2010 - X ZR 47/07, GRUR 2011, 125 Rn. 31 - Wiedergabe topografischer Informationen). Der Senat hat deshalb in dem letztgenannten Urteil die Auswahl einer für Navigationszwecke zweckmäßigen Projektion topographischer Daten nicht als Teil der vom dortigen Streitpatent zur Verfügung gestellten technischen Lösung, sondern als dieser vorgelagerte Vorgabe eines Kartographen, Geographen oder Geodäten angesehen (BGH, GRUR 2011, 125 Rn. 39 - Wiedergabe topografischer Informationen). Ebenso hat er für die Zurverfügungstellung von Informationen über gegebenenfalls zu meidende Streckenabschnitte (BGH, Urteil vom 18. Dezember 2012 - X ZR 3/12, GRUR 2013, 275 Rn. 42 - Routenplanung) und die unter bestimmten Voraussetzungen vom Navigationssystem automatisch vorgenommene Auswahl des Stadtzentrums als Routenzielpunkt (BGH, Urteil vom 18. Dezember 2012 - X ZR 121/11, juris Rn. 29) entschieden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Die erfindungsgemäße Wiedergabe von Straßennamen im Rahmen der dem Nutzer zur Verfügung gestellten Audiowiedergaben ist nicht anders zu beurteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(1) Die Merkmalsgruppe 3 betrifft insgesamt Funktionalitäten, die die zentrale Verarbeitungseinheit auszuführen geeignet ist und die die vom Streitpatent angestrebte geringere Abhängigkeit des Nutzers von der optischen Informationswiedergabe bewerkstelligen sollen. Dabei ist die zentrale Verarbeitungseinheit nach Merkmal 3b aa dazu ausgebildet, eine Vielzahl von Fahranweisungen zu erzeugen, wobei bestimmten Anweisungen u.a. Straßennamen zugeordnet sind. Dem Nutzer des Fahrzeugnavigationssystems werden die bestimmten Anweisungen zugeordneten Straßennamen nach Merkmal 3c aa im Wege einer Audiowiedergabe präsentiert, wobei nach den Merkmalen 3d - f auf eine Aufforderung des Nutzers hin die Wiedergabe der Fahranweisung unter Einschluss der Angabe des Straßennamens wiederholt werden kann und der Inhalt der Wiedergabe einer weiteren Annäherung des Fahrzeugs an den Ort des bevorstehenden Fahrmanövers Rechnung tragen kann. Damit wird erreicht, dass der Nutzer, auch wenn er beispielsweise den Namen der Straße wissen will, in die er demnächst einbiegen soll, nicht auf den Anzeigebildschirm schauen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>(2) In der Aufnahme von Straßennamen in bestimmte hörbare Informationen, die dem Fahrer gegeben werden, liegt gleichwohl keine Anweisung, die die Lösung des technischen Problems mit technischen Mitteln bestimmt oder auch nur beeinflusst. Die Anweisungen, die der Patentanspruch zur Wiedergabe von Straßennamen enthält, erschöpfen sich in der Vorgabe, dass und unter welchen Bedingungen diese Bestandteil der Audiowiedergabe von Fahranweisungen sein sollen. Sie betreffen damit ausschließlich den Inhalt der dem Nutzer zur Verfügung gestellten Information. Das technische Mittel, mit dem das Problem der Abhängigkeit des Nutzers von der optischen Routenführung gelöst wird, besteht indessen in der Verbesserung der akustischen Routenführung dergestalt, dass der Nutzer Informationen, die er bislang nur sehen konnte, nunmehr auch hören kann. Der Inhalt der Information ist für diese Lösung jedenfalls solange ohne Belang, als nicht die Audiowiedergabe wegen dieses Inhalts der Information besondere technische Schwierigkeiten aufweist, die durch die technische Lehre der Erfindung einer Lösung zugeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(3) Soweit die Berufung argumentiert, die Erfindung ermögliche eine gleichsam intelligente Auswahl derjenigen Fahrmanöver, bei denen es aus Gründen einer möglichen Überforderung des Nutzers in der konkreten Fahrsituation untunlich sei, neben der Entfernungsangabe und der Angabe des auszuführenden Fahrmanövers auch noch den Straßennamen anzugeben, führt dies nicht zu einer abweichenden Beurteilung. Auch eine solche Auswahl beträfe nur den Inhalt der Audiowiedergabe. Im Übrigen gehört eine Auswahl im beschriebenen Sinne auch nicht zum Gegenstand des Streitpatents. Ob und nach welchen Gesichtspunkten gegebenenfalls aus der Gesamtheit der auf der Route zu vollziehenden Fahrmanöver bestimmte Fahrmanöver ausgewählt werden, um in die Sprachführung den Straßennamen einzubeziehen, ist in den Patentansprüchen nicht festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>3. Der Gegenstand des Verfahrensanspruchs 19 ist, wie das Patentgericht zutreffend ausgeführt hat, nicht anders zu beurteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>4. Hinsichtlich der Fassungen von Patentanspruch 1 und 19 bzw. 17, die die Beklagte mit den in der Berufungsinstanz gestellten Hilfsanträgen verteidigt, ergibt sich im Ergebnis ebenfalls keine abweichende Beurteilung. Es kann deshalb wie im angefochtenen Urteil dahinstehen, ob die Hilfsanträge zulässig sind oder, wie die Klägerin geltend macht, über den Gegenstand der Erfindung, wie er in den Anmeldeunterlagen offenbart ist, hinausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Das nach Hilfsantrag I zusätzlich vorgesehene Merkmal sieht vor, dass die Benutzerschnittstelle eine Ausgabekommunikationsvorrichtung mit einem Bildschirm zur sichtbaren Wiedergabe von Manöveranweisungen und einem Lautsprecher zur hörbaren Wiedergabe von Audiorepräsentationen von Manöveranweisungen aufweist. Insoweit hat das Patentgericht zutreffend festgestellt, dass dieses Merkmal ebenfalls aus der Druckschrift K20 (dort Beschreibung der Figur 1 in Sp. 3, Z. 8 ff.) bekannt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Auch der Gegenstand des Patentanspruches 1 gemäß Hilfsantrag II war dem Fachmann durch den Stand der Technik nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>(1) Der Gegenstand des Hilfsantrags II unterscheidet sich vom Gegenstand des Patentanspruchs 1 und des Patentanspruchs 19 in der erteilten Fassung durch das weitere Merkmal, dass die Audiowiedergaben von Fahranweisungen mit Hilfe von Sprachsynthesetechniken synthetisierte Straßennamen und vorab aufgezeichnete Anweisungskomponenten enthalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>(2) Insoweit wird ein technisches Problem - die Generierung von aus mehreren Anweisungselementen bestehenden Manöveranweisungen, die sodann akustisch wiedergegeben werden können - dadurch mit technischen Mitteln einer Lösung zugeführt, dass die Manöveranweisungen zum einen Teil aus aufgezeichneten Anweisungskomponenten bestehen und zum anderen Teil aus mit Hilfe von Sprachsynthesetechniken erstellten Straßennamen, die zu einer Manöveranweisung kombiniert werden. Hierdurch wird erreicht, dass die synthetisierten Straßennamen nicht die Verständlichkeit der Anweisung insgesamt beeinträchtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Entsprechend bedarf es eines Speichermediums, dem die aufgezeichneten Anweisungskomponenten entnommen werden können, einer Einrichtung, die mit Hilfe von Sprachsynthesetechniken Straßennamen synthetisieren kann, sowie schließlich einer Einrichtung, die beide Elemente der Manöveranweisungen dergestalt in Zusammenhang bringen kann, dass sie für den Nutzer akustisch wiedergegeben werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(3) Soweit hierin eine Erweiterung der technischen Lehre der Erfindung liegt, ist diese ebenfalls durch den Stand der Technik nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die japanische Offenlegungsschrift Hei 9-34490 (Entgegenhaltung K15) nimmt bereits in ihrer Einleitung darauf Bezug, dass bei Navigationsgeräten und -verfahren sowohl die Wiedergabe einer aufgezeichneten Stimme als auch die Erzeugung einer synthetischen Sprache sowie schließlich die Kombination beider Methoden der Sprachausgabe bekannt seien. In Abschnitt 17 wird sodann ausgeführt, dass mittels der Mitverwendung der Sprachwiedergabe und Sprachsynthese für den Teil mit dem standardisierten Ausdruck in der synthetischen Sprache das Verfahren mittels Sprachwiedergabe und für den Teil mit dem standardisierten Ausdruck das Verfahren mittels Sprachsynthese verwendet werden, so dass die Vorteile der beiden Verfahren erzielt werden können. Dies gab dem Fachmann die Anregung, beide Verfahren zu kombinieren, um so die Vorteile aus beiden Verfahren zu nutzen. Für den Fachmann lag es daher ohne weiteres nahe, bei der nach den Ausführungen zu III 2 nahegelegten Audiowiedergabe der Fahranweisungen, beide technischen Möglichkeiten in ein ausgewogenes Verhältnis zu bringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass der Gegenstand der Sprachsynthese nach dem durch Hilfsantrag II eingefügten Merkmal gerade Straßennamen sind, betrifft wiederum allein den Inhalt der für die erwünschte komfortablere Nutzerführung durch das Fahrzeugnavigationssystem zur Verfügung gestellten Information. Daher hat dieses Element der erfindungsgemäßen Lehre bei der Beurteilung der erfinderischen Tätigkeit wiederum außer Betracht zu bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>c) Auch der durch den Hilfsantrag III beschriebene Gegenstand erweist sich nicht als patentfähig, nachdem er sich allein insoweit vom Gegenstand des erteilten Patentanspruchs unterscheidet, als in ihm die in den Hilfsanträgen I und II aufgenommenen Merkmale zusammengeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>5. Hinsichtlich der Gegenstände der Unteransprüche ist für eine abweichende Beurteilung der erfinderischen Tätigkeit weder etwas geltend gemacht noch sonst ersichtlich (BGH, Urteil vom 29. September 2011 - X ZR 109/08, GRUR 2012, 149 - Sensoranordnung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                        Mühlens                        Grabinski</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                   Hoffmann                       Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE315752013&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

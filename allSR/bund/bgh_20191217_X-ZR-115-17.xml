@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310292020</doknr>
+   <ecli>ECLI:DE:BGH:2019:171219UXZR115.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20191217</entsch-datum>
+   <aktenzeichen>X ZR 115/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, § 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 3. Mai 2017, Az: 3 Ni 30/15 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentfähiges Verfahren zum Nachweis von Antikörpern als Indikator für Risiko einer Erkrankung an Diabetes - Autoantikörpernachweis</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Autoantikörpernachweis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Einsatz eines allgemein verfügbaren Werkzeugs (hier: Reverse-Sandwich-Technik) kann auf erfinderischer Tätigkeit beruhen, wenn sich die mit dem Gegenstand der Erfindung angestrebten und realisierten Vorteile hierdurch nicht ohne weiteres einstellen und der Fachmann aus dem Stand der Technik keine (hinreichenden) Anregungen erhält, dass das Werkzeug für die Erreichung des angestrebten Zwecks (hier: Nachweis von Autoantikörpern gegen Antigene von Pankreasinselzellen) geeignet und ohne Schwierigkeiten einsetzbar ist (Fortführung von BGH, Urteil vom 15. Mai 2012 - X ZR 98/09, GRUR 2012, 803 - Calcipotriol-Monohydrat; vgl. auch BGH, Urteil vom 10. September 2009 - Xa ZR 130/07, GRUR 2010, 123 - Escitalopram). </p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung wird das Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 3. Mai 2017 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des europäischen Patents 1 448 993 (Streitpatents), das am 26. November 2002 unter Inanspruchnahme einer britischen Priorität vom 28. November 2001 angemeldet wurde und einen Nachweis von Autoantikörpern gegen antigene Moleküle von Pankreasinselzellen betrifft. Das Streitpatent umfasst 13 Patentansprüche. Die Patentansprüche 1, 6 und 13 lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A method of screening a sample of body fluid obtained from an animal subject for analyte autoantibodies reactive with one or more pancreatic islet cell antigenic molecules selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2), said method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) providing one or more first sources of antigenic molecules with which analyte autoantibodies when present in said sample of body fluid can interact and which antigenic molecules are selected from said group of GAD65, GAD67 and IA-2, and fusion molecules comprising two or more directly or indirectly fused antigenic molecules selected from GAD65 and GAD67 and IA-2;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) providing one or more second sources of antigenic molecules with which analyte autoantibodies when present in said sample of body fluid can interact and which antigenic molecules are selected from said group of GAD65, GAD67 and lA-2, and fusion molecules comprising two or more directly or indirectly fused antigenic molecules selected from GAD65, GAD67 and IA-2;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) contacting said antigenic molecules as provided by steps (a) and (b) simultaneously or successively with said sample of body fluid being screened, whereby analyte autoantibodies when present in said sample of body fluid can interact with said antigenic molecules so as to form one or more complexes comprising [antigenic molecule of said first source]-[analyte autoantibody]-[antigenic molecule of said second source];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) prior to, or concurrent with, or subsequent to, step (c), providing immobilising means whereby said antigenic molecule of said first source as present in a complex as formed in step (c) is immobilised to a solid support prior to, or concurrent with, or subsequent to, step (c);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(e) prior to, or concurrent with, or subsequent to, step (c), providing direct or indirect detectable labelling means whereby said antigenic molecule of said second source as present in a complex as formed in step (c) is provided with such direct or indirect detectable labelling means prior to, or concurrent with, or subsequent to, step (c); and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(f) detecting the presence of complexes formed in (c) immobilised according to (d) so as to provide an indication of analyte autoantibodies present in said sample.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. A kit for screening a sample of body fluid obtained from an animal subject for analyte autoantibodies reactive with one or more pancreatic islet cell antigenic molecules selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2), said kit comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) one or more first sources of antigenic molecules with which analyte autoantibodies when present in said sample of body fluid can interact and which antigenic molecules are selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2), and fusion molecules comprising two or more directly or indirectly fused antigenic molecules selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) one or more second sources of antigenic molecules with which analyte autoantibodies when present in said sample of body fluid can interact and which antigenic molecules are selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2), and fusion molecules comprising two or more directly or indirectly fused antigenic molecules selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) means for contacting said antigenic molecules as provided by (a) and (b) simultaneously or successively with said sample of body fluid being screened, whereby analyte autoantibodies when present in said sample of body fluid can interact with said antigenic molecules so as to form one or more complexes comprising [antigenic molecule of said first source]-[analyte autoantibody]-[antigenic molecule of said second source];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) means for immobilising to a solid support, said antigenic molecule of said first source as present in a complex as defined in (c), prior to, or concurrent with, or subsequent to, contact of the antigenic molecule of said first source with the sample of body fluid being screened;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(e) means for providing direct or indirect detectable labelling means to said antigenic molecule of said second source as present in a complex as defined in (c), prior to, or concurrent with, or subsequent to, contact of said antigenic molecule of said second source with said sample of body fluid being screened; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(f) means for detecting the presence of complexes as defined in (c) immobilised as defined in (d) so as to provide an indication of analyte autoantibodies in said sample.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">13. A method for aiding in diagnosing the likely onset or presence in one or more diseases selected from type 2 diabetes mellitus, one or more autoimmune thyroid diseases, celiac disease, one or more connective tissue diseases, adrenal autoimmunity, in an animal subject suspected of having or being susceptible to said one or more diseases, the method comprising detecting autoantibodies reactive with one or more pancreatic islet cell antigenic molecules selected from the group consisting of GAD65, GAD67 and protein tyrosine phosphatase-like islet cell antigen (IA-2), whereby a method according to any of claims 1 to 5, or a kit according to any of claims 6 to 12, is employed and the detected autoantibodies can provide an aid in the diagnosis of the likely onset or presence of diseases associated with said autoantibodies."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig. Zudem sei die in Patentanspruch 13 beanspruchte Erfindung nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent in der erteilten und hilfsweise zuletzt in acht geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Hiergegen richtet sich die Berufung der Beklagten, die das Streitpatent weiterhin mit ihren erstinstanzlichen Anträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft Verfahren und Kits für den Nachweis von Autoantikörpern gegen antigene Moleküle von Pankreasinselzellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift sind Autoantikörper gegen Antigene pankreatischer Betazellen allgemein anerkannte serologische Marker für den Typ-1-Diabetes. Hierzu gehörten Autoantikörper gegen Inselzellen (ICA), gegen Glutaminsäure-Decarboxylase (GAD), insbesondere gegen die Isoform GAD65, gegen Protein-Tyrosin-Phosphatase-ähnliches Inselzell-Antigen (IA-2 oder ICA512) und gegen Insulin. Von den Autoantikörpern gegen GAD65, IA-2 und Insulin sei bei Diagnosestellung mindestens ein Typ in den Seren von etwa 90 % der Patienten mit Typ-1-Diabetes vorhanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Geläufige Mittel zum Nachweis von GAD65-Autoantikörpern seien Immunpräzipitations-Assays (IPA) und verschiedene Arten von Enzyme-linked Immunosorbent Assays (ELISA).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Bei den zur Verfügung stehenden IPA würden radioaktive Stoffe wie etwa Schwefel mit der Isotopenzahl 35 (35S) eingesetzt. Diese IPA seien technisch anspruchsvoll, schwierig zu standardisieren, relativ kostspielig und könnten nicht in ein Kitformat gebracht werden. IPA auf der Basis Jod 125 (125I) seien insoweit vorteilhafter, wiesen aber nur dann eine vergleichbare Sensitivität und Spezifität auf, wenn humanes 125I-GAD65 eingesetzt werde. Bei Einsatz von 125I-GAD65 aus Hirngewebe von Ratten oder Schweinen sei die Spezifizität aufgrund einer Kontamination mit GAD67 geringer.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Testverfahren auf der Basis von ELISA wiesen eine geringere Sensitivität und Spezifität als IPA auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, Verfahren und Kits zum Screening von Körperflüssigkeitsproben nach Autoantikörpern als Hinweis auf einen beginnenden oder vorhandenen Typ-1-Diabetes bereitzustellen, die möglichst kostengünstig hergestellt werden können, möglichst einfach handhabbar sind und eine möglichst hohe Spezifität und Sensitivität aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieses Problems schlägt das Streitpatent Verfahren und Vorrichtungen vor, deren Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Patentanspruch 1:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.1 Verfahren zum Untersuchen einer von einem Tier gewonnenen Körperflüssigkeitsprobe auf Analyt-Autoantikörper, die mit einem oder mehreren antigenen Molekülen des Typs GAD65, GAD67 oder IA-2 reagieren, das folgende Schritte umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.2 Bereitstellung einer oder mehrerer erster Quelle(n) antigener Moleküle, mit denen in der Probe vorhandene Analyt-Autoantikörper reagieren können [2], ausgewählt aus folgender Gruppe:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2.1 GAD<sub>65</sub>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2.2 GAD<sub>67</sub>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2.3 IA-2,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2.4 Fusionsmoleküle aus zwei oder mehreren direkt oder indirekt fusionierten Molekülen gemäß 1.2.1 bis 1.2.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3 Bereitstellung einer oder mehrerer zweiter Quelle(n) antigener Moleküle mit den Merkmalen 1.2 bis 1.2.4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.4 Die bereitgestellten antigenen Moleküle werden gleichzeitig oder nacheinander mit der Probe in Kontakt gebracht,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.4.1 wodurch in der Probe vorhandene Analyt-Autoantikörper mit den antigenen Molekülen reagieren können,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.4.2 indem sie einen oder mehrere Komplexe bilden</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.4.3 mit folgender Struktur: [Antigen aus Q1]-[Antikörper]-[Antigen aus Q2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.5 Bereitstellung von Mitteln, um das in dem Komplex gemäß Merkmal 1.4.3 vorhandene antigene Molekül aus der ersten Quelle auf einem festen Träger zu immobilisieren, und zwar vor, gleichzeitig oder nach dem Kontakt mit der Probe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.6 Das in dem Komplex gemäß Merkmal 1.4.3 vorhandene antigene Molekül aus der zweiten Quelle wird vor, gleichzeitig oder nach dem Kontakt mit der Probe mit direkt oder indirekt nachweisbaren Markierungsmitteln versehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.7 Nachweisen von immobilisierten Komplexen gemäß Merkmal 1.4.3, um einen Hinweis auf in der Probe enthaltene Analyt-Autoantikörper zu geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Patentanspruch 6 schützt ein Kit mit den in Patentanspruch 1 vorgesehenen Mitteln, das die Anwendung des dort geschützten Verfahrens ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>c) Patentanspruch 13 schützt ein Verfahren, bei dem nach einem Verfahren gemäß Patentanspruch 1 oder unter Einsatz eines Kits nach Patentanspruch 6 nachgewiesene Antikörper Hilfestellung geben können bei der Diagnose des wahrscheinlichen Beginns oder Vorhandenseins von einer oder mehrerer der folgenden, mit ihnen in Zusammenhang stehenden Krankheiten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Diabetes mellitus Typ 2,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Autoimmun-Schilddrüsenerkrankungen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Zöliakie,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Bindegewebserkrankungen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Nebennieren-Autoimmunität.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>3. Zentrale Bedeutung kommt der Bildung von spezifischen Antikörper-Antigen-Komplexen zu, wie sie in Merkmal 1.4.3 definiert sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Die Beschreibung des Streitpatents nimmt Bezug auf eine Veröffentlichung von Schmidli et al. (High Level of Concordance between Assays für Glutamic Acid Decarboxylase Antibodies, DIABETES 1994, 1005-1009, <span style="text-decoration:underline">GKS12</span>), die einen ELISA für GAD offenbart, in dem Autoantikörper unter Verwendung einer mit dem GAD-Antigen beschichteten festen Phase erfasst werden und die Detektion der Autoantikörper mit einem HRP-Antikörper (Horseradish Peroxidase, Meerrettichperoxidase) durchgeführt wird (Abs. 8). Bei diesem Verfahren bildeten sich Komplexe mit folgender Struktur: [Antigen]-[Autoantikörper]-[gegen Autoantikörper gerichteter Antikörper].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Im Unterschied hierzu sollen nach der erfindungsgemäßen Lehre Komplexe gebildet werden, bei denen Antigene sowohl zur Immobilisierung als auch zur Detektion mittels einer Markierung eingesetzt werden. Diese Komplexe weisen folgende in Merkmal 1.4.3 definierte Struktur auf: [Antigen aus Quelle 1]-[Antikörper]-[Antigen aus Quelle 2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die antigenen Moleküle der ersten und der zweiten Quelle brauchen sich stofflich nicht voneinander zu unterscheiden. Die Moleküle der zweiten Quelle werden jedoch mit Markierungsmitteln versehen, um die Detektion der Autoantikörper zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Patentansprüche 1, 6 und 12 sei in der US-Patentschrift 5 849 506 (K17) vollständig offenbart. Bei dem dort offenbarten Verfahren würden Fragmente von GAD<sub>65</sub>, die mit einer bestimmten Gruppe von Autoantikörpern reagierten, zur Diagnose und Behandlung von Diabetes vom Typ 1 und des Stiff-Man-Syndroms (SMS) eingesetzt. Als dafür geeignete Arbeitsweise werde unter anderem ein nicht-kompetitives Sandwich-Verfahren angegeben. Bei diesem Verfahren komme es zwangsläufig zur Ausbildung eines Komplexes im Sinne von Merkmal 1.4.3, da ein Ligand nach der Definition in K17 beispielsweise ein Fragment von GAD<sub>65</sub> und damit auch ein Antigen sein könne. Dementsprechend verbinde der Fachmann, ein Team aus einem Diplom-Chemiker der Fachrichtung Biochemie oder einem Diplom-Biochemiker, einem Molekularbiologen sowie einem forschenden Mediziner, mit den in K17 enthaltenen Ausführungen zu diagnostischen und prädiktiven Assays zwangsläufig auch einen "reverse sandwich assay" (RSA) oder "double antigen sandwich assay" (DASA) in Form eines ELISA mit der erfindungsgemäßen Struktur, auch wenn in K17 weder die Bezeichnung RSA verwendet werde noch eine Darstellung eines Komplexes gemäß Merkmal 1.4.3 enthalten sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Unabhängig hiervon sei der Gegenstand der Patentansprüche 1, 6 und 12 in der erteilten Fassung dem Fachmann durch K17 jedenfalls nahegelegt gewesen. K17 gebe dem Fachmann nicht nur Anlass zur Überlegung, welche immunologischen Methoden er einsetzen könne, sondern auch die Anregung zur Bildung eines RSA bzw. DASA. Die in K17 enthaltenen Ausführungen zu der Möglichkeit, sehr niedrige Konzentrationen von Antikörpern zu detektieren, wiesen auf die Vorteile eines ELISA hin, insbesondere dessen hohe Empfindlichkeit. Im vorveröffentlichten Stand der Technik, etwa in der Veröffentlichung von Miyazawa et al. (A Reverse-Sandwich Enzyme-Linked Immunosorbent Assay for Veracytotoxin 1 and 2 Antibodies in Human and Bovine Sera, Clinical and Diagnostic Immunology, 1999, S. 701-704, <span style="text-decoration:underline">K29</span>), fänden sich nicht nur allgemein bekannte Vorbilder für ein RSA bzw. DASA, sondern auch Hinweise auf die damit verbundenen Vorteile, insbesondere eine höhere Spezifität und Sensitivität. Vor diesem Hintergrund stellten die Verfahrensmerkmale des Streitpatents für den Fachmann geläufige, selbstverständliche Ausgestaltungen dar, für die es keines erfinderischen Zutuns bedurft habe. In Anbetracht der Veröffentlichungen von Chang et al. (Biotin-Labeled Antigen Sandwich Enzyme-Linked Immunosorbent Assay (BLA-S-ELISA) for the Detection of Japanese Encephalitis Antibody in Human and a Variety of Animal Sera, Journal of Immunological methods, 1984, S. 401-409, <span style="text-decoration:underline">K27</span>) und einer weiteren Veröffentlichung von Miyazawa et al. (A reverse-sandwich ELISA for IgG antibody to a pollen allergen, J. Allergy Clin. Immunol. 1988, 407 ff., <span style="text-decoration:underline">K28</span>) sowie eines Eintrags in Römpp (Lexikon, Biotechnologie und Gentechnik, 2. Aufl. 1999, S. 397, <span style="text-decoration:underline">K35</span>), habe ein RSA bzw. DASA zum Prioritätszeitpunkt zum Fachwissen des Fachmanns gehört. Entgegen der Auffassung der Beklagten könne es deshalb nicht als Anzeichen für eine erfinderische Tätigkeit angesehen werden, dass sechs Jahre nach Anmeldung des Streitpatents noch kein RSA für GDA und IA-2 auf dem Markt verfügbar gewesen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Patentansprüche 1, 6 und 12 sei dem Fachmann auch ausgehend von der US-Patentschrift 5 200 318 (K18) nahegelegt gewesen. Diese Entgegenhaltung beschreibe antigene, für Autoantikörper in Blutproben von Patienten spezifische Immunreagenzien, die Epitope von GAD, IA-2 oder ICA12 aufwiesen und die in trägergebundener und markierter Form auch in einem RSA eingesetzt werden könnten. Nach den Ausführungen in der K18 könne jeder konventionelle Immunoassay eingesetzt werden, darunter auch eine Ausführungsform, bei der ein trägergebundenes Antigen zunächst mit einer die betreffenden Antikörper enthaltenden Probe und anschließend mit einem markierten Antigen als Detektionsreagenz inkubiert werde. Der Fachmann erhalte aus der K18 die Anregung, diese Variante auch auszuprobieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 13 sei darüber hinaus nicht hinreichend offenbart. Das Streitpatent offenbare zwar ein sicheres Verfahren zur Diagnose des Diabetes vom Typ 1, nicht aber für die weiteren in Patentanspruch 13 genannten Krankheiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung des Patentgerichts ist der Gegenstand der erteilten Fassung von Patentanspruch 1 in K17 nicht vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) K17 offenbart Reagenzien und Verfahren für die Diagnose und die Behandlung von Diabetes vom Typ 1 und des Stiff-Man-Syndroms (SMS).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Hierzu wird ausgeführt, anstelle von intakter GAD<sub>65</sub> könnten auch Fragmente davon eingesetzt werden, sofern diese die für die jeweilige Untersuchung geeigneten antikörperbindenden Epitope aufwiesen (K17 Sp. 7 Z. 5 ff.). Je nachdem, welche Aminosäuren das Fragment umfasse, könnten unterschiedliche Klassen von Autoantikörpern detektiert werden. Dies ermögliche eine Differenzialdiagnose zwischen Typ-1-Diabetes und SMS. Ebenso könne das Fortschreiten von Typ-1-Diabetes verfolgt werden. Schließlich seien GAD65-Fragmente üblicherweise frei von N-terminalen Aminosäuren, die die Löslichkeit in wässrigen Lösungsmitteln einschränkten. Deshalb müssten keine Detergenzien eingesetzt werden, die zur Bildung von die Epitope überlagernden Aggregaten und damit zu Ungenauigkeiten des Detektionsverfahrens führen könnten (K17 Sp. 12 Z. 17-57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Bei der Beschreibung möglicher Ausführungsformen wird in einem Kapitel zu "Diagnostic and Predictive Assays" (K17 Sp. 13 Z. 6 bis Sp. 16 Z. 9) erläutert, die Diagnoseverfahren der Erfindung erforderten Techniken, mit denen die spezifische Interaktion zwischen Liganden, wie beispielsweise einem GAD<sub>65</sub>-Fragment, und Antikörpern detektiert werden könne. Entscheidend sei dabei nicht so sehr, welches Assay-Protokoll gewählt werde, als vielmehr, dass der Assay hinreichend sensitiv sei, um einen Schwellenwert des Autoantigens, das als vorhanden vermutet werde, zu detektieren. Die Assays könnten in kompetitiven oder nicht-kompetitiven Formaten und unter Verwendung unterschiedlicher Marker, etwa Radionuklide, Enzyme, fluoreszierende Stoffe oder Spinmarker, durchgeführt werden (K17 Sp. 13 Z. 9-18). Dementsprechend kämen als Verfahren die im Stand der Technik bekannten Immunpräzipitationsassays (K17 Sp. 13 Z. 19-32) oder Radioimmunassays (K17 Sp. 13 Z. 64 bis Sp. 14 Z. 8) sowie die auch in der wissenschaftlichen Literatur beschriebenen ELISA-Verfahren in Form eines kompetitiven Assays oder in Form der nicht-kompetitiven Sandwich-Technik in Betracht (K17 Sp. 13 Z. 33-62). Da die Epitope der GAD<sub>65</sub>, an die die Autoantikörper bänden, auf dem mittleren und dem C-Terminus der GAD<sub>65</sub> belegen seien, könne der N-Terminus für andere nützliche Modifikationen verwendet werden. Ihm könnten beispielsweise radioaktive oder immobilisierende Teile hinzugefügt werden, ohne die autoantikörperbindenden Epitope zu beeinträchtigen. Dementsprechend sei für einige der vorgeschlagenen Verfahren die Verwendung von Fusionsproteinen als diagnostische Reagenzien vorgesehen, die aus zwei Komponenten bestünden, von denen eine ein GAD<sub>65</sub>-Protein sei, während die andere üblicherweise ein Extensionspeptid sei, das insbesondere für die Aufreinigung und Immobilisierung des Proteins geeignet sei (K17 Sp. 14 Z. 28-44; Patentansprüche 17 und 18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Damit sind die Merkmale 1.1 bis 1.2.4 sowie das Merkmal 1.5 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>c) Nicht offenbart sind hingegen Merkmal 1.4.3 und die damit korrespondierenden Merkmale 1.6 und 1.7.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>In K17 wird als mögliche Ausführungsform eines Assay ein als non-competitive sandwich technique bezeichnetes Verfahren offenbart, bei dem ein Ligand an eine feste Phase gebunden werde und nach Zugabe der Serumprobe einen in der Probe vorhandenen Autoantikörper binde. Der so erfasste Antikörper könne erkannt werden, indem ein markierter Ligand zugegeben werde (K17 Sp. 13 Z. 33-48). Nähere Ausführungen zu Beschaffenheit der beiden Liganden finden sich in diesem Zusammenhang nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Damit ist nicht eindeutig und unmittelbar eine Struktur offenbart, wie sie in Merkmal 1.4.3 definiert ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Nach den allgemeinen Ausführungen an anderer Stelle in K17 kann ein Ligand zwar auch ein GAD<sub>65</sub>-Fragment und damit ein antigenes Molekül im Sinne des Streitpatents sein (K17 Sp. 13 Z. 9 und Sp. 14 Z. 9-10). Wie die Beklagte zu Recht geltend macht und im Ansatz auch die Klägerin nicht verkennt, wird der Begriff "Ligand" in K17 aber in einem weiteren Sinne verwendet, nämlich zur Bezeichnung eines Stoffs, der spezifisch an ein Protein binden kann. So wird der Begriff auch im Zusammenhang mit Immunpräzipitationsassays benutzt (K17 Sp. 13 Z. 19-21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund lässt sich unter die abstrakten Vorgaben aus K17 zwar auch eine Struktur subsumieren, wie sie in Merkmal 1.4.3 definiert ist. Den allgemein gehaltenen Ausführungen, dass auch der Einsatz von Sandwich-Strukturen in Betracht kommt und dass als Liganden auch GAD65-Fragmente eingesetzt werden können, lässt sich angesichts der Vielzahl der in Betracht kommenden Ausführungsformen aber nicht unmittelbar und eindeutig entnehmen, dass auch eine Kombination in Betracht kommt, bei der GAD65-Fragmente in einer Sandwich-Struktur sowohl zum Immobilisieren als auch zum Markieren eingesetzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>2. Entgegen der Auffassung der Klägerin ist der Gegenstand von Patentanspruch 1 auch in K18 nicht vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>a) In K18 werden Verfahren zur Diagnose von Diabetes Typ 1 durch Detektion von Inselzellenantikörpern in Blutproben offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>In K18 wird ausgeführt, ein Panel mit ICA-Epitopen von zwei oder mehr Formen von GAD, etwa GAD<sub>65</sub> und GAD<sub>67</sub> (K18 Sp. 5 Z. 29-30), sowie ICA12 und ICA512 biete eine höhere Sensitivität (K18 Sp. 3 Z. 43-47). Ein solches Immunreagenz könne in einer Vielzahl von Formen vorliegen. Das Verfahren zur Bestimmung der Immunreaktivität könne mit jeder herkömmlichen Technik durchgeführt werden. Im Stand der Technik existiere eine Vielzahl von Immunoassay-Formaten, aus denen der Fachmann auswählen könne (K18 Sp. 7 Z. 13 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Als besonders geeignet hervorgehoben wird eine Kombination aus einer festen Phase oder immobilisierten Reagenzien und markierten Reagenzien, bei der die Verbindung der Markierung mit der festen Phase von der Reaktivität mit den Antigenen auf dem Panel abhänge (K18 Sp. 7 Z. 24-28). Geeignete Reagenzien zur Markierung umfassten eine Bindesubstanz wie zum Beispiel eines der Antigene auf dem Panel, einen Anti-Antikörper wie zum Beispiel anti-IgG, andere Immunobinder oder andere Bindestoffe entsprechend dem jeweils angewendeten Protokoll (K18 Sp. 7 Z. 51-54).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>b) Damit ist Merkmal 1.4.3 ebenfalls nicht unmittelbar und eindeutig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Aus den zuletzt zitierten Ausführungen geht zwar hervor, dass Antigene im Sinne der Merkmalsgruppe 1.2 sowohl zum Immobilisieren als auch zum Markieren eingesetzt werden können. Hieraus ergibt sich jedoch nicht unmittelbar und eindeutig, dass dies auch durch Bildung eines Komplexes mit der in Merkmal 1.4.3 definierten Struktur erfolgen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>In K18 ist nicht einmal die Ausbildung einer Sandwich-Struktur ausdrücklich offenbart. Dass der Fachmann aufgrund seines Fachwissens in der Lage war, bestimmte Sandwich-Strukturen als aus dem Stand der Technik bekannte Formen eines Assays aufzufinden, reicht für eine unmittelbare Offenbarung nicht aus. Konkrete Anhaltspunkte dafür, dass der Fachmann diese Möglichkeit aufgrund des Verweises auf alle im Stand der Technik bekannten Verfahren gleichsam mitliest, sind weder geltend gemacht noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn K18 ein allgemeiner Hinweis auf Sandwich-Strukturen zu entnehmen wäre, ergäbe sich daraus angesichts der Vielzahl der in Frage kommenden Möglichkeiten nicht unmittelbar und eindeutig, dass eine solche Struktur in der in Merkmal 1.4.3 definierten Weise aufgebaut werden kann. Zu einer solchen Struktur konnte der Fachmann nur gelangen, wenn er ausgehend von K18 zusätzliche Überlegungen anstellte. Dies reicht für eine die Neuheit ausschließende Offenbarung nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>3. Dem Fachmann war die Ausbildung eines Komplexes mit der in Merkmal 1.4.3 definierten Struktur ausgehend von K17 oder K18 auch nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>a) Zwar waren Assays auf der Grundlage der Reverse-Sandwich-Technik im Stand der Technik als geeignete Mittel zum Nachweis von Antikörpern bekannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>In K27, K28 und K29 wird aufgezeigt, dass die Ausbildung einer Struktur mit einem Antigen zur Immobilisierung, einem markierten Antigen zur Detektion und einem dazwischen angeordneten Antikörper zum Nachweis von Antikörpern geeignet ist und zahlreiche Vorteile bietet. In Einklang damit wurde die Ausbildung einer solchen Struktur am Prioritätstag bereits in dem Lexikon von Römpp (K35) als eines von insgesamt neun geläufigen Prinzipien für Immunoassays zum Nachweis von Antikörpern oder Antigenen aufgeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>aa) K27 offenbart ein Verfahren zum Nachweis von Antikörpern gegen Viren der Japanischen Enzephalitis (JE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Zum Nachweis der Antikörper wird bei dem in K27 offenbarten Verfahren JE-Antigen auf einer Mikroplatte fixiert. In der Serumprobe vorhandene JE-Antikörper binden an das fixierte Antigen und werden dadurch immobilisiert. Zusätzlich bindet ein mit Biotin markiertes Antigen an den Antikörper, so dass sich Antigen-Antikörper-Antigen-Komplexe bilden (K27 S. 402, letzter Absatz der Einleitung). Nach den Erläuterungen in K27 ermöglicht es dieses Format, die bisher bestehenden Hindernisse beim Vergleich von Messungen von Antikörpern von unterschiedlichen Spezies zu überwinden (K27 S. 408 "Discussion").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) K28 berichtet über die Entwicklung eines Reverse-Sandwich-ELISA für die Messung von IgG-Antikörpern gegen ein Pollen-Allergen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>In K28 wird ausgeführt, für den Nachweis solcher Antikörper sei bislang ein Immunpräzipitationsassay mit radiomarkiertem Allergen das zuverlässigste Verfahren gewesen. Wegen der wachsenden Zahl an Patienten bestehe jedoch ein zunehmender Bedarf an einem einfacheren Testverfahren (K28 S. 407). Nachdem der Reverse-Sandwich-ELISA bereits auf dem Gebiet der Virologie getestet worden - insoweit wird auf K27 Bezug genommen - und ein Kit für den Nachweis des Hepatitis B-Antikörpers auf dem Markt erhältlich sei, habe man das Prinzip des Reverse-Sandwich-ELISA auch für den Nachweis von Antikörpern gegen ein Pollen-Allergen angewendet. Als einer der größten Vorteile des Reverse-Sandwich-ELISA wird eine hohe Spezifität hervorgehoben, so dass auch eine sehr geringe Menge an Antikörpern in einer großen Molekülmenge nachgewiesen werden könne (K28 S. 408 Discussion).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>cc) K29 beschreibt ein Reverse-Sandwich-ELISA für die Titration von Antikörpern gegen Verotoxine in humanen und tierischen Seren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Als Vorteile dieses Verfahrens werden eine höhere Spezifität und Sensitivität angeführt, ferner die Möglichkeit, Antikörper von verschiedenen Spezies vergleichbar zu titrieren (K29 S. 701, Zusammenfassung; S. 703 f. Discussion).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>b) Im Zusammenhang mit dem Nachweis von Antikörpern, die auf Diabetes hindeuten, findet sich ein Hinweis auf ein Reverse-Sandwich-Verfahren in der US-Patentschrift 5 908 627 (K19).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>K19 offenbart Verfahren und Kits zum Nachweis von Antikörpern gegen PM-1-Protein, die einen Indikator für das Risiko einer Erkrankung an Diabetes darstellten (K19 Sp. 2 Z. 10-14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Als bevorzugter Assay-Typ wird ein Festphasen-Assay vorgeschlagen, bei dem gereinigtes PM-1-Protein auf einer festen Phase immobilisiert ist. Nach Aufbringen der Probe wird die Platte so inkubiert, dass sich Komplexe aus dem immobilisierten Protein und den in der Probe vorhandenen Antikörpern bilden. Nach Entfernen der Festphase wird ein markierter Anti-IgG-Antikörper eingesetzt, um den Antikörper nachzuweisen (K19 Sp. 6 Z. 34-46). Als geeignete Markierungsmittel werden radioaktive Materialien wie <sup>125</sup>I, fluoreszierende Materialien oder Enzyme wie zum Beispiel Meerrettichperoxidase angeführt (K19 Sp. 7 Z. 35-40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Ergänzend wird ausgeführt, es könnten auch andere Assay-Formate eingesetzt werden. Insbesondere komme ein Antigen-Sandwich-Assay in Betracht, bei dem anstelle eines Anti-Antikörpers ein markiertes PM-1-Protein verwendet werde. Ein solcher Assay beruhe auf dem Prinzip der Bivalenz von Antikörpermolekülen, also dem Umstand, dass eine Bindungsstelle des Antikörpers das an dem Festphasenträger fixierte Antigen binden könne und eine zweite Bindungsstelle zur Bindung des markierten Antigens verfügbar sei. Als geeignete Markierungsmittel werden auch in diesem Zusammenhang Radioisotope und Enzyme angeführt (K19 Sp. 8 Z. 7-20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>c) Hieraus ergibt sich entgegen der Auffassung des Patentgerichts keine hinreichende Anregung, die in Merkmal 1.4.3 definierte Struktur als besonders geeignet zum Nachweis von Antikörpern gegen GAD65, GAD67 oder IA-2 in Betracht zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Wie auch in der Beschreibung des Streitpatents ausgeführt wird, wiesen die am Prioritätstag für diesen Zweck gebräuchlichen Radioimmunoassays allerdings erhebliche Nachteile auf, die es erstrebenswert erscheinen ließen, nach besser handhabbaren Alternativen zu suchen. Hierfür kamen ELISA-Techniken als geeignete Ausgangspunkte in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Angesichts der Vielzahl von in Frage kommenden Alternativen ergaben sich daraus jedoch noch keine konkreten Hinweise auf einen in besonderem Maße Erfolg versprechenden Ansatz. Zwar boten die Entgegenhaltungen K27, K28 und K29 Anhaltspunkte für die Annahme, dass die dort als in vielen Beziehungen vorteilhaft geschilderte Reverse-Sandwich-Technik vergleichbare Vorteile auch beim Nachweis anderer Antikörper bietet. Hinweise darauf, dass dies auch bei Antikörpern zur Diagnose von Diabetes der Fall sein könnte, ergaben sich aus K19, wo die Reverse-Sandwich-Technik als denkbare Alternative für den Nachweis eines Antikörpers aus diesem Umfeld bezeichnet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Hieraus ergab sich jedoch noch keine hinreichende Erfolgsaussicht, die dem Fachmann Anlass gab, gerade diesen Lösungsweg einer näheren Betrachtung zu unterziehen (vgl. BGH, Urteil vom 15. Mai 2012 - X ZR 98/09, GRUR 2012, 803 Rn. 46 - Calcipotriol-Monohydrat; Urteil vom 10. September 2009 - Xa ZR 130/07, GRUR 2010, 123 Rn. 38 ff. - Escitalopram).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Nach dem insoweit unwidersprochen gebliebenen Vorbringen der Beklagten stellen sich die angestrebten und mit dem Streitpatent realisierten Vorteile auch bei Einsatz der Reverse-Sandwich-Technik nicht ohne weiteres ein. Dies deckt sich mit dem Offenbarungsgehalt von K27, K28 und K29, wo für drei unterschiedliche Antikörper jeweils individuelle Versuche mit im Detail unterschiedlichen Lösungen geschildert werden. In K19 wird die Reverse-Sandwich-Technik nur als grundsätzlich ebenfalls geeignete Alternative zu dem dort als bevorzugt geschilderten Einsatz von markierten Anti-Antikörpern erwähnt. Angesichts des Umstands, dass als geeignete Markierungsmittel für solche Assays in K19 ohne nähere Unterscheidung sowohl Radioisotope als auch Enzyme benannt werden, war zudem unklar, ob sich auf diesem Weg der beim Stand der Technik als nachteilig angesehene Einsatz von radioaktiven Substanzen überhaupt vermeiden lässt, wenn ein vergleichbares Maß an Sensitivität und Spezifität erreicht werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund mag die Reverse-Sandwich-Technik am Prioritätstag bereits ein allgemein verfügbares Werkzeug gebildet haben. Für den Fachmann ergaben sich aber keine hinreichenden Anhaltspunkte dafür, dass dieses Werkzeug auch für einen hohen Anforderungen genügenden Nachweis von Autoantikörpern gegen GAD<sub>65</sub>, GAD<sub>67</sub> und IA-2 geeignet ist und für diesen Zweck ohne Schwierigkeiten einsetzbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>4. Für den Gegenstand der Patentansprüche 6 und 13 gilt Entsprechendes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Beide Ansprüche setzen ebenfalls den Einsatz einer Struktur mit den in Merkmal 1.4.3 definierten Eigenschaften bzw. die Eignung des Testkits zur Ausbildung einer solchen Struktur voraus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>5. Entgegen der Auffassung des Patentgerichts ist der Gegenstand von Patentanspruch 13 so offenbart, dass ein Fachmann ihn ausführen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>a) Nach Patentanspruch 13 dient der Einsatz des in Patentanspruch 1 geschützten Verfahrens oder des in Patentanspruch 6 geschützten Kits nicht der unmittelbaren und sicheren Diagnose einer der in Merkmalsgruppe 13.1 aufgeführten Erkrankungen, sondern lediglich der Unterstützung bei der Diagnose, und zwar dergestalt, dass der Nachweis eines der auf Diabetes Typ 1 hindeutenden Antikörper zugleich eine Wahrscheinlichkeit für das Vorliegen einer oder mehrerer der anderen Erkrankungen begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 13 erschöpft sich also darin, das Verfahren nach Patentanspruch 1 und das Kit nach Patentanspruch 6 als Erkenntnismittel auch dann heranzuziehen, wenn ein Verdacht auf die in Merkmalsgruppe 13.1 aufgeführten Erkrankungen besteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>b) Um ein solches Verfahren auszuführen, bedarf es entgegen der Auffassung des Patentgerichts nicht der Angabe von Testreagenzien, die spezifisch für die in Merkmalsgruppe 13.1 aufgeführten Erkrankungen ausgelegt sind. Das Mittel, das zur Unterstützung bei der Diagnose eingesetzt wird, besteht vielmehr in den Reagenzien, die das Streitpatent in den Patentansprüchen 1 und 6 zur Diagnose von Diabetes Typ 1 vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Dass der Nachweis von Antikörpern gegen GAD<sub>65</sub>, GAD<sub>67</sub> oder IA-2 allenfalls einen vagen Hinweis auf das Vorhandensein einer anderen Erkrankung als Diabetes Typ 1 gibt, steht der Ausführbarkeit nicht entgegen. Dieser Umstand mag Zweifel am praktischen Wert des in Patentanspruch 13 geschützten Verfahrens begründen. Er hindert den Fachmann aber nicht, das Verfahren auszuführen und bei positivem Ergebnis spezifische Diagnosen in Bezug auf die in Merkmalsgruppe 13.1 aufgeführten Erkrankungen zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310292020&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE312382019</doknr>
+   <ecli>ECLI:DE:BGH:2018:201218UXZR56.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20181220</entsch-datum>
+   <aktenzeichen>X ZR 56/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 2 § 6 Abs 1 Nr 4 IntPatÜbkG</norm>
+   <vorinstanz>vorgehend BPatG München, 22. Februar 2017, Az: 6 Ni 7/15 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Veränderung des Patentanspruchs durch Einbeziehung eines von der erteilten Fassung nicht umfassten Gegenstandes - Schaltungsanordnung III</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Schaltungsanordnung III</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Ein Patentanspruch darf im Nichtigkeitsverfahren nicht so verändert werden, dass er einen von der erteilten Fassung nicht umfassten Gegenstand einbezieht (Bestätigung von BGH, Urteil vom 14. September 2004 - X ZR 149/01, GRUR 2005, 145, 146 - elektrisches Modul).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 6. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 22. Februar 2017 wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 929 992 (Streitpatents), das eine Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle betrifft. Das Streitpatent, dessen Anmeldung unter Inanspruchnahme der Priorität einer europäischen Patentanmeldung vom 1. August 1997 am 16. Juli 1998 erfolgte, ist am 16. Juli 2018 durch Zeitablauf erloschen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent umfasst acht Patentansprüche. Die Klägerin greift mit ihrer Nichtigkeitsklage allein die Patentansprüche 1 bis 3 sowie die Patentansprüche 7 und 8, soweit diese auf die Patentansprüche 1 bis 3 rückbezogen sind, an. In der von der Klägerin im Hauptantrag noch verteidigten Fassung lautet Patentanspruch 1 in der Verfahrenssprache wie folgt (Änderungen gegenüber der erteilten Fassung des Patentanspruchs 1 sind durch Unter- und Durchstreichen gekennzeichnet):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A circuit arrangement suitable for operating a semiconductor light source <span style="text-decoration:underline">(LB)</span> and provided with</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- input terminals (A, B) for connecting a supply voltage,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- input filter means <span style="text-decoration:underline">(I) coupled to said input terminals (A, B)</span>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- a converter <span style="text-decoration:underline">(IIl) coupled to said input filter means (I), said converter (III) acts as a current generator for said semiconductor light source and </span>
+                  <span style="text-decoration:underline line-through">comprising</span>
+                  <span style="text-decoration:underline"> comprises</span> a control circuit,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- output terminals <span style="text-decoration:underline">(C, D) coupled to said converter (Ill)</span> for <span style="text-decoration:line-through">connecting </span>
+                  <span style="text-decoration:underline">coupling with said</span> the semiconductor light source <span style="text-decoration:underline">(LB)</span>;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- <span style="text-decoration:line-through">characterized in that the circuit arrangement is provided</span> with voltage detection means (II)<span style="text-decoration:underline">, coupled to said converter (III) and to said output terminals (C, D),</span> for voltage detection at the output terminals <span style="text-decoration:underline">(C, D) so as to provide for the detection of a defect of said semiconductor light source (LB)</span>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- <span style="text-decoration:underline">said semiconductor light source (LB) wherein said semiconductor light source (LB) is coupled to said output terminals (C, D) and wherein the semiconductor light source comprises a matrix of LEDs, which are electrically interconnected.</span>"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig und gehe über den Inhalt der Ursprungsanmeldung hinaus. Zudem offenbare das Streitpatent die Erfindung nicht so deutlich und vollständig, dass ein Fachmann sie ausführen könne, und sein Schutzbereich sei erweitert worden. Die Beklagte hat das Streitpatent zuletzt beschränkt mit einem Hauptantrag ("Hilfsantrag I") und sieben Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent im angegriffenen Umfang für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, mit der sie das Streitpatent weiterhin mit dem erstinstanzlich gestellten Hauptantrag sowie vier Hilfsanträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist nicht begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>A. Die Klage ist auch nach Zeitablauf des Streitpatents während des Berufungsverfahrens zulässig geblieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Ist ein Patent durch Zeitablauf erloschen, bedarf es eines schutzwürdigen Interesses des Klägers an der Durchführung des Nichtigkeitsverfahrens, da ein Interesse der Allgemeinheit an einer Überprüfung der Rechtsbeständigkeit des Patents nicht mehr besteht. Nach der Rechtsprechung des Senats ist ein solches Rechtsschutzbedürfnis gegeben, wenn für den Kläger Grund zu der Besorgnis besteht, er könne aus dem Patent wegen Handlungen in der Zeit vor dessen Erlöschen in Anspruch genommen werden. Dafür ist nicht erforderlich, dass der Kläger wegen Verletzung des Patents durch eine Klage oder Abmahnung in Anspruch genommen worden ist (BGH, Beschluss vom 12. März 1981 - X ZB 16/80, juris Rn. 14 f.; Urteil vom 24. Mai 2016 - X ZR 28/14, juris Rn. 11). Kein Rechtsschutzbedürfnis für eine Klage gegen ein erloschenes Patent besteht hingegen, wenn der Patentinhaber auf alle Ansprüche aus dem Patent verzichtet hat (BGH, Urteil vom 9. September 2010 - Xa ZR 14/10, GRUR 2010, 1084 Rn. 10 - Windenergiekonverter).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent ist in einem Lizenzierungsprogramm der Beklagten mit dem Titel "EnabLED Licensing Program for LED Luminaires and Retrofit Bulbs" vom 17. November 2017 unter der Rubrik "Core Technologies for LED Lighting Systems" aufgeführt (BBK7-PHL2, S. 17). Die Klägerin stellt LED-Leuchtmittel her. Sie hat Regelschaltungen entsprechend der Vorveröffentlichung "Constant Current/Constant Power Circuits für TOPSwitch® Desogm Mpte DM14" (E3) an Abnehmer, u.a. in Deutschland, geliefert. Die Beklagte hat ein Schreiben der Prozessbevollmächtigten der Klägerin vom 28. November 2018, in dem diese aufgefordert worden ist, auf alle Ansprüche aus dem Streitpatent, soweit mit der vorliegenden Nichtigkeitsklage angegriffen, zu verzichten, unbeantwortet gelassen. Bei dieser Ausgangslage ist die Besorgnis der Klägerin nicht unbegründet, dass sie von der Beklagten wegen Handlungen in der Zeit vor Erlöschen des Streitpatents wegen dessen Verletzung in Anspruch genommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>B. Die Klage ist begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Streitpatentschrift werden Halbleiterlichtquellen zunehmend für Signalleuchten verwendet. Halbleiterlichtquellen bestünden im Allgemeinen aus einer Matrix aus Halbleitern, beispielsweise in Form von Leuchtdioden (LEDs), die elektrisch miteinander verbunden seien. Der Betrieb als Lichtquelle werde durch den Wert des vom Halbleiter gelieferten Stroms bestimmt, weshalb der Wandler als Stromgenerator wirken solle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Das bringe den Nachteil mit sich, dass bei einer defekten Halbleiterlichtquelle an den Ausgangsklemmen eine sehr hohe Spannung auftreten könne. Werde der Betrieb in einem solchen Zustand für lange Zeit fortgesetzt, bestehe die Gefahr eines Durchschlags in der Schaltungsanordnung, so dass diese defekt werde. Auch sei das Auftreten von Kurzschlüssen mit allen damit verbundenen Risiken nicht unwahrscheinlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der Defekt in einem oder einigen der Halbleiter führe zu einer erhöhten Impedanz der Lichtquelle. Obwohl die damit einhergehende Zunahme der Spannung an den Ausgangsklemmen für den Betrieb des Wandlers an sich nicht nachteilig sein müsse, könne der Lichtstrom der Lichtquelle stark abfallen, so dass keine zuverlässige Signalleuchte mehr betrieben werden könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent bezeichnet es als Aufgabe, eine Schaltungsanordnung zu schaffen, mit der die genannten Nachteile vermieden werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>3. Die in Patentanspruch 1 in den Fassungen des Hauptantrags und des Hilfsantrags III der Beklagten unter Schutz gestellte Lehre lässt sich wie folgt gliedern (Änderungen in der Fassung des Hilfsantrags III gegenüber dem Hauptantrag sind durch Durch- und Unterstreichungen hervorgehoben, die abweichende Gliederung im erstinstanzlichen Urteil ist in eckigen Klammern hinzugefügt):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Schaltungsanordnung <em>[circuit arrangement]</em> [a] geeignet zum Betreiben einer <span style="text-decoration:underline">eine Matrix aus elektrisch miteinander verbundenen LEDs enthaltenden</span> Halbleiterlichtquelle (LB) [b] und versehen mit [c]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1. Eingangsklemmen <em>[input terminals]</em> (A, B) zum Anschließen einer Speisespannung [c-1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2. Eingangsfiltermitteln <em>[input filter means] </em>(I) [c-2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.2.1. die mit den Eingangsklemmen gekoppelt sind [c-2a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.3. einem Wandler <em>[converter]</em> (III) [c-3a], der</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.3.1. mit den Eingangsfiltermitteln (I) gekoppelt ist [c-3a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.3.2. als Stromgenerator für die Halbleiterlichtquelle (LB) arbeitet [c-3a] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.3.3. eine Steuerschaltung umfasst [c-3],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.4. Ausgangsklemmen <em>[output terminals]</em> (C, D) [c-4],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.4.1. die mit dem Wandler (III) gekoppelt sind [c-4],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.4.2. um diesen mit der Halbleiterlichtquelle (LB) zu koppeln [c-4a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.5. Spannungsdetektionsmittel <em>[voltage detection means]</em> (II) [d-1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.5.1. die mit dem Wandler (III) [d-1a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.5.2. und den Ausgangsklemmen (C, D) gekoppelt sind [d-1b],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.5.3. zur Spannungsdetektion an den Ausgangsklemmen [d-2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.5.4. um die Erfassung eines Defekts der Halbleiterlichtquelle (LB) zu ermöglichen [d-2a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.5.5. <span style="text-decoration:underline">die ein Signal S erzeugen, wenn eine an den Ausgangsklemmen (C, D) erhaltene Spannung höher als eine Schwellenspannung </span>
+                  <em>
+                     <span style="text-decoration:underline">[threshold voltage] </span>
+                  </em>
+                  <span style="text-decoration:underline">VuD ist [d-3],</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:108pt">1.5.5.1. <span style="text-decoration:underline">die Schwellenspannung ist gewählt, um eine Erfassung eines Defekts im Falle einer teilweise defekten Halbleiterlichtquelle zu ermöglichen [d-3a]</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">
+                  <span style="text-decoration:line-through">1.6. der Halblichterleiterquelle </span>
+                  <em>
+                     <span style="text-decoration:line-through">[semiconductor light source]</span>
+                  </em>
+                  <span style="text-decoration:line-through"> (LB) [e</span>]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">
+                  <span style="text-decoration:line-through">1.6.1 die mit den Ausgangsklemmen (C, D) gekoppelt ist [e-1] und</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">
+                  <span style="text-decoration:line-through">1.6.2 eine Matrix aus LEDs umfasst, die miteinander elektrisch verbunden sind [e-2].</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>4. Die nachfolgend wiedergegebene Figur 2 stammt aus der Streitpatentschrift und zeigt beispielhaft das Schaltbild eines erfindungsgemäßen Spannungsdetektionsmittels:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="385px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>5. Nach den zutreffenden Ausführungen des Patentgerichts ist unter dem Fachmann ein Diplom-Ingenieur der Fachrichtung Elektrotechnik zu verstehen, der Treiberschaltungen für Halbleiterlichtquellen entwirft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>6. Die erfindungsgemäße Lehre ist aus Sicht eines solchen Fachmanns wie folgt weiter zu erläutern:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Die Schaltungsanordnung ist nach Merkmalsgruppe 1.3 mit einem Wandler versehen, der eine Steuerschaltung umfasst. Der Wandler arbeitet als Stromgenerator für die Halbleiterlichtquelle, d.h. er liefert für diese eine konstante Stromstärke und eine variable, zur Erzielung dieser Stromstärke erforderliche Spannung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Die Schaltungsanordnung ist nach Merkmalsgruppe 1.5 mit Mitteln versehen, die die Spannung an den Ausgangsklemmen detektieren und dadurch die Erfassung eines Defekts der Halbleiterlichtquelle ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>aa) Es ist nicht erforderlich, dass mit der Schaltungsanordnung auch tatsächlich von der Möglichkeit der Fehlererfassung Gebrauch gemacht wird. Hingegen ist es unzureichend, wenn die Schaltungsanordnung lediglich Bestandteile umfasst, die geeignet sind, die Spannung in der beschriebenen Weise zu überwachen. Vielmehr müssen Mittel vorhanden sein, die die Funktion der Spannungsdetektion auch tatsächlich ausüben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>bb) Die Art des Defekts, dessen Erfassung die Spannungsdetektionsmittel ermöglichen sollen, ist in Merkmal 1.5.4. nicht näher bestimmt. Nach der Beschreibung kann ein solcher Defekt in einem Ausfall von Komponenten der Halbleiterlichtquelle bestehen, der eine Schädigung der Schaltungsanordnung zur Folge hat (Abs. 2). Genannt wird als möglicher Defekt aber auch der Ausfall lediglich einer oder weniger LEDs innerhalb einer Matrix und die daraus resultierende Verringerung des Lichtstroms, so dass etwa eine Signalleuchte ihre Funktion nicht mehr zuverlässig wahrnehmen kann (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>cc) Nicht festgelegt ist zudem, welche Maßnahmen zu erfolgen haben, wenn ein Defekt der Halbleiterlichtquelle festgestellt worden ist. Soweit in der Beschreibung näher erläutert wird, dass bei Überschreiten einer Schwellenspannung VuD Abschaltmittel aktiviert werden, um den Wandler in einen Betriebszustand zu schalten, bei dem die Spannung Vu wieder kleiner als der Schwellenwert VuD ist (Abs. 6, 15 f.), handelt es sich lediglich um ein Ausführungsbeispiel, das die Lehre aus Patentanspruch 1 nicht zu beschränken vermag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>dd) Das in Patentanspruch 1 in der Fassung des Hilfsantrags III hinzutretende Merkmal 1.5.5. präzisiert die erfindungsgemäße Lehre weiter dahin, dass die Spannungsdetektionsmittel ein Signal S erzeugen, wenn eine an den Ausgangsklemmen erhaltene Spannung höher als eine Schwellenspannung VuD ist. Das Signal S muss so beschaffen sein, dass eine angemessene Reaktion auf den festgestellten Defekt möglich ist. Weitere Anforderungen an die Beschaffenheit des Signals werden nicht gestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>ee) Nach Merkmal 1.5.5.1. ist vorgesehen, dass die Schwellenspannung so gewählt ist, dass ein Defekt auch im Falle einer nur teilweise defekten Halbleiterlichtquelle erfasst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung - soweit im Berufungsverfahren noch von Interesse - im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>1. Der Schutzbereich des Streitpatents in der Fassung des Hauptantrags ("Hilfsantrag 1") werde dadurch erweitert, dass Patentanspruch 1 in der Fassung des Hauptantrags gegenüber der erteilten Fassung sich nicht nur auf eine Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle, sondern zusätzlich auf die Halbleiterlichtquelle erstrecke.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 sei zudem aus der internationalen Anmeldung WO 96/02970 (E17) bekannt. Es würden Spannungsdetektionsmittel offenbart, die die Erfassung eines Defekts der Halbleiterlichtquelle ermöglichten. Denn sollte an der Halbleiterlichtquelle der E17 ein Defekt auftreten, insbesondere ein Totalausfall, bei dem beide Zweige der Halbleiterlichtquelle 405 hochohmig seien, führe das zu einem dauerhaften Durchschalten der den gesamten Strom aufnehmenden Z-Diode 510, was der Fachmann als Indiz für einen Defekt der Halbleiterlichtquelle werten könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Im Übrigen seien dem Fachmann am Prioritätstag Schaltungsanordnungen bekannt gewesen, die die von der Beklagten als ihre Erfindung geltend gemachten Wirkungen aufgewiesen hätten und daher grundsätzlich auch zum Betrieb von Halbleiterlichtquellen geeignet gewesen wären, wie beispielsweise aus der E3. Die Erkenntnis, dass mit der aus der E3 bekannten Schaltungsanordnung alternativ zu der Schaltungsanordnung nach der E17 nicht nur Batterieladegeräte oder Elektromotoren, sondern auch Halbleiterlichtquellen betrieben werden könnten, sei nicht als erfinderische Tätigkeit zu werten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents sei auch nahegelegt, da es dem Fachmann bei der Schaltung nach E17 ohne weiteres möglich gewesen sei, die Ansprechspannung der Z-Diode 520 so zu wählen, dass sie nicht erst bei einem Totalausfall, sondern auch bei einem Teilausfall des LED-Arrays 405 erreicht werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>III. Das Urteil des Patentgerichts hält der Berufung im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>1. Der Schutzbereich des Streitpatents in den Fassungen des Hauptantrags sowie der Hilfsanträge I, II und IV ist gegenüber dem des Streitpatents in der erteilten Fassung unzulässig erweitert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats führt die nachträgliche Einbeziehung eines vom Streitpatent in der erteilten Fassung nicht geschützten Gegenstands in einen Patentanspruch zu einer Erweiterung des Schutzbereichs des Streitpatents. Das Patentnichtigkeitsverfahren eröffnet dem Patentinhaber zwar die Möglichkeit, das Schutzrecht in eingeschränkter Fassung zu verteidigen. Es dient aber nicht darüber hinaus der Gestaltung des Patents. Diese Funktion ist vielmehr allein dem Patenterteilungsverfahren zugewiesen. Deshalb darf ein Patentanspruch im Nichtigkeitsverfahren nicht so geändert werden, dass er einen von der erteilten Fassung nicht umfassten Gegenstand einbezieht (BGH, Urteil vom 14. September 2004 - X ZR 149/01, GRUR 2005, 145, 146 - elektronisches Modul).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>b) Im Streitfall stellt Patentanspruch 1 in der erteilten Fassung eine Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle unter Schutz. Damit muss die Schaltungsanordnung lediglich zum Betreiben einer Halbleiterlichtquelle geeignet sein, während die Halbleiterlichtquelle in ihrer räumlich-körperlichen Ausgestaltung nicht zum Gegenstand des Patentanspruchs 1 gehört. Daran ändert auch nichts, dass Figur 1 nach der Beschreibung "ein Schema der Schaltungsanordnung" zeigen soll und darin neben der Speisequelle VB, den Anschlussklemmen A und B, den Eingangsfiltermitteln I, dem Strombegrenzungsnetzwerk IV, dem Wandler III, den Spannungsdetektionsmitteln II und den Ausgangsklemmen C und D auch die Halbleiterlichtquelle LB gezeigt wird. Denn der Schutzbereich eines Patents wird durch den Patentanspruch bestimmt, nach dem die Schaltungsanordnung zwar die Eignung zum Betrieb einer Halbleiterlichtquelle aufweisen, nicht aber zu dieser gehören soll. Erst Patentanspruch 7 hat eine Signalleuchte zum Gegenstand, die sowohl die erfindungsgemäße Schaltungsanordnung als auch die Halbleiterlichtquelle umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>c) Patentanspruch 1 in den Fassungen des Hauptantrags sowie der Hilfsanträge I, II und IV weist gegenüber Patentanspruch 1 in der erteilten Fassung die Halbleiterlichtquelle jeweils als einen zusätzlichen Gegenstand auf. Damit wird, wie bereits das Patentgericht zutreffend erkannt hat, der Schutzbereich auf Schaltungsanordnungen mit einer Halbleiterlichtquelle erweitert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Dies steht auch nicht in Widerspruch zur Rechtsprechung der Beschwerdekammern des Europäischen Patentamts, wonach die Einfügung eines weiteren Merkmals in den erteilten Patentanspruch nicht zu einer Schutzbereichserweiterung führt, wenn dieses in einer funktionalen Wechselwirkung mit dem Gegenstand des erteilten Patentanspruchs steht (vgl. EPA, TBK vom 12. Juli 2016 - T 57/12 - 3.2.06, Rn. 4.9, 4.14). Denn im Streitfall ist zwar im erteilten Patentanspruch bereits vorgesehen, dass die Schaltungsanordnung zum Betrieb einer Halbleiterlichtquelle geeignet sein soll. Es besteht aber keine funktionale Wechselwirkung zwischen der Schaltungsanordnung und der durch die veränderten Anspruchsfassungen jeweils hinzugekommenen Halbleiterlichtquelle, da letztere der Lichterzeugung dient und damit nicht ihrerseits auf die Schaltungsanordnung bezogen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags III ist nicht patentfähig, da er für den Fachmann zum Prioritätszeitpunkt aufgrund seines Fachwissens und der E3 nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>a) Die E3 befasst sich mit Stromregelschaltungen, die verwendet werden, um den Ausgangsstrom einer Stromversorgung genau zu regeln. Die Entgegenhaltung nennt Batterieladegeräte als größte Einzelanwendung für stromgeregelte Stromversorgungen, die entweder eine Konstantstrom- oder eine Konstantleistungs-Ausgangscharakteristik erfordern. Erwähnt werden zudem Motortreiberanwendungen, die ebenfalls Stromversorgungen mit geregeltem Ausgangsstrom benötigen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die - nachfolgend wiedergegebene - Figur 1 der E3 zeigt eine 7,5 V-Stromversorgungsschaltung, die bei einem geringen Ausgangsstrom im Konstantstrommodus betrieben wird und bei einem Anstieg der Stromstärke in den Konstantspannungsmodus wechselt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="505px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Im Konstantspannungsmodus wird die Ausgangsspannung durch den Spannungsabfall über der Z-Diode VR2 und der LED im Innern des Optokopplers U2 bestimmt. Die Z-Diode VR2 sorgt dafür, dass die Ausgangsspannung konstant bleibt. Die Ausgangsspannung wird durch den Widerstand R6 gemessen. Wird der Spannungsabfall über R6 hinreichend groß, werden die Transistoren Q1 und Q2 geschaltet. Danach fließt Strom durch den Optokoppler U2 und verringert sich die Ausgangsspannung. Die Z-Diode VR2 leitet nicht mehr und der Ausgangsstrom bleibt konstant (E3, S. 2, l. Sp.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Die in den Figuren 5 und 11 der E3 gezeigten Schaltungen arbeiten entsprechend. Auch dort wird mittels eines Widerstands R6 der Ausgangsstrom überwacht und bei Erreichen eines bestimmten Werts wird Strom durch einen Optokoppler U2 geleitet (E3, S. 6, l. Sp.; S. 13, r. Sp.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>b) Offenbart ist damit eine Schaltungsanordnung, die alle Merkmale des Patentanspruchs 1 in der Fassung des Hilfsantrags III mit Ausnahme des Merkmals 1.5.5.1. aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>aa) Die Schaltungsanordnung verfügt über Eingangsklemmen, Eingangsfiltermittel, einen Wandler und Ausgangsklemmen entsprechend den Merkmalen 1.1. bis 1.4.1. der Lehre des Streitpatents, was zwischen den Parteien nicht streitig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>bb) Die Schaltungsanordnung ist außerdem nach Merkmal 1 zum Betreiben einer Halbleiterlichtquelle geeignet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(1) Die Beklagte weist zwar auf Schwankungen der Stromstärke hin, die sich aus Figur 2 der E3 bei einer Eingangsspannung von 85 und 265 Volt wie folgt ergeben:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="254px"
+                       src="bild3_2.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Ob diese Stromschwankungen generell zu Beeinträchtigungen der Einsatzfähigkeit der Schaltung für Halbleiterlichtquellen führen, kann dahingestellt bleiben. Denn selbst wenn dies angenommen wird, wird dem Fachmann durch die weiteren Diagramme in den Figuren 6 und 12, die eine geringere Schwankungsbreite zeigen, verdeutlicht, dass eine solche Fluktuation durch geeignete Ausgestaltungen der Schaltung verringert werden kann. Dabei darf auch nicht übersehen werden, dass in der Streitpatentschrift zwar die Verwendung der erfindungsgemäßen Schaltungsanordnungen für Signalleuchten erwähnt wird, es nach dem Gegenstand aus Patentanspruch 1 aber lediglich einer allgemein zum Betreiben einer Halbleiterlichtquelle geeigneten Schaltungsanordnung bedarf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(2) Die Eignung der in der E3 offenbarten Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle wird auch nicht durch das - nachfolgend wiedergegebene - Diagramm in Figur 4 der E3 in Frage gestellt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="339px"
+                       src="bild4_3.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>In der E3 wird erläutert, dass Figur 4 die Antwort auf eine abgestufte resistive Last zeige, die bei Betrieb in einem Stromsteuerungsmodus an den Ausgang der Stromversorgung angeschlossen sei, so dass der resultierende Ausgangsstrom unter Verwendung einer Gleichstromsonde begutachtet werden könne (E3, S. 4, r. Sp.). Demgegenüber findet sich in der E3 kein Anhalt dafür, dass, wie die Beklagte in der mündlichen Verhandlung vorgetragen hat, aus Figur 4 Stromschwankungen beim Einschalten auch im negativen Bereich hervorgehen, die der Eignung der in der E3 offenbarten Schaltungsanordnung zum Betrieb einer Halbleiterlichtquelle entgegenstehen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>cc) Die in Figur 1 der E3 offenbarte Z-Diode VR2 begrenzt den Anstieg der Ausgangsspannung auf einen Nennwert. Die Begrenzung der Spannung setzt deren Detektion voraus. Die Z-Diode reagiert auf einen drohenden Anstieg der Spannung, indem sie diesem entgegenwirkt. Damit kann eine Beschädigung der Schaltungsanordnung und des angeschlossenen Verbrauchers durch zu hohe Spannung vermieden werden, so wie dies auch das Streitpatent anstrebt. Die Z-Diode VR2 ist damit ein Spannungsdetektionsmittel im Sinne der Merkmale 1.5. und 1.5.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Dem steht nicht entgegen, dass die Z-Diode VR2 die Ausgangsspannung erst dann begrenzt, wenn die Transistoren Q1 und Q2 infolge eines geringen Stromflusses über den Widerstand R6 ausgeschaltet sind. Denn auch nach der Lehre des Streitpatents ist eine Überwachung der Spannung erst dann erforderlich, wenn der durch die Halbleiterlichtquelle fließende Strom aufgrund eines Defekts absinkt. Entscheidend ist, welche Funktion die Z-Diode VR2 in der in E3 offenbarten Schaltung während des Konstantspannungsmodus hat, nicht aber wodurch diese Funktion ausgelöst wird. Dass die Z-Diode VR2 im Konstantstrommodus keinen Strom mehr leitet, ist unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>dd) Dass die Z-Diode VR2 auf beiden Seiten nicht unmittelbar mit den Ausgangsklemmen verbunden ist, hindert die Verwirklichung des Merkmals 1.5.2. nicht. Erfindungsgemäß ist eine solche unmittelbare Verbindung nicht erforderlich. In dem in Figur 2 des Streitpatents gezeigten Ausführungsbeispiel der Erfindung ist die Z-Diode Z1 auf einer Seite mit der Ausgangsklemme C und auf der anderen Seite mit einem RC-Netzwerk und damit insoweit gleichfalls nicht unmittelbar mit der Ausgangsklemme verbunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>ee) Offenbart ist auch das Merkmal 1.5.4., wonach das Spannungsdetektionsmittel die Erfassung eines Defekts ermöglichen soll. Bei der in Figur 1 der E3 gezeigten Schaltungsanordnung verhindert die Z-Diode VR2, dass bei einem Absinken des Stroms die Spannung über den Nennwert ansteigt. Das ist eine sinnvolle Reaktion auf einen auftretenden Defekt, die geeignet ist, eine Beschädigung der Schaltungsanordnung und der Halbleiterlichtquelle zu verhindern. Dass sich diese Reaktion von der Reaktion in dem Ausführungsbeispiel des Streitpatents unterscheidet, bei dem die Detektion eines Defekts zum Abschalten der Halbleiterlichtquelle führt, steht einer Verwirklichung des Merkmals nicht entgegen, da die Lehre aus Patentanspruch 1 offen lässt, welche Maßnahme bei der Detektion eines Defekts zu ergreifen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>ff) Merkmal 1.5.5. ist ebenfalls verwirklicht. Wie erläutert, muss das Signal S lediglich so beschaffen sein, dass es eine angemessene Reaktion auf den festgestellten Defekt der Halbleiterlichtquelle ermöglicht. Nach dem übereinstimmenden Vorbringen der Parteien führt ein Anstieg der Spannung zu einem erhöhten Stromfluss durch die Z-Diode VR2 und den Optokoppler U2, wodurch die vom Eingangskreis gelieferte Spannung sinkt. Das ist eine angemessene Reaktion.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>gg) Wie erläutert, erwähnt die E3 als Anwendungsmöglichkeiten der offenbarten Steuerschaltung Batterieladegeräte oder Motortreiberanwendungen, nicht aber den Einsatz zum Betrieb einer Halbleiterlichtquelle. Entsprechend wird in der Entgegenhaltung auch nicht offenbart, die Schwellenspannung auf den Fall eines Teildefekts einer Halbleiterlichtquelle abzustimmen. Allein aus der Offenbarung einer Nennausgangsspannung von 7,5 Volt im Hinblick auf das in Figur 1 gezeigte Ausführungsbeispiel und eines Nennwerts von jeweils 15 Volt für die in den Figuren 5 und 9 gezeigten Ausführungsbeispiele folgt ein solcher Zusammenhang noch nicht ohne weiteres.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>c) Die Verwendung der in der E3 offenbarten Schaltungsanordnung zum Betreiben einer Halbleiterlichtquelle ergab sich für den Fachmann jedoch in naheliegender Weise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>aa) Aufgrund seines Fachwissens auf dem Gebiet der Entwicklung von Treiberschaltungen für Halbleiterlichtquellen war ihm bekannt, dass Schaltungsanordnungen zum Betrieb von Halbleiterlichtquellen über einen Stromgenerator als Energiequelle verfügen, der eine konstante Stromstärke liefert. Sind Lichtquellen der Halbleiterlichtquelle defekt, kann dies, wie dem Fachmann ebenfalls bekannt war (vgl. Streitpatentschrift, Abs. 3 f.), zu sehr hohen Spannungen an den Ausgangsklemmen führen und einen Kurzschluss und gegebenenfalls eine Beschädigung oder Zerstörung der Schaltungsanordnung zur Folge haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann stand damit vor dem Problem, bei Schaltungsanordnungen zum Betreiben einer Halbleiterlichtquelle eine Anordnung zu finden, mit der ein starker Spannungsanstieg infolge eines Defekts von Lichtquellen vermieden wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>bb) Bei der Suche nach einer Lösung für dieses Problem war für ihn auch die E3 von Interesse, da sich diese mit Steuerschaltungen zum genauen Steuern eines Ausgangsstroms einer Stromversorgung befasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Zwar werden in der E3 als größte Einzelverwendung der Steuerschaltungen Batterieladegeräte angeführt, weil diese entweder eine Konstantstrom- oder eine Konstantleistungsausgabecharakteristik erfordern, und als weiterer Verwendungsfall Motorantriebe erwähnt, weil diese Stromversorgungen mit gesteuertem Ausgangsstrom benötigen (E3, S. 1, l. Sp.). Für den Fachmann ergab sich jedoch aus dieser nicht abschließenden Aufzählung und den Angaben zur Wirkungsweise Veranlassung, die Steuerschaltungen auch in anderen Anwendungssituationen in Betracht zu ziehen, in denen eine Steuerschaltung mit Konstantstrom- oder Konstantleistungsmodus oder eine Stromversorgung mit gesteuertem Ausgangsstrom Vorteile bietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Eine solche vorteilhafte Anwendungssituation besteht auch bei einer Verwendung der in der E3 offenbarten Steuerschaltungen für Halbleiterlichtquellen. Zunächst ermöglicht es eine solche Steuerschaltung, die Halbleiterlichtquelle mit Strom in konstanter Stärke zu versorgen. Sollte der Fachmann die in Figur 2 gezeigten Stromschwankungen als für den Betrieb von Halbleiterlichtquellen problematisch ansehen, wird ihm, wie bereits erwähnt, durch die weiteren Diagramme in den Figuren 6 und 12, die eine geringere Schwankungsbreite zeigen, verdeutlicht, dass eine solche Fluktuation durch eine geeignete Ausgestaltung der Schaltung verringert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Zudem bewirkt die Z-Diode VR2, dass ein Anstieg der Spannung über einen bestimmen Schwellenwert bei einem Absinken des Stroms verhindert wird. Insoweit ist der Konstantspannungsmodus auch bei einem Einsatz der in der E3 offenbarten Steuerschaltung nicht überflüssig und gab es für den Fachmann auch keinen Grund, die in der E3 offenbarte Anordnung bei der Suche nach einer Steuerschaltung für Halbleiterlichtquellen, mit der ein starker Spannungsanstieg infolge eines Defekts von Lichtquellen vermieden wird, zu verwerfen oder über eine Modifizierung der Schaltungsanordnung im Sinne eines Verzichts auf den Konstantspannungsmodus nachzudenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>cc) Den Schwellenwert, bei dem die Spannung infolge eines Absinkens des Stromwerts durch die Z-Diode VR2 nicht weiter steigen soll, wird der Fachmann entsprechend der Wahrscheinlichkeit des Eintritts eines Defekts wählen. Je nach Einsatzzweck ergibt sich daraus die Veranlassung, die Schwellenspannung - wie in Merkmal 1.5.5.1. vorgesehen - auf einen Wert festzusetzen, der bereits dem Eintritt eines Teil- und nicht erst dem Eintritt eines Volldefekts der Halbleiterlichtquelle entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Dem steht auch nicht entgegen, dass die Schaltung im Ausführungsbeispiel des Streitpatents auf die Detektion eines Defekts oder Teildefekts mit dem Ausschalten der Halbleiterlichtquelle reagiert (Abs. 6, 15 f.), während die E3 als Reaktion eine Begrenzung der Betriebsspannung vorsieht; denn, wie bereits erläutert, legt sich die Lehre aus Patentanspruch 1 nicht fest, welche Maßnahme zu erfolgen hat, wenn das Spannungsdetektionsmittel einen Defekt bzw. einen Teildefekt der Halbleiterlichtquelle festgestellt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE312382019&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

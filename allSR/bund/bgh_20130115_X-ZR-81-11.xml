@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310432013</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130115</entsch-datum>
+   <aktenzeichen>X ZR 81/11</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 54 Abs 2 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 3. Mai 2011, Az: 4 Ni 55/09 (EU)<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Neuheit des Gegenstands eines europäischen Patentanspruchs: Weiterverbreitung der technischen Information an beliebige Dritte - Messelektronik für Coriolisdurchflussmesser</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Messelektronik für Coriolisdurchflussmesser</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Maßgeblich für die Beurteilung der Frage, ob die Weiterverbreitung technischer Informationen an Dritte nach der Lebenserfahrung nahegelegen hat und die Informationen dadurch offenkundig geworden sind, sind die zum Zeitpunkt der Lieferung der technischen Information bestehenden Vereinbarungen zwischen den Beteiligten oder die sonstigen Umstände der Lieferung, nicht jedoch die besonderen Gegebenheiten in dem die Information empfangenden Unternehmen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 3. Mai 2011 wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des auch mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 221 023 (Streitpatents), das am 26. September 2000 angemeldet worden ist und eine Priorität vom 15. Oktober 1999 in Anspruch nimmt. Es betrifft einen eigensicheren Signalgestalter für Coriolisdurchfluss(strömungs)messer und ein Verfahren zum Verarbeiten von Signalen für einen eigensicheren Signalgestalter für Coriolisdurchfluss(strömungs)messer. Das Streitpatent umfasst 20 Patentansprüche, von denen die Ansprüche 1 und 13 angegriffen sind. Diese lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Meter electronics (20) for a Coriolis flowmeter assembly (5) capable of being intrinsically safe, said meter electronics (20) comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">drive circuitry (210);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a signal conditioner (201) within which said drive circuitry is configured;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a power supply capable of providing power to said meter electronics and said signal conditioner,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that said meter electronic further comprises;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a host system (200) remote from said signal conditioner within which said power supply is configured;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wherein said signal conditioner (201) receives power from said power supply (230) of said remote host system (200) via a first wire (211) and a second wire (212);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wherein said drive circuitry (210) within said signal conditioner (201) generates a drive signal in response to said power received from said power supply and applies said drive signal to a driver (103) affixed to at least one conduit (103A-103B) of said Coriolis flowmeter;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">pick-off signal conditioning circuitry (220) within said signal conditioner (201) that receives input signals from a first pick-off sensor (105) and from a second pick-off sensor (105') affixed to said at least one conduit (103A-103B) and in response thereto, generates information indicating properties of a material flowing through said at least one conduit (103A-103B), said signal conditioner transmits output signals containing said material information to said remote host system (200);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">host-side protection circuitry (320) in said signal conditioner (201) that prevents power in excess of an intrinsically safe threshold from being applied by circuitry in said signal conditioner (201) to said wires connecting said signal conditioner (201) to said remote host system (200); and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">flowmeter assembly protection circuitry (330) in said signal conditioner (201) that prevents power in excess of said intrinsically safe threshold from being applied by circuitry in said signal conditioner (201) to wires connecting said signal conditioner (201) to said driver (104) and to said first pick-off sensor (105) and to said second pick-off sensor (105') of said Coriolis flowmeter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">13. A method capable of being intrinsically safe for processing signals for a Coriolis flowmeter assembly (5) comprising the step of;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating information indicating properties of a material flowing through said Coriolis flowmeter from input signals;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that said method further includes the steps of;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">receiving power in a signal conditioner (201) from a power supply (230) in a remote host system (200) remote from said signal conditioner (201) via a first wire (211) and a second wire (212);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">preventing power in excess of an intrinsically safe threshold from being applied to said first wire (211) and said second wire (212) by circuitry of said signal conditioner (201);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating a drive signal from said received power using drive circuitry in said signal conditioner (210);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">applying said drive signal to a driver (104) affixed to at least one conduit (103A-103B) of said Coriolis flowmeter</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">preventing power in excess of said intrinsically safe threshold from being applied by said drive circuitry (210) to wires (341-342) connected to said driver (104);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">receiving said input signals by pick-off signal conditioning circuitry (220) from a first pick-off sensor (105) and a second pick-off sensor (105') affixed to said at least one conduit (103A-103B) of said Coriolis flowmeter;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">preventing power in excess of said intrinsically safe threshold from being applied by said pick-off signal conditioning circuitry (220) to wires connecting said first pick-off sensor (105) and said second pick-off sensor (105') to said pick-off signal conditioning circuitry (220);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">transmitting output signals containing said information to said remote host system (200); and preventing power in excess of said intrinsically safe threshold from being applied to wires (221) connecting said pick-off signal conditioning circuitry (220) to said remote host system (200)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, die Gegenstände der Patentansprüche 1 und 13 seien nicht patentfähig, da das beanspruchte Messsystem bereits in den 1990er Jahren vertrieben worden sei. In Deutschland und den USA seien, so hat sie behauptet, vor dem Prioritätszeitpunkt des Streitpatents eine Vielzahl von M-Point-Massendurchflussmessgeräten an nicht zur Geheimhaltung verpflichtete Dritte, nämlich an Kunden der Unternehmensgruppe E.        geliefert worden. Das Service-Handbuch "Durchfluss-Messtechnik" (NK22) sei der B.    (nunmehr T.    GmbH) 1991 überlassen worden; dieses Handbuch offenbare alle Merkmale der Erfindung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent nach Beweisaufnahme in dem beantragten Umfang für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Dagegen richtet sich die Berufung der Beklagten, der die Klägerin entgegentritt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung bleibt in der Sache ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft eine Messelektronik für einen Coriolis-Strömungsmesser-Aufbau, die intrinsisch, also aus sich heraus, sicher sein soll, sowie ein Verfahren zum Verarbeiten von Signalen für eine solche Vorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Nach der Patentbeschreibung werden Coriolis-Massenströmungsmesser verwendet, um den Massenstrom und andere Informationen in Bezug auf Materialien, die durch eine Rohrleitung fließen, zu messen. Das Material, beispielsweise eine Flüssigkeit oder ein Gas, wird durch die Strömungsröhre geleitet und verlässt den Strömungsmesser durch eine auf der Ausgangsseite angeschlossene Rohrleitung (Abs. 2). Eine Schwingungskraft, die ein Treiber an die Strömungsröhre anlegt, veranlasst diese zum Oszillieren. Wenn ein Material durch die Strömungsröhre geleitet wird, bewirken Coriolis-Beschleunigungen, dass jeder Punkt entlang der Strömungsröhre eine andere Phase aufweist. An zwei unterschiedlichen Punkten der Strömungsröhre angebrachte Sensoren erzeugen sinusförmige Signale, die die Bewegung des Strömungsrohres an den beiden Punkten darstellen. Die Phasendifferenz der von den Sensoren empfangenen Signale wird in Zeiteinheiten errechnet. Sie ist zu der Massenstromrate des Materials proportional, das durch die Röhre strömt (Abs. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Patentbeschreibung zeigt bei der bekannten Messelektronik zwei Probleme auf. Zum einen müssten Neun-Draht-Kabel (9-wire cables) verwendet werden, um die Messelektronik an einen benachbarten Strömungsmesser-Aufbau anzuschließen. Solche Kabel seien teuer, und die Kosten erhöhten sich bei zunehmendem Abstand zwischen der Messelektronik und dem Strömungsmesser, da das Kabel über die gesamte Abstandslänge installiert werden müsse (Abs. 4). Zum anderen müsse die Messelektronik mit einem sicheren Gehäuse umgeben werden oder intrinsisch sicher sein, um in einer explosiven Umgebung verwendet werden zu können (Abs. 4-8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die genannten technischen Probleme sollen mit einer intrinsisch sicheren Messelektronik für einen Coriolis-Strömungsmesser <em>(M1; Merkmalsnummerierung des Patentgerichts kursiv)</em> gelöst werden, die umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. ein Hostsystem <em>(M5)</em> und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. einen Signalverstärker <em>(signal conditioner, M3)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Das Hostsystem</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 ist von dem Signalverstärker entfernt <em>(M6)</em> und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 enthält eine Stromversorgung, die Strom an den Signalverstärker und die Messelektronik liefern kann <em>(M4)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Der Signalverstärker</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1 empfängt über einen ersten und einen zweiten Leitungsdraht <em>(wire)</em> Strom von der Stromversorgung <em>(M7)</em> und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2 enthält eine Betriebsschaltung <em>(drive circuitry, M2) </em>und eine Messsignalverstärkungsschaltung <em>(pick-off signal conditioning circuitry)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Die Betriebsschaltung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.1 erzeugt in Reaktion auf den von der Stromversorgung empfangenen Strom ein Betriebssignal und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.2 gibt dieses an einen Treiber, der an zumindest einem Kanal 6. des Strömungsmessers befestigt ist <em>(M8)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. Die Messsignalverstärkungsschaltung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6.1 empfängt Eingangssignale von einem ersten und einem zweiten Aufnahmesensor, die an dem (zumindest einen) Kanal befestigt sind,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6.2 erzeugt in Reaktion darauf Informationen, die Eigenschaften des den Kanal durchströmenden Materials anzeigen, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6.3 übermittelt die Materialinformation repräsentierende Ausgangssignale an das Hostsystem <em>(M9)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. Im Signalverstärker ist auf der Hostseite und auf der Strömungsmesserseite jeweils eine Schutzschaltung vorgesehen, von denen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.1 die erste verhindert, dass ein einen intrinsisch sicheren Schwellenwert überschreitender Strom den den Signalverstärker mit dem Hostsystem verbindenden Leitungen zugeführt wird <em>(M10)</em>, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.2 die zweite verhindert, dass ein diesen Schwellenwert überschreitender Strom den den Signalverstärker mit dem Treiber und den Aufnahmesensoren verbindenden Leitungen zugeführt wird <em>(M11)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 13 schützt mit sachlich übereinstimmenden Merkmalen ein Verfahren zur Signalverarbeitung. Erfindungsgemäß ist weder ein Neun-Draht-Kabel noch eine explosionssichere Verkapselung der Messelektronik erforderlich. Die Schutzschaltungen (Merkmal 7) verhindern, dass auf den vom Signalverstärker zum Hostsystem und zum Strömungsmesser führenden Leitungen ein Strom fließt, der einen Schwellwert überschreitet, jenseits dessen Entzündungsgefahr besteht (Abs. 9 u. 12). Treiber und Sensoren werden am Signalverstärker durch Einzelkabel angeschlossen (Abs. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat angenommen, die Gegenstände der angegriffenen Patentansprüche seien nicht neu. Der Fachmann, ein Diplom-Ingenieur der Fachrichtung Elektrotechnik mit Erfahrungen in der Entwicklung von Strömungssensoren, habe sie dem Service-Handbuch "Durchfluss-Messtechnik" der E.              GmbH &amp; Co. KG, betreffend einen Messaufnehmer m…       und einen Messumformer P…       (NK22) entnehmen können. Aus der dortigen Beschreibung der Vor-richtung und den Schaltplänen ergäben sich, wie das Patentgericht näher ausgeführt hat, die unterschiedlichen Ausgestaltungen der Elektronik in der Standardversion und in der - erfindungsgemäßen - eigensicheren Version. Das Handbuch sei der B.    im Jahr 1991 von E.        ohne Geheimhaltungsvereinbarung überlassen worden; B.  -Mitarbeiter sowie Besucher hätten Gelegenheit gehabt, von den Einzelheiten der in dem Handbuch beschriebenen Vorrichtung Kenntnis zu nehmen. Durch die glaubhaften Aussagen der Zeugen H.  und Patentanwalt Dr. G.     sei schließlich bewiesen, dass das Service-Handbuch NK22 B.  vollständig und mit seinem jetzigen Inhalt überlassen worden sei. Aufgrund dieser Aussagen stehe fest, dass das mit einer Klebebindung versehene Handbuch der B.    zur Verfügung gestellt worden und von dem Zeugen H.  , der damals als Meister in der Eichwerkstatt der B.    tätig gewesen sei, gelocht und auf einen Heftstreifen gelegt worden sei, weil solche Handbücher durch den Gebrauch leicht "zerfledderten". Der Zeuge Dr. G.     habe das noch zusammenhängende Handbuch teilweise aufgetrennt, um für den Rechtsstreit gute Kopien fertigen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Diese Beurteilung hält der Überprüfung im Berufungsverfahren stand. Der Gegenstand der Patentansprüche 1 und 13 ist nicht neu, da er zum Prioritätszeitpunkt zum Stand der Technik gehörte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht ist zutreffend davon ausgegangen, dass das Service-Handbuch von E.        mit dem als Anlage NK22 zu den Akten gereichten Inhalt die im Streitpatent beanspruchte Messelektronik und das beanspruchte Verfahren durch den Text und die in dem Handbuch enthaltenen Schaltpläne vollständig beschreibt. Dies lässt keinen Rechtsfehler erkennen und wird auch von der Berufung nicht angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht ist auf der Grundlage des in der mündlichen Verhandlung vorgelegten Exemplars des Handbuchs und der Aussagen der Zeugen H.  und Dr. G.     ebenso zutreffend zu der Feststellung gelangt, dass das Handbuch der B.    im Jahr 1991 vollständig und mit dem Inhalt der Anlage NK22 überlassen worden ist. Zu einer erneuten Vernehmung der Zeugen oder zur Erhebung weiterer Beweise nach § 115 Abs. 1 PatG aF besteht kein Anlass.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung stehen die Aussagen der beiden Zeugen zueinander nicht in Widerspruch. Das Original des Handbuchs, das der Zeuge H.  zur besseren Erhaltung mit Hilfe eines Heftstreifens fixiert hatte, befindet sich zwar in einem teilweise aufgetrennten Zustand. Die Angabe des Zeugen H.  , er habe das Handbuch auf einen Heftstreifen gelegt, weil solche Handbücher durch Gebrauch leicht zerfledderten, enthält aber keine Aussage über den Zustand des Handbuchs bei der Auflegung auf den Heftstreifen. Der Zeuge hat nur bekundet, dass er eine vorbeugende Erhaltungsmaßnahme getroffen hat. Seine Aussage widerspricht daher nicht der Bekundung des Zeugen Dr. G.    , das Handbuch sei noch insgesamt verklebt gewesen und er habe diese Verklebung teilweise gelöst, um einzelne Seiten besser kopieren zu können. Soweit Dr. G.     weiterhin ausgesagt hat, dabei seien Eselsohren und Abnutzungen am vorderen Teil des Handbuchs entstanden, hat er damit nicht zum Ausdruck gebracht, Gebrauchsspuren an dem Handbuch seien allein durch seine Kopierarbeiten entstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dass die Verklebung erhalten war, erscheint auch nicht unplausibel. Zum einen verringerte ein frühzeitiges Auflegen auf eine Heftleiste erheblich die Belastung der Rückenklebung durch einen häufigen Gebrauch. Zum anderen ist offen, wie häufig gerade dieses Handbuch benötigt wurde und wie stark die Rückenklebung daher durch Gebrauch beansprucht wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>War aber das Handbuch noch vollständig verklebt, als es bei dem Zeugen Dr. G.     eintraf, kommt es nicht darauf an, dass von der Eichwerkstatt nach der weiteren Aussage des Zeugen H.  gegebenenfalls auch Teile eines Wartungshandbuchs vorübergehend an die Elektrowerkstatt gegeben worden sind. Selbst wenn man nicht ausschließen wollte, dass entgegen der Erinnerung des Zeugen Dr. G.     die Rückenverklebung des Hand-buchs nicht vollständig erhalten war, gäbe dies keinen Anlass zu der durch keinen nachvollziehbaren Vortrag gestützten Annahme, die die Lehre des Streitpatents verkörpernden Teile des Handbuchs seien ganz oder teilweise erst zu einem späteren Zeitpunkt hinzugefügt worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist das Begehren der Beklagten, es solle "ein kriminaltechnisches Sachverständigengutachten zur Frage der von der Klägerin … behaupteten Beschaffenheit des Dokuments … zum Zeitpunkt der Anfertigung der Kopien sowie im jetzigen Zustand" eingeholt werden, nicht erheblich. Es ist nicht erkennbar, welche Behauptung damit unter Beweis gestellt werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Auf der Grundlage des verfahrensfehlerfrei festgestellten Sachverhalts hat das Patentgericht zutreffend angenommen, dass die erfindungsgemäße Lehre am Prioritätstag nicht mehr neu war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Den Stand der Technik bildet nach Art. 54 Abs. 2 EPÜ alles, was vor dem Anmeldetag der Öffentlichkeit durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise zugänglich gemacht worden ist. Für die öffentliche Zugänglichkeit von technischen Erkenntnissen oder Kenntnissen ist nicht der Nachweis erforderlich, dass ein bestimmter technischer Sachverhalt bestimmten fachkundigen Personen bekannt geworden ist. Es reicht aus, dass ein nicht begrenzter Personenkreis nach den gegebenen Umständen in der Lage war, die Kenntnis zu erlangen (BGH, Urteil vom 12. Februar 1960 - I ZR 156/57, GRUR 1961, 24 - Holzimprägnierung; Urteil vom 15. Dezember 1970 - X ZR 32/69, GRUR 1971, 214 - Customer Prints; Beschluss vom 9. Februar 1993 - X ZB 7/92, GRUR 1993, 466 - fotovoltaisches Halbleiterelement; Beschluss vom 5. März 1996 - X ZB 13/92, GRUR 1996, 747 - Lichtbogen-Plasma-Beschichtungssystem, zur Vorbenutzung durch eine Vorrichtung; Urteil vom 5. Juni 1997 - X ZR 139/95, BGHZ 136, 40, 51 - Leiterplattennutzen; Urteil vom 21. Juli 2011 - X ZR 7/09, juris Rn. 29 - Spindelanordnung, zur Offenkundigkeit bei Vorliegen einer Prinzipskizze; vgl. auch die Rechtsprechungsnachweise bei Busse/Keukenschrijver, Patentgesetz, 7. Aufl., § 3 Rn. 21 ff.; Benkard/Melullis, Patentgesetz, 10. Aufl., § 3 Rn. 65 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Durch die Lieferung einer Vorrichtung oder die Übersendung deren schriftlicher Beschreibung werden der Aufbau und die maßgeblichen technischen Merkmale der Vorrichtung grundsätzlich preisgegeben und damit offenkundig. Voraussetzung für die Annahme, dass Dritte von der technischen Information Kenntnis erlangen konnten, ist jedoch, dass die Weiterverbreitung an beliebige Dritte durch den Empfänger nach der Lebenserfahrung nahegelegen hat (BGH, GRUR 1996, 747, 752 - Lichtbogen-Plasma-Beschichtungssystem; BGH, Urteil vom 8. Juli 2008 - X ZR 189/03, GRUR 2008, 885 - Schalungsteil; in dieser Entscheidung wurde ein schriftliches Angebot, dem die entsprechenden Informationen nicht zu entnehmen waren, nicht zum Stand der Technik gerechnet). Maßgeblich für die Beurteilung dieser Frage sind die zum Zeitpunkt der Lieferung der technischen Information bestehenden Vereinbarungen zwischen den Beteiligten oder die sonstigen Umstände der Lieferung, nicht jedoch die besonderen Gegebenheiten in dem die Information empfangenden Unternehmen, beispielsweise eine bestimmte Übung, wie und unter welchen Voraussetzungen Besucher in die einzelnen Abteilungen des Unternehmens gelangen und von dessen Einrichtungen Kenntnis nehmen können, oder interne Gepflogenheiten bei der Kommunikation zwischen den einzelnen Abteilungen des Unternehmens. Bei der Lieferung einer Vorrichtung oder - wie hier - der Überlassung einer schriftlichen Beschreibung oder Begleitunterlage an einen einzelnen Abnehmer kommt es sonach darauf an, ob bei der Lieferung eine Geheimhaltungspflicht ausdrücklich oder stillschweigend vereinbart wurde oder sich aus Treu und Glauben ergibt oder ob zu erwarten war, dass der Empfänger der Information diese wegen eines eigenen geschäftlichen Interesses geheim halten werde (BGH, aaO - Lichtbogen-Plasma-Beschichtungssystem).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Nach diesen Maßstäben ist die technische Lehre der Erfindung durch die Überlassung des Handbuchs an die B.    der Öffentlichkeit zugänglich gemacht worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Das Handbuch ist B.  , wie zwischen den Parteien nicht streitig ist, zur Wartung einer von E.        erworbenen Strömungsmessvorrichtung überlassen worden. Da solche Messvorrichtungen von E.        frei verkauft wurden, ist nichts dafür ersichtlich, dass B.  rechtlich oder tatsächlich, insbesondere wegen eines eigenen geschäftlichen Interesses gehindert gewesen sein könnte, diese Messeinrichtung Dritten zugänglich zu machen oder sie auch weiterzuveräußern, falls sie für betriebliche Zwecke nicht mehr benötigt wurde. Für das Handbuch selbst gilt nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Der Einwand der Berufung, es habe schon für die Mitarbeiter der B.    kein Anlass bestanden, die vom Patentgericht als maßgeblich angesehenen Schaltpläne 10.4, 10.4.2, 10.4.4 und 10.5 zur Kenntnis zu nehmen, da diese Schaltpläne Platinen mit im Trafomodul vergossenen Widerständen und Dioden zeigten, die als solche nicht austauschbar seien, und nur die gesamte Platine im Fall einer Fehlfunktion ausgetauscht werden könne, geht fehl. Ob sich für B.  -Mitarbeiter eine konkrete Veranlassung ergeben hat, sich mit Einzelheiten der Schaltung zu befassen, ist unerheblich. Es genügt, dass für den Fachmann, den das Patentgericht, von der Berufung unangefochten, als Diplom-Ingenieur der Fachrichtung Elektrotechnik mit Erfahrungen in der Entwicklung von Strömungssensoren definiert hat, der NK22 die Lehre der Erfindung zu entnehmen war, wenn er sich - aus welchen Gründen auch immer - mit den Einzelheiten der Messvorrichtung befasste.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Der öffentlichen Zugänglichkeit steht auch keine B.  treffende Geheimhaltungsverpflichtung entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Eine entsprechende ausdrückliche Vereinbarung zwischen E.        und der B.    ist vom Patentgericht nicht festgestellt und wird auch von der Klägerin nicht behauptet. Soweit die Berufung meint, es habe eine stillschweigende Geheimhaltungsvereinbarung zwischen E.        und B.  vorgelegen oder eine solche ergebe sich aus Treu und Glauben, kann dem nicht beigetreten werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Zwischen E.        und B.  hat keine gemeinsame Entwicklungsarbeit stattgefunden, die B.  verpflichtet hätte, den Inhalt des Handbuchs geheim zu halten; B.  war vielmehr Kunde von E.        und Abnehmer der Produkte dieses Unternehmens. Das Handbuch wurde zwar nicht ohne weiteres an die Käufer der Messgeräte mitgeliefert. Nach der Aussage des Zeugen H.  konnte es aber jederzeit angefordert werden und wurde ohne Bedingungen oder Auflagen zur Geheimhaltung übersandt. Selbst wenn das im Vergleich zu der allgemeinen Montage- und Betriebsanleitung Durchflussmesstechnik umfassendere Handbuch nur an Stammkunden überlassen worden sein sollte, die über hinreichend qualifiziertes Personal für die komplexen Servicearbeiten verfügten, spricht dies nicht für eine stillschweigende Verpflichtung zur Geheimhaltung, sondern beruht auf der praktischen Erwägung, dass ein Kunde mit nicht entsprechend qualifiziertem Personal nicht zu der Reparatur der Vorrichtung oder dem Austausch einzelner Vorrichtungsteile in der Lage wäre und deshalb das Handbuch nicht benötigen würde. B.  hatte hiernach keine Veranlassung zu der Annahme, das Handbuch sei vertraulich zu behandeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                               Mühlens                                Gröning</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                         Schuster                              Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310432013&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

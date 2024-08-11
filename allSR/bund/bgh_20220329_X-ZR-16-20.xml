@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304032022</doknr>
+   <ecli>ECLI:DE:BGH:2022:290322UXZR16.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220329</entsch-datum>
+   <aktenzeichen>X ZR 16/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 66 Abs 1 ZPO, § 265 Abs 2 ZPO, § 21 Abs 1 Nr 2 PatG, § 30 Abs 3 S 2 PatG, Art 83 EuPatÜbk, Art 2 § 6 Abs 1 S 1 Nr 2 IntPatÜbkG</norm>
+   <vorinstanz>vorgehend BPatG München, 3. Februar 2020, Az: 6 Ni 45/16 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Rechtliches Interesse an der Verteidigung des Patents; Anforderungen an die Patentschrift hinsichtlich der Ausführbarkeit der Erfindung - Übertragungsleistungssteuerungsverfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Übertragungsleistungssteuerungsverfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein rechtliches Interesse an der Verteidigung eines mit der Nichtigkeitsklage angegriffenen Patents ergibt sich schon aus der während des Rechtsstreits erfolgten Eintragung als neuer Inhaber des Streitpatents im Patentregister.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Damit ein Fachmann die Erfindung ausführen kann, muss die Patentschrift zumindest ansatzweise erkennen lassen, durch welche Mittel und auf welche Weise die beanspruchte technische Lehre verwirklicht werden kann. Diesem Erfordernis ist nicht genügt, wenn die Patentschrift lediglich stichwortartig ein abstraktes Ziel vorgibt, ohne auch nur andeutungsweise darüber Aufschluss zu geben, wie dieses Ziel erreicht werden kann.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 6. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 3. Februar 2020 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten beider Instanzen werden wie folgt verteilt: Die Beklagte trägt die außergerichtlichen Kosten der Klägerinnen zu 1 und 2 sowie zwei Drittel der Gerichtskosten. Die Klägerin zu 3 trägt ein Drittel der Gerichtskosten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte war eingetragene Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 847 147 (Streitpatents), das im Laufe des Rechtsstreits auf die Streithelferin umgeschrieben worden ist. Das Streitpatent ist am 4. Dezember 1997 in englischer Verfahrenssprache unter Inanspruchnahme der Priorität einer japanischen Patentanmeldung vom 6. Dezember 1996 angemeldet worden und mittlerweile durch Zeitablauf erloschen. Es betrifft ein Verfahren zur Steuerung der Übertragungsleistung in einem spektrum-erweiternden Kommunikationssystem.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>In einem vorangegangenen Nichtigkeitsverfahren hat das Patentgericht das Streitpatent mit Wirkung für die Bundesrepublik Deutschland teilweise für nichtig erklärt. Patentanspruch 1 hat in diesem Urteil (vom 9. Mai 2012 - 5 Ni 152/09) folgende Fassung erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Übertragungsleistungs-Steuerungsverfahren für ein spektrum-erweiterndes Kommunikationssystem, das ausführt Kommunikation zwischen einer Basisstation (203) und mehreren mobilen Geräten (204) unter Verwendung mehrerer Kanäle, wobei:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die mehreren Kanäle erste Kanäle (3) aufweisen, die den mobilen Geräten zugeordnet sind, zum Übertragen eines Datenpakets an die Basisstation, und einen zweiten Kanal (140), der durch die Basisstation verwendet wird, um ein Steuerungssignal an die mobilen Geräte zu übertragen, wobei sich die mobilen Geräte den zweiten Kanal teilen, wobei der zweite Kanal (140) ein Abwärts-Verkehrskanal ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die Basisstation den Empfangspegel eines Signals misst, das auf jedem der ersten Kanäle empfangen wird, ein Übertragungsleistungssteuerungssignal nach Maßgabe des Empfangspegels von jedem ersten Kanal erzeugt und ein gemeinsames Übertragungsleistungssteuerungssignal, das die Übertragungsleistungssteuerungssignale für die jeweiligen ersten Kanäle in ein für das System vorgegebenes Format hineingesammelt enthält, in den zweiten Kanal einfügt und das gemeinsame Übertragungsleistungssteuerungssignal, das die Übertragungsleistungssteuerungssignale für jeden der ersten Kanäle enthält, über den zweiten Kanal überträgt; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">jedes mobile Gerät das ihm zugedachte Übertragungsleistungssteuerungssignal auf dem zweiten Kanal empfängt und die Übertragungsleistung für ein über einen entsprechenden der ersten Kanäle zu übertragendes Signal nach Maßgabe des empfangenen Übertragungsleistungssteuerungssignals steuert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen, die von der Beklagten wegen Verletzung des Streitpatents in Anspruch genommen worden sind, haben geltend gemacht, der Gegenstand von Patentanspruch 1 gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und sei nicht patentfähig. Zudem offenbare das Streitpatent die Erfindung nicht so deutlich und vollständig, dass ein Fachmann sie ausführen könne. Die Beklagte hat Patentanspruch 1 in der geltenden Fassung und mit sechzehn Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent im beantragten Umfang für nichtig erklärt. Dagegen wendet sich die Berufung der Beklagten, die ihre erstinstanzlichen Anträge weiterverfolgt und einen weiteren Hilfsantrag stellt. Die Klägerinnen zu 1 und zu 2 treten dem Rechtsmittel entgegen. Die Klägerin zu 3 hat die Klage während des Berufungsverfahrens zurückgenommen. Die Streithelferin ist dem Rechtsstreit auf Seiten der Beklagten beigetreten.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Der Beitritt der Streithelferin ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Sie hat bereits deshalb ein rechtliches Interesse an der Verteidigung des Streitpatents, weil sie mit der Eintragung als neue Inhaberin in die formelle Stellung als Verpflichtete und Berechtigte gemäß § 30 Abs. 3 Satz 2 PatG eingerückt ist. Dass dies in entsprechender Anwendung der prozessualen Regelung des § 265 Abs. 1 Satz 1 ZPO keinen Einfluss auf einen vor der Umschreibung eingeleiteten Nichtigkeitsrechtsstreit hat, beseitigt das rechtliche Interesse nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Das Streitpatent betrifft die Steuerung der Sendeleistung in einem mobilen Kommunikationssystem mit Codemultiplex-Vielfachzugriff.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Der Beschreibung des Streitpatents zufolge teilen sich in einem CDMA-Verfahren (Code Division Multiple Access) mehrere mobile Geräte dasselbe Frequenzband für die Kommunikation mit einer Basisstation. Dies könne dazu führen, dass abhängig vom Empfangspegel die modulierten Signalwellen eines mobilen Geräts den Empfang der modulierten Signalwellen eines anderen mobilen Geräts an der Basisstation stören (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Wenn die Übertragungsleistung jedes mobilen Geräts so gesteuert werde, dass der an der Basisstation empfangene Signalpegel auf eine minimal notwendige Empfangsleistung begrenzt werde, sei es möglich, die Anzahl der Aufwärts-kanäle zu maximieren (Abs. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Bei dem aus dem Standard IS-95 bekannten Steuerungsverfahren erfolge eine Datenübertragung über gepaarte Aufwärts- und Abwärtskanäle von einem mobilen Gerät zur Basisstation und umgekehrt (Abs. 5, 12). Die Basisstation messe die Empfangsleistung von Daten, die von jedem mobilen Gerät übertragen werden, und erzeuge anhand dessen ein Steuerungssignal. Das Übertragungsleistungssteuerungssignal werde in Daten eingefügt, die von der Basisstation an ein mobiles Gerät zu übertragen sind, woraufhin dieses die Übertragungsleistung entsprechend dem empfangenen Signal reduziere oder erhöhe (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene Figur 12 der Streitpatentschrift veranschaulicht diesen Vorgang.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="486px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die obere Reihe jedes Paars stelle die Übertragungsdaten (Downlink Transmission Data) des Abwärts-Verkehrskanals (130a-n) mit den von der Basisstation eingefügten Steuerungssignalen (132a, 132b, 132c) dar, die untere Reihe die Übertragungsdaten des Aufwärts-Verkehrskanals (131a-n). Jedes mobile Gerät ändere nach Maßgabe des empfangenen Steuerungssignals seine Übertragungsleistung. Die Empfangsleistung an der Basisstation werde zeichnerisch durch die Breite der unteren Reihe dargestellt (Abs. 7 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Der zunehmende Fortschritt der Mobilfunktechnik führe zu einem wachsenden Bedarf an Datenkommunikationsfunktionen (Abs. 10). Anders als bei der Sprachkommunikation finde die Kommunikation hier typischerweise nur in einer Richtung statt. Deshalb sei die Übernahme des herkömmlichen Steuerungsverfahrens mit gepaarten Aufwärts- und Abwärts-Verkehrskanälen problematisch (Abs. 12). Wenn ein gepaarter Abwärtskanal nur für die Steuerung der Übertragungsleistung des Aufwärtsverkehrskanals vorgesehen werde, führe dies zu einer geringen Nutzungseffizienz der Verkehrskanäle (Abs. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund liegt dem Streitpatent das technische Problem zugrunde, eine für Datenkommunikation geeignete Leistungssteuerung unter möglichst effizienter Nutzung der vorhandenen Ressourcen zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in der geltenden Fassung von Patentanspruch 1 ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (Abweichungen gegenüber der erteilten Fassung sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Übertragungsleistungs-Steuerungsverfahren für ein spektrum-erweiterndes Kommunikationssystem zur Kommunikation zwischen einer Basisstation (203) und mehreren mobilen Geräten (204) unter Verwendung mehrerer Kanäle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die mehreren Kanäle weisen auf:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 erste Kanäle (3), die den mobilen Geräten zugeordnet sind, zum Übertragen eines Datenpakets an die Basisstation,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 einen zweiten Kanal (140), der durch die Basisstation verwendet wird, um ein Steuerungssignal an die mobilen Geräte zu übertragen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3 den sich die mobilen Geräte teilen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">
+                  <span style="text-decoration:underline">2.4 der ein Abwärts-Verkehrskanal ist.</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Basisstation</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 misst den Empfangspegel eines Signals, das auf jedem der ersten Kanäle empfangen wird,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 erzeugt ein Übertragungsleistungssteuerungssignal nach Maßgabe des Empfangspegels <span style="text-decoration:underline">von jedem ersten Kanal</span>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">
+                  <span style="text-decoration:underline">3.3 fügt ein gemeinsames Übertragungsleistungssteuerungssignal, das die Übertragungsleistungssteuerungssignale für die jeweiligen ersten Kanäle in ein für das System vorgegebenes Format hineingesammelt enthält, in den zweiten Kanal ein und</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.4 überträgt das <span style="text-decoration:underline">gemeinsame</span> Übertragungsleistungssteuerungssignal, <span style="text-decoration:underline">das die Übertragungsleistungssteuerungssignale</span> für jeden der ersten Kanäle <span style="text-decoration:underline">enthält</span>, über den zweiten Kanal.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Jedes mobile Gerät</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">empfängt das ihm zugedachte Übertragungsleistungssteuerungssignal auf dem zweiten Kanal und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. steuert die Übertragungsleistung für ein über einen entsprechenden der ersten Kanäle zu übertragendes Signal nach Maßgabe des empfangenen Übertragungsleistungssteuerungssignals.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Betrachtung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>a) Patentanspruch 1 sieht keine Beschränkung auf CDMA-Verfahren oder andere Mobilfunkstandards vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung des Streitpatents orientiert sich zwar an den Besonderheiten des aus dem Standard IS-95 bekannten Steuerungsverfahrens (Abs. 4). In Patentanspruch 1 kommt dies aber nur insoweit zum Ausdruck, als die Übermittlung von Datenpaketen und Steuersignalen zwischen einer Basisstation und mehreren mobilen Geräten in Auf- und Abwärtsrichtung unter Verwendung mehrerer Kanäle möglich ist. Dass die Ausgestaltung dieser Elemente auf die besonderen Festlegungen aus IS-95 oder eines anderen CDMA-Verfahrens beschränkt ist, ergibt sich daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Hinsichtlich der eingesetzten Kanäle enthält Merkmalsgruppe 2 Festlegungen in Bezug auf die Übertragungsrichtung und den Übertragungsinhalt. Nähere Vorgaben dazu, wie solche Kanäle im Einzelnen beschaffen sein müssen oder wie sie eingerichtet oder zugeordnet werden, ergeben sich daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>c) Die in Merkmal 2.3 enthaltene Vorgabe, dass sich die mobilen Geräte den zweiten Kanal teilen, ermöglicht eine effiziente Nutzung der Ressourcen, weil nicht für jedes Mobilgerät ein eigener Abwärtskanal eingerichtet werden muss (Abs. 14, 62).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Die Art und Weise, in der die Steuerungssignale auf diesem Kanal übertragen werden, ist in den Merkmalen 3 bis 5 näher festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Danach werden die Steuerungssignale für die einzelnen Uplink-Kanäle in ein gemeinsames Steuerungssignal gesammelt. Dieses gemeinsame Signal wird auf dem gemeinsamen Downlink-Kanal übertragen. Jede Mobilstation kann daraus das ihr zugedachte Übertragungsleistungssteuerungssignal empfangen und für die Steuerung seiner Übertragungsleistung einsetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Als zweiter Kanal kann ein Kanal verwendet werden, der bereits für andere Zwecke vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>In dem ersten Ausführungsbeispiel der Streitpatentschrift wird ein abwärts gerichteter Antwortkanal eingesetzt, auf dem die Basisstation Antwortpakete in Reaktion auf Verkehrskanalreservierungsanfragen der mobilen Geräte versendet, und aus dem jedes mobile Gerät das ihm zugedachte Antwortpaket entnimmt und auswertet (Abs. 22, Fig. 2). Die nachfolgend wiedergegebene Figur 9 veranschaulicht die Nutzung dieses Antwortkanals zur Steuerung der Übertragungsleistung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="487px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Die Basisstation fügt zwischen die auf dem Antwortkanal übermittelten Antwortpakete Steuerungssignale (142a, 142b, 142c …) ein. Die mobilen Geräte, die jeweils Datenpakete (1-n) auf den ihnen zugewiesenen Aufwärtsverkehrskanälen (1-n) übertragen, leiten aus den gemeinsamen Signalen (142a, 142b, 142c, …) das jeweils für sie bestimmte Steuerungssignal ab und ändern nach dessen Maßgabe die Leistung für die Übertragung des Datenpakets (Abs. 47). Wird kein Datenpaket übertragen, bleibt das Übertragungsleistungssteuerungssignal außer Acht (Abs. 49).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>cc) Hinsichtlich der Frage, ob der gemeinsame Abwärtskanal auch für andere Zwecke verwendet werden darf oder muss, enthält Merkmal 2.3 keine näheren Festlegungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>d) Merkmal 2.4 sieht vor, dass der zweite Kanal nicht nur ein geteilter Abwärtskanal von der Basisstation an die mobilen Geräte ist, sondern dass es sich um einen Verkehrskanal handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Wie das Patentgericht im Einzelnen dargelegt hat, wurden im Stand der Technik typischerweise solche Kanäle als Verkehrskanäle bezeichnet, die einer einzelnen Mobilstation zugeordnet sind und die Übertragung von Nutzdaten ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>In dieser Bedeutung verwendet die Streitpatentschrift den Begriff sowohl bei der Beschreibung des Standes der Technik als auch bei der Schilderung des zweiten Ausführungsbeispiels.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Wie bereits oben dargelegt wurde, geht das Streitpatent vom Mobilfunkstandard IS-95 und den darin für Sprachübertragung vorgesehenen gepaarten Aufwärts- und Abwärts-Verkehrskanälen aus. Die in diesem Zusammenhang geäußerte Kritik, bei der Übertragung von Daten sei es ineffizient, für jede Mobilstation einen Abwärts-Verkehrskanal einzurichten, obwohl auf diesem nur Leistungssteuerungssignale übertragen werden (Abs. 13), setzt implizit voraus, dass jeder dieser Kanäle jeweils einer bestimmten Mobilstation zugeordnet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Bei dem zweiten im Streitpatent geschilderten Ausführungsbeispiel, das in der Beschreibung anhand der nachfolgend wiedergegebenen Figuren 10, 11 und 12 erläutert wird, werden die Leistungssteuerungssignale nicht auf dem gemeinsamen Antwortkanal übertragen, sondern auf Downlink-Verkehrskanälen (1-n).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="510px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="503px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Aus Figur 10, die das Schaltungsschema für eine Basisstation zeigt, und den Erläuterungen hierzu (Abs. 55) ergibt sich, dass es für jede Mobilstation einen eigenen Verkehrskanal gibt und dass die Basisstation die Steuerungssignale für die einzelnen Mobilstationen je nach Betriebszustand auf dem gemeinsamen Antwortkanal oder auf den Verkehrskanälen der einzelnen Mobilstationen übertragen kann. Die beim zweiten Ausführungsbeispiel im Mittelpunkt stehende Übertragung auf den Verkehrskanälen wird für Situationen vorgeschlagen, in denen eine Kommunikation in zwei Richtungen erfolgt (Abs. 51), also ohnehin ein Downlink-Kanal für die Übertragung von Nutzdaten an die einzelnen Mobilstationen zur Verfügung stehen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>In Figur 11, die das Schaltungsschema einer geeigneten Mobilstation zeigt, ist angedeutet, dass die Mobilstation das Leistungssteuerungssignal wahlweise aus dem Antwortkanal oder dem Verkehrskanal entnehmen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Aus Figur 12 ergibt sich, dass die Leistungssteuerungssignale bei diesem Ausführungsbeispiel nicht in den gemeinsamen Antwortkanal eingefügt werden, sondern in die Verkehrskanäle (130a-n), die den einzelnen Mobilstationen zugeordnet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Die Gegenüberstellung zwischen einem Antwortkanal, auf den alle Mobilstationen zugreifen, und über den Daten übertragen werden, die Steuerungszwecken dienen, und den jeweils einer Mobilstation zugeordneten Verkehrskanälen, die für die Übertragung von Nutzdaten vorgesehen sind, entspricht dem eingangs aufgezeigten Verständnis des Begriffs "Verkehrskanal".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>bb) Der zur Charakterisierung der Erfindung verwendeten Formulierung, die Basisstation verwende für die Steuerung der Übertragungsleistung einen einzigen Abwärts-Verkehrskanal für alle Mobilstationen gemeinsam (Abs. 14), liegt demgegenüber ein modifiziertes Begriffsverständnis zugrunde. Es steht zu dem üblichen Verständnis insoweit in Widerspruch, als nach diesem ein Verkehrskanal typischerweise einer einzelnen Mobilstation zugeordnet ist, also gerade nicht von allen Mobilstationen gemeinsam genutzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>cc) Dieser Widerspruch ist vor dem aufgezeigten Hintergrund dahin aufzulösen, dass Patentanspruch 1 insoweit vom herkömmlichen Begriffsverständnis abweicht, als ein vorhandener Abwärts-Verkehrskanal zumindest in bestimmten Situationen zur Übermittlung von Übertragungsleistungssteuerungssignalen an alle Mobilstationen eingesetzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zu Recht angenommen hat, verbleibt es im Übrigen mangels abweichender Anhaltspunkte in der Patentschrift hingegen beim herkömmlichen Begriffsverständnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Ein Abwärts-Verkehrskanal im Sinne von Merkmal 2.4 ist danach ein Kanal, der einer einzelnen Mobilstation zugeordnet und für die Übertragung von Nutzerdaten eingerichtet ist, bei Bedarf aber zur Übermittlung von Übertragungsleistungssteuerungssignalen an alle Mobilstationen eingesetzt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(1) Dem letzten Absatz der Patentbeschreibung ist als allgemeiner Gedanke der Erfindung zu entnehmen, für die Übermittlung des Übertragungsleistungssteuerungssignals einen Kanal auszuwählen, den sich alle Mobilstationen teilen. Im ersten Ausführungsbeispiel fällt die Auswahl auf den ohnehin bereits für andere Zwecke eingerichteten (geteilten) Antwortkanal, wie er in dieser Funktion im unabhängigen Patentanspruch 7 beansprucht ist. Mit dem Abwärts-Verkehrskanal wählt Patentanspruch 1 einen anderen bereits eingerichteten Kanal aus. Es besteht lediglich die Besonderheit, dass dieser - herkömmlicherweise nur einer einzelnen Mobilstation zugeordnete Kanal - für die Übermittlung des Übertragungsleistungssteuerungssignals erst noch als geteilter Kanal eingerichtet werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(2) Entgegen der Auffassung der Berufung ergeben sich aus dem abschließenden Hinweis in der Beschreibung, dass auch ein Kanal eingerichtet werden kann, der ausschließlich für die Übertragung von Leistungssteuerungssignalen vorgesehen ist (Abs. 62 letzter Satz), keine abweichenden Schlussfolgerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die Einrichtung eines gemeinsamen Kanals ausschließlich für Leistungssteuerungssignale mag der Zielsetzung des Streitpatents eines möglichst ressourcenschonenden Vorgehens ebenfalls noch entsprechen. Aus der in Merkmal 2.4 getroffenen Festlegung, dass es sich bei dem gemeinsamen Kanal um einen Verkehrskanal handeln muss, ergibt sich jedoch, dass solche Ausgestaltungen nicht zum Gegenstand von Patentanspruch 1 gehören.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Der sich daraus ergebende Widerspruch zwischen Beschreibung und Anspruch erklärt sich daraus, dass Merkmal 2.4 erst nach der Erteilung in den Anspruch eingefügt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(3) Die Zuordnung des Abwärts-Verkehrskanals zu einer einzelnen Mobilstation für die Übertragung von Nutzerdaten wird schließlich auch nicht dadurch in Frage gestellt, dass das Übertragungsleistungssteuerungssignal auch unabhängig von der Übertragung von Nutzerdaten übertragen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Die Möglichkeit, in Zeitabschnitten, in denen (zeitweise) keine Nutzerdaten zu übermitteln sind, nur das Übertragungsleistungssteuerungssignal in den Abwärts-Verkehrskanal einzufügen und zu übertragen, ist in der Streitpatentschrift für den aus dem Stand der Technik bekannten gepaarten Abwärts-Verkehrskanal ausdrücklich beschrieben (Abs. 13). Durch diese Vorgehensweise wird die grundsätzliche Eigenschaft als Verkehrskanal nicht aufgehoben. Der Kanal bleibt weiterhin hierfür eingerichtet und kann bei Bedarf in nachfolgenden Betriebssituationen wieder zur Übertragung von Nutzdaten an eine einzelne Mobilstation genutzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung steht der von der Streitpatentschrift (Abs. 4) in Bezug genommene IS-95-Standard (ZP18) diesem Verständnis nicht entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Der Standard bezeichnet den Abwärts-Verkehrskanal als Vorwärtsverkehrskanal (Forward Traffic Channel) und definiert ihn als einen Kode-Kanal, der verwendet wird, um Nutzer- und Signalisierungsverkehr von der Basisstation zu der Mobilstation zu transportieren (S. 1-5, Z. 38-39). Nachfolgend ist für eine Multiplex Option 1 des Standards dessen Figur 7.1.3.5.11.1-1 (Information Bits for Primary Traffic and Signaling Traffic) wiedergegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="507px"
+                       src="bild6_5.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Danach gibt es unter der Bezeichnung "Blank and Burst" einen mit den Kopfbits 1011 angezeigten Rahmen, in dem nur Signalisierungsverkehr, also Steuerdaten übertragen werden. Dies ändert nichts daran, dass der Kanal in Übereinstimmung mit der allgemeinen Definition weiterhin (auch) eingerichtet bleibt, um bei Bedarf Nutzerdaten zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Es steht auch in Übereinstimmung mit der Lehre des Streitpatents, wenn der Standard (S. 7-38 Abs. 1) vorsieht, dass Signalisierungsverkehr nur unter Nutzung der Blank-and-Burst-Rahmen stattfinden soll, wenn die primären und sekundären Datenübertragungsdienste nicht aktiv sind. Wie bereits ausgeführt wurde, verliert ein Kanal seine Eigenschaft als Verkehrskanal nicht, wenn er für den Fall, dass Daten (zeitweise) nicht zu übertragen sind, einen speziellen Rahmen enthält, mit dem weiterhin anfallende Steuerdaten übertragen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>III. Zur Begründung seiner Entscheidung hat das Patentgericht, soweit für das Berufungsverfahren von Bedeutung, im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann, ein Ingenieur der Fachrichtung Elektro- oder Nachrichtentechnik mit einem universitären Diplom- bzw. Masterabschluss und mehrjähriger Berufserfahrung sowie Kenntnissen auf dem Gebiet der Konzeption von Mobilfunksystemen, insbesondere im Bereich der Leistungsregelung bei CDMA-Systemen, differenziere die in den Merkmalen 1 und 2 genannten Kanäle danach, ob sie als dedizierter Kanal eine Punkt-zu-Punkt-Verbindung zwischen der Basisstation und einem einzigen mobilen Gerät herstellen oder ob sie als gemeinsamer bzw. geteilter Kanal der gleichzeitigen Kommunikation der Basisstation mit mehreren mobilen Geräten dienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Die feste Zuordnung der ersten Kanäle könne in einem "reservation based access system" erfolgen, indem die Basisstation - als Reaktion auf eine Anfrage einer Mobilstation über den Reservierungskanal - der Mobilstation über den Antwortkanal einen Code bzw. eine Nummer für einen Aufwärtskanal und einen Zeitabschnitt auf diesem zuweist. Hierauf sei die Lehre des Streitpatents jedoch nicht beschränkt. So könne beispielsweise bei einem "CSMA with busy tone"-System (CSMA = Carrier Sense Multiple Access) eine Mobilstation über einen (von mehreren möglichen) wahlfreien Aufwärtskanal einen Zugriffsversuch unternehmen, wobei im Erfolgsfall dieser Kanal von der Basisstation durch Aussenden eines Besetzt-Zeichens als belegt markiert werde, wodurch Zugriffsversuche anderer Mobilstationen verhindert und eine feste Zuordnung erreicht werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Nach der Patentbeschreibung (Abs. 62) könne als zweiter Kanal für die zusätzliche Übertragung der Leistungssteuerungsbefehle auch ein anderer bereits im System vorhandener geteilter Kanal als der im ersten Ausführungsbeispiel verwendete Antwortkanal genutzt werden, z.B. der Pilotkanal oder der Synchronisierungskanal bei IS-95 oder der Rundfunkkanal gemäß der UMTS-Studie Codit. Ein Verkehrskanal falle nicht hierunter, da er nicht zu den geteilten Kanälen gehöre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Soweit die Streitpatentschrift (Abs. 62) die Möglichkeit herausstelle, in einem Mobilkommunikationssystem einen neuen dedizierten Kanal (dedicated to transmission power control) für die Übertragung der Sendeleistungssteuerungsbefehle von der Basis- an die Mobilstationen vorzusehen, lese der Fachmann auch hier keinen Verkehrskanal mit, da ein solcher bestimmungsgemäß der Übertragung von Nutzerdaten diene und nicht geteilt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Mangels anderslautender Erläuterungen im Streitpatent gehe der Fachmann davon aus, dass der in Merkmal 2.4 genannte Abwärts-Verkehrskanal, wie der Antwortkanal nach dem ersten Ausführungsbeispiel, seine originäre Funktion beibehält, Nutzerdaten an eine einzige Mobilstation zu übertragen, und lediglich insofern modifiziert wird, als dass er zusätzlich die Übertragungsleistungssteuerungssignale für mehrere Mobilstationen enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der mit dem Hauptantrag verteidigte Gegenstand von Patentanspruch 1 gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus. Die in der ursprünglichen Anmeldung erfolgte einmalige Nennung des Abwärts-Verkehrskanals als Kanal, den alle Mobilstationen gemeinsam haben, habe der Fachmann als Fremdkörper im Sinne einer offensichtlichen Unrichtigkeit wahrgenommen, die er im Lichte dessen, was er der Gesamtheit der Anmeldeunterlagen (Beschreibung, Ansprüche, Zeichnungen) an technischer Lehre entnommen habe, zu einem Abwärtssteuerkanal korrigiert hätte. Demgegenüber stelle die Ausgestaltung des gemeinsamen Abwärts-Kanals als Verkehrskanal in Patentanspruch 1 ein Aliud dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 offenbare die angegebene Erfindung auch nicht so deutlich und vollständig, dass ein Fachmann sie ausführen könne. Die Streitpatentschrift enthalte keinerlei Erläuterungen dazu, wie der beanspruchte geteilte Abwärts-Verkehrskanal ausgebildet sein müsse, um das gemeinsame Übertragungsleistungssteuerungssignal von der Basisstation an die mehreren mobilen Geräte zu übertragen und zugleich bestimmungsgemäß eine Punkt-zu-Punkt-Verbindung zwischen der Basisstation und einer Mobilstation zur Übertragung von Nutzerdaten zu realisieren. Aus dem in der Patentbeschreibung zitierten IS-95-Mobilfunkstandard lasse sich nichts anderes herleiten. Insbesondere sei unklar, wie ermöglicht werden könne, dass ein selbst leistungsgeregelter dedizierter, d.h. einer Mobilstation zugeordneter Abwärts-Verkehrskanal zugleich als gemeinsamer Abwärts-(Steuer-)Kanal mit fester Leistung ausgestrahlt werde. Zudem bleibe offen, wie der geteilte Abwärts-Verkehrskanal im Vergleich zu den aus IS-95 bekannten Kanälen in den höheren Übertragungsschichten (layer 2 aufwärts) zu realisieren sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Die US-Patentschrift 5 621 723 (ZP15/D2/D6; nachfolgend auch: Walton) nehme die Lehre des Patentanspruchs 1 neuheitsschädlich vorweg. Die Schrift zähle zum Stand der Technik, da das Streitpatent die Priorität der japanischen Anmeldung Hei 8-32649396 (ZP3) zu Unrecht in Anspruch nehme, in welcher bei zutreffender Übersetzung kein Abwärts-Verkehrskanal, sondern lediglich ein Abwärtskanal offenbart werde, den alle Mobilstationen für die Übertragungsleistungssteuerung gemeinsam haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Basierend auf dem IS-95-Standard wolle Walton die Paketdatenübertragung in Aufwärts-Richtung verbessern. Die hierzu neu geschaffenen Aufwärts-Paketdatenkanäle (reverse packet data channels) seien in Abhängigkeit ihrer Datenrate jeweiligen Empfängern in der Basisstation zugeordnet, wobei mehrere Mobilstationen die gleiche Uplink-Datenrate nutzen könnten und sich dann um einen bestimmten Aufwärts-Paketdatenkanal bewerben müssten. Hierzu werde ein CSMA-Verfahren mit Besetzt-Zeichen verwendet, bei dem den anderen mobilen Geräten signalisiert werde, dass (weitere) Zugriffsversuche nicht erfolgreich sein werden. Dies reiche für eine Zuordnung im Sinne von Merkmal 2.1 aus. Die weiteren Merkmale von Patentanspruch 1 seien ebenfalls offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 könne auch nicht in der Fassung der zum Teil schon unzulässigen Hilfsanträge Bestand haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Beurteilung hält der Überprüfung im Berufungsverfahren im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>1. Das Patentgericht hat im Ergebnis zu Recht entschieden, dass der in Patentanspruch 1 angegebene Gegenstand der Erfindung nicht so deutlich und vollständig offenbart ist, dass ein Fachmann ihn ausführen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist eine für die Ausführbarkeit hinreichende Offenbarung gegeben, wenn der Fachmann ohne erfinderisches Zutun und ohne unzumutbare Schwierigkeiten in der Lage ist, die Lehre des Patentanspruchs auf Grund der Gesamtoffenbarung der Patentschrift in Verbindung mit dem allgemeinen Fachwissen am Anmelde- oder Prioritätstag praktisch so zu verwirklichen, dass der angestrebte Erfolg erreicht wird (BGH, Urteil vom 11. Mai 2010 - X ZR 51/06, GRUR 2010, 901 Rn. 31 - Polymerisierbare Zementmischung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>a) Wie bereits ausgeführt wurde, wird in der Streitpatentschrift der Abwärts-Verkehrskanal in Bezug auf den erläuterten Stand der Technik als Kanal offenbart, der im Sinne von Merkmal 2.1 einem mobilen Gerät zugeordnet ist (Abs. 5), und zwar gepaart mit einem Aufwärtskanal (Abs. 12, 13). Im zweiten Ausführungsbeispiel des Streitpatents (Abs. 52 ff.), bei dem ein Umschalten in zwei Betriebsarten gezeigt ist, ist der Abwärts-Verkehrskanal (130a) nicht anders ausgestaltet. Er wird im Falle zweiseitiger Datenkommunikation genutzt, um das gemeinsame Übertragungsleistungssteuerungssignal nicht (weiter) über den gemeinsamen Antwortkanal zu übermitteln, sondern - wie in Figur 12 gezeigt - eingefügt in die von der Basisstation an die jeweiligen Mobilstationen (1-n) zu übertragenden Daten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Wie es möglich sein soll, dass der Abwärts-Verkehrskanal demgegenüber einer einzelnen Mobilstation für die Übertragung von Nutzerdaten zugeordnet und zugleich ein geteilter Kanal ist, mit dem das gemeinsame Übertragungsleistungssteuerungssignal von der Basisstation an mehrere Mobilstationen übertragen wird, offenbart das Streitpatent nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>In dem von der Streitpatentschrift in Bezug genommenen IS-95-Standard ist eine derartige Verwendung eines Abwärts-Verkehrskanals ebenfalls nicht gezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>b) Ausgehend hiervon ist eine für die Ausführbarkeit hinreichende Offenbarung nicht gegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>aa) Grundsätzlich ist ausreichend, dass der Fachmann aufgrund der Angaben in der Patentschrift unter Rückgriff auf sein Fachwissen in der Lage ist, den Erfindungsgegenstand auszuführen (BGH, Urteil vom 3. Februar 2015 - X ZR 76/13, GRUR 2015, 472 Rn. 36 - Stabilisierung der Wasserqualität). Dabei bedarf das, was dem Fachmann aufgrund seines Fachwissens im Anmeldezeitpunkt an Fachkenntnissen und Fertigkeiten bereits zur Verfügung stand, keiner ausdrücklichen Aufnahme in die Patentbeschreibung (BGH, Urteil vom 8. Dezember 1983 - X ZR 15/82, GRUR 1984, 272, 273 - Isolierglasscheibenrandfugenfüllvorrichtung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Allerdings müssen die in der Patentbeschreibung enthaltenen Angaben dem Fachmann wenigstens so viel an technischer Information vermitteln, dass er sein Fachwissen und Fachkönnen ergänzend für die Ausführung der Erfindung heranziehen kann (BGH, Urteil vom 13. Juli 2010 - Xa ZR 126/07, GRUR 2010, 916 Rn. 17 - Klammernahtgerät). Dazu muss die Patentschrift zumindest ansatzweise erkennen lassen, durch welche Mittel und auf welche Weise die beanspruchte technische Lehre verwirklicht werden kann. Diesem Erfordernis ist nicht genügt, wenn die Patentschrift lediglich stichwortartig ein abstraktes Ziel vorgibt, ohne auch nur andeutungsweise darüber Aufschluss zu geben, wie dieses Ziel erreicht werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>bb) Im Streitfall erschöpfen sich die Ausführungen in der Beschreibung des Streitpatents in der Vorgabe, einen allen Mobilstationen gemeinsamen Abwärts-Verkehrskanal einzurichten. Wie ein solcher Kanal geschaffen werden kann, wird - wie bereits dargelegt - weder durch ein Ausführungsbeispiel noch durch sonstige konkrete Hinweise erläutert. Aus dem Rückgriff auf allgemeines Fachwissen ergeben sich keine konkreteren Anhaltspunkte, weil auch hier ein Abwärts-Verkehrskanal typischerweise nur einer Mobilstation zugeordnet ist, also gerade nicht allen Mobilstationen gemeinsam ist. Der Fachmann wird folglich vor die Aufgabe gestellt, ein Konzept zur Umsetzung der abstrakten Zielvorgabe von Grund auf zu erarbeiten, ohne hierbei auf irgendwelche relevanten technischen Informationen in der Patentschrift zurückgreifen und diese durch sein Fachwissen ergänzen zu können. Dies genügt den Anforderungen an eine ausführbare Offenbarung nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Darauf, ob und inwieweit sich der Fachmann bei Umsetzung der abstrakten Zielvorgabe mit Problemen bei der Steuerung der Sendeleistung eines geteilten Abwärts-Verkehrskanals befassen würde, kommt es damit nicht mehr entscheidungserheblich an. Gleiches gilt für die Frage, ob der Fachmann unter Rückgriff auf sein Fachwissen einen praktisch gangbaren Weg finden konnte, wie er (insbesondere) in den höheren Übertragungsschichten (layer 2 und aufwärts) einen Abwärts-Verkehrskanal realisieren kann, der bezogen auf das Übertragungsleistungssteuerungssignal einen gemeinsamen Kanal und bezogen auf die Datenübertragung einen einer einzelnen Mobilstation zugeordneten Kanal darstellt. Denn hierbei handelt es sich um Problemstellungen, die ohne Bezugspunkt zu konkreten Vorgaben in der Patentschrift die Grundlagenarbeit zur Umsetzung des abstrakten Konzepts eines geteilten Abwärts-Verkehrskanals betreffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>2. Ob das Streitpatent auch aus den anderen vom Patentgericht angeführten Gründen für nichtig zu erklären ist, bedarf angesichts dessen keiner abschließenden Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>V. Patentanspruch 1 ist auch in der Fassung der Hilfsanträge dem Patentschutz nicht zugänglich, da sämtliche Hilfsanträge das nicht ausführbar offenbarte Merkmal 2.4 enthalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>1. Dass ein Teil der Hilfsanträge mit der Maßgabe gestellt ist, dass aus dem Merkmal "wobei der zweite Kanal (140) ein Abwärts-Verkehrskanal ist" keine Rechte hergeleitet werden, kann bereits deshalb zu keiner anderen Beurteilung führen, weil die Auswahl eines Abwärts-Verkehrskanals als geteilter Abwärtskanal dem Gegenstand von Patentanspruch 1 einen technischen Aspekt hinzufügt, der keine bloße Einschränkung darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob die Grundsätze, nach denen die Einfügung eines nicht ursprünglich offenbarten Merkmals ausnahmsweise nicht zu einer Nichtigerklärung führt, wenn es lediglich eine Konkretisierung eines ursprünglich in abstrakterer Form offenbarten Merkmals darstellt (dazu zuletzt BGH, Urteil vom 20. Oktober 2020 - X ZR 158/18, GRUR 2021, 571 Rn. 41 - Zigarettenpackung; Urteil vom 17. Februar 2015 - X ZR 161/12, BGHZ 204, 199 = GRUR 2015, 573 Rn. 53 - Wundbehandlungsvorrichtung), auf den Fall übertragbar sind, dass die Einfügung eines Merkmals dazu führt, dass die Erfindung nicht ausführbar offenbart ist. Selbst wenn dies zu bejahen wäre, könnte dies im Streitfall nicht zur Abweisung der Klage führen, weil die Einfügung von Merkmal 2.4 nicht zu einer bloßen Einschränkung führt, sondern zum Schutz für ein Aliud.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Der in Merkmal 2.4 getroffenen Auswahl wohnt der besondere technische Aspekt inne, dass ein typischerweise nur einer Mobilstation zugeordneter Abwärts-Verkehrskanal so modifiziert werden kann, dass er sowohl die für eine einzelne Mobilstation vorgesehenen Nutzerdaten als auch ein für alle Mobilstationen bestimmtes gemeinsames Übertragungsleistungssteuerungssignal übertragen kann. Derartiges ist dem Gegenstand der erteilten Fassung von Patentspruch 1 weder konkret noch in abstrakter Form zu entnehmen. Die Hinzufügung des Merkmals führt damit zum Schutz für ein Aliud.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>2. Soweit ein Teil der Hilfsanträge als zusätzliches Merkmal 2.5 vorsieht, dass der zweite Kanal für Übertragungsleistungsteuerung dediziert ist, und man darin mit dem Patentgericht eine Beschränkung der Übertragung ausschließlich auf die Leistungssteuerung sieht, liegt eine unzulässige Erweiterung des Schutzbereichs vor, da in dieser Fassung das Merkmal 2.4 zugrunde liegende Verständnis des Begriffs "Abwärts-Verkehrskanal" abgeändert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gilt für die Hilfsanträge, in denen das Wort "dediziert" durch das Wort "reserviert" ersetzt wird, und die Hilfsanträge, die in der englischen Sprachfassung das zusätzliche Merkmal 2.5 vorsehen ("said second channel being dedicated to transmission power control").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>3. Ob der erstmals in der Berufungsinstanz gestellte Hilfsantrag verspätet ist und die weiteren Hilfsanträge zum Teil unzulässig sind, bedarf vor diesem Hintergrund keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>VI. Die Kostenentscheidung beruht auf § 121 Abs. 2 Satz 2 PatG und § 97 Abs. 1, § 269 Abs. 3 und § 101 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin zu 3 hat nach § 269 Abs. 3 ZPO den auf sie entfallenden Teil der Gerichtskosten zu tragen. Diese Rechtsfolge ist unabhängig von einem Antrag auszusprechen, weil über die Gerichtskosten gemäß § 308 Abs. 2 ZPO von Amts wegen zu entscheiden ist. Die außergerichtlichen Kosten der Beklagten sind der Klägerin zu 3 mangels eines Kostenantrags (§ 121 Abs. 2 PatG, § 269 Abs. 4 ZPO) hingegen nicht aufzuerlegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Die Streithelferin hat ihre außergerichtlichen Kosten gemäß § 101 Abs. 1 ZPO ebenfalls selbst zu tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Crummenerl     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304032022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

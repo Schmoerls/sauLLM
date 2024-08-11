@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE305862011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20110210</entsch-datum>
+   <aktenzeichen>I ZR 164/09</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 7 Abs 2 Nr 2 UWG, Art 13 Abs 3 EGRL 58/2002</norm>
+   <vorinstanz>vorgehend OLG Dresden, 22. September 2009, Az: 14 U 721/09, Urteil<br/>vorgehend LG Dresden, 8. April 2009, Az: 42 HKO 42/08<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Wettbewerbsverstoß: Gemeinschaftsrechtskonformes generelles Verbot der unerbetenen Telefonwerbung; Nachweis der Einverständniserklärung bei einer Bestätigungsmail im Double-opt-in-Verfahren - Double-opt-in-Verfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Double-opt-in-Verfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <span>
+                     <span>
+                        <span>1.</span>
+                     </span>
+                  </span> Die Regelung des § 7 Abs. 2 Nr. 2 UWG, wonach Telefonwerbung gegenüber Verbrauchern generell nur nach deren vorheriger ausdrücklicher Einwilligung zulässig ist (sog. "opt-in"), steht mit dem Unionsrecht im Einklang .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Für den Nachweis des Einverständnisses ist es erforderlich, dass der Werbende die konkrete Einverständniserklärung jedes einzelnen Verbrauchers vollständig dokumentiert, was im Fall einer elektronisch übermittelten Einverständniserklärung deren Speicherung und die jederzeitige Möglichkeit eines Ausdrucks voraussetzt .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Durch eine Bestätigungsmail im elektronischen Double-opt-in-Verfahren wird weder ein Einverständnis des Verbrauchers mit Werbeanrufen belegt, noch führt sie für sich allein zu einer Beweiserleichterung zugunsten des Werbenden .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Will sich der Verbraucher auch nach Bestätigung seiner E-Mail-Adresse im Double-opt-in-Verfahren darauf berufen, dass er die unter dieser Adresse abgesandte Einwilligung in E-Mail-Werbung nicht abgegeben hat, trägt er dafür die Darlegungslast .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>5. Kann der Verbraucher darlegen, dass die per E-Mail übermittelte Bestätigung nicht von ihm stammt, war die Werbezusendung auch dann wettbewerbswidrig, wenn die E-Mail-Adresse im Double-opt-in-Verfahren gewonnen wurde (im Anschluss an BGH, Urteil vom 11. März 2004, I ZR 81/01, GRUR 2004, 517, E-Mail-Werbung I)  .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision gegen das Urteil des 14. Zivilsenats des Oberlandesgerichts Dresden vom 22. September 2009 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten der Revision trägt die Beklagte mit Ausnahme der Kosten der Streithilfe, die die Streithelferin trägt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die Verbraucherzentrale Sa.   e.V., begehrt von der beklagten Krankenversicherung Zahlung einer Vertragsstrafe und Unterlassung wegen unzulässiger Telefonwerbung gegenüber Verbrauchern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin forderte die beklagte Krankenkasse mit Schreiben vom 3. April 2003 auf, es strafbewehrt zu unterlassen, Mitglieder anderer Krankenkassen ohne deren ausdrückliches Einverständnis zu Werbezwecken anzurufen. Die Beklagte gab die Unterlassungserklärung unter dem Vorbehalt ab, "sofern für derartige Anrufe kein den Anforderungen der jeweils aktuellen Rechtsprechung zur Telefonwerbung entsprechendes Einverständnis vorliegt". Unter dem 28. April 2003 erklärte die Klägerin die Annahme der Unterlassungserklärung unter Berücksichtigung ihrer Rechtsausführungen in dem Annahmeschreiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Im Rahmen einer Telefonaktion zur Gewinnung neuer Mitglieder für die Beklagte, die diese durch ein beauftragtes Unternehmen durchführen ließ, wurde im November 2007 auch die Justitiarin der Klägerin, Rechtsanwältin D., angerufen. Nachdem die Beklagte auf die daraufhin erfolgte Abmahnung die Abgabe einer strafbewehrten Unterlassungserklärung und die Zahlung einer Vertragsstrafe in Höhe von 5.100 € abgelehnt hatte, hat die Klägerin Zahlungs- und Unterlassungsklage erhoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Nach Rechtshängigkeit hat am 9. September 2008 ein Telefondienstleistungsunternehmen im Auftrag der Beklagten bei Herrn Michael S. angerufen, um ihn zu einem Versicherungswechsel zur Beklagten zu bewegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hatte die Kontaktdaten von Frau D. und Herrn S. von ihrer Streithelferin erhalten. Diese erlangt Angaben zu Adresse, E-Mail-Anschrift, Telefonnummer und Geburtsdatum von Verbrauchern im Rahmen von Online-Gewinnspielen. So konnte auf einem Gewinnspielformular der Internetseite www.&lt;...&gt;.be ein Feld markiert werden, dem die Formulierung folgte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Ich erkläre mich damit einverstanden, dass meine Angaben für Marketingzwecke verwendet werden dürfen und ich per Post, Telefon, SMS oder E-Mail von &lt;...&gt;.be oder von Dritten interessante Informationen erhalte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Auf der Internetseite www.&lt;...&gt;.com lautete die entsprechende Formulierung des Gewinnspielformulars:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Ich akzeptiere die AGB und bin damit einverstanden, von S.  und deren Partnern (u.a. A.   ) telefonisch, postalisch und per E-Mail interessante Informationen (zu) erhalten (u.a. Telekommunikation, Energie [Strom/Gas] und Gesundheit).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die Beklagte zu verurteilen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. an die Klägerin einen Betrag in Höhe von 10.350 € zuzüglich Zinsen zu zahlen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. es unter Androhung näher bezeichneter Ordnungsmittel zu unterlassen, im geschäftlichen Verkehr zu Zwecken des Wettbewerbs Verbraucher zu Werbezwecken ohne deren Einverständnis zum Zwecke der Kundenakquise anzurufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat behauptet, die Einwilligung von Frau D. und Herrn S. in die Werbeanrufe in einem "Double-opt-in-Verfahren" erhalten zu haben. Frau D. habe am 23. November 2006 an dem Gewinnspiel "Wein" unter www.&lt;...&gt;.be teilgenommen und unter anderem ihre Telefonnummer angegeben. Außerdem habe sie das nicht vorbelegte Feld mit der Einverständniserklärung sowie das Feld "teilnehmen" markiert. Darauf sei ihr unter der angegebenen Adresse eine E-Mail mit einem Link zur Bestätigung zugegangen, dass sie sich für das Gewinnspiel eingetragen habe. Frau D. habe diese Bestätigung durch Markieren des Links abgegeben. Bei Herrn S., der am 22. Dezember 2007 an dem Gewinnspiel "Musica" unter www.&lt;...&gt;.com teilgenommen habe, verhalte es sich entsprechend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Beklagte antragsgemäß verurteilt. Die Berufung der Beklagten ist ohne Erfolg geblieben. Mit ihrer vom Senat zugelassenen Revision begehrt die Beklagte weiterhin die Abweisung der Klage. Die Klägerin beantragt, das Rechtsmittel zurückzuweisen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat die Klage für begründet erachtet, weil die Beklagte ihre Darlegungs- und Beweislast hinsichtlich der erforderlichen Einwilligung der Verbraucher in die Werbeanrufe nicht erfüllt habe. Dazu hat es ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Der Unterlassungsantrag sei ausreichend bestimmt. Die Klägerin habe hinreichend deutlich gemacht, dass sie sich mit ihrem Unterlassungsbegehren an der konkreten Verletzungshandlung orientiere.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Das Double-opt-in-Verfahren sei zwar durchaus geeignet, Darlegung und Nachweis einer Einwilligung in den Empfang von Werbemails zu erleichtern. Die Beklagte habe aber nicht nachvollziehbar aufgezeigt, dass bei den Angerufenen überhaupt ein wirksames Double-opt-in-Verfahren durchgeführt worden sei. Die von ihr vorgelegten Unterlagen und angebotenen Beweise ermöglichten keine Zuordnung einer Einverständniserklärung zu den angerufenen Verbrauchern. Zudem werde beim Double-opt-in-Verfahren nur die Identität von Empfängerkonto und Senderkonto geprüft. Diese Sicherheitssperre erlaube es dem Inhaber einer E-Mail-Adresse, die Zusendung von Werbemails zu verhindern, wenn seine Adresse missbräuchlich in einem Formular eingetragen worden sei. Die Richtigkeit der eingetragenen Telefonnummer werde mit der Bestätigungsmail ("Check-Mail") aber nicht überprüft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon seien die verwendeten formularmäßigen Einverständniserklärungen als Allgemeine Geschäftsbedingungen unzulässig, da sie gegen das Transparenzgebot verstießen und die Verbraucher unangemessen benachteiligten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Zwischen den Parteien sei auch ein vertragsstrafebewehrter Unterlassungsvertrag zustande gekommen. Aufgrund der Telefonanrufe bei Frau D. und Herrn S. habe die Beklagte zwei Vertragsstrafen verwirkt. Sie habe nach § 278 BGB für das schuldhafte Verhalten ihrer Erfüllungsgehilfen einzustehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>II. Die gegen diese Beurteilung gerichtete Revision ist unbegründet. Das Berufungsgericht hat zu Recht angenommen, dass der Klägerin der geltend gemachte Unterlassungs- und Zahlungsanspruch gegen die Beklagte aus § 8 Abs. 1 und 3 Nr. 2, § 7 Abs. 1 und 2 Nr. 2 UWG sowie aus dem mit der Beklagten abgeschlossenen Unterlassungsvertrag zusteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>1. Der Unterlassungsantrag der gemäß § 8 Abs. 3 Nr. 2 UWG klagebefugten Klägerin und die entsprechende Urteilsformel der angefochtenen Entscheidung sind hinreichend bestimmt (§ 253 Abs. 2 Nr. 2, § 313 Abs. 1 Nr. 4 ZPO). Diese Frage ist auch im Revisionsverfahren von Amts wegen zu prüfen (vgl. BGH, Urteil vom 11. Mai 2000 - I ZR 28/98, BGHZ 144, 255, 263 - Abgasemissionen; Urteil vom 16. November 2006 - I ZR 191/03, GRUR 2007, 607 Rn. 15 = WRP 2007, 775 - Telefonwerbung für "Individualverträge").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 253 Abs. 2 Nr. 2 ZPO darf ein Verbotsantrag nicht derart undeutlich gefasst sein, dass Gegenstand und Umfang der Entscheidungsbefugnis des Gerichts (§ 308 Abs. 1 ZPO) nicht erkennbar abgegrenzt sind, sich der Beklagte deshalb nicht erschöpfend verteidigen kann und letztlich die Entscheidung darüber, was dem Beklagten verboten ist, dem Vollstreckungsgericht überlassen bleibt (st. Rspr.; vgl. BGH, Urteil vom 17. Juli 2003 - I ZR 259/00, BGHZ 156, 1, 8 f. - Paperboy; Urteil vom 24. Februar 2005 - I ZR 128/02, GRUR 2005, 604, 605 = WRP 2005, 739 - Fördermittelberatung; BGH, GRUR 2007, 607 Rn. 16 - Telefonwerbung für "Individualverträge"). Aus diesem Grund sind insbesondere Unterlassungsanträge, die lediglich den Wortlaut eines Gesetzes wiederholen, grundsätzlich als zu unbestimmt und damit unzulässig anzusehen (vgl. BGH, Urteil vom 24. November 1999 - I ZR 189/97, GRUR 2000, 438, 440 = WRP 2000, 389 - Gesetzeswiederholende Unterlassungsanträge; Urteil vom 12. Juli 2001 - I ZR 261/98, GRUR 2002, 77, 78 = WRP 2002, 85 - Rechenzentrum; BGH, GRUR 2007, 607 Rn. 16 - Telefonwerbung für "Individualverträge"). Abweichendes kann dann gelten, wenn entweder bereits der gesetzliche Verbotstatbestand selbst entsprechend eindeutig und konkret gefasst oder der Anwendungsbereich einer Rechtsnorm durch eine gefestigte Auslegung geklärt ist, sowie auch dann, wenn der Kläger hinreichend deutlich macht, dass er nicht ein Verbot im Umfang des Gesetzeswortlauts beansprucht, sondern sich mit seinem Unterlassungsbegehren an der konkreten Verletzungshandlung orientiert. Die Bejahung der Bestimmtheit setzt in solchen Fällen allerdings grundsätzlich voraus, dass zwischen den Parteien kein Streit besteht, dass das beanstandete Verhalten das fragliche Tatbestandsmerkmal erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>b) Der Bundesgerichtshof hat bisher offengelassen, ob der in § 7 Abs. 2 Nr. 2 Altern. 1 UWG geregelte Fall unlauteren Verhaltens schon selbst als hinreichend eindeutig und konkret gefasst angesehen werden kann, um ohne weitere Konkretisierung in den Antrag übernommen zu werden (BGH, GRUR 2007, 607 Rn. 17 - Telefonwerbung für "Individualverträge"; BGH, Urteil vom 5. Oktober 2010 - I ZR 46/09, GRUR 2011, 433, Rn. 13 = WRP 2011, 576 - Verbotsantrag bei Telefonwerbung; für eine hinreichende Bestimmtheit der Norm: OLG Hamm, MMR 2007, 54; Urteil vom 30. Juni 2009 - 4 U 54/09, juris Rn. 34; Köhler in Köhler/Bornkamm, UWG, 29. Aufl., § 12 Rn. 2.40; Mankowski in Fezer, UWG, 2. Aufl., § 7 Rn. 222). Diese Frage bedarf auch im Streitfall keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Der Unterlassungsantrag der Klägerin lehnt sich zwar mit der Formulierung "Verbraucher zu Werbezwecken ohne deren Einverständnis … anzurufen" an den Text des § 7 Abs. 2 Nr. 2 Fall 1 UWG 2004 an. Er ist gegenüber dem Gesetzeswortlaut aber dadurch konkretisiert, dass er mit den Worten "zum Zwecke der Kundenakquise" auf die beanstandete Verletzungsform Bezug nimmt, bei der es der Beklagten um die Gewinnung neuer Kunden geht. Die Klägerin macht geltend, dass sich die angerufenen Verbraucher nicht mit den Werbeanrufen einverstanden erklärt hätten, weil sie an den Online-Gewinnspielen nicht teilgenommen und daher auch keine Bestätigungsmails erhalten oder abgesandt hätten. Die aus der für die Fassung des Klageantrags maßgeblichen Sicht der Klägerin charakteristische Verletzungsform ist daher ein Werbeanruf bei Verbrauchern zur Kundenakquise ohne deren Einverständnis nicht dagegen die Erlangung der Kontaktdaten in einem - jedenfalls für die Gewinnung von Telefonnummern - von der Klägerin für unzulässig gehaltenen Double-opt-in-Verfahren. Dementsprechend ist es der Klägerin nicht möglich, die Verletzungsform durch Aufnahme weiterer Merkmale der Verletzungshandlung in den Klageantrag näher zu konkretisieren. Gegen den Unterlassungsantrag bestehen unter diesen Umständen keine Bedenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Auf den in die Zukunft gerichteten Unterlassungsanspruch sind die zum Zeitpunkt der Entscheidung maßgeblichen Bestimmungen des Gesetzes gegen den unlauteren Wettbewerb anzuwenden. Der auf Wiederholungsgefahr gestützte Unterlassungsanspruch besteht allerdings nur, wenn die beanstandete Verhaltensweise auch schon zum Zeitpunkt ihrer Begehung wettbewerbswidrig war (BGH, Urteil vom 29. April 2010 - I ZR 23/08, GRUR 2010, 652 Rn. 10 = WRP 2010, 872 - Costa del Sol).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Der Kläger hat sein Unterlassungsbegehren auf nicht erbetene Anrufe gestützt, die Mitte November 2007 und Anfang September 2008 erfolgten. Zu diesem Zeitpunkt beurteilte sich die wettbewerbsrechtliche Zulässigkeit von Werbung gegenüber Verbrauchern durch Telefonate nach § 7 Abs. 2 Nr. 2 Fall 1 UWG in der am 8. Juli 2004 in Kraft getretenen Fassung des Gesetzes gegen den unlauteren Wettbewerb vom 3. Juli 2004 (UWG 2004). Durch die UWG-Novelle 2008 wurde § 7 Abs. 2 UWG 2004 dahingehend geändert, dass die dort aufgeführten Beispielsfälle stets eine unzumutbare Belästigung darstellen. Darüber hinaus wurde das in § 7 Abs. 2 Nr. 2 Fall 1 UWG enthaltene Erfordernis der Einwilligung mit Wirkung am 4. August 2009 durch das Gesetz vom 29. Juli 2009 (BGBl. I S. 2413) durch das der vorherigen ausdrücklichen Einwilligung ersetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Die genannten Gesetzesänderungen wirken sich im Streitfall nicht aus. Durch die Bestimmung in § 7 Abs. 2 UWG 2008, der zufolge die in dieser Vorschrift aufgeführten Beispielsfälle "stets" eine unzumutbare Belästigung darstellen, wird klargestellt, dass die Bagatellklausel des § 3 UWG nicht anwendbar ist. Nach der Rechtsprechung des Senats schloss eine unzumutbare Belästigung im Sinne des § 7 Abs. 2 UWG 2004 einen Bagatellverstoß von vornherein aus (vgl. BGH, Urteil vom 11. März 2010 - I ZR 27/08, GRUR 2010, 939 Rn. 18 = WRP 2010, 1249 - Telefonwerbung nach Unternehmenswechsel). Die mit Wirkung ab 4. August 2009 eingetretene Gesetzesänderung, wonach nur eine ausdrückliche Einwilligung ausreicht, ist im Streitfall ohne Belang, weil der Begriff der Einwilligung als solcher keine Änderung erfahren hat und eine konkludente Einwilligung nicht in Rede steht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>3. Entgegen der Ansicht der Revision steht § 7 Abs. 2 Nr. 2 UWG mit dem Unionsrecht im Einklang.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>a) Art. 13 Abs. 3 der Richtlinie 2002/58/EG (Datenschutzrichtlinie für elektronische Kommunikation) erlaubt ausdrücklich mitgliedstaatliche Regelungen, nach denen Telefonwerbung ohne Einwilligung des betroffenen Teilnehmers nicht gestattet ist (sog. "opt-in"). Von dieser Regelungsmöglichkeit hat der deutsche Gesetzgeber Gebrauch gemacht (vgl. Begründung des ersten Gesetzes zur Änderung des Gesetzes gegen den unlauteren Wettbewerb, BT-Drucks. 16/1045, S. 29). § 7 Abs. 2 Nr. 2 UWG verstößt auch nicht gegen die Richtlinie 2005/29/EG (Köhler in Köhler/Bornkamm aaO § 7 Rn. 124; Mankowski in Fezer aaO § 7 Rn. 25; Seichter/Witzmann, WRP 2007, 699, 701; Tonner/Reich, VuR 95, 97; aA Bernreuther, WRP 2009, 390, 398; Engels/Brunn, GRUR 2010, 886, 888 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>b) Allerdings wurden die Regeln über unlautere Geschäftspraktiken von Unternehmen gegenüber Verbrauchern mit der Richtlinie 2005/29/EG auf Gemeinschaftsebene vollständig harmonisiert. Dabei stellt Anhang I der Richtlinie eine erschöpfende Liste der Geschäftspraktiken auf, die nach ihrem Art. 5 Abs. 5 "unter allen Umständen" als unlauter anzusehen sind. Nur diese Geschäftspraktiken können daher ohne eine Beurteilung des Einzelfalls anhand der Bestimmungen der Art. 5 bis 9 der Richtlinie 2005/29/EG als unlauter gelten (vgl. EuGH, Urteil vom 14. Januar 2010 - C-304/08, GRUR 2010, 244 Rn. 41, 45 = WRP 2010, 232 - Plus Warenhandelsgesellschaft; Urteil vom 9. November 2010 - C-540/08, GRUR 2011, 76 Rn. 30, 34 ff. = WRP 2011, 45 - Mediaprint), weil das Merkmal der Unlauterkeit bereits in ihrem Tatbestand enthalten ist. Nach dem ersten Satz der Nummer 26 des Anhangs I der Richtlinie ist allein das hartnäckige und unerwünschte Ansprechen von Kunden über Telefon, Fax, E-Mail oder sonstige für den Fernabsatz geeignete Medien unter allen Umständen unlauter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>c) Dies gilt gemäß Satz 2 dieser Bestimmung jedoch "unbeschadet des Artikels 10 der Richtlinie 97/7/EG sowie der Richtlinien 95/46/EG und 2002/58/EG". Dadurch wird insoweit nicht etwa ein Vorrang der Richtlinie 2005/29/EG angeordnet (aA Engels/Brunn, GRUR 2010, 886, 888). Die genannten Vorschriften - und damit insbesondere auch Art. 13 Abs. 3 der Richtlinie 2002/58/EG - behalten vielmehr ohne Einschränkung durch die Richtlinie 2005/29 EG weiterhin Gültigkeit. Diese schon nach dem Wortlaut gebotene Auslegung wird durch die beiden letzten Sätze des Erwägungsgrunds 14 dieser Richtlinie bestätigt. Danach sollte die Richtlinie 2005/29/EG</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">das bestehende Gemeinschaftsrecht unberührt lassen, das den Mitgliedstaaten ausdrücklich die Wahl zwischen mehreren Regelungsoptionen für den Verbraucherschutz auf dem Gebiet der Geschäftspraktiken lässt. Die vorliegende Richtlinie sollte insbesondere Artikel 13 Absatz 3 der Richtlinie 2002/58/EG … unberührt lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Regelung in Nr. 26 des Anhangs I der Richtlinie 2005/29/EG wird bei weiterer Zulässigkeit der "Opt-in"-Lösung im Recht der Mitgliedstaaten keineswegs überflüssig. Sie behält ihren Anwendungsbereich für die Mitgliedstaaten, in denen in Anwendung der zweiten Regelungsoption des Art. 13 Abs. 3 der Richtlinie 2002/58/EG Telefonwerbung nur dann unzulässig ist, wenn sie sich an Teilnehmer richtet, die ihr widersprochen haben ("Opt-out"-Lösung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>d) Das Auslegungsergebnis einer Fortgeltung des Art. 13 Abs. 3 der Richtlinie 2002/58/EG ist nach Wortlaut, Systematik und Zweck der maßgeblichen unionsrechtlichen Vorschriften so eindeutig, dass es keiner Vorlage an den Gerichtshof der Europäischen Union zur Vorabentscheidung nach Art. 267 AEUV bedarf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>4. Die Beklagte hat unstreitig bei Frau D. und Herrn S. zu Werbezwecken anrufen lassen. Das Berufungsgericht ist ohne Rechtsfehler davon ausgegangen, dass die dafür erforderliche Einwilligung von diesen Verbrauchern nicht erteilt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>a) Für die Einwilligung trägt die Beklagte die Darlegungs- und Beweislast (vgl. BGH, Urteil vom 11. März 2004 - I ZR 81/01, GRUR 2004, 517, 519 = WRP 2004, 731 - E-Mail-Werbung I). Sie muss jeweils konkret in der Person des Angerufenen vorliegen. Das Berufungsgericht hat deshalb mit Recht angenommen, dass es nicht genügt, dass die Beklagte nach ihrer Darstellung allgemein Werbeanrufe nicht unverlangt durchführen lässt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Für den Nachweis des Einverständnisses ist es erforderlich, dass der Werbende die konkrete Einverständniserklärung jedes einzelnen Verbrauchers vollständig dokumentiert. Im Fall einer elektronisch übermittelten Einverständniserklärung setzt das deren Speicherung und die jederzeitige Möglichkeit voraus, sie auszudrucken. Die Speicherung ist dem Werbenden ohne weiteres möglich und zumutbar. Verfahren, bei denen unklar ist, ob eine Einverständniserklärung tatsächlich von dem angerufenen Verbraucher stammt, sind für den erforderlichen Nachweis ungeeignet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>b) Die Beklagte hat nicht dargelegt, dass Frau D. oder Herr S. überhaupt an den Online-Gewinnspielen "Wein" bzw. "Musica" teilgenommen haben, bei denen sie ihr Einverständnis mit Werbeanrufen erklärt haben sollen. Die Vorlage des Ausdrucks eines Online-Gewinnspielformulars ohne Eintragungen und des an "Frau Mustermann" adressierten Musters einer Bestätigungsmail hat das Berufungsgericht zutreffend als unergiebig angesehen. Dasselbe gilt für die Auflistung der angeblich eingetragenen Daten, die auch eine IP-Nummer enthält. Denn weder lässt sich die IP-Nummer den angerufenen Verbrauchern zuordnen, noch ist ersichtlich, dass die übrigen Daten von diesen angegeben wurden. Insbesondere haben die Beklagte und ihre Streithelferin keinen Ausdruck einer Bestätigungsmail vorgelegt, die unter der E-Mail-Adresse von Frau D. oder Herrn S. abgesandt wurde. Erst recht ergibt sich aus den von der Beklagten eingereichten Unterlagen nicht, dass sich die beiden Verbraucher durch Ankreuzen des entsprechenden Feldes in dem Gewinnspielformular mit Telefonwerbung einverstanden erklärt haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>In diesem Zusammenhang hat das Berufungsgericht ohne Rechtsfehler davon abgesehen, den Zeugen C.    R.  zu hören. Die Beklagte konnte den ihr obliegenden Nachweis des Einverständnisses durch diesen Zeugen nicht führen. Der Zeuge R.  war allein für die ordnungsgemäße Durchführung des Double-opt-in-Verfahrens benannt. Konkrete Angaben dazu, ob Frau D. oder Herr S. überhaupt an den Online-Gewinnspielen "Wein" bzw. "Musica" teilgenommen und dabei ihr Einverständnis mit Werbeanrufen erklärt haben, waren dem Zeugen von vornherein nicht möglich. Die Angabe, über welche IP-Nummer an dem Gewinnspiel teilgenommen wurde, ist dafür unergiebig. Die Aussage des Zeugen konnte die erforderliche konkrete Dokumentation des Einverständnisses deshalb nicht ersetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>c) Unerheblich ist, ob die Beklagte oder die für sie tätigen Dienstleister überhaupt Angaben über die Zuordnung einer konkreten IP-Nummer zu einem bestimmten Computer für einen bestimmten Zeitpunkt erhalten können. Ohne Bedeutung ist auch, dass eine solche Zuordnung jedenfalls nach sechs Monaten nicht mehr möglich ist, weil die entsprechenden Daten nach Ablauf bestimmter Fristen gelöscht werden. Es ist Sache der Beklagten, für eine ausreichende Dokumentation des Einverständnisses von Verbrauchern mit Werbeanrufen Sorge zu tragen. Verwendet sie für Werbeanrufe Adressdaten, für die ein Einverständnis der Verbraucher nicht oder nicht ausreichend dokumentiert ist, hat sie die sich daraus ergebenden rechtlichen Folgen zu tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>d) Unter diesen Umständen stellt sich von vornherein nicht die von der Revision aufgeworfene Frage, ob es zu einer Umkehrung der Darlegungs- und Beweislast oder jedenfalls einer Beweiserleichterung entsprechend den Grundsätzen der sekundären Darlegungslast führen kann, wenn die Einwilligung eines Verbrauchers in Telefonanrufe zu Werbezwecken in einem Double-opt-in-Verfahren eingeholt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>5. Im Übrigen kann ein elektronisch durchgeführtes Double-opt-in-Verfahren ein tatsächlich fehlendes Einverständnis von Verbrauchern mit Werbeanrufen nicht ersetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>a) Geht ein Teilnahmeantrag elektronisch ein, so kann dessen Absender durch eine E-Mail um Bestätigung seines Teilnahmewunsches gebeten werden. Nach Eingang der erbetenen Bestätigung kann angenommen werden, dass der Antrag tatsächlich von der angegebenen E-Mail-Adresse stammt. Hat der Verbraucher durch Setzen eines Häkchens in dem Teilnahmeformular bestätigt, dass er mit der Übersendung von Werbung einverstanden ist, ist grundsätzlich hinreichend dokumentiert, dass er in E-Mail-Werbung an diese E-Mail-Adresse ausdrücklich eingewilligt hat (vgl. LG Berlin, K &amp; R 2007, 430, 431; LG Essen, GRUR 2009, 353, 354 mit zustimmender Anmerkung Klinger; LG München I, K &amp; R 2009, 824). Nach der Rechtsprechung des Senats hat der Werbende mit einem solchen Verfahren ausreichend sichergestellt, dass es nicht aufgrund von Falscheingaben zu einer Versendung von E-Mail-Werbung kommt (vgl. BGH, GRUR 2004, 517, 519 - E-Mail-Werbung I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Das schließt es aber nicht aus, dass sich der Verbraucher auch nach Bestätigung seiner E-Mail-Adresse im Double-opt-in-Verfahren noch darauf berufen kann, dass er die unter dieser Adresse abgesandte Einwilligung in E-Mail-Werbung nicht abgegeben hat - etwa mit der Begründung, bei der E-Mail-Adresse, unter der die Bestätigung versandt worden sei, handele es sich nicht um die seine; er habe auch keinen Zugang zu dieser Adresse. Dafür trägt er allerdings die Darlegungslast. Kann der Verbraucher darlegen, dass die Bestätigung nicht von ihm stammt, war die Werbezusendung auch dann wettbewerbswidrig, wenn die E-Mail-Adresse im Double-opt-in-Verfahren gewonnen wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>b) Um die Bedeutung einer Bestätigungsmail im elektronischen Double-opt-in-Verfahren für das Einverständnis des Verbrauchers mit Werbeanrufen zu bestimmen, ist demgegenüber zu berücksichtigen, dass kein notwendiger Zusammenhang zwischen der E-Mail-Adresse, unter der der Teilnahmeantrag abgesandt wurde, und der in ihm angegebenen Telefonnummer besteht. So kann es zahlreiche Gründe dafür geben, dass eine falsche Telefonnummer in ein Online-Teilnahmeformular eingetragen wird. Sie reichen von der versehentlichen Falscheingabe über den vermeintlich guten Dienst, eine andere Person für ein Gewinnspiel anzumelden, bis zur Angabe der elterlichen Telefonnummer durch Minderjährige. Nicht auszuschließen ist ferner die bewusste Falscheingabe in Belästigungs- und Schädigungsabsicht oder sogar durch den tatsächlichen Inhaber der E-Mail-Adresse, um gerade nicht selbst zu Werbezwecken angerufen zu werden. Insgesamt liegt eine fehlerhafte Angabe einer Telefonnummer bei derartigen Online-Formularen keinesfalls fern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Der durch den Absender elektronisch bestätigte Eingang eines Online-Formulars mit Angabe einer Telefonnummer reicht unter diesen Umständen als Nachweis eines Einverständnisses in Werbeanrufe nicht aus. Er kann auch bei Telefonwerbung, anders als bei E-Mail-Werbung, für sich allein keine Beweiserleichterung zugunsten des Werbenden begründen. Vielmehr trägt der Werbende auch die Darlegungs- und Beweislast dafür, dass der Telefonanschluss der E-Mail-Adresse, unter der die Bestätigung abgesandt wurde, zuzuordnen ist. Ist das allerdings der Fall, obliegt es wieder dem Verbraucher darzulegen, dass er dennoch kein Einverständnis mit Werbeanrufen erklärt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Unter Berücksichtigung der vom Gesetzgeber anerkannten besonderen Lästigkeit der Telefonwerbung für Verbraucher werden die Werbemöglichkeiten durch diese Anforderungen an ein wirksames Einverständnis nicht unverhältnismäßig eingeschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>6. Die Annahme des Berufungsgerichts, zwischen den Parteien sei ein wirksamer vertragsstrafebewehrter Unterlassungsvertrag abgeschlossen worden, lässt keinen Rechtsfehler erkennen. Die Revision erhebt insoweit auch keine Rügen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>III. Danach ist die Revision der Beklagten mit der Kostenfolge aus § 97 Abs. 1 ZPO zurückzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Bornkamm                                       Büscher                               Schaffert</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                         Kirchhoff                                      Koch</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE305862011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

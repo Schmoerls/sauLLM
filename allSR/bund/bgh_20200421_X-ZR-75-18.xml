@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301122020</doknr>
+   <ecli>ECLI:DE:BGH:2020:210420UXZR75.18.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20200421</entsch-datum>
+   <aktenzeichen>X ZR 75/18</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 54 Abs 2 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 27. November 2017, Az: 2 Ni 9/15 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Europäisches Patent: Hinreichende Wahrscheinlichkeit für Kenntniserlangung Dritter bei fehlender Geheimhaltungspflicht nach Lieferung, Installation und Inbetriebnahme einer Anlage - Konditionierverfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Konditionierverfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Lieferung, Installation und Inbetriebnahme einer Anlage bei einer Käuferin begründen nicht ohne weiteres eine hinreichende Wahrscheinlichkeit dafür, dass beliebige Dritte die Anlage untersuchen und dadurch Kenntnis von einer Erfindung erhalten.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 27. November 2017 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 495 486 (Streitpatents), das am 15. April 2003 unter Inanspruchnahme einer deutschen Priorität vom 15. April 2002 angemeldet wurde und ein Verfahren und eine Vorrichtung zur Konditionierung von Halbleiterwafern oder Hybriden betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den drei weitere Ansprüche zurückbezogen sind, und Patentanspruch 5, auf den fünf weitere Ansprüche zurückbezogen sind, lauten nach einem Beschränkungsverfahren:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Verfahren zur Konditionierung von Halbleiterwafern und/oder Hybriden mit den Schritten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Bereitstellen eines zumindest teilweise geschlossenen Raums (1) mit einer darin befindlichen Wafer/Hybrid-Aufnahmeeinrichtung (10) zur Aufnahme eines Halbleiterwafers und/oder Hybrids; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Leiten eines trockenen Fluids durch die Wafer/Hybrid-Aufnahmeeinrichtung (10) zum Temperieren der Wafer/Hybrid-Aufnahmeeinrichtung (10);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei zumindest ein Teil des die Wafer/Hybrid-Aufnahmeeinrichtung (10) verlassenden Fluids zum Konditionieren der Atmosphäre innerhalb des Raums (1) verwendet wird;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei der Raum (1) durch einen Behälter (5) im Wesentlichen geschlossen ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei der Teil des die Wafer/Hybrid-Aufnahmevorrichtung (10) verlassenden Fluids zunächst temperiert wird und dann innerhalb des Raums (1) ausströmen gelassen wird; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei der Teil des die Wafer/Hybrid-Aufnahmevorrichtung (10) verlassenden Fluids dadurch temperiert wird, dass er zur Vorkühlung des Fluids in einem Wärmetauscher außerhalb des Raums (1) verwendet wird, bevor er innerhalb des Raums (1) ausströmen gelassen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Vorrichtung zur Konditionierung von Halbleiterwafern und/oder Hybriden mit:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">einem zumindest teilweise geschlossenen Raum (1), wobei der Raum (1) durch einen Behälter (5) im Wesentlichen geschlossen ist, mit einer darin befindlichen Wafer/Hybrid-Aufnahmeeinrichtung (10) zur Aufnahme eines Halbleiterwafers und/oder Hybrides; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">einer Leitungseinrichtung (r2, r3, r4, r5, i3, i4) zum Leiten eines trockenen Fluids durch die Wafer/Hybrid-Aufnahmeeinrichtung (10) zum Temperieren der Wafer/Hybrid-Aufnahmeeinrichtung (10) und zum Leiten zumindest eines Teiles des die Wafer/Hybrid-Aufnahmeeinrichtung (10) verlassenden Fluids in den Raum (1) zum Konditionieren der Atmosphäre in dem Raum (1);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei die Leitungseinrichtung (r2, r3, r4, r5, i3, i4) aufweist:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">eine erste Leitung (r2), über die das Fluid von außerhalb des Raums (1) in die Wafer/Hybrid-Aufnahmeeinrichtung (10) leitbar ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">eine zweite Leitung (r3), über die das Fluid aus der Wafer/Hybrid-Aufnahmeeinrichtung (10) nach außerhalb der Raums (1) leitbar ist; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">eine dritte Leitung (r4), über die das Fluid von außerhalb des Raums (1) in den Raum (1) rückführbar ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wobei zwischen der zweiten und dritten Leitung (r3, r4) eine Temperierungseinrichtung (70; 70, 80’’) vorgesehen ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wobei die Temperierungseinrichtung (70; 70, 80’’) einen Wärmetauscher (95) aufweist, dem zumindest ein Teil des den Raum (1) verlassenden Fluids zuleitbar ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wobei der Wärmetauscher (95) zum Vorkühlen des zugeführten Fluids dient;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">wobei die Leitungseinrichtung (r2, r3, r4, r5, i3, i4) derart gestaltet ist, dass der den Wärmetauscher (95) verlassende Teil zumindest teilweise zum Konditionieren der Atmosphäre in den Raum rückführbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent wegen unzulässiger Erweiterung und fehlender Patentfähigkeit angegriffen. Die Beklagte hat das Schutzrecht in der geltenden Fassung und mit zwei Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, mit der sie ihre erstinstanzlichen Anträge weiterverfolgt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat Erfolg und führt zur Abweisung der Klage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren und eine Vorrichtung zur Konditionierung von Halbleiterwafern oder Hybriden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen im Streitpatent werden Testmessungen an Halbleiterwafern typischerweise im Temperaturbereich zwischen -200 C und +400°C durchgeführt. Hierbei werde der Wafer auf einen Probertisch (Chuck) gelegt, der entsprechend der Solltemperatur gekühlt oder beheizt werde. Die Temperatur des Wafers dürfe nicht unter den Taupunkt des umgebenden gasförmigen Mediums sinken, weil sonst Feuchtigkeit auf seiner Oberfläche kondensiere oder vereise, was die Messung behindere oder unmöglich mache (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Bei im Stand der Technik bekannten Vorrichtungen, wie sie beispielhaft in der nachfolgend wiedergegebenen Figur 5 abgebildet seien, befinde sich der Probertisch 10 in einem im Wesentlichen geschlossenen Behälter 5, der einen Raum 1 umschließe (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="444px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Um die Atmosphäre im Raum 1 zu konditionieren und feuchte Umgebungsluft auszutreiben, werde dem Behälter 5 getrocknete Luft oder ein ähnliches Fluid, beispielsweise Stickstoff, über eine Leitung r1 und Ausströmelemente 30 zugeführt. Die Luft habe üblicherweise Raumtemperatur und werde in einem externen Lufttrockner 3 getrocknet. Sie ströme über Ritzen, Spalten oder eine separate Auslassleitung wieder aus dem Behälter 5 aus (Abs. 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Eine gesonderte Temperierungseinrichtung (Temperatursteuerrack 2) regele die Temperatur des Probertischs 10. Dazu werde dieser mit einer Heizeinrichtung 90 beheizt oder mit Luft zur Kühlung durchspült (Abs. 10 f.). Zum Zweck der Kühlung werde trockene Luft einem Wärmetauscher 95 zugeführt, der mit Kühlaggregaten 71, 72 verbunden sei. Anschließend werde die trockene Luft über eine Versorgungsleitung r2 in den Behälter 5 zum Probertisch 10 geführt, dort durch Kühlschlangen oder -rohre geleitet und über eine Leitung r3 in die Atmosphäre um den Behälter abgeleitet (Abs. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Als Nachteil solcher Vorrichtungen bezeichnet es das Streitpatent, dass diese verhältnismäßig viel trockene Luft verbräuchten. Außerdem vereise der Wafer bei entsprechenden Temperaturen sofort, falls der Lufttrockner 3 ausfalle (Abs. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund betrifft das Streitpatent das technische Problem, eine Konditionierung zu ermöglichen, die effizienter ist und ein höheres Maß an Betriebssicherheit bietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieses Problems schlägt das Streitpatent in Patentanspruch 1 ein Verfahren und in Patentanspruch 5 eine Vorrichtung vor, deren Merkmale sich wie folgt gliedern lassen (Merkmalsgliederung des Patentgerichts in eckigen Klammern):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.1 Das Verfahren dient der Konditionierung von Halbleiterwafern und/oder Hybriden und umfasst folgende Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.2 Bereitstellen eines zumindest teilweise geschlossenen Raums 1, der durch einen Behälter 5 im Wesentlichen geschlossen ist und in dem sich eine Aufnahmeeinrichtung 10 zur Aufnahme eines Halbleiterwafers oder Hybrids befindet [1.2 und 1.5],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3 Leiten eines trockenen Fluids durch die Aufnahmeeinrichtung 10, um diese zu temperieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.4 Zumindest ein Teil des die Aufnahmeeinrichtung 10 verlassenden Fluids wird verwendet, um die Atmosphäre innerhalb des Raums (1) zu konditionieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.6 Dieser Teil des Fluids wird zunächst temperiert und dann innerhalb des Raums 1 zum Ausströmen gebracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.7 Die Temperierung erfolgt dadurch, dass der betreffende Teil des Fluids zum Vorkühlen von Fluid in einem Wärmetauscher außerhalb des Raums 1 verwendet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.1 Die Vorrichtung dient der Konditionierung von Halbleiterwafern und/oder Hybriden und umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.2 einen zumindest teilweise geschlossenen Raum 1, der durch einen Behälter 5 im Wesentlichen geschlossen ist und in dem sich eine Aufnahmeeinrichtung 10 zur Aufnahme eines Halbleiterwafers oder Hybrides befindet,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.3 eine Leitungseinrichtung (r2, r3, r4, r5, i3, i4) zum Leiten eines trockenen Fluids durch die Aufnahmeeinrichtung 10,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.3a um diese zu temperieren und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.3b zum Leiten zumindest eines Teiles des die Aufnahmeeinrichtung 10 verlassenden Fluids in den Raum 1, um die Atmosphäre in diesem zu konditionieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.4 Die Leitungseinrichtung weist auf:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.5 eine erste Leitung r2, über die das Fluid von außerhalb des Raums 1 in die Aufnahmeeinrichtung 10 leitbar ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.6 eine zweite Leitung r3, über die das Fluid aus der Aufnahmeeinrichtung 10 nach außerhalb des Raums 1 leitbar ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.7 eine dritte Leitung r4, über die das Fluid von außerhalb des Raums 1 in diesen rückführbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.8 Zwischen der zweiten und der dritten Leitung ist eine Temperierungseinrichtung 70, 80'' angeordnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.9 Die Temperierungseinrichtung weist einen Wärmetauscher 95 auf,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.9a dem zumindest ein Teil des den Raum 1 verlassenden Fluids zuleitbar ist [5.9] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.10 der zum Vorkühlen des zugeführten Fluids dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.11 Die Leitungseinrichtung r2, r3, r4, r5, i3, i4 ist derart ausgestaltet, dass der den Wärmetauscher 95 verlassende Teil zumindest teilweise zum Konditionieren der Atmosphäre in den Raum rückführbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Von zentraler Bedeutung für die angestrebte Steigerung von Effizienz und Betriebssicherheit ist der in den Merkmalen 1.4, 1.6 und 1.7 vorgesehene Einsatz des zunächst zum Temperieren der Aufnahmeeinrichtung 10 eingesetzten trockenen Fluids zum anschließenden Konditionieren des Raums 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Hierzu wird das Fluid nach der Durchleitung durch die Aufnahmeeinrichtung nicht vollständig in die Umgebung abgelassen, sondern zumindest teilweise einer Temperierungsvorrichtung zugeführt und dann in den Raum 1 geleitet. Dies ermöglicht eine Effizienzsteigerung, weil zur Temperierung des Raums 1 kein zusätzliches Fluid eingesetzt werden muss. Zugleich wird die Betriebssicherheit erhöht, weil das Fluid schon vor dem Einleiten in die Aufnahmevorrichtung 10 trocken ist und es deshalb vor der Weiterleitung in den Raum 1 nicht zwingend eines weiteren Trocknungsvorgangs bedarf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Zur weiteren Steigerung der Effizienz wird das Fluid gemäß Merkmal 1.7 dadurch temperiert, nämlich erwärmt (Abs. 48 des Streitpatents), dass es zum Vorkühlen eines anderen Fluids in einem Wärmetauscher eingesetzt wird. Dadurch wird der Bedarf an extern zuzuführender Energie für den Temperier- und den Kühlvorgang verringert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>b) Patentanspruch 5 schützt eine Vorrichtung, die so ausgestaltet ist, dass das erfindungsgemäße Verfahren ausgeführt werden kann. Hierzu sehen die Merkmale 5.3 bis 5.7, die in Patentanspruch 1 keine Entsprechung finden, eine in geeigneter Weise ausgestaltete Leitungseinrichtung vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>c) Aus der Erläuterung des Funktionszusammenhangs in der Beschreibung und den hiermit korrespondierenden Merkmalen des Patentanspruchs geht, wie das Patentgericht in Zusammenhang mit Hilfsantrag I - abweichend von seiner in dem gemäß § 83 Abs. 1 PatG im Zusammenhang mit der Entgegenhaltung A7 geäußerten Auffassung, aber zutreffend - ausgeführt hat, hinreichend deutlich hervor, dass es sich bei dem den Raum 1 verlassenden Fluid im Sinne von Merkmal 5.9a um das Fluid handelt, das aus der Aufnahmeeinrichtung 10 ausgetreten und anschließend aus dem Raum 1 hinaus geleitet worden ist, wie dies in Merkmal 5.6 vorgesehen ist. Ebenfalls hinreichend deutlich geht daraus hervor, dass es gerade dieser Teil des Fluids ist, der gemäß den Merkmalen 1.6 und 1.7 bzw. 5.9 bis 5.11 in einem Wärmetauscher temperiert und anschließend wieder in den Raum 1 geleitet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Patentansprüche 1 und 5 gehe in allen verteidigten Fassungen nicht über den Inhalt der ursprünglich eingereichten Unterlagen hinaus. Er sei aber nicht neu, weil ihn die Beklagte vor dem Prioritätstag durch Lieferung mindestens einer erfindungsgemäßen Anlage an die I.              AG (nachfolgend: Abnehmerin) offenkundig vorbenutzt habe. Mit der Abnehmerin sei weder ausdrücklich noch konkludent eine Geheimhaltungsvereinbarung getroffen worden. Es habe sich nicht um ein gemeinsames Entwicklungs- oder Evaluierungsprojekt gehandelt. Die Abnehmerin habe auch ansonsten kein wirtschaftliches Interesse an einer Geheimhaltung gehabt, zumal die Beklagte betreffende Systeme bereits damals auch anderen potentiellen Abnehmern angeboten und in mindestens zwei Fällen auch geliefert habe. Angesichts dessen habe die nicht entfernt liegende Möglichkeit bestanden, dass andere Sachverständige Kenntnis über den Aufbau der Anlage erlangen konnten. Anlass für solche Untersuchungen habe schon deshalb bestanden, weil die Beklagte mit einer Kühltemperatur von bis zu -40°C damals ein Alleinstellungsmerkmal beansprucht habe. Der Offenkundigkeit stehe nicht entgegen, dass nähere Untersuchungen eine teilweise Demontage und insbesondere ein Entfernen des thermischen Isolationsschaums im Kühlgerät (nachfolgend auch: Chiller) erfordert hätten. Mit einem Kauf der Anlage hätten Sachverständige wie zum Beispiel Mitbewerber die Möglichkeit gehabt, die Anlage ohne Einschränkungen, insbesondere ohne Rücksichtnahme auf den Anlagenbetrieb und die Anforderungen an einen Reinraum zu untersuchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>1. Zutreffend und insoweit von der Berufung nicht beanstandet hat das Patentgericht allerdings entschieden, dass der Gegenstand des Streitpatents in allen verteidigten Fassungen nicht über den Inhalt der ursprünglich eingereichten Unterlagen hinausgeht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Die tatsächlichen Feststellungen des Patentgerichts tragen indes nicht die Schlussfolgerung, dass der Gegenstand des Streitpatents der Öffentlichkeit vor dem Prioritätstag zugänglich war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend und insoweit von der Berufung ebenfalls nicht beanstandet hat das Patentgericht entschieden, dass die Beklagte Ende des Jahres 2000 an die Abnehmerin eine Anlage geliefert hat, die alle Merkmale der Patentsprüche 1 und 5 aufweist, und zwar wiederum in allen verteidigten Fassungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Die festgestellten Tatsachen ermöglichen jedoch nicht die Schlussfolgerung, dass der Gegenstand des Streitpatents aufgrund der Lieferung und des nachfolgenden Betriebs der Anlage der Öffentlichkeit zugänglich war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Zum Stand der Technik gehört nach Art. 54 Abs. 2 EPÜ alles, was vor dem Anmelde- bzw. Prioritätstag der Anmeldung der Öffentlichkeit durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise zugänglich gemacht worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend ausgeführt hat, ist eine Vorbenutzung offenkundig in diesem Sinne, wenn die nicht nur theoretische und nicht nur entfernt liegende Möglichkeit eröffnet ist, dass beliebige Dritte, und damit auch Fachkundige, zuverlässige und ausreichende Kenntnis von der Erfindung erlangen (vgl. etwa BGH, Urteil vom 9. Dezember 2014 - X ZR 6/13, GRUR 2015, 463 Rn. 39 - Presszange; Urteil vom 8. November 2016 - X ZR 116/14 Rn. 25). Vom Vorliegen dieser Voraussetzungen kann nach der Lebenserfahrung auszugehen sein, wenn eine erfindungsgemäße Vorrichtung einem Dritten angeboten oder geliefert worden ist (BGH, GRUR 2015, 463 Rn. 39 - Presszange).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Angebot oder Lieferung einer erfindungsgemäßen Vorrichtung führen aber selbst dann nicht ohne weiteres zur Offenkundigkeit, wenn der Abnehmer keiner Geheimhaltungspflicht unterliegt. Wenn eine Geheimhaltungspflicht nicht vereinbart worden ist und eine Geheimhaltung auch sonst nicht zu erwarten ist, ist zwar in der Regel davon auszugehen, dass mit der Lieferung die Kenntnis von der Erfindung der Öffentlichkeit preisgegeben und die jedenfalls nicht fernliegende Möglichkeit geschaffen worden ist, dass beliebige Dritte von ihr Kenntnis nehmen können (BGH, Urteil vom 8. November 2016 - X ZR 116/14 Rn. 26). Auch in solchen Situationen reicht eine nur theoretische oder entfernt liegende Möglichkeit der Kenntnisnahme aber nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>bb) Das Patentgericht ist zu Recht davon ausgegangen, dass kein Hinweis auf eine Geheimhaltungsabrede mit der Abnehmerin besteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Anhaltspunkte für eine ausdrückliche Geheimhaltungsvereinbarung zeigt die Berufung nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Umstände, die den Schluss auf eine konkludente Geheimhaltungsvereinbarung zuließen, sind ebenfalls nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(a) Wie das Patentgericht zutreffend ausgeführt hat, ist der Abnehmer einer Anlage grundsätzlich auch ohne besondere Abrede zur Verschwiegenheit verpflichtet, wenn er an deren Entwicklung beteiligt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>In einer solchen Situation ist für den Abnehmer erkennbar, dass die Lieferantin und eine mit dieser kooperierende Entwicklerin oder Herstellerin ein Interesse daran haben, die Ergebnisse der Entwicklung nicht an Dritte weiterzugeben. Wenn er sich bei dieser Ausgangslage auf eine gemeinsame Entwicklungstätigkeit einlässt, ist er mangels abweichender Vereinbarung oder sonstiger Besonderheiten jedenfalls nach den Grundsätzen von Treu und Glauben gehalten, deren Ergebnisse nicht ohne Zustimmung der Vertragspartnerin an Dritte weiterzugeben. Dies gilt auch dann, wenn er kein eigenes Interesse an einer Geheimhaltung hat, etwa weil er an der Herstellung und dem Vertrieb weiterer Anlagen an Dritte nicht beteiligt ist und sein Beitrag zu der gemeinsamen Entwicklungstätigkeit eine eigene Mitberechtigung an in Frage kommenden Schutzrechten nicht erwarten lässt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Eine gemeinsame Entwicklungstätigkeit in diesem Sinne kann auch im Rahmen eines Kaufvertrags stattfinden, der einen Vertragspartner verpflichtet, ein gemeinsam entwickeltes Erzeugnis zu einem bestimmten Termin zu liefern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufungserwiderung ist auch nicht entscheidend, ob der Käufer die Anlage für eigene Entwicklungstätigkeit oder ausschließlich für Zwecke der Produktion nutzt. Auch in der zuletzt genannten Konstellation kann ein Käufer an der Entwicklung eines von ihm gekauften Erzeugnisses beteiligt sein und deshalb Geheimhaltungsverpflichtungen unterliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(b) Das Patentgericht hat zu Recht nicht die Überzeugung gewinnen können, dass die Anlage im Rahmen eines Entwicklungsprojekts geliefert wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Zwar kann aus dem Umstand, dass die Abnehmerin die Lieferung - berechtigt oder unberechtigt - angemahnt und die Anlage in der Produktion eingesetzt hat, entgegen der Auffassung des Patentgerichts nicht gefolgert werden, dass die Abnehmerin an der Entwicklung nicht beteiligt war. Das Patentgericht hat aufgrund der Aussagen der Zeugen S.   und F.    aber zutreffend festgestellt, dass die Abnehmerin die Anlage nicht zusammen mit der Beklagten oder deren Kooperationspartnern entwickelt, sondern lediglich eigene Programme zum Testen von Wafern erarbeitet hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>cc) Trotz fehlender Geheimhaltungspflicht begründeten die Lieferung, Installation und Inbetriebnahme der Anlage bei der Abnehmerin entgegen der Auffassung des Patentgerichts keine hinreichende Wahrscheinlichkeit dafür, dass beliebige Dritte die Anlage untersuchen und hierbei insbesondere feststellen, dass die zur Konditionierung der Aufnahmeeinrichtung eingesetzte Luft in einem nachfolgenden Schritt mit Hilfe eines Wärmetauschers temperiert und in den Raum 1 geleitet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(1) Nach den Feststellungen des Patentgerichts konnten Mitarbeiter der Abnehmerin vor dem Prioritätstag beim normalen Betrieb der Anlage keine Kenntnisse über den inneren Aufbau des Kühl- und Temperierungssystems erlangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat festgestellt, dass die Mitarbeiter der Abnehmerin den Chiller im fraglichen Zeitraum nicht selbst gewartet und repariert haben. Nach Aussage des Zeugen S.   war dafür das Vertriebsunternehmen zuständig. Die Mitarbeiter der Abnehmerin wussten nicht, wie die Anlage aufgebaut ist und funktioniert. Sie durften bis auf Änderungen an der Mess-Software keine Veränderungen an dem Gerät vornehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(2) Aus den Feststellungen des Patentgerichts ergibt sich ferner, dass eine nähere Untersuchung der Anlage durch Dritte nicht ohne Zustimmung der Abnehmerin möglich war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die Anlage stand in einer reinraumähnlichen Halle, zu der nur ein begrenzter Personenkreis Zutritt hatte. Damit fehlt es an einer hinreichenden Wahrscheinlichkeit, dass beliebige Dritte die Halle betreten und die Anlage untersuchen konnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Aus den von der Berufungserwiderung wiedergegebenen Zeugenaussagen, wonach betriebsfremde Techniker die Halle zum Zwecke der Wartung und Störungsbeseitigung an anderen Anlagen betreten durften und dabei nicht unter ständiger Beobachtung standen, ergibt sich allenfalls eine theoretische Möglichkeit der Kenntnisnahme. Um Kenntnis von der Erfindung zu erlangen, hätten die betreffenden Personen sich unbefugt an der Anlage zu schaffen machen müssen. Dies mag theoretisch nicht ausgeschlossen sein. Eine hinreichende Wahrscheinlichkeit dafür könnte aber allenfalls dann bejaht werden, wenn konkrete Anhaltspunkte dafür ersichtlich wären, dass die Abnehmerin ein solches Verhalten geduldet oder gar gefördert hätte. Letzteres ist nicht der Fall. Es erscheint eher unwahrscheinlich, dass solche Untersuchungen unbemerkt geblieben wären. Dabei kann unterstellt werden, dass die grundlegende Funktionsweise schon durch eine Handprobe hätte in Erfahrung gebracht werden können. Auch hierfür hätte das Probersystem außer Betrieb genommen und die drei Luftleitungen zwischen Chiller und Probertisch abgeklemmt werden müssen. Dass die Abnehmerin solche Eingriffe durch einen hierzu nicht befugten Dritten geduldet hätte, erscheint schon deshalb fernliegend, weil sie selbst kein erkennbares Interesse an solchen Handlungen hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(3) Es bestand auch keine hinreichende Wahrscheinlichkeit dafür, dass Mitarbeiter der Abnehmerin bis zum Prioritätstag des Streitpatents versuchen könnten, Erkenntnisse über die Funktionsweise des Kühlsystems zu gewinnen, oder dass sie dazu dritten Unternehmen, insbesondere Wettbewerbern der Beklagten, Zugriff auf die Anlage ermöglichen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(a) Nach den bereits erwähnten Feststellungen des Patentgerichts oblagen Installation, Wartung und Reparatur der Anlage allein der Lieferantin. Das Interesse der Abnehmerin an einer funktionsfähigen Maschine war damit gewahrt. Diese hatte keinen Anlass, diesbezügliche Überlegungen anzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(b) Dass die Abnehmerin selbst erfindungsgemäße Anlagen herstellen oder vertreiben wollte und daher daran interessiert gewesen sein könnte, zu erfahren, wie das Kühlsystem funktioniert, ist weder geltend gemacht noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>(c) Anhaltspunkte dafür, dass die Abnehmerin aus anderen Gründen ein Interesse daran hatte, genauere Kenntnisse über die Funktion des Kühlsystems zu erlangen, sind ebenfalls nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Als Umstand, der ein solches Interesse begründen könnte, kommt allenfalls die Aussicht in Betracht, dass ein Wettbewerber der Beklagten die Anlage nachbauen und der Abnehmerin zu einem günstigeren Preis anbieten könnte. Dass sich die Abnehmerin darauf eingelassen hätte, erscheint schon deshalb unwahrscheinlich, weil sie hierzu Eingriffe in die Substanz der Anlage und damit sichere finanzielle Nachteile hätte in Kauf nehmen müssen, im Gegenzug aber allenfalls eine vage Aussicht auf günstigere Bezugsmöglichkeiten erlangt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Um die Konstruktion des Chillers verlässlich nachzuvollziehen, reichte eine Handprobe nicht aus. Vielmehr musste zumindest der Isolierschaum entfernt werden, was eine Reparatur erforderlich gemacht hätte. Nach den Angaben des Zeugen H.  wäre eine solche Reparatur zwar grundsätzlich möglich, aber sehr aufwendig und wohl nur durch Mitarbeiter der Herstellerin machbar gewesen. Diesem mit Sicherheit zu erwartenden Aufwand stand allenfalls die Hoffnung gegenüber, ein Wettbewerber der Beklagten könnte eine vergleichbare Anlage zu einem geringeren Preis anbieten. Diese Aussicht erscheint zu vage, um die hinreichende Wahrscheinlichkeit einer Kenntnisnahme zu begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Dass die Abnehmerin einem Wettbewerber zumindest eine nicht mit irreversiblen Eingriffen verbundene Handprobe ermöglichen würde, erscheint ebenfalls nicht wahrscheinlich. Aufgrund einer solchen Untersuchung konnten allenfalls vage Erkenntnisse über den Aufbau des Wärmetauschers gewonnen werden. Dass die Abnehmerin am Erwerb einer Anlage interessiert war, deren Konstruktion auf solchen Erkenntnissen beruht, erscheint nicht lebensnah.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(4) Eher noch naheliegend erscheint die Möglichkeit, dass die Abnehmerin die Anlage nach dem Ende der Nutzungsdauer an ein drittes Unternehmen veräußert. Im Zeitraum zwischen der Lieferung der Anlage und dem Prioritätstag des Streitpatents war jedoch auch ein solcher Vorgang nicht zu erwarten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Nach den Angaben des Zeugen S.   hat die Abnehmerin vor dem Prioritätstag zwei Anlagen des in Rede stehenden Typs erworben, von denen eine circa sechs Jahre und die andere über zehn Jahre in Betrieb war. Vor diesem Hintergrund erscheint die Wahrscheinlichkeit, dass die Abnehmerin eine Anlage schon innerhalb von zwei Jahren nach Inbetriebnahme veräußern würde, zu gering, um die hinreichend konkrete Möglichkeit einer Kenntnisnahme vor dem Prioritätstag zu begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>(5) Die vom Patentgericht offengelassene Frage, ob die Anlage mit einer Betriebsanleitung geliefert wurde, aus der der prinzipielle Aufbau und die für einen ordnungsgemäßen Betrieb notwendige Luftführung erkennbar war, ist auch in der Berufungsinstanz nicht entscheidungserheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn einschlägige Informationen aus einer Betriebsanleitung oder dergleichen ersichtlich waren, könnte dies allenfalls dann zur Offenkundigkeit führen, wenn zu erwarten war, dass die Abnehmerin diese Erkenntnisse mit beliebigen Dritten teilt oder wenn sie diese Informationen tatsächlich in einer Weise weitergegeben hat, die eine beliebige Weiterverbreitung erwarten ließ. Ersteres erscheint vor dem oben aufgezeigten Hintergrund nicht wahrscheinlich. Für letzteres fehlt es an hinreichenden Anhaltspunkten. Auch insoweit waren bis zum Prioritätstag keine Änderungen zu erwarten, weil die Gewährleistungsfrist erst nach diesem Zeitpunkt ablief.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>c) Der Umstand, dass die Beklagte nach den Feststellungen des Patentgerichts Anlagen des gleichen Typs vor dem Prioritätstag an mindestens zwei weitere Unternehmen geliefert hat, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>aa) Mit solchen Lieferungen könnte der Gegenstand des Streitpatents zwar offenbart worden sein, wenn bei den betreffenden Kunden weitergehende Möglichkeiten der Kenntnisnahme oder Untersuchung der Anlage durch Dritte bestanden hätten. Konkrete Anhaltspunkte hierfür ergeben sich aber weder aus dem Vortrag der Parteien noch aus sonstigen Umständen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(1) So hat der für B.  tätige Zeuge W.  angegeben, er wisse nicht, wie das Aircool-Gerät genau funktioniere; seine Kollegen und er hätten nur überprüft, ob die vorgegebenen Spezifikationen eingehalten seien, und dem Zulieferer vertraut. Zwar werde ein neues Produkt früher oder später durch einen Verkauf an Dritte bekannt, aber nicht durch Kunden und Anwender, sondern durch die Herstellerfirma. Der ebenfalls für B.  tätige Zeuge Sch.   hat angegeben, dass die Anlage eine Lebensdauer von mindestens 10 bis 15 Jahren hatte. Nach Aussage beider Zeugen bestanden bei B.  strenge Geheimhaltungsvorkehrungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>(2) Bezüglich eines etwaigen Verkaufs an M.   gilt nichts Anderes. Der für das exklusive Vertriebsunternehmen tätige Zeuge Si. hat angegeben, er habe selbst nicht gewusst, wie der Chiller aufgebaut ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>bb) Vor diesem Hintergrund kann offenbleiben, ob die Beklagte erfindungsgemäße Anlagen vor dem Prioritätstag darüber hinaus an weitere Kunden geliefert hat. Auch insoweit fehlt es an Anhaltspunkten dafür, dass diese Abnehmer ein weitergehendes Interesse an Erwerb und Weitergabe von Informationen über den Aufbau des Chillers hatten. Bei dieser Ausgangslage kann entgegen der Auffassung der Klägerin auch nicht angenommen werden, dass die Wahrscheinlichkeit einer Kenntnisnahme schon aufgrund der größeren Zahl der Abnehmer die maßgebliche Schwelle überschritten hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>d) Der Umstand, dass die Beklagte Anlagen des gleichen Typs nach den Feststellungen des Patentgerichts einem unbeschränkten Kreis von Unternehmen zum Kauf angeboten hat, führt ebenfalls nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Durch Angebote wäre der Gegenstand des Streitpatents allerdings offenkundig geworden, wenn der erfindungsgemäße Aufbau aus dem Angebot selbst ersichtlich gewesen wäre. Anhaltspunkte dafür sind jedoch weder vorgetragen noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>IV. Die angefochtene Entscheidung stellt sich auch nicht aus anderen Gründen als im Ergebnis zutreffend dar (§ 119 Abs. 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>1. Der geschützte Gegenstand lag für den Fachmann ausgehend von der europäischen Offenlegungsschrift 341 156 (A7) nicht nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>a) A7 offenbart eine Vorrichtung zum Testen von Wafern für Halbleiterschaltkreise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Diese Vorrichtung kann ein Gehäuse 3 (<em>carter</em>) haben, das eine Auflage 2 (<em>plateau</em>) trägt (A7 Sp. 4 Z. 6-8). Die Anschlussleitungen für die Verbindungsleitungen im unteren Bereich der Auflage 2 verlaufen durch die Seitenwand dieses Gehäuses (A7 Sp. 6 Z. 17-26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="458px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Der Wafer wird durch Unterdruck auf der Auflage 2 gehalten. Dieser Unterdruck wird über Leitungen 10 durch eine Quelle mit Luft erzeugt, deren Druck unter Atmosphärendruck liegt, beispielsweise eine Vakuumpumpe 30 (A7 Sp. 6 Z. 44-47; Sp. 8 Z. 65 bis Sp. 9 Z. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Der Wafer wird temperiert, indem gekühltes oder erwärmtes Fluid durch Leitungen unter der Oberfläche 7 der Auflage strömt (A7 Sp. 6 Z. 61 bis Sp. 7 Z. 9). Dazu weist die Vorrichtung eine Versorgungseinheit (<em>unité de fourniture de fluide de réglage de température</em>) auf, die das Fluid auf die gewünschte Temperatur bringt (A7 Sp. 4 Z. 56-61). Diese Einheit verfügt über einen Kühlblock 32 (<em>bloc de réfrigération </em>bzw.<em> refroidisseur</em>) der das Fluid auf die minimale Funktionstemperatur der Prüfvorrichtung (zum Beispiel -65°C) herunterkühlt (A7 Sp. 4 Z. 61-64, Sp. 9 Z. 5-7), und über einen Wärmeblock 33 (<em>bloc de réchauffement </em>bzw.<em> dispositif de chauffage</em>), der es auf die gewünschte Temperatur (zum Beispiel zwischen -65°C und +210°C) erwärmt (A7 Sp. 4 Z. 64 bis Sp. 5 Z. 1, 4-5, Sp. 9 Z. 7-14). Das temperierte Fluid wird der Auflage 2 über den Einlass 11 zugeführt (A7 Sp. 9 Z. 14-16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="378px"
+                       src="bild3_2.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Entlang des gesamten Umfangs der Auflage 2 (<em>sur toute la périphérie du carter</em>) verläuft eine ringförmige Umfangskammer 16 (<em>chambre annulaire</em>, A7 Sp. 7 Z. 63 f.). Aus dieser strömt durch Auslasseinrichtungen 18, die auf Höhe der Auflage 2 enden und zu deren Mitte orientiert sind, trockenes Gas in Richtung der Auflage 2, um bei niedrigen beziehungsweise negativen Temperaturen das Kondensieren oder Vereisen von Feuchtigkeit auf der Oberfläche des Gegenstands zu verhindern (A7 Sp. 5 Z. 9-13, Sp. 8 Z. 13-18). Dazu ist die Vorrichtung vorteilhafterweise mit einer Versorgungseinheit für trockenes Gas ausgestattet (<em>unité de fourniture d'un gaz sec</em>, A7 Sp. 5 Z. 6-7, nachfolgend: Trockengaseinheit). Die Trockengaseinheit verfügt über einen Trockenblock (<em>bloc de séchage de gaz</em>) bzw. Trockner 31 (<em>sécheur d'air</em>) zum Trocknen des Gases (A7 Sp. 5 Z. 7-8, Sp. 9 Z. 4 f.). Dieses wird der Umfangskammer 16 über die Anschlussleitung 17 zugeführt (A7 Sp. 7 Z. 64 f., Sp. 9 Z. 19-21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Nach einer bevorzugten Ausführungsform weist die Vorrichtung einen Deckel bzw. eine Kappe 19 in Ringform auf (<em>couvercle annulaire</em> bzw. <em>capot</em>, A7 Sp. 4 Z. 17, Sp. 8 Z. 19). Die Kappe 19 deckt die Auflage 2 ab und ist in der Mitte offen (A7 Sp. 8 Z. 19 f.). Sie soll dazu beitragen, das Gas aus der Umfangskammer 16 Richtung Auflagefläche zu lenken (A7 Sp. 4 Z. 16-20, Sp. 8 Z. 20-22).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Um die Kondensationsfreiheit weiter zu verbessern, kann die Vorrichtung in mindestens einer äußeren Zone um die Auflage 2 herum bzw. in der Außenwand des Gehäuses 3 einen Wärmetauscher 20 (<em>échangeur thermique</em>) aufweisen, der von kaltem oder warmem Fluid durchströmt wird und Feuchtigkeit aus der Atmosphäre um die Auflage 2 bindet (A7 Sp. 4 Z. 30-37, Sp. 8 Z. 23-32).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Ferner wird es als vorteilhaft bezeichnet, wenn das Fluid zur Temperaturregelung dasselbe Gas ist wie dasjenige, das zum Enteisen verwendet wird (A7 Sp. 5 Z. 18-20), und wenn es vor Erreichen des Kühlblocks 32 den Trockenblock durchströmt (A7 Sp. 5 Z. 20-22). Der Ausgang der Leitung 11 ist dann vorzugsweise so am Trockner 31 oder an der Druckluftquelle angeschlossen, dass die thermischen Verluste reduziert werden (<em>la sortie 11 est de préférence raccordée au sécheur 31 ou à la source d'air sous pression de manière à reduire les pertes thermiques</em>, A7 Sp. 9 Z. 16-18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>b) Damit sind jedenfalls die Merkmale 1.1 und 1.3 sowie 5.1 und 5.3 bis 5.7 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>c) Nicht offenbart ist ein durch einen Behälter im Wesentlichen geschlossener Raum im Sinne der Merkmale 1.2 und 5.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Die fakultative Kappe 19 dient nach der Beschreibung von A7 der Überdeckung der Auflage; sie ist aber in der Mitte geöffnet (A7 Sp. 4 Z. 16-18) und daher nicht geeignet, zusammen mit dem Gehäuse 3 einen im Wesentlichen geschlossenen Raum zu bilden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Anders als die Klägerin meint, liest der Fachmann - bei dem es sich nach den unbeanstandeten Feststellungen des Patentgerichts um einen mit der Weiterentwicklung von Testanlagen für die Halbleiterproduktion erfahrenen Ingenieur der Fachrichtung Elektrotechnik oder um einen Physiker mit Fach-/Hochschulabschluss handelt, der im Rahmen seiner Berufstätigkeit Spezialkenntnisse im Aufbau und in der Konzeption von Wafertest-Anlagen nebst der zugehörigen Kühlanlagen erworben hat - einen nahezu geschlossenen Deckel bei der Lektüre von A7 auch nicht mit. Dagegen spricht schon, dass als einziges Mittel zur Überdeckung die Kappe 9 angeführt wird, die gerade nicht vollständig geschlossen sein soll. Unabhängig davon ist es für die Funktion der in A7 offenbarten Vorrichtung nicht erforderlich, einen Überdruck in einem jedenfalls nahezu geschlossenen Raum zu erzeugen. Das Kondensieren oder Gefrieren wird vielmehr dadurch verhindert, dass trockenes Gas über die Auslasseinrichtungen 18 auf die Auflage gelenkt wird und dort eine Art Schutzschicht bildet. Dazu kann die ringförmige Kappe 19 beitragen, indem sie die Strömungsrichtung des Gases günstig beeinflusst. Eines Überdrucks bedarf es hierzu nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht der Klägerin ergibt sich aus dem Umstand, dass die in A7 offenbarte Vorrichtung eine Vakuumpumpe 30 umfasst, keine andere Beurteilung. Wie bereits oben ausgeführt wurde, dient der durch diese Pumpe erzeugte Unterdruck dazu, den Prüfgegenstand auf der Auflagefläche zu halten. Dazu muss der Umgebungsdruck nicht über dem Atmosphärendruck liegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>d) A7 offenbart auch keinen Wärmetauscher mit den Merkmalen 1.7 bzw. 5.9 bis 5.10.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>aa) Der in der Beschreibung von A7 als optionales Mittel vorgeschlagene Wärmetauscher 20 verwirklicht diese Merkmale nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Dieser Wärmetauscher dient zwar ebenfalls dem Zweck, einer Kondensation entgegenzuwirken. Dies geschieht aber nicht dadurch, dass ein den Wärmetauscher verlassendes Fluid auf die Auflage geleitet wird, sondern dadurch, dass ein in ihm zirkulierendes Fluid die Feuchtigkeit aus der umgebenden Atmosphäre anzieht. Zudem geht aus A7 nicht hervor, dass das in dem Wärmetauscher zirkulierende Fluid zum Vorkühlen eines anderen Fluids eingesetzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>bb) Die Kühlvorrichtung 32 und die Heizvorrichtung 33 verwirklichen die genannten Merkmale ebenfalls nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Dabei kann mit dem Patentgericht davon ausgegangen werden, dass diese Vorrichtungen aus Sicht des Fachmanns einen Wärmetauscher aufweisen müssen, um die ihnen zugedachte Funktion zu erfüllen. In diesen Wärmetauschern wird jedoch nicht das aus dem Ausgang 11 austretende und zur Weiterleitung in den Eingang 17 bestimmte Fluid dazu genutzt, um ein anderes Fluid vorzukühlen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>cc) Die Ausführungen, es sei vorteilhaft, den Ausgang der Leitung 11 so am Trockner 31 oder an der Druckluftquelle anzuschließen, dass die thermischen Verluste reduziert werden, gaben dem Fachmann ebenfalls keinen unmittelbaren und eindeutigen Hinweis auf den Einsatz eines Wärmetauschers im Sinne des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht in seinem gemäß § 83 Abs. 1 PatG erteilten Hinweis zutreffend ausgeführt hat, findet zwar eine Temperaturangleichung und damit eine Vorkühlung statt, wenn das aus dem Ausgang 11 austretende Fluid und das aus der Gasquelle strömende Fluid gemeinsam in den Trockner 31 geleitet werden und das zurückströmende Fluid kühler ist als das neu zugeführte. Ob die Darstellung in Figur 5 in diesem Sinne zu verstehen ist, oder ob sie, wie die Beklagte geltend macht, dahin auszulegen ist, dass das vom Probertisch zurückgeführte Fluid im Bereich des Trockners kontrolliert in die Atmosphäre abgeleitet wird, lässt sich der Entgegenhaltung jedoch nicht eindeutig und unmittelbar entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Für den Fachmann war ersichtlich, dass ein Kreislauf, wie er der Darstellung in Figur 5 theoretisch entnommen werden könnte, mit den dargestellten Mitteln allein nicht bewirkt werden kann. Der Fachmann konnte die diesbezügliche Funktionsweise der in A7 offenbarten Vorrichtung mithin allenfalls unter Rückgriff auf sein Fachwissen in Erfahrung bringen. Damit fehlt es an einer eindeutigen und unmittelbaren Offenbarung einer Weiterleitung des aus dem Ausgang 11 austretenden Fluids in den Eingang 17 und damit einer Vermischung der beiden Fluidströme, die einen Austausch von Wärmeenergie ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>e) Eine solche Ausgestaltung war dem Fachmann ausgehend von A7 auch nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Angesichts der nicht vollständigen Offenbarung in A7 hatte der Fachmann allerdings Anlass, im Stand der Technik nach Möglichkeiten zu suchen, die nach Figur 5 in Betracht kommende Funktionsweise zu verwirklichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Ob hierzu, wie die Klägerin geltend macht, ein Wärmetauscher im Hinblick auf die auftretenden Druckverhältnisse technisch erforderlich oder zumindest zweckmäßig war, bedarf keiner Entscheidung. Selbst wenn dies entgegen der Auffassung des Patentgerichts zu bejahen wäre, hätte der Einsatz einer solchen Vorrichtung allein noch nicht zum Ziel geführt. Vielmehr wären zusätzliche Einrichtungen erforderlich gewesen, um den Luftstrom in die gewünschte Richtung zu lenken und aufrecht zu erhalten. Hinweise, wie dies zu bewerkstelligen sein könnte, ergaben sich weder aus A7 noch aus dem allgemeinen Fachwissen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen hatte der Fachmann keinen Anlass, der in A7 nur rudimentär angedeuteten Möglichkeit einer Rückführung der aus dem Ausgang der Leitung 11 austretenden Luft weiter nachzugehen und ergänzend einen Wärmetauscher einzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>2. Die übrigen Entgegenhaltungen liegen noch weiter ab und vermögen deshalb nicht zu einer abweichenden Beurteilung zu führen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>V. Eine Zurückverweisung der Sache an das Patentgericht kommt nicht in Betracht. Die Sache ist aus den oben dargelegten Gründen entscheidungsreif (§ 119 Abs. 5 Satz 2 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>VI. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 Satz 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301122020&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

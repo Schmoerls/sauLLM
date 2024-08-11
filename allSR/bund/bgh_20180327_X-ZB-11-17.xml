@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE622962018</doknr>
+   <ecli>ECLI:DE:BGH:2018:270318BXZB11.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180327</entsch-datum>
+   <aktenzeichen>X ZB 11/17</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 1 Abs 3 Nr 3 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 4. Mai 2016, Az: 17 W (pat) 46/16<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Prüfung einer Patentanmeldung im Beschwerdeverfahren: Differenzierung zwischen "Vorrichtung" und "Verfahren" im Rahmen des Patentierungsausschlusses</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Rechtsbeschwerde gegen den Beschluss des 17. Senats (Technischen Beschwerdesenats) des Bundespatentgerichts vom 4. Mai 2016 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>I. Die Anmelderin begehrt mit der Anmeldung 11 2011 100 329, die am 25. Januar 2011 unter Inanspruchnahme der Priorität von zwei US-Anmeldungen vom 25. Januar und 30. Juni 2010 eingereicht und in der Originalfassung als WO 2011/089450 veröffentlicht wurde, Schutz für Vorrichtungen, Verfahren und Systeme für eine Digitalkonversationsmanagementplattform. Nach dem zuletzt gestellten Hauptantrag soll Patentanspruch 1 wie folgt lauten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Eine Digitaldialogdatenstrukturanalyse-Vorrichtung zum Analysieren einer Konversation über ein Kommunikationsnetz, mit:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einer Identifikationseinrichtung zum Identifizieren eines individuellen Ziels für eine Konversation mit einer eindeutigen Datenkennung;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einer Erzeugungseinrichtung zum Erzeugen einer Konversationsdialogdatenstruktur zum Speichern von Konversationsdialogdaten aus einer Konversation zwischen einem individuellen Ziel und einer Dialogprozessorkomponente;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einer Erfassungseinrichtung zum Erfassen und Aufzeichnen eines ersten von dem individuellen Ziel empfangenen Dialogsegments als Teil der Konversationsdialogdatenstruktur;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einer Erwiderungseinrichtung zum Erwidern auf das erste Dialogsegment des individuellen Ziels mit zumindest einem darauffolgenden interaktiven Dialogsegment, das aus einer bestimmten gespeicherten Gruppe von interaktiven Dialogsegmenten ausgewählt ist, wobei das zumindest eine darauffolgende interaktive Dialogelement ein Unterabschnitt des Konversationsdialogs ist und wobei das zumindest eine darauffolgende interaktive Dialogsegment eine Abfrageantwort auf eine Eingabe des ersten Dialogsegments als Datenbankabfrage ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- wobei die Erfassungseinrichtung ausgestaltet ist zum Erfassen und Aufzeichnen eines zweiten Dialogsegments von dem individuellen Ziel als Teil der Konversationsdialogdatenstruktur, wobei das zweite Dialogelement ein Unterabschnitt der Konversationsdialogdatenstruktur ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei die Vorrichtung des Weiteren umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- eine Zuweisungseinrichtung zum Zuweisen eines Dialogdatenindex zu jedem darauffolgenden interaktiven Dialogsegment des interaktiven Dialogs; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- eine Hinzufügungseinrichtung zum Hinzufügen der zugewiesenen Dialogsegmentindizes zu der Konversationsdialogdatenstruktur;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- wobei die Vorrichtung ausgestaltet ist zum Bereitstellen der Konversationsdialogdatenstruktur mit den hinzugefügten Dialogelementindizes zum Austausch über das Kommunikationsnetz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Patentamt hat die Anmeldung zurückgewiesen. Die hiergegen eingelegte Beschwerde, mit der die Anmelderin ihr Begehren mit einem Hauptantrag und zwei Hilfsanträgen weiterverfolgt hat, ist erfolglos geblieben. Mit ihrer nicht zugelassenen Rechtsbeschwerde verfolgt die Anmelderin ihr Begehren aus der Beschwerdeinstanz weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>II. Das Rechtsmittel ist statthaft, weil der nicht an eine Zulassung gebundene Rechtsbeschwerdegrund des § 100 Abs. 3 Nr. 6 PatG geltend gemacht wird. Es ist aber unbegründet. Das Patentgericht hat den Anspruch der Anmelderin auf rechtliches Gehör (Art. 103 Abs. 1 GG) nicht verletzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Rechtsbeschwerde war das Patentgericht nicht gehalten, der Anmelderin durch zusätzliche Hinweise Gelegenheit zur Stellung weiterer Hilfsanträge zu geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>1. Das Gericht muss den Verfahrensbeteiligten nicht mitteilen, wie es den die Grundlage seiner Entscheidung bildenden Sachverhalt voraussichtlich würdigen wird. Es reicht in der Regel aus, wenn die Sach- und Rechtslage erörtert und den Beteiligten dadurch aufgezeigt wird, welche Gesichtspunkte für die Entscheidung voraussichtlich von Bedeutung sein werden. Ein Hinweis kann lediglich geboten sein, wenn für die Beteiligten auch bei sorgfältiger Prozessführung nicht vorhersehbar ist, auf welche Erwägungen das Gericht seine Entscheidung stützen wird (BGH, Beschluss vom 28. November 2012 - X ZB 6/11, GRUR 2013, 318 Rn. 10 - Sorbitol; Beschluss vom 26.08.2014 - X ZB 19/12, GRUR 2014, 1235 Rn. 11 - Kommunikationsrouter; Beschluss vom 15. April 2010 - Xa ZB 10/09, GRUR 2010, 950 Rn. 22 - Walzenformgebungsmaschine).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>2. Im Streitfall war das Patentgericht nicht gehalten, auf Bedenken im Zusammenhang mit § 1 Abs. 3 Nr. 3 und Abs. 4 PatG hinzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Bereits das Patentamt hat den Gegenstand der Anmeldung unter diesem rechtlichen Aspekt als nicht patentfähig angesehen, und zwar sowohl im Prüfbescheid und in den der Ladung zur Anhörung beigefügten Hinweisen als auch im mit der Beschwerde angefochtenen Zurückweisungsbeschluss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausgangslage musste die Anmelderin auch ohne Hinweis damit rechnen, dass das Patentgericht dieser rechtlichen Beurteilung beitreten könnte. Dies gab ihr Veranlassung, gegebenenfalls Hilfsanträge zu stellen, die diesem rechtlichen Gesichtspunkt Rechnung tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>3. Entgegen der Auffassung der Rechtsbeschwerde hat das Patentgericht in seinen mit der Ladung zur mündlichen Verhandlung erteilten Hinweisen keine von der Entscheidung des Patentamts abweichende Rechtsauffassung zum Ausdruck gebracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>a) Das Patentgericht hat in diesem Hinweis zwar auch auf andere Gesichtspunkte aufmerksam gemacht, die der Erteilung des Patents entgegenstehen könnten. Es hat aber unter der Rubrik "Patentierungsausschluss" mitgeteilt, eine genaue technische Realisierung, eine technische Problemstellung sowie die Angabe einer technischen Lösung seien nach vorläufiger Ansicht nicht zu erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Rechtsbeschwerde hat das Patentgericht damit nicht allein den für § 1 Abs. 1 PatG relevanten Gesichtspunkt der Technizität angesprochen. Schon aus der Überschrift "Patentierungsausschluss" ergab sich vielmehr, dass sich diese Ausführungen auf den vom Patentamt angeführten Ausschlusstatbestand des § 1 Abs. 3 Nr. 3 PatG bezogen und dass das Patentgericht nach vorläufiger Beurteilung davon ausging, dass die Anmeldung bereits an diesem Kriterium scheitern könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>b) Die vom Patentgericht damit geäußerte Einschätzung steht allerdings nicht vollständig in Einklang mit der Rechtsprechung des Senats.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat einen Patentierungsausschluss nach § 1 Abs. 3 Nr. 3 PatG nur für Verfahren erwogen, nicht aber für Vorrichtungen. Er hat in diesem Zusammenhang zwar ausgeführt, dass im Ergebnis kein Unterschied besteht, da auch bei der vorrichtungsmäßigen Einkleidung einer Lehre, die sich der elektronischen Datenverarbeitung bedient, deren Patentfähigkeit nur dann zu bejahen ist, sofern hierbei die Lösung eines konkreten technischen Problems mit Mitteln gelehrt wird, die neu sind, auf einer erfinderischen Tätigkeit beruhen und gewerblich anwendbar sind (BGH, Beschluss vom 19. Oktober 2004 - X ZB 34/03, GRUR 2005, 143, 144 - Rentabilitätsermittlung). Hieraus ergibt sich aber nicht, dass der Patentierungsausschluss auch für Vorrichtungen in Betracht kommt. Für Vorrichtungen kann sich eine vergleichbare Beurteilung vielmehr daraus ergeben, dass bei der Prüfung einer Erfindung auf erfinderische Tätigkeit nur diejenigen Anweisungen berücksichtigt werden dürfen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen (BGH, Urteil vom 26. Oktober 2010 - X ZR 47/07, GRUR 2011, 125 Rn. 31 - Wiedergabe topografischer Informationen; Urteil vom 25. August 2015 - X ZR 110/13, GRUR 2015, 1184 Rn. 18 - Entsperrbild).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall, in dem eine Vorrichtung beansprucht wird, hätte sich das Patentgericht folglich nicht mit der Erwägung begnügen dürfen, die beanspruchte Lehre enthalte keine Anweisungen, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen. Vielmehr hätte es sich - gegebenenfalls in aller gebotenen Kürze - mit der Frage befassen müssen, ob der beanspruchte Gegenstand auf erfinderischer Tätigkeit beruht, wenn alle Merkmale unberücksichtigt bleiben, die dieser Anforderung nicht genügen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Ausführungen zu dieser Frage finden sich nur in dem vom Patentgericht erteilten Hinweis, nicht aber im angefochtenen Beschluss. Dort hat das Patentgericht die oben aufgezeigte Rechtsprechung zur Patentfähigkeit von Vorrichtungen zwar zitiert. Dennoch hat es sich in der Folge mit dem Ausschlusstatbestand in § 1 Abs. 3 Nr. 3 PatG befasst, nicht aber mit der Frage, ob der Gegenstand der Anmeldung auf erfinderischer Tätigkeit beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>c) Hieraus ergibt sich indes keine Verletzung von Art. 103 Abs. 1 GG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Anmelderin musste dem vom Patentgericht erteilten Hinweis entnehmen, dass das Patentgericht den Tatbestand des § 1 Abs. 3 Nr. 3 PatG als erfüllt ansehen könnte. Unabhängig davon, ob diese Auffassung inhaltlich zutreffend war, hatte sie damit Gelegenheit und Veranlassung, gegebenenfalls weitere Hilfsanträge zu stellen, die diesen Bedenken Rechnung tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>4. Entgegen der Auffassung der Anmelderin brauchte das Patentgericht die Anmelderin nicht darauf hinzuweisen, dass der in der mündlichen Verhandlung gestellte Hilfsantrag 2 nicht zu einer abweichenden Beurteilung führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Wie bereits oben dargelegt wurde, ist ein Gericht nach Art. 103 Abs. 1 GG grundsätzlich nicht gehalten, den Verfahrensbeteiligten mitzuteilen, wie es den Sachverhalt voraussichtlich würdigen wird. Dies gilt auch dann, wenn ein Beteiligter auf einen Hinweis des Gerichts mit ergänzendem Vorbringen oder zusätzlichen Anträgen reagiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Ein erneuter Hinweis kann allerdings geboten sein, wenn das Gericht hinsichtlich einer entscheidungserheblichen Frage von einer zuvor geäußerten Beurteilung abweichen will (BGH, Beschluss vom 16. Juni 2011 - X ZB 3/10, GRUR 2011, 851 Rn. 11 ff. - Werkstück), wenn erkennbar ist, dass ein Beteiligter einen erteilten Hinweis falsch aufgenommen hat (BGH, Urteil vom 25. Juni 2002 - X ZR 83/00, NJW 2002, 3317, 3320), oder wenn der Beteiligte aufgrund des erteilten Hinweises davon ausgehen durfte, dass die darin geäußerten Bedenken durch sein ergänzendes Vorbringen ausgeräumt sind (BGH, Urteil vom 5. November 2003 - VIII ZR 380/02, NJW-RR 2004, 281, 282).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Keine dieser Voraussetzungen ist im Streitfall erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Mit ihrem zweiten Hilfsantrag hat die Anmelderin in Patentanspruch 1 zwei zusätzliche Merkmale eingefügt, aus denen sich nach ihrem im angefochtenen Beschluss wiedergegebenen Vorbringen ergeben soll, dass die beanspruchte Vorrichtung der Effizienzerhöhung von Dialogsystemen und damit einer Verringerung der Netzbelastung diene.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Hieraus ist zu entnehmen, dass die Anmelderin nicht verkannt hat, dass das Patentgericht ebenso wie das Patentamt den Ausschlusstatbestand des § 1 Abs. 3 Nr. 3 PatG als möglicherweise erfüllt angesehen hat. Die Anmelderin konnte und durfte nicht damit rechnen, dass das Patentgericht zu dem Ergebnis gelangen würde, die von diesem geäußerten Bedenken seien durch die zusätzlich vorgesehenen Merkmale ausgeräumt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>III. Eine Kostenentscheidung ist nicht veranlasst (vgl. § 18 Abs. 4 Satz 2 GebrMG, § 109 Abs. 1 Satz 1 PatG, § 22 Abs. 1 GKG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>IV. Eine mündliche Verhandlung erachtet der Senat nicht als erforderlich (§ 107 Abs. 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE622962018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

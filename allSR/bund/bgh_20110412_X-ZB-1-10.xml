@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE305352011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20110412</entsch-datum>
+   <aktenzeichen>X ZB 1/10</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 100 Abs 3 Nr 3 PatG, Art 103 Abs 1 GG</norm>
+   <vorinstanz>vorgehend BPatG München, 3. März 2010, Az: 20 W (pat) 339/05, Beschluss<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Einspruchsverfahren gegen eine Patenterteilung: Wahrung des Anspruchs auf rechtliches Gehör im Zusammenhang mit der Beurteilung der Patentfähigkeit - Modularer Fernseher</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Modularer Fernseher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Hält das Patentgericht den Gegenstand eines mit dem Einspruch angegriffenen Patents im Hinblick auf eine Entgegenhaltung für nahegelegt, die bereits im Erteilungsverfahren berücksichtigt worden ist und in der Einspruchsbegründung zwar angeführt, aber eher beiläufig behandelt wird, reicht es zur Wahrung des Anspruchs auf rechtliches Gehör grundsätzlich aus, wenn dem Patentinhaber in der mündlichen Verhandlung ein entsprechender Hinweis erteilt wird     .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Rechtsbeschwerde gegen den Beschluss des 20. Senats (Technischen Beschwerdesenats) des Bundespatentgerichts vom 3. März 2010 wird auf Kosten der Patentinhaberin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Beschwerdewert wird auf 50.000,00 Euro festgesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>I. Die Rechtsbeschwerdeführerin ist Inhaberin des deutschen Patents 197 57 493 (Streitpatents), das am 23. Dezember 1997 unter Inanspruchnahme der Priorität einer koreanischen Anmeldung vom 23. Dezember 1996 angemeldet worden ist. Das Streitpatent betrifft einen modularen Fernseher und ein Steuerungsverfahren dafür. Die Patentansprüche 1 und 2 lauten wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Modularer Fernseher, der umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einen Mikrocomputer (4; 20) zur Steuerung von Funktionskarten (12-19), die in dem modularen Fernseher angebracht sind, und zur Überprüfung, ob die Funktionskarten in Übereinstimmung mit abgespeicherten Modultypdaten angebracht sind,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einen Speicher (21), der mit dem Mikrocomputer verbunden ist, zum Speichern der Modultypdaten, welche den aktuell gewählten Modultyp kennzeichnen, und von Daten über funktionale Zustände des modularen Fernsehers und der darin enthaltenen Funktionskarten,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- einen I²C-BUS (22), der die Komponenten des Fernsehers miteinander verbindet</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- eine Verbindungseinheit (23), über die eine externe Steuerungsvorrichtung (24) an den I²C-BUS angeschlossen werden kann, wobei mittels der externen Steuerungsvorrichtung Modultypdaten, welche den aktuell gewählten Modultyp kennzeichnen, eingegeben und in dem Speicher abgespeichert werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Steuerungsverfahren für einen modularen Fernseher, das umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- Speichern von Modultypdaten, welche einen gewählten Modultyp kennzeichnen, an einer bestimmten Adresse in einem Speicher (21), wobei</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- diese Daten mittels einer externen Steuerungsvorrichtung (24), die mit einem I²C-BUS (22) des Fernsehers verbunden ist, eingegeben werden,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- Überprüfen, ob die in dem Fernseher angebrachten Funktionskarten (12-19) mit den gespeicherten Modultypdaten übereinstimmen, durch einen Mikroprozessor (4; 20) des Fernsehers,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- wenn im vorgenannten Schritt Übereinstimmung festgestellt wurde, Durchführung von vorgegebenen Steuerungsroutinen zur Steuerung der angebrachten Funktionskarten (12-19) durch den Mikroprozessor (4; 20)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die weiteren Patentansprüche sind auf Patentanspruch 2 zurückbezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Rechtsbeschwerdegegnerin hat gegen das Streitpatent Einspruch erhoben. Sie hat geltend gemacht, der Gegenstand des Streitpatents beruhe nicht auf erfinderischer Tätigkeit. Die Patentinhaberin hat das Schutzrecht in erster Linie in der erteilten Fassung und hilfsweise in geänderter Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent mit der angefochtenen Entscheidung widerrufen. Dagegen richtet sich die nicht zugelassene Rechtsbeschwerde der Patentinhaberin, der die Einsprechende entgegentritt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>II. Das form- und fristgerecht eingelegte Rechtsmittel ist statthaft, weil die Patentinhaberin einen Zulassungsgrund im Sinne von § 100 Abs. 3 Nr. 3 PatG geltend macht. Es ist jedoch unbegründet. Das Patentgericht hat den Anspruch der Patentinhaberin auf rechtliches Gehör nicht verletzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. Der Rechtsbeschwerdegrund des § 100 Abs. 3 Nr. 3 PatG trägt der Bedeutung des verfassungsrechtlich gewährleisteten Anspruchs auf rechtliches Gehör (Art. 103 Abs. 1 GG) für ein rechtsstaatliches Verfahren Rechnung, in dem jeder Verfahrensbeteiligte seine Rechte wirksam wahrnehmen kann. Dies setzt voraus, dass das Gericht das tatsächliche und rechtliche Vorbringen der Beteiligten zur Kenntnis nimmt und auf seine sachlich-rechtliche und verfahrensrechtliche Entscheidungserheblichkeit prüft und ferner keine Erkenntnisse verwertet, zu denen die Verfahrensbeteiligten sich nicht äußern konnten (BGH, Beschluss vom 27. Juni 2007 - X ZB 6/05, BGHZ 173, 47 Rn. 30 - Informationsübermittlungsverfahren II; Beschluss vom 22. September 2009 - Xa ZB 36/08, GRUR 2010, 87 Rn. 12 - Schwingungsdämpfer).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Unter dem zuletzt genannten Aspekt kommt eine Verletzung von Art. 103 Abs. 1 GG insbesondere dann in Betracht, wenn das Gericht bei seiner Entscheidung Tatsachen zu Grunde gelegt hat, zu denen ein Beteiligter nicht mehr Stellung nehmen konnte. Der Anspruch auf rechtliches Gehör gebietet allerdings nicht, dass das Patentgericht darauf hinweist, welchen Offenbarungsgehalt es einer in der mündlichen Verhandlung erörterten Veröffentlichung entnimmt. Art. 103 Abs. 1 GG ist jedoch verletzt, wenn das Patentgericht die Patentfähigkeit unter Berufung auf eine zum Stand der Technik gehörende Veröffentlichung verneint, die der Einsprechende nur beiläufig in Zusammenhang mit einem (neben der fehlenden Patentfähigkeit) zusätzlich geltend gemachten Widerrufsgrund erwähnt hat, ohne zuvor den Patentinhaber darauf hinzuweisen, dass diese Veröffentlichung der Patentfähigkeit entgegenstehen könnte (BGH, Beschluss vom 8. September 2009 - X ZB 35/08, GRUR 2009, 1192 Rn. 16 - Polyolefinfolie).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Im Streitfall ist das Patentgericht den sich daraus ergebenden Anforderungen gerecht geworden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Das Patentgericht war gehalten, die Patentinhaberin darauf hinzuweisen, dass der Gegenstand des Streitpatents durch die US-Patentschrift 5 274 455 nahegelegt sein könnte. Die Einsprechende hatte diese Entgegenhaltung zwar als Anlage D3 in das Verfahren eingeführt und auch im Zusammenhang mit dem Widerrufsgrund der fehlenden Patentfähigkeit erwähnt, ihre Argumentation aber im Wesentlichen auf andere Entgegenhaltungen gestützt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Dieser Hinweispflicht hat das Patentgericht genügt, indem es, wie beide Beteiligten übereinstimmend vortragen, zu Beginn der mündlichen Verhandlung über den Einspruch darauf hingewiesen hat, dass es gegenüber der Entgegenhaltung D3 keine erfinderische Tätigkeit sehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Rechtsbeschwerde war das Patentgericht nicht gehalten, einen Hinweis dieses Inhalts bereits vor der mündlichen Verhandlung zu erteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Ein in der mündlichen Verhandlung erteilter Hinweis ist zur Wahrung des Anspruchs auf rechtliches Gehör allerdings nicht ausreichend, wenn der Beteiligte keine angemessene Möglichkeit hat, im Rahmen der Verhandlung zu dem Hinweis Stellung zu nehmen. Hat das Gericht in solchen Konstellationen den Hinweis nicht bereits in angemessenem zeitlichem Abstand vor der mündlichen Verhandlung erteilt, ist es von Verfassungs wegen gehalten, die Verhandlung zu vertagen oder dem Beteiligten ein Schriftsatzrecht einzuräumen (BVerfG, Beschluss vom 18. August 2010 - 1 BvR 3268/07, LKV 2010, 468 Rn. 28 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Diese Voraussetzungen lagen im Streitfall indes nicht vor. Die Patentinhaberin hatte in der mündlichen Verhandlung auch ohne einen schon im Vorfeld erteilten Hinweis ausreichend Gelegenheit, zum Offenbarungsgehalt der Entgegenhaltung D3 und den sich daraus ergebenden Schlussfolgerungen für die Patentfähigkeit des Gegenstands des Streitpatents Stellung zu nehmen. Die genannte Entgegenhaltung wird in der Beschreibung des Streitpatents ausdrücklich erwähnt (Abs. 21) und ist ausweislich des Vermerks auf der ersten Seite der Streitpatentschrift im Erteilungsverfahren für die Beurteilung der Patentfähigkeit in Betracht gezogen worden. Auch die Einsprechende hat diese Veröffentlichung in ihrer Einspruchsbegründung als eine von vier Entgegenhaltungen aufgeführt. Vor diesem Hintergrund durfte das Patentgericht davon ausgehen, dass die Patentinhaberin in der mündlichen Verhandlung auch ohne vorherigen Hinweis zu dieser Entgegenhaltung Stellung nehmen kann. Besondere Umstände, die zu einer anderen Beurteilung führen könnten, sind nicht ersichtlich und werden auch von der Rechtsbeschwerde nicht geltend gemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>c) Ob die Einsprechende die Entgegenhaltung D3 zusammen mit der Einspruchsbegründung in Kopie zur Gerichtsakte gereicht hat und ob eine Abschrift davon an die Patentinhaberin übermittelt worden ist, bedarf keiner Aufklärung. Selbst wenn diese Entgegenhaltung anders als alle übrigen Veröffentlichungen, auf die die Einsprechende Bezug genommen hatte, nicht als Anlage eingereicht worden wäre, war die Patentinhaberin ohne weiteres in der Lage, auf diese Patentschrift zuzugreifen, sofern sie ihr nicht ohnehin noch aus dem Erteilungsverfahren zur Verfügung stand. Das Patentgericht brauchte sich vor diesem Hintergrund im Vorfeld der mündlichen Verhandlung nicht eigens zu vergewissern, ob der Patentinhaberin eine Kopie der Entgegenhaltung übermittelt worden war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>III. Die Kostenentscheidung beruht auf § 109 Abs. 1 Satz 2 PatG, die Festsetzung des Beschwerdewerts auf § 51 Abs. 1 GKG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>IV. Eine mündliche Verhandlung hat der Senat nicht für erforderlich gehalten (§ 107 Abs. 1 Halbsatz 2 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                        Keukenschrijver                                        Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                          Grabinski                                                       Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE305352011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

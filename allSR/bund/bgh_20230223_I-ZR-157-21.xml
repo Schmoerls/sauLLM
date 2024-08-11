@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300182023</doknr>
+   <ecli>ECLI:DE:BGH:2023:230223BIZR157.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230223</entsch-datum>
+   <aktenzeichen>I ZR 157/21</aktenzeichen>
+   <doktyp>EuGH-Vorlage</doktyp>
+   <norm>Art 1 Abs 1 EGRL 24/2009, Art 1 Abs 2 EGRL 24/2009, Art 1 Abs 3 EGRL 24/2009, Art 4 Abs 1 Buchst b EGRL 24/2009, § 69a Abs 1 UrhG, § 69a Abs 2 UrhG, § 69a Abs 3 UrhG, § 69c Nr 2 S 1 UrhG</norm>
+   <vorinstanz>vorgehend Hanseatisches Oberlandesgericht Hamburg, 7. Oktober 2021, Az: 5 U 23/12, Urteil<br/>vorgehend LG Hamburg, 24. Januar 2012, Az: 310 O 199/10, Beschluss<br/>vorgehend LG Hamburg, 24. Januar 2012, Az: 310 O 199/10, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Vorlagefragen an EuGH: Gegenstand und Umfang des Schutzes eines Computerprogramms durch Einsatz einer Software - Action Replay</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Action Replay</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 1 Abs. 1 bis 3, Art. 4 Buchst. b der Richtlinie 2009/24/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über den Rechtsschutz von Computerprogrammen (ABl. L 111 vom 5. Mai 2009, S. 16) folgende Fragen zur Vorabentscheidung vorgelegt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">1. Wird in den Schutzbereich eines Computerprogramms nach Art. 1 Abs. 1 bis 3 der Richtlinie 2009/24/EG eingegriffen, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet? </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">2. Liegt eine Umarbeitung im Sinne von Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG vor, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet? </p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I. Das Verfahren wird ausgesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II. Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 1 Abs. 1 bis 3, Art. 4 Buchst. b der Richtlinie 2009/24/EG des Europäischen Parlaments und des Rates vom 23. April 2009 über den Rechtsschutz von Computerprogrammen (ABl. L 111 vom 5. Mai 2009 S. 16) folgende Fragen zur Vorabentscheidung vorgelegt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Wird in den Schutzbereich eines Computerprogramms nach Art. 1 Abs. 1 bis 3 der Richtlinie 2009/24/EG eingegriffen, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Liegt eine Umarbeitung im Sinne von Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG vor, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet?</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>A. Die Klägerin vertreibt als exklusive Lizenznehmerin für ganz Europa PlayStation-Spielkonsolen, insbesondere die bis zum Jahr 2014 vertriebene PlayStationPortable (PSP), sowie Spiele für diese Konsolen (im Folgenden: Spiele, Software oder Computerprogramm der Klägerin), darunter das Spiel "Motorstorm Arctic Edge". Die Beklagten zu 1 und 2 gehören zur Unternehmensgruppe der D.  H.    G.  , die Software entwickelt, produziert und vertreibt, insbesondere Ergänzungsprodukte zu den Spielkonsolen der Klägerin, darunter die Software "Action Replay PSP" sowie unter dem Namen "Tilt FX" ein zusätzliches Eingabegerät für die Spielkonsole PlayStationPortable nebst Software. Das Gerät "Tilt FX" ermöglicht die Steuerung der Spielkonsole durch Bewegung im Raum. Die Beklagte zu 1 hat die Software "Action Replay PSP" und "Tilt FX" entwickelt. Die Beklagte zu 2 hat diese Software vertrieben. Der Beklagte zu 3 ist Director der Beklagten zu 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Softwareprodukte der Beklagten funktionieren ausschließlich mit den Originalspielen der Klägerin. Die Ausführung der Software der Beklagten erfolgt dergestalt, dass die PSP mit einem PC verbunden und in die PSP ein Memory Stick eingelegt und mit der Software der Beklagten beschrieben wird. Nach dem Neustart der PSP kann der Nutzer auf der Spielkonsole einen zusätzlichen Menüpunkt "Action Replay" aufrufen, über den Veränderungen an den einzelnen Spielen der Klägerin vorgenommen werden können. Darunter sind beispielsweise beim Spiel "Motorstorm Arctic Edge" die Optionen "Infinite Turbo" und "All Drivers available", die dazu führen, dass künftige Beschränkungen beim Einsatz des "Turbos" ("Booster") entfallen oder nicht lediglich ein Teil der Fahrer verfügbar ist, sondern auch schon der Teil, der ansonsten erst beim Erreichen bestimmter Punktzahlen freigeschaltet werden würde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit der Software "Tilt FX" erhält der Besteller einen Sensor, der an den Headset-Anschluss der PSP angeschlossen wird und die Steuerung der PSP durch Bewegungen der Spielkonsole im Raum ermöglicht. Zur Vorbereitung des Einsatzes des Bewegungssensors ist ebenfalls ein Memory Stick in die PSP einzustecken, wodurch ein zusätzlicher Menüpunkt "Tilt FX" mit einer Auswahlliste von Spielen verfügbar wird. Auch hier ermöglicht das angegriffene Produkt, dass während des laufenden Spiels durch eine Tastenkombination ein zusätzliches Menü aufgerufen werden kann, das nicht im Originalspiel vorgesehen ist. Wird dort die Option "FX" gewählt, entfallen bestimmte Beschränkungen. So kann beispielsweise beim Spiel "Motorstorm Arctic Edge" der Turbo unbegrenzt eingesetzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, dass die Nutzer mittels der beanstandeten Softwareprodukte der Beklagten in urheberrechtlich unzulässiger Weise die ihren Spielen zugrundeliegende Software umarbeiteten. Hierfür seien die Beklagten verantwortlich. Hilfsweise macht die Klägerin wettbewerbsrechtlich begründete Ansprüche geltend und stützt sich weiter hilfsweise auf Deliktsrecht unter dem Gesichtspunkt des Eingriffs in ihren eingerichteten und ausgeübten Gewerbebetrieb.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat in erster Instanz zuletzt beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">I. die Beklagten unter Androhung von Ordnungsmitteln zu verurteilen, es zu unterlassen, in der Bundesrepublik Deutschland</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a. die Software Action Replay PSP, die geeignet ist, auf den Hardwarevarianten PSP 1000, PSP 2000, PSP 3000 und PSP Go eingesetzt zu werden, anzubieten, zu verkaufen, zu verbreiten und/oder anbieten, verkaufen oder verbreiten zu lassen, mit deren Hilfe der Anwender einen Eingriff in auf der Spielkonsole PlayStationPortable ablaufende Spiele vornehmen kann, der es ermöglicht oder erleichtert, dass die Spiele unter Veränderung der Spielesoftware umgearbeitet werden können,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b. die zu einem Bewegungssensor zugehörige Software Tilt FX, die geeignet ist, auf den Hardwarevarianten PSP 1000, PSP 2000 und PSP 3000 eingesetzt zu werden, anzubieten, zu verkaufen, zu verbreiten und/oder anbieten, verkaufen oder verbreiten zu lassen, mit deren Hilfe der Anwender einen Eingriff in auf der Spielkonsole PlayStationPortable ablaufende Spiele vornehmen kann, der es ermöglicht oder erleichtert, dass die Spiele unter Veränderung der Spielesoftware umgearbeitet werden können,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c. sowie eine Software wie in a. und b. beschrieben und/oder Lizenzen und/oder Updates für eine solche Software zum Download anzubieten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">II. die Beklagten zu verurteilen, der Klägerin unter Angabe des Namens und der Anschrift der Hersteller, der Lieferanten und anderer Vorbesitzer, der gewerblichen Abnehmer und Auftraggeber sowie der Menge und Preise der hergestellten, ausgelieferten, erhaltenen und bestellten Waren und Vorlage entsprechender Belege (Angebote, Rechnungen, Lieferscheine und Zollpapiere) in einem chronologisch geordneten Verzeichnis Auskunft über die Herkunft und den Vertriebsweg der nach Deutschland vertriebenen Produkte gemäß Ziffer I. zu erteilen, und zwar ab Januar 2008;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">III. festzustellen, dass die Beklagten gesamtschuldnerisch verpflichtet sind, der Klägerin allen Schaden zu ersetzen, der ihr daraus entstanden ist und noch entsteht, dass die Beklagten die in Ziffer I. beschriebenen Handlungen begehen und bereits begingen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Hilfsweise hat die Klägerin bezüglich der Beklagten zu 1 beantragt, dieser zu verbieten, die im Hauptantrag zu I genannten Handlungen zu unterstützen. Weiter hilfsweise sollen die Beklagten verurteilt werden, die Ermöglichung oder Erleichterung der Umgehung von Kopierschutzmaßnahmen der Spielkonsole zu unterlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht (LG Hamburg, Urteil vom 24. Januar 2012 - 310 O 199/10, juris) hat die Beklagten zu 2 und 3 nach den Hauptanträgen verurteilt, die Beklagte zu 1 lediglich zur Unterlassung gemäß dem ersten Hilfsantrag. Im Übrigen hat es die Klage abgewiesen. Beide Parteien haben gegen das Urteil Berufung eingelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Im Berufungsverfahren hat die Klägerin ihre Klageanträge zu I. und zu III. bezüglich der Beklagten zu 2 und zu 3 weiterverfolgt und darüber hinaus beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">I. die Beklagte zu 1 unter Androhung von Ordnungsmitteln zu verurteilen, es zu unterlassen, in der Bundesrepublik Deutschland</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die Software Action Replay PSP, die geeignet ist, auf den Hardwarevarianten PSP 1000, 2000, 3000 und PSP GO eingesetzt zu werden, sowie die zu einem Bewegungssensor gehörige Software TiltFX anzubieten, zu verkaufen oder zu verbreiten, mit deren Hilfe der Anwender einen Eingriff in auf der Spielkonsole PlayStationPortable ablaufende Spiele vornehmen kann, der es ermöglicht oder erleichtert, dass die Spiele unter Veränderung der Spielesoftware umgearbeitet werden können, oder Updates für solche Software zum Download anzubieten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">II. die Beklagten zu 1, zu 2 und zu 3 zu verurteilen, der Klägerin Auskunft zu erteilen darüber, in welchem Umfang sie die zu Ziffer I bezeichneten Handlungen begangen haben, und zwar durch Vorlage eines Verzeichnisses, aus dem sich ergeben:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Namen und Anschrift der Hersteller, der Lieferanten und anderer Vorbesitzer,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Liefermengen, Typenbezeichnungen, Artikelnummern, Lieferzeiten und Lieferpreise,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) die Gestehungskosten einschließlich aller Kostenfaktoren sowie der erzielte Gewinn,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) die einzelnen Angebote unter Nennung der Angebotsmengen, Typenbezeichnungen, Artikelnummern, Angebotszeiten und Angebotspreise,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) Art und Umfang der betriebenen Werbung, gegliedert nach Werbeträger, Auflagenzahl, Erscheinungszeit und Verbreitungsgebiet sowie</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">f) Namen und Anschriften der gewerblichen Abnehmer und gewerblichen Adressaten von Angeboten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">III. festzustellen, dass die Beklagte zu 1 gesamtschuldnerisch mit den Beklagten zu 2 und zu 3 verpflichtet ist, der Klägerin allen Schaden zu ersetzen, der ihr daraus entstanden ist und noch entstehen wird, dass die Beklagte zu 1 die in Ziffer I. beschriebenen Handlungen begeht und bereits beging.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht (OLG Hamburg, GRUR 2022, 483) hat die Berufung der Klägerin zurückgewiesen sowie auf die Berufung der Beklagten das Urteil des Landgerichts abgeändert und die Klage insgesamt abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Beklagte beantragt, verfolgt die Klägerin ihre in der Berufungsinstanz gestellten Klageanträge weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>B. Der Erfolg der Revision hängt von der Auslegung der Art. 1 Abs. 1 bis 3, Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG über den Rechtsschutz von Computerprogrammen ab. Vor einer Entscheidung über die Revision der Klägerin ist deshalb das Verfahren auszusetzen und gemäß Art. 267 Abs. 1 Buchst. b und Abs. 3 AEUV eine Vorabentscheidung des Gerichtshofs der Europäischen Union einzuholen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat die auf die Verletzung des Urheberrechts gestützte Klage für zulässig, aber unbegründet erachtet. Dazu hat es im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der Klägerin stünden die geltend gemachten Unterlassungsansprüche gemäß § 97 Abs. 1 Satz 1, § 69c Nr. 2 UrhG nicht zu. Die Anwendung der Software der Beklagten führe nicht zu einer Umarbeitung der den Originalspielen der Klägerin zugrundeliegenden Computerprogramme. Zwar erfüllten die Spiele der Klägerin die Voraussetzungen eines Computerprogramms gemäß § 69a UrhG. Der Gegenstand des urheberrechtlichen Schutzes eines Computerprogramms gemäß §§ 69a und 69c UrhG seien jedoch die Programmdaten des Objekt- und Quellcodes sowie die innere Struktur und Organisation des Computerprogramms, nicht dagegen sein programmgemäßer Ablauf. Die Software der Beklagten nehme weder eine Veränderung der Programme selbst noch der in den Arbeitsspeicher der PSP hochgeladenen Programmkopien vor, sondern ihre parallelen Befehle veränderten nur die vom Computerspiel im Arbeitsspeicher abgelegten variablen Daten und bewirkten so die Veränderung des Spielergebnisses. Die ursprünglichen Befehle des geschützten Computerspiels blieben jederzeit aktiv und ihre innere Struktur durchgehend unangetastet. Die von der Klägerin vertretene funktionale Betrachtungsweise, wonach unabhängig von der Einwirkung auf den Programmcode oder seiner abgeänderten Vervielfältigung auch dann von einer Umarbeitung auszugehen sei, wenn auf andere Art und Weise in den Programmablauf eingegriffen werde, lasse sich mit dem Schutzgegenstand eines Computerprogramms nach § 69a UrhG nicht vereinbaren. Der programmgemäße Ablauf eines Computerprogramms sei nicht Teil des urheberrechtlichen Schutzes und daher nicht vom ausschließlichen Recht der Umarbeitung gemäß § 69c Nr. 2 UrhG erfasst. Der Urheber eines Computerprogramms habe keinen aus §§ 69a, 69c UrhG ableitbaren Anspruch darauf, dass sein Programm nur in einer Weise genutzt wird, wie er es ursprünglich im chronologischen Ablauf vorgesehen habe, solange das Spiel - wie im Streitfall - auch bei Einwirkung durch Dritte programmgemäß ablaufe und die einzelnen Spielsituationen von der Spielesoftware selbst vorgesehen seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>II. Der Erfolg der Revision hängt im Hinblick auf die Hauptanträge der Klägerin davon ab, ob der Einsatz der Software der Beklagten das von der Klägerin geltend gemachte ausschließliche Recht zur Umarbeitung eines Computerprogramms gemäß § 69c Nr. 2 UrhG verletzt. Bei der Anwendung dieser Bestimmung stellen sich Fragen zur Auslegung von Art. 1 Abs. 1 bis 3, Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG. Diese Fragen sind entscheidungserheblich, weil die Klageanträge nicht bereits aus anderen Gründen unzulässig, begründet oder unbegründet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>1. Im Streitfall stellen sich Fragen zum Gegenstand (Umfang) des Schutzes eines Computerprogramms (Art. 1 Abs. 1 bis 3 der Richtlinie 2009/24/EG) sowie zum Begriff der Umarbeitung eines Computerprogramms (Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin beanstandet eine Verletzung des von ihr geltend gemachten ausschließlichen Rechts zur Umarbeitung des Computerprogramms gemäß § 69c Nr. 2 UrhG. Gemäß § 69c Nr. 2 Satz 1 UrhG hat der Rechtsinhaber das ausschließliche Recht, die Übersetzung, die Bearbeitung, das Arrangement und andere Umarbeitungen eines Computerprogramms sowie die Vervielfältigung der erzielten Ergebnisse vorzunehmen oder zu gestatten. Der Begriff des Computerprogramms ist in § 69a Abs. 1 UrhG näher bestimmt. Danach sind Computerprogramme im Sinne des Urheberrechtsgesetzes Programme in jeder Gestalt, einschließlich des Entwurfsmaterials. Der gewährte Schutz gilt gemäß § 69a Abs. 2 Satz 1 UrhG für alle Ausdrucksformen eines Computerprogramms. Ideen und Grundsätze, die einem Element eines Computerprogramms zugrunde liegen, einschließlich der den Schnittstellen zugrundeliegenden Ideen und Grundsätze, sind gemäß § 69a Abs. 2 Satz 2 UrhG nicht geschützt. § 69a Abs. 1 und 2 UrhG dient der Umsetzung von Art. 1 Abs. 1 und 2 der Richtlinie 2009/24/EG; § 69c Nr. 2 UrhG setzt Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG in deutsches Recht um. Beide Vorschriften des Urheberrechtsgesetzes sind mithin mit Blick auf die genannten Richtlinienbestimmungen unionsrechtskonform auszulegen. Dabei stellen sich zwei Auslegungsfragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>2. Zunächst stellt sich die Frage, ob durch die von der Klägerin beanstandete Anwendung der Software der Beklagten in den Schutzbereich des Computerprogramms eingegriffen wird. Es ist zweifelhaft, ob Art. 1 Abs. 1 und 2 der Richtlinie 2009/24/EG dahin auszulegen ist, dass in den Schutzbereich eines Computerprogramms nach Art. 1 Abs. 1 bis 3 der Richtlinie 2009/24/EG eingegriffen wird, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet (Vorlagefrage 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>a) Nach den von der Revision nicht angegriffenen Feststellungen des Berufungsgerichts entfalten die Softwareprodukte der Beklagten ihre Wirkung, indem sie das Laden des Programms in den Arbeitsspeicher unangetastet lassen, aber das Ablaufenlassen der Programme durch Veränderung von - dem Spiel grundsätzlich bekannten - Variablen beeinflussen. Es werden nicht die Befehle im Arbeitsspeicher selbst, sondern nur die (variablen) Daten verändert, die die Spielesoftware bei ihrer Ausführung im Arbeitsspeicher ablegt. Auf die Programmbefehle der Spielesoftware der Klägerin wirken die Softwareprodukte der Beklagten nicht ein. Diese bleiben jederzeit aktiv und ihre innere Struktur durchgehend unangetastet. Lediglich die aus dem laufenden Spiel generierten Daten im Arbeitsspeicher werden verändert. Dies hat zur Folge, dass die Befehle des Spiels auf Grundlage anderer Werte ausgeführt werden als sie bei regulärer Ausführung des Spiels zu diesem Zeitpunkt entstanden wären. Die Werte selbst sind indessen dem Spiel bekannt. Auch unter Einsatz der Software der Beklagten laufen die Spiele also stets wie programmiert ab. Bestimmte im Spiel erzeugte Daten (z.B. der Verbrauch des Turbo) werden jedoch im Arbeitsspeicher durch die Softwareprodukte der Beklagten mit Werten, die auch das Spiels selbst kennt und interpretieren kann, überschrieben. Dem Programm wird damit ein Zustand vorgespiegelt, der im regulären Spielbetrieb zwar eintreten kann und damit programmimmanent ist, allerdings eben nicht bei dem jeweiligen Spielstand eintreten würde. Beispielsweise fügt die Software der Beklagten dem Spiel keinen Befehl hinzu, der eine "Kollision mit einer Bande" bewirkt, sondern beeinflusst lediglich den Zeitpunkt und die Häufigkeit, mit der das Spiel diesen auch ursprünglich vom Programm umfassten Befehl ausführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Kennzeichnend für die Wirkungsweise der Software der Beklagten ist mithin, dass diese vom Nutzer parallel zu den Computerspielen der Klägerin auf der Spielkonsole installiert wird und gleichzeitig mit der Spielesoftware abläuft. Dabei verändert sie weder die Programmdaten des Objekt- und Quellcodes noch die innere Struktur und Organisation der auf der PSP eingesetzten Software der Klägerin. Die Software der Beklagten verändert vielmehr durch das Zutun des Nutzers während des Ablaufs des Spiels den Inhalt von Variablen, die die Computerspiele der Klägerin im Arbeitsspeicher der Spielkonsole angelegt haben und die sie in ihrem Ablauf verwenden. Dadurch wird bewirkt, dass die Computerspiele der Klägerin auf Basis dieses veränderten Inhalts der Variablen ablaufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Maßgeblich ist daher im Streitfall, ob der Inhalt von Variablen, die durch das Computerprogramm im Arbeitsspeicher der Spielkonsole angelegt und verwendet werden, noch zum Schutzbereich des Rechts am Computerprogramm gehört. Hierbei ist zu berücksichtigen, dass die jeweilige Kategorie der Variablen von der Spielesoftware der Klägerin durchaus vorgesehen ist, und nur der Inhalt der Variablen durch den Eingriff der Software der Beklagten während des Spiels verändert wird, wodurch sich etwa der Zeitpunkt oder die Häufigkeit der vom Wert der Variablen abhängigen Ausführung eines Befehls ändert. Vor diesem Hintergrund hat die Klägerin eine etwaig abgeänderte Vervielfältigung des Computerprogramms im Arbeitsspeicher der PSP nicht zum Streitgegenstand gemacht, sondern allein das Ablegen von variablen Daten im Arbeitsspeicher unter dem Gesichtspunkt einer unzulässigen Umarbeitung angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Ob allein durch eine solche Beeinflussung der während des Spiels generierten variablen Daten im Arbeitsspeicher in ein Computerprogramm im urheberrechtlichen Sinne eingegriffen wird, ist nicht zweifelsfrei zu beantworten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Gemäß Art. 1 Abs. 1 Satz 1 der Richtlinie 2009/24/EG (vgl. § 69a Abs. 4 UrhG) schützen die Mitgliedstaaten Computerprogramme urheberrechtlich als literarische Werke im Sinne der Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst (RBÜ). Nach Art. 1 Abs. 1 Satz 2 der Richtlinie 2009/24/EG und § 69a Abs. 1 UrhG umfasst der Begriff "Computerprogramm" auch das Entwurfsmaterial zu ihrer Vorbereitung. Der gewährte Schutz gilt gemäß Art. 1 Abs. 2 Satz 1 der Richtlinie 2009/24/EG und § 69a Abs. 2 Satz 1 UrhG für alle Ausdrucksformen eines Computerprogramms. Nach Art. 1 Abs. 2 Satz 2 der Richtlinie 2009/24/EG und § 69a Abs. 2 Satz 2 UrhG sind Ideen und Grundsätze, die einem Element eines Computerprogramms zugrunde liegen, einschließlich der den Schnittstellen zugrundeliegenden Ideen und Grundsätze, nicht urheberrechtlich geschützt. Nach Art. 1 Abs. 3 Satz 1 der Richtlinie 2009/24/EG und § 69a Abs. 3 Satz 1 UrhG werden Computerprogramme geschützt, wenn sie individuelle Werke in dem Sinne darstellen, dass sie das Ergebnis der eigenen geistigen Schöpfung ihres Urhebers sind. Zur Bestimmung ihrer Schutzfähigkeit sind nach Art. 1 Abs. 3 Satz 2 der Richtlinie 2009/24/EG und § 69a Abs. 3 Satz 2 UrhG keine anderen Kriterien anzuwenden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die Richtlinie 2009/24/EG definiert den Begriff "alle Ausdrucksformen von Computerprogrammen" im Sinne von Art. 1 Abs. 2 Satz 1 der Richtlinie nicht. Nach der Rechtsprechung des Gerichtshofs der Europäischen Union ist dieser Begriff daher im Hinblick auf den Wortlaut des Art. 1 Abs. 2 der Richtlinie 2009/24/EG sowie im Lichte der Ziele der Richtlinie und des Völkerrechts zu definieren (zur Vorgängerbestimmung des Art. 1 Abs. 2 der Richtlinie 91/250/EWG über den Rechtsschutz von Computerprogrammen vgl. EuGH, Urteil vom 22. Dezember 2010 - C-393/09, Slg. 2010, I-13990 [juris Rn. 30] = GRUR 2011, 220 - Bezpečnostní softwarová asociace [BSA/Kulturministerium]). Neben dem Wortlaut und den verfolgten Zielen können bei der Auslegung einer Vorschrift des Unionsrechts zudem der Regelungszusammenhang und die Entstehungsgeschichte der Bestimmung relevante Anhaltspunkte für ihre Auslegung liefern (st. Rspr.; vgl. EuGH, Urteil vom 13. Oktober 2022 - C-355/21, GRUR 2022, 1672 [juris Rn. 39] - Perfumesco.pl, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Sowohl der Wortlaut der in der Richtlinie 2009/24/EG getroffenen Regelungen als auch ein Blick auf den Regelungszusammenhang und die Entstehungsgeschichte dürften für eine Auslegung des Begriffs des Computerprogramms sprechen, die sich am Quellcode und Objektcode als Ausdrucksform des vom Programmentwickler (Urheber) geschaffenen eigenpersönlichen Werks orientiert und daher eine bloße Beeinflussung der während eines Spiels generierten variablen Daten im Arbeitsspeicher des Computers nicht erfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(1) Nach dem Wortlaut von Art. 1 Abs. 1 Satz 1 der Richtlinie 2009/24/EG sind Computerprogramme urheberrechtlich als literarische Werke im Sinne der RBÜ zu schützen. In diesem Zusammenhang ist zu berücksichtigen, dass ein Computerprogramm ursprünglich in Form eines "Quellcodes" in einer für den Menschen verständlichen Programmiersprache abgefasst ist, bevor es mittels eines als "Compiler" bezeichneten speziellen Programms im Wege der Kompilierung in eine für den Computer ausführbare Form, das heißt den "Objektcode", umgewandelt wird (vgl. EuGH, Urteil vom 6. Oktober 2021 - C-13/20, GRUR 2021, 1508 [juris Rn. 35] = WRP 2021, 1537 - Top System). Art. 10 Abs. 1 des TRIPS-Übereinkommens bestimmt, dass Computerprogramme, gleichviel, ob sie in Quellcode oder Objektcode ausgedrückt sind, als Werke der Literatur nach der RBÜ geschützt werden. Daraus ergibt sich, dass der Quellcode und der Objektcode eines Computerprogramms dessen Ausdrucksformen sind und folglich unter den urheberrechtlichen Schutz für Computerprogramme fallen. Der durch die Richtlinie 2009/24/EG geschaffene Schutzgegenstand bezieht sich auf alle Ausdrucksformen, die es erlauben, das Computerprogramm in den verschiedenen Datenverarbeitungssprachen, wie Quellcode und Objektcode, zu vervielfältigen (EuGH, GRUR 2011, 220 [juris Rn. 33 bis 35] - Bezpečnostní softwarová asociace [BSA/Kulturministerium]; EuGH, GRUR 2021, 1508 [juris Rn. 36] - Top System). Für dieses Verständnis spricht auch Erwägungsgrund 15 der Richtlinie 2009/24/EG, nach dem die nicht erlaubte Vervielfältigung, Übersetzung, Bearbeitung oder Änderung der "Codeform" einer Kopie eines Computerprogramms eine Verletzung der Rechte des Urhebers darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(2) Der Entstehungsgeschichte der unionsrechtlichen Bestimmungen zum urheberrechtlichen Schutz von Computerprogrammen dürfte ebenfalls ein grundsätzlich an der Verkörperung des Programmierergebnisses orientiertes Verständnis zu entnehmen sein. So ist die Europäische Kommission im Rahmen der Vorbereitungen zur Richtlinie 91/250/EWG, an deren Stelle die Richtlinie 2009/24/EG getreten ist, davon ausgegangen, dass unter einem Computerprogramm eine Folge von Befehlen verstanden werden soll, deren Zweck es ist, eine bestimmte Funktion oder Aufgabe auszuführen (Vorschlag der Kommission für eine Richtlinie über den Rechtsschutz von Computerprogrammen, KOM (88) 816 final, ABl. EG C 91/4, S. 5 und 9; vgl. auch die Entscheidung der Europäischen Kommission vom 24. März 2004 - COMP/C-3/37.792 - C(2004)900 final Rn. 21 - Microsoft). Dem entspricht § 1 Abs. 1 der Mustervorschriften der Weltorganisation für geistiges Eigentum (WIPO) für den Schutz von Computersoftware (abgedruckt in GRUR Int. 1978, 286). Danach ist ein Computerprogramm eine Folge von Befehlen, die nach Aufnahme in einen maschinenlesbaren Träger fähig sind zu bewirken, dass eine Maschine mit informationsverarbeitenden Fähigkeiten eine bestimmte Funktion oder Aufgabe oder ein bestimmtes Ergebnis anzeigt, ausführt oder erzielt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(3) Geht man von diesen Grundsätzen aus, ist im Streitfall nicht in den Schutzbereich des Art. 1 der Richtlinie 2009/24/EG eingegriffen worden. Zwar hat das Berufungsgericht von den Parteien unbeanstandet festgestellt, dass die von der Klägerin in der PSP eingesetzte Software die Voraussetzungen eines Computerprogramms erfüllt. Allerdings verändert die Software der Beklagten nach den vom Berufungsgericht getroffenen Feststellungen weder die Programmdaten des Objekt- und Quellcodes noch die innere Struktur und Organisation der Spielesoftware oder der Betriebssystemsoftware der von der Klägerin vertriebenen Spiele.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(4) Die Revision ist dagegen der Ansicht, sowohl der Wortlaut als auch die Entstehungsgeschichte der Richtlinie 2009/24/EG sprächen für die Einbeziehung der in den Arbeitsspeicher geladenen Inhalte der in Rede stehenden Variablen in den Schutzbereich des Computerprogramms im Sinne von Art. 1 der Richtlinie 2009/24/EG. Es ist zweifelhaft, ob dem zugestimmt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(a) Die Revision macht geltend, aus der in § 1 Abs. 1 der Mustervorschriften der WIPO niedergelegten Definition des Computerprogramms als eine Folge von Befehlen, die nach Aufnahme in einen maschinenlesbaren Träger fähig sind zu bewirken, dass eine Maschine mit informationsverarbeitenden Fähigkeiten eine bestimmte Funktion oder Aufgabe oder ein bestimmtes Ergebnis anzeigt, ausführt oder erzielt, ergebe sich, dass es auf eine Finalität der steuernden Programmstrukturen ankomme. Deshalb seien vom Begriff des Computerprogramms auch sämtliche Teile des Befehlsablaufs umfasst, die dazu beitrügen, dass geplante Ergebnisse erzielt oder bestimmte Funktionen ermöglicht würden. Im Streitfall liege die Aufgabe der streitgegenständlichen Computerspiele darin, mit Hilfe eines dynamischen Spielablaufs ein unterhaltendes und herausforderndes Spielerlebnis zu erzielen. Dieser dynamische Spielablauf sei das Ergebnis des Zusammenwirkens von Programmbefehlen und variablen Daten, die die Programmbefehle beeinflussten. Der Verlauf der Spiele hänge von den im Arbeitsspeicher abgelegten variablen Daten ab, die entsprechend dem Spielverlauf der ständigen Veränderung durch die Software der Spiele unterlägen. Mithin hänge der Programmverlauf gerade davon ab, dass während des Spiels bestimmte Parameter generiert würden, auf die programmgemäß später wieder zurückgegriffen werde. Um ein konkret vom Urheber festgelegtes Ergebnis (zum Beispiel das Erschöpfen eines Boostereinsatzes) als Produkt dieses dynamischen Programmablaufs zu erzielen, sei es zwingend notwendig, auf die nach dem Willen des Urhebers genau für diesen Prozess im Arbeitsspeicher abgelegten Variablen zurückzugreifen. Deshalb seien die im Arbeitsspeicher hinterlegten Werte auch keineswegs nur zufällige, technisch unvermeidbare Produkte des Spielverlaufs. Das Programm könne vielmehr planmäßig nur unter Rückgriff auf die Variablen ablaufen. Diese würden zunächst generiert, im Arbeitsspeicher zwischengelagert und dann später wieder abgerufen, um den weiteren Programmablauf zu beeinflussen. Das dem Programm vorgegebene Ziel - ein bestimmtes Spielerlebnis - setze also voraus, dass ganz bestimmte variable Daten aus dem Arbeitsspeicher abgerufen werden könnten. Würden dort spielregelwidrig andere Daten in den weiteren Programmlauf eingespeist, verändere sich das Spielerlebnis. Das vom Programm verfolgte Ziel werde nicht erreicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(b) Nach Ansicht des Senats ist zweifelhaft, ob der durch das angestrebte Ziel der Gestaltung eines unterhaltsamen Spielablaufs geprägte Wille des Programmentwicklers, nur die spielregelkonform beim Programmablauf entstehenden variablen Daten zur Grundlage von Programmbefehlen zu machen, bei der Bestimmung des Schutzbereichs des Computerprogramms berücksichtigt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Gemäß Art. 1 Abs. 2 der Richtlinie 2009/24/EG gilt der gemäß dieser Richtlinie gewährte Schutz für alle Ausdrucksformen von Computerprogrammen (Satz 1); Ideen und Grundsätze, die irgendeinem Element eines Computerprogramms zugrunde liegen, einschließlich der den Schnittstellen zugrundeliegenden Ideen und Grundsätze, sind nicht im Sinne der Richtlinie urheberrechtlich geschützt (Satz 2; vgl. auch Erwägungsgrund 11 der Richtlinie 2009/24/EG). Im internationalen Recht sehen sowohl Art. 2 des Urheberrechtsvertrags der WIPO als auch Art. 9 Abs. 2 des TRIPS-Übereinkommens vor, dass sich der urheberrechtliche Schutz auf Ausdrucksformen, nicht aber auf Ideen, Verfahren, Arbeitsweisen oder mathematische Konzepte als solche erstreckt. Der Gerichtshof der Europäischen Union hat daraus geschlossen, dass der Quellcode und der Objektcode eines Computerprogramms dessen Ausdrucksformen sind, die folglich nach Art. 1 Abs. 2 der Richtlinie 91/250/EWG - nichts anderes dürfte für Art. 1 Abs. 2 der Richtlinie 2009/24/EG gelten - den urheberrechtlichen Schutz für Computerprogramme verdienen. Weder die Funktionalität eines Computerprogramms noch die Programmiersprache oder das Dateiformat, die im Rahmen eines Computerprogramms verwendet werden, um bestimmte Funktionen des Programms zu nutzen, sind eine Ausdrucksform dieses Programms im Sinne des Art. 1 Abs. 2 der Richtlinie 91/250/EWG. Ließe man es zu, dass die Funktionalität eines Computerprogramms urheberrechtlich geschützt wird, würde zum Schaden des technischen Fortschritts und der industriellen Entwicklung die Möglichkeit eröffnet, Ideen zu monopolisieren (EuGH, Urteil vom 2. Mai 2012 - C-406/10, GRUR 2012, 814 [juris Rn. 35 bis 40] = WRP 2012, 802 - SAS Institute). Aus der Rechtsprechung des Gerichtshofs der Europäischen Union dürfte daher zu entnehmen sein, dass vom Schutz des Computerprogramms das Ergebnis der Nutzung dieses Computerprogramms im Programmlauf grundsätzlich nicht erfasst ist (vgl. auch Haberstumpf in Lehmann, Rechtsschutz und Verwertung von Computerprogrammen, 2. Aufl., S. 98 Rn. 50; Ohst, Computerprogramm und Datenbank, 2003, S. 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(5) Entgegen der Ansicht der Revision dürfte auch der Umstand, dass gemäß Art. 1 Abs. 1 Satz 1 der Richtlinie 2009/24/EG die Mitgliedstaaten Computerprogramme urheberrechtlich als literarische Werke im Sinne der RBÜ schützen, nicht für die Einbeziehung der in Rede stehenden Variablen in den Begriff des Computerprogramms im Sinne von Art. 1 der Richtlinie 2009/24/EG sprechen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(a) Die Revision macht geltend, bei einem Roman als Werk der Literatur könne nicht nur die konkrete Textfassung und damit die unmittelbare Formgebung des Gedankens urheberrechtlich schutzfähig sein, sondern auch eigenpersönlich geprägte Bestandteile und formbildende Elemente des Werkes, die unter anderem im Gang der Handlung und der Ausgestaltung von Szenen liegen könnten. Übertrage man diesen Grundsatz auf Computerprogramme, folge daraus, dass neben dem maschinenlesbaren Code auch das Programmkonzept als eigenpersönlich geprägter Bestandteil des Programms schutzfähig sei. Die im Arbeitsspeicher abgelegten variablen Daten stellten eine Ausdrucksform dieses Gesamtkonzepts dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(b) Dieser Ansicht dürfte ebenfalls nicht zu folgen sein. Der Gang der Handlung und die Ausgestaltung von Szenen mögen in den Programmdaten des Objekt- und Quellcodes zum Ausdruck kommen. Dies dürfte auch für die vom Entwickler als Kategorie vorgesehenen Variablen gelten, die den Gang der Handlung mitbestimmen und im Objekt- und Quellcode niedergelegt sind. Nach den vom Berufungsgericht getroffenen Feststellungen greift die Software der Beklagten aber gerade nicht in diese vom Entwickler geschaffenen handlungsbestimmenden Elemente des Spieleprogramms ein, sondern verändert nur den beim Spielen durch den Nutzer generierten Inhalt der Variablen. Diese Inhalte an sich sind aber nicht Ausdruck einer eigenpersönlichen Gestaltung des Urhebers, sondern betreffen den vom Verhalten des Nutzers abhängigen konkreten Ablauf des Programms. Die Software der Beklagten verändert nicht den Gang der Handlung oder die Ausgestaltung von Szenen, sondern allein die Reihenfolge oder Häufigkeit der Wiedergabe von Handlungsabläufen oder Szenenfolgen. Auch der von der Revision geltend gemachte Hinweis auf einen urheberrechtlichen Schutz des Gangs der Handlung und der Ausgestaltung von Szenen führt mithin nach den Umständen des Streitfalls nicht zu einem Eingriff in den Schutzbereich des Computerprogramms, sondern zielt der Sache nach wiederum auf einen in der Richtlinie 2009/24/EG nicht vorgesehenen Schutz der Programmidee, des Programmablaufs und der Funktionalität des Programms.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>3. Klärungsbedürftig ist außerdem die Reichweite des Begriffs der Umarbeitung im Sinne von Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG. Es ist fraglich, ob diese Bestimmung dahin auszulegen ist, dass eine Umarbeitung vorliegt, wenn nicht der Objekt- oder Quellcode eines Computerprogramms oder dessen Vervielfältigung verändert wird, sondern ein gleichzeitig mit dem geschützten Computerprogramm ablaufendes anderes Programm den Inhalt von Variablen verändert, die das geschützte Computerprogramm im Arbeitsspeicher angelegt hat und im Ablauf des Programms verwendet (Vorlagefrage 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>a) Das Berufungsgericht hat - ausgehend von seiner Beurteilung, dass im Streitfall die Software der Beklagten nicht in den Schutzgegenstand des Computerprogramms gemäß § 69a UrhG eingreife, weil es an einer Abänderung des Objekt- oder Quellcodes oder der inneren Struktur des Computerprogramms der Klägerin fehle - angenommen, eine Umarbeitung im Sinne von § 69c Nr. 2 UrhG liege nicht vor. Eine funktionale Betrachtungsweise, wonach unabhängig von der Einwirkung auf den Programmcode oder unabhängig von einer abgeänderten Vervielfältigung des Programmcodes auch dann von einer Umarbeitung auszugehen sein könnte, wenn auf andere Art und Weise in den Programmablauf eingegriffen werde, lasse sich mit dem Schutzgegenstand gemäß § 69a UrhG nicht vereinbaren. Denn der programmgemäße Ablauf sei nicht Teil des Schutzgegenstands eines Computerprogramms und daher nicht von den Ausschließlichkeitsrechten gemäß § 69c UrhG gegen externe Einflussnahmen geschützt. Weder nehme die Funktionalität eines Programms am Schutz des Computerprogramms teil noch werde die reine Benutzung eines Werkes - im Gegensatz zu den technischen Nutzungsrechten - als urheberrechtliche Nutzungsform erfasst. Der Urheber eines Computerprogramms habe daher keinen aus §§ 69a, 69c UrhG ableitbaren Anspruch darauf, dass sein Programm nur in einer Weise genutzt werde, wie er es vorgesehen habe, solange das Spiel auch bei Einwirkung durch Dritte programmgemäß ablaufe und die einzelnen Spielsituationen vom Spiel selbst vorgesehen seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>b) Die Revision geht demgegenüber davon aus, eine Umarbeitung setze keinen Eingriff in die Programmsubstanz voraus. Entscheidend sei auch insoweit, dass der Programmablauf in einer bestimmten Spielsituation die Speicherung und den anschließenden Abruf ganz bestimmter Inhalte von Variablen vorsehe und andere Inhalte von Variablen nur unter anderen Voraussetzungen gespeichert werden sollten. Damit liege ein Eingriff in der Verwendung der falschen Inhalte von Variablen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>c) Die Frage, ob es für die Annahme einer Umarbeitung im Sinne von Art. 4 Abs. 1 Buchst. b der Richtlinie 2009/24/EG und § 69c Nr. 2 UrhG erforderlich ist, dass die Substanz des Computerprogramms in Form des Quell- oder Objektcodes verändert wird, ist streitig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>aa) Nach einer Auffassung ist es für die Annahme einer Umarbeitung ausreichend, wenn ohne Eingriff in die Programmsubstanz in den Ablauf des Computerprogramms eingegriffen wird (OLG Hamburg, GRUR-RR 2013, 13 [juris Rn. 62]; Wiebe in Spindler/Schuster, Recht der elektronischen Medien, 4. Aufl., § 69c UrhG Rn. 10; Schapiro in Bräutigam/Rücker, E-Commerce, Kap. F Rn. 31; Werner, CR 2013, 516, 521; Conraths, CR 2016, 705, 707 f.; ebenso wohl Frey/van Baal in Frey, eSport und Recht, § 9 Rn. 40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>bb) Nach einer anderen Ansicht ist für eine Umarbeitung stets eine Einwirkung auf den Quell- oder Objektcode und in diesem Sinne auf die Substanz des Computerprogramms erforderlich (LG München I, MMR 2015, 660 [juris Rn. 288 f.]; LG Hamburg, CR 2016, 782 [juris Rn. 28]; LG Hamburg, Beschluss vom 22. Juli 2016 - 308 O 244/16, BeckRS 2016, 137325 [juris Rn. 11]; LG Hamburg, GRUR-RR 2022, 253 [juris Rn. 52]; BeckOK.IT-Recht/Paul, 8. Edition Stand: 1. Oktober 2022, § 69c Rn. 15; Czychowski in Fromm/Nordemann, Urheberrecht, 12. Aufl., § 69c UrhG Rn. 21; Dreier in Dreier/Schulze, UrhG, 7. Aufl., § 69c Rn. 16; Grützmacher in Wandtke/Bullinger, Urheberrecht, 6. Aufl., § 69c UrhG Rn. 22; Spindler in Schricker/Loewenheim, Urheberrecht, § 69c UrhG Rn. 14; Kotthoff in Dreyer/Kotthoff/Meckel/Hentsch, Urheberrecht, 4. Aufl., § 69c UrhG Rn. 12; Marly, Praxishandbuch Softwarerecht, 7. Aufl. Rn. 176; Kreutzer, MMR 2018, 639, 643; Ritter, GRUR-Prax 2022, 149).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Der Senat neigt der letztgenannten Auffassung zu. Bereits der Wortlaut "Umarbeitungen" spricht - wie auch der in der englischen Sprachfassung verwendete Begriff "alteration" - dafür, dass eine Einwirkung auf den Quell- oder Objektcode erforderlich ist und eine bloße Beeinflussung etwaiger variabler Funktionsergebnisse, die im Zuge des Ablaufs des Programms generiert werden, nicht ausreicht. Etwas anderes dürfte allerdings gelten, wenn der Gerichtshof der Europäischen Union mit Blick auf die Vorlagefrage 1 derartige Funktionsergebnisse als Teil des urheberrechtlichen Schutzes des Computerprogramms ansieht. In diesem Fall würde durch die im Streitfall in Rede stehende Beeinflussung der Inhalte der Variablen auch ein abändernder Eingriff in das Computerprogramm vorliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Koch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Löffler     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schwonke</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Feddersen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Odörfer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300182023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

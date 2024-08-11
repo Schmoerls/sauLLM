@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310652014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20140211</entsch-datum>
+   <aktenzeichen>X ZR 107/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 88 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 23. Mai 2012, Az: 5 Ni 22/10 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache betreffend ein Europäisches Patent: Voraussetzungen wirksamer Inanspruchnahme der Priorität einer Voranmeldung - Kommunikationskanal</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Kommunikationskanal</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Priorität einer Voranmeldung kann in Anspruch genommen werden, wenn sich die dort anhand eines Ausführungsbeispiels oder in sonstiger Weise beschriebenen technischen Anweisungen für den Fachmann als Ausgestaltung der in der Nachanmeldung umschriebenen allgemeineren technischen Lehre darstellen und diese Lehre in der in der Nachanmeldung offenbarten Allgemeinheit bereits der Voranmeldung als zu der angemeldeten Erfindung gehörend entnehmbar ist.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 23. Mai 2012 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts abgeändert. Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits werden der Klägerin auferlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 062 743 (Streitpatents). Das Streitpatent, das am 24. Dezember 1999 angemeldet worden ist, nimmt die Priorität von vier britischen Patentanmeldungen in Anspruch und umfasst sechs Ansprüche. Die nebengeordneten Ansprüche 1 und 4, auf die die weiteren Ansprüche zurückbezogen sind, lauten in der Verfahrenssprache wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A radio station for use in a radio communication system having a communication channel between the radio station and a further station, the channel comprising an uplink and a downlink control channel for transmission of control information, and a data channel for the transmission of data, wherein closed loop power control means are provided for adjusting the power of the control and data channels, characterized by means for delaying the initial transmission of the data channel until after the initial transmission of the control channels during which delay the closed loop power control means is operable to adjust the control channel power.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. A method of operating a radio station in a radio communication system having a communication channel between the radio station and a further station, the channel comprising an uplink and a downlink control channel for transmission of control information, and a data channel for the transmission of data, the method comprising adjusting the power of the control and data channels by means of closes loop power control and characterized by delaying the initial transmission of the data channel until after the initial transmission of the control channels during which delay the closed loop power control is operable to adjust the control channel power.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent insgesamt angegriffen und geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig. Die Beklagte hat das Streitpatent in der erteilten Fassung sowie mit siebzehn Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Dagegen richtet sich die Berufung der Beklagten, mit der sie das Streitpatent wie in erster Instanz verteidigt, wobei sie die Hilfsanträge I bis IV in geänderter Fassung und nur weiter hilfsweise in der erstinstanzlichen Fassung weiter verfolgt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Funkkommunikationssystem mit primären und sekundären Stationen sowie eine Methode zum Betrieb eines solchen Systems.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung wird eingangs ausgeführt, dass es zwei grundlegende Arten von Kommunikation zwischen einer Basisstation und einer Mobilstation in einem Funkkommunikationssystem gibt. Dabei handele es sich einmal um Benutzerverkehr, etwa Sprach- oder Paketdaten, zum anderen um Steuerinformationen, die erforderlich sind, um verschiedene Parameter des Übertragungskanals einzustellen und zu überwachen, wodurch Basisstation und Mobilstation in die Lage versetzt werden, den Benutzerverkehr abzuwickeln. Das Streitpatent geht dabei von Funkkommunikationssystemen aus, in denen eine der Funktionen der Steuerinformation darin besteht, eine Leistungsregelung zu ermöglichen. Eine Regelung der Leistung ist in beide Richtungen erforderlich. Die Regelung der Leistung der Mobilstation soll sicherstellen, dass die Basisstation die Signale verschiedener Mobilstationen auf etwa dem gleichen Leistungspegel empfängt. Die Regelung der Leistung der Basisstation ist erforderlich, damit die Mobilstation die Daten mit geringer Fehlerquote erhält, zugleich aber Interferenzen mit anderen Funkzellen oder Funksystemen gering gehalten werden. Das Streitpatent legt insoweit einen Stand der Technik zugrunde, bei dem in einem Zweiwege-Funkkommunikationssystem die Leistungsregelung in einem geschlossenen Regelkreis erfolgt, bei dem die Mobilstation erforderliche Änderungen der Übertragungsleistung der Basisstation bestimmt und dieser signalisiert und umgekehrt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Ein Nachteil dieser Technik besteht nach den Angaben der Streitpatentschrift darin, dass beim Start der Übertragung oder nach einer Unterbrechung die Leistungsregelung eine gewisse Zeit in Anspruch nimmt, während der es zu Störungen der Datenübertragung kommen kann. Ist die Leistung zu niedrig, kommen die Daten beschädigt an, ist sie zu hoch, werden unerwünschte Interferenzen hervorgerufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das technische Problem besteht mithin darin, die dargestellten Schwierigkeiten zu beheben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieser Aufgabe schlägt das Streitpatent in Anspruch 1 eine Vorrichtung vor, die folgende Merkmale aufweist (Gliederung des Patentgerichts in Klammern)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. einen Kanal zur Kommunikation zwischen der Funkstation und einer weiteren Station (1a), umfassend</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 einen Uplink- und einen Downlink-Steuerkanal zur Übertragung von Steuerinformationen (1b) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 einen Datenkanal zur Übertragung von Daten (1c);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Mittel zur Verzögerung des Beginns der Übertragung im Datenkanal bis nach dem Beginn der Übertragung in den Steuerkanälen (1e) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Mittel zur Leistungsregelung mit einem geschlossenen Regelkreis (<em>closed loop power control means</em>, 1d), die</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 die Leistung der Steuer- und Datenkanäle anpassen (1d) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 während der Verzögerung die Steuerkanalleistung anpassen können (<em>is operable to adjust the control channel power</em>, 1f).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Zur Bedeutung der Merkmale ist zu bemerken:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Vorrichtung wird in einem Funkkommunikationssystem verwendet, das einen Kommunikationskanal zwischen einer Funkstation und einer weiteren Station aufweist. Dieser Kommunikationskanal umfasst zwei Steuerkanäle und (mindestens) einen Datenkanal. Der Steuerkanal dient zur Übertragung von Steuerinformationen. Dabei handelt es sich nach dem Sprachgebrauch des Streitpatents um Signale, die benötigt werden, um die Parameter des Übertragungskanals einzustellen und zu überwachen, die die Datenübermittlung per Funk ermöglichen. Zu diesen Steuerinformationen zählen insbesondere Signale zur Leistungsregelung. Über den Datenkanal wird lediglich gesagt, dass er der Übertragung von Daten dient. Der Beschreibung ist zu entnehmen, dass damit jedenfalls auch Nutzerdaten, etwa Sprach-, Text- oder Bilddaten gemeint sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Nähere Angaben über die Gestaltung der Kanäle enthält das Streitpatent nicht. Unter einem Kanal im Bereich der Funkkommunikation ist aus fachlicher Sicht ein Weg zur Übertragung von Signalen von einer Funkstation an eine andere zu verstehen. Verschiedene Kanäle müssen danach nicht notwendig physikalisch abgegrenzt werden, etwa in der Weise, dass sie verschiedene Frequenzen in Anspruch nehmen. Die Trennung kann auch auf andere Weise erfolgen, etwa durch Zuweisung unterschiedlicher Zeitschlitze auf einer bestimmten Frequenz, durch unterschiedliche Gestaltung der übermittelten Daten mittels spezifischer Angaben in einem Header, durch die Verwendung eines für das jeweilige Teilnehmergerät spezifischen Spreizcodes oder dergleichen mehr, sofern gewährleistet wird, dass der jeweilige Empfänger die übermittelten Daten von anderen, auf einem anderen Übertragungsweg übermittelten Daten unterscheiden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die vorgesehenen Mittel zur Leistungsregelung arbeiten in einem geschlossenen Regelkreis (Merkmal 3), d.h. dass auf der Grundlage des übertragenen Leistungssignals eine Rückkoppelung von der empfangenden Funkstation an die sendende Funkstation erfolgt, die Informationen darüber liefert, ob eine Änderung der Leistung erforderlich ist. Sie dienen der Regelung der Leistung sowohl der Steuerkanäle als auch des Datenkanals (Merkmal 3.1). Dabei ist für den Beginn der Übertragung vorgesehen, dass die Übertragung im Datenkanal verzögert erfolgt, also zunächst nur über die Steuerkanäle Daten (Steuerinformationen) übertragen werden (Merkmal 2). Die durch diese Verzögerung gewonnene Zeitspanne wird genutzt, um die Leistung des Steuerkanals zu regeln (Merkmal 3.2). Der Anspruch trifft unmittelbar keine Aussage darüber, ob und auf welche Weise sich die Regelung der Leistung des Steuerkanals auf die Leistung des Datenkanals auswirkt. Der Umstand, dass das Streitpatent darauf zielt, die Probleme zu lösen, die sich aus einer unzureichenden Regelung hinsichtlich der Qualität der Übertragung von Daten ergeben, spricht jedoch dafür, dass die in Merkmal 3.2 beschriebene Leistungsregelung - auf eine im Streitpatent nicht näher beschriebene Weise - auch für die Übertragungsleistung des Datenkanals genutzt wird. Denn anderenfalls wäre die Übertragung der für den Nutzer im Vordergrund stehenden Daten weiterhin gefährdet. Dem entspricht es, dass in Absatz 18 der Streitpatentschrift ausgeführt wird, der mit der Übermittlung zusätzlicher Steuerinformationen verbundene Aufwand werde dadurch ausgeglichen, dass die Nutzerdaten, die über den Datenkanal an die Basisstation übertragen werden, in besserer Qualität empfangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents in der erteilten Fassung sei nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent könne lediglich die Priorität der britischen Patentanmeldung 9 922 575 (NK6) vom 24. September 1999 in Anspruch nehmen, nicht jedoch diejenige aus den britischen Patentanmeldungen 9 900 910, 9 911 622 und 9 915 569 (NK3 bis NK5). Diese enthielten für den Fachmann explizite Aussagen dahin, dass es sich bei dem Kommunikationskanal um einen Frequenzteilungs-Duplex-Kommunikationskanal handele und über die Steuerkanäle Leistungssteuerungs- und Bitrateninformationen übertragen würden. In dem erteilten Patentanspruch 1 werde demgegenüber allgemein ein Kommunikationskanal beansprucht, bei dem nicht näher spezifizierte Steuerinformationen über die Steuerkanäle übertragen werden. Daher handele es sich bei dem Gegenstand des Patentanspruchs 1 nicht um dieselbe Erfindung wie diejenige, die NK3 bis NK5 zu entnehmen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Nach dem Ergebnis der Beweisaufnahme seien die Beiträge "CPCH Physical Layer Procedures" und "Firm Handover over CPCH" des Unternehmens Golden Bridge Technology (NK15 und NK16) bereits vor dem Prioritätszeitpunkt, im Rahmen einer Konferenz, die von 1. bis 4. Juni 1999 in Südkorea den Mitgliedern der 3GPP-Gremien und damit einem Querschnitt der bedeutendsten Unternehmen auf dem Gebiet der Mobilfunktechnologie ohne Verpflichtung zur Geheimhaltung bekannt geworden. NK15 nehme alle Merkmale des Patentanspruchs 1 in der erteilten Fassung vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent habe auch in der Fassung der Hilfsanträge keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der rechtlichen Überprüfung nicht stand. Die Auffassung des Patentgerichts, die Beklagte könne die Priorität der britischen Anmeldung 9 900 910 (NK3) nicht in Anspruch nehmen, trifft nicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Bei Anmeldung eines europäischen Patents kann das Prioritätsrecht einer vorangegangenen Anmeldung nach Art. 87 Abs. 1 EPÜ in Anspruch genommen werden, wenn beide dieselbe Erfindung betreffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>a) Diese Voraussetzung ist nach der Rechtsprechung des Senats erfüllt, wenn die mit der Nachanmeldung beanspruchte Merkmalskombination in der Vor-anmeldung in ihrer Gesamtheit als zu der angemeldeten Erfindung gehörend offenbart ist (BGH, Urteil vom 11. September 2001 - X ZR 168/98, BGHZ 148, 383, 388 - Luftverteiler; Urteil vom 30. Januar 2008 - X ZR 107/04, GRUR 2008, 597, 599 - Betonstraßenfertiger). Der Gegenstand der beanspruchten Erfindung muss im Prioritätsdokument identisch offenbart sein; es muss sich um dieselbe Erfindung handeln (EPA GBK, Beschluss vom 31. Mai 2001 - G2/98, GRUR Int. 2002, 80; BGH, Urteil vom 14. Oktober 2003 - X ZR 4/00, GRUR 2004, 133, 135 - Elektronische Funktionseinheit). Dabei ist die Offenbarung des Gegenstands der ersten Anmeldung nicht auf die dort formulierten Ansprüche beschränkt, vielmehr ist dieser aus der Gesamtheit der Anmeldeunterlagen zu ermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Für die Beurteilung der identischen Offenbarung gelten die Prinzipien der Neuheitsprüfung (BGH, GRUR 2004, 133, 135 - Elektronische Funktionseinheit). Nach der ständigen Rechtsprechung des Senats ist danach erforderlich, dass der Fachmann die im Anspruch bezeichnete technische Lehre den Ursprungsunterlagen "unmittelbar und eindeutig" (BGH, Urteil vom 11. September 2001 - X ZR 168/98, BGHZ 148, 383, 389 - Luftverteiler; Urteil vom 8. Juli 2010 - Xa ZR 124/07, GRUR 2010, 910, Rn. 62 - Fälschungssicheres Dokument; Urteil vom 14. August 2012 - X ZR 3/10, GRUR 2012, 1133 Rn. 31 - UV-unempfindliche Druckplatte) als mögliche Ausführungsform der Erfindung entnehmen kann (BGH, Beschluss vom 11. September 2001 - X ZB 18/00, GRUR 2002, 49, 51 - Drehmomentübertragungseinrichtung; Urteil vom 18. Februar 2010 - Xa ZR 52/08, GRUR 2010, 599 Rn. 22, 24 - Formteil). Zu ermitteln ist mithin, was der Fachmann der Vorveröffentlichung als den Inhalt der gegebenen allgemeinen Lehre entnimmt (BGH, Urteil vom 16. Dezember 2008 - X ZR 89/07, BGHZ 179, 168 Rn. 25 - Olanzapin). Maßgeblich ist dabei das Verständnis des Fachmanns zum Zeitpunkt der Einreichung der prioritätsbeanspruchenden Patentanmeldung (BGH, GRUR 2004, 133, 135 - Elektronische Funktionseinheit).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>c) Das Erfordernis einer unmittelbaren und eindeutigen Offenbarung muss dabei in einer Weise angewendet werden, die berücksichtigt, dass die Ermittlung dessen, was dem Fachmann als Erfindung und was als Ausführungsbeispiel der Erfindung offenbart wird, wertenden Charakter hat, und eine unangemessene Beschränkung des Anmelders bei der Ausschöpfung des Offenbarungsgehalts der Voranmeldung vermeidet. Insoweit ist zugrunde zu legen, dass das Interesse des Anmelders regelmäßig erkennbar darauf gerichtet ist, möglichst breiten Schutz zu erlangen, also die Erfindung in möglichst allgemeiner Weise vorzustellen und nicht auf aufgezeigte Anwendungsbeispiele zu beschränken. Soweit in der Anmeldung bereits Ansprüche formuliert sind, haben diese vorläufigen Charakter. Erst im Verlauf des sich anschließenden Prüfungsverfahrens ist herauszuarbeiten, was unter Berücksichtigung des Standes der Technik schutzfähig ist und für welche Ansprüche der Anmelder Schutz begehrt. Erst mit der Erteilung des Patents mit bestimmten Ansprüchen erfolgt eine endgültige Festlegung des Schutzgegenstands.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>aa) Dieser Gesichtspunkt liegt der Rechtsprechung des Senats zugrunde, wonach bei der Ausschöpfung des Offenbarungsgehalts auch Verallgemeinerungen ursprungsoffenbarter Ausführungsbeispiele zugelassen werden. Danach ist ein "breit" formulierter Anspruch unter dem Gesichtspunkt der unzulässigen Erweiterung jedenfalls dann unbedenklich, wenn sich ein in der Anmeldung beschriebenes Ausführungsbeispiel der Erfindung für den Fachmann als Ausgestaltung der im Anspruch umschriebenen allgemeineren technischen Lehre darstellt und diese Lehre in der beanspruchten Allgemeinheit für ihn bereits der Anmeldung - sei es in Gestalt eines in der Anmeldung formulierten Anspruchs, sei es nach dem Gesamtzusammenhang der Unterlagen - als zu der angemeldeten Erfindung gehörend entnehmbar ist (BGH, Urteil vom 17. Juli 2012 - X ZR 117/11, BGHZ 194, 107 Rn. 52 - Polymerschaum). Solche Verallgemeinerungen sind vornehmlich dann zugelassen worden, wenn von mehreren Merkmalen eines Ausführungsbeispiels, die zusammengenommen, aber auch für sich betrachtet dem erfindungsgemäßen Erfolg förderlich sind, nur eines oder nur einzelne in den Anspruch aufgenommen worden sind (ständige Rechtsprechung seit BGH, Beschluss vom 23. Januar 1990 - X ZB 9/89, BGHZ 110, 123, 126 - Spleißkammer; aus jüngerer Zeit BGHZ 194, 107 Rn. 52 - Polymerschaum; BGH, GRUR 2012, 1133 Rn. 31 f. - UV-unempfindliche Druckplatte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Nach vergleichbaren Maßgaben ist die Prüfung vorzunehmen, ob der Gegenstand der Erfindung im Prioritätsdokument identisch offenbart ist. Die Priorität einer Voranmeldung kann in Anspruch genommen werden, wenn sich die dort anhand eines Ausführungsbeispiels oder in sonstiger Weise beschriebenen Anweisungen für den Fachmann als Ausgestaltung der in der Nachanmeldung umschriebenen allgemeineren technischen Lehre darstellen und diese Lehre in der in der Nachanmeldung offenbarten Allgemeinheit bereits der Voranmeldung als zu der angemeldeten Erfindung gehörend entnehmbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Danach kann die Beklagte die Priorität der NK3 in Anspruch nehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) Die Beschreibung des Prioritätsdokuments NK3 erwähnt zunächst ganz allgemein, dass die Erfindung ein Funkkommunikationssystem betreffe und im Folgenden zwar unter Bezugnahme auf das aufkommende UMTS-System beschrieben sei, es sich aber verstehe, dass sie gleichermaßen für andere Mobilfunksysteme geeignet sei. Im folgenden Absatz werden in gleicher Allgemeinheit der Nutzerdatenverkehr (<em>user traffic</em>) und die Übermittlung von Steuerinformationen (<em>control information</em>) erörtert. Zu dieser erläutert der dritte Absatz, dass eine Funktion der Steuerinformationen bei vielen Kommunikationssystemen darin bestehe, eine Leistungssteuerung (in einem geschlossenen Regelkreis) zu ermöglichen. Sodann wird ausgeführt, welche Bedeutung der Leistungssteuerung in Mobilfunksystemen sowohl für die Basisstation als auch für die Mobilstationen zukommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Als Beispiel eines kombinierten zeit- und frequenzgesteuerten Mehrfachzugriffssystems mit einer Leistungssteuerung ("<em>An example of a combined time and frequency division access system employing power control</em>") nennt die Beschreibung das GSM-System, und fügt unter Verweis auf eine US-Patentschrift an, in ähnlicher Weise sei eine Leistungssteuerung für ein Codemultiplexsystem mit Frequenzspreizung (<em>spread spectrum Code Division Multiple Access [CDMA]</em>) beschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung des Nachteils der bekannten Lösungen und der hieraus abgeleiteten Aufgabe ist - wie im Streitpatent - ganz allgemein dahin formuliert, dass die Regelkreise einige Zeit benötigten, die Leistungsstärke hinreichend präzise einzuregeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Die erste erfindungsgemäße Lösung soll nach der Anspruch 1 der Anmeldung wiedergebenden Beschreibung darin bestehen, dass bei einem Funkkommunikationssystem mit einer Primär- und einer Vielzahl von Sekundärstationen mit einem Frequenzduplexkanal (<em>frequency division duplex communication channel</em>) zwischen Primär- und Sekundärstation, der einen Uplink- und einen Downlink-Steuerkanal zur Übertragung von Leistungssteuerungs- und Bitrateninformationen sowie einen Datenkanal zur Übertragung von Datenpaketen umfasse, und mit Leistungssteuerungsmitteln zur schrittweisen Veränderung der Leistung der Steuer- und Datenkanäle anspruchsgemäß die Größe der Schritte variiert werden könne. Die zweite beanspruchte Lösung soll - in Übereinstimmung mit Anspruch 5 der Anmeldung - darin bestehen, dass bei einem (mit Ausnahme der entfallenen Leistungssteuerungsmittel zur schrittweisen Veränderung der Leistung der Steuer- und Datenkanäle) wortgleich beschriebenen System die Primär- und Sekundärstationen Mittel zur Verzögerung des Beginns der Übertragung auf dem Datenkanal gegenüber der Übertragung auf den Steuerkanälen aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Unter Bezugnahme auf Figur 1 wird sodann ein Ausführungsbeispiel beschrieben, von dem es heißt, es umfasse ein Funkkommunikationssystem, das in einem Frequenzduplexmodus arbeiten könne. Figur 2 zeigt schematisch ein herkömmliches Modell zum Aufbau einer Kommunikationsverbindung, wie es, so die Beschreibung, eine UMTS-Ausführungsform nutze. Anhand dieses Modells wird wiederum das Problem der Verzögerung bei der Leistungsadaption beschrieben, dessen Lösung durch einen verzögerten Beginn der Übertragung auf dem Datenkanal anhand der Figur 3 erläutert wird. Unter Rückgriff auf Figur 4 wird die zweite Lösung einer variablen Schrittgröße bei der Leistungsadaption erklärt. Abschließend heißt es, Ausführungsformen der Erfindung seien unter Verwendung von Frequenzspreizungsverfahren beschrieben worden, wie sie etwa in UMTS-Ausführungsformen eingesetzt würden; es verstehe sich jedoch, dass die Erfindung nicht auf den Einsatz in CDMA-Systemen beschränkt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>c) Weder die Problembeschreibung noch die unter Bezugnahme auf die Figuren näher erläuterten Ausführungsbeispiele weisen damit einen konkreten Bezug zu der Ausgestaltung des Kommunikationskanals als Frequenzteilungs-Duplex-Kanal oder zu dem Umstand auf, dass auf dem Steuerkanal auch Bitrateninformationen übertragen werden. Die Bitrateninformation wird überhaupt nur bei der Wiedergabe des Wortlauts der angemeldeten Ansprüche erwähnt. Auf den Frequenzduplex kommt zwar, wie ausgeführt, die Beschreibung der Ausführungsbeispiele zurück; ein Zusammenhang mit den beanspruchten Lösungen des geschilderten technischen Problems, den Schwierigkeiten einer rechtzeitigen Leistungsadaption durch eine Variation der Anpassungsschritte oder durch eine Verzögerung des Beginns der Übertragung auf dem Datenkanal zu begegnen, wird jedoch nicht hergestellt. Weder ist irgendein Anhaltspunkt dafür ersichtlich, dass sich das Problem der Leistungssteuerung nur oder doch zumindest in einer besonderen Ausprägung bei einem Funkkommunikationssystem mit einem Frequenzteilungs-Duplex-Kommunikationskanal stelle, noch gibt es Hinweise darauf, dass die Wahl eines solchen Kanals in irgendeiner Weise zur Lösung dieses Problems beiträgt. Entsprechendes gilt für die Ausgestaltung des Steuerkanals in der Weise, dass er auch der Übertragung von Bitrateninformationen dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>d) Danach ist für den Fachmann, der sich die Frage vorlegt, welche technische Lehre zur Lösung des geschilderten technischen Problems er dem Prioritätsdokument entnehmen kann, ohne weiteres ersichtlich, dass bereits in der NK3 die allgemeine technische Lehre offenbart wird, bei einem Funkkommunikationssystem mit Uplink- und Downlink-Steuerkanal zur Übertragung von Steuerinformationen die an sich bekannten Mittel zur Leistungsregelung mit einem geschlossenen Regelkreis vorteilhafterweise so zu nutzen, dass Mittel zur Verzögerung des Beginns der Übertragung im Datenkanal bis nach Beginn der Übertragung in den Steuerkanälen vorgesehen werden, damit während dieser Verzögerung die Steuerkanalleistung angepasst werden kann. Zugleich liegt damit für ihn auf der Hand, dass diese allgemeine Lehre lediglich beispielhaft anhand einer üblichen Ausgestaltung eines solchen Funkkommunikationssystems erläutert wird, bei dem der Kommunikationskanal als Frequenzteilungs-Duplex-Kanal ausgebildet ist und der Steuerkanal auch der Übertragung von Bitrateninformationen dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>e) Dieser Beurteilung stehen die Feststellungen des Patentgerichts nicht entgegen, das lediglich ausführt, das Prioritätsdokument enthalte "explizite Aussagen bezüglich der Ausgestaltung des Kommunikationskanals", und der Fachmann werde den übrigen Inhalt der Beschreibung hierauf beziehen. Aus seinen Feststellungen ergeben sich keinerlei Anhaltspunkte dafür, dass die Ausgestaltung des Kommunikationskanals als Frequenzteilungs-Duplex-Kanal oder die Wahl eines Steuerkanals, in dem auch Bitrateninformationen übertragen werden können, zu der Lösung des in NK3 behandelten technischen Problems der Leistungssteuerung etwas beitragen, geschweige denn, dass sie hierfür erforderlich wären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>f) Das Streitpatent nimmt deshalb, entgegen der Auffassung des Patentgerichts, die Priorität der NK3 vom 16. Januar 1999 zu Recht in Anspruch. Danach haben die Entgegenhaltungen NK9, NK11, NK15, NK16, NK19 und NK21, die nach dem Vorbringen der Klägerin erst im Frühjahr 1999 veröffentlicht worden sind, bei der Beurteilung der Patentfähigkeit außer Betracht zu bleiben. Die Entscheidung des Patentgerichts, das der Klage mit der Begründung stattgegeben hat, der Gegenstand der Patentansprüche 1 und 4 sei durch NK15 und NK16 vorweggenommen, kann mithin keinen Bestand haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>IV. Das angefochtene Urteil erweist sich auch nicht aus anderen Gründen als im Ergebnis zutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>1. Die amerikanische Patentschrift 5 841 768 (NK7) nimmt den Gegenstand von Patentanspruch 1 weder vorweg noch legt sie ihn nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Zwar befasst sich NK7 mit der Regelung der Übertragungsleistung in einem Funkkommunikationssystem beim Aufbau einer Verbindung. In der dort behandelten frühen Phase des Verbindungsaufbaus erfolgt dies jedoch nicht mit Mitteln zur Leistungsregelung in einem geschlossenen Regelkreis. Wie der Beschreibung zu entnehmen ist (Sp. 6, Z. 56 ff.) werden solche Mittel erst zu einem späteren Zeitpunkt eingesetzt, nämlich erst dann, wenn das in NK7 vorgeschlagene Verfahren bereits beendet ist. Die NK7, die die auch vom Streitpatent als bekannt vorausgesetzten und den Ausgangspunkt der erfindungsgemäßen Lösung bildenden Leistungssteuerungsmittel unter Bezugnahme auf die in der Streitpatentschrift ebenfalls erörterte US-Patentschrift 5 056 109 als Mittel der Leistungsadaption erwähnt, aber als wenig geeignet ablehnt (Sp. 2,. Z. 42 bis 62), schlägt statt dessen eine andere Lösung vor. Sie setzt in einem frühen Stadium des Verbindungsaufbaus ein, in dem eine Leistungsregelungsschleife noch nicht eingerichtet worden ist (Sp. 2, Z. 27 bis 30) und ein Kommunikationskanal noch nicht besteht, sondern erst aufgebaut wird (Abstract, Z. 2, Sp. 3, Z. 8, Sp. 4, Z. 56, Sp. 5, Z. 45 bis 48 und Z. 60; Sp. 8, Z. 60 sowie Figur 11B). Demgegenüber befasst sich das Streitpatent mit einem Stadium des (Wieder-)Aufbaus einer Verbindung, in dem bereits ein Kommunikationskanal eingerichtet worden ist. Der Umstand, dass auch schon in dem früheren Stadium des Verbindungsaufbaus, das Gegenstand der NK7 ist, Signale zwischen der Mobilstation und der Basisstation ausgetauscht werden (<em>request</em> und <em>acknowledgment</em>), lässt nicht den Schluss zu, dass schon ein Kommunikationskanal bzw. ein Steuerkanal eingerichtet worden ist. Die entsprechenden Signale werden vielmehr auf einem gemeinsam genutzten Kanal (<em>random access channel - RACH</em>) übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>NK7 ist demgemäß nicht zu entnehmen, dass dort Mittel vorgesehen sind, die eine Verzögerung des Beginns der Übertragung im Datenkanal zu einem Zeitpunkt bewirken, in dem bereits Steuerkanäle eingerichtet sind, auf denen die Übertragung schon aufgenommen wird (Merkmal 2). Die Entgegenhaltung befasst sich auch nicht mit Mitteln zur Regelung der Übertragungsleistung gerade in diesem Zeitraum nach Einrichtung der Steuerkanäle, aber vor Beginn der Übertragung im Datenkanal (Merkmal 3.2) und kann hierzu auch keine Anregung geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>2. Auf die "Specifications of Air-Interface for 3G Mobile System" in der Version 0.5 (NK13), die im ersten Rechtszug eingeführt worden war, ist die Klägerin nicht mehr zurückgekommen, nachdem die Beklagte vorgetragen hatte, sie sei nicht veröffentlicht worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                      Grabinski                            Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                   Deichfuß                       Kober-Dehm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310652014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

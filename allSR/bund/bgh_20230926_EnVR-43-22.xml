@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301232023</doknr>
+   <ecli>ECLI:DE:BGH:2023:260923BENVR43.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20230926</entsch-datum>
+   <aktenzeichen>EnVR 43/22</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 21a Abs 5 S 1 EnWG, § 73 Abs 1 EnWG, § 12 Abs 1 S 1 Anl 3 Nr 2 S 2  ARegV, § 13 ARegV</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 12. Mai 2022, Az: VI-5 Kart 3/21 (V), Beschluss<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Festlegung des individuellen Effizienzwerts eines Gasverteilernetzbetreibers durch die Bundesnetzagentur: Systemische Bevorzugung von Unternehmen mit besonderen Netzstrukturen durch das für den Effizienzvergleich in der dritten Regulierungsperiode Gas herangezogene Modell; Effizienzwert von 100% - Effizienzvergleich II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Effizienzvergleich II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Das für den Effizienzvergleich in der dritten Regulierungsperiode Gas herangezogene Modell steht - auch unter Berücksichtigung des weiten Regulierungsermessens der Bundesnetzagentur - mit den Vorgaben des § 21a Abs. 5 Satz 1 EnWG insoweit nicht in Einklang, als es den objektiven strukturellen Unterschieden der von den Netzbetreibern zu erfüllenden Versorgungsaufgaben nicht hinreichend Rechnung trägt und zu einer systemischen Bevorzugung von Unternehmen mit besonderen Netzstrukturen führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV ist dahin auszulegen, dass in beiden von der Anreizregulierungsverordnung für den Effizienzvergleich vorgegebenen Methoden - der Dateneinhüllungsanalyse (DEA) und der Stochastischen Effizienzgrenzenanalyse (SFA) - die als am effizientesten ausgewiesenen Unternehmen einen Effizienzwert von 100% erhalten müssen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Rechtsbeschwerde der Betroffenen wird der Beschluss des 5. Kartellsenats des Oberlandesgerichts Düsseldorf vom 12. Mai 2022 im Kostenpunkt und insoweit aufgehoben, als die Beschwerde gegen den Beschluss der Bundesnetzagentur vom 8. Januar 2020 hinsichtlich der Festsetzung des individuellen Effizienzwerts der Betroffenen zurückgewiesen worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Beschwerde wird der Beschluss der Bundesnetzagentur vom 8. Januar 2020 insoweit aufgehoben, als die Erlösobergrenzen aufgrund eines Effizienzwerts von 94,6555 % festgelegt worden sind. Im Umfang der Aufhebung wird die Bundesnetzagentur verpflichtet, die Betroffene unter Beachtung der Rechtsauffassung des Senats neu zu bescheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Beschwerdeverfahrens einschließlich der notwendigen Auslagen der Gegenseite tragen die Betroffene ein Viertel, die Bundesnetzagentur drei Viertel. Die Kosten des Rechtsbeschwerdeverfahrens einschließlich der notwendigen Auslagen der Betroffenen trägt die Bundesnetzagentur.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>A. Die Betroffene betreibt ein Gasverteilernetz, das sowohl der örtlichen Versorgung als auch der örtlichen und regionalen Verteilung dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Mit Beschluss vom 8. Januar 2020 (fortan: angefochtene Festlegung) legte die Bundesnetzagentur die kalenderjährlichen Erlösobergrenzen für die dritte Regulierungsperiode für das Netz der Betroffenen niedriger als beantragt fest. Hierbei berechnete sie den Kapitalkostenabzug bezüglich der Bewertung von Baukostenzuschüssen und Netzanschlusskostenbeiträgen sowie von im Basisjahr im Bau befindlichen Anlagen anders als die Betroffene. Den individuellen Effizienzwert der Betroffenen setzte sie auf 94,6555 % fest; die beantragte Bereinigung des Effizienzwerts lehnte sie ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Festsetzung des Effizienzwerts der Betroffenen beruht auf dem von der Bundesnetzagentur vorgenommenen Effizienzvergleich für die dritte Regulierungsperiode Gas, in dem die Daten von 183 Gasverteilernetzbetreibern berücksichtigt wurden. Diese Daten holte die Bundesnetzagentur beginnend mit einer - auf Grundlage ihrer Festlegung vom 17. Mai 2016 (BK 9-15-603) vorgenommenen - Strukturdatenabfrage bei den Netzbetreibern ein. Bei der Durchführung des Effizienzvergleichs ließ sich die Bundesnetzagentur von einem Beraterkonsortium sachverständig beraten und unterstützen. Dieses Konsortium entwickelte ab Herbst 2017 auf der Grundlage der von der Bundesnetzagentur bei den Netzbetreibern abgefragten Daten ein Effizienzvergleichsmodell, dessen Umsetzung in einem schriftlichen Gutachten vom 17. Mai 2019 (fortan: Gutachten des Beraterkonsortiums oder Gutachten) dokumentiert und das Bestandteil der angefochtenen Festlegung ist. In dem Modell werden die Methoden der Dateneinhüllungsanalyse (Data Envelopment Analysis - DEA) und der Stochastischen Effizienzgrenzenanalyse (Stochastic Frontier Analysis - SFA) angewendet und fünf Vergleichsparameter herangezogen, nämlich das Rohrvolumen, die zeitgleiche Jahreshöchstlast aller Ausspeisungen, die Anzahl der Messstellen bei Letztverbrauchern und Netzkopplungspunkten, die Anzahl der Ausspeisepunkte über 5 bar (Druckstufen HD 2 bis HD 4) sowie die Gewichtung des Anteils der vorherrschenden Bodenklassen 4, 5 und 6 (Tiefenstufe 0 bis 1 m) mit der Netzlänge. Der individuelle Effizienzwert der Betroffenen entspricht dem für sie in der SFA mit standardisierten Kosten errechneten Wert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beschwerde der Betroffenen gegen die Festlegung hatte keinen Erfolg. Mit ihrer vom Beschwerdegericht zugelassenen Rechtsbeschwerde verfolgt die Betroffene ihr Begehren weiter, die Bundesnetzagentur hinsichtlich der Festlegung ihres individuellen Effizienzwerts, hilfsweise im Hinblick auf dessen Bereinigung, zur Neubescheidung zu verpflichten; die Berechnung des Kapitalkostenabzugs hat sie nicht zum Gegenstand der Rechtsbeschwerde gemacht. Die Bundesnetzagentur tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>B. Die zulässige Rechtsbeschwerde hat in der Sache Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Beschwerdegericht hat angenommen, die Festlegung des individuellen Effizienzwerts der Betroffenen durch die Bundesnetzagentur weise keine Rechtsfehler auf. Sie sei hinreichend begründet und beruhe auf einer ausreichenden Ermittlung des erheblichen Sachverhalts. Die Ausgestaltung des Effizienzvergleichs sei nicht zu beanstanden; sowohl die Auswahl der Vergleichsparameter als auch die Ausreißeranalyse seien rechtmäßig durchgeführt worden. Anhaltspunkte dafür, dass die Einbeziehung der Verteilernetzbetreiber ohne Konzessionsgebiet verzerrende Wirkung auf den Effizienzvergleich gehabt hätte, lägen nicht vor. Die Bundesnetzagentur sei auch nicht zu der von der Betroffenen beantragten Bereinigung ihres Effizienzwerts nach § 15 Abs. 1 ARegV verpflichtet gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>II. Diese Beurteilung hält der rechtlichen Überprüfung im Ergebnis nicht stand. Entgegen der Auffassung des Beschwerdegerichts trägt der von der Bundesnetzagentur durchgeführte Effizienzvergleich den objektiven strukturellen Unterschieden der einbezogenen Netzbetreiber nicht hinreichend Rechnung. Zudem verstößt er gegen die Vorgabe in Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV, wonach für Netzbetreiber, die im Effizienzvergleich als effizient ausgewiesen werden, ein Effizienzwert in Höhe von 100 Prozent gilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Allerdings hat das Beschwerdegericht entgegen der Ansicht der Betroffenen die Ermittlung des individuellen Effizienzwerts der Betroffenen in der angefochtenen Festlegung zu Recht (auch) im Hinblick auf die für den Effizienzvergleich vorgenommene Datenerhebung und -plausibilisierung für ausreichend begründet erachtet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 21a Abs. 2 Satz 1 EnWG werden in der Anreizregulierung für eine Regulierungsperiode unter Berücksichtigung von Effizienzvorgaben Obergrenzen für die Höhe der Netzzugangsentgelte oder die Gesamterlöse aus Netzzugangsentgelten vorgegeben. Die Effizienzvorgaben werden gemäß § 21a Abs. 5 Satz 1 EnWG durch Bestimmung unternehmensindividueller oder gruppenspezifischer Effizienzziele auf Grundlage eines Effizienzvergleichs unter Berücksichtigung insbesondere der bestehenden Effizienz des jeweiligen Netzbetriebs, objektiver struktureller Unterschiede, der inflationsbereinigten Produktivitätsentwicklung, der Versorgungsqualität und auf diese bezogener Qualitätsvorgaben sowie gesetzlicher Regelungen bestimmt. § 12 Abs. 1 Satz 1 ARegV der auf Grundlage von § 21a Abs. 6 EnWG von der Bundesregierung erlassenen Anreizregulierungsverordnung legt fest, dass die Bundesnetzagentur vor Beginn der Regulierungsperiode mit den in Anlage 3 zu § 12 ARegV aufgeführten Methoden, unter Berücksichtigung der dort genannten Vorgaben sowie nach Maßgabe von § 12 Abs. 2 bis 4 ARegV sowie der §§ 13 und 14 ARegV jeweils einen bundesweiten Effizienzvergleich für die Betreiber von Elektrizitätsverteilernetzen und Gasverteilernetzen mit dem Ziel durchführt, die Effizienzwerte für diese Netzbetreiber zu ermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Diese Regelungen finden - wie die übrigen Vorschriften der Anreizregulierungsverordnung und der Gasnetzentgeltverordnung - auch vor dem Hintergrund der Entscheidung des Gerichtshofs der Europäischen Union vom 2. September 2021 (C-718/18, RdE 2021, 534 Rn. 112 bis 138) weiterhin Anwendung (BGH, Beschlüsse vom 26. Oktober 2021 - EnVR 17/20, RdE 2022, 119 Rn. 14 - Genereller sektoraler Produktivitätsfaktor II; vom 7. Dezember 2021 - EnVR 6/21, WM 2023, 630 Rn. 9 - Kapitalkostenabzug mwN). Sie sind angesichts der durch das Unionsrecht geforderten Unabhängigkeit der Bundesnetzagentur von externen Weisungen anderer öffentlicher oder privater Stellen jedoch bis zu der den Gerichten durch den Willen des nationalen Gesetzgebers gezogenen Grenze im Sinne einer Gewährleistung und Sicherung dieser Unabhängigkeit auszulegen. Eine gerichtliche Überprüfung von Entscheidungen der Regulierungsbehörde erfolgt daher im Grundsatz nur noch in Bezug auf den nach den vorgenannten Maßstäben fortgeltenden nationalen Regulierungsrahmen sowie anhand unionsrechtlicher Vorgaben (BGH, RdE 2022, 119 Rn. 15 - Genereller sektoraler Produktivitätsfaktor II; WM 2023, 630 Rn. 10 - Kapitalkostenabzug).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>b) Die Ermittlung der Effizienzwerte erfolgt gemäß § 12 Abs. 1 Satz 1 ARegV in Anwendung der in Anlage 3 zu dieser Vorschrift aufgeführten Methoden, nämlich der DEA und der SFA. Für die Anwendung dieser Methoden sowie für die Festlegung der gemäß § 13 Abs. 1 ARegV zu berücksichtigenden Aufwands- und Vergleichsparameter muss die Bundesnetzagentur vor Durchführung des Effizienzvergleichs umfangreiche Daten bei den einzubeziehenden Netzbetreibern erheben, plausibilisieren und gegebenenfalls korrigieren. Da die erhobenen Daten die Grundlage sowohl für die Modellierung des Effizienzvergleichs als auch für die Berechnung der individuellen Effizienzwerte der Netzbetreiber bilden, sind einerseits ihre Vollständigkeit und Korrektheit von zentraler Bedeutung; andererseits muss die Bundesnetzagentur, die auf entsprechend vollständige und korrekte Datenlieferungen durch die Netzbetreiber angewiesen ist, nach § 12 Abs. 1 Satz 1 ARegV den Effizienzvergleich insgesamt in einem bestimmten Zeitrahmen - "vor Beginn der Regulierungsperiode" - durchführen und kann nicht zeitlich unbegrenzt Datenänderungen berücksichtigen. Wie dieses Spannungsverhältnis aufzulösen ist, hängt wesentlich von den konkreten Umständen ab und wird daher von der Anreizregulierungsverordnung nicht vorgegeben. Insoweit steht der Bundesnetzagentur ein Entscheidungsspielraum zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Dies wirkt sich auch auf die in § 73 Abs. 1 Satz 1 EnWG normierte Begründungspflicht aus. Nach der Rechtsprechung des Bundesgerichtshofs unterliegt die Regulierungsbehörde bei der Ausfüllung eines Entscheidungsspielraums der vorliegenden Art besonderen Begründungsanforderungen. Ähnlich wie es das Bundesverwaltungsgericht bei telekommunikationsrechtlichen Entscheidungen angenommen hat (BVerwG, Urteil vom 25. September 2013 - 6 C 13/12, BVerwGE 148, 48 Rn. 34 bis 36), ist bei einem derartigen Entscheidungsspielraum die eigentliche Bewertung der Behörde auch darauf nachzuprüfen, ob sie im Hinblick auf die Kriterien, die in der Rechtsnorm ausdrücklich hervorgehoben oder in ihr angelegt sind, ihre Festlegung plausibel und erschöpfend begründet hat. Dies folgt aus der Gewährleistung effektiven Rechtsschutzes gemäß Art. 19 Abs. 4 GG. Die gerichtliche Kontrolle eines der Behörde eingeräumten Gestaltungsspielraums ist grundsätzlich auf diejenigen Erwägungen zu erstrecken und zu beschränken, die die Behörde zur Begründung ihrer Entscheidung dargelegt hat; denn die notwendige Abwägung und ihre Darstellung im Bescheid sollen zumindest auch die nachgehende gerichtliche Kontrolle ermöglichen, die angesichts des ohnehin eingeräumten Beurteilungsspielraums sonst nicht hinreichend wirksam wäre (BGH, Beschlüsse vom 22. Juli 2014 - EnVR 59/12, RdE 2014, 495 Rn. 29 - Stromnetz Berlin GmbH; vom 7. Juni 2016 - EnVR 62/14, RdE 2016, 462 Rn. 42 - Festlegung volatiler Kosten; vom 12. Juni 2018 - EnVR 29/16, RdE 2018, 485 Rn. 34; vom 3. März 2020 - EnVR 26/18, RdE 2020, 319 Rn. 40 - Eigenkapitalzinssatz III).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>c) Danach hat das Beschwerdegericht zu Recht angenommen, dass die angefochtene Festlegung hinreichend begründet ist. Ihr lässt sich entgegen der Rüge der Betroffenen entnehmen, welche Daten die Bundesnetzagentur bei der Durchführung des Effizienzvergleichs verwendet hat und wie sie mit während des Prozesses auftretenden Datenfehlern und -korrekturen dritter Netzbetreiber umgegangen ist, sodass nachvollziehbar ist, auf welcher Datengrundlage die Bundesnetzagentur die Kostentreiberanalyse durchgeführt hat, in welchen Fällen sie Datenkorrekturen vorgenommen hat und in welchen nicht, und ob die verwendeten Daten fehlerhaft sind oder nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>aa) Die Bundesnetzagentur hat auf Seite 21 f. der angefochtenen Festlegung unter der Überschrift "Korrektur von Datenfehlern" ausgeführt, bei einem Netzbetreiber sei nach Ermittlung und Mitteilung der Effizienzwerte im November 2018, die auf den zum verwaltungsintern gesetzten Stichtag 31. August 2018 für die Modellfindung berücksichtigten Werten beruhten, und nach der Anfang 2019 erfolgten Versendung der Anhörungen zur Festlegung der kalenderjährlichen Erlösobergrenzen, die auf diesen Effizienzwerten basierten, bezüglich eines Vergleichsparameters festgestellt worden, dass dieser Netzbetreiber durch die Angabe eines fehlerhaften Wertes fälschlicherweise Benchmarkführer geworden sei und damit direkt die Effizienzwerte einer hohen Zahl anderer Netzbetreiber nachteilig beeinflusst habe. Die Beschlusskammer habe sich veranlasst gesehen, aufgrund dieser Tatsache eine Korrektur durchzuführen, in deren Folge der Großteil der im Januar und Februar 2019 zum Zwecke der Anhörung an verschiedene Netzbetreiber übermittelten (vorläufigen) Effizienzwerte für die Bescheidung der Erlösobergrenzen in der dritten Regulierungsperiode hätten abgeändert werden müssen. Der verwaltungsintern gesetzte Stichtag sei dabei für die Zwecke der Modellfindung aufrechterhalten worden. Der vorgenannte fehlerhaft gemeldete Vergleichsparameterwert des einen Netzbetreibers sei korrigiert worden, und damit seien für diesen Netzbetreiber unter Beibehaltung des bisherigen Effizienzvergleichsmodells die Effizienzgrenzen neu ermittelt worden, woraus sich neue geschätzte Effizienzgrenzen auf Basis der DEA und der SFA ergeben hätten. Davon ausgehend seien die Effizienzwerte für alle Netzbetreiber neu ermittelt worden. Dabei seien nicht nur die direkt induzierten Änderungen von DEA-Werten, sondern auch die Änderungen von SFA-Werten bei den Festlegungen der kalenderjährlichen Erlösobergrenze berücksichtigt worden, so dass insgesamt der Großteil der am Regelverfahren teilnehmenden Netzbetreiber von einer Änderung ihres Best-of-Four-Effizienzwerts betroffen gewesen sei. Die Beschlusskammer habe sämtliche sich neu ergebenden individuellen Effizienzwerte bei der Festlegung der Erlösobergrenzen angewendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>bb) Diesen Ausführungen, den Ergänzungen auf Seite 40 f. der angefochtenen Festlegung sowie Seite 41 des Gutachtens des Beraterkonsortiums lässt sich entgegen der Auffassung der Betroffenen hinreichend deutlich entnehmen, dass die Bundesnetzagentur dem Effizienzvergleich grundsätzlich alle bis zum 31. August 2018 von den beteiligten Netzbetreibern gemeldeten und gegebenenfalls korrigierten Daten zugrunde gelegt, spätere Datenkorrekturen jedoch bis auf einen Ausnahmefall für den Effizienzvergleich nicht mehr berücksichtigt hat; allenfalls wurde eine Korrektur des individuellen Effizienzwerts des betreffenden Netzbetreibers vorgenommen. Sie enthalten ferner die Erläuterung, dass das Abweichen von der Stichtagsregelung in dem genannten Einzelfall auf der - in anderen Fällen bis zu diesem Zeitpunkt erfolgter nachträglicher Datenkorrekturen gerade nicht gegebenen - Besonderheit beruhte, dass sich der Fehler auf die Effizienzwerte zahlreicher Netzbetreiber auswirkte. Damit hat die Bundesnetzagentur die von ihr verwendete Datengrundlage hinreichend genau beschrieben. Der Betroffenen ist es anhand der gegebenen Begründung möglich, die bei der Konzeption und Durchführung des Effizienzvergleichs getroffene Auswahlentscheidung bezüglich der Datengrundlage zu überprüfen und gegebenenfalls wirksamen Rechtsschutz in Anspruch zu nehmen. Einer näheren Darlegung, insbesondere einer Darstellung, wie mit einzelnen Verdachtsfällen unrichtiger Datenübermittlung im individuellen Verhältnis zu anderen Netzbetreibern umgegangen wurde sowie welche Daten im Einzelnen der Kostentreiberanalyse und der Ermittlung der Effizienzwerte zugrunde gelegt wurden, bedurfte es darüber hinaus nicht (vgl. zum Umfang der Begründungspflicht in Bezug auf die herangezogene Datengrundlage auch BGH, RdE 2014, 495 Rn. 46 f. - Stromnetz Berlin GmbH; Beschluss vom 7. Oktober 2014 - EnVR 25/12, RdE 2015, 73 Rn. 32 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>2. Keinen Erfolg hat auch die Rüge der Rechtsbeschwerde, die angefochtene Festlegung sei rechtswidrig, weil der ihr zugrundeliegende Effizienzvergleich nicht auf einer hinreichenden Tatsachengrundlage beruhe. Das Beschwerdegericht hat zu Recht angenommen, dass die Bundesnetzagentur den erheblichen Sachverhalt vollständig und zutreffend ermittelt hat, indem sie alle Möglichkeiten ausgeschöpft hat, um unter Mitwirkung der Netzbetreiber in einem noch vertretbaren Zeitfenster eine valide Datengrundlage für die Durchführung des Effizienzvergleichs zu erlangen. Weder musste die Bundesnetzagentur alle Datenkorrekturen anderer Netzbetreiber berücksichtigen, die nach Ablauf der diesen gesetzten Fristen erfolgt sind, noch war sie aus Rechtsgründen daran gehindert, dies in einem einzelnen Fall zu tun.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Die Durchführung des Effizienzvergleichs erfordert, wie bereits ausgeführt (oben Rn. 11), einerseits eine valide Datengrundlage, die im Wege einer umfangreichen und komplexen Sammlung von Daten der beteiligten Netzbetreiber zunächst geschaffen werden muss. Dabei ist die Bundesnetzagentur mangels direkten eigenen Zugriffs auf diese Daten notwendig auf die (fehlerfreie) Zuarbeit der Netzbetreiber angewiesen; eine Kontrolle der erhaltenen Informationen ist ihr lediglich im Wege einer Plausibilisierung möglich. Dies hat zur Folge, dass die Regulierungsbehörde eine objektiv vollständig korrekte Datengrundlage selbst nicht schaffen kann. Zugleich gibt § 12 Abs. 1 Satz 1 ARegV vor, dass die Durchführung des Effizienzvergleichs einschließlich der vorgeschalteten - ebenfalls aufwändigen - Modellierung in einem begrenzten Zeitfenster, nämlich nach dem Basisjahr und vor Beginn der Regulierungsperiode, durchzuführen ist. Die Regulierungsbehörde muss also systembedingt eine Abwägung zwischen dem Zeitfaktor und der Richtigkeit der Datengrundlage treffen. Dabei stehen ihr - wie auch bei anderen Entscheidungen über die Umsetzung der in den §§ 12 ff. ARegV enthaltenen Vorgaben - erhebliche Spielräume zu (vgl. BGH, Beschlüsse vom 21. Januar 2014 - EnVR 12/12, RdE 2014, 276 Rn. 10, 21 bis 28 - Stadtwerke Konstanz GmbH; vom 22. Juli 2014 - EnVR 58/12, juris Rn. 13, 19 bis 27; RdE 2014, 495 Rn. 13, 19 bis 27 - Stromnetz Berlin GmbH; vom 12. Juni 2018 - EnVR 53/16, RdE 2018, 424 Rn. 55 - Stadtwerke Essen AG; vom 12. Juni 2018 - EnVR 43/16, juris Rn. 34; vom 12. Juni 2018 - EnVR 54/17, juris Rn. 55).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>b) Soweit - wie bei der Ermittlung der Datengrundlage für den Effizienzvergleich - die Wahl der Methoden sowie deren Anwendung der Regulierungsbehörde überlassen ist, sind deren Auswahlentscheidungen bei der Modellierung und Anwendung im Einzelnen nur eingeschränkt gerichtlich überprüfbar, nämlich nur - insoweit aber vollständig - darauf hin, ob die materiell-rechtlichen und verfahrensrechtlichen Grenzen eingehalten worden sind, die die Bundesnetzagentur zu beachten hatte. Zu prüfen ist daher stets, ob die Regulierungsbehörde die gültigen Verfahrensbestimmungen eingehalten hat, von einem richtigen Verständnis des anzuwendenden Gesetzesbegriffs ausgegangen ist, den erheblichen Sachverhalt vollständig und zutreffend ermittelt hat und sich bei der eigentlichen Beurteilung an allgemein gültige Wertmaßstäbe gehalten, insbesondere das Willkürverbot nicht verletzt hat. Darüber hinaus kann eine von der Bundesnetzagentur bei der Wahl der Methode oder der Anwendung der gewählten Methode getroffene Auswahlentscheidung von Rechts wegen nur dann beanstandet werden, wenn sich feststellen lässt, dass der gewählte methodische Ansatz von vornherein ungeeignet ist, die Funktion zu erfüllen, die ihm nach dem durch die Entscheidung der Regulierungsbehörde auszufüllenden gesetzlichen Rahmen zukommt, oder wenn ein anderes methodisches Vorgehen unter Berücksichtigung aller maßgeblichen Umstände so deutlich überlegen ist, dass die getroffene Auswahlentscheidung nicht mehr als mit den gesetzlichen Vorgaben vereinbar angesehen werden kann. Dieser eingeschränkte Prüfungsmaßstab folgt aus den Grenzen der rechtlichen Determinierung und Determinierbarkeit der Aufklärung und Bewertung komplexer ökonomischer Zusammenhänge und ist deshalb sowohl mit Art. 19 Abs. 4 GG als auch mit dem Anspruch auf Gewährung effektiven Rechtsschutzes vereinbar (st. Rspr., vgl. BGH, Beschlüsse vom 26. Januar 2021 - EnVR 7/20, BGHZ 228, 286 Rn. 27 f. - Genereller sektoraler Produktivitätsfaktor I; RdE 2022, 119 Rn. 16 - Genereller sektoraler Produktivitätsfaktor II; vom 5. Juli 2022 - EnVR 77/20, RdE 2022, 527 Rn. 38 mwN - REGENT; BVerwG, Urteil vom 29. März 2017 - 6 C 1/16, BVerwGE 158, 301 Rn. 31 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>c) Nach diesen Maßstäben hat die Bundesnetzagentur ihr Regulierungsermessen in Bezug auf die Festlegung der Datengrundlage für den Effizienzvergleich, insbesondere den Umgang mit nach dem 31. August 2018 bekannt gewordenen Datenfehlern rechtsfehlerfrei ausgeübt. Es begegnet weder rechtlichen Bedenken, dass sie Datenkorrekturen der betroffenen Netzbetreiber, die nach dem gesetzten Stichtag 31. August 2018 erfolgten, bei der Durchführung des Gesamt-Effizienzvergleichs nicht berücksichtigt und lediglich einige individuelle Effizienzwerte von Netzbetreibern abgeändert hat, noch, dass sie dies in einem Sonderfall anders gehandhabt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>aa) Nicht zu beanstanden ist, dass die Bundesnetzagentur den beteiligten Netzbetreibern einen Stichtag für mögliche Datenkorrekturen gesetzt und danach erfolgte Berichtigungen grundsätzlich nicht berücksichtigt hat. Das Beschwerdegericht hat zu Recht ausgeführt, dass ein solcher Stichtag erforderlich war, um in einem noch vertretbaren Zeitfenster eine valide, dann aber auch feststehende Datengrundlage für die Durchführung des Effizienzvergleichs zu erlangen. Es hat zutreffend angenommen, dass die Bundesnetzagentur den bis zum 31. August 2018 erhobenen Datenbestand als im Wesentlichen richtig und vollständig erachten konnte, da die Netzbetreiber im Vorfeld hinreichend Gelegenheit hatten, ihre eigenen Angaben zu überprüfen und gegebenenfalls zu ändern, und die Regulierungsbehörde selbst ebenfalls umfangreiche Kontrollen in Form von Plausibilitätsprüfungen durchgeführt hatte. Vor diesem Hintergrund war eine weitergehende Überprüfung der übermittelten Daten rechtlich nicht geboten (vgl. auch BGH, RdE 2014, 276 Rn. 84 f. - Stadtwerke Konstanz GmbH).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Dass die Bundesnetzagentur angesichts der zeitlichen Vorgaben jedenfalls nicht dazu verpflichtet war, den Effizienzvergleich, der eigentlich bereits am 1. Januar 2018 - dem Beginn der Regulierungsperiode - hätte abgeschlossen sein müssen, aufgrund einer nach dem Stichtag geänderten Datengrundlage durchzuführen, hat der Bundesgerichtshof für die hier in Rede stehende dritte Regulierungsperiode bereits in anderem Zusammenhang entschieden (BGH, Beschluss vom 20. Dezember 2022 - EnVR 45/21, WM 2023, 1477 Rn. 23 - Datenkorrektur). Er hat dort ausgeführt, dass eine Berücksichtigung der Datenfehler im komplexen System des Effizienzvergleichs Rückwirkungen auf zahlreiche andere Netzbetreiber haben würde, weil die Festlegung der Erlösobergrenzen für viele Netzbetreiber noch ausstand, und dass es daher zu Verfahrensverzögerungen und weiteren Verfahrensrisiken kommen konnte. Aus diesem Grund hat er bereits dort die Abwägungsentscheidung der Bundesnetzagentur gebilligt, trotz der bekannt gewordenen Datenfehler an der bisherigen Datengrundlage festzuhalten, nachdem sie diese Entscheidung auf Grundlage entsprechender Berechnungen für alle Netzbetreiber getroffen und mit dem überwiegenden Interesse an einer zügigen Festlegung der Erlösobergrenzen begründet hatte (BGH, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>bb) Auch das einmalige Abweichen von der Stichtagsregelung und die Berücksichtigung einer nach diesem Datum erfolgten Datenkorrektur ist von dem der Bundesnetzagentur zustehenden Entscheidungsspielraum gedeckt. Sie hat dies damit begründet, dass sich der Fehler auf die Effizienzwerte zahlreicher Netzbetreiber ausgewirkt habe, da der betreffende Netzbetreiber mit den falschen Daten in der DEA Benchmarkführer bei dem betreffenden Parameter gewesen sei und daher viele andere Effizienzwerte beeinflusst habe. Damit hat die Bundesnetzagentur einen nachvollziehbaren sachlichen Grund für ein Abweichen von der von ihr aufgestellten Regel in einem besonders gelagerten Einzelfall dargelegt; die Regel als solche wird dadurch entgegen der Ansicht der Betroffenen nicht in Frage gestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>cc) Ohne Erfolg rügt die Rechtsbeschwerde, dass die Bundesnetzagentur eine entsprechende Anpassung der Datengrundlage für den Effizienzvergleich im Hinblick auf die nachträgliche Richtigstellung eines anderen Netzbetreibers unterlassen hat, obwohl er ebenfalls in dem von der Korrektur betroffenen Strukturparameter Benchmarkführer war und diese Position infolge der Korrektur verloren hätte. Auch diese Entscheidung liegt (noch) im Rahmen des der Bundesnetzagentur eingeräumten Regulierungsermessens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>(1) Die Korrekturmitteilung durch den anderen Netzbetreiber erfolgte erst im Mai 2021 und damit mehr als ein Jahr nach Erlass der angefochtenen Festlegung und der Erlösobergrenzenfestlegungen für zahlreiche weitere Netzbetreiber. Die Bundesnetzagentur hat die potenziellen Auswirkungen einer Korrektur des Datenfehlers überprüft und die Abweichungen - Verschlechterung des individuellen Effizienzwertes um durchschnittlich 0,43 und maximal 1,55 Prozentpunkte bei 105 der übrigen Netzbetreiber, Verbesserung dieses Wertes um durchschnittlich 0,18, maximal 1,3 Prozentpunkte bei 54 Netzbetreibern - nicht für so gravierend gehalten, dass sie eine Neuberechnung aller Effizienzwerte erforderlich gemacht hätte. Sie hat somit zutreffend in den Blick genommen, dass sich eine potenzielle Datenkorrektur auf nahezu alle am Effizienzvergleich beteiligten Gasverteilernetzbetreiber ausgewirkt und im vierten Jahr der Regulierungsperiode deren Neubescheidung erforderlich gemacht hätte, die für den überwiegenden Teil der Gruppe zu einer Schlechterstellung geführt hätte. Dass sie vor diesem Hintergrund auf die Korrektur der Datengrundlage und eine Neuberechnung der Effizienzwerte für alle Netzbetreiber im Effizienzvergleich verzichtet hat, stellt keinen Ermessensfehler dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(2) Auch eine Neuberechnung des individuellen Effizienzwerts (nur) der Betroffenen unter Berücksichtigung der um den zutreffenden Wert des anderen Netzbetreibers korrigierten Datengrundlage war nicht geboten. Zwar hat der Bundesgerichtshof entschieden, dass eine solche Neuberechnung erforderlich sein kann, wenn die Regulierungsbehörde die Datenabfrage missverständlich gestaltet hat und der betreffende Netzbetreiber aus diesem Grund unrichtige Angaben macht (BGH, RdE 2014, 276 Rn. 124 bis 126 - Stadtwerke Konstanz GmbH). Hier hat die Betroffene indes mit der Rechtsbeschwerde nicht geltend gemacht, dass die fehlerhafte Datenmeldung des anderen Netzbetreibers oder der Umstand, dass dieser erst zu einem so späten Zeitpunkt bekanntgeworden ist, auf einem Versäumnis der Bundesnetzagentur beruhe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Im Ergebnis zu Recht hat das Beschwerdegericht auch die Auswahl der Vergleichsparameter für den Effizienzvergleich für rechtmäßig erachtet. Aufgrund des der Regulierungsbehörde zustehenden weiten Entscheidungsspielraums ist diese - für sich genommen - nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Vergleichsparameter sind gemäß § 13 Abs. 3 ARegV Parameter zur Bestimmung der Versorgungsaufgabe und der Gebietseigenschaften, insbesondere die geografischen, geologischen oder topografischen Merkmale und strukturellen Besonderheiten der Versorgungsaufgabe auf Grund demografischen Wandels des versorgten Gebietes. Sie müssen geeignet sein, die Belastbarkeit des Effizienzvergleichs zu stützen, was insbesondere dann anzunehmen ist, wenn sie messbar oder mengenmäßig erfassbar, nicht durch Entscheidungen des Netzbetreibers bestimmbar und nicht in ihrer Wirkung ganz oder teilweise wiederholend sind, insbesondere nicht bereits durch andere Parameter abgebildet werden. Exemplarisch nennt § 13 Abs. 3 Satz 4 ARegV als mögliche Vergleichsparameter für Gasversorgungsnetze die Anzahl der Ausspeisepunkte oder der Messstellen, die Fläche des versorgten Gebietes, die Leitungslänge oder das Rohrvolumen, die Jahresarbeit und die zeitgleiche Jahreshöchstlast.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Anders als in den ersten beiden Regulierungsperioden, in denen die Anzahl der Ausspeisepunkte, die Fläche des versorgten Gebietes, die Leitungslänge (Systemlänge) und die zeitgleiche Jahreshöchstlast als Pflichtparameter neben möglichen weiteren Vergleichsparametern vorgegeben waren (vgl. § 13 Abs. 4 Satz 1 ARegV in der bis zum 16. September 2016 geltenden Fassung), hat in der hier zu beurteilenden dritten Regulierungsperiode die Regulierungsbehörde sämtliche Vergleichsparameter zu bestimmen. § 13 Abs. 3 ARegV gibt insoweit nur vor, dass die Auswahl der Vergleichsparameter mit qualitativen, analytischen oder statistischen Methoden zu erfolgen hat, die dem Stand der Wissenschaft entsprechen (§ 13 Abs. 3 Satz 7 ARegV), und dass durch die Auswahl der Vergleichsparameter die strukturelle Vergleichbarkeit möglichst weitgehend gewährleistet sein und die Heterogenität der Aufgaben der Netzbetreiber möglichst weitgehend abgebildet werden sollen (§ 13 Abs. 3 Satz 8 ARegV). Ferner darf die Regulierungsbehörde bei der Bestimmung von Parametern zur Beschreibung geografischer, geologischer oder topografischer Merkmale und struktureller Besonderheiten der Versorgungsaufgabe auf Grund demografischen Wandels des versorgten Gebietes flächenbezogene Durchschnittswerte bilden (§ 13 Abs. 3 Satz 5 ARegV) oder die Vergleichsparameter bezogen auf die verschiedenen Netzebenen verwenden (§ 13 Abs. 3 Satz 6 ARegV).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Vor diesem Hintergrund hat das Beschwerdegericht zunächst das methodische Vorgehen der Bundesnetzagentur bei der Auswahl der Vergleichsparameter zu Recht nicht als fehlerhaft eingeordnet. Die Rechtsbeschwerde zeigt nicht auf, dass die von der Bundesnetzagentur und dem sie unterstützenden Beraterkonsortium angewandten Methoden qualitativ, analytisch oder statistisch nicht dem Stand der Wissenschaft entsprächen oder ihre Auswahlentscheidungen nach dem geltenden (oben Rn. 18) Prüfungsmaßstab als rechtswidrig einzuordnen wären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Die Bestimmung des funktionalen Zusammenhangs zwischen Kostentreibern (Vergleichsparametern) und Kosten ist nicht zu beanstanden. Soweit die Rechtsbeschwerde rügt, die von den Gutachtern der Bundesnetzagentur vorgenommene empirische Prüfung belege nicht, dass die Translog-Funktion vorzugswürdig sei, zeigt sie einen Rechtsfehler nicht auf. Sie legt weder dar, dass die Translog-Funktion nicht dem Stand der Wissenschaft entspräche, noch, dass sie von vornherein ungeeignet wäre, einen entsprechenden funktionalen Zusammenhang zu definieren. Auch nennt sie kein anderes methodisches Vorgehen, das unter Berücksichtigung aller maßgeblichen Umstände so deutlich überlegen wäre, dass die getroffene Auswahlentscheidung nicht mehr als mit den gesetzlichen Vorgaben vereinbar angesehen werden könnte. Dies gilt auch für ihre Rüge, mit Blick auf Hochdrucknetze fehle es an einer ingenieurwissenschaftlichen Vorauswahl der Vergleichsparameter. Denn sie legt nicht dar, dass die ausgewählten Vergleichsparameter zur Abbildung der Kosten der Hochdrucknetze von vornherein ungeeignet wären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>bb) Das schrittweise Vorgehen bei der Auswahl der Vergleichsparameter hat das Beschwerdegericht ebenfalls zu Recht gebilligt. Dieses ist im Gutachten des Beraterkonsortiums ausführlich beschrieben und nachvollziehbar begründet worden. Danach wurde zur Auswahl der Vergleichsparameter im ersten Schritt ein Ausgangsmodell bestimmt, das die Kernaufgaben und Kernkostentreiber von Gasverteilernetzbetreibern abbilden soll (Gutachten S. 83 ff.). Auf Basis des Ausgangsmodells wurden sodann weitere Leistungs- und Strukturparameter der Priorität 1 getestet. Anschließend wurden Parameter der Priorität 2 und der Priorität 3 getestet. Abschließend wurden wegen der Hinzufügung eines Parameters der Priorität 2 (Anzahl der Ausspeisepunkte über 5 bar) erneut die zuvor verworfenen Parameter getestet. Soweit die Rechtsbeschwerde beanstandet, das genannte stufenweise Verfahren sei wissenschaftlich höchst umstritten und erzeuge eine Pfadabhängigkeit, folgt daraus nicht die Rechtswidrigkeit des so ausgestalteten Effizienzvergleichs. Gleiches gilt für die Beurteilung dieses Vorgehens als "sehr kritisch" durch den von der Betroffenen betrauten Gutachter. Auch dessen Vorschläge für eine Fortentwicklung des Effizienzvergleichsmodells der zweiten Regulierungsperiode oder eine parallele Entwicklung verschiedener Modelle belegen nicht, dass das stufenweise Vorgehen nicht dem Stand der Wissenschaft entspräche oder von vornherein untauglich wäre, geeignete Vergleichsparameter auszuwählen, oder dass ein anderes methodisches Vorgehen unter Berücksichtigung aller maßgeblichen Umstände so deutlich überlegen wäre, dass die getroffene Auswahlentscheidung nicht mehr als mit den gesetzlichen Vorgaben vereinbar angesehen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>cc) Ohne Erfolg greift die Rechtsbeschwerde ferner an, dass das Beschwerdegericht die Entscheidung der Bundesnetzagentur und ihrer Berater gebilligt hat, eine gemeinsame Kostentreiberermittlung für beide in Anlage 3 zu § 12 ARegV genannten Methoden - DEA und SFA - durchzuführen. Soweit sie meint, die Verwendung von lediglich fünf Vergleichsparametern in der DEA führe dazu, dass diese im Ergebnis keine Auswirkung auf die Effizienzwertermittlung habe und die Gleichwertigkeit von DEA und SFA verletzt werde, belegt sie damit nicht die Untauglichkeit des methodischen Vorgehens der Bundesnetzagentur bei der Auswahlentscheidung. Ihre Annahme, die DEA habe keine Auswirkung auf die Effizienzwertermittlung, ist angesichts des Umstands, dass für 18 % der Netzbetreiber der in der DEA ermittelte Effizienzwert einschlägig ist, offensichtlich unzutreffend und zu trennen von der Frage der materiellen Gleichwertigkeit der Ergebnisse der beiden Methoden (vgl. dazu unten Rn. 69 f.). Mit dem Vorschlag, es hätte ein dem Effizienzvergleich der zweiten Regulierungsperiode mit neun Parametern ähnliches Modell verwendet werden müssen, zeigt sie keine offensichtlich überlegene Methode auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Ansicht der Rechtsbeschwerde ist die Auswahl der Vergleichsparameter auch inhaltlich noch von dem der Bundesnetzagentur zustehenden Entscheidungsspielraum gedeckt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>aa) Die von der Bundesnetzagentur herangezogenen Vergleichsparameter - das Rohrvolumen, die zeitgleiche Jahreshöchstlast aller Ausspeisungen, die Anzahl der Messstellen bei Letztverbrauchern und Netzkopplungspunkten, die Anzahl der Ausspeisepunkte über 5 bar sowie die Gewichtung des Anteils der vorherrschenden Bodenklassen 4, 5 und 6 (Tiefenstufe 0 bis 1 m) mit der Netzlänge - erfüllen sämtlich die Anforderungen des § 13 Abs. 3 Sätze 1 bis 3 ARegV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(1) Die Parameter Rohrvolumen, Jahreshöchstlast und Anzahl der Messstellen und Ausspeisepunkte werden in § 13 Abs. 3 Satz 4 ARegV ausdrücklich als mögliche Vergleichsparameter genannt. Der Einwand der Rechtsbeschwerde, der Vergleichsparameter Rohrvolumen sei nicht geeignet, die räumliche Ausdehnung des Versorgungsgebiets abzubilden, da für die Kostenhöhe nicht primär das Volumen, sondern die Netzlänge verantwortlich sei, greift nicht durch. Das Rohrvolumen wird von der Leitungslänge und der (inneren) Rohrquerschnittsfläche bestimmt (V = π·r<sup>2</sup>·L) und bildet damit zumindest teilweise die Leitungslänge ab, die wiederum auch nach Auffassung der Betroffenen die Ausdehnung des Versorgungsgebiets repräsentiert. Dass der mathematisch bedingt unterschiedliche Einfluss von Leitungslänge und Rohrdurchmesser auf das Rohrvolumen nicht deckungsgleich mit dem Einfluss von Leitungslänge und Rohrdurchmesser auf die Baukosten ist, stellt die grundsätzliche Eignung des Rohrvolumens als Parameter, der die Ausdehnung des Versorgungsgebietes abbildet, nicht in Frage. Denn die Parameterauswahl dient nicht der exakten Abbildung von Baukosten, sondern der Abbildung der Versorgungsaufgabe in einem Gesamtmodell.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(2) Auch der Einwand der Rechtsbeschwerde gegen die Einbeziehung der Gewichtung der vorherrschenden Bodenklassen 4, 5 und 6 als Vergleichsparameter greift nicht durch. Soweit sie meint, es sei unvertretbar, diesem Parameter die Aufgabe zuzuschreiben, auch die räumliche Ausdehnung der Versorgungsaufgabe zu erfassen, übersieht sie, dass er nach der Feststellung des Beschwerdegerichts ingenieurwissenschaftlich nicht zur Abbildung der Ausdehnung des Versorgungsgebiets, sondern zur Abbildung der geologischen Besonderheiten der Versorgungsaufgabe ausgewählt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>bb) Zu Recht hat das Beschwerdegericht erkannt, dass die Bundesnetzagentur nicht verpflichtet war, weitere Vergleichsparameter heranzuziehen oder die herangezogenen Vergleichsparameter abweichend zu definieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(1) Entgegen der Ansicht der Rechtsbeschwerde war die Bundesnetzagentur nicht verpflichtet, neben dem Rohrvolumen einen weiteren Vergleichsparameter heranzuziehen, durch den die räumliche Ausdehnung der Versorgungsaufgabe abgebildet wird. Das Beschwerdegericht hat festgestellt, dass nach den Berechnungen des Beraterkonsortiums der Bundesnetzagentur unter verschiedenen getesteten Modellen dasjenige mit dem Vergleichsparameter Rohrvolumen die höchste Modellgüte aufwies und gegenüber einem Modell, in dem zusätzlich der Parameter versorgte Fläche oder der Parameter Netzlänge herangezogen wird, auch für die Abbildung der räumlichen Ausdehnung der Versorgungsaufgabe vorzugswürdig war. Dem ist die Rechtsbeschwerde nicht fundiert entgegengetreten. Insbesondere zeigt sie nicht auf, dass die Beschränkung auf den Vergleichsparameter Rohrvolumen von vornherein ungeeignet ist, die räumliche Ausdehnung der Versorgungsaufgabe sachgerecht abzubilden, oder dass ein anderes methodisches Vorgehen unter Berücksichtigung aller maßgeblichen Umstände so deutlich überlegen ist, dass die getroffene Auswahlentscheidung nicht mehr als mit den gesetzlichen Vorgaben vereinbar angesehen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(2) Keinen Erfolg hat des Weiteren die Rüge der Rechtsbeschwerde, die Bundesnetzagentur hätte den Vergleichsparameter "Ausspeisepunkte über 5 bar" so definieren müssen, dass dieser auch die internen Ausspeisepunkte eines Netzbetreibers erfasst, der seine Leitungen aufgrund der von ihm zu erfüllenden Versorgungsaufgabe - Ferntransport und regionale sowie lokale Verteilung von Gas - in verschiedenen Druckstufen betreibt. Dem hat das Beschwerdegericht zutreffend entgegengehalten, dass damit die netzinterne Struktur und insofern ein endogener, also durch Entscheidungen des Netzbetreibers beeinflussbarer Umstand abgebildet würde, was in Widerspruch zu § 13 Abs. 3 Satz 3 ARegV stünde. Dieses Argument wird durch den Einwand der Rechtsbeschwerde, es liege im Wesentlichen an der gesellschaftsrechtlichen Struktur, ob ein Ausspeisepunkt extern oder intern sei, nicht entkräftet. Zudem legt die Rechtsbeschwerde nicht dar, dass ein Effizienzvergleich unter Einbeziehung der internen Ausspeisepunkte dem gewählten Modell so deutlich überlegen ist, dass die getroffene Auswahlentscheidung nicht mehr als mit den gesetzlichen Vorgaben vereinbar angesehen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(3) Soweit die Rechtsbeschwerde meint, in den Vergleichsparameter "Anzahl der Messstellen bei Letztverbrauchern und Netzkopplungspunkten" hätten auch Ausspeisepunkte einbezogen werden müssen, weil das Verhältnis von Messstellen zu Ausspeisepunkten bei den verschiedenen Verteilernetzbetreibern - insbesondere bei einem Vergleich von ländlichem mit großstädtischem Raum - erheblich variiere, führt auch dies nach dem genannten Prüfungsmaßstab nicht zur Rechtswidrigkeit der Parameterbestimmung durch die Bundesnetzagentur. Das Beschwerdegericht weist insoweit zu Recht darauf hin, dass das Beraterkonsortium, welches das Effizienzvergleichsmodell entwickelt hat, die zusätzliche Einbeziehung des Parameters Ausspeisepunkte getestet und diesen trotz einer teilweisen und geringfügigen Verbesserung der Modellgüte wegen Hinweisen auf Multikollinearität verworfen hat (vgl. Gutachten des Beraterkonsortiums, S. 94). Es hat damit der ausdrücklichen Vorgabe des § 13 Abs. 3 Satz 3 ARegV Rechnung getragen, dass die herangezogenen Parameter nicht in ihrer Wirkung ganz oder teilweise wiederholend sein sollen (vgl. dazu für den Effizienzvergleich in der ersten Regulierungsperiode BGH, Beschluss vom 9. Oktober 2012 - EnVR 88/10, RdE 2013, 22 Rn. 48 f. - SWM Infrastruktur GmbH; RdE 2014, 276 Rn. 48 - Stadtwerke Konstanz GmbH).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Rechtsfehlerfrei hat das Beschwerdegericht schließlich auch die Entscheidung der Bundesnetzagentur gegen eine Disaggregation der ausgewählten Vergleichsparameter gebilligt. Die Bundesnetzagentur hat insoweit ausgeführt, eine Disaggregation der Parameter Leitungslänge und Rohrvolumen im Hochdruckbereich (über 16 bar) würde nicht zu einem besseren Erklärungsgehalt des Effizienzvergleichsmodells führen; die Druckstufe sei durch Entscheidungen des Netzbetreibers bestimmbar und damit endogen, weil dieser bei der Auslegung des Netzes hinsichtlich der Druckstufen Spielräume habe. Der dagegen von der Rechtsbeschwerde erhobene Einwand, die Wahl der geeigneten Druckstufenklasse hänge maßgeblich von Kundenforderungen ab und stelle damit selbst eine exogene Anforderung an den Netzbetreiber dar, greift nicht durch. Die Betroffene räumt selber ein, dass Gasnetzbetreibern bei der exakten Wahl der Druckstufen ein Gestaltungsspielraum verbleibt und diese somit jedenfalls nicht ausschließlich exogen bestimmt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>4. Schließlich stellt es auch keinen Rechtsfehler dar, dass das Beschwerdegericht das Vorgehen der Bundesnetzagentur gebilligt hat, die acht Netzbetreiber ohne Konzessionsgebiet in den Effizienzvergleich einzubeziehen. Zwar weisen die Netze dieser Betreiber, wie der Bundesgerichtshof in Bezug auf die am Effizienzvergleich für die zweite Regulierungsperiode beteiligten fünf ehemaligen regionalen Fernleitungsnetzbetreiber festgestellt hat und auch hier von der Bundesnetzagentur nicht in Abrede gestellt wird, besondere Strukturen auf. So liegt der Anteil von mit Hochdruck (mehr als 16 bar) betriebenen Leitungen bei fast 100 % und wird das Gas in diesen Netzen über große Entfernungen und in hohen Durchsatzmengen transportiert bei einer im Verhältnis dazu geringen Zahl von Anschlusspunkten und sonstigen Betriebseinrichtungen, was bei einigen Vergleichsparametern zu Werten führt, die sich von denjenigen anderer Verteilernetze fundamental unterscheiden (vgl. BGH, RdE 2018, 424 Rn. 47 - Stadtwerke Essen AG). Diese Abweichungen in den von den Netzbetreibern ohne Konzessionsgebiet einerseits und den übrigen Netzbetreibern andererseits zu erfüllenden Versorgungsaufgaben und den daraus resultierenden Netzstrukturen haben jedoch nicht zur Folge, dass die Netzbetreiber ohne Konzessionsgebiet aus dem Effizienzvergleich für die Verteilernetzbetreiber zwingend auszuschließen wären. Vielmehr wäre die Durchführung eines gesonderten Effizienzvergleichs für solche regionalen Transportnetzbetreiber durch die gesetzlichen Vorgaben nur dann geboten, wenn aufgrund der Versorgungsaufgabe oder anderer objektiver Umstände bestehenden Unterschieden durch die geeignete Ausgestaltung eines gemeinsamen Effizienzvergleichs nicht angemessen Rechnung getragen werden könnte (BGH, RdE 2018, 424 Rn. 45 - Stadtwerke Essen AG). Dies steht indes auch für die dritte Regulierungsperiode nicht fest.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>5. Das Beschwerdegericht hat jedoch außer Acht gelassen, dass das von der Bundesnetzagentur für die Durchführung des Effizienzvergleichs herangezogene Modell insgesamt den objektiven strukturellen Unterschieden der von den am Vergleich beteiligten Netzbetreibern zu erfüllenden Versorgungsaufgaben nicht hinreichend Rechnung trägt und aus diesem Grund mit den Vorgaben des § 21a Abs. 5 Satz 1 EnWG nicht in Einklang steht. Es führt zu einer systemischen Bevorzugung von Unternehmen mit besonderen Netzstrukturen, insbesondere von Netzbetreibern ohne Konzessionsgebiet, was von den der Bundesnetzagentur auch bei der Wahl der Methode zustehenden Spielräumen, wie einzelnen strukturellen Besonderheiten der verglichenen Netze Rechnung getragen wird, nicht mehr gedeckt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>a) Die Methodik der DEA in Verbindung mit der in § 12 Abs. 3 und Abs. 4a Satz 3 ARegV festgelegten Best-of-Four-Abrechnung birgt das Risiko, dass Netzbetreiber mit besonderen Netzstrukturen - wie Fernleitungsnetzbetreiber - nicht allein aufgrund ihrer unternehmerischen Leistung als effizient eingestuft und aufgrund der spezifisch von ihnen zu erbringenden Versorgungsaufgabe im Effizienzvergleich gegenüber anderen Netzbetreibern bevorzugt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Definition in Nr. 1 Satz 1 Buchst. a) der Anlage 3 zu § 12 ARegV ist die DEA eine nicht-parametrische Methode, in der die optimalen Kombinationen von Aufwand und Leistung aus einem linearen Optimierungsproblem resultieren. Die Bestimmung einer Effizienzgrenze erfolgt aus den Daten aller in den Effizienzvergleich einzubeziehenden Unternehmen und der Ermittlung der relativen Positionen der einzelnen Unternehmen gegenüber dieser Effizienzgrenze. In der DEA werden die Faktoreinsätze der Unternehmen den Unternehmensleistungen gegenübergestellt und der Effizienzmaßstab durch eine optimale Kombination von Kosten (Input) und Versorgungsaufgabe (Output) bestimmt. Auf eine Annahme zum funktionalen Zusammenhang zwischen Kosten und Versorgungsaufwand wird verzichtet. Als Outputs können alle wesentlichen Kostentreiber (Vergleichsparameter) erfasst und daneben Variablen berücksichtigt werden, die verschiedene Randbedingungen der Leistungserbringung erfassen. Der Effizienzmaßstab leitet sich aus den übermittelten Daten aller in den Effizienzvergleich einbezogenen Netzbetreiber ab und bildet bildlich gesprochen eine effiziente mehrdimensionale Hülle. Die zu 100 % effizienten Unternehmen befinden sich auf der Hülle. Für die übrigen Unternehmen errechnet sich ihr Effizienzwert aus dem relativen Abstand zu dieser effizienten Hülle (vgl. Gutachten des Beraterkonsortiums, S. 16 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Demgegenüber ist die SFA eine parametrische Methode, die einen funktionalen Zusammenhang zwischen Aufwand und Leistung in Form einer Kostenfunktion herstellt (vgl. Nr. 1 Satz 1 Buchst. b) der Anlage 3 zu § 12 ARegV). Im Rahmen der SFA werden die Abweichungen zwischen den tatsächlichen und den regressionsanalytisch geschätzten Kosten in einen symmetrisch verteilten Störterm und eine positiv verteilte Restkomponente zerlegt, die Ausdruck von Ineffizienz ist und bei der von einer schiefen Verteilung ausgegangen wird. Mittels einer Regressionsanalyse wird in der SFA ein statistischer Zusammenhang zwischen Kosten und Kostentreibern (Vergleichsparametern) identifiziert und die Stärke dieses Zusammenhangs ermittelt (vgl. Gutachten S. 17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Für die Festlegung des individuellen Effizienzwerts des jeweiligen Netzbetreibers ist nach den Vorgaben der Anreizregulierungsverordnung eine doppelte Bestabrechnung vorzunehmen (sog. Best-of-Four-Abrechnung). Gemäß § 12 Abs. 3 ARegV ist der höhere Effizienzwert zu verwenden, wenn die für ihn in der DEA und der SFA ermittelten Effizienzwerte voneinander abweichen; Entsprechendes gilt, wenn die mit gemäß § 14 Abs. 1 Nr. 3, Abs. 2 ARegV standardisierten Kosten errechneten Effizienzwerte sich nicht mit denjenigen decken, die sich bei einer Rechnung mit nicht-standardisierten Kosten ergeben (§ 12 Abs. 4a Satz 3 ARegV).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) Folge des DEA-Modells ist, was auch die Bundesnetzagentur nicht in Frage stellt, dass ein Netzbetreiber, der bei nur einem Vergleichsparameter in Bezug auf seine Gesamtkosten ein hervorragendes Input-Output-Verhältnis hat, (insgesamt) als effizient eingestuft wird, also einen Effizienzwert von 100 % erlangen und damit zugleich sogenanntes Peer-Unternehmen für die übrigen Netzbetreiber in diesem Vergleichsparameter werden kann. In der DEA hindern daher gegebenenfalls auch (in Relation zu den Gesamtkosten) schlechte Outputwerte bei anderen Parametern nicht die Einstufung als Peer-Unternehmen und die Erlangung eines Effizienzwerts von 100 %. Der methodische Ansatz der DEA hat somit zur Folge, dass bei Unternehmen mit extremen Ausprägungen bei einzelnen Vergleichsparametern des Effizienzvergleichsmodells, sogenannten Alleinstellungsmerkmalen, die Effizienz überschätzt werden kann, worauf auch in der Literatur ausdrücklich hingewiesen wird (vgl. Albrecht/Mallossek/Petermann in Holznagel/Schütz, Anreizregulierungsrecht, 2. Aufl., § 12 ARegV Rn. 61; Breßlein in Säcker, Berliner Kommentar zum Energierecht, 4. Aufl., § 12 ARegV Rn. 19).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Da auch für Unternehmen, die aufgrund extremer Ausprägungen bei einem einzigen oder einzelnen Vergleichsparametern Peer-Unternehmen werden, aufgrund der Best-of-Four-Abrechnung im Ergebnis ein individueller Effizienzwert von (mindestens) 100 % gilt, besteht systemisch das Risiko, dass solche Unternehmen im Gesamtergebnis des Effizienzvergleichs im Verhältnis zu anderen Unternehmen besser eingestuft werden, ohne dass dies durch eine tatsächlich höhere Effizienz begründet wäre, und dass sie außerdem die Effizienzwerte der anderen Unternehmen nachteilig beeinflussen. Das bedeutet zugleich, dass gegebenenfalls entgegen § 21a Abs. 5 Satz 1 EnWG und § 13 Abs. 3 Satz 8 ARegV die besondere Struktur der Versorgungsaufgabe eines Netzbetreibers und nicht allein seine Effizienz bestimmt, welchen individuellen Effizienzwert er erlangt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>b) Die vom Beschwerdegericht getroffenen Feststellungen und die im Gutachten des Beraterkonsortiums aufgeführten Ergebnisse des Effizienzvergleichs, insbesondere die individuellen Effizienzwerte der beteiligten Netzbetreiber, indizieren, dass jedenfalls die Netzbetreiber ohne Konzessionsgebiet, deren Netzstruktur, wie ausgeführt (oben Rn. 42), erheblich von der Struktur der übrigen Verteilernetze abweicht, durch das von der Bundesnetzagentur für den Effizienzvergleich entwickelte und angewandte Modell systemisch bevorzugt werden und zugleich eine Schlechterstellung der anderen Netzbetreiber bewirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>aa) Bereits die Gesamtbetrachtung der individuellen Effizienzwerte aller 183 am Effizienzvergleich beteiligten Netzbetreiber legt die strukturelle Bevorzugung der Netzbetreiber ohne Konzessionsgebiet durch das Effizienzvergleichsmodell nahe. Nach den Feststellungen des Beschwerdegerichts haben alle acht Netzbetreiber ohne Konzessionsgebiet nach der Best-of-Four-Methode aus der DEA einen Effizienzwert von 100 % erhalten, während diesen Wert von den übrigen 175 am Effizienzvergleich beteiligten Netzbetreibern (nur) 14 weitere Unternehmen erreichen (vgl. auch Gutachten S. 244 ff., Tabelle 75). Es erscheint aber fernliegend, dass 100 % der reinen Transportnetzbetreiber effizient sind, jedoch nur 8 % der übrigen Verteilernetzbetreiber. Die gegensätzlichen Werte deuten daher darauf hin, dass die besonderen Strukturen der reinen Fernleitungsnetze durch die Ausgestaltung des Effizienzvergleichs, insbesondere die Wahl der Vergleichsparameter, begünstigt werden, die objektive Vergleichbarkeit der Unternehmen mit unterschiedlichen Netzstrukturen also gerade nicht hergestellt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Diese Einschätzung wird durch die weitere Erläuterung der Ergebnisse des Gutachtens des Beraterkonsortiums durch die Bundesnetzagentur im Beschwerdeverfahren gestützt. Danach erhalten, worauf auch die Betroffene im Rechtsbeschwerdeverfahren hingewiesen hat, drei der acht Netzbetreiber ohne Konzessionsgebiet ihren Status als Peer-Unternehmen in der DEA über jeweils nur einen einzigen Vergleichsparameter, nämlich - bei beiden Kostenarten - das Rohrvolumen, die Jahreshöchstlast und - bei den standardisierten Kosten - die Ausspeisepunkte über 5 bar, während sich der Parameter Messstellen bei den Netzbetreibern ohne Konzessionsgebiet gar nicht auf den individuellen Effizienzwert auswirkt (0 %) und der Parameter Bodenklassen bei ihnen lediglich 2 % (bei den nicht-standardisierten Kosten) beziehungsweise 10 % (bei den standardisierten Kosten) ausmacht. Diese Zahlen untermauern, dass im vorliegenden Effizienzvergleichsmodell Unternehmen mit Netzstrukturen, wie sie bei den Netzbetreibern ohne Konzessionsgebiet bestehen, bei drei der fünf für das Effizienzvergleichsmodell ausgewählten Parameter ihre Outputwerte so kostengünstig erzielen können, dass für sie die beiden anderen Vergleichsparameter - teilweise sogar vier von fünf Vergleichsparametern - in der DEA keine Bedeutung mehr haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>bb) Aus dem Gutachten des Beraterkonsortiums und seiner Erläuterung durch die Bundesnetzagentur ergibt sich darüber hinaus, dass die Gruppe der Netzbetreiber ohne Konzessionsgebiet, die weniger als 5 % der am Effizienzvergleich beteiligten Netzbetreiber ausmachen, einen weit überproportionalen Einfluss auf das Ergebnis des Effizienzvergleichs hat. Von den acht Netzbetreibern ohne Konzessionsgebiet bleiben nach der Ausreißeranalyse bei beiden Kostenarten sechs Unternehmen im Datensatz und spannen zusammen mit weiteren neun beziehungsweise zehn Netzbetreibern die Effizienzgrenze auf (vgl. Gutachten des Beraterkonsortiums, S. 132 ff.). Sämtliche im Datensatz verbleibenden Netzbetreiber ohne Konzessionsgebiet sind also sogenannte Peer-Unternehmen. Nach den Ausführungen der Bundesnetzagentur im Beschwerdeverfahren nehmen sie bei den standardisierten Kosten mit 167 von 632 Beeinflussungen und 190 von 662 Beeinflussungen bei den nicht-standardisierten Kosten, also in mehr als einem Viertel der Fälle, direkten Einfluss auf den nach der DEA bestimmten Effizienzwert anderer Verteilernetzbetreiber. Ihr Einfluss geht somit um ein Vielfaches über den durchschnittlichen Einfluss der übrigen Netzbetreiber hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>cc) Die Bundesnetzagentur hat nicht festgestellt und dargelegt, dass diese Dominanz der Netzbetreiber ohne Konzessionsgebiet bei den in der DEA ermittelten Effizienzwerten durch eine tatsächlich gegenüber den anderen Netzbetreibern höhere Effizienz bedingt ist. Bereits angesichts des - statistisch jedenfalls sehr auffälligen - Umstands, dass in der DEA sämtliche Netzbetreiber ohne Konzessionsgebiet einen Effizienzwert von 100 % erreichen, von den übrigen Verteilernetzbetreibern jedoch nur jeder Zwölfte, wäre eine Überprüfung des Ergebnisses aber angezeigt gewesen. Denn bei diesem Befund drängt sich auf, dass die ermittelten Werte wesentlich darauf beruhen, dass die von den Netzbetreibern ohne Konzessionsgebiet zu erfüllende Versorgungsaufgabe objektiv einen geringeren Kostenaufwand erfordert als die Versorgungsaufgaben der übrigen Verteilernetzbetreiber.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>c) Der somit anzunehmenden systemischen Bevorzugung der Netzbetreiber ohne Konzessionsgebiet in der DEA, die sich wegen der Best-of-Four-Abrechnung nach § 12 Abs. 3 und Abs. 4a Satz 3 ARegV im Effizienzvergleich insgesamt niederschlägt, hat die Bundesnetzagentur in dem angewandten Modell nicht hinreichend entgegengewirkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>aa) Bei der Auswahl der Vergleichsparameter wurde die oben (Rn. 48 f.) beschriebene Wirkungsweise der DEA und die damit verbundene Gefahr einer Bevorzugung von Unternehmen, die - wie die Netzbetreiber ohne Konzessionsgebiet - Netze mit extremen Strukturen betreiben, nicht berücksichtigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>(1) Zwar sollte das Verfahren zur Auswahl der Vergleichsparameter nach der Begründung im Gutachten des Beraterkonsortiums der Priorisierung der Vergleichsparameter im Hinblick auf ihre Eignung dienen, die Unterschiede in der Versorgungsaufgabe optimal zu beschreiben (Gutachten S. 34). Allerdings sind die Analysen zur Bestimmung des funktionalen Zusammenhangs zwischen Kostentreibern und Kosten sowie die Identifizierung der relevanten Kostentreiber allein anhand stochastischer Verfahren erfolgt und haben nur darauf abgestellt, welche Kombination von Parametern die verschiedenen Dimensionen der Versorgungsaufgabe der Verteilernetzbetreiber insgesamt am besten beschreibt (vgl. Gutachten S. 34). Es wurde nicht in den Blick genommen, dass in der DEA modellbedingt bereits bei einem einzelnen Parameter ein besonders gutes Input-Output-Verhältnis dazu führen kann, dass der betreffende Netzbetreiber zum Benchmarkführer wird und einen Effizienzwert von 100 % - oder über den Effizienzbonus nach § 12a ARegV sogar von bis zu 105 % - erhält. Dementsprechend wurde auch nicht bei den einzelnen Vergleichsparametern geprüft, ob und inwiefern das jeweilige Input-Output-Verhältnis eines Netzbetreibers durch die Struktur der von ihm zu erfüllenden Versorgungsaufgabe beeinflusst wird, obwohl im Gutachten selbst ausdrücklich festgestellt wird, dass die Netzbetreiber ohne Konzessionsgebiet bei den Parametern Jahreshöchstlast und Anzahl der Ausspeisepunkte durch extreme Merkmalsausprägungen auffallen, dass nämlich die zeitgleiche Jahreshöchstlast pro Euro standardisierte Kosten oberhalb des 95%-Quantils und die Anzahl der Ausspeisepunkte pro Euro standardisierte Kosten unterhalb des 5%-Quantils liegen (Gutachten S. 55).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(2) Die unzureichende Beachtung der Wirkungsweise der DEA bei der Vergleichsparameterauswahl wird durch die erfolgte regulierungssystematische Einordnung des zuvor ausgewählten Modells belegt (Gutachten des Beraterkonsortiums, S. 117). Mit der Modellspezifikation sollte erklärtermaßen besonderes Augenmerk auf die strukturelle Vergleichbarkeit und die Heterogenität der Aufgaben der Netzbetreiber gelegt werden. Dies ist allerdings nur unter dem Gesichtspunkt erfolgt, ob gerade die Kombination der gewählten Vergleichsparameter geeignet ist, alle von einem Gasverteilernetzbetreiber potenziell zu erfüllenden Versorgungsaufgaben abzubilden. Ein solches Vorgehen wäre ausreichend, wenn die Strukturen der verglichenen Netze sich so ähnlich wären, dass sämtlichen der gewählten Vergleichsparameter bei jedem Netz ein ähnlicher Erklärungswert zukommt. Das aber ist hier, wie beschrieben, nicht der Fall. Insofern wäre auch eine Prüfung der einzelnen Vergleichsparameter im Hinblick darauf angezeigt gewesen, ob sie bei bestimmten Netz- und Versorgungsstrukturen besonders stark ausgeprägt sind und daher - in Kombination mit den anderen Vergleichsparametern - in der DEA zu einer Bevorzugung von Netzbetreibern mit besonderen Versorgungsstrukturen führen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Dass das Beraterkonsortium diesen Aspekt nicht im Blick hatte, folgt auch aus dem Umstand, dass im Gutachten ausdrücklich betont wird, durch die im finalen Effizienzvergleichsmodell verwendeten Parameter würden die verschiedenen "Verteilnetztypen" abgebildet. Dort wird ausgeführt, die Besonderheiten sogenannter Flächennetzbetreiber, die Gas über weite Distanzen transportierten und in weniger dicht besiedelten Gebieten tätig seien, würden sowohl durch das Rohrvolumen (mit Querschnitt gewichtete Leitungslänge) als Ausdehnungsparameter als auch durch die Gewichtung der kostenerhöhenden Bodenklassen mit der Netzlänge abgebildet. Besonderheiten von Netzbetreibern, die eher im verdichteten städtischen Raum tätig seien, würden durch den Parameter Anzahl der Messstellen in Verbindung mit dem Ausdehnungsparameter Rohrvolumen abgebildet, und die Besonderheiten von Netzbetreibern mit hohem regionalem Transportanteil würden durch den Parameter Jahreshöchstlast und die Anzahl der Ausspeisepunkte über 5 bar erfasst (Gutachten S. 117). Die Frage, ob durch die ausgewählten Parameter den Besonderheiten der Netzbetreiber ohne Konzessionsgebiet im Vergleich zu den Netzbetreibern mit Konzessionsgebiet gerade dergestalt Rechnung getragen wird, dass eine Verzerrung des Ergebnisses des Effizienzvergleichs verhindert wird, wirft das Gutachten weder auf, noch beantwortet es diese.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>bb) Ein Ausgleich der dargelegten systemischen Bevorzugung der Betreiber von Netzen mit besonderen Merkmalsausprägungen durch die Methodik der DEA erfolgt nicht systemimmanent dadurch, dass die Anreizregulierungsverordnung mit der SFA eine zweite, unabhängig neben der DEA stehende Methode zur Effizienzwertbestimmung vorsieht. Selbst wenn die effizienten Netzbetreiber ohne besondere Merkmalsausprägungen über die SFA einen Effizienzwert von 100 % erzielen könnten - was im vorliegenden Effizienzvergleichsverfahren allerdings gerade nicht der Fall war (vgl. dazu sogleich unter 6., Rn. 66 ff.) - und dieser über die Best-of-Four-Abrechnung auch im Ergebnis für sie maßgeblich wäre, würde dies nichts daran ändern, dass es für Betreiber von Netzen mit besonderen Merkmalsausprägungen systembedingt leichter ist, in der DEA Spitzenpositionen zu besetzen, die für andere (effiziente) Netzbetreiber dadurch nicht erreichbar sind und die überdies wegen der erheblichen Einflüsse ihrer extremen Outputwerte in der DEA die Werte anderer Unternehmen negativ beeinflussen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>cc) Auch die von der Bundesnetzagentur - in der DEA wie in der SFA - durchgeführte Ausreißeranalyse wiegt die im Effizienzvergleichsmodell angelegte Ungleichbehandlung der beteiligten Netzbetreiber nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>(1) Zwar kann nach der Rechtsprechung des Senats die Ausreißeranalyse zur Identifikation und Aussonderung von Extremwerten genutzt werden, die sich aus objektiven Besonderheiten einzelner Netze ergeben (vgl. BGH, RdE 2018, 424 Rn. 58 f. - Stadtwerke Essen AG; Beschluss vom 9. Juli 2019 - EnVR 76/18, RdE 2019, 466 Rn. 39 - Effizienzvergleich). Daraus folgt indes nicht, dass diesen Besonderheiten auch dann hinreichend Rechnung getragen wird, wenn die Ausreißeranalyse - wie hier - nicht zur Aussonderung der betreffenden Netzbetreiber führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Die Ausreißeranalyse dient dazu, statistische Auffälligkeiten zu erkennen und zu verhindern, dass durch solche Auffälligkeiten die Ergebnisse des Effizienzvergleichs verzerrt werden. Sie ist jedoch nicht in der Lage, strukturbedingte Besonderheiten von Netzen aufzudecken, die keine statistischen Auffälligkeiten aufweisen, und damit die strukturelle Vergleichbarkeit von nicht als Ausreißern erkannten Netzbetreibern mit der restlichen Vergleichsgruppe positiv festzustellen. Aus diesem Grund ist zwar die Ausreißeranalyse an sich nicht zu beanstanden, wenn sie im Ergebnis nicht zur Identifizierung aller Netzbetreiber mit zuvor erkannter besonderer Merkmalsausprägung als Ausreißer führt. Der Umkehrschluss, dass durch die Ausreißeranalyse den Besonderheiten der Verteilernetzbetreiber ohne Konzessionsgebiet Rechnung getragen wird, kommt aber allenfalls dann in Betracht, wenn sie - wie im Effizienzvergleich der zweiten Regulierungsperiode - im Ergebnis dazu führt, dass durch die Identifizierung der in Rede stehenden Netzbetreiber als Ausreißer ein verzerrender Einfluss dieser Netzbetreiber auf den Effizienzvergleich ausgeschlossen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>(2) Vorliegend sind die acht am Effizienzvergleich beteiligten Netzbetreiber ohne Konzessionsgebiet - anders als in der zweiten Regulierungsperiode - im Effizienzvergleich in der DEA nicht sämtlich als Ausreißer identifiziert worden. Zwar wurden zwei dieser Unternehmen infolge der Ausreißeranalyse aus dem Datensatz für die Berechnung der Effizienzwerte herausgenommen. Dadurch wird ein verzerrender Einfluss der Gruppe der Netzbetreiber ohne Konzessionsgebiet auf den Effizienzvergleich aber nicht ausgeschlossen. Denn die im Datensatz verbleibenden sechs Netzbetreiber ohne Konzessionsgebiet nehmen, wie dargelegt (oben Rn. 53), erheblichen Einfluss auf die in der DEA errechneten Effizienzwerte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>d) Dadurch, dass die Bundesnetzagentur bei der Durchführung des Effizienzvergleichs den objektiv gegebenen strukturellen Besonderheiten der Netzbetreiber ohne Konzessionsgebiet im Vergleich zu den anderen Netzbetreibern nicht - wie nach § 21a Abs. 5 Satz 1 EnWG geboten - Rechnung getragen hat, hat sie den Spielraum überschritten, der ihr auch hinsichtlich der Frage zusteht, durch welche methodische Vorgehensweise sie die verschiedenen Strukturen der Versorgungsaufgaben berücksichtigt. Sie hat objektiv gegebene Besonderheiten nicht oder zumindest nicht in angemessener Weise berücksichtigt. Damit erweist sich ihre Entscheidung nach den geltenden Maßstäben (vgl. oben Rn. 18; BGH, RdE 2018, 424 Rn. 56 - Stadtwerke Essen AG) als rechtsfehlerhaft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>6. Zu Unrecht hat das Beschwerdegericht schließlich gebilligt, dass nach dem von der Bundesnetzagentur für den Effizienzvergleich verwendeten Modell in der SFA lediglich Effizienzwerte von unter 97 % vergeben worden sind. Dies verstößt gegen die Vorgabe in Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV, dass die Effizienzgrenze von den Netzbetreibern mit dem besten Verhältnis zwischen netzwirtschaftlicher Leistungserbringung und Aufwand gebildet wird und für Netzbetreiber, die im Effizienzvergleich als effizient ausgewiesen werden, ein Effizienzwert in Höhe von 100 Prozent gilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Gesamtaufstellung der individuellen Effizienzwerte der beteiligten Netzbetreiber im Gutachten des Beraterkonsortiums (dort S. 244 ff., Tabelle 75) erhalten 150 der beteiligten 183 Netzbetreiber nach der Best-of-Four-Methode ihren Effizienzwert aus der SFA. Der höchste in der SFA vergebene Effizienzwert beträgt 96,97 %, der höchste über die Best-of-Four-Methode bestabgerechnete SFA-Wert liegt bei 96,78 %. Demgegenüber erlangen in der DEA 23 Netzbetreiber einen Effizienzwert von 100 %.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>b) Dieses Resultat verstößt gegen die Vorgaben in Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>aa) Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV ist dahin auszulegen, dass in beiden Methoden - der DEA und der SFA - die als am effizientesten ausgewiesenen Unternehmen einen Effizienzwert von 100 % erhalten müssen. Beide Methoden, die gleichberechtigt nebeneinanderstehen, stellen einen relativen Vergleich an, bei dem die als am effizientesten ermittelten Unternehmen die Bezugsgröße darstellen (vgl. Bundesrat, 836. Sitzung vom 21. September 2007, Plenarprotokoll 836, S. 299 f.; Breßlein in Säcker, Berliner Kommentar zum Energierecht, 4. Aufl., § 12 ARegV, Rn. 9 f.). Aus dieser normativen Vorgabe folgt, dass in beiden Methoden die Unternehmen, die als die relativ effizientesten ermittelt worden sind, einen Effizienzwert von 100 % erhalten müssen. Es ist somit normativ ausgeschlossen, dass die gemäß Nr. 2 Satz 2 der Anlage 3 zu § 12 ARegV "effizienten" Unternehmen ausschließlich solche sind, die in der DEA einen Effizienzwert von 100 % erzielen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>bb) Dem steht, anders als das Beschwerdegericht meint, nicht entgegen, dass die rechnerische Erreichbarkeit eines Effizienzwerts von 100 % in der SFA aufgrund des methodenimmanenten Abzugs der Störtermkomponente selbst für den effizientesten Netzbetreiber ausgeschlossen ist. Diese in der Methodik liegende Besonderheit der SFA steht nicht in Zweifel und wird auch von der Betroffenen nicht in Abrede gestellt. Das Beschwerdegericht und die Bundesnetzagentur verkennen aber, dass ein Wert von 100 % für die relativ effizientesten Unternehmen auch auf andere Weise - etwa durch Zuschläge oder Anhebung des Niveaus - festgesetzt werden kann, wenn er methodenbedingt rein rechnerisch nicht zu erzielen ist, und dass eine solche "Nachjustierung" die notwendige Konsequenz aus der Gleichwertigkeit der beiden Methoden - DEA und SFA - ist. Auf welche Weise dies geschieht, steht im pflichtgemäßen Ermessen der Bundesnetzagentur.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>c) Die Festsetzung der individuellen Effizienzwerte in der SFA erweist sich danach auch aus diesem Grund als rechtswidrig. Da die (relativ) effizientesten Netzbetreiber die Bezugsgröße für die übrigen Netzbetreiber darstellen und damit deren individuelle Effizienzwerte beeinflussen, gilt dies nicht nur für die Festlegung der Effizienzwerte der (relativ) effizientesten Netzbetreiber auf die rechnerisch ermittelten Werte von unter 97 %, sondern auch für alle übrigen in der SFA festgesetzten Effizienzwerte. Die Bundesnetzagentur ist insoweit von einem unrichtigen Verständnis des anzuwendenden Gesetzesbegriffs ausgegangen, und ihr Vorgehen ist auch nicht durch die ihr bei der Methodenwahl eingeräumten Spielräume gedeckt. Sie war, wie bereits ausgeführt (oben Rn. 10), trotz ihrer durch das Unionsrecht geforderten Unabhängigkeit bei der Durchführung des Effizienzvergleichs und der Festsetzung der individuellen Effizienzwerte an die Vorgaben der Anreizregulierungsverordnung gebunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>III. Danach ist der Beschluss des Beschwerdegerichts aufzuheben, soweit er die Festlegung des individuellen Effizienzwerts der Betroffenen durch die Bundesnetzagentur gebilligt hat. Die angefochtene Festlegung der Bundesnetzagentur kann keinen Bestand haben; vielmehr ist der Effizienzwert für die Betroffene unter Beachtung der Rechtsauffassung des Senats neu zu ermitteln, und auf dieser Basis sind die Erlösobergrenzen für die Betroffene neu festzulegen. Die Art und Weise, in der dies geschieht, unterliegt den der Bundesnetzagentur innerhalb der aufgezeigten rechtlichen Grenzen eingeräumten Spielräumen, wobei sie hinsichtlich der dabei herangezogenen Datengrundlage ihr Ermessen neu auszuüben hat. Über den hilfsweise gestellten Antrag auf Bereinigung des Effizienzwerts nach § 15 ARegV ist nicht zu entscheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 90 EnWG, die Festsetzung des Gegenstandswerts auf §§ 50 Abs. 1 Satz 1 Nr. 2, 39 Abs. 2 GKG, § 3 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kirchhoff     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Tolkmitt     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Picker</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Holzinger     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kochendörfer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301232023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

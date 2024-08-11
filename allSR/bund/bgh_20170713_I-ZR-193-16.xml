@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE319242017</doknr>
+   <ecli>ECLI:DE:BGH:2017:130717UIZR193.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20170713</entsch-datum>
+   <aktenzeichen>I ZR 193/16</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 7 EUGrdRCh, Art 17 Abs 2 EUGrdRCh, Art 8 Abs 2 EGRL 48/2004, Art 2 GG, Art 10 Abs 1 GG, Art 14 Abs 1 GG, § 2 Abs 1 Nr 2  UrhG, § 2 Abs 2  UrhG, § 19a UrhG, § 69a Abs 3 UrhG, § 69c Nr 4 UrhG, § 97 Abs 2 S 1  UrhG, § 101 Abs 3 UrhG, § 101 Abs 9 UrhG, § 3 Nr 3 TKG, § 3 Nr 30 TKG</norm>
+   <vorinstanz>vorgehend LG Frankenthal, 23. August 2016, Az: 6 S 149/15<br/>vorgehend AG Frankenthal, 23. November 2015, Az: 3b C 323/15<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Urheberrechtsverletzung durch Teilnahme an einer Internet-Tauschbörse: Vorbehalt der richterlichen Anordnung über die Zulässigkeit der Verwendung der Verkehrsdaten bei Auseinanderfallen von Netzbetreiber und Endkundenanbieter - Benutzerkennung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Benutzerkennung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Fallen Netzbetreiber und Endkundenanbieter auseinander, so betrifft allein die vom Netzbetreiber erteilte Auskunft über die Zuordnung der dynamischen IP-Adresse zu einer für den Endkundenanbieter vergebenen Benutzerkennung und nicht die Auskunft des Endkundenanbieters über Namen und Anschrift des Inhabers des der Benutzerkennung zugeordneten Anschlusses die Verwendung von Verkehrsdaten im Sinne des § 101 Abs. 9 UrhG.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Klägerin wird das Urteil der 6. Zivilkammer des Landgerichts Frankenthal (Pfalz) vom 23. August 2016 aufgehoben, soweit hinsichtlich der Klageanträge zu 1 und 3 zum Nachteil der Klägerin erkannt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten der Revision, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, Inhaberin der ausschließlichen Nutzungs- und Verwertungsrechte an dem Computerspiel "D.  I.  " zu sein. Dieses Spiel sei über den der Beklagten zuzuordnenden Internetanschluss in einer Tauschbörse im Internet zum Herunterladen angeboten worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte unterhält einen von der 1&amp;1 Internet AG bereitgestellten Festnetzanschluss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit Beschluss vom 10. Oktober 2011 gestattete das Landgericht Köln der Deutschen Telekom, der Klägerin die Namen und Anschriften der Nutzer mitzuteilen, die den in einer von der Klägerin vorgelegten Liste genannten IP-Adressen zu den angegebenen Zeitpunkten zuzuordnen waren. Nach Erlass des Beschlusses erteilte die Deutsche Telekom AG der Klägerin Auskunft über die Benutzerkennung und den Umstand, dass es sich um eine der 1&amp;1 Internet AG zugewiesene Kennung handelte. Die 1&amp;1 Internet AG erteilte der Klägerin Auskunft über Namen und Anschrift der Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin verlangt von der Beklagten die Zahlung von Abmahnkosten und Schadensersatz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Sie hat beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. die Beklagte zu verurteilen, an sie 859,80 € nebst jährlicher Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 27. Dezember 2011 zu zahlen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(…)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. die Beklagte zu verurteilen, an sie 500 € nebst jährlicher Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 20. Dezember 2011 zu zahlen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Amtsgericht hat die Klage abgewiesen. Die Berufung der Klägerin ist ohne Erfolg geblieben. Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Beklagte beantragt, verfolgt die Klägerin die mit der Klage geltend gemachten Anträge mit Ausnahme des auf Zahlung von Ermittlungskosten gerichteten Klageantrags zu 2, den die Klägerin in der mündlichen Revisionsverhandlung zurückgenommen hat, weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat die mit der Klage verfolgten Ansprüche als unbegründet angesehen. Hierzu hat es ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Es könne dahinstehen, ob die der Zuordnung zum Anschluss der Beklagten zugrunde liegende IP-Adresse zutreffend ermittelt und ob über den Anschluss der Beklagten eine vollständige und lauffähige Version des Computerspiels zum Herunterladen angeboten worden sei. Ebenfalls dahinstehen könne, ob die Klägerin zur Geltendmachung urheberrechtlicher Ansprüche aktivlegitimiert sei. Jedenfalls bestünden die geltend gemachten Ansprüche nicht, weil die von der 1&amp;1 Internet AG erteilten Auskünfte einem Beweisverwertungsgebot unterlägen, so dass nicht festgestellt werden könne, ob das behauptete Angebot zum Herunterladen über den Anschluss der Beklagten erfolgt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>II. Die Revision der Klägerin hat Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>1. Gegen die Zulässigkeit der Berufung, die auch in der Revisionsinstanz von Amts wegen zu prüfen ist (vgl. BGH, Urteil vom 19. November 2014 - VIII ZR 79/14, NJW 2015, 873 Rn. 12 mwN), bestehen mit Blick auf den 600 € übersteigenden Wert des Beschwerdegegenstands (§ 511 Abs. 2 Nr. 1 ZPO) keine Bedenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Mit der vom Berufungsgericht gegebenen Begründung kann der mit der Klage geltend gemachte Anspruch auf Schadensersatz gemäß § 97 Abs. 2 Satz 1 in Verbindung mit §§ 19a, 69c Nr. 4 UrhG nicht verneint werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) In der Revisionsinstanz ist mangels entgegenstehender Feststellungen des Berufungsgerichts davon auszugehen, dass das Computerprogramm "D.  I.  " nach § 2 Abs. 1 Nr. 1 und Abs. 2, § 69a Abs. 3 UrhG urheberrechtlich geschützt und die Klägerin Inhaberin der ausschließlichen Nutzungs- und Verwertungsrechte an diesem Programm ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Mit Erfolg wendet sich die Revision gegen die Annahme des Berufungsgerichts, eine Haftung der Beklagten nach § 97 Abs. 2 Satz 1 UrhG bestehe nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht hat angenommen, der Nachweis des Anbietens zum Herunterladen über den Anschluss der Beklagten könne nicht geführt werden, weil die Verwertung der von der 1&amp;1 Internet AG erlangten Auskünfte nicht in Betracht komme. Seien Netzbetreiber und Endkundenanbieter nicht identisch, müsse am Verfahren nach § 101 Abs. 9 UrhG der allein als Vertragspartner des Anschlussinhabers in Erscheinung tretende Endkundenanbieter beteiligt werden. Im Streitfall sei jedoch an dem Verfahren nach § 101 Abs. 9 UrhG allein der Netzbetreiber Deutsche Telekom AG und nicht auch der Endkundenanbieter 1&amp;1 Internet AG beteiligt worden, so dass deren Auskünfte rechtswidrig erlangt und nicht verwertbar seien. Ein überwiegendes schutzwürdiges Interesse der Klägerin bestehe mit Blick auf den Grundrechtsschutz des Anschlussinhabers aus Art. 10 GG nicht, weil eine rechtmäßige Auskunft im Verfahren nach § 101 Abs. 9 UrhG unter Beteiligung des Endkundenanbieters ohne weiteres hätte erlangt werden können. Diese Beurteilung hält der rechtlichen Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>bb) Nach § 101 Abs. 9 Satz 1 UrhG ist für die Erteilung einer Auskunft über den Vertriebsweg rechtsverletzender Vervielfältigungsstücke nach § 101 Abs. 1 und 3 UrhG, die nur unter Verwendung von Verkehrsdaten (§ 3 Nr. 30 TKG) erteilt werden kann, eine vorherige richterliche Anordnung über die Zulässigkeit der Verwendung der Verkehrsdaten erforderlich, die vom Verletzten zu beantragen ist. Nach § 3 Nr. 30 TKG sind Verkehrsdaten solche Daten, die bei der Erbringung eines Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden. Demgegenüber sind Bestandsdaten gemäß § 3 Nr. 3 TKG solche Daten eines Teilnehmers, die für die Begründung, inhaltliche Ausgestaltung, Änderung oder Beendigung eines Vertragsverhältnisses über Telekommunikationsdienste erhoben werden. Mit der Bestimmung des § 101 Abs. 9 Satz 1 UrhG hat der Gesetzgeber dem Umstand Rechnung getragen, dass Verkehrsdaten in den Schutzbereich des Fernmeldegeheimnisses gemäß Art. 10 Abs. 1 GG fallen (vgl. Begründung des Regierungsentwurfs eines Gesetzes zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums, BT-Drucks. 16/5048, S. 39). Die Bestimmung des Art. 10 Abs. 1 GG schützt nicht nur den Inhalt der Kommunikation, sondern auch die Vertraulichkeit der näheren Umstände des Kommunikationsvorgangs. Dazu gehört insbesondere, ob, wann und wie oft zwischen welchen Personen oder Telekommunikationseinrichtungen Telekommunikationsverkehr stattgefunden hat oder versucht worden ist (vgl. BVerfGE 130, 151 Rn. 112 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Bei dem Namen und der Anschrift des Nutzers, dem zu bestimmten Zeitpunkten eine bestimmte IP-Adresse zugewiesen war, handelt es sich um Daten, die für die Begründung eines Vertragsverhältnisses über Telekommunikationsdienste erhoben werden, und damit um Bestandsdaten. Die begehrte Auskunft über diese Daten kann nur unter Verwendung von Daten erteilt werden, die bei der Erbringung eines Telekommunikationsdienstes erhoben, verarbeitet oder genutzt werden. Eine dynamische IP-Adresse ist keinem bestimmten Nutzer dauerhaft zugeordnet, sondern wird unterschiedlichen Nutzern jeweils nur für eine Sitzung zugeteilt. Eine Verknüpfung der dynamischen IP-Adresse mit dem Nutzer, dem sie zu einem bestimmten Zeitpunkt zugewiesen war, ist daher nur unter Verwendung der jeweils hierzu gespeicherten Verkehrsdaten wie des Datums und der Uhrzeit der Verbindung möglich (vgl. BGH, Beschluss vom 19. April 2012 - I ZB 80/11, BGHZ 195, 257 Rn. 39 - Alles kann besser werden; Beschluss vom 5. Dezember 2012 - I ZB 48/12, GRUR 2013, 536 Rn. 37 = WRP 2013, 628 - Die Heiligtümer des Todes). § 101 Abs. 9 Satz 1 in Verbindung mit § 101 Abs. 2 Satz 1 Nr. 3 UrhG enthält die fachrechtliche Eingriffsermächtigung für die Verwendung von Verkehrsdaten zur Identifizierung von dynamischen IP-Adressen (vgl. BGHZ 195, 257 Rn. 41 ff., 48 - Alles kann besser werden).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>cc) Danach unterlag im Streitfall zwar die von der Deutsche Telekom AG als Netzbetreiber, nicht aber die vom Endkundenanbieter 1&amp;1 Internet AG erteilte Auskunft dem Vorbehalt richterlicher Anordnung gemäß § 101 Abs. 9 Satz 1 UrhG. Die von der Klägerin erlangten Auskünfte können daher zum Nachweis der Haftung der Beklagten verwertet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(1) Zwischen den Parteien ist unstreitig, dass der Anschluss der Beklagten aufgrund eines Vertrags mit der 1&amp;1 Internet AG als Endkundenanbieter ("Reseller") für das von der Deutsche Telekom AG betriebene Telekommunikationsnetz bereitgestellt wurde. In einer solchen Konstellation erbringt der Endkundenanbieter gegenüber seinen Abnehmern Kommunikationsdienstleistungen mittels eines vom Netzbetreiber bereitgestellten Kontingents an IP-Adressen, die jeweils für eine dem Endkundenanbieter zugeordnete Benutzerkennung vergeben werden. Der Netzbetreiber kann somit lediglich erkennen, dass einer dynamischen IP-Adresse in einem bestimmten Zeitpunkt eine Benutzerkennung und diese wiederum einem bestimmten Endkundenanbieter zugewiesen ist. Die Zuordnung der Benutzerkennung zu Namen und Adresse des Anschlussinhabers vermag lediglich der Endkundenanbieter vorzunehmen, weil der Netzbetreiber über diese Daten nicht verfügt (vgl. Zimmermann, K&amp;R 2015, 73).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>(2) Fallen Netzbetreiber und Endkundenanbieter auseinander, so betrifft allein die vom Netzbetreiber erteilte Auskunft über die Zuordnung der dynamischen IP-Adresse zu einer für den Endkundenanbieter vergebenen Benutzerkennung und nicht die Auskunft des Endkundenanbieters über Namen und Anschrift des Inhabers des der Benutzerkennung zugeordneten Anschlusses die Verwendung von Verkehrsdaten im Sinne des § 101 Abs. 9 UrhG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Das Grundrecht des Art. 10 Abs. 1 GG schützt nach der Rechtsprechung des Bundesverfassungsgerichts die Vertraulichkeit konkreter Telekommunikationsvorgänge und nicht die Vertraulichkeit der mit der Bereitstellung von Telekommunikationsdienstleistungen einhergehenden Umstände. Allgemeine Informationen, die das Telekommunikationsverhalten oder Beziehungen zwischen Diensteanbietern und ihren Kunden betreffen, wie die Zuordnung von Benutzerkennungen zu einzelnen Anschlüssen, fallen nicht in den Schutzbereich des Art. 10 Abs. 1 GG (vgl. BVerfGE 130, 151 Rn. 113 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall ist danach mit Blick auf Art. 10 Abs. 1 GG die vom Netzbetreiber vorgenommene Zuordnung einer zu einem bestimmten Zeitpunkt genutzten IP-Adresse zu einer individuellen Benutzerkennung grundrechtsrelevant. Die Auskunft des Endkundenanbieters dazu, welchem Anschlussinhaber eine bestimmte Benutzerkennung zuzuordnen ist, beschränkt sich hingegen auf die dem Anordnungserfordernis des § 101 Abs. 9 UrhG nicht unterfallende Bekanntgabe von Bestandsdaten (vgl. OLG Köln, GRUR-RR 2013, 137; AG Potsdam, ZD 2016, 296; aA LG Frankenthal, K&amp;R 2015, 671; AG Augsburg, Urteil vom 22. Juni 2015 - 16 C 3030/14, juris; AG Koblenz, ZD 2015, 235; Zimmermann, K&amp;R 2015, 73, 74). Zwar muss der Auskunft des Endkundenanbieters die Verwendung von Verkehrsdaten durch den Netzbetreiber vorausgehen, weil andernfalls der Anschlussinhaber nicht individualisiert werden kann. Der Endkundenanbieter selbst nimmt jedoch für seine Auskunft keinen Zugriff auf Verkehrsdaten. Die notwendig vorausgehende Verwendung von Verkehrsdaten durch den Netzbetreiber wird vielmehr durch die im Streitfall vorliegende, unter Beteiligung des Netzbetreibers ergehende Anordnung nach § 101 Abs. 9 UrhG legalisiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>(3) Die Legalisierungswirkung der im Streitfall an den Netzbetreiber Deutsche Telekom AG gerichteten Anordnung gemäß § 101 Abs. 9 Satz 1 UrhG entfällt auch nicht deshalb, weil die Deutsche Telekom - wie in § 101 Abs. 3 Nr. 1 UrhG vorgesehen - zur Auskunft über "Namen und Anschrift" der Nutzer, denen dynamische IP-Adressen zugewiesen waren, ermächtigt worden ist, sie jedoch lediglich eine Benutzerkennung und den Namen des Endkundenanbieters 1&amp;1 Internet AG angegeben hat. Zur Angabe von Namen und Adresse des Anschlussinhabers ist der Netzbetreiber in der vorliegenden Konstellation nicht in der Lage, da er lediglich die Benutzerkennung sowie den Umstand ihrer Zuordnung zu einem Endkundenanbieter kennt und keine Zuordnung zu einem Anschlussinhaber vornehmen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die Bestimmung des § 101 Abs. 3 UrhG dient der Umsetzung von Art. 8 Abs. 2 der Richtlinie 2004/48/EG zur Durchsetzung der Rechte des geistigen Eigentums und ist daher richtlinienkonform auszulegen. Die Auskunftspflicht nach Art. 8 Abs. 1 der Richtlinie 2004/48/EG erstreckt sich nach Art. 8 Abs. 2 Buchst. a der Richtlinie, soweit angebracht, auf die Namen und Adressen der Hersteller, Erzeuger, Vertreiber, Lieferer und anderer Vorbesitzer der Waren oder Dienstleistungen sowie der gewerblichen Abnehmer und Verkaufsstellen, für die sie bestimmt waren. Nach ihrem Erwägungsgrund 3 dient die Richtlinie 2004/48/EG der wirksamen Durchsetzung der Rechte des geistigen Eigentums.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Bei der richtlinienkonformen Auslegung des nationalen Rechts müssen die Gerichte der Mitgliedstaaten darauf achten, die im Falle der Weitergabe personenbezogener Daten an private Dritte zur Verfolgung von Urheberrechtsverstößen betroffenen Grundrechte - das Recht auf Achtung des Privatlebens (Art. 7 EU-Grundrechtecharta, Art. 2 Abs. 1 in Verbindung mit Art. 1 GG) und das Eigentumsrecht (Art. 17 Abs. 2 EU-Grundrechtecharta, Art. 14 Abs. 1 GG) - miteinander zum Ausgleich zu bringen (vgl. EuGH, Urteil vom 29. Januar 2008 - C-275/06, Slg. 2008, I-271 = GRUR 2008, 241 Rn. 43 und 65 ff. - Promusicae/Telefonica; Beschluss vom 19. Februar 2009 - C-557/07, Slg. 2009, I-1227 = GRUR 2009, 579 Rn. 28 f. - LSG/Tele2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Eine wirksame Durchsetzung der Rechte des geistigen Eigentums erfordert jedenfalls in der Konstellation des Streitfalles eine Auslegung der Tatbestandsmerkmale „Namen und Adresse“ des Art. 8 Abs. 2 der Richtlinie 2004/48/EG, die die Benutzerkennung eines Telekommunikationsanschlusses einschließt. Andernfalls könnte der Inhaber eines nach dem Urheberrechtsgesetz geschützten Rechts im Falle der Urheberrechtsverletzung über Internet-Tauschbörsen bei Auseinanderfallen des Netzbetreibers und des Endkundenanbieters den Anschluss, über den die Verletzungshandlung begangen worden ist, nicht ermitteln. Der Rechtsinhaber ist darauf angewiesen, zur Durchsetzung seiner Rechte vom Netzbetreiber die einer dynamischen IP-Adresse zu einem bestimmten Zeitpunkt zugeordnete Benutzerkennung zu erfahren, um durch ihre Angabe vom Endkundenanbieter Auskunft über Namen und Adresse des Anschlussinhabers zu erhalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Demgegenüber wiegt die Beeinträchtigung des Rechts des Anschlussinhabers auf Achtung des Privatlebens weniger schwer. Er hat nach § 101 Abs. 2 UrhG die Weitergabe seines Namens und seiner Adresse hinzunehmen. Die Angabe der Benutzerkennung, die dem Endkundenanbieter die Identifizierung des Anschlussinhabers ermöglicht, stellt sich in der Konstellation des Streitfalls lediglich als ein minus gegenüber der Angabe von Namen und Anschrift dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>3. Aus den vorstehenden Gründen hat auch die Abweisung des Anspruchs auf Zahlung von Abmahnkosten gemäß § 97a UrhG in der Fassung vom 7. Juli 2008 keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>III. Eine Vorlage an den Gerichtshof der Europäischen Union nach Art. 267 Abs. 3 AEUV ist nicht veranlasst (vgl. EuGH, Urteil vom 6. Oktober 1982 - 283/81, Slg. 1982, 3415 Rn. 21 = NJW 1983, 1257 - C.I.L.F.I.T.; Urteil vom 1. Oktober 2015 - C-452/14, GRUR Int. 2015, 1152 Rn. 43 - Doc Generici, mwN). Im Streitfall stellt sich keine entscheidungserhebliche Frage zur Auslegung des Unionsrechts, die nicht zweifelsfrei zu beantworten ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>IV. Danach ist das angegriffene Urteil aufzuheben, soweit hinsichtlich der Klageanträge zu 1 und 3 zum Nachteil der Klägerin erkannt worden ist, und die Sache, da sie nicht zur Endentscheidung reif ist, zur neuen Verhandlung und Entscheidung - auch über die Kosten der Revision - an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Büscher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schaffert     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Löffler</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schwonke     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Feddersen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE319242017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

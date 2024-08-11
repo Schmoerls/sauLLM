@@ -1,0 +1,1779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE307952015</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20150203</entsch-datum>
+   <aktenzeichen>X ZR 69/13</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 10 Abs 1 PatG, § 32 ZPO</norm>
+   <vorinstanz>vorgehend OLG Karlsruhe, 8. Mai 2013, Az: 6 U 34/12, Urteil<br/>vorgehend LG Mannheim, 9. März 2012, Az: 7 O 43/10<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Mittelbare Verletzung eines Patents für ein Verfahren zur Übertragung digitalisierter Tonsignale: Lieferung eines Mittels mit Bezug zu einem wesentlichen Element der Erfindung ins Inland - Audiosignalcodierung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Audiosignalcodierung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein Mittel bezieht sich nicht schon dann auf ein wesentliches Element der Erfindung im Sinne von § 10 Abs. 1 PatG, wenn es zur Verwirklichung eines Verfahrensschritts eingesetzt wird, der den im Patentanspruch eines Verfahrenspatents vorgesehenen Schritten vorausgeht. Dies gilt auch dann, wenn der vorgelagerte Schritt notwendig ist, um die im Patentanspruch vorgesehenen Schritte ausführen zu können, und wenn das Mittel aufgrund seiner konkreten Ausgestaltung ausschließlich zu diesem Zweck eingesetzt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein Mittel, mit dem bestimmte Verfahrensschritte bei der Übertragung eines Audiosignals ausgeführt werden, bezieht sich nicht auf ein wesentliches Element der Erfindung, wenn das Patent zwar ein Übertragungsverfahren schützt, im Patentanspruch aber nur andere Schritte dieses Verfahrens näher festgelegt sind und die Ausgestaltung der Verfahrensschritte, auf die sich das Mittel bezieht, für die Verwirklichung der Erfindung nicht von Bedeutung ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Wer im Ausland ein Mittel, das sich auf ein wesentliches Element der Erfindung bezieht, an einen Dritten liefert, der es mit seinem Wissen und Wollen zur Benutzung der Erfindung in Deutschland weiterliefert, veranlasst eine Lieferung des Mittels im Geltungsbereich des Patentgesetzes.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das am 8. Mai 2013 verkündete Urteil des 6. Zivilsenats des Oberlandesgerichts Karlsruhe im Kostenpunkt und insoweit aufgehoben, als die ausgesprochene Verurteilung Empfänger (MP2-Geräte) betrifft, die weder zur Ausführung der patentgemäßen Decodierschritte geeignete Komponenten enthalten noch zusammen mit Software angeboten oder geliefert werden, mit der eine solche Decodierung ausgelöst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Berufung gegen das am 9. März 2012 verkündete Urteil der 7. Zivilkammer des Landgerichts Mannheim zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die weitergehende Revision wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Rechtsstreits tragen die Beklagte zwei Drittel und die Klägerin ein Drittel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin nimmt die Beklagte wegen mittelbarer Verletzung eines Verfahrenspatents in Anspruch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist Inhaberin eines ausschließlichen Nutzungsrechts an dem mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patent 568 532 (Klagepatent), das ein Verfahren zum Übertragen digitalisierter Tonsignale betrifft und mit Ablauf des 27. Juni 2011 wegen Zeitablaufs erloschen ist. Patentanspruch 1 hat folgenden Wortlaut:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zum Übertragen digitalisierter, blockcodierter Tonsignale unter Verwendung von Skalenfaktoren, die bei der Blockcodierung der digitalisierten Tonsignale aus dem Betrag des Spitzenwertes einer Sequenz (Block) von Signalwerten gebildet und in quantisierter Form den abgetasteten Signalwerten der betreffenden Sequenz hinzugeführt werden, bei dem coderseitig</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) aus einer Anzahl von k zeitlich aufeinanderfolgenden Skalenfaktoren (scf<sub>11</sub>, scf<sub>12</sub> bis scf<sub>1k</sub>; … scf<sub>n1</sub>, scf<sub>n2</sub>, … scf<sub>nk</sub>) jeweils eines Frequenz-Teilbandes oder einer Gruppe von Spektralwerten des in n Teilbändern oder Spektralwerten unterteilten Tonsignals (mit n ≥ 1) die Differenzen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">d<sub>12-11 </sub>= scf<sub>12</sub> - scf<sub>11</sub>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">bis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">d<sub>1k-1(k-1) </sub>= scf<sub>1k</sub> - scf<sub>1(k-1)</sub>;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">·</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">·</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">·</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">d<sub>n2-n1 </sub>= scf<sub>n2</sub> - scf<sub>n1</sub>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">bis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">d<sub>nk-n(k-1) </sub>= scf<sub>nk</sub> - scf<sub>n(k-1)</sub>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">nach Vorzeichen und Betrag gebildet werden;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) die gemäß Schritt a) gebildeten (k-1) * n Differenzen in zumindest zwei Werteklassen eingestuft werden, von denen jede Werteklasse eine Menge von einer oder mehreren möglichen Differenzen umfasst,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) aufgrund der gemäß Schritt b) gebildeten Folge von (k-1) * n Werteklassen - getrennt für jedes der n Teilbänder bzw. Spektralwertegruppen - Skalenfaktoren selektiert und mit einer Kenninformation versehen werden, wobei die Anzahl von aufeinanderfolgenden, unterschiedlichen selektierten Skalenfaktoren innerhalb der Folge kleiner oder gleich der Anzahl der aufeinanderfolgenden, unterschiedlichen Skalenfaktoren des betrachteten Teilbandes bzw. Spektralwertegruppe ist, und wobei die Kenninformation die Zuordnung der selektierten Skalenfaktoren zu jeweils einem oder mehreren der k Blöcke der abgetasteten Signalwerte des betreffenden Teilbandes bzw. Spektralwertegruppe identifiziert,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und bei dem decoderseitig</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) anhand der Kenninformation den Blöcken der abgetasteten Signalwerte die zugehörigen selektierten Skalenfaktoren zugeordnet werden, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) aus den abgetasteten Signalwerten sowie den zugeordneten selektierten Skalenfaktoren wieder Tonsignale erzeugt werden, die mehr oder weniger den ursprünglichen Tonsignalen entsprechen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dadurch gekennzeichnet, dass bei der Blockcodierung innerhalb von irrelevanz- und redundanzmindernden Tondaten-Reduktionsverfahren folgende Verfahrensschritte vorgesehen werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">f) Die gemäß Schritt a) gebildeten (k-1) * n Differenzen werden in mehr als zwei Werteklassen eingestuft;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">g) bei der Selektion der Skalenfaktoren gemäß Schritt c) wird getrennt für jedes der n Teilbänder bzw. Spektralwertegruppen ein Übertragungsmuster neuer Skalenfaktoren nach psychoakustischen Gesichtspunkten bezogen auf die Vor- und Nachverdeckungseffekte des menschlichen Gehörs bestimmt, wobei zwischen psychoakustisch relevanten Änderungen der Skalenfaktoren unterschieden wird, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">h) als Kenninformation eine Steuerinformation verwendet wird, welche angibt, an welchen Stellen sich die neuen Skalenfaktoren befinden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die in China ansässige Beklagte stellt Geräte her, die Fernsehsignale nach dem DVB-Standard (Digital Video Broadcast) empfangen und verarbeiten können. Die zu solchen Fernsehsignalen gehörenden Audiosignale werden nach dem Standard MPEG-2 codiert. Das darin definierte Codierverfahren weist die in Patentanspruch 1 vorgesehenen Merkmale auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat ihre Produkte in den Jahren 2010 und 2011 auf der CeBIT ausgestellt. Sie hat die Geräte außerdem unter Verwendung der Handelsklausel "free on board China" an ein in Deutschland ansässiges Unternehmen geliefert. Zu ihren Abnehmern gehört ferner ein anderes Unternehmen in China, das die Geräte an ein weiteres, ebenfalls in Deutschland ansässiges Unternehmen liefert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Einige dieser Geräte (insbesondere mobile TV-Geräte) enthalten eine Einrichtung, mit der das empfangene Signal decodiert wird. In anderen Geräten (insbesondere USB-Sticks, USB-TV-Boxen und Einsteckkarten) wird das Signal lediglich demoduliert, d.h. von der zur Übertragung eingesetzten Trägerfrequenz abgelöst. Die anschließende Decodierung erfolgt softwaregesteuert durch einen Computer, mit dem diese Geräte mittels USB-Anschluss oder Steckkarte verbunden werden können. Einem Teil dieser Geräte ist eine Software beigefügt, mit der der Decodiervorgang ausgelöst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, Angebot und Lieferung aller angegriffenen Ausführungsformen stellten eine mittelbare Verletzung des Klagepatents dar. Ihre zunächst auch auf Unterlassung und nach Erlöschen des Klagepatents nur noch auf Rechnungslegung und Feststellung der Schadensersatzpflicht gerichtete Klage ist in erster Instanz erfolglos geblieben. Das Berufungsgericht hat die Beklagte hingegen antragsgemäß verurteilt. Dagegen wendet sich die Beklagte mit der vom Senat zugelassenen Revision, der die Klägerin entgegentritt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision ist nur hinsichtlich einer der drei angegriffenen Ausführungsformen begründet. Insoweit führt sie zur Wiederherstellung des erstinstanzlichen Urteils.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Klagepatent betrifft ein Verfahren zum Übertragen digitalisierter, blockcodierter Tonsignale.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nach den Ausführungen in der Klagepatentschrift war es im Stand der Technik bekannt, zur Verringerung der bei vergleichbarer Tonqualität zu übertragenden Datenmenge Skalenfaktoren zu bilden, mit denen der Größenbereich des übertragenen Werts angegeben wird. Dies macht die Übermittlung redundanter Daten in gewissem Umfang entbehrlich. Bekannt waren auch Verfahren, bei denen die Signale in Teilbänder aufgespaltet und um einzelne für das menschliche Gehör irrelevante Informationen bereinigt werden. Ferner war bekannt, dass die Menge der zu übertragenden Daten bei der Übermittlung von Skalenfaktoren weiter reduziert werden kann, indem die Differenz zwischen aufeinanderfolgenden Skalenfaktoren ermittelt und in eine Kenninformation umgewandelt wird. In der Klagepatentschrift wird weiter ausgeführt, die bekannten Verfahren zur Kompression der Skalenfaktoren führten nur zu einer Reduzierung von redundanter Information, nicht hingegen zur Entfernung von Information, die aufgrund psychoakustischer Gesichtspunkte irrelevant sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Klagepatent betrifft vor diesem Hintergrund das Problem, ein Übertragungsverfahren zur Verfügung zu stellen, bei dem die benötigte Datenmenge noch weiter reduziert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems schlägt das Klagepatent ein Verfahren zum Übertragen digitalisierter, blockcodierter Tonsignale unter Verwendung von Skalenfaktoren mit den Verfahrensschritten a bis h aus Patentanspruch 1 vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Das Berufungsgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Entgegen der von der Beklagten erhobenen Rüge sei die internationale Zuständigkeit der deutschen Gerichte auch insoweit gegeben, als die Klage auf Lieferungen der Beklagten unmittelbar an eine deutsche Abnehmerin gestützt werde. Der Erfolgsort für die insoweit behaupteten Verletzungshandlungen liege im Inland.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Die angegriffenen Ausführungsformen seien Mittel, die sich auf ein wesentliches Element der geschützten Erfindung bezögen. Bei einem Verfahrensanspruch gehörten dazu regelmäßig alle im Patentanspruch genannten Vorrichtungen, die zur Ausführung des Verfahrens verwendet würden. Diese Voraussetzung sei bei allen angegriffenen Ausführungsformen erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Geräte mit eingebautem Decoder seien geeignet, MPEG-2-codierte Signale gemäß den Merkmalen d und e zu decodieren. Dass die Endabnehmer der Geräte nur den Decodiervorgang, nicht aber den Codiervorgang durchführten, sei nicht maßgeblich. Das geschützte Verfahren erfordere ein erfindungsfunktionales Zusammenwirken von Coder und Decoder. Jedenfalls in einem solchen Fall könne eine unmittelbare Patentverletzung auch in Mit- und Nebentäterschaft begangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gelte für Geräte ohne Decoder, zu deren Lieferumfang eine Software mit Decoderfunktion gehöre. Bei diesen erfolge die erfindungswesentliche Decodierung durch die mitgelieferte Software.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Geräte ohne eingebauten Decoder und ohne mitgelieferte Software lieferten ebenfalls einen wesentlichen Beitrag zum Decodiervorgang. Dieser könne ohne vorherige Demodulation nicht erfolgen. Dies unterscheide die angegriffenen Geräte von einem bloßen Datenträger wie etwa einer DVD.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte sei für das Inverkehrbringen solcher Geräte in Deutschland verantwortlich, weil sie gewusst habe, dass die von ihr gelieferten Geräte dorthin verbracht werden sollten. Aufgrund des internationalen DVB-Standards sei auch offensichtlich gewesen, dass die Geräte für das patentgemäße Verfahren eingesetzt würden. Die Beklagte habe solche Geräte ferner auf der CeBIT angeboten. Hierbei sei unerheblich, dass die dort angesprochenen Abnehmer nur Wiederverkäufer seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die beanstandeten Benutzungshandlungen seien nicht mit Zustimmung der Klägerin erfolgt. Für ihren bestrittenen Vortrag, die mit einigen Geräten mitgelieferte Software benutze zur Decodierung den zum Windows Media Player gehörenden Decoder der Lizenznehmerin Microsoft, habe die Beklagte keinen Beweis angeboten. Jedenfalls eines der von der Beklagten belieferten Unternehmen habe ebenfalls keine Nutzungsrechte am Gegenstand des Klagepatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Dass die Abnehmer von Geräten ohne Decoder und ohne mitgelieferte Software zur Decodierung den Windows Media Player einsetzten, führe nicht zu einer abweichenden Beurteilung. Hinsichtlich eines Verfahrenspatents könne keine Erschöpfung eintreten, wenn wie hier lediglich eine zur Ausübung des Verfahrens geeignete Vorrichtung veräußert werde. Die Erteilung einer Lizenz an Microsoft könne auch nicht als stillschweigende Zustimmung angesehen werden, weil der Windows Media Player nur eine von mehreren zur Ausführung des Verfahrens erforderlichen Komponenten sei und die Demodulatoren der Beklagten unstreitig nicht aus lizenzierter Quelle stammten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Ob die Klägerin den Sendeanstalten, die die Signale in patentgeschützter Weise codierten, eine Lizenz erteilt habe, sei unerheblich. Mangels anderer Anhaltspunkte sei davon auszugehen, dass sich die Zustimmung der Klägerin lediglich auf die coderseitig durchzuführenden Verfahrensschritte beziehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält den Angriffen der Revision nur insoweit nicht stand, als es um Geräte geht, die weder Komponenten zur Ausführung der patentgemäßen Decodierschritte aufweisen noch zusammen mit Software angeboten oder geliefert werden, mit der eine Decodierung ausgelöst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht und von der Revision unbeanstandet hat das Berufungsgericht die internationale Zuständigkeit auch für Lieferungen der Beklagten an eine in Deutschland ansässige Abnehmerin bejaht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Nach den im Streitfall anwendbaren allgemeinen Grundsätzen sind die deutschen Gerichte entsprechend § 32 ZPO international zuständig, wenn sich aus dem Vortrag der Klägerin eine Schutzrechtsverletzung in Deutschland ergibt (vgl. BGH, Urteil vom 21. August 2012 - X ZR 33/10, BGHZ 194, 272 = GRUR 2012, 1230 Rn. 9 - MPEG-2-Videosignalcodierung; Urteil vom 29. Juni 2010 - VI ZR 122/09, NJW-RR 2010, 1554 Rn. 8). Diese Voraussetzungen hat das Berufungsgericht zu Recht als erfüllt angesehen, weil der Erfolgsort der angegriffenen Handlungen nach dem insoweit maßgeblichen Vorbringen der Klägerin in Deutschland liegt. Dass der Handlungsort im Ausland liegt, ist unerheblich (vgl. BGH, NJW-RR 2010, 1554 Rn. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Rechtsfehlerfrei ist das Berufungsgericht zu dem Ergebnis gelangt, dass die von der Beklagten von China aus getätigten Lieferungen relevante Benutzungshandlungen im Inland darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats ist ein im Ausland ansässiger Lieferant für eine in Deutschland begangene Patentverletzung verantwortlich, wenn er ein geschütztes Erzeugnis an einen in Deutschland ansässigen Abnehmer liefert. Dies gilt unabhängig davon, an welchem Ort Eigentum, Besitz und Gefahr an der gelieferten Ware auf den Abnehmer übergehen (BGH, GRUR 2002, 599 - Funkuhr I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Revision gelten diese Grundsätze auch für Handlungen, die als mittelbare Patentverletzung im Sinne von § 10 Abs. 1 PatG zu qualifizieren sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Der Tatbestand der mittelbaren Patentverletzung nach § 10 PatG knüpft ebenso wie der Tatbestand der unmittelbaren Patentverletzung nach § 9 PatG daran an, dass ein bestimmter Gegenstand ins Inland geliefert worden ist. Die Tatbestände unterscheiden sich nur dadurch, dass der gelieferte Gegenstand im Falle des § 9 PatG schon für sich gesehen in den Schutzbereich des Patents fällt, während er im Falle des § 10 PatG nur ein Mittel darstellt, das sich auf ein wesentliches Element der Erfindung bezieht. Für die im vorliegenden Zusammenhang relevante Frage, ob eine Lieferung ins Inland erfolgt ist, begründet dies keinen Unterschied.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>c) Vor diesem Hintergrund hat das Berufungsgericht im Streitfall eine Lieferung ins Inland zu Recht bejaht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Für die unmittelbare Lieferung von Geräten an eine in Deutschland ansässige Abnehmerin ergibt sich dies schon daraus, dass die Beklagte diese Lieferung selbst veranlasst hat. Dass die Ware entsprechend der vereinbarten Klausel "free on board China" bereits in China übergeben wurde, ist nach der aufgezeigten Rechtsprechung des Senats unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>bb) Für die Lieferungen an ein anderes in China ansässiges Unternehmen, das die Ware an einen in Deutschland ansässigen Abnehmer veräußert hat, gilt im Streitfall nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Nach den Feststellungen des Berufungsgerichts hat die Beklagte gewusst, dass das von ihr belieferte Unternehmen möglicherweise auch Produkte nach Deutschland exportiert. Sie hat die in Deutschland ansässige Abnehmerin zudem auf ihren Internetseiten als Distributor für den europäischen Markt bezeichnet. Angesichts dessen ist die vom Berufungsgericht gezogene Schlussfolgerung, dass die Beklagte an der von ihrer unmittelbaren Abnehmerin veranlassten Lieferung nach Deutschland durch eigenes vorwerfbares Verhalten mitgewirkt hat, nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>3. Zu Recht hat das Berufungsgericht ferner entschieden, dass die angegriffenen Geräte mit eingebautem Decoder oder beigefügter Software Mittel darstellen, die dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>a) Ob ein Mittel geeignet ist, zur Benutzung der Erfindung verwendet zu werden, ist nach der objektiven Beschaffenheit des angebotenen oder gelieferten Gegenstands zu beurteilen. Das Mittel muss grundsätzlich so ausgebildet sein, dass eine unmittelbare Benutzung der geschützten Lehre mit allen ihren Merkmalen durch die Abnehmer möglich ist (BGH, Urteil vom 24. September 1991 - X ZR 37/90, BGHZ 115, 204, 208 = GRUR 1992, 40, 42 - Beheizbarer Atemluftschlauch; Urteil vom 7. Juni 2005 - X ZR 247/02, GRUR 2005, 848, 850 - Antriebsscheibenaufzug).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Bei Patenten, die ein mehrstufiges Verfahren betreffen, kann ein Mittel auch dann zur Benutzung der Erfindung geeignet sein, wenn die Abnehmer dieses Mittels nicht alle Verfahrensschritte selbst ausführen. Jedenfalls in einem solchen Fall kann eine unmittelbare Patentverletzung nicht nur in Alleintäterschaft unter Verwirklichung aller Verfahrensschritte begangen werden, sondern auch in Mit- und Nebentäterschaft (BGH, Urteil vom 27. Februar 2007 - X ZR 113/04, GRUR 2007, 773 Rn. 19 - Rohrschweißverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>b) Hieraus hat das Berufungsgericht für den Streitfall zu Recht abgeleitet, dass die angegriffenen Ausführungsformen auch dann zur Benutzung der Erfindung geeignet sind, wenn die Abnehmer mit ihnen nur die im Patentanspruch vorgesehenen Decodierschritte vornehmen, die Codierung hingegen durch andere Personen erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Revision betrifft die oben aufgezeigte Rechtsprechung nicht nur einen nicht verallgemeinerungsfähigen Einzelfall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>aa) Zwar hat der Senat in der zuletzt zitierten Entscheidung ausgeführt, es reiche "jedenfalls in einem solchen Fall" aus, wenn nicht alle Verfahrensmerkmale vom Abnehmer des angebotenen oder gelieferten Mittels verwirklicht würden (BGH, GRUR 2007, 773 Rn. 19 - Rohrschweißverfahren). Der dort formulierte Grundsatz bezieht sich aber nicht nur auf den jener Entscheidung zugrunde liegenden Einzelfall, sondern jedenfalls auf alle Konstellationen, in denen ein mehrstufiges Verfahren geschützt ist und einzelne Verfahrensschritte eine notwendige Voraussetzung für die Durchführung weiterer, für die Erfindung wesentlicher Verfahrensschritte bilden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>bb) Die im Streitfall zu beurteilende Konstellation weist keine Besonderheiten auf, die zu einer abweichenden Beurteilung führen. Die in Rede stehenden Merkmale des Patentanspruchs sind auch hier in der oben genannten Weise verknüpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Das im Patentanspruch vorgesehene Empfangen und Decodieren von Signalen setzt voraus, dass diese zuvor in der ebenfalls im Patentanspruch vorgesehenen Weise codiert und versendet worden sind. Umgekehrt erfolgt ein Versenden von codierten Signalen typischerweise zu dem Zweck, dass sie an anderer Stelle empfangen und decodiert werden. Bei der konkret in Rede stehenden Nutzung - Empfang von Fernsehsignalen - wird dieser Zusammenhang besonders deutlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Revision betrifft die aufgezeigte Rechtsprechung des Senats nicht nur den Fall der Mittäterschaft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Zu Recht geht die Revision allerdings davon aus, dass Mittäterschaft im Streitfall aufgrund der vom Berufungsgericht getroffenen Feststellungen nicht bejaht werden kann. Mittäterschaft setzt ebenso wie Anstiftung und Beihilfe ein bewusstes und gewolltes Zusammenwirken bei der Herbeiführung der Verletzung voraus (BGH, Urteil vom 23. Februar 1988 - VI ZR 151/87, NJW 1988, 1719, 1720). Im Streitfall kommt nach den Feststellungen des Berufungsgerichts hingegen nur eine fahrlässige Verletzung des Klagepatents in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Der Bundesgerichtshof hat jedoch entschieden, dass bei der Verwirklichung einzelner Verfahrensschritte nicht nur Mittäterschaft, sondern auch Nebentäterschaft in Betracht kommt (BGH, Urteil vom 27. Februar 2007 - X ZR 113/04, GRUR 2007, 773 Rn. 19 - Rohrschweißverfahren). Dass die Voraussetzungen dafür im Streitfall vorliegen, hat das Berufungsgericht rechtsfehlerfrei festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Revision setzt Nebentäterschaft nicht voraus, dass bei jedem Täter alle Voraussetzungen der Patentverletzung in eigener Person erfüllt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>aa) Nach allgemeinen deliktsrechtlichen Grundsätzen liegt Nebentäterschaft vor, wenn mehrere Deliktstäter durch selbständige Einzelhandlungen ohne bewusstes Zusammenwirken einen Schaden mitverursacht haben (BGH, NJW 1988, 1719, 1720). Daraus ergibt sich, wie auch die Revision im Ansatz zutreffend sieht, dass jeder Nebentäter grundsätzlich unabhängig vom Tatbeitrag des anderen zum vollständigen Ersatz des von ihm verursachten Schadens verpflichtet ist (vgl. nur BGH, Urteil vom 5. Oktober 2010 - VI ZR 286/09, NJW 2011, 292 Rn. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Revision folgt daraus nicht, dass eine Patentverletzung bei Verfahrenspatenten durch Nebentäter nur in der Weise erfolgen kann, dass jeder Nebentäter alle patentgemäßen Verfahrensschritte selbst ausführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Als Täter einer fahrlässigen Patentverletzung hat vielmehr auch derjenige einzustehen, der die Rechtsverletzung durch eigenes vorwerfbares Verhalten verursacht hat. Ein vorwerfbares Verhalten in diesem Sinne kann zum Beispiel darin liegen, dass auf die Benutzung des Patents gerichtete Handlungen eines Dritten pflichtwidrig nicht unterbunden werden (BGH, Urteil vom 17. September 2009 - Xa ZR 2/08, BGHZ 182, 245 = GRUR 2009, 1142 Rn. 34 - MP3-Player-Import; Urteil vom 30. Januar 2007 - X ZR 53/04, BGHZ 171, 13 = GRUR 2007, 313 Rn. 17 - Funkuhr II; Beschluss vom 26. Februar 2002 - X ZR 36/01, GRUR 2002, 599 - Funkuhr I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Ein vorwerfbares Verhalten in diesem Sinne kann auch dann vorliegen, wenn sich eine Person bei der Anwendung eines Verfahrens den Umstand zunutze macht, dass bestimmte Schritte des geschützten Verfahrens von einem Dritten ausgeführt werden und in die eigene Handlung einbezogen werden können. Diese Voraussetzungen sind im Streitfall erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>cc) Die von der Revision hervorgehobene Frage der Tatherrschaft ist, wie das Berufungsgericht zu Recht entschieden hat, in diesem Zusammenhang irrelevant.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Es geht nicht darum, ob die Abnehmer der angegriffenen Geräte eine Sendeanstalt an der Ausstrahlung ihres Fernsehprogramms hindern können oder müssen. Ein Benutzer, der ein vom Sender nach dem Verfahren des Klagepatents codiertes und ausgestrahltes Signal in der patentgemäßen Weise decodiert, macht sich jedenfalls den Beitrag des Senders zunutze, um das patentgemäße Verfahren in seiner Gesamtheit anzuwenden. Dies genügt zur Bejahung von Nebentäterschaft. Ob eine Sendeanstalt, die patentgemäß codierte Signale ohne Lizenz ausstrahlt, sich als weiterer Nebentäter zu verantworten hat, ist unerheblich. Wie bereits dargelegt haftet jeder Nebentäter grundsätzlich uneingeschränkt und unabhängig von einer eventuellen Haftung weiterer Beteiligter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>e) Entgegen der Auffassung der Revision schützt das Klagepatent nicht nur Verfahren, bei denen alle Schritte von demselben Benutzer ausgeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Auf den von der Revision hierfür angeführten Wortlaut von Patentanspruch 1 lässt sich die von ihr postulierte Auslegung nicht stützen. Der Patentanspruch definiert nur die einzelnen Schritte des Verfahrens, legt aber nicht fest, welche Personen oder Einrichtungen diese ausführen sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Aus dem im Patentanspruch verwendeten Begriff "Übertragen" können keine abweichenden Schlussfolgerungen gezogen werden. Dabei kann dahingestellt bleiben, welcher Bedeutung diesem Begriff nach dem allgemeinen technischen Sprachgebrauch zukommt. Aus dem Zusammenhang von Patentanspruch 1 ergibt sich jedenfalls, dass ein Verfahren zum Übertragen von Tonsignalen im Sinne des Klagepatents stets dann vorliegt, wenn die Signale vom Sender in der im Patentanspruch definierten Weise codiert und nach der Übermittlung vom Empfänger in entsprechender Weise decodiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Sonstige Umstände, aus denen sich eine engere Auslegung des Patentanspruchs ergeben könnte, zeigt die Revision nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>f) Entgegen der Auffassung der Revision geht es in diesem Zusammenhang nicht um die Frage, ob eine Unter- oder Teilkombination in den Schutzbereich eines Patents fallen kann. Nach der oben aufgezeigten und vom Berufungsgericht zutreffend zugrunde gelegten Rechtsprechung müssen stets alle Merkmale des geschützten Verfahrens verwirklicht werden - nur eben nicht zwingend durch dieselbe Person.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>4. Zutreffend ist das Berufungsgericht zu dem Ergebnis gelangt, dass Geräte mit eingebautem Decoder oder beigefügter Software Mittel im Sinne von § 10 Abs. 1 PatG sind, die sich auf ein wesentliches Element der Erfindung beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats ist die Frage, was zu den wesentlichen Elementen der Erfindung gehört, vom Gegenstand der Erfindung her zu beantworten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Da der Patentanspruch maßgeblich dafür ist, welcher Gegenstand durch das Patent geschützt ist, sind regelmäßig alle im Patentanspruch benannten Merkmale wesentliche Elemente der Erfindung im Sinne von § 10 Abs. 1 PatG. Daher bezieht sich bei einem Verfahrenspatent eine im Patentanspruch genannte Vorrichtung, die zur Ausführung des Verfahrens verwendet wird, regelmäßig auf ein wesentliches Element der Erfindung (BGH, GRUR 2007, 773 Rn. 14 - Rohrschweißverfahren). Etwas anderes gilt nur für Mittel, die zwar bei der Benutzung der Erfindung verwendet werden können, zur Verwirklichung der geschützten Lehre jedoch nichts beitragen. Leistet ein Mittel dagegen einen solchen Beitrag, kommt es grundsätzlich nicht darauf an, mit welchem Merkmal oder welchen Merkmalen des Patentanspruchs es zusammenwirkt (BGH, Urteil vom 21. August 2012 - X ZR 33/10, BGHZ 194, 272 = GRUR 2012, 1230 Rn. 32 - MPEG-2-Videosignalcodierung; Urteil vom 27. Februar 2007 - X ZR 38/06, BGHZ 171, 167 = GRUR 2007, 769 Rn. 18 - Pipettensystem; Urteil vom 4. Mai 2004 - X ZR 48/03, BGHZ 159, 76, 86 = GRUR 2004, 758, 761 - Flügelradzähler). Deshalb ist grundsätzlich unerheblich, ob das Merkmal, mit dem das Mittel zusammenwirkt, durch den Stand der Technik vorweggenommen oder nahegelegt ist oder ob es den "Kern" der Erfindung betrifft (BGHZ 171, 167 Rn. 20 - Pipettensystem; BGHZ 159, 76, 86 - Flügelradzähler).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>b) Die angegriffenen Geräte mit eingebautem Decoder hat das Berufungsgericht vor diesem Hintergrund rechtsfehlerfrei als Mittel angesehen, die sich auf ein wesentliches Element der Erfindung beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Diese Geräte sind nach den nicht angegriffenen Feststellungen des Berufungsgerichts geeignet, die in Patentanspruch 1 vorgesehenen Decodierschritte durchzuführen. Dies reicht aus, um das in Rede stehende Tatbestandsmerkmal des § 10 Abs. 1 PatG zu bejahen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>c) Ebenfalls rechtsfehlerfrei hat das Berufungsgericht entschieden, dass diese Voraussetzung auch bei denjenigen Geräten erfüllt ist, die ohne eingebauten Decoder, aber mit beigefügter Software angeboten oder geliefert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Revision gehört das Anbieten oder Liefern solcher Geräte einschließlich Software zu den angegriffenen Ausführungsformen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Nach den tatbestandlichen Feststellungen des Berufungsgerichts gehört bei einigen angegriffenen Geräten eine Software mit Decoderfunktion zum Lieferumfang. Diese Feststellungen sind gemäß § 314 ZPO bindend und gemäß § 559 Abs. 1 ZPO der revisionsrechtlichen Prüfung zugrunde zu legen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>bb) Auf dieser Grundlage ist das Berufungsgericht zu Recht zu dem Ergebnis gelangt, dass diese Geräte sich auf ein wesentliches Element der Erfindung beziehen, weil sie ebenfalls dazu geeignet sind, die in Patentanspruch 1 vorgesehenen Decodierschritte durchzuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>cc) Die Revision rügt, das Berufungsgericht habe der Beklagten zu Unrecht die Darlegungs- und Beweislast dafür zugewiesen, dass die mitgelieferte Software zum Decodieren der Signale eine vom Benutzer zu beschaffende Decoderkomponente von Microsoft verwende.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Diese Rüge ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>(1) In diesem Zusammenhang ist unerheblich, ob der diesbezügliche Vortrag der Beklagten hinreichend substantiiert war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat das Vorbringen nicht wegen mangelnder Substantiierung unberücksichtigt gelassen, sondern deshalb, weil es die Beklagte insoweit als beweisfällig angesehen hat. Die Revision zeigt nicht auf, dass das Berufungsgericht hierbei Beweisangebote der Beklagten übergangen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>(2) Zu Recht hat das Berufungsgericht die Darlegungs- und Beweislast bei der Beklagten gesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Mit ihrem Vorbringen, die mitgelieferte Software verwende eine Decoderkomponente von Microsoft, hat die Beklagte nicht bestritten, dass die von ihr angebotene und gelieferte Software zur Durchführung der erfindungsgemäßen Decodierschritte geeignet ist. Sie hat vielmehr geltend gemacht, aufgrund einer Lizenzerteilung an Microsoft sei die Durchführung dieser Verfahrensschritte nicht rechtswidrig. Die Voraussetzungen einer Lizenzerteilung oder einer sonstigen Berechtigung zur Nutzung des Klagepatents hat derjenige darzulegen und zu beweisen, der sich auf entsprechende Rechte beruft. Dies ist im Streitfall die Beklagte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>5. Rechtsfehlerfrei hat das Berufungsgericht eine mittelbare Patentverletzung durch Angebot oder Lieferung von Geräten mit eingebautem Decoder oder beigefügter Software nicht schon deshalb verneint, weil die Beklagte nach ihrem Vortrag in den Betriebsanleitungen für alle angegriffenen Ausführungsformen das Betriebssystem Windows und den Windows Media Player als Systemvoraussetzungen angegeben hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Ein solcher Hinweis kann eine mittelbare Patentverletzung jedenfalls deshalb nicht ausschließen, weil mit diesen Geräten nach den insoweit nicht zu beanstandenden Feststellungen des Berufungsgerichts das patentgemäße Verfahren unabhängig vom Einsatz zusätzlicher Software ausgeführt werden kann. Der Hinweis auf die Erforderlichkeit weiterer Softwarekomponenten, die ebenfalls zur Ausführung der patentgemäßen Decodierschritte geeignet sind, kann angesichts dessen nicht als Aufforderung verstanden werden, eine Decodierung nur damit durchzuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>6. Ohne Rechtsfehler ist das Berufungsgericht zu dem Ergebnis gelangt, mangels anderer Anhaltspunkte sei davon auszugehen, dass sich eine Zustimmung der Klägerin zur Tätigkeit der Sendeanstalten allenfalls auf die coderseitig durchzuführenden Verfahrensschritte bezieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>a) Die Revision macht geltend, angesichts des Umstandes, dass die Sendeanstalten den Standard des Klagepatents benutzten, sei davon auszugehen, dass sie sich entsprechende Rechte verschafft hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Damit zeigt sie keinen Rechtsfehler auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Nach den tatbestandlichen Feststellungen im Berufungsurteil hat die Beklagte in erster Instanz unbestritten vorgetragen, den Sendeanstalten sei jedenfalls durch stillschweigende Duldung eine Lizenz eingeräumt worden. Daraus ergibt sich nicht, dass die Klägerin oder sonstige am Klagepatent Berechtigte mit einer oder mehreren Sendeanstalten einen ausdrücklichen Lizenzvertrag oder eine vergleichbare Vereinbarung abgeschlossen haben. Auch ohne abweichenden Vortrag der Klägerin durfte das Berufungsgericht mithin allenfalls von einer stillschweigenden Lizenzeinräumung durch Duldung ausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Weitergehenden Vortrag der Beklagten, aus dem das Berufungsgericht den Abschluss eines Lizenzvertrages hätte herleiten müssen, zeigt die Revision nicht auf. Der von ihr zitierte Vortrag der Klägerin in der Berufungsverhandlung, wonach die Sendeanstalten gerade keine Lizenz am Klagepatent erhalten haben, vermag ihre Argumentation nicht zu stützen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Revision ist die vom Berufungsgericht angestellte Erwägung, eine stillschweigende Lizenzierung beziehe sich allenfalls auf den Codier-, nicht aber auf den Decodiervorgang, nicht deshalb rechtsfehlerhaft, weil eine auf einzelne Teile oder Teilmerkmale beschränkte Lizenz ungewöhnlich und juristisch abwegig wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob eine auf einzelne Teilschritte eines patentierten Verfahrens beschränkte Lizenz üblich ist. Im Streitfall ist die Würdigung des Berufungsgerichts aus Rechtsgründen schon deshalb nicht zu beanstanden, weil die Klägerin nach dem zugrunde zu legenden Vortrag gerade keinen Lizenzvertrag mit Sendeanstalten geschlossen hat, sondern deren Tätigkeit nur stillschweigend geduldet hat. Die Würdigung, dass in einer solchen Duldung nicht ohne weiteres eine Zustimmung zu Benutzungshandlungen anderer Personen liegt, ist möglich und lässt auch im Übrigen keinen Rechtsfehler erkennen. Insbesondere lässt sich entgegen der Auffassung der Revision weder aus der Erhebung des Rundfunkbeitrags noch aus sonstigen Umständen ein erkennbares Interesse oder gar eine Pflicht der Sendeanstalten herleiten, potentiellen Zuschauern patentrechtliche Nutzungsbefugnisse für den Betrieb von Empfangsgeräten zu verschaffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>c) Aus der Rechtsprechung des Bundesgerichtshofs zur stillschweigenden Erteilung einer Erlaubnis zur Nutzung eines Verfahrenspatents ergibt sich entgegen der Auffassung der Revision keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Bundesgerichtshofs darf derjenige, der vom Inhaber eines Verfahrenspatents eine zur Ausübung des Verfahrens erforderliche Vorrichtung erworben hat, diese bestimmungsgemäß benutzen, wenn ausdrückliche entgegenstehende Abreden fehlen (BGH, Urteil vom 24. September 1979 - KZR 14/78, GRUR 1980, 38, 39 - Fullplast). Erteilt der Patentinhaber einem Dritten die Lizenz, solche Gegenstände in den Verkehr zu bringen, so hat der Dritte mangels abweichender Abreden die Befugnis, seinen Abnehmern die Ausübung des Verfahrens zu erlauben (BGH, GRUR 2007, 773 Rn. 29 - Rohrschweißverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Diese Rechtsprechung - die das Berufungsgericht zu Recht nur im Zusammenhang mit einer möglicherweise an Microsoft erteilten Lizenz herangezogen hat - ist im vorliegenden Zusammenhang schon deshalb nicht einschlägig, weil die Sendeanstalten durch das Aussenden patentgemäß codierter Signale keine Vorrichtung veräußern, die zur Anwendung des Verfahrens geeignet ist. Die ausgesendeten Signale sind allenfalls ein Gegenstand, auf den die erfindungsgemäßen Decodierschritte angewendet werden können. Sie sind aber - anders als die angegriffenen Geräte mit Decodierfunktion - kein Mittel, um diese Schritte auszuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>7. Rechtsfehlerhaft hat das Berufungsgericht hingegen auch diejenigen Geräte als Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, angesehen, die ohne eingebauten Decoder und ohne beigefügte Software angeboten oder geliefert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>a) Solche Geräte sind, wie auch das Berufungsgericht nicht verkannt hat, nicht geeignet, die zum patentgemäßen Verfahren gehörenden Decodierschritte durchzuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Die Decodierung erfolgt bei diesen Geräten auf einem Rechner und mit Hilfe einer Software, die beide nicht Teil dieser angegriffenen Ausführungsform sind. Die auf den gelieferten Geräten durchgeführte Demodulation ist zwar erforderlich, um die Decodierung durchführen zu können. Sie gehört aber nicht zu den im Patentanspruch vorgesehenen Verfahrensschritten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht ist das Berufungsgericht ferner zu dem Ergebnis gelangt, dass die Demodulatoren nicht als bloßer Gegenstand oder Ausgangspunkt des geschützten Verfahrens anzusehen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Nach der oben aufgezeigten Rechtsprechung des Senats kann der erforderliche Bezug zu einem wesentlichen Element der Erfindung vorliegen, wenn ein geliefertes Mittel gleichsam als Element oder Baustein Verwendung findet, um wie ein "Rädchen im Getriebe" die geschützte Erfindung vollständig ins Werk zu setzen. Nicht von § 10 PatG erfasst sind aber Mittel, die lediglich den Gegenstand oder Ausgangspunkt eines geschützten Verfahrens betreffen. Für die mittelbare Verletzung eines Patents, das ein Verfahren zum Decodieren von Daten betrifft, reicht es deshalb nicht aus, einen Datenträger anzubieten oder zu liefern, der zur Decodierung geeignete Daten enthält. Ein Decodierverfahren ist ohne das Einlegen eines Datenträgers in ein hierzu vorgesehenes Abspielgerät weder unvollständig noch funktionsuntauglich; es fehlt dann lediglich an Bedarf und Anlass für den Ablauf des Verfahrens (BGHZ 194, 272 Rn. 34 - MPEG-2-Videosignalcodierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Die im Streitfall zu beurteilenden Demodulatoren bilden, wie das Berufungsgericht zutreffend erkannt hat, nicht lediglich den Gegenstand oder Ausgangspunkt des geschützten Verfahrens. Gegenstand der im Patentanspruch vorgesehenen Decodierschritte sind die codierten Signale, die bei der Übertragung von Fernsehsignalen nach dem DVB-Standard auf eine Trägerfrequenz moduliert worden sind. Die zur angegriffenen Ausführungsform gehörenden Demodulatoren dienen dazu, diese Signale aus dem übermittelten Signal zu extrahieren. Sie sind mithin nicht Gegenstand oder Ausgangspunkt des Übertragungsverfahrens, sondern ein Mittel, um die Übertragung durchzuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung des Berufungsgerichts reicht dies indes nicht aus, um den nach § 10 Abs. 1 PatG erforderlichen Bezug zu einem wesentlichen Element der Erfindung bejahen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>aa) Die nach dem Patentanspruch vorgesehenen Decodierschritte stellen zwar ein wesentliches Element der Erfindung dar. Entgegen der Auffassung des Berufungsgerichts weisen die Demodulatoren aber nicht schon deshalb einen hinreichenden Bezug zu diesem Element auf, weil eine patentgemäße Decodierung von nach dem DVB-Standard übertragenen Fernsehsignalen ohne vorangegangene Demodulation nicht möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Nach der oben aufgezeigten Rechtsprechung des Senats kann ein Mittel allerdings als "Rädchen im Getriebe" anzusehen sein, wenn sein Einsatz für die Verwirklichung eines im Patentanspruch vorgesehenen Verfahrensschritts kausal ist. Hierfür ist in der Regel jedoch erforderlich, dass das Mittel bei der Ausführung eines solchen Schritts eingesetzt wird. Der Einsatz bei einem vorgelagerten Schritt reicht grundsätzlich nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall stellt die Demodulation einen zwar notwendigen, aber den im Patentanspruch vorgesehenen Decodierschritten lediglich vorgelagerten Verfahrensschritt dar. Damit fehlt es an dem erforderlichen Zusammenhang.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Der für die revisionsrechtliche Prüfung als zutreffend zu unterstellende Vortrag der Beklagten, die angegriffenen Geräte seien ausschließlich zur Verarbeitung von DVB-Signalen geeignet, führt nicht zu einer abweichenden Beurteilung. Diesem Vorbringen ist zwar zu entnehmen, dass es auf Grund der Umstände offensichtlich ist, dass die Geräte dazu bestimmt sind, die empfangenen Signale zum Zwecke der anschließenden Decodierung zu demodulieren. Aus dem Umstand, dass ein Mittel dazu bestimmt ist, für Verfahrensschritte im Vorfeld eines geschützten Verfahrens eingesetzt zu werden, kann aber nicht abgeleitet werden, dass es sich auf ein wesentliches Element der Erfindung bezieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>bb) Ob die Demodulation des empfangenen Signals unter das im Patentanspruch vorgesehene Merkmal "Übertragen" subsumiert werden kann, bedarf keiner abschließenden Entscheidung. Dieses Merkmal ist jedenfalls kein wesentliches Element der Erfindung im Sinne von § 10 Abs. 1 PatG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats bezieht sich ein Mittel nicht auf ein wesentliches Element der Erfindung, wenn es zwar bei der Benutzung eingesetzt werden kann, aber von völlig untergeordneter Bedeutung ist (BGHZ 171, 167 Rn. 20 - Pipettensystem) und zur Verwirklichung der geschützten Lehre nichts beiträgt (BGHZ 194, 272 Rn. 32 - MPEG-2-Videosignalcodierung; BGHZ 171, 167 Rn. 18 - Pipettensystem; BGHZ 159, 76, 86 - Flügelradzähler).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Diese Voraussetzung ist im Streitfall hinsichtlich eines Geräts erfüllt, das nur zum Empfang und zur Demodulation eines ausgestrahlten Signals, nicht aber zu der im Patentanspruch vorgesehenen Decodierung geeignet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Die Übertragung des codierten Signals gehört zwar zu den Merkmalen des Patentanspruchs. Den Verfahrensschritten zwischen der erfindungsgemäßen Codierung und der erfindungsgemäßen Decodierung der Daten kommt nach dem Patentanspruch jedoch keine wesentliche Bedeutung zu. Insbesondere ist es nach der Lehre des Klagepatents grundsätzlich unerheblich, auf welchem Wege, in welcher Form und mit welchen Mitteln die Übertragung erfolgt. Mittel, die lediglich der näheren Ausgestaltung und Realisierung dieser Phase des Übertragungsvorgangs dienen, sind angesichts dessen von völlig untergeordneter Bedeutung. Sie beziehen sich deshalb nicht auf ein wesentliches Element der Erfindung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>IV. Soweit das angefochtene Urteil danach der Aufhebung unterliegt, kann der Senat in der Sache entscheiden, weil diese zur Entscheidung reif ist (§ 563 Abs. 3 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Aus den rechtsfehlerfreien Tatsachenfeststellungen des Berufungsgerichts ergibt sich, wie bereits oben dargelegt wurde, dass Geräte, die ohne eingebauten Decoder und ohne beigefügte Software angeboten oder geliefert werden, sich nicht auf ein wesentliches Element der Erfindung beziehen. Damit fehlt es an einer mittelbaren Patentverletzung. Ob die Klageansprüche insoweit auch deshalb unbegründet sind, weil die Nutzer solcher Geräte zur Decodierung den Windows Media Player einsetzen und Microsoft eine Lizenz am Klagepatent hat, bedarf angesichts dessen keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 92 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Richter Dr. Grabinski ist erkrankt und kann<br/>deshalb nicht unterschreiben.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Meier-Beck</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">     Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE307952015&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

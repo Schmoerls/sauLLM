@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE308922019</doknr>
+   <ecli>ECLI:DE:BGH:2019:081019UKZR73.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20191008</entsch-datum>
+   <aktenzeichen>KZR 73/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 18 Abs 1 GWB, § 19 Abs 1 GWB, § 19 Abs 2 S 1 GWB, Art 12 Abs 1 GG</norm>
+   <vorinstanz>vorgehend OLG München, 17. August 2017, Az: U 2184/15 Kart, Urteil<br/>vorgehend LG München I, 27. Mai 2015, Az: 37 O 11843/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Anbieter von Whitelisting-Software marktbeherrschend</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Werbeblocker III</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Wettbewerbskräfte, denen sich ein auf einem zweiseitigen Markt tätiges Unternehmen zu stellen hat, das eine Dienstleistung gegenüber einer Marktseite unentgeltlich erbringt und von der anderen Marktseite Entgelte verlangt, können in der Regel nicht ohne Betrachtung beider Marktseiten und deren wechselseitiger Beeinflussung zutreffend erfasst werden. </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Anbieter einer Internetnutzern unentgeltlich zur Verfügung gestellten Software, die es ermöglicht, beim Abruf werbefinanzierter Internetangebote die Anzeige von Werbung zu unterdrücken, der den Betreibern dieser Internetseiten gegen Entgelt die Freischaltung der blockierten Werbung durch Aufnahme in eine Weiße Liste anbietet, ist auf dem Markt der Eröffnung des Zugangs zu Nutzern, die seinen Werbeblocker installiert haben, marktbeherrschend, wenn die Betreiber dieser Internetseiten keine andere wirtschaftlich sinnvolle Zugangsmöglichkeit zu diesen Nutzern haben. </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Klägerinnen und unter Zurückweisung des weitergehenden Rechtsmittels wird das Urteil des Kartellsenats des Oberlandesgerichts München vom 17. August 2017 im Kostenpunkt und insoweit aufgehoben, als die Unterlassungsanträge zu 1, 2, 4 und 5 sowie der darauf rückbezogene Antrag auf Feststellung der Verpflichtung der Beklagten zum Schadensersatz abgewiesen worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zu neuer Verhandlung und Entscheidung an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen gehören zur R. -Gruppe. Die Klägerin zu 2 (nachfolgend Klägerin) betreibt verschiedene Internetseiten, unter anderem R. .de, V. .de und W.  .de. Die betreffenden Seiten können von den Internetnutzern überwiegend kostenlos aufgerufen werden und sind im Wesentlichen durch in die Seiten eingebundene und von der Klägerin zu 1 vermarktete vorwiegend audiovisuelle Werbung finanziert. Dabei richtet sich die Höhe der erzielten Werbeerlöse nach der Reichweite des Mediums, für die es darauf ankommt, dass die Werbung im Browser des Nutzers geladen und auf der Bildschirmoberfläche wahrnehmbar gemacht wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 1 (nachfolgend: Beklagte), deren Geschäftsführer der Beklagte zu 3 ist und der Beklagte zu 2 bis zum 17. Dezember 2015 war, bietet Internetnutzern ein Programm "Adblock Plus" an, das gängige Internetbrowser um eine "Werbeblocker"-Funktion ergänzt. Deren Funktionsweise lässt sich wie folgt beschreiben: In einem Browserfenster werden Informationen und Werbung dem Nutzer als einheitliches Webseitenangebot dargestellt. Typischerweise werden Informationsinhalte von Internetseiten von anderen Servern ("Content-Servern") abgerufen als Werbeinhalte, die auf "Ad-Servern" gespeichert sind, die Internetadressen haben, die sie als solche erkennbar machen. Adblock Plus kann den Zugriff des Browsers auf die vom Nutzer aufgerufene Internetseite in der Weise beeinflussen, dass Daten von den Ad-Servern nur noch unter bestimmten Voraussetzungen oder gar nicht abgerufen werden, so dass Werbung, deren Anzeige der Seitenbetreiber mit dem Aufruf der Internetseite verbunden hat, dem Nutzer gegebenenfalls nicht angezeigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>In welchem Umfang Werbung blockiert wird, richtet sich nach Filterlisten, für die die Beklagte den Nutzern Voreinstellungen zur Verfügung stellt. Standardmäßig ist eine Schwarze Liste ("E.    Germany") voreingestellt, die sämtliche Werbung blockiert, die nicht durch Aufnahme in eine ebenfalls voreingestellte Weiße Liste zur Anzeige freigegeben ist. Die Beklagte bietet jedenfalls größeren Betreibern von Internetseiten wie der Klägerin die Aufnahme in diese Filterliste ("Whitelisting") nur gegen Zahlung eines Entgelts an, das regelmäßig 30% der Werbeerlöse beträgt, die der Seitenbetreiber mit der Anzeige der freigeschalteten Werbung erzielt. Die Beklagte verlangt für die Aufnahme in die Weiße Liste ferner, dass die Werbung von ihr formulierten Kriterien für "akzeptable" oder "nicht aufdringliche" Werbung entspricht; hierfür wird vorausgesetzt, dass es sich um statische Text- oder Bildwerbung handelt. Mehr als 90% der Adblock-Plus-Nutzer behalten die Voreinstellungen der Beklagten bei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen machen geltend, das Geschäftsmodell der Beklagten sei unlauter und kartellrechtswidrig; es stelle zudem einen Eingriff in ihr Recht am eingerichteten und ausgeübten Gewerbebetrieb dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Mit der Klage begehren sie, soweit für das Revisionsverfahren von Interesse, den Beklagten zu untersagen, mit dem Werbeblocker "AdBlock Plus" Werbung auf ihren Internetseiten zu blockieren (Unterlassungsantrag zu 1), die Freischaltung von Werbung auf diesen Seiten vom Abschluss eines Vertrages oder der Zahlung eines Entgelts, insbesondere eines erlösabhängigen Entgelts, abhängig zu machen (Unterlassungsantrag zu 2), Nutzer dazu aufzurufen, den Werbeblocker zur Blockade der Werbung auf ihren Internetseiten einzusetzen (Unterlassungsantrag zu 3), die Kommunikation zwischen Nutzergeräten und den Servern von Medienagenturen durch Störung von Meldungen über angezeigte Werbung zu beeinträchtigen (Unterlassungsantrag zu 5), die Nutzer durch eine vorgebliche Freischaltung von Werbung durch eine "Nutzer-Community" zu täuschen (Unterlassungsantrag zu 6) sowie schließlich die Funktionsweise des Werbeblockers gegenüber den Nutzern als uneigennützige oder ohne Gewinnerzielungsabsicht ausgeübte Tätigkeit darzustellen (Unterlassungsantrag zu 7). Ferner begehren sie die Feststellung der Schadensersatzpflicht der Beklagten für diese Handlungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Klage abgewiesen (LG München I - 37 O 11843/14, juris), die Berufung der Klägerinnen ist erfolglos geblieben (OLG München, WRP 2017, 1365). Dagegen wenden sich die Klägerinnen mit der vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Beklagten beantragen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat angenommen, den Klägerinnen stünden die geltend gemachten Ansprüche weder aus Lauterkeitsrecht noch aus Kartellrecht oder allgemeinem Deliktsrecht zu. Der Antrag zu 1 ziele auf ein Verbot des Werbeblockers, wenn die Beklagten nur mittels einer Filterliste Werbung freischalten könnten, und erfasse deshalb, weil das "Whitelisting" zum Teil unentgeltlich erfolge, auch nicht-geschäftliche Handlungen. Der mit dem Antrag zu 2 angegriffene unentgeltliche Vertrieb der Software zur Vorbereitung eines entgeltlichen "Whitelistings" stelle keine gezielte Mitbewerberbehinderung im Sinne von § 4 Nr. 4 UWG dar, und ebenso wenig seien die beanstandeten Verhaltensweisen aggressive geschäftliche Handlungen im Sinne von § 4a UWG. Selbst wenn die Beklagte durch die auf der kostenlosen Bezugsmöglichkeit beruhende weite Verbreitung des Werbeblockers eine lauterkeitsrechtlich bedeutsame wirtschaftliche Machtposition erlangt haben sollte, läge kein Ausnutzen dieser Position zur Druckausübung im Sinne des § 4a Abs. 1 Satz 3 UWG vor. Die Anträge könnten auch nicht auf eine Verletzung des Rechts am eingerichteten und ausgeübten Gewerbebetrieb gestützt werden, weil es im Hinblick auf die Klägerin zu 2 an einer Rechtsschutzlücke und im Hinblick auf die Klägerin zu 1 an der erforderlichen Unmittelbarkeit eines betriebsbezogenen Eingriffs fehle. Schließlich sei die Beklagte auch nicht Normadressatin gemäß § 19 GWB, weil sie auf dem sachlich und örtlich relevanten Markt des Zugangs zu Internetnutzern in Deutschland über keine marktbeherrschende Stellung verfüge; allenfalls etwas über 20% aller deutschen Internetnutzer verwendeten Adblock Plus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Unbegründet seien auch die Anträge zu 3, 5, 6 und 7. Eine gezielte Behinderung gemäß § 4 Nr. 4 UWG unter dem Gesichtspunkt des Boykottaufrufs liege nicht vor, weil die Klägerinnen als etwaige Verrufene schon nicht hinreichend bestimmt seien; zudem wäre bei der gebotenen umfassenden Interessenabwägung aller Beteiligten ein etwaiger Boykottaufruf im Streitfall jedenfalls nicht unlauter (Antrag zu 3). Die lediglich in Einzelfällen aufgrund eines Fehlers in der "Blacklist" vorgekommene Blockade von Zählpixeln trotz Ausspielung der Werbung auf den Internetseiten der Klägerin behindere diese nicht im Sinne des § 4 Nr. 4 UWG (Antrag zu 5). Die Nutzer würden schließlich weder darüber getäuscht, dass die Beklagte und nicht die Gemeinschaft der Nutzer Werbung freischalte (Antrag zu 6), noch über die Gewinnerzielungsabsicht der Beklagten (Antrag zu 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>II. Diese Beurteilung steht auf die zulässige Revision in vollem Umfang zur Überprüfung durch das Revisionsgericht. Es kann offenbleiben, ob und gegebenenfalls in welchem Umfang das Berufungsgericht die Revision wirksam auf die lauterkeitsrechtliche Beurteilung des Streitfalls hätte beschränken können. Denn die Entscheidungsformel des Berufungsurteils enthält keine Beschränkung der Revisionszulassung, und eine solche folgt auch nicht aus den Entscheidungsgründen. Zwar hat das Berufungsgericht ausgeführt, die Zulassung der Revision sei veranlasst, weil es hinsichtlich der lauterkeitsrechtlichen Zulässigkeit von Werbeblockern der streitgegenständlichen Art um Rechtsfragen grundsätzlicher Bedeutung gehe, sowie auch im Hinblick auf eine abweichende Entscheidung des Oberlandesgerichts Köln zum Vorliegen einer aggressiven geschäftlichen Handlung im Sinne des § 4a UWG. Daraus ergibt sich indes lediglich die Begründung der grundsätzlichen Bedeutung des Streitfalls, jedoch keine Beschränkung der Zulassung des Rechtsmittels.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>III. Die Revision ist unbegründet, soweit sie sich gegen die Abweisung der Klageanträge zu 3, 6 und 7 wendet, die keine Grundlage im Gesetz gegen Wettbewerbsbeschränkungen finden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Eine gezielte Behinderung im Sinne des § 4 Nr. 4 UWG unter dem Gesichtspunkt des Boykottaufrufs hat das Berufungsgericht zutreffend mit der Begründung verneint, die Klägerinnen seien in ihrer Eigenschaft als Webseitenbetreiber als etwaige Verrufene schon nicht hinreichend bestimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Ein Boykottaufruf ist der Versuch, die freie Willensentscheidung des Adressaten dahingehend zu beeinflussen, dass er bestimmte Geschäftsbeziehungen mit Dritten nicht eingeht oder nicht aufrechterhält. Dabei müssen der Adressat des Aufrufs und der Verrufene bestimmt oder zumindest bestimmbar sein. Zwar reicht dafür eine nähere Bezeichnung nach Gruppen-, Tätigkeits- oder Organisationsmerkmalen (vgl. BGH, Urteil vom 13. November 1979 - KZR 1/79, WuW/E BGH 1666, 1668 [juris Rn. 40] - Denkzettel-Aktion; Urteil vom 22. Juli 1999 - KZR 13/97, WuW/E DE-R 352, 354 [juris Rn. 47] - Kartenlesegerät). Die Individualisierbarkeit fehlt jedoch, wenn der Kreis der zu sperrenden Unternehmen praktisch unübersehbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Nach diesen Grundsätzen hat das Berufungsgericht die erforderliche Bestimmbarkeit rechtsfehlerfrei verneint. Es hat ausgeführt, im Streitfall biete die Beklagte ihren Werbeblocker rund 67 Millionen deutschen Internetnutzern als Adressaten des etwaigen Boykottaufrufs unentgeltlich zur Nutzung an. Als Verrufene kämen sämtliche in der umfangreichen "Easylist Germany" aufgeführten Betreiber werbefinanzierter Webseiten in Betracht, deren Onlinewerbung blockiert werden solle und die nicht in die Weiße Liste aufgenommen worden seien. Die Nutzer nähmen die in der schwarzen und der weißen Liste jeweils aufgeführten Webseitenbetreiber nicht im Einzelnen wahr. Es ist nicht zu beanstanden, wenn das Berufungsgericht unter den festgestellten Umständen angenommen hat, dass die Nutzer des Werbeblockers keine Vorstellung darüber haben, ob und in welchem Umfang ein bestimmter Seitenbetreiber und namentlich die Klägerin blockiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>c) Aus § 823 Abs. 1 BGB in Verbindung mit § 1004 Abs. 1 BGB ergibt sich unter dem Aspekt der Verletzung des Rechts am eingerichteten und ausgeübten Gewerbebetrieb nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht hat auch rechtsfehlerfrei eine Täuschung der Nutzer über eine vermeintliche Freischaltung von Werbung durch die "Nutzer-Community" sowie die Gewinnerzielungsabsicht der Beklagten verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Das Berufungsgericht hat angenommen, die Darstellung der Entscheidung über die Freischaltung von Werbung sei nicht irreführend. Auf den Internetseiten der Beklagten fänden sich dazu die Aussagen, dass ein "Vorschlag zur Freischaltung" in ein Forum gestellt und die Werbung freigeschaltet werde, falls es keine berechtigten Einwände gebe. Mit diesen Aussagen verbinde der Durchschnittsverbraucher die Erwartung, die "Community" könne zwar Bedenken äußern, ob die Werbung den Kriterien für akzeptable Werbung entspreche, die Entscheidung werde aber letztlich durch die Beklagte getroffen. Den Nutzern werde auch deutlich, dass die Beklagte ihre Tätigkeit zwar werbend als "Mission" zur Verbesserung des Internets anpreise, es sich aber zugleich um ein Geschäftsmodell mit Gewinnerzielungsabsicht handele. Bereits durch die Überschrift "Wie verdienen wir Geld?" in der von den Klägerinnen in Bezug genommenen Darstellung werde dies klargestellt. Die Beklagte weise zudem darauf hin, dass ihr Modell zur Veränderung der Online-Werbung auch von einigen größeren Firmen bezahlt werde, die unaufdringliche Werbung anzeigen wollten. Auch wenn sie die Nutzer zu Spenden für die Weiterentwicklung des Werbeblockers aufrufe, verbleibe der Gesamteindruck, dass die Beklagte ein auch finanziell erfolgreiches Geschäftsmodell zumindest anstrebe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>b) Dieses Verständnis hält sich im Rahmen zulässiger tatrichterlicher Würdigung. Soweit die Revision die Verletzung eines Erfahrungssatzes rügt, gibt sie schon nicht an, welchen Erfahrungssatz das Berufungsgericht missachtet haben soll. Soweit sie geltend macht, es werde nicht deutlich, dass die Freischaltung von Werbung im Ergebnis ausschließlich von den Zahlungen der betroffenen Unternehmen abhänge, ist eine fehlende Aufklärung über diesen Punkt schon nicht vom Antrag zu 7 umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>IV. Im Übrigen kann das Berufungsurteil keinen Bestand haben. Das Berufungsgericht hat kartellrechtliche Ansprüche (§ 18 Abs. 1 i.V.m. § 19 Abs. 1, Abs. 2 Nr. 1 GWB) der Klägerinnen rechtsfehlerhaft mit der Erwägung verneint, die Beklagte sei nicht Normadressat des kartellrechtlichen Behinderungs- und Diskriminierungsverbots.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Gemäß § 19 Abs. 1 GWB ist die missbräuchliche Ausnutzung einer marktbeherrschenden Stellung eines Unternehmens verboten. Ein solcher Missbrauch liegt nach § 19 Abs. 2 Nr. 1 GWB insbesondere vor, wenn ein marktbeherrschendes Unternehmen als Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen ein anderes Unternehmen unmittelbar oder mittelbar unbillig behindert oder ohne sachlich gerechtfertigten Grund unmittelbar oder mittelbar anders behandelt als gleichartige Unternehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Marktbeherrschend ist ein Unternehmen nach § 18 Abs. 1 GWB, wenn es als Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen auf dem sachlich und räumlich relevanten Markt ohne Wettbewerber ist, keinem wesentlichen Wettbewerb ausgesetzt ist oder eine im Verhältnis zu seinen Wettbewerbern überragende Marktstellung hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht hat ausgeführt, die Beklagte möge zwar die einzige Anbieterin einer Werbefreischaltung sein und die Klägerin könne die Internetnutzer, die den Werbeblocker der Beklagten installiert haben, auch nur durch eine Freischaltung durch die Beklagte mit ihrer Werbung erreichen. Daraus ergebe sich aber keine marktbeherrschende Stellung auf dem hier relevanten Markt. Das Klagebegehren sei auf den ungehinderten Zugang der Klägerin zu den Internetnutzern mit ihren Angeboten einschließlich der darin enthaltenen Werbung gerichtet. Maßgeblich für die Frage der Marktbeherrschung sei somit, in welchem Ausmaß die Beklagte den Zugang der Klägerin zu allen Internetnutzern beschränken könne. Ebenso wie ein Lebensmitteldiscounter mit einem kleinen Marktanteil am Lebensmittelmarkt nicht deshalb gegenüber Lebensmittelherstellern marktbeherrschend sei, weil der Lebensmittelhersteller die Stammkunden des Discounters nicht erreichen könne, wenn der Discounter die Lebensmittel des Herstellers nicht in sein Sortiment aufnehme, habe die Beklagte nicht deshalb eine marktbeherrschende Stellung, weil nur sie durch Freischaltung der Werbung der Klägerin Zugang zu den Internetnutzern verschaffen könne, die ihren Werbeblocker installiert hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>3. Diese Erwägungen halten der revisionsrechtlichen Überprüfung in einem entscheidenden Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Eine marktbeherrschende Stellung kann der Anbieter oder Nachfrager einer bestimmten Art von Waren oder gewerblichen Leistungen haben. Geht es wie im Streitfall um einen möglicherweise marktbeherrschenden Anbieter, ist zunächst das Produkt (oder die Dienstleistung) zu identifizieren, das dieser anbietet. Erst auf dieser Grundlage kann sinnvoll geprüft werden, ob von anderen Anbietern angebotene Produkte aus der Sicht der Nachfrager, d.h. der (potentiellen) Abnehmer des Produkts, nach Eigenschaft, Verwendungszweck und Preislage zur Deckung eines bestimmten Bedarfs austauschbar sind (Bedarfsmarktkonzept; s. nur BGH, Urteil vom 24. Januar 2017 - KZR 2/15, WRP 2017, 707 Rn. 20 - Kabelkanalanlagen).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>b) Die Beklagte ist, wie das Berufungsgericht im Ausgangspunkt zutreffend sieht, auf einem "zweiseitigen" Markt tätig. Sie bietet zum einen Internetnutzern (unentgeltlich) den Werbeblocker Adblock Plus an, mit dem diese als unerwünscht, lästig oder belästigend angesehene Werbung auf den von ihnen aufgerufenen Internetseiten blockieren können. Sie bietet zum anderen den Betreibern von Internetseiten, deren für die Nutzer unentgeltliche Bereitstellung typischerweise durch Werbung finanziert wird, unter bestimmten Voraussetzungen die Aufnahme in die von ihr voreingestellte Weiße Liste an, die es den Seitenbetreibern ermöglicht, mit ihrer Werbung die Nutzer der Seiten zu erreichen, die sie damit ohne das "Whitelisting" nicht erreichen können, weil die Werbung von dem Werbeblocker der Beklagten blockiert wird. Die Aufnahme in die Weiße Liste erfolgt nach den Feststellungen des Berufungsgerichts gegenüber "größeren" Seitenbetreibern entgeltlich und nach dem Vorbringen der Beklagten gegenüber einer Vielzahl kleinerer Anbieter unentgeltlich. Die Beklagte tritt damit als Intermediär zwischen die Seitenbetreiber und die Nutzer, wobei sich die Besonderheit ihrer Stellung gegenüber anderen Intermediären daraus ergibt, dass sie den Seitenbetreibern ausschließlich die Beseitigung eines Zugangshindernisses anbietet, das sie mit der Bereitstellung des Werbeblockers und seiner voreingestellten Schwarzen Liste gegenüber den Nutzern selbst geschaffen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Für die Beurteilung des Streitfalls kommt es - in erster Linie - auf die grundsätzlich entgeltliche Dienstleistung der Aufnahme in die Weiße Liste an. Sie wird den Betreibern (ganz oder teilweise) werbefinanzierter Internetseiten wie der Klägerin angeboten, und der individuelle Bedarf der Klägerin ist insoweit nur von Belang, als sie wie andere Betreiber werbefinanzierter Internetseiten Teil der Marktgegenseite ist, die den Zugang zu den von der Beklagten blockierten Internetnutzern nachfragt. Der Vergleich des Berufungsgerichts geht daher fehl: Anders als der Discounter ist die Beklagte kein Nachfragemittler, sondern Anbieter, und es kommt daher nicht darauf an, welchen Anteil aller Internetnutzer sie den Seitenbetreibern zugänglich machen kann, sondern auf welchem Markt sie die Beseitigung der von ihr selbst geschaffenen Zugangsschranke anbietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Die Internetnutzer sind anders als bei einem Nachfragemittler den Seitenbetreibern ohne das Hinzutreten der Beklagten ohne weiteres zugänglich. Nur wenn Werbeblocker und "Whitelisting" getrennt betrachtet würden, ließe sich annehmen, die Beklagte erschlösse den Seitenbetreibern - ähnlich dem Discounter im Beispiel des Berufungsgerichts - mit der Weißen Liste schlicht einen weiteren Kreis von Internetnutzern und damit eine größere Reichweite für ihr werbefinanziertes Angebot. Damit würde aber das Ziel der Bestimmung des relevanten Markts verfehlt, die Wettbewerbskräfte zu ermitteln, denen sich die beteiligten Unternehmen zu stellen haben, und der Zielsetzung des § 19 GWB entsprechend die missbräuchliche Ausnutzung nicht hinreichend vom Wettbewerb kontrollierter Handlungsspielräume zu Lasten Dritter zu unterbinden (vgl. nur BGH, Urteil vom 4. November 2003 - KZR 16/02, BGHZ 156, 379, 384 - Strom und Telefon I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Der Preissetzungsspielraum der Beklagten ist nur dann durch den Wettbewerb kontrolliert, wenn sich die Betreiber werbefinanzierter Seiten den Zugang zu den Internetnutzern, die den Werbeblocker der Beklagten installiert und die "Easylist Germany" voreingestellt haben, auch in anderer Weise als durch entgeltliche Aufnahme in die voreingestellte Weiße Liste verschaffen könnten, die entsprechende Dienstleistung der Beklagten mithin aus der Sicht der Marktgegenseite durch andere Dienstleistungen substituierbar wäre. Andernfalls ist aus der Sicht eines Seitenbetreibers die Zahlung jeden Entgelts an die Beklagte wirtschaftlich vernünftig, das ihm wenigstens noch einen Anteil an den Werbeerlösen belässt, die er infolge der "Freischaltung" der Werbung generieren kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Für die Beurteilung der Ausweichmöglichkeiten der Nachfrager ist dem Berufungsurteil nichts Zureichendes zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(1) Von vornherein unerheblich ist dafür die Erwägung, die Klägerin könne eine Bezahlschranke einrichten. Bei der Prüfung einer marktbeherrschenden Stellung auf einem Angebotsmarkt ist regelmäßig das Geschäftsmodell der Marktgegenseite und die sich daraus ergebende Nachfrage als gegeben hinzunehmen. Abgesehen davon, dass die Finanzierung durch Nutzerentgelte für viele Internetseiten mangels Bereitschaft der Nutzer, für das Angebot zu zahlen, nicht realisierbar sein dürfte, entschiede sich ein Seitenbetreiber mit der Einführung einer Bezahlschranke anstelle einer Werbefinanzierung seines Angebots für ein grundlegend anderes Geschäftsmodell und schiede damit aus dem Kreis der (potentiellen) Nachfrager der von der Beklagten angebotenen Dienstleistung aus; für die Marktdefinition ist diese Möglichkeit unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(2) Aus den Feststellungen des Berufungsgerichts ergibt sich auch nicht, dass Seitenbetreiber die Möglichkeit haben, die von der Beklagten bewirkte Zugangsblockade wirksam in anderer Weise als durch Aufnahme in die Weiße Liste zu umgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(a) Zwar stellt das Berufungsgericht fest, dass die Klägerinnen "jedenfalls teilweise" in der Lage seien, Videowerbung unter Umgehung des Werbeblockers der Beklagten auszuspielen, und es mehrere Anbieter gebe, die damit würben, mit der von ihnen - entgeltlich - angebotenen Software Werbeblocker zu umgehen. Ob, in welchem Umfang und zu welchen Kosten auf diese Weise das "Whitelisting" umgangen werden kann und ob hierdurch der Preissetzungsspielraum der Beklagten begrenzt wird, ist dem Berufungsurteil aber nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(b) Nach den von der Revision insoweit nicht angegriffenen Feststellungen des Berufungsgerichts haben Seitenbetreiber ferner die technische Möglichkeit, den Aufruf der Internetseiten durch Nutzer zu unterbinden, die den Werbeblocker der Beklagten verwenden, und so den Versuch zu unternehmen, diese Nutzer zu veranlassen, den Werbeblocker jedenfalls für den Besuch der betreffenden Seiten außer Funktion zu setzen. Auch insoweit fehlt es aber an Feststellungen, ob und in welchem Umfang das "Whitelisting" auf diese Weise tatsächlich substituierbar ist. Es liegt nicht fern, dass hiermit nur ein mehr oder weniger großer Teil der Nutzer zu einer vorübergehenden Abschaltung des Werbeblockers motiviert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(c) Entsprechendes gilt für die nach den Feststellungen des Landgerichts, auf die das Berufungsgericht verweist, bestehende Möglichkeit, Nutzer zur Abschaltung des Werbeblockers dadurch zu veranlassen, dass Inhalte bei eingeschaltetem Werbeblocker lediglich in geminderter Qualität angeboten werden, z.B. Filme nur in deutlich kleinerem Format anstatt im Vollbildmodus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>d) Ist die Marktabgrenzung des Berufungsgerichts fehlerhaft, kann mit der von ihm gegebenen Begründung auch eine marktbeherrschende Stellung der Beklagten nicht verneint werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>V. Das Berufungsurteil erweist sich hinsichtlich der Anträge zu 1 und 2 auch nicht aus anderen Gründen als richtig (§ 561 ZPO). Auf Grundlage der Feststellungen des Berufungsgerichts können kartellrechtliche Ansprüche nicht mit der Begründung ausgeschlossen werden, es fehle jedenfalls an einem missbräuchlichen Verhalten der Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>1. Die Beurteilung, ob ein Normadressat des § 19 Abs. 2 Nr. 1 GWB ein anderes Unternehmen unbillig behindert oder ohne sachlich gerechtfertigten Grund anders behandelt als gleichartige Unternehmen, erfordert nach ständiger Rechtsprechung des Bundesgerichtshofs eine umfassende Abwägung der beteiligten Interessen unter Berücksichtigung der auf die Freiheit des Wettbewerbs gerichteten Zielsetzung des Gesetzes gegen Wettbewerbsbeschränkungen (BGH, Urteil vom 12. April 2016 - KZR 30/14, WuW 2016, 427 Rn. 48 - NetCologne; Urteil vom 6. Oktober 2015 - KZR 87/13, NZKart 2015, 535 Rn. 59 - Porsche-Tuning, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Interessenabwägung ist im Streitfall zwar zu berücksichtigen, dass das Geschäftsmodell der Beklagten nach der Rechtsprechung des Bundesgerichtshofs lauterkeitsrechtlich als solches nicht zu beanstanden ist (BGH, Urteil vom 19. April 2018 - I ZR 154/16, BGHZ 218, 236 - Werbeblocker II). Der Grundsatz, dass die Unlauterkeit einer Behinderung auch ihre kartellrechtliche Unbilligkeit begründen kann, gilt aber nicht umgekehrt. Dem Marktbeherrscher können besondere Verhaltenspflichten auferlegt sein, die für das Marktverhalten anderer Unternehmen nicht gelten. Dieser aus dem besonderen Anwendungsbereich der kartellrechtlichen Vorschriften folgende Unterschied gegenüber dem Lauterkeitsrecht darf bei der parallelen Anwendung dieser Vorschriften nicht unberücksichtigt bleiben (vgl. Götting/Hetmank in Fezer/Büscher/Obergfell, UWG, 3. Aufl., § 4 Nr. 4 Rn. 15; Omsels in Harte-Bavendamm/Henning-Bodewig, UWG, 4. Aufl., § 4 Nr. 4 Rn. 12; Köhler in Köhler/Bornkamm/Feddersen, UWG, 37. Aufl., § 4 Rn. 4.18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>2. Für die erforderliche umfassende Interessenabwägung, bei der gegebenenfalls auch wirtschaftlich sinnvolle Abwehrmaßnahmen der Klägerin zu berücksichtigen sein können, fehlt es an Feststellungen des Berufungsgerichts.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>a) In die Interessenabwägung ist auf Seiten der Betreiber werbefinanzierter Internetseiten wie der Klägerin das Interesse an einer ungestörten Verbreitung der Werbung einzustellen, über die sie den Nutzern kostenlos bereitgestellte Seiteninhalte finanzieren. Das Geschäftsmodell der Beklagten, das diese Werbung grundsätzlich blockiert und nur unter bestimmten Voraussetzungen und nur gegen ein erhebliches Entgelt ganz oder teilweise von der Blockade ausnimmt, beeinträchtigt damit die Seitenbetreiber in durch die Grundrechte der Pressefreiheit (Art. 5 Abs. 1 Satz 2 GG) und der Berufsfreiheit (Art. 12 Abs. 1 GG) geschützten Rechtspositionen. Art. 5 Abs. 1 Satz 2 GG schützt die Eigenständigkeit der Presse von der Beschaffung der Information bis zur Verbreitung der Nachricht unter Einschluss des Anzeigenteils eines Presseorgans. Der Schutzbereich erfasst dabei nicht nur Presseerzeugnisse im herkömmlichen Sinne, sondern auch die Verbreitung von Informationen über andere Medien wie das Internet (vgl. BVerfGE 21, 271, 278; 66, 116, 133; BVerfG, GRUR 2001, 170, 172). Das Grundrecht der Berufsfreiheit gemäß Art. 12 Abs. 1 GG schließt neben der Berufswahl auch die Art und Weise der unternehmerischen Tätigkeit ein (BVerfGE 50, 290, 363; 114, 196, 244).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>b) Auf Seiten der Beklagten ist zu berücksichtigen, dass ihre Tätigkeit ebenfalls durch die Berufsfreiheit geschützt ist und sie ein marktgängiges Dienstleistungsangebot entwickelt hat, das, wie die Verbreitung ihres Werbeblockers zeigt, den Bedürfnissen eines nicht unerheblichen Teils der Internetnutzer entspricht und daher als Teil des Wettbewerbsprozesses bei Dienstleistungen der Online-Werbung angesehen werden kann (vgl. BGHZ 218, 236 Rn. 26 - Werbeblocker II; Pressemitteilung des Bundeskartellamts vom 21. Januar 2019 "Bundeskartellamt - Adblocker/Whitelisting", S. 1, vorgelegt als Anlage RE 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Zwar erscheint es nicht ohne weiteres schutzwürdig, dass die Nutzer des Werbeblockers der Beklagten Internetangebote unentgeltlich nutzen möchten, ohne bereit zu sein, die Anzeige der zu deren Refinanzierung von den Betreibern mit diesen Seiten verbundenen Werbung zu dulden. Zu berücksichtigen ist aber gleichwohl, dass die Nutzer rechtlich grundsätzlich nicht gehindert sind, die Anzeige von Werbung, insbesondere von besonders aufdringlicher Werbung, zu unterdrücken. Es kann daher auch der Beklagten nicht grundsätzlich versagt sein, die Nutzer hierbei durch die Bereitstellung eines Werbeblockers technisch zu unterstützen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich jedoch, dass das Interesse der Beklagten, durch Blockade und Freischaltung die Werbung der Seitenbetreiber zu steuern und an deren Werbeerlösen zu partizipieren, nicht als solches schutzwürdig ist, sondern nur insoweit berücksichtigt werden darf, als es legitimen Interessen derjenigen Internetnutzer dient, die den Werbeblocker der Beklagten installiert haben, oder dazu, die Entwicklung und Pflege des Werbeblockers zu finanzieren sowie damit einen angemessenen und risikoadäquaten Gewinn zu erzielen. Insbesondere kann nicht ohne weiteres angenommen werden, dass es keinen Missbrauch einer marktbeherrschenden Stellung darstellt, wenn die Bereitstellung des Werbeblockers durch eine den Seitenbetreibern - in beliebiger Höhe - abverlangte Beteiligung an den durch die von der Beklagten veranlasste Freischaltung erzielten Umsatzerlösen mit nicht mehr blockierter Werbung finanziert wird. Andererseits kann dieses Finanzierungsmodell jedoch auch nicht schlechthin ausgeschlossen werden. Vielmehr bedarf es einer weitergehenden Berücksichtigung der Einzelheiten seiner Ausgestaltung, zu denen das Berufungsgericht keine Feststellungen getroffen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>c) Im Übrigen versteht der Senat das Klagebegehren zu 1 und 2 dahin, dass das Anbieten eines Werbeblockers mit schwarzer und weißer Liste und das entgeltliche, insbesondere von einer Umsatzbeteiligung abhängige "Whitelisting" nicht nur als solches angegriffen werden, sondern auch in der konkreten Erscheinungsform des Werbeblockers Adblock Plus, bei dem insbesondere das von der Beklagten geforderte Entgelt regelmäßig 30% der Werbeerlöse beträgt und die Aufnahme in die Weiße Liste ferner von der Einhaltung bestimmter, von der Beklagten formulierter Voraussetzungen abhängt. Auch insoweit fehlt es an hinreichenden Feststellungen für eine umfassende Abwägung der beiderseitigen Interessen, insbesondere zu tatsächlich vereinbarten (im Gegensatz zu nur geforderten) Erlösbeteiligungen und der näheren Ausgestaltung der Voraussetzungen des Whitelistings.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>d) Aufzuheben ist auch die Abweisung des hilfsweise zum Antrag zu 1 gestellten Antrags zu 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>3. Schließlich kann nicht von vornherein ausgeschlossen werden, dass sich aus der mit dem Klageantrag zu 5 beanstandeten Beeinträchtigung der Rechnerkommunikation bei der Erfassung der Seitenzugriffe ein Missbrauch einer marktbeherrschenden Stellung ergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>4. Soweit das Berufungsurteil hinsichtlich der Unterlassungsanträge aufzuheben ist, hat auch die Abweisung des auf Feststellung der Schadensersatzpflicht gerichteten Antrags keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>5. Ansprüche wegen Missbrauchs einer marktbeherrschenden Stellung der Beklagten können auch der Klägerin zu 1 zustehen, deren Tätigkeit durch die angegriffenen Handlungen gleichfalls beeinträchtigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>VI. Das Berufungsurteil ist daher im bezeichneten Umfang aufzuheben. Die Sache ist insoweit an das Berufungsgericht zurückzuverweisen, dem auch die Entscheidung über die Kosten des Revisionsverfahrens zu übertragen ist. Für die weitere Prüfung weist der Senat auf Folgendes hin:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>1. Da die Klageanträge bislang im Wesentlichen durch die lauterkeitsrechtlichen Angriffe geprägt sind, wird das Berufungsgericht auf eine sachgerechte Antragstellung und eine stärkere Herausarbeitung der für die kartellrechtliche Beurteilung des Streitfalls maßgeblichen Gesichtspunkte auch im Vortrag der Parteien hinzuwirken haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>2. Gelangt das Berufungsgericht zu Feststellungen, aus denen sich eine marktbeherrschende Stellung der Beklagten ergibt, wird es unter umfassender Berücksichtigung aller Umstände und unter Abwägung der Interessen der Beklagten und der Betreiber werbefinanzierter Internetseiten sowie der Nutzer solcher Seiten zu prüfen haben, ob die Klägerin von der Beklagten unbillig behindert oder diskriminiert wird. Dabei können auch folgende Gesichtspunkte zu berücksichtigen sein:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>a) Nach den vorstehenden Ausführungen zur Interessenabwägung (Rn. 39-42) kann für die Frage einer unbilligen Behinderung insbesondere Bedeutung gewinnen, welche Wirkungen durch die Kombination von schwarzer und weißer Liste, die Kriterien für ein "Whitelisting" sowie die von der Beklagten gewählte Entgeltgestaltung erzielt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Nach der eigenen Darstellung der Beklagten ist ihr Geschäftsmodell nicht auf die Unterdrückung jeglicher Werbung gerichtet, sondern zielt darauf ab, es den Internetnutzern zu ermöglichen, sich vor aufdringlicher, als belästigend empfundener Werbung zu schützen. Den Betreibern der für Nutzer kostenlosen Internetseiten solle indes ermöglicht werden, sich durch - nach von der Beklagten aufgestellten Kriterien - akzeptable Werbung zu refinanzieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Da es naheliegt, dass die von der Beklagten angelegten Kriterien für "akzeptable" Werbung nicht mit den Kriterien übereinstimmen, die von den Seitenbetreibern unter dem Gesichtspunkt der Erzielung möglichst hoher Erlöse aus Werbeeinnahmen aufgestellt werden, wird das Berufungsgericht sein Augenmerk darauf zu richten haben, ob die von den Beklagten aufgestellten Kriterien unter dem Gesichtspunkt des Schutzes der Nutzer plausibel sind und ob die formulierten Kriterien auch tatsächlich und einheitlich angewandt und kontrolliert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Dies kann umso größere Bedeutung gewinnen, als eine großzügige Zulassung von Werbung gegen ein eher geringes Entgelt in Widerspruch zu dem Ziel treten könnte, den Internetnutzern mit der Kombination von schwarzer und weißer Liste den Eindruck sowohl eines effektiven Schutzes vor unerwünschter Werbung als auch der Förderung "unterstützungswürdiger" Seitenbetreiber zu vermitteln, was das Berufungsgericht unter Bezugnahme auf die Selbstdarstellung der Beklagten als von ihr angepriesene "Mission" zur Verbesserung des Internets bezeichnet hat. Wird ihr Preissetzungsspielraum aber nur durch die Notwendigkeit begrenzt, dem Seitenbetreiber einen Minimalanteil an den durch die "Freischaltung" generierbaren Werbeerlösen zu belassen, könnte dies der Beklagten demgegenüber auch erlauben, die Zulassung von Werbung besonders restriktiv auszugestalten und gleichwohl hohe Einnahmen aus dem "Whitelisting" zu erzielen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Andererseits könnte ein plausibles und auch tatsächlich angewandtes und kontrolliertes Schutzkonzept, bei dem Nutzern durch die für das "Whitelisting" angewandten Kriterien in der Standardeinstellung nur "akzeptable" Werbung angezeigt wird, gegebenenfalls auch aus der Sicht der Seitenbetreiber eine gewisse Gegenleistung für das für die Freischaltung entrichtete Entgelt darstellen, wenn die Werbung infolgedessen besser wahrgenommen würde oder sozusagen als Werbung "mit Prädikat" erschiene, insbesondere wenn sie deswegen von den Seitenbetreibern auch zu einem höheren Preis vermarktet werden könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>b) In diesem Zusammenhang wird gegebenenfalls auch zu erwägen sein, ob der generelle Ausschluss "nicht-statischer" Werbung von einem "Whitelisting" die Möglichkeiten der Betreiber werbefinanzierter Internetseiten unangemessen einschränkt, sich auf diese Weise potentiell Zugang zu denjenigen Nutzern zu verschaffen, die den Werbeblocker der Beklagten installiert haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>c) Da sich die Beschränkung der Freiheit der Seitenbetreiber, selbst darüber zu entscheiden, ob und wie sie den Nutzern Seiteninhalte nur zusammen mit Werbung anzeigen wollen, durch den Werbeblocker und die Entgeltforderung der Beklagten für ein "Whitelisting" nicht durch das Interesse der Beklagten, Werbeerlöse von den Seitenbetreibern teilweise auf sich umzulenken, sondern nur durch einen von der Beklagten befriedigten Nutzerwunsch nach einer Blockade unerwünschter Werbung rechtfertigen lässt, wird auch zu prüfen sein, ob sich eine unbillige Behinderung daraus ergibt, dass dem Nutzer keine transparente und leicht handhabbare Möglichkeit zur Verfügung steht, eine Internetseite selbst auf eine weiße Liste zu setzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Zwar hat das Berufungsgericht festgestellt, dass der Nutzer "bei entsprechenden Computerkenntnissen" einzelne Internetseiten selbst freischalten oder eigene Weiße Listen erstellen und pflegen kann und außerdem die Möglichkeit besteht, den Werbeblocker temporär zu deaktivieren, wenn dem Nutzer wegen dessen Aktivierung die Seiteninhalte nicht oder nicht vollständig oder nur in weniger attraktiver Form angezeigt werden. Für die Abwägung der Interessen kann es jedoch darauf ankommen, ob es den Seitenbetreibern durch eine einfachere benutzerfreundliche und deutlich herausgestellte andere Ausgestaltung des Werbeblockers erleichtert werden könnte, einen Nutzer (dauerhaft) zur Aufnahme einer bestimmten Internetseite auf eine weiße Liste zu veranlassen und damit den Interessen des Seitenbetreibers gegenüber dem Entgeltinteresse der Beklagten jedenfalls dann Geltung zu verschaffen, wenn dies dem Nutzerwunsch entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>d) Auf eine unbillige Behinderung dürfte hindeuten, wenn die Beklagte Versuchen der Seitenbetreiber, den Nutzer durch eine Beschränkung des Seitenzugangs zu einer Deaktivierung des Werbeblockers zu veranlassen, ihrerseits durch technische Maßnahmen entgegenwirkte (zur entsprechenden Wertung im Lauterkeitsrecht vgl. BGHZ 218, 236 Rn. 32, 41 - Werbeblocker II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>e) Ferner wird gegebenenfalls zu prüfen sein, ob die Differenzierung zwischen Seitenbetreibern, denen von der Beklagten für die Aufnahme in die "Weiße Liste" ein Entgelt abverlangt wird, und solchen, bei denen dies nicht der Fall ist, sachlich angemessen ist und von der Beklagten auch diskriminierungsfrei praktiziert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>f) Ebenso wird gegebenenfalls zu prüfen sein, ob das von der Beklagten von größeren Webseitenbetreibern wie der Klägerin regelmäßig für die Freischaltung verlangte Entgelt von 30% der mit der freigeschalteten Werbung erzielten Erlöse als sachlich gerechtfertigt angesehen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>aa) Eine Prüfung der Entgelte am Maßstab der auf einem vergleichbaren Markt erzielbaren Entgelte setzte einen geeigneten Vergleichsmarkt voraus. In dieser Hinsicht wird das Vorbringen der Beklagten, eine Umsatzbeteiligung von 30% sei im Bereich der Onlinewerbung nicht unüblich, nicht weiterführen. Denn die verlangten Zahlungen der Seitenbetreiber erfolgen jedenfalls ganz überwiegend nur deswegen, weil sie damit eine bewusst von der Beklagten bewirkte Entwertung ihrer Werbung vermeiden können. Allenfalls in geringem Umfang könnte derartigen Zahlungen möglicherweise ein durch die Einstufung als "akzeptable Werbung" erzielbarer Mehrwert zugeordnet werden (vgl. oben Rn. 55).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>bb) Näherer Prüfung bedarf ferner, ob eine Berechnung des für die Freischaltung zu zahlenden Entgelts in Form eines Erlösanteils überhaupt als sachlich angemessen angesehen werden kann. Zwar ist die wirtschaftliche Bedeutung der erkauften Freischaltung für den Seitenbetreiber umso höher, je mehr Werbeerlöse er infolgedessen erzielen kann. Andererseits dürften der Aufwand der Beklagten für die Freischaltung immer gleich und ihre dafür jeweils aufzuwendenden Kosten äußerst gering sein. Die Entwicklung und fortlaufende Pflege des Werbeblockers sowie ein angemessener und risikoadäquater Unternehmensgewinn der Beklagten könnten grundsätzlich auch durch ein Pauschalentgelt gedeckt werden, das gegebenenfalls nach der wirtschaftlichen Bedeutung der in Rede stehenden Internetseite oder des Seitenbetreibers gestaffelt sein könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>cc) Sollte sich kein Markt feststellen lassen, auf dem Entgelte und Entgeltstruktur einen Vergleich mit den von der Beklagten verlangten Entgelten zulassen, wird das Berufungsgericht gegebenenfalls zu prüfen haben, ob sich eine missbräuchliche Preisstruktur oder -höhe daraus ergibt, dass die von der Beklagten verlangten Entgelte in ihrer Summe in einem Missverhältnis zu den Kosten der Entwicklung und fortlaufenden Pflege des Werbeblockers zuzüglich eines angemessenen und risikoadäquaten Unternehmensgewinns der Beklagten stehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Limperg     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Raum   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kirchhoff     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Sunder     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE308922019&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

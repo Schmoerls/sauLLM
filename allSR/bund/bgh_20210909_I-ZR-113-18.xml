@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE311662021</doknr>
+   <ecli>ECLI:DE:BGH:2021:090921UIZR113.18.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20210909</entsch-datum>
+   <aktenzeichen>I ZR 113/18</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 3 Abs 1 EGRL 29/2001, Art 16 EURL 26/2014, § 15 Abs 2 UrhG, § 19a UrhG, § 34 Abs 1 S 1 VGG, § 256 Abs 1 ZPO</norm>
+   <vorinstanz>vorgehend EuGH, 9. März 2021, Az: C-392/19, Urteil<br/>vorgehend BGH, 25. April 2019, Az: I ZR 113/18, EuGH-Vorlage<br/>vorgehend KG Berlin, 18. Juni 2018, Az: 24 U 146/17, Urteil<br/>vorgehend LG Berlin, 25. Juli 2017, Az: 15 O 251/16<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Nutzungsrechtseinräumung durch Verwertungsgesellschaft: Verlangen nach wirksamen technischen Maßnahmen gegen Framing digitaler Inhalte als angemessene Bedingung im Lizenzvertrag; Interessenabwägung - Deutsche Digitale Bibliothek II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Deutsche Digitale Bibliothek II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Einbettung eines mit Einwilligung des Rechtsinhabers auf einer frei zugänglichen Internetseite verfügbaren Werks in die Internetseite eines Dritten im Wege des Framing stellt einen Eingriff in das Recht zur öffentlichen Wiedergabe nach § 15 UrhG dar, wenn sie unter Umgehung von Schutzmaßnahmen gegen Framing erfolgt, die der Rechtsinhaber getroffen oder veranlasst hat (Anschluss an EuGH, Urteil vom 9. März 2021 - C-392/19, GRUR 2021, 706 = WRP 2021, 600 - VG Bild-Kunst).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Bedingungen einer Nutzungsrechtseinräumung können im Sinne des § 34 Abs. 1 Satz 1 VGG angemessen sein, wenn sie der Gefahr von Rechtsverletzungen vorbeugen sollen, die nicht durch den zukünftigen Vertragspartner der Verwertungsgesellschaft, sondern durch Drittnutzer begangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Bei der nach § 34 Abs. 1 VGG vorzunehmenden Interessenabwägung ist nicht auf das tatsächlich bestehende Interesse einzelner Urheber abzustellen, sondern auf die typische, auf Rechtswahrung gerichtete Interessenlage der von der Verwertungsgesellschaft treuhänderisch vertretenen Urheberrechtsinhaber.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 24. Senats des Kammergerichts vom 18. Juni 2018 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten der Revision, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die Stiftung Preußischer Kulturbesitz, ist Trägerin der Deutschen Digitalen Bibliothek (im Folgenden: DDB). Die DDB bietet unter der Internetadresse www.deutsche-digitale-bibliothek.de eine Online-Plattform für Kultur und Wissen an, die deutsche Kultur- und Wissenschaftseinrichtungen miteinander vernetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die DDB verlinkt auf digitalisierte Inhalte (Digitalisate), die in den Webportalen der zuliefernden Einrichtungen gespeichert sind. Die DDB selbst speichert lediglich Vorschaubilder. Die Eingabemaske der Datenbank der DDB bietet dem Nutzer eine Suchfunktion, mit deren Hilfe gezielt nach Objekten, für die bereits ein Digitalisat besteht, recherchiert werden kann. Klickt der Nutzer ein Suchergebnis an, gelangt er auf die entsprechende Objektseite der DDB mit vergrößertem Schaubild (440 x 330 Pixel). Bei Anklicken des Schaubilds oder Nutzung der Lupenfunktion erscheint in einer "Lightbox" die auf eine maximale Auflösung von 800 x 600 Pixeln vergrößerte Abbildung des Vorschaubilds. Über die Schaltfläche "Objekt beim Datengeber anzeigen" wird direkt auf die Internetseite der zuliefernden Einrichtung - teils auf die Startseite, teils auf die Objektseite - verlinkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte, die Verwertungsgesellschaft Bild-Kunst, nimmt die urheberrechtlichen Befugnisse der ihr angeschlossenen Urheber an Werken der bildenden Künste wahr. Sie macht den Abschluss eines Vertrags mit der Klägerin über die Nutzung ihres Repertoires von Werken in Form von Vorschaubildern davon abhängig, dass folgende Bestimmung in den Vertrag aufgenommen wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Die Lizenznehmerin verpflichtet sich, bei der Nutzung der vertragsgegenständlichen Werke und Schutzgegenstände wirksame technische Maßnahmen zum Schutz dieser Werke oder Schutzgegenstände gegen Framing anzuwenden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin lehnt eine solche Vertragsbestimmung ab. Die übrigen Vorschriften des zwischen den Parteien verhandelten Lizenzvertrags stehen nicht im Streit. Die Parteien haben eine Vereinbarung zur Durchführung eines Musterklageverfahrens geschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die von der Klägerin erhobene Feststellungsklage hat das Landgericht als unzulässig abgewiesen. Auf die Berufung der Klägerin hat das Kammergericht antragsgemäß festgestellt (GRUR 2018, 1055), dass die Beklagte verpflichtet ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">der Klägerin Nutzungsrechte an ihrem Repertoire von urheberrechtlich geschützten Werken der bildenden Kunst zum Zwecke der Nutzung in Form von Vorschaubildern einzuräumen, ohne die Nutzungsrechtseinräumung unter die Bedingung der Implementierung von technischen Maßnahmen zur Verhinderung einer Verlinkung der angezeigten Vorschaubilder mittels Framing zu stellen, insbesondere wenn dies unter Bestehen auf folgender Vertragsklausel geschieht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">[es folgt die oben genannte Vertragsbestimmung].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte verfolgt mit der vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Klägerin beantragt, ihren auf Abweisung der Klage gerichteten Antrag weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat dem Gerichtshof der Europäischen Union zur Auslegung von Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmonisierung bestimmter Aspekte des Urheberrechts und der verwandten Schutzrechte in der Informationsgesellschaft folgende Frage zur Vorabentscheidung vorgelegt (Beschluss vom 25. April 2019 - I ZR 113/18, GRUR 2019, 725 = WRP 2019, 890 - Deutsche Digitale Bibliothek I):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Stellt die Einbettung eines mit Einwilligung des Rechtsinhabers auf einer frei zugänglichen Internetseite verfügbaren Werks in die Internetseite eines Dritten im Wege des Framing eine öffentliche Wiedergabe des Werks im Sinne des Art. 3 Abs. 1 der Richtlinie 2001/29/EG dar, wenn sie unter Umgehung von Schutzmaßnahmen gegen Framing erfolgt, die der Rechtsinhaber getroffen oder veranlasst hat?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Der Gerichtshof hat die Frage wie folgt beantwortet (EuGH, Urteil vom 9. März 2021 - C-392/19, GRUR 2021, 706 = WRP 2021, 600 - VG Bild-Kunst):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Art. 3 Abs. 1 der Richtlinie 2001/29/EG ist dahin auszulegen, dass die Einbettung in die Website eines Dritten im Wege der Framing-Technik von urheberrechtlich geschützten und der Öffentlichkeit mit Erlaubnis des Inhabers des Urheberrechts auf einer anderen Website frei zugänglich gemachten Werken eine öffentliche Wiedergabe im Sinne dieser Bestimmung darstellt, wenn sie unter Umgehung von Schutzmaßnahmen gegen Framing erfolgt, die der Rechtsinhaber getroffen oder veranlasst hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>A. Das Berufungsgericht hat die Feststellungsklage als zulässig und begründet angesehen und hierzu ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Klage sei begründet, weil das Verlangen der Beklagten nach technischen Schutzmaßnahmen gegen Framing keine angemessene Bedingung darstelle. In die im Streitfall vorzunehmende Interessenabwägung sei auf Seiten der Beklagten nicht ihre Pflicht zur Wahrnehmung und Durchsetzung der Rechte ihrer Mitglieder einzustellen. Rechte der Mitglieder der Beklagten seien im Streitfall nicht betroffen, weil die Verlinkung oder das Framing von frei zugänglichen Inhalten im Internet keiner Lizenz bedürfe, wenn das Werk bereits zuvor mit Erlaubnis des Rechtsinhabers ohne Einschränkungen jedem Interessierten gegenüber öffentlich zugänglich gemacht worden sei. Ein unter Umgehung der von der Beklagten verlangten technischen Maßnahmen erfolgendes Framing sei keine urheberrechtlich relevante Handlung der öffentlichen Wiedergabe, weil die im Portal der DDB angezeigten Vorschaubilder dort frei zugänglich seien. Im Wege des Framing erfolge keine Wiedergabe gegenüber einem neuen Publikum, an das der Urheberrechtsinhaber nicht gedacht habe, als er die ursprüngliche Wiedergabe erlaubt habe. Technische Schutzmaßnahmen, die den Zugang zu geschützten Werken nur auf einem bestimmten Weg eröffnen sollten, ohne den Kreis der Nutzer, denen das geschützte Werk zugänglich sein solle, zu begrenzen, stellten keine Beschränkung dar, deren Umgehung die Wiedergabe gegenüber einem neuen Publikum eröffne. Auch Hinweise auf eine beschränkte Erlaubnis änderten nichts daran, dass das Werk mit dem Willen des Rechtsinhabers für alle Internetnutzer ohne Begrenzung frei zugänglich gemacht werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>B. Die Revision der Beklagten hat Erfolg. Die Klage ist zwar zulässig (dazu nachfolgend B I). Mit der vom Berufungsgericht gegebenen Begründung kann der mit ihr geltend gemachte Anspruch jedoch nicht zugesprochen werden (dazu nachfolgend B II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>I. Die Klage ist zulässig. Insbesondere ist der Klageantrag im Sinne des § 253 Abs. 2 Nr. 2 ZPO hinreichend bestimmt und besteht das nach § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>1. Die Zulässigkeit der Klage ist auch in der Revisionsinstanz von Amts wegen zu prüfen (vgl. BGH, Urteil vom 21. Januar 2021 - I ZR 20/17, GRUR 2021, 730 Rn. 20 = WRP 2021, 471 - Davidoff Hot Water IV, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>2. Der Klageantrag ist im Sinne des § 253 Abs. 2 Nr. 2 ZPO hinreichend bestimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 253 Abs. 2 Nr. 2 ZPO darf ein Klageantrag nicht derart undeutlich gefasst sein, dass Gegenstand und Umfang der Entscheidungsbefugnis des Gerichts (§ 308 Abs. 1 ZPO) nicht erkennbar abgegrenzt sind, sich der Beklagte deshalb nicht erschöpfend verteidigen kann und letztlich die Entscheidung über den Inhalt des Titels dem Vollstreckungsgericht überlassen bleibt (st. Rspr.; vgl. BGH, Urteil vom 25. März 2021 - I ZR 37/20, GRUR 2021, 971 Rn. 15 = WRP 2021, 904 - myboshi, mwN). Im Falle der Feststellungsklage muss das Rechtsverhältnis, dessen Feststellung verlangt wird, so genau bezeichnet werden, dass es vom Gericht bejaht oder verneint werden kann und über den Umfang der Rechtskraft seiner Entscheidung keine Ungewissheit verbleibt (BGH, Urteil vom 17. Juni 1994 - V ZR 34/92, NJW-RR 1994, 1272 [juris Rn. 10]). Bei der Auslegung des Klageantrags ist der Vortrag des Klägers zu berücksichtigen (st. Rspr.; vgl. nur BGH, Urteil vom 22. Juli 2010 - I ZR 139/08, GRUR 2011, 152 Rn. 25 = WRP 2011, 223 - Kinderhochstühle im Internet I; Urteil vom 12. März 2020 - I ZR 126/18, BGHZ 225, 59 Rn. 39 - WarnWetter-App).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Der Klageantrag entspricht diesen Voraussetzungen. Die Klägerin begehrt die Feststellung, dass die Beklagte zur Lizenzeinräumung verpflichtet ist, ohne den Vertragsschluss von der Einrichtung von Schutzmaßnahmen gegen Framing abhängig machen zu dürfen. Hierbei bezieht sich die Klage auf den zwischen den Parteien ausgehandelten Vertragsentwurf vom 30. September 2015 und die von der Beklagten mit Schreiben vom 3. Mai 2017 angebotene Vertragsversion, in der diese auf Schutzmaßnahmen gegen Framing besteht. Damit ist der Inhalt des Rechtsverhältnisses, dessen Feststellung die Klägerin begehrt, hinreichend klar bezeichnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>3. Es besteht auch das nach § 256 Abs. 1 ZPO erforderliche Feststellungsinteresse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Ein rechtliches Interesse an einer alsbaldigen Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses ist gegeben, wenn dem Recht oder der Rechtsposition des Klägers eine gegenwärtige Gefahr oder Unsicherheit droht und das erstrebte Urteil geeignet ist, diese Gefahr zu beseitigen (st. Rspr.; vgl. nur BGHZ 225, 59 Rn. 96 - WarnWetter-App, mwN). Eine solche Gefährdung liegt im Fall der positiven Feststellungsklage in der Regel schon darin, dass der Beklagte das Recht des Klägers ernstlich bestreitet (BGH, Urteil vom 25. Juli 2017 - II ZR 235/15, NJW-RR 2017, 1317 Rn. 16 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>b) Das von der Klägerin geltend gemachte, von der Beklagten in Abrede gestellte Bestehen eines Anspruchs auf Abschluss eines Lizenzvertrags ohne die Verpflichtung zur Vornahme von Schutzmaßnahmen gegen Framing erfüllt diese Voraussetzungen. Mit Blick auf den in § 34 VGG angeordneten Kontrahierungszwang der Verwertungsgesellschaften handelt es sich hierbei auch um ein zwischen den Parteien gegenwärtig bestehendes Rechtsverhältnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das Feststellungsinteresse ist im Streitfall nicht ausgeschlossen, weil die Klägerin Leistungsklage auf Abschluss des angestrebten Vertrags erheben könnte. Der Vorrang der Leistungsklage steht der Annahme eines Feststellungsinteresses nicht entgegen, wenn auch die Entscheidung über die Feststellungsklage zur endgültigen Streitbeilegung führt, etwa weil die Parteien sich darauf verständigt haben, das streitige Rechtsverhältnis im Wege der Feststellungsklage klären zu lassen (vgl. BGH, Urteil vom 27. Juni 1995 - XI ZR 8/94, NJW 1995, 2221, 2222 [juris Rn. 16]; Urteil vom 17. Juni 2016 - V ZR 272/15, NJW-RR 2016, 1404 Rn. 16). So verhält es sich vorliegend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>II. Die Revision ist begründet. Mit der vom Berufungsgericht gegebenen Begründung kann die mit der Klage begehrte Feststellung nicht ausgesprochen werden, die Beklagte sei gegenüber der Klägerin zur Einräumung von Nutzungsrechten an urheberrechtlich geschützten Werken der bildenden Kunst zum Zwecke der Nutzung in Form von Vorschaubildern verpflichtet, ohne die Nutzungsrechtseinräumung unter die Bedingung der Implementierung von technischen Maßnahmen zur Verhinderung einer Verlinkung der angezeigten Vorschaubilder mittels Framing zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>1. Nach § 34 Abs. 1 Satz 1 des Gesetzes über die Wahrnehmung von Urheberrechten und verwandten Schutzrechten durch Verwertungsgesellschaften (Verwertungsgesellschaftengesetz - VGG), das mit Wirkung vom 1. Juni 2016 an die Stelle des Urheberrechtswahrnehmungsgesetzes getreten ist, ist die Verwertungsgesellschaft verpflichtet, aufgrund der von ihr wahrgenommenen Rechte jedermann auf Verlangen zu angemessenen Bedingungen Nutzungsrechte einzuräumen. Satz 2 dieser Vorschrift bestimmt, dass die Bedingungen insbesondere objektiv und nichtdiskriminierend sein und eine angemessene Vergütung vorsehen müssen. Diese Vorschrift ist an die Stelle des § 11 Abs. 1 UrhWG aF getreten und dient der Umsetzung von Art. 16 der Richtlinie 2014/26/EU über die kollektive Wahrnehmung von Urheber- und verwandten Schutzrechten und die Vergabe von Mehrgebietslizenzen für Rechte an Musikwerken für die Online-Nutzung im Binnenmarkt. Danach haben die Mitgliedstaaten sicherzustellen, dass Organisationen für die kollektive Rechtewahrnehmung und Nutzer nach Treu und Glauben über die Lizenzierung von Nutzungsrechten verhandeln (Art. 16 Abs. 1), und sind die Lizenzbedingungen auf objektive und diskriminierungsfreie Kriterien zu stützen (Art. 16 Abs. 2 Satz 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Unter der Geltung des § 11 Abs. 1 UrhWG aF war anerkannt, dass die Abschlusspflicht der Verwertungsgesellschaft ausnahmsweise nicht besteht, wenn im Einzelfall eine missbräuchliche Ausnutzung der Monopolstellung ausscheidet und die Verwertungsgesellschaft dem Verlangen auf Einräumung von Nutzungsrechten vorrangige berechtigte Interessen entgegenhalten kann (vgl. BGH, Urteil vom 22. April 2009 - I ZR 5/07, BGHZ 181, 1 Rn. 11 - Seeing is Believing). Die Beurteilung, ob eine sachlich gerechtfertigte Ausnahme vom Abschlusszwang gegeben ist, erforderte danach eine Abwägung der Interessen der Beteiligten unter Berücksichtigung der Zielsetzung des Gesetzes sowie des Zwecks der grundsätzlichen Abschlusspflicht der Verwertungsgesellschaft (vgl. BGHZ 181, 1 Rn. 13 - Seeing is Believing). Es unterliegt mit Blick auf Art. 16 der Richtlinie 2014/26/EU, insbesondere der darin angeordneten Verhandlungsmaxime von Treu und Glauben, keinem ernsthaften unionsrechtlichen Zweifel, dass diese Grundsätze nach Inkrafttreten des § 34 VGG fortgelten (vgl. Regierungsentwurf eines Gesetzes zur Umsetzung der Richtlinie 2014/26/EU, BT-Drucks. 18/7223, S. 55, 83; Schulze in Dreier/Schulze, UrhG, 6. Aufl., § 34 VGG Rn. 5; Reinbothe in Schricker/Loewenheim, Urheberrecht, 6. Aufl., § 34 VGG Rn. 3 f.; BeckOK.UrhR/Freudenberg, 31. Edition [Stand 1. Mai 2021], § 34 VGG Rn. 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die nach § 34 Abs. 1 VGG vorzunehmende Interessenabwägung obliegt dem Tatgericht. In der Revisionsinstanz ist diese tatgerichtliche Würdigung nur eingeschränkt daraufhin überprüfbar, ob ihr ein zutreffender rechtlicher Maßstab zugrunde liegt, sie mit Denkgesetzen und Erfahrungssätzen in Einklang steht und ob sie von den getroffenen Feststellungen getragen wird (zu § 14 UrhG vgl. BGH, Urteil vom 21. Februar 2019 - I ZR 98/17, BGHZ 221, 181 Rn. 42 - HHole [for Mannheim], mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Im Streitfall hat das Berufungsgericht einen falschen rechtlichen Maßstab angewendet, indem es angenommen hat, in die Interessenabwägung nach § 34 Abs. 1 VGG sei auf Seiten der Beklagten nicht ihre aus § 2 Abs. 1 und § 9 Abs. 1 VGG folgende Pflicht zur Wahrnehmung und Durchsetzung der Rechte ihrer Mitglieder einzustellen, weil Rechte der Mitglieder der Beklagten nicht betroffen seien, wenn die von der Klägerin genutzten Vorschaubilder unter Umgehung technischer Schutzmaßnahmen Gegenstand von Framing würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Der Begriff der angemessenen Bedingungen im Sinne des § 34 Abs. 1 Satz 1 VGG zielt nicht nur auf die in § 34 Abs. 1 Satz 2 VGG ausdrücklich angesprochene, für die Rechtseinräumung geschuldete Vergütung, sondern umfasst auch sonstige Umstände, die eine Ausnahme vom Abschlusszwang der Verwertungsgesellschaft rechtfertigen können (zu § 11 UrhWG aF vgl. BGHZ 181, 1 Rn. 11 - Seeing is Believing; Reinbothe in Schricker/Loewenheim aaO § 34 VGG Rn. 5; BeckOK.UrhR/Freudenberg aaO § 34 VGG Rn. 15). So ist etwa das Verlangen einer Nutzungsrechtseinräumung für die Herstellung eines Tonträgers als unangemessen angesehen worden, der unter Verletzung der - von der treuhänderischen Wahrnehmung durch die Verwertungsgesellschaft nicht erfassten - Leistungsschutzrechte Dritter hergestellt zu werden drohte, weil der Verwertungsgesellschaft nicht zugemutet werden kann, die Gefahr solcher Rechtsverletzungen auch nur objektiv zu erhöhen (vgl. BGHZ 181, 1 Rn. 23 - Seeing is Believing; vgl. auch OLG Hamburg, NJW-RR 1999, 1133, 1136 [juris Rn. 133]). Es kommt gleichermaßen in Betracht, Bedingungen einer Nutzungsrechtseinräumung als angemessen anzusehen, wenn sie der Gefahr von Rechtsverletzungen vorbeugen sollen, die nicht durch den zukünftigen Vertragspartner der Verwertungsgesellschaft, sondern durch Drittnutzer begangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Im Streitfall werden Rechte der Mitglieder der Beklagten verletzt, wenn die Klägerin bei der Verwendung der geschützten Werke in Form von Vorschaubildern - wie von der Beklagten mit der den Gegenstand des Streits bildenden Lizenzbestimmung verlangt - technische Schutzvorkehrungen gegen die Einbettung dieser Bilder in die Internetseiten Dritter (Framing) vorsieht und es unter Umgehung dieser Schutzvorkehrungen zu Framing durch Dritte kommt. Denn ein solches Framing verletzt ein den Urhebern zustehendes unbenanntes Recht der öffentlichen Wiedergabe gemäß § 15 UrhG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Ein unbenanntes Recht der öffentlichen Wiedergabe ist in richtlinienkonformer Auslegung von § 15 Abs. 2 UrhG anzunehmen, soweit Art. 3 Abs. 1 der Richtlinie 2001/29/EG weitergehende Rechte als die in § 15 Abs. 2 Satz 2 UrhG benannten Rechte der öffentlichen Wiedergabe gewährt (vgl. BGH, Urteil vom 9. Juli 2015 - I ZR 48/12, GRUR 2016, 171 Rn. 17 = WRP 2016, 224 - Die Realität II; Beschluss vom 23. Februar 2017 - I ZR 267/15, GRUR 2017, 514 Rn. 17 = WRP 2017, 569 - Cordoba I). Nach Art. 3 Abs. 1 der Richtlinie 2001/29/EG sehen die Mitgliedstaaten vor, dass den Urhebern das ausschließliche Recht zusteht, die drahtgebundene oder drahtlose öffentliche Wiedergabe ihrer Werke einschließlich der öffentlichen Zugänglichmachung der Werke in der Weise, dass sie Mitgliedern der Öffentlichkeit von Orten und zu Zeiten ihrer Wahl zugänglich sind, zu erlauben oder zu verbieten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Die hier in Rede stehende Wiedergabe von Vorschaubildern auf der Internetseite Dritter fällt in den Anwendungsbereich von Art. 3 Abs. 1 der Richtlinie 2001/29/EG, weil bei ihr kein unmittelbarer körperlicher Kontakt zwischen den ein Werk aufführenden oder darbietenden Personen und einer durch diese Wiedergabe erreichten Öffentlichkeit stattfindet. Es handelt sich mithin um eine Wiedergabe an eine Öffentlichkeit, die an dem Ort, an dem die Wiedergabe ihren Ursprung nimmt, nicht anwesend gewesen ist (vgl. EuGH, Urteil vom 4. Oktober 2011 - C-403/08 und C-29/08, Slg. 2011, I-09083 = GRUR 2012, 156 Rn. 200 bis 202 - Football Association Premier League u.a.; Urteil vom 24. November 2011 - C-283/10, Slg. 2011, I-12031 = GRUR Int. 2012, 156 Rn. 35 f. - Circul Globus Bucureşti; BGH, GRUR 2017, 514 Rn. 19 - Cordoba I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>cc) Der Begriff der "öffentlichen Wiedergabe" erfordert eine individuelle Beurteilung. Er hat zwei Tatbestandsmerkmale, nämlich eine Handlung der Wiedergabe und die Öffentlichkeit dieser Wiedergabe. Ferner ist eine Reihe weiterer Kriterien - insbesondere die zentrale Rolle des Nutzers und die Vorsätzlichkeit seines Handelns - zu berücksichtigen, die unselbständig und miteinander verflochten sind. Da diese Kriterien im jeweiligen Einzelfall in sehr unterschiedlichem Maß vorliegen können, sind sie einzeln und in ihrem Zusammenwirken mit den anderen Kriterien anzuwenden (vgl. EuGH, Urteil vom 8. September 2016 - C-160/15, GRUR 2016, 1152 Rn. 32 bis 34 = WRP 2016, 1347 - GS Media; Urteil vom 26. April 2017 - C-527/15, GRUR 2017, 610 Rn. 28 bis 30 = WRP 2017, 677 - Stichting Brein; Urteil vom 14. Juni 2017 - C-610/15, GRUR 2017, 790 Rn. 23 bis 25 = WRP 2017, 936 - Stichting Brein).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(1) Der Begriff der Wiedergabe ist im Blick auf das Hauptziel der Richtlinie 2001/29/EG, ein hohes Schutzniveau für die Urheber sicherzustellen (vgl. Erwägungsgründe 4 und 9 der Richtlinie), weit zu verstehen (vgl. Erwägungsgrund 23 der Richtlinie; EuGH, Urteil vom 13. Februar 2014 - C-466/12, GRUR 2014, 360 Rn. 17 = WRP 2014, 414 - Svensson u.a.; EuGH, GRUR 2016, 1152 Rn. 29 - GS Media). Er erfasst jede Übertragung eines geschützten Werks unabhängig vom eingesetzten technischen Mittel oder Verfahren (vgl. EuGH, GRUR 2012, 156 Rn. 186 und 193 - Football Association Premier League; EuGH, Urteil vom 27. Februar 2014 - C-351/12, GRUR 2014, 473 Rn. 23 und 25 = WRP 2014, 418 - OSA; Urteil vom 31. Mai 2016 - C-117/15, GRUR 2016, 684 Rn. 38 - Reha Training). Eine Wiedergabe setzt voraus, dass der Nutzer in voller Kenntnis der Folgen seines Verhaltens - also absichtlich und gezielt - Dritten einen Zugang zum geschützten Werk verschafft, ohne dass es darauf ankommt, ob die Dritten den Zugang nutzen (vgl. EuGH, GRUR 2014, 360 Rn. 19 - Svensson u.a.; GRUR 2017, 610 Rn. 36 - Stichting Brein; GRUR 2017, 790 Rn. 31 - Stichting Brein). Ein solcher Zugang wird geschaffen, wenn auf einer Internetseite anklickbare Links zu geschützten Werken bereitgestellt werden, die auf einer anderen frei zugänglichen Internetseite veröffentlicht sind (vgl. EuGH, GRUR 2014, 360 Rn. 18 und 20 - Svensson u.a.; GRUR 2017, 610 Rn. 37 - Stichting Brein; GRUR 2017, 790 Rn. 32 - Stichting Brein; GRUR 2021, 706 Rn. 35 - VG Bild-Kunst).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Einbindung der Vorschaubilder durch Dritte in ihre Internetseiten erfolgt in voller Kenntnis der Folgen ihres Verhaltens, mithin absichtlich und gezielt, um den Nutzern ihrer Internetseiten einen Zugang zu den Vorschaubildern zu verschaffen, den sie ohne ihr Tätigwerden so nicht gehabt hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Der Begriff der Öffentlichkeit ist nur bei einer unbestimmten Zahl potentieller Adressaten und recht vielen Personen erfüllt (vgl. EuGH, Urteil vom 7. März 2013 - C-607/11, GRUR 2013, 500 Rn. 32 = WRP 2013, 618 - ITV Broadcasting u.a.; EuGH, GRUR 2014, 360 Rn. 21 - Svensson u.a.; GRUR 2014, 473 Rn. 27 - OSA). Hinsichtlich des letztgenannten Kriteriums ist die kumulative Wirkung zu beachten, die sich aus der Zugänglichmachung der Werke bei den potentiellen Adressaten ergibt. Dabei kommt es darauf an, wie viele Personen gleichzeitig und nacheinander Zugang zu demselben Werk haben (vgl. EuGH, Urteil vom 7. Dezember 2006 - C-306/05, Slg. 2006, I-11519 = GRUR 2007, 225 Rn. 38 - SGAE; EuGH, GRUR 2013, 500 Rn. 33 - ITV Broadcasting u.a.; GRUR 2014, 473 Rn. 28 - OSA).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Eine Handlung der Wiedergabe wie die hier in Rede stehende Einbettung von Vorschaubildern in die Internetseiten Dritter betrifft sämtliche potentiellen Nutzer dieser Seite und damit eine unbestimmte und ziemlich große Zahl von Adressaten (vgl. EuGH, GRUR 2014, 360 Rn. 22 - Svensson u.a.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(3) Für eine Einstufung als "öffentliche Wiedergabe" im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29/EG ist es weiterhin erforderlich, dass ein geschütztes Werk unter Verwendung eines technischen Verfahrens, das sich von dem bisher verwendeten unterscheidet, oder - ansonsten - für ein neues Publikum wiedergegeben wird, also für ein Publikum, an das der Inhaber des Urheberrechts nicht dachte, als er die ursprüngliche öffentliche Wiedergabe erlaubte. Erfolgt die nachfolgende Wiedergabe nach einem spezifischen technischen Verfahren, das sich von demjenigen der ursprünglichen Wiedergabe unterscheidet, braucht nicht geprüft zu werden, ob das Werk für ein neues Publikum wiedergegeben wird; in einem solchen Fall bedarf die Wiedergabe ohne Weiteres der Erlaubnis des Urhebers (vgl. EuGH, GRUR 2007, 225 Rn. 40 und 41 - SGAE; EuGH, Beschluss vom 18. März 2010 - C-136/09, MR-Int. 2010, 123 Rn. 38 - Organismos Sillogikis Diacheirisis Dimiourgon Theatrikon Kai Optikoakonstikon Ergon; EuGH, GRUR 2012, 156 Rn. 197 - Football Association Premier League u.a.; GRUR 2013, 500 Rn. 39 und 24 bis 26 - ITV Broadcasting u.a.; GRUR 2014, 360 Rn. 24 - Svensson u.a.; EuGH, Beschluss vom 21. Oktober 2014 - C-348/13, GRUR 2014, 1196 Rn. 14 = WRP 2014, 1441 - BestWater International; vgl. aber auch [zur Kabelweitersendung] EuGH, Urteil vom 16. März 2017 - C-138/16, GRUR 2017, 510 Rn. 26 f. = WRP 2017, 682 - AKM; Malenovský, medien und recht 3/18 - Beilage, S. 14, 17 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Soweit das betreffende Werk weder nach einem speziellen technischen Verfahren, das sich von demjenigen der ursprünglichen Wiedergabe unterscheidet, noch für ein neues Publikum wiedergegeben wird, stellt die Einbettung eines auf einer Webseite öffentlich zugänglichen geschützten Werks in eine andere Webseite mittels eines Links unter Verwendung der Framing-Technik allein keine öffentliche Wiedergabe im Sinne von Art. 3 Abs. 1 der Richtlinie 2001/29/EG dar (EuGH, GRUR 2014, 1196 Rn. 19 - BestWater International; GRUR 2021, 706 Rn. 36 - VG Bild-Kunst).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(4) Die Einbettung der Vorschaubilder im Wege des Framings in die Internetseiten Dritter erfolgt nicht nach einem spezifischen technischen Verfahren, das sich von demjenigen der ursprünglichen Wiedergabe unterscheidet. Stellt ein Dritter auf einer Webseite ein geschütztes Werk mittels eines Internetlinks ein, bedient sich eine solche Wiedergabehandlung desselben technischen Verfahrens, das schon für die Wiedergabe des Werks auf der anderen Webseite verwendet wurde (EuGH, GRUR 2014, 360 Rn. 24 - Svensson u.a.; GRUR 2014, 1196 Rn. 15 - BestWater International; GRUR 2021, 706 Rn. 36 - VG Bild-Kunst). Dabei kommt es nicht darauf an, ob sich der Dritte bei einer solchen Wiedergabehandlung der Framing-Technik bedient und das der anderen Webseite entstammende Werk mittels eines "eingebetteten" Internetlinks in einem Rahmen auf seiner Webseite angezeigt wird, so dass den Nutzern seines Webauftritts die ursprüngliche Umgebung dieses Werks verborgen bleibt (vgl. EuGH, GRUR 2014, 360 Rn. 29 - Svensson u.a.; GRUR 2014, 1196 Rn. 17 - BestWater International). Erfolgt die nachfolgende Wiedergabe wie die ursprüngliche Wiedergabe im Internet, erfolgt sie nach demselben technischen Verfahren (EuGH, GRUR 2014, 360 Rn. 24 - Svensson u.a.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(5) Hat allerdings der Urheberrechtsinhaber beschränkende Maßnahmen gegen Framing getroffen oder seinen Lizenznehmern die Ergreifung solcher Maßnahmen aufgegeben, um den Zugang zu seinen Werken von anderen Internetseiten aus als derjenigen seiner Lizenznehmer zu beschränken, wird das Werk einem neuen Publikum zugänglich gemacht, wenn ein Dritter es im Wege des Framings öffentlich wiedergibt. Das Publikum, an das der Inhaber des Urheberrechts gedacht hat, als er der Wiedergabe des Werks zugestimmt hatte, auf der es ursprünglich veröffentlicht wurde, besteht allein aus den Nutzern dieser Website und nicht aus den Nutzern der Website, in die das Werk später ohne Erlaubnis des Rechtsinhabers eingebettet wurde, oder aus anderen Internetnutzern (vgl. EuGH, GRUR 2021, 706 Rn. 47 - VG Bild-Kunst).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Dem Urheberrechtsinhaber ist jedoch, um die Rechtssicherheit und das ordnungsgemäße Funktionieren des Internets zu gewährleisten, nicht gestattet, seine Erlaubnis auf andere Weise als durch wirksame technische Maßnahmen im Sinne von Art. 6 Abs. 1 und 3 der Richtlinie 2001/29/EG zu beschränken, weil ohne solche Maßnahmen nur schwierig zu überprüfen wäre, ob sich dieser Rechtsinhaber dem Framing seiner Werke widersetzen wollte (vgl. EuGH, GRUR 2021, 706 Rn. 46 - VG Bild-Kunst).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>dd) Damit würde im Streitfall die Einbettung der von der Klägerin genutzten Vorschaubilder in die Internetseiten Dritter im Wege des Framings unter Umgehung von technischen Schutzmaßnahmen, deren Implementierung die Beklagte zur Bedingung der Einräumung von Nutzungsrechten macht, einen Eingriff in das Recht zur öffentlichen Wiedergabe nach § 15 UrhG darstellen. Dabei ist mangels entgegenstehender Feststellungen des Berufungsgerichts im Revisionsverfahren zugunsten der Beklagten davon auszugehen, dass Schutzmaßnahmen gegen Framing mit überschaubarem technischen und finanziellen Aufwand implementiert werden können. Ebenfalls ist im Revisionsverfahren zugunsten der Beklagten davon auszugehen, dass die Gefahr besteht, kommerzielle Akteure könnten die bei der Klägerin gespeicherten Vorschaubilder für eigene Zwecke ausnutzen und sich auf diese Weise die Einholung von Bildrechten und Lizenzzahlungen ersparen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>C. Danach ist das angegriffene Urteil aufzuheben und die Sache zur erneuten Verhandlung und Entscheidung, auch über die Kosten der Revision, an das Berufungsgericht zurückzuverweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Für die neu eröffnete Berufungsinstanz wird auf Folgendes hingewiesen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>I. Bei der nach § 34 Abs. 1 VGG vorzunehmenden Interessenabwägung ist - entgegen der Ansicht des Berufungsgerichts und der Revisionserwiderung - nicht auf das tatsächlich bestehende Interesse einzelner, mit dem Framing durch Dritte einverstandener Urheber abzustellen, sondern auf die typische, auf Rechtswahrung gerichtete Interessenlage der von der Beklagten vertretenen Urheberrechtsinhaber. Zum einen kommt es nicht darauf an, an welches Publikum der Inhaber des Urheberrechts tatsächlich dachte, als er die ursprüngliche öffentliche Wiedergabe erlaubte (vgl. Grünberger, ZUM 2021, 395, 398). Zum anderen kommt es insoweit auf die Verwertungsgesellschaft als Treuhänderin an. Die Rechtswahrnehmung durch eine Verwertungsgesellschaft erfolgt treuhänderisch nach Maßgabe der gesetzlichen Bestimmungen und des Wahrnehmungsvertrags (vgl. Reinbothe in Schricker/Loewenheim aaO § 9 VGG Rn. 15). Die Verwertungsgesellschaft soll dafür sorgen, dass die Rechte der Urheberrechtsinhaber gewahrt und dass sie für die Nutzung ihrer Werke angemessen entlohnt werden (vgl. § 2 Abs. 1 VGG; Schulze in Dreier/Schulze aaO § 9 VGG Rn. 3). Diesem Zweck dient auch die im Streitfall von der Beklagten verlangte Bedingung der Rechtseinräumung (vgl. Grünberger, ZUM 2019, 281, 307).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>II. Die Wirksamkeit der technischen Schutzmaßnahmen ist nach dem Maßstab des § 95a Abs. 1 und 2 UrhG (Art. 6 Abs. 1 und 3 der Richtlinie 2001/29/EG; dazu vgl. EuGH, Urteil vom 23. Januar 2014 - C-355/12, GRUR 2014, 255 Rn. 24 bis 28 = WRP 2014, 301 - Nintendo u.a.) zu bestimmen. Damit ist hinsichtlich des zu betrachtenden Personenkreises auf den durchschnittlichen Benutzer abzustellen, für den die Maßnahme ein Hindernis darstellen muss. Die bloße Umgehungsmöglichkeit steht der Wirksamkeit der technischen Schutzmaßnahme nicht entgegen, weil es insoweit auf Maßnahmen ankommt, die im normalen Betrieb dazu bestimmt sind, urheberrechtswidrige Handlungen zu verhindern (vgl. BGH, Urteil vom 17. Juli 2008 - I ZR 219/05, GRUR 2008, 996 Rn. 19 = WRP 2008, 1449 - Clone-CD; Urteil vom 27. November 2014 - I ZR 124/11, GRUR 2015, 672 Rn. 46 bis 49 = WRP 2015, 739 - Videospielkonsolen II; Götting in Schricker/Loewenheim aaO § 95a UrhG Rn. 21 f.; Grünberger, ZUM 2021, 395, 399 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Koch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Feddersen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schmaltz</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Odörfer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Wille     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE311662021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

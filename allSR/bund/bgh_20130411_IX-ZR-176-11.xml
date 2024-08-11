@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE303182013</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>9. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130411</entsch-datum>
+   <aktenzeichen>IX ZR 176/11</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 50 InsO, § 166 Abs 2 InsO, § 170 Abs 1 InsO, § 171 InsO, § 173 Abs 2 InsO, § 1228 Abs 2 BGB, § 1281 BGB, § 1282 Abs 1 BGB</norm>
+   <vorinstanz>vorgehend Brandenburgisches Oberlandesgericht, 12. Oktober 2011, Az: 7 U 41/10, Urteil<br/>vorgehend LG Neuruppin, 29. Januar 2010, Az: 5 O 27/10<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Insolvenzverfahren über Vermögen des Pfandschuldners: Alleiniges Einzugsrecht des Insolvenzverwalters bei Fälligkeit der verpfändeten Forderung und mangelnder Fälligkeit der Hauptforderung; Abrechnung der Kosten der Feststellung und Verwertung der Forderung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ist die verpfändete Forderung fällig, die durch das Pfandrecht gesicherte Hauptforderung jedoch nicht, steht dem Verwalter im Insolvenzverfahren über das Vermögen des Pfandschuldners das alleinige Einzugsrecht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Zieht der wegen des fehlenden Einzugsrechts des Pfandgläubigers einziehungsbefugte Verwalter im Insolvenzverfahren über das Vermögen des Pfandschuldners die verpfändete Forderung ein, kann er die Kosten der Feststellung und der Verwertung der Forderung vorab für die Masse entnehmen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision des Klägers und der Streithelferin des Klägers wird das Urteil des 7. Zivilsenats des Brandenburgischen Oberlandesgerichts vom 12. Oktober 2011 im Kostenpunkt sowie insoweit aufgehoben, als die Berufung gegen die Abweisung des Zahlungsantrags zu 2 und der Hilfsanträge zurückgewiesen worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Beklagte ist Verwalter in dem am 22. August 2002 eröffneten Insolvenzverfahren über das Vermögen der H.                    GmbH (Schuldnerin). Die Schuldnerin hatte dem am 21. Oktober 1946 geborenen Kläger, einem ihrer Gesellschafter-Geschäftsführer, am 4. August 1993 eine schriftliche Pensionszusage erteilt, in welcher es heißt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>"1. Sie erhalten ein lebenslängliches Ruhegeld in Höhe von 2000 DM [= 1.022,58 €] monatlich, wenn Sie</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>a) nach Vollendung des 60. Lebensjahres … aus den Diensten der Gesellschaft ausscheiden …</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>2. Ihr im Zeitpunkt Ihres Ablebens mit Ihnen in gültiger Ehe lebender Ehegatte erhält eine lebenslängliche Hinterbliebenenrente …</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>4. Die Versorgungsleistungen werden am Ende eines jeden Monats gezahlt, beginnend mit dem Monat nach Eintritt des Versorgungsfalles…"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Zur Sicherung des Anspruchs schloss die Schuldnerin eine Rückdeckungsversicherung bei der Streithelferin des Klägers (fortan: Streithelferin) ab und verpfändete die hieraus folgenden Ansprüche an den Kläger sowie für den Fall des Todes an dessen Ehefrau.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>In einem Vorprozess nahm der Beklagte den Kläger gemäß § 64 Abs. 2 GmbHG aF auf Erstattung in Anspruch. Mit Urteil vom 13. Juni 2006 wurde der Kläger verurteilt, an den Beklagten 29.510,16 € nebst Zinsen und Kosten zu zahlen. Am 1. Dezember 2006 endete der Versicherungsvertrag. Am 2. April 2008 überwies die Streithelferin einen Betrag von 73.689,60 € an den Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Der Kläger verlangt die Auskehrung der Versicherungssumme, soweit diese nicht durch die Begleichung der Urteilssumme nebst Zinsen und Kosten aus dem Vorprozess verbraucht worden ist. Der Beklagte hat hilfsweise mit weiteren Ansprüchen aus § 64 Abs. 2 GmbHG aF sowie aus § 823 Abs. 2 BGB in Verbindung mit § 283 StGB aufgerechnet. Die Klage ist in den Vorinstanzen erfolglos geblieben. Mit seiner vom Senat zugelassenen Revision verfolgt der Kläger den Anspruch auf Zahlung von 47.454,93 € weiter. Hilfsweise begehrt er die Feststellung, dass der Beklagte verpflichtet sei, im Zeitraum Oktober 2011 bis Juli 2015 monatlich 1.022,58 € sowie im August 2015 weitere 416,32 € an ihn zu zahlen; weiter hilfsweise begehrt er, den Beklagten zur Hinterlegung des Betrages von 47.454,93 € zu verurteilen. Der Beklagte beantragt, die Revision zurückzuweisen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Revision führt zur Aufhebung des angefochtenen Urteils und zur Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht des Beklagten war die Berufung auch insoweit zulässig, als der Kläger mit ihr den auf Zahlung von 47.454,93 € gerichteten Hauptantrag verfolgt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>1. Wird die Berufung - wie hier - unbeschränkt eingelegt, erstreckt sich die hierdurch eintretende Hemmung der Rechtskraft grundsätzlich auch dann auf das gesamte erstinstanzliche Urteil, wenn die Berufungsbegründung einen beschränkten Antrag enthält. In der Beschränkung allein liegt kein Verzicht (vgl. § 515 ZPO) auf den (zunächst) nicht weiter verfolgten Antrag (BGH, Urteil vom 28. September 2000 - IX ZR 6/99, NJW 2001, 146). Der Berufungskläger kann die Berufung auch nach Ablauf der Begründungsfrist (§ 520 Abs. 2 ZPO) bis zum Schluss der mündlichen Verhandlung vor dem Berufungsgericht erweitern, soweit die fristgerecht vorgetragenen Berufungsgründe die Antragserweiterung decken (BGH, Urteil vom 28. September 2000, aaO; Beschluss vom 9. November 2004 - VIII ZB 36/04, NJW-RR 2005, 714, 715; Urteil vom 14. Mai 2009 - I ZR 98/06, BGHZ 181, 98 Rn. 16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Diese Voraussetzungen sind hier erfüllt. Das Landgericht hat die Klage mit der Begründung abgewiesen, sowohl der Zahlungs- als auch der Feststellungsantrag hätten zur Tabelle angemeldet werden müssen. Zum Zahlungsantrag heißt es ergänzend, unabhängig von der fehlenden Anmeldung habe der Kläger auch keinen Anspruch auf Auszahlung der Versicherungssumme; er könne lediglich nach Maßgabe der getroffenen Vereinbarungen Zahlung eines monatlichen Ruhegeldes verlangen. Die Erklärung in der Berufungsbegründung, der Zahlungsanspruch solle nicht weiterverfolgt werden, weil der Kläger das Renteneintrittsalter noch nicht erreicht habe, bezieht sich nicht auf das angefochtene Urteil, sondern erklärt sich daraus, dass die Parteien in erster Instanz zu Unrecht, aber übereinstimmend davon ausgegangen waren, dass der Kläger erst ab Vollendung des 65. Lebensjahrs einen Anspruch auf Pensionszahlungen haben sollte. Sie kann daher nicht dahingehend verstanden werden, der Kläger wolle sich seines Rechts auf Überprüfung der erstinstanzlichen Entscheidung endgültig begeben (vgl. RGZ 161, 350, 355). Nachdem in zweiter Instanz unstreitig geworden war, dass die Pensionszahlungen bereits mit dem vollendeten 60. Lebensjahr des Klägers beginnen sollten, konnte der Kläger den Zahlungsantrag wieder aufnehmen. Der wesentliche Berufungsangriff, eine Anmeldung der Forderung zur Tabelle sei nicht erforderlich gewesen, betraf ebenso den Haupt- wie den Hilfsantrag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat gemeint, es fehle an einer Anspruchsgrundlage für die geltend gemachten Ansprüche. § 170 Abs. 1 InsO sei nicht einschlägig, weil der Beklagte den Versicherungsvertrag nicht verwertet habe. § 166 Abs. 2 InsO gelte nicht für eine verpfändete Forderung, bei der Pfandreife eingetreten sei. Der Anspruch des Klägers aus der Pensionszusage sei von November 2006 an ratierlich fällig geworden, weil der Kläger im Oktober 2006 das 60. Lebensjahr vollendet habe und die Eröffnung des Insolvenzverfahrens als Ausscheiden aus dem Dienst der Schuldnerin anzusehen sei. Gemäß § 1282 Abs. 1 Satz 1 BGB habe die Streithelferin daher nur an den Kläger mit befreiender Wirkung leisten können. Ansprüche aus ungerechtfertigter Bereicherung kämen nicht in Betracht, weil nicht der Beklagte, sondern die Streithelferin des Klägers an diesen geleistet habe. Die Bereicherung sei auch nicht auf Kosten des Klägers erfolgt, weil die Streithelferin durch die Zahlung an den Beklagten, soweit sie nicht auf die titulierte Forderung bezogen sei, nicht von ihrer Verpflichtung gegenüber dem Kläger freigeworden sei. Schadensersatzansprüche seien nicht ersichtlich. Ansprüche aus § 60 InsO richteten sich gegen den Kläger persönlich. Die Hilfsanträge seien gleichfalls nicht begründet. Der Anspruch auf Zahlung einer monatlichen Rente stelle eine Insolvenzforderung dar und müsse zur Tabelle festgestellt werden. Die Hinterlegung nach §§ 191 f InsO diene der Sicherung aufschiebend bedingter Insolvenzforderungen; solche habe der Kläger jedoch nicht angemeldet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Diese Ausführungen halten einer rechtlichen Überprüfung nicht stand. Grundlage der geltend gemachten Ansprüche ist § 170 Abs. 1 Satz 2 InsO in entsprechender Anwendung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Ansicht des Berufungsgerichts hat die Streithelferin des Klägers die Versicherungssumme am 2. April 2008 an den Beklagten als Berechtigten ausgezahlt. Die Berechtigung des Beklagten folgt aus § 173 Abs. 2 Satz 2 InsO in entsprechender Anwendung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Der Beklagte war nicht nach § 166 Abs. 2 InsO einziehungsbefugt. Diese Vorschrift erlaubt dem Verwalter die Einziehung oder anderweitige Verwertung einer Forderung, welche der Schuldner zur Sicherung eines Anspruchs abgetreten hatte. Auf verpfändete Forderungen ist sie nicht, auch nicht entsprechend, anwendbar (BGH, Urteil vom 11. Juli 2002 - IX ZR 262/01, NZI 2002, 599 f; vom 7. April 2005 - IX ZR 138/04, NZI 2005, 384, 385; vgl. auch Berger, Festschrift für Gero Fischer, 2008, S. 1, 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b) Der Beklagte war jedoch deshalb zur Einziehung der Versicherungssumme befugt, weil der Kläger als der einzige andere in Betracht kommende Berechtigte nach den insoweit maßgebenden Vorschriften des Bürgerlichen Gesetzbuchs nicht zur Einziehung der Versicherungsleistung berechtigt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>aa) Gemäß § 1282 Abs. 1 BGB ist der Pfandgläubiger erst dann zur Einziehung der gepfändeten Forderung berechtigt, wenn Pfandreife gemäß § 1228 Abs. 2 BGB eingetreten ist. Nach dieser Vorschrift tritt Pfandreife bereits dann ein, wenn die gesicherte Forderung nur teilweise fällig geworden ist. Die gesicherte Forderung aus der Pensionszusage vom 4. August 1993 entstand jedoch nicht insgesamt mit Ablauf des Monats, in welchem der Kläger sein 60. Lebensjahr vollendete, sondern von diesem Zeitpunkt an Monat für Monat neu, jeweils aufschiebend bedingt durch den Erlebensfall (vgl. BGH, Urteil vom 7. April 2005, aaO; vom 10. Juli 1997 - IX ZR 161/96, BGHZ 136, 220, 223). Am 2. April 2008 waren überhaupt erst Pensionsansprüche für die Monate November 2006 bis einschließlich März 2008 in Höhe von (17 x 1.022,58 € =) 17.383,86 € angefallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>bb) § 1282 Abs. 1 Satz 2 BGB erlaubt dem Pfandgläubiger die Einziehung der Forderung nur insoweit, als sie zu seiner Befriedigung erforderlich ist. Handelt es sich bei der gesicherten Forderung um eine Rente, ist eine Einziehung nur entsprechend den vereinbarten Rentenzahlungen möglich (Lehleiter, EWiR 1996, 7, 8; Blomeyer, VersR 1999, 653, 659). Auch aus diesem Grunde war der Kläger nicht befugt, die Versicherungssumme einzuziehen, soweit sie den Betrag von 17.383,86 € überstieg. Ist der Pfändungsgläubiger nach den allgemeinen Vorschriften mangels Fälligkeit der Hauptforderung nicht zur Einziehung der verpfändeten Forderung berechtigt, kann im Insolvenzverfahren nichts anderes gelten. Der Absonderungsberechtigte hat auch hier keinen Anspruch darauf, dass noch nicht entstandene und nicht fällige Forderungen befriedigt werden. Auf der anderen Seite ist der Versicherer weder vertraglich noch gesetzlich verpflichtet, die Versicherungssumme ratierlich an den Pfändungsgläubiger auszuzahlen; er hat Anspruch darauf, die von ihm geschuldete Einmalzahlung als solche erbringen zu dürfen. Damit ist der Verwalter nicht nur berechtigt, sondern auch verpflichtet, die Versicherungssumme entgegen zu nehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>cc) Es kann sich damit nur noch die Frage stellen, ob die Versicherungssumme gemäß oder entsprechend § 1281 BGB an den Pfandgläubiger und den Verwalter im Insolvenzverfahren über das Vermögen des Gläubigers gemeinsam zu leisten ist. Diese Frage ist zu verneinen. Der Senat hat in dem vergleichbaren Fall der vorzeitigen Beendigung der verpfändeten Rückdeckungsversicherung ein alleiniges Einzugsrecht des Verwalters entsprechend § 173 Abs. 2 Satz 2 InsO angenommen (BGH, Urteil vom 7. April 2005 - IX ZR 138/04, NZI 2005, 384 f). Ein solches entspricht auch in anderen Fällen der fehlenden Pfandreife dem wohlverstandenen Interesse der Insolvenzgläubiger an der zügigen Verwertung des zur Masse gehörenden Vermögens einerseits und des auch nach § 1281 BGB nicht allein einzugsberechtigten Pfandgläubigers andererseits. Ein nur gemeinsam auszuübendes Einzugsrecht würde die Verwertung der verpfändeten Forderung erschweren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Außerhalb des Insolvenzverfahrens dient die Vorschrift des § 1281 BGB dem Schutz des noch nicht einziehungsberechtigten Pfandgläubigers davor, dass der Pfandschuldner die verpfändete Forderung einzieht und den Erlös verbraucht. Im Insolvenzverfahren bedarf der Pfandgläubiger dieses Schutzes nicht in gleicher Weise. Zu den Amtspflichten des Insolvenzverwalters gehört auch, die Rechte des Absonderungsberechtigten zu wahren und den aus der Verwertung eines belasteten Massegegenstandes erzielten Erlös nach Maßgabe der §§ 165 ff InsO an den Berechtigten auszukehren. Bei schuldhafter Verletzung dieser Pflichten haftet er gemäß § 60 InsO. Die dem Verwalter in Bezug auf die verpfändete Forderung obliegenden Pflichten, insbesondere im Hinblick auf die Separierung und die ratenweise Auszahlung des eingezogenen Betrags nach Fälligkeit des Versorgungsanspruchs, änderten sich bei Anwendung des § 1281 BGB im Übrigen nicht. Auch die praktischen Schwierigkeiten, die sich aus der Pflicht zur Einziehung und Verwahrung der fälligen Versicherungssumme und zur monatlichen Bedienung des Versorgungsanspruchs ergeben mögen (vgl. hierzu etwa Rhein/Lasser, NZI 2007, 153 f), würden nicht gelöst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Nach Eintritt der Pfandreife ist der Verwalter verpflichtet, den absonderungsberechtigten Pfandgläubiger aus dem durch die Einziehung der verpfändeten Forderung erzielten Erlös zu befriedigen. Diese Pflicht folgt wie in den gesetzlich geregelten Fällen eines Verwertungsrechts des Verwalters aus § 170 Abs. 1 Satz 2 InsO (analog). Das Einziehungsrecht des Verwalters ändert nichts am Recht des Absonderungsberechtigten auf abgesonderte Befriedigung, also auch nichts daran, dass dem absonderungsberechtigten Gläubiger der Verwertungserlös zusteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>3. Da der Verwalter mit der Feststellung und Einziehung der verpfändeten Forderung sowie mit der Auskehrung des Erlöses an den Pfandgläubiger befasst ist, hat er zuvor entsprechend § 170 Abs. 1 Satz 1 InsO die Kosten der Feststellung und der Verwertung (§ 171 InsO) abzurechnen. Die Vorschrift des § 170 Abs. 1 Satz 1 InsO gilt unmittelbar nur für die Fälle des § 166 Abs. 1 und 2 InsO, in welchem das Gesetz dem Insolvenzverwalter ausdrücklich das Recht zuweist, mit Absonderungsrechten belastete bewegliche Sachen und Forderungen zu verwerten. Ob sie auch im Fall des § 173 Abs. 2 Satz 2 InsO gilt, ob der Verwalter also auch dann die Kosten der Feststellung und der Verwertung beanspruchen kann, wenn er den belasteten Vermögensgegenstand nach ergebnisloser Fristsetzung verwertet, ist streitig (vgl. etwa Uhlenbruck/Brinkmann, InsO, 13. Aufl., § 173 Rn. 14: Verwertungs-, nicht aber Feststellungskosten; Flöther in Kübler/Prütting/Bork, InsO, 2009, § 173 Rn. 9: keine Kostenbeiträge; HK-InsO/Landfermann, InsO, 6. Aufl., § 173 Rn. 6: §§ 171, 170 Abs. 1 InsO gelten entsprechend). Zieht der Verwalter eine verpfändete Forderung ein, weil mangels Fälligkeit der Hauptforderung kein Einziehungsrecht des Pfandgläubigers besteht, und separiert oder hinterlegt er den Erlös zur Auskehrung an den Pfandgläubiger nach Eintritt der Pfandreife, wird der damit verbundene Aufwand regelmäßig demjenigen entsprechen, der für eine Verwertung nach § 166 Abs. 1 und 2 InsO erforderlich ist; dies rechtfertigt eine entsprechende Anwendung des § 171 InsO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>4. Der Kläger hat danach Anspruch auf Auskehrung der Versicherungssumme in Höhe seiner Pensionsansprüche für die Zeit ab November 2006 bis zum Zeitpunkt des erneuten Schlusses der mündlichen Verhandlung abzüglich der Kostenbeiträge gemäß § 171 InsO. Der verbleibende Betrag ist bis zu seiner Erschöpfung Monat für Monat in Höhe der monatlich geschuldeten Pension an den Kläger auszuzahlen; wird das Insolvenzverfahren aufgehoben, ist ein etwa noch vorhandener Betrag gemäß §§ 191 Abs. 1, 198 InsO zugunsten des Klägers zu hinterlegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>IV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Das angefochtene Urteil kann folglich keinen Bestand haben. Es ist aufzuheben (§ 562 Abs. 1 ZPO); die Sache ist an das Berufungsgericht zurückzuverweisen (563 Abs. 1 ZPO). Die Sache ist nicht zur Endentscheidung reif (§ 563 Abs. 3 ZPO), weil der Beklagte hilfsweise die Aufrechnung mit Gegenforderungen erklärt hat. Mit dieser hat sich das Berufungsgericht noch nicht befasst. Entgegen der Ansicht des Klägers ist die Aufrechnung nicht von vornherein deshalb ausgeschlossen, weil der Beklagte verpflichtet ist, die Versicherungssumme zugunsten des Klägers zu verwahren. Ob und in welchem Umfang die Aufrechnung zulässig ist, richtet sich vielmehr nach dem gesicherten Pensionsanspruch. Da der Kläger gegenüber diesen in erster Linie auf § 64 Abs. 2 GmbHG aF gestützten Gegenforderungen die Einrede der Verjährung erhoben hat (vgl. § 64 Abs. 2 Satz 3, § 43 Abs. 4 GmbHG aF), wird jedoch zu prüfen sein, ob und in welchem Umfang sich gegebenenfalls die gegenseitigen Forderungen in unverjährter Zeit aufrechenbar gegenüber standen (§ 215 BGB).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Kayser                          Gehrlein                           Vill</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>               Lohmann                          Fischer</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE303182013&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

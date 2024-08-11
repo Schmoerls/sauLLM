@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304052016</doknr>
+   <ecli>ECLI:DE:BGH:2016:120516UIXZR65.14.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>9. Zivilsenat</spruchkoerper>
+   <entsch-datum>20160512</entsch-datum>
+   <aktenzeichen>IX ZR 65/14</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 133 Abs 1 S 2 InsO</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 20. Februar 2014, Az: I-12 U 91/13, Urteil<br/>vorgehend LG Düsseldorf, 25. Juni 2013, Az: 7 O 349/12<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Insolvenzanfechtung: Darlegungs- und Beweislast des Gläubigers für Zahlungen aufgrund eines schlüssigen Sanierungskonzeptes; Kenntnis über die wesentlichen Grundlagen des Konzeptes; quotaler Verzicht auf Forderungen im Rahmen eines Sanierungsvergleichs; Mindestanforderungen an den Sanierungsplan</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Den Gläubiger, der die (drohende) Zahlungsunfähigkeit des Schuldners und die Benachteiligung der Gläubiger kennt, trifft die Darlegungs- und Beweislast, dass er spätere Zahlungen auf der Grundlage eines schlüssigen Sanierungskonzeptes erlangt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Gläubiger kann nur dann von einem schlüssigen Sanierungskonzept des Schuldners ausgehen, wenn er in Grundzügen über die wesentlichen Grundlagen des Konzeptes informiert ist; dazu gehören die Ursachen der Insolvenz, die Maßnahmen zu deren Beseitigung und eine positive Fortführungsprognose.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Der Gläubiger, der im Rahmen eines Sanierungsvergleichs quotal auf seine Forderungen verzichtet in der Annahme, andere Gläubiger verzichteten in ähnlicher Weise, kann von einer Sanierung des Schuldnerunternehmens allein durch diese Maßnahme nur ausgehen, wenn nach seiner Kenntnis die Krise allein auf Finanzierungsproblemen beruht, etwa dem Ausfall berechtigter Forderungen des Schuldners.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Der Gläubiger ist nicht verpflichtet, das Sanierungskonzept des Schuldners fachmännisch zu prüfen oder prüfen zu lassen; er darf sich auf die Angaben des Schuldners oder dessen Berater zu den Erfolgsaussichten des Konzeptes verlassen, solange er keine Anhaltspunkte dafür hat, dass er getäuscht werden soll oder dass der Plan keine Chancen auf dauerhaften Erfolg bietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>5. Der Sanierungsplan des Schuldners muss nicht den formalen Erfordernissen entsprechen, wie sie das Institut für Wirtschaftsprüfer e.V. in dem IDW Standard S6 (IDWS6) oder das Institut für die Standardisierung von Unternehmenssanierungen (ISU) als Mindestanforderungen an Sanierungskonzepte (MaS) aufgestellt haben.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision des Klägers wird das Urteil des 12. Zivilsenats des Oberlandesgerichts Düsseldorf vom 20. Februar 2014 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Klägerin nimmt als Verwalter in dem Insolvenzverfahren über das Vermögen der E.     GmbH (nachfolgend: Schuldnerin) die Beklagte auf Rückzahlung einer Vergleichszahlung in Anspruch. Die Beklagte erbrachte für die Schuldnerin Speditionsleistungen. Im Januar 2007 standen ihr fällige Forderungen von 59.703,20 € zu, von denen 25.416,85 € rechtskräftig tituliert waren. Aufgrund des Titels erwirkte die Beklagte im Januar 2007 einen Pfändungs- und Überweisungsbeschluss. Die Volksbank als Drittschuldnerin teilte ihr mit, dass keine pfändbaren Guthaben vorhanden seien und Vorpfändungen in Höhe von 16.000 € bestünden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Mit Schreiben vom 15. Januar 2007 wandte sich die von der Schuldnerin beauftragte Wirtschaftsprüfungsgesellschaft R.        an die Beklagte und teilte mit, dass eine buchmäßige Überschuldung der Schuldnerin in Höhe von 3,5 Mio. € bestehe. Die Kreditlinien seien eingefroren, es drohe in Kürze Zahlungsunfähigkeit. Zur Vermeidung der Insolvenz sei ein Vergleichsvorschlag erarbeitet worden, nach dem die Gläubiger auf 65 v.H. der Forderungen verzichten sollten, davon auf 15 v.H. gegen Besserungsschein. Der Vergleichsvorschlag könne dann umgesetzt werden, weil von Dritten Liquidität zur Verfügung gestellt werde. Voraussetzung sei, dass alle Gläubiger dem Vorschlag bedingungslos zustimmten. Anderenfalls sei ein Insolvenzverfahren unabdingbar, das keine Befriedigungsquote erwarten lasse. Antwort werde bis 19. Januar 2007 erbeten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte stimmte am 26. Januar 2007 auf einem Formular der Schuldnerin zu. Mit Anwaltsschriftsatz vom 29. Januar 2007 stimmte sie erneut zu und teilte mit, dass sie sich an die Zustimmung gebunden fühle, wenn bis 15. Februar 2007 35 v.H., also 20.896,12 €, bezahlt würden. Mit Schreiben vom 30. Januar 2007 teilte R.      mit, dass bis 22. Februar 2007 der genannte Betrag von 20.896,12 € bezahlt werde. Mit Schreiben vom 22. Februar 2007 teilte sie mit, aus "abwicklungstechnischen" Gründen verzögerte sich die Auszahlung um ca. 10 Tage. Die Zahlung erfolgte am 29. März 2007.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Insolvenzverfahren über das Vermögen der Schuldnerin wurde auf der Grundlage von Anträgen vom Mai, Oktober und Dezember 2011 am 20. Januar 2012 eröffnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Der Kläger hat die Zahlung nach § 133 Abs. 1 InsO angefochten. Die Schuldnerin habe sich seit vielen Jahren in einer tiefgreifenden Krise befunden. Die Beklagte habe dies aufgrund des Schreibens von R.         gewusst. Der Sanierungsversuch sei offensichtlich nicht ernsthaft gewesen. Es seien von vorneherein allenfalls die Hälfte der Gläubiger an den Vergleichsbemühungen beteiligt gewesen, nicht aber die Kreditinstitute, das Finanzamt und die Sozialversicherungsträger. Selbst ohne Berücksichtigung dieser Gläubiger habe der von den Geschäftsführern der Schuldnerin beschaffte Kredit von 500.000 € nicht ausgereicht, weil Forderungen von 850.000 € hätten zurückgeführt werden müssen. Die mangelnde Ernsthaftigkeit des Sanierungsversuchs habe der Beklagten nicht verborgen bleiben können, schon wegen der mehrfach verzögerten Zahlung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Klage abgewiesen, das Oberlandesgericht die Berufung zurückgewiesen. Mit der vom Senat zugelassenen Revision verfolgt der Kläger seinen Klageanspruch in vollem Umfang weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat Erfolg. Sie führt zur Aufhebung des Berufungsurteils und zur Zurückverweisung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat gemeint, die Beklagte habe aufgrund des Schreibens von R.          vom 15. Januar 2007 gewusst, dass der Schuldnerin die Zahlungsunfähigkeit zumindest drohte, weil sich aus dem Schreiben Umstände ergäben, die zwingend auf die bereits eingetretene Zahlungsunfähigkeit schließen ließen. Wisse der Anfechtungsgegner um die Zahlungsunfähigkeit des Schuldners, sei auch anzunehmen, dass er damit rechne, die zu seinen Gunsten getroffene Verfügung werde zu einer Benachteiligung anderer Gläubiger führen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Vermutung des § 133 Abs. 1 Satz 2 InsO sei jedoch widerlegt, weil die Beklagte darauf habe vertrauen dürfen, dass die Schuldnerin einen ernsthaften Sanierungsversuch unternommen habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Soweit es um die Kenntnis des Anfechtungsgegners gehe, genüge zur Widerlegung der Vermutung des § 133 Abs. 1 Satz 2 InsO hinsichtlich der Voraussetzungen eines ernsthaften Sanierungsversuchs die Darlegung konkreter Umstände, die es naheliegend erscheinen ließen, dass ihm der (hier unterstellte) Gläubigerbenachteiligungsvorsatz nicht bekannt gewesen sei. Derartige Umstände lägen vor. Aus der Sicht der Beklagten habe die Schuldnerin kompetente Fachleute mit der Sanierung betraut. Nach Mitteilung der Schuldnerin sei mit einigen wesentlichen Gläubigern die Vorgehensweise bereits mündlich abgestimmt gewesen. Die eingeschaltete Wirtschaftsprüfungsgesellschaft habe die Überschuldung und die (drohende) Zahlungsunfähigkeit offenbart und mitgeteilt, dass bereits Sanierungsverhandlungen mit Kreditinstituten geführt worden seien und die Kreditlinie lediglich eingefroren worden sei. Es sei ein Vergleichsvorschlag erarbeitet worden und es habe Liquidität durch Dritte zugeführt werden sollen. Zwar seien der Beklagten weder von der Schuldnerin noch von der Wirtschaftsprüfungsgesellschaft Einzelheiten oder wenigstens die wesentlichen Einzelheiten mitgeteilt worden. Der Schuldner sei hierzu aber auch nicht verpflichtet gewesen, ebenso wenig dazu, dem Gläubiger Auskünfte zu erteilen oder Prüfungen zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Entscheidend sei, dass die Beklagte nicht habe erkennen können, dass das von der Schuldnerin und den von ihr beauftragten Fachleuten verfolgte Konzept - was unterstellt werde - nicht tragfähig gewesen sei und nicht zur Befriedigung der Gläubiger habe führen können. Dass wesentliche Gläubiger nicht in den Vergleich einbezogen worden seien, habe die Beklagte nicht gewusst. Sie habe auf der Grundlage der Erklärungen des Wirtschaftsprüfers davon ausgehen dürfen, dass sich alle Gläubiger durch Teilnahme an dem Vergleich an der Sanierung beteiligen würden, weil die Zustimmung aller Gläubiger zur Voraussetzung für die Sanierung erklärt worden sei. Die Beklagte habe auch nicht gewusst, dass statt benötigter 850.000 € nur 500.000 € Fremdmittel zur Verfügung gestanden hätten. Dass der Vergleichsbetrag verspätet an sie gezahlt worden sei, habe die Wirtschaftsprüferkanzlei plausibel erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Diese Ausführungen halten rechtlicher Prüfung nicht stand. Das Berufungsgericht durfte anhand der getroffenen Feststellungen nicht zu dem Schluss gelangen, dass die Beklagte die Vermutung des § 133 Abs. 1 Satz 2 InsO widerlegt hat. Die Beklagte konnte nach den ihr vorliegenden Informationen nicht davon ausgehen, dass die Schuldnerin einen ernsthaften Sanierungsversuch unternahm.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Nach § 133 Abs. 1 Satz 1 InsO ist eine Rechtshandlung anfechtbar, die der Schuldner in den letzten zehn Jahren vor dem Antrag auf Eröffnung des Insolvenzverfahrens oder nach diesem Antrag mit dem Vorsatz vorgenommen hat, seine Gläubiger zu benachteiligen, wenn der andere Teil zur Zeit der Handlung den Vorsatz des Schuldners kannte. Diese Kenntnis wird nach § 133 Abs. 1 Satz 2 InsO vermutet, wenn der andere Teil wusste, dass die Zahlungsunfähigkeit des Schuldners droht und dass die Handlung die Gläubiger benachteiligt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Die Kenntnis von der (drohenden) Zahlungsunfähigkeit kann nach ständiger Rechtsprechung des Senats ihre Bedeutung als Beweisanzeichen für den Benachteiligungsvorsatz des Schuldners und die Kenntnis des Gläubigers hiervon verlieren, wenn die angefochtene Rechtshandlung Bestandteil eines ernsthaften, letztlich aber fehlgeschlagenen Sanierungsversuchs ist (BGH, Urteil vom 12. November 1992 - IX ZR 236/91, WM 1993, 270, 273; vom 5. März 2009 - IX ZR 85/07, BGHZ 180, 98 Rn. 17; vom 21. Februar 2013 - IX ZR 52/10, WM 2013, 763, Rn. 11; vom 3. April 2014 - IX ZR 201/13, WM 2014, 1009 Rn. 40 mwN). Denn in diesem Fall ist die Rechtshandlung von einem anfechtungsrechtlich unbedenklichen Willen geleitet und das Bewusstsein der Benachteiligung anderer Gläubiger tritt in den Hintergrund (BGH, Urteil vom 8. Dezember 2011 - IX ZR 156/09, WM 2012, 146 Rn. 11 und 18; vom 21. Februar 2013, aaO mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Voraussetzung ist auf Schuldnerseite, dass zu der Zeit der angefochtenen Handlung ein schlüssiges, von den tatsächlichen Gegebenheiten ausgehendes Sanierungskonzept vorlag, das mindestens in den Anfängen schon in die Tat umgesetzt war und die ernsthafte und begründete Aussicht auf Erfolg rechtfertigte (BGH, Urteil vom 16. Oktober 2008 - IX ZR 183/06, WM 2009, 117 Rn. 52; vom 8. Dezember 2011, aaO; vom 21. Februar 2013, aaO jeweils mwN). Die bloße Hoffnung des Schuldners auf eine Sanierung räumt seinen Benachteiligungsvorsatz nicht aus, wenn die dazu erforderlichen Bemühungen über die Entwicklung von Plänen und die Erörterung von Hilfsmöglichkeiten nicht hinausgekommen sind (BGH, Urteil vom 8. Dezember 2011, aaO; vom 3. April 2014, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Ein schlüssiges Sanierungskonzept setzt nicht notwendigerweise eine Einbeziehung sämtlicher Gläubiger voraus. Ein Sanierungsversuch kann auch aussichtsreich sein, wenn sich die beabsichtigten Maßnahmen nur auf einen Teil der Gläubiger erstrecken, etwa wenn umfangreiche Forderungsverzichte der Hauptgläubiger dem Schuldner neue Liquidität verschaffen, mittels der er in die Lage versetzt wird, seine übrigen Gläubiger vollständig zu befriedigen (BGH, Urteil vom 8. Dezember 2011, aaO Rn. 13). Die Zustimmung aller Gläubiger wird häufig ohnehin nicht erreichbar sein. Die für eine erfolgreiche Sanierung erforderliche Quote hängt von den Umständen des Einzelfalles ab. Dabei sind für unterschiedliche Gläubiger unterschiedliche Quoten denkbar, weil verkehrswertbestimmende Faktoren bei der Festlegung der Quote berücksichtigt werden können (BGH, Beschluss vom 10. Februar 2011 - IX ZR 176/08, GWR 2011, 144).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die in der Revisionsinstanz zugrunde zu legenden Umstände lassen jedoch kein geschlossenes Konzept zur Bereinigung sämtlicher Verbindlichkeiten der Schuldnerin und zur Sanierung ihres Geschäftsbetriebes erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Sowohl für die Frage der Erkennbarkeit der Ausgangslage als auch für die Prognose der Durchführbarkeit ist auf die Beurteilung eines unvoreingenommenen branchenkundigen Fachmanns abzustellen, dem die vorgeschriebenen oder üblichen Buchhaltungsunterlagen zeitnah vorliegen (vgl. BGH, Urteil vom 4. Dezember 1997 - IX ZR 47/97, WM 1998, 248, 250). Erforderlich ist eine Analyse der Verluste und der Möglichkeit deren künftiger Vermeidung, eine Beurteilung der Erfolgsaussichten und der Rentabilität des Unternehmens in der Zukunft und Maßnahmen zur Vermeidung oder Beseitigung der (drohenden) Insolvenzreife. Bei einem Sanierungsvergleich muss zumindest festgestellt werden die Art und Höhe der Verbindlichkeiten, die Art und Zahl der Gläubiger und die zur Sanierung erforderlichen Quote des Erlasses der Forderungen. Da eine Zustimmung aller Gläubiger regelmäßig nicht zu erreichen ist, muss eine Zustimmungsquote nach Schuldenstand festgelegt werden, gegebenenfalls für unterschiedliche Arten von Gläubigergruppen, sowie die Behandlung nicht verzichtender Gläubiger. Gegebenenfalls sind Art und Höhe einzuwerbenden frischen Kapitals darzustellen sowie die Chance, dieses tatsächlich zu gewinnen (vgl. BGH, Beschluss vom 4. Dezember 1997, aaO; vom 10. Februar 2011, aaO Rn. 4 ff).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Ein Sanierungsplan, der zu einer Verneinung des Gläubigerbenachteiligungsvorsatzes des Insolvenzschuldners führt, muss dagegen nicht bestimmten formalen Erfordernissen entsprechen, wie sie etwa das Institut für Wirtschaftsprüfer e.V. in dem IDW Standard S 6 (IDW S 6) oder das Institut für die Standardisierung von Unternehmenssanierungen (ISU) als Mindestanforderungen an Sanierungskonzepte (MaS) aufgestellt haben. Die Einhaltung der dort für erforderlich gehaltenen Voraussetzungen mag für eine erfolgreiche Sanierung in der Regel eine positive Prognose ermöglichen. Sie ist aber nicht zwingend erforderlich und vor allem bei kleinen Unternehmen nicht immer in vollem Umfang geboten. Auch dort muss jedoch die Prüfung der wirtschaftlichen Lage des Schuldners im Rahmen seiner Wirtschaftsbranche analysiert und müssen die Krisenursachen sowie die Vermögens-, Ertrags- und Finanzlage erfasst werden (BGH, Urteil vom 4. Dezember 1997, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Ob danach aus Sicht der Schuldnerin ein ausreichendes Sanierungskonzept vorlag, hat das Berufungsgericht dahinstehen lassen, und allein auf die nach seiner Auffassung fehlende Kenntnis der Beklagten vom (unterstellten) Benachteiligungsvorsatz der Schuldnerin abgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Richtig ist die Annahme des Berufungsgerichts, die Beklagte habe zumindest die drohende Zahlungsunfähigkeit der Schuldnerin gekannt. Das wird von der Beklagten in der Revision nicht in Frage gestellt. Die Kenntnis ergab sich jedenfalls aus dem der Beklagten zugegangenen Schreiben der Wirtschaftsprüfungsgesellschaft vom 15. Januar 2007, in dem mitgeteilt wurde, dass die Schuldnerin mit 3,5 Mio. € überschuldet sei und sich die Überschuldung bei Liquidation noch erhöhe. Es trete in Kürze Zahlungsunfähigkeit ein, wenn nicht alle Gläubiger auf 65 v.H. ihrer Forderungen verzichteten. Auch in diesem Fall könne die Insolvenz nur durch die zugesagte Zurverfügungstellung von Liquidität durch Dritte vermieden werden. Damit war für die Beklagte eindeutig, dass Zahlungsunfähigkeit nicht nur drohte, sondern bereits eingetreten war. Die Erklärung der Schuldnerin, ihre Verbindlichkeiten nicht bedienen zu können, vermittelte ungeachtet der Bitte um Forderungserlass die Kenntnis von der Zahlungsunfähigkeit (vgl. BGH, Urteil vom 17. Dezember 2015 - IX ZR 61/14, ZIP 2016, 173 Rn. 19 ff mwN). Hinzu kam die Auskunft der Volksbank als Drittschuldnerin auf den Pfändungs- und Überweisungsbeschluss, dass kein pfändbares Guthaben vorhanden sei und Vorpfändungen in erheblichem Umfang vorlägen. Zudem waren die eigenen Forderungen der Beklagten nicht erfüllt worden, selbst soweit sie tituliert waren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Wusste die Beklagte von der Zahlungsunfähigkeit der Schuldnerin, musste sie grundsätzlich auch davon ausgehen, dass Zahlungen an sie selbst gläubigerbenachteiligende Wirkung haben, wenn der Schuldner, wie hier, unternehmerisch tätig und deshalb damit zu rechnen war, dass auch andere Gläubiger existierten. Dann weiß der Gläubiger regelmäßig auch, dass Leistungen aus dem Vermögen des Schuldners an ihn die Befriedigungsmöglichkeiten anderer Gläubiger vereiteln oder zumindest erschweren oder verzögern. Deshalb ist dann der Anfechtungsgegner regelmäßig auch über den Benachteiligungsvorsatz im Bilde (BGH, Urteil vom 29. September 2011 - IX ZR 202/10, WM 2012, 85 Rn. 15; vom 25. April 2013 - IX ZR 235/12, WM 2013, 1044 Rn. 28; vom 7. Mai 2015 - IX ZR 95/14, WM 2015, 1202 Rn. 17; vom 17. Dezember 2015 - IX ZR 61/14, WM 2016, 172 Rn. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>3. Greift damit die Vermutung des § 133 Abs. 1 Satz 2 InsO ein, bewirkt dies eine Umkehr der Beweislast. Es obliegt dann dem Anfechtungsgegner, darzulegen und zu beweisen, dass er nichts von einem Benachteiligungsvorsatz des Schuldners wusste (BGH, Urteil vom 15. März 2012 - IX ZR 239/09, WM 2012, 711 Rn. 14; vom 21. Januar 2016 - IX ZR 84/13, WM 2016, 366 Rn. 8). Den Gläubiger, der über die (drohende) Zahlungsunfähigkeit des Schuldners und die Gläubigerbenachteiligung unterrichtet ist, trifft deshalb auch die Darlegungs- und Beweislast dafür, dass er spätere Zahlungen auf der Grundlage eines schlüssigen Sanierungskonzepts erlangt hat (BGH, Urteil vom 3. April 2014 - IX ZR 201/13, WM 2014, 1009 Rn. 40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich der Kenntnis vom Vorliegen der Voraussetzungen eines ernsthaften Sanierungsversuchs sind allerdings nicht dieselben Anforderungen zu stellen, wie sie für den Schuldner oder dessen Geschäftsführer gelten. Der Anfechtungsgegner muss aber konkrete Umstände darlegen und beweisen, die es naheliegend erscheinen lassen, dass ihm im Hinblick auf den Sanierungsversuch der (hier unterstellte) Gläubigerbenachteiligungsvorsatz des Schuldners unbekannt geblieben war (BGH, Urteil vom 24. Mai 2007 - IX ZR 97/06, ZIP 2007, 1511 Rn. 9; Beschluss vom 10. Februar 2011, aaO). Die dabei zu stellenden Anforderungen hat das Berufungsgericht nicht zutreffend beurteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Der Gläubiger ist hinsichtlich eines ernsthaften Sanierungsversuchs in der Regel auf die Informationen angewiesen, die ihm der Schuldner zur Verfügung stellt. Auf die Erteilung der erforderlichen Informationen muss der Gläubiger im Vorfeld einer Sanierungsvereinbarung im eigenen Interesse bestehen. Verzichtet er hierauf, handelt er mit Anfechtungsrisiko.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>aa) Der Gläubiger, dem ein Teilverzicht auf seine Forderung abverlangt wird, hat zum Inhalt des Sanierungsplans allerdings kein Auskunftsrecht gegen seinen Schuldner, insbesondere auch nicht zu dem wesentlichen Inhalt des Plans und zu der Frage, welche anderen Gläubiger mit welcher Quote bedient werden sollen und ob sie diesem Vorgehen zugestimmt haben. Der Schuldner muss einem Gläubiger auch keine entsprechende Prüfung ermöglichen (BGH, Urteil vom 24. Mai 2007 - IX ZR 97/06, WM 2007, 1579 Rn. 9). Andererseits ist ein Gläubiger nicht verpflichtet, auf seine Forderung ganz oder teilweise zu verzichten und sich mit einer Quote zu begnügen (gegebenenfalls teilweise gegen Besserungsschein). Wird er, wie im vorliegenden Fall, vor die Alternative gestellt, eine Quote von 35 v.H. als Abfindung zu akzeptieren (mit einem Besserungsschein über 15 v.H.) oder in einem sonst unausweichlichen Insolvenzverfahren gar nichts zu erhalten, ist ihm jedenfalls klar, dass der normale Gang der Dinge die Beantragung und Eröffnung des Insolvenzverfahrens wäre, wo er keine Quote zu erwarten hätte. Lässt er sich auf einen Vergleich ein, mit dem er deutlich besser gestellt werden soll, muss er zumindest so viele Informationen verlangen, dass er die Frage der möglichen Benachteiligung anderer Gläubiger nach dem Konzept des Schuldners einschätzen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Das Sanierungskonzept des Schuldners muss der Gläubiger allerdings nicht selbst fachmännisch überprüfen oder durch Sachverständige überprüfen lassen. Er darf sich grundsätzlich auf schlüssige Angaben des Schuldners verlassen. Der Gläubiger ist selbst dann nicht verpflichtet, beim Schuldner Untersuchungen und Nachforschungen über die Erfolgsaussicht eines Sanierungskonzeptes anzustellen oder durch einen Fachmann anstellen zu lassen, wenn jener damit einverstanden ist. Er darf vielmehr den Angaben des Schuldners oder seines beauftragten Sanierungsberaters vertrauen, solange er keine (erheblichen) Anhaltspunkte dafür hat, dass er getäuscht werden soll oder dass der Sanierungsplan keine Aussicht auf Erfolg hat. Sind die den Gläubigern mitgeteilten Angaben, wie im vorliegenden Fall nach Behauptung des Klägers, falsch, mag das die Strafbarkeit oder Schadensersatzpflicht des Schuldners oder seines Bevollmächtigten zur Folge haben. Die Kenntnis des Gläubigers von einem Gläubigerbenachteiligungsvorsatz des Schuldners begründet das grundsätzlich nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Da der Beklagten mitgeteilt worden war, dass alle Gläubiger mit derselben Quote verzichten müssten, durfte sie zunächst davon ausgehen, dass andere aktuelle Gläubiger nicht benachteiligt würden. Dass mehrere Großgläubiger entgegen den Angaben des Schuldners und der Wirtschaftsprüfungsgesellschaft - nach Behauptung des Klägers - nicht quotal verzichten mussten, wusste die Beklagte nicht. Selbst wenn sie es gewusst hätte, hätte sich daraus nicht ergeben, dass durch die Zahlung an sie selbst in Höhe der vereinbarten Quote andere Gläubiger benachteiligt werden würden, solange davon auszugehen war, dass die übrigen Gläubiger die Quote, mit der sie sich zufrieden gegeben hatten, erhalten würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Eine Gläubigerbenachteiligung ist jedoch mit einem Sanierungskonzept nur dann nicht verbunden, wenn das Schuldnerunternehmen auf der Grundlage der gegenwärtigen Erkenntnisse dauerhaft saniert wird. Arbeitet das Unternehmen ständig mit Verlust, ist eine Sanierungsvereinbarung, mit der lediglich der gegenwärtige Schuldenstand reduziert wird, von vornherein nicht tragfähig, weil dann der erneute Anstieg der Schulden unausweichlich und der erneute Eintritt der Insolvenzreife absehbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Für die Vorsatzanfechtung nach § 133 Abs. 1 InsO genügt eine mittelbare Gläubigerbenachteiligung. Der Benachteiligungsvorsatz muss sich zwar gerade auf Gläubiger beziehen. Unerheblich ist aber, ob diese Gläubiger bereits vorhanden sind. Deshalb ist die Anfechtung gemäß § 133 Abs. 1 InsO auch in Bezug auf im Zeitpunkt der angefochtenen Rechtshandlung noch künftige Gläubiger möglich (BGH, Urteil vom 13. August 2009 - IX ZR 159/06, WM 2009, 1943 Rn. 5 mwN; MünchKomm-InsO/Kayser, 3. Aufl., § 133 Rn. 16). Wird durch einen Sanierungsplan lediglich der gegenwärtige Schuldenstand durch quotalen Verzicht aller oder einiger Gläubiger reduziert, ist aber absehbar, dass künftige neue Gläubiger mangels kostendeckender Arbeit des Schuldnerunternehmens wiederum nicht befriedigt werden können, bleibt es bei der Kenntnis vom Gläubigerbenachteiligungsvorsatz. Das bedeutet nicht, dass ein Sanierungskonzept ohne jegliches Risiko sein muss. Eine positive Prognose genügt, muss aber nachvollziehbar und vertretbar erscheinen. Es muss damit gerechnet werden können, dass mit dem Sanierungsplan die Wiederherstellung der uneingeschränkten Zahlungsfähigkeit erfolgt. Ist dies nicht gewährleistet und müssen deshalb der Schuldner und die Gläubiger davon ausgehen, dass die Finanzierung des Unternehmens auch künftig nicht stabil ist, sondern dass die bei Unternehmensfortführung zu verdienenden Gelder weiterhin nicht ausreichen werden, um die anfallenden Kosten zu decken, ist der (erneute) Zusammenbruch des Unternehmens bereits absehbar (vgl. BGH, Urteil vom 8. Januar 2015 - IX ZR 198/13, WM 2015, 293 Rn. 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Beschränkt sich ein Sanierungsversuch allein darauf, dass alle oder ein Teil der Gläubiger quotal auf ihre Forderungen verzichten, ist dies nur dann erfolgversprechend, wenn der Insolvenzgrund allein auf einem Finanzierungsproblem beruht, etwa dem Ausfall berechtigter Forderungen des Schuldners, das Schuldnerunternehmen aber grundsätzlich profitabel arbeitet. Kann in diesem Fall durch einen Schuldenschnitt die Zahlungsfähigkeit dauerhaft wiederhergestellt und die Überschuldung beseitigt werden, werden hierdurch andere, auch künftige Gläubiger nicht benachteiligt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Ging der Anfechtungsgegner in einem solchen Fall bei Entgegennahme einer quotalen Teilleistung des Schuldners davon aus, dass bei der Höhe der an ihn ausgezahlten Quote das Vermögen des Schuldners ausreiche, an alle anderen gegenwärtigen Gläubiger, die einem solchen Vorgehen zugestimmt haben, ebenfalls eine Quote zu zahlen, mit der diese einverstanden waren, dann sollen nach seinen Vorstellungen andere Gläubiger vom Schuldner nicht benachteiligt werden (vgl. BGH, Urteil vom 13. August 2009 - IX ZR 159/06, WM 2009, 1943 Rn. 14; vom 21. Januar 2016 - IX ZR 84/13, WM 2016, 366 Rn. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Dass der Sanierungserfolg mit einem reinen Quotenvergleich der Gläubiger herbeigeführt werden kann, ist jedoch ungewöhnlich. Hiervon kann der Gläubiger eines zahlungsunfähigen Schuldners nur ausgehen, wenn ihm derartige besondere Umstände vom Schuldner oder dessen Beratern schlüssig dargelegt worden sind. Dies war vorliegend nicht der Fall. Aus dem Schreiben der Wirtschaftsprüfungsgesellschaft ergab sich nicht, dass die Zahlungsunfähigkeit der Schuldnerin allein auf Finanzierungsproblemen beruhte, etwa dem einmaligen nicht absehbaren Ausfall größerer Forderungen. Aus dem Schreiben ergibt sich vielmehr keinerlei Anhaltspunkt, dass und warum mit dem geforderten Quotenvergleich eine Sanierung bewerkstelligt werden könnte. Hiervon konnte die Beklagte folglich nicht ausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>bb) Beruht die Insolvenz des Schuldners nicht lediglich auf dem Ausfall berechtigter Forderungen, sondern - wie im Regelfall - vor allem auf dem dauerhaft unwirtschaftlichen Betrieb des Unternehmens, kann ein Gläubiger von einem erfolgversprechenden Sanierungskonzept nur ausgehen, wenn vom Schuldner oder dessen Beratern zumindest die Grundlagen einer weitergehenden Sanierung schlüssig dargelegt wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(1) Erforderlich ist die Darlegung der Ursache der drohenden Insolvenz, insbesondere ob diese lediglich aus Problemen auf der Finanzierungsseite resultiert, oder ob der Betrieb unwirtschaftlich, insbesondere nicht kostendeckend oder sonst mit Verlusten arbeitet. Details müssen den Gläubigern nicht mitgeteilt werden. Diese müssen aber zumindest erkennen können, ob zur Sanierung ein Forderungsverzicht der Gläubiger ausreichend ist, oder ob Umstrukturierungsmaßnahmen erforderlich sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Bei der Notwendigkeit von Umstrukturierungsmaßnahmen müssen diese nicht im Detail erörtert werden. Zumindest ist aber darzulegen, dass diese in Angriff genommen werden und dass nach ihrer Durchführung für das Unternehmen wieder Erfolgsaussichten bestehen und die Rentabilität der unternehmerischen Tätigkeit wiederhergestellt werden kann. Die Maßnahmen müssen eine positive Fortführungsprognose begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Sofern, wie im Regelfall, ein finanzieller Beitrag der Gläubiger verlangt wird, etwa in Form eines quotalen Verzichts auf Forderungen, ist zumindest Art und Höhe der bei Sanierungsbeginn bestehenden ungedeckten Verbindlichkeiten des Schuldners offenzulegen (Finanzlage), weil dies Ausgangspunkt jeder Sanierungsüberlegung auf der Finanzierungsseite ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Schließlich muss dem Gläubiger bekannt sein, in welcher Weise mit dem Sanierungsplan der Insolvenzgrund beseitigt werden soll. Das beinhaltet zum einen die Frage, in welcher Höhe Verbindlichkeiten erledigt werden müssen, etwa durch Verzicht der Gläubiger, und die Festlegung der mindestens zu erzielenden Vergleichsquote (Forderungsanteil, auf den insgesamt verzichtet werden muss). Auf der anderen Seite beinhaltet dies gegebenenfalls die Darstellung der Notwendigkeit der Einwerbung frischen Kapitals, der Erfolgsaussicht dieser Maßnahmen und ihre Auswirkungen auf den Insolvenzgrund. Insoweit kommen vor allem neues Eigenkapital oder Darlehen mit qualifiziertem Rangrücktritt in Betracht. Auch insoweit müssen dem Gläubiger nur die Grundzüge, keine Details bekannt gemacht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(2) Aus den Informationen, die dem Gläubiger danach mitgeteilt worden sind, muss sich aus seiner Sicht das Sanierungskonzept als schlüssig darstellen und erfolgversprechend erscheinen. Sicher muss der Erfolg nicht sein. Es genügen gute Chancen für eine Sanierung. Konnte dem Vorhaben dagegen aus seiner Perspektive von vorneherein eine realistische Realisierungschance nicht zugebilligt werden, ist die Kenntnis vom Gläubigerbenachteiligungsvorsatz nicht ausgeräumt, weil dann mit einem Erfolg des Konzeptes von vorneherein nicht zu rechnen war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Von einem erfolgversprechenden Sanierungsplan kann der Gläubiger nicht ausgehen, wenn er keine Kenntnis von den Ursachen der drohenden Insolvenz sowie den Gründen für eine positive Fortführungsprognose hat. Die Reduzierung allein der Schulden durch (Teil-)Verzicht der Gläubiger ist für eine Sanierung in der Regel nicht erfolgversprechend, wenn dadurch die Ursachen der Krise nicht beseitigt werden und in der Zukunft unverändert fortwirken würden. Ihre Beseitigung ist die Grundlage jeder erfolgversprechenden Sanierung, sofern die Krise, wie ausgeführt, nicht ausnahmsweise lediglich auf einem Zahlungsausfall beruht (vgl. BGH, Urteil vom 21. Februar 2013 - IX ZR 52/10, WM 2013, 763 Rn. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Nach den Feststellungen des Berufungsgerichts hatte die Beklagte keinerlei Kenntnis von den Ursachen der Krise und den geplanten Maßnahmen zu ihrer Beseitigung. Hatte sie jedoch nicht einmal Kenntnis davon, was nach Auffassung des Schuldners und seiner Berater für die gebotene Sanierung entscheidend war, konnte und durfte sie nicht von einem erfolgversprechenden Sanierungskonzept ausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Das Schreiben der Wirtschaftsprüfungsgesellschaft vom 15. Januar 2007 enthielt keinerlei Hinweise auf die Ursachen der Krise und dazu, wie diese Ursachen dauerhaft beseitigt werden könnten. Es befasst sich ausschließlich mit der aktuellen Liquiditätslage der Schuldnerin und der Frage, wie diese kurzfristig verbessert werden konnte. Das allein war für eine Sanierung offensichtlich kein brauchbarer Ansatz. Dass es hier ausnahmsweise anders gewesen wäre, wurde nicht dargelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Auch sonstige Feststellungen, wonach die Beklagte von einer dauerhaften Beseitigung der Krisenursachen ausgehen durfte, hat das Berufungsgericht nicht getroffen. Die Beklagte hat vielmehr selbst vorgetragen, über Einzelheiten des Sanierungskonzeptes nicht informiert gewesen zu sein. Auf dieser Grundlage durfte sie nicht davon ausgehen, dass das Konzept Erfolg haben könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsurteil kann damit keinen Bestand haben. Die Sache ist noch nicht zur Endentscheidung reif, weil die erforderlichen Feststellungen zum Gläubigerbenachteiligungsvorsatz der Schuldnerin fehlen. Das Berufungsurteil ist deshalb aufzuheben und die Sache zur neuen Verhandlung und Entscheidung zurückzuverweisen (§ 563 Abs. 1 Satz 1 ZPO). Das Berufungsgericht wird festzustellen haben, ob aus Sicht der Schuldnerin ein ausreichendes und erfolgversprechendes Sanierungskonzept vorlag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Kayser                    Vill                        Lohmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                Pape                  Möhring</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304052016&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

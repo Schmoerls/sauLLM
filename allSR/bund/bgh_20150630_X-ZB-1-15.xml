@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE313902015</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20150630</entsch-datum>
+   <aktenzeichen>X ZB 1/15</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 1 Abs 3 Nr 1 PatG, § 4 PatG, Art 52 Abs 2 Buchst a EuPatÜbk, Art 56 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 23. Oktober 2014, Az: 17 W (pat) 15/11, Beschluss<br/>nachgehend BPatG München, 30. November 2015, Az: 17 W (pat) 15/11, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentfähigkeit eines Verfahrens zur Zustandsermittlung eines Flugzeugs: Erfinderische Tätigkeit und Neuheit bei einer mathematischen Methode zur Auswertung von Messwerten - Flugzeugzustand</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Flugzeugzustand</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Mathematische Methoden sind im Hinblick auf § 1 Abs. 3 Nr. 1 PatG nur dann patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Eine mathematische Methode kann nur dann als nichttechnisch angesehen werden, wenn sie im Zusammenhang mit der beanspruchten Lehre keinen Bezug zur gezielten Anwendung von Naturkräften aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Ein ausreichender Bezug zur gezielten Anwendung von Naturkräften liegt vor, wenn eine mathematische Methode zu dem Zweck herangezogen wird, anhand von zur Verfügung stehenden Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs zu gewinnen und damit die Funktionsweise des Systems, das der Ermittlung dieses Zustands dient, zu beeinflussen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Ein Gegenstand, der neu ist und auf erfinderischer Tätigkeit beruht, kann nicht allein deshalb als nicht patentfähig angesehen werden, weil er im Vergleich zum Stand der Technik keinen erkennbaren Vorteil bietet.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Rechtsbeschwerde wird der am 23. Oktober 2014 verkündete Beschluss des 17. Senats (Technischen Beschwerdesenats) des Bundespatentgerichts aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur anderweiten Verhandlung und Entscheidung an das Patentgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>A. Die Rechtsbeschwerde richtet sich gegen die Zurückweisung einer Patentanmeldung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die am 18. Januar 2007 eingereichte Anmeldung betrifft ein Verfahren zur Zustandsermittlung eines Flugzeugs. Anspruch 1 lautet in der zuletzt beanspruchten Fassung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zur Ermittlung eines Flugzeugzustandes, nämlich der Position, Geschwindigkeit und Lage des Flugzeugs, umfassend die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Bestimmung einer Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> mit <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="7px"
+                       src="bild3_2.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>=1,…, <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild4_3.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> einer Trägheitsanlage, welche den Flugzeugzustand bestimmt, wobei die Messwerte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild5_4.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> Punkte im <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild6_5.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Raum darstellen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verarbeiten der Messwerte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild7_6.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> in einem Kalman-Filter zur Schätzung des Flugzeugzustandes,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dadurch gekennzeichnet, dass</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">für jede Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild8_7.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild9_8.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Trägheitsanlage eine erste Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="27px"
+                       src="bild10_9.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> und eine zweite Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="16px"
+                       src="bild11_10.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> berechnet werden und diese berechneten Größen dem Kalman-Filter zur Weiterverarbeitung zugeführt werden,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei die Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="27px"
+                       src="bild12_11.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Mittelpunktsvektor und die Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="16px"
+                       src="bild13_12.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Radius einer <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild14_13.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="22px"
+                       src="bild15_14.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> sind, innerhalb welcher alle Punkte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild16_15.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> mit <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="7px"
+                       src="bild17_16.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>=1,..., <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild18_17.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> liegen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei die Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="22px"
+                       src="bild19_18.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> eine möglichst kleine <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild20_19.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionale Kugel ist, welche ausnahmslos alle Punkte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="17px"
+                       src="bild21_20.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> mit <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="7px"
+                       src="bild22_21.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>=1,..., <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild23_22.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="12px"
+                       src="bild24_23.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Anspruch 5 betrifft sinngemäß ein System zur Ermittlung eines Flugzeugzustandes, das nach diesem Verfahren arbeitet. Vier weitere Ansprüche sind auf einen dieser Ansprüche rückbezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentamt hat die Anmeldung zurückgewiesen. Die Beschwerde der Anmelderin ist erfolglos geblieben. Mit ihrer vom Patentgericht zugelassenen Rechtsbeschwerde verfolgt die Anmelderin ihr Begehren aus der Beschwerdeinstanz in vollem Umfang weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>B. Die zulässige Rechtsbeschwerde führt zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung der Sache an das Patentgericht (§ 108 Abs. 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Die Anmeldung betrifft in der im Beschwerde- und Rechtsbeschwerdeverfahren zu beurteilenden Fassung ein Verfahren zur Ermittlung von Position, Geschwindigkeit und Lage eines Flugzeugs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung der Anmeldung, mit der ursprünglich Schutz für ein Verfahren zur Zustandsermittlung eines Körpers begehrt wurde, wird ausgeführt, für die Kontrolle von Fahrzeugen würden in zunehmendem Maße elektronische Systeme eingesetzt. Diese benötigten eine möglichst genaue und zuverlässige Kenntnis des aktuellen Zustands. Einige der dafür relevanten Zustandsgrößen seien einer einfachen Messung nicht zugänglich. Deshalb müssten sie mit Hilfe von Modellen geschätzt werden, wobei die Schätzungen durch einen Vergleich mit Messwerten beobachtbarer Größen abgeglichen werden könnten. Bekannte Systeme lieferten als Messung Punktmengen in einem k-dimensionalen Raum. Bei einigen Systemen, zum Beispiel bei der hochfrequenten Aufzeichnung von Luftdaten eines Flugzeugs, werde jedes Messergebnis durch einen Punkt innerhalb eines zwei- oder mehrdimensionalen Raums dargestellt. Für die Schätzung des Zustands werde die Punktemenge üblicherweise an ein Kalman-Filter weitergeleitet. Diese Systeme wiesen den Nachteil auf, dass die Einzelmessungen im Allgemeinen stark verrauscht seien und dass aufgrund der vom Kalman-Filter zu verarbeitenden Datenmenge eine zeitnahe Ausgabe des geschätzten Zustands nicht möglich sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Anmeldung betrifft vor diesem Hintergrund das technische Problem, ein Verfahren zur Verfügung zu stellen, das eine zuverlässige und schnelle Zustandsschätzung ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieses Problems wird in Anspruch 1 ein Verfahren vorgeschlagen, dessen Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) Das Verfahren dient der Ermittlung von Position, Geschwindigkeit und Lage eines Flugzeugs und umfasst folgende Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) Mittels einer Trägheitsanlage, welche den Flugzeugzustand bestimmt, wird eine Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild25_24.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild26_25.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> mit <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="8px"
+                       src="bild27_26.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>=1,…, <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild28_27.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> bestimmt, die Punkte im <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild29_28.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Raum darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) Diese Messwerte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild30_29.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> werden zur Schätzung des Flugzeugzustandes in einem Kalman-Filter verarbeitet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) Hierzu wird für jede Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild31_30.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild32_31.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> eine erste Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="32px"
+                       src="bild33_32.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> und eine zweite Größe <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="19px"
+                       src="bild34_33.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> berechnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">e) Diese berechneten Größen werden dem Kalman-Filter anstelle der einzelnen Messwerte zugeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">f) <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="32px"
+                       src="bild35_34.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> ist der Mittelpunktvektor und <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="19px"
+                       src="bild36_35.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Radius einer <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild37_36.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="25px"
+                       src="bild38_37.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>, innerhalb welcher alle Punkte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild39_38.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> mit <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="8px"
+                       src="bild40_39.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>=1,..., <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild41_40.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> liegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">g) Lage und Größe der Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="25px"
+                       src="bild42_41.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> werden so festgelegt, dass die Kugel möglichst klein ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>3. Von zentraler Bedeutung für das beanspruchte Verfahren ist die Auswahl und Berechnung der Daten, die dem Kalman-Filter zugeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Ein Kalman-Filter ist ein Verfahren, bei dem anhand einer Vielzahl von mit Unsicherheiten behafteten Messwerten durch mathematische Berechnungen ein möglichst zuverlässiger Wert ermittelt wird. Es kann rechnergestützt durchgeführt werden. Die Verarbeitungsgeschwindigkeit hängt unter anderem von der Anzahl der zugeführten Messwerte ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Das mit der Anmeldung beanspruchte Verfahren ermöglicht es, dem Kalman-Filter eine geringere Zahl von Messwerten zuzuführen. Hierzu wird eine bestimmte Anzahl <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild43_42.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> von Messwerten, die durch einzelne Punkte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild44_43.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> in einem <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild45_44.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Raum dargestellt sind, zu einer <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="14px"
+                       src="bild46_45.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>-dimensionalen Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="25px"
+                       src="bild47_46.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> zusammengefasst, die bei möglichst geringem Radius alle Einzelpunkte umfasst. Dem Kalman-Filter werden anstelle der einzelnen Punkte <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="20px"
+                       src="bild48_47.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> lediglich die die Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="25px"
+                       src="bild49_48.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> charakterisierenden Daten zugeführt, nämlich der Mittelpunktvektor <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="32px"
+                       src="bild50_49.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> und der Radius <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="19px"
+                       src="bild51_50.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Anspruch 1 sei dem Fachmann, einem Maschinenbauingenieur mit fundierten Kenntnissen in der Messtechnik, insbesondere im Flugzeugbau, durch die veröffentlichte US-Anmeldung 2004/0012522 (D2) nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>In D2 sei ein System zur Ermittlung des Zustands eines Flugzeugs offenbart, bei dem Messdaten aus einer Trägheitsanlage (Inertial Navigation System, INS) und einem satellitengestützten Navigationssystem (Global Positioning System, GPS) eingesetzt würden. Diese Messwerte würden einem Kalman-Filter zugeführt, das den "wahren" Systemzustand abschätze. Bei einem der in D2 offenbarten Verfahren werde dem Kalman-Filter anstelle der Einzeldaten für das jeweilige Iterationsintervall nur der daraus errechnete Mittelwert zugeführt. In D2 werde zudem die Messrauschkovarianz R erwähnt. Für den Fachmann sei in diesem Zusammenhang selbstverständlich, dass dieser Wert auf der Angabe einer Messunsicherheit beruhe, die dem Filter in Gestalt einer geeigneten statistischen Größe zur Verfügung gestellt werden müsse. Aus D2 sei mithin bekannt, dass dem Kalman-Filter anstelle einer großen Menge von Messwerten lediglich zwei repräsentative statistische Größen, nämlich Mittelwert und Messunsicherheit, zugeführt werden könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Anspruch 1 unterscheide sich von dem in D2 offenbarten Verfahren lediglich dadurch, dass zur Repräsentation der Einzelwerte andere Größen eingesetzt würden, nämlich Mittelpunktvektor <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="32px"
+                       src="bild52_51.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> und Radius <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="19px"
+                       src="bild53_52.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> der Kugel <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="25px"
+                       src="bild54_53.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>. Diese Merkmale beruhten allenfalls auf Überlegungen aus der Datenmodellierung, der Statistik und der Geometrie. Sie setzten keine auf technische Überlegungen beruhenden Erkenntnisse voraus und seien daher bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen. Der Umstand, dass die zu verarbeitenden Daten technische Daten seien, könne für sich gesehen nicht zu einer abweichenden Beurteilung führen. Entsprechendes gelte für den Umstand, dass das beanspruchte Verfahren eine stärkere Berücksichtigung von Extremwerten zur Folge habe. Letzteres führe nicht ohne weiteres zu einer Erhöhung der Sicherheit. Die Frage, ob ein festgestellter Extremwert einen "realen Messwert" darstelle oder ein auf äußeren Störeinflüssen beruhendes Artefakt, sei eng verknüpft mit Erwägungen aus der Statistik und daher nicht eindeutig zu beantworten. Zudem sei in den ursprünglichen Unterlagen nicht erwähnt, dass eine stärkere Berücksichtigung von Extremwerten sich in irgendeiner Weise vorteilhaft auswirken könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der rechtlichen Überprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht ist das Patentgericht davon ausgegangen, dass der Gegenstand der Anmeldung gemäß § 1 PatG dem Patentschutz zugänglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Eine Erfindung auf einem Gebiet der Technik im Sinne von § 1 Abs. 1 PatG liegt nach der Rechtsprechung des Senats jedenfalls dann vor, wenn die beanspruchte Lehre den Einsatz technischer Geräte umfasst (BGH, Urteil vom 24. Februar 2011 - X ZR 121/09, GRUR 2011, 610 Rn. 16 - Webseitenanzeige).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Anmeldung erfüllt diese Voraussetzung. Das beanspruchte Verfahren setzt den Einsatz einer Trägheitsanlage in einem Flugzeug voraus. Zudem erfordert die Anwendung des Kalman-Filters den Einsatz einer Datenverarbeitungsanlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Verfahren der elektronischen Datenverarbeitung sind im Hinblick auf § 1 Abs. 3 Nr. 3 PatG nur dann patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen. Sie sind vom Patentschutz ausgeschlossen, wenn sie losgelöst von einer konkreten technischen Umsetzung beansprucht werden. Für mathematische Methoden im Sinne von § 1 Abs. 3 Nr. 1 PatG gilt insoweit entsprechendes (BGH, Beschluss vom 17. Oktober 2001 - X ZB 16/00, BGHZ 149, 68, 75 f. = GRUR 2002, 143, 145 - Suche fehlerhafter Zeichenketten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Das mit der Anmeldung beanspruchte Verfahren wird den sich daraus ergebenden Anforderungen gerecht. Es dient der Ermittlung eines Flugzeugzustands durch Auswertung von Messwerten, die technische Parameter betreffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>2. Im Ansatz zutreffend ist das Patentgericht davon ausgegangen, dass Merkmale, die sich in der Anwendung einer mathematischen Methode erschöpfen, bei der Prüfung auf erfinderische Tätigkeit nicht berücksichtigt werden dürfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Senats und der Entscheidungspraxis der Beschwerdekammern des Europäischen Patentamts dürfen bei der Prüfung, ob der Gegenstand einer Anmeldung auf erfinderischer Tätigkeit beruht, nur diejenigen Anweisungen berücksichtigt werden, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen (BGH, Urteil vom 18. Dezember 2012 - X ZR 3/12, GRUR 2013, 275 Rn. 41 - Routenplanung; EPA, Stellungnahme vom 12. Mai 2010 - G 3/08, ABl. 2011, 10 = GRUR Int. 2010, 608 Rn. 10.33 ff. - Computerprogramme).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Nicht berücksichtigungsfähig sind deshalb Anweisungen, die ausschließlich Aspekte betreffen, die nach § 1 Abs. 3 Nr. 2 bis 4 PatG von der Patentierung ausgenommen sind, zum Beispiel die Auswahl oder Verarbeitung von Daten (BGH, GRUR 2013, 275 Rn. 42), die Wiedergabe von Informationen (BGH, GRUR 2013, 275 Rn. 43; Urteil vom 26. Oktober 2010 - X ZR 47/07, GRUR 2011, 125 Rn. 39 - Wiedergabe topografischer Informationen), wirtschaftliche oder geschäftliche Tätigkeiten (EPA, Entscheidung vom 8. September 2000 - T 931/95 ABl. 2001, 441 = GRUR Int. 2002, 87 Rn. 8 - Steuerung eines Pensionssystems / PBS Partnership) oder ästhetische Merkmale (EPA, Entscheidung vom 2. Juni 2006 - T 928/03 Rn. 4.1.2 Video game / Konami).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Für die nach § 1 Abs. 3 Nr. 1 PatG als solche von der Patentierung ausgeschlossenen mathematischen Methoden gilt im Grundsatz das Gleiche.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Allerdings kann eine mathematische Methode nicht ohne weiteres als nicht-technisch angesehen werden. Technisches Handeln besteht im Arbeiten mit den Mitteln der Naturkräfte (BGH, Beschluss vom 27. März 1969 - X ZB 15/67, BGHZ 52, 74, 77 ff. = GRUR 1969, 672 - Rote Taube; Beschluss vom 19. Oktober 2004 - X ZB 33/03, GRUR 2005, 141, 142 - Anbieten interaktiver Hilfe). Die diesen zugrundeliegenden Gesetzmäßigkeiten werden in aller Regel mit Hilfe mathematischer Methoden beschrieben. Die Anwendung solcher Methoden zur Erzielung eines bestimmten technischen Erfolgs ist deshalb ihrerseits dem Gebiet der Technik zuzuordnen. Als nicht-technisch kann eine mathematische Methode nur dann angesehen werden, wenn sie im Zusammenhang mit der beanspruchten Lehre keinen Bezug zur gezielten Anwendung von Naturkräften aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>3. Entgegen der Auffassung des Patentgerichts führt die Anwendung dieser Grundsätze dazu, dass die in der Anmeldung beanspruchten Merkmale d bis g bei der Prüfung auf erfinderische Tätigkeit zu berücksichtigen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>a) Diese Merkmale betreffen für sich gesehen zwar Rechenoperationen, die im Wesentlichen die Anwendung statistischer Methoden betreffen. Diese Rechenschritte weisen bei dem beanspruchten Verfahren aber einen hinreichenden Bezug zur gezielten Anwendung von Naturkräften auf. Die mit ihnen bewirkte Zusammenfassung von Messwerten zur Beschleunigung der mit dem Kalman-Filter verbundenen weiteren Rechenschritte dient dem Zweck, anhand der zur Verfügung stehenden Messwerte zuverlässigere Erkenntnisse über den Zustand des Flugzeugs zu gewinnen und damit die Funktionsweise des Systems, das der Ermittlung dieses Zustands dient, zu beeinflussen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung des Patentgerichts ist in diesem Zusammenhang unerheblich, ob dieses Problem bereits durch andere im Stand der Technik bekannte Verfahren gelöst wurde und ob die Merkmale d bis g im Vergleich zu den im Stand der Technik bekannten Verfahren zu einer Verbesserung führen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Patentfähigkeit eines Gegenstands hängt nicht davon ab, ob dieser einen technischen Fortschritt mit sich bringt. Zwar ist es auch nach dem Wegfall dieses nach früherem Recht geltenden Schutzerfordernisses nicht Sinn des Patentrechts, Lehren zu schützen, die technisch unsinnig sind (BGH, Urteil vom 20. März 2001 - X ZR 177/98, BGHZ 147, 137, 143 f. = GRUR 2001, 730, 732 - Trigonellin). Ein Gegenstand, der neu ist und auf erfinderischer Tätigkeit beruht, kann aber nicht allein deshalb als nicht patentfähig angesehen werden, weil er im Vergleich zum Stand der Technik keinen erkennbaren Vorteil bietet. Ein solcher Gegenstand ist vielmehr jedenfalls dann patentfähig, wenn mit ihm im Vergleich zum Stand der Technik ein anderer Weg aufgezeigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Diesen Anforderungen wird der Gegenstand der Anmeldung nach den vom Patentgericht getroffenen tatsächlichen Feststellungen gerecht. Die vom Stand der Technik abweichende Art, in der mehrere Einzelmesswerte zusammengefasst werden, führt nach den Feststellungen des Patentgerichts dazu, dass Extremwerte stärker ins Gewicht fallen, was in bestimmten Situationen von Vorteil, in anderen Situationen hingegen von Nachteil sein kann. Damit ist ein alternativer Weg zur Ermittlung des Zustands des Flugzeugs aufgezeigt, der jedenfalls nicht als technisch unsinnig angesehen werden kann. Angesichts dessen ist unerheblich, ob eine der in Betracht kommenden Vorgehensweisen insgesamt oder zumindest für bestimmte Anwendungsfälle als vorzugswürdig anzusehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>IV. Das Patentgericht wird nach der Zurückverweisung deshalb zu prüfen haben, ob der Gegenstand der Anmeldung auch bei Berücksichtigung der Merkmale d bis g durch den Stand der Technik D2 nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>V. Eine mündliche Verhandlung hat der Senat nicht für erforderlich gehalten (§ 107 Abs. 1 Halbsatz 2 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                       Grabinski                             Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                    Deichfuß                        Kober-Dehm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE313902015&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

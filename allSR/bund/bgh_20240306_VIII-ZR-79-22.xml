@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304152024</doknr>
+   <ecli>ECLI:DE:BGH:2024:060324UVIIIZR79.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>8. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240306</entsch-datum>
+   <aktenzeichen>VIII ZR 79/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 305 Abs 1 S 1 BGB, § 307 Abs 1 S 1 BGB, § 535 Abs 1 S 2 BGB, § 556 Abs 1 BGB, § 556 Abs 4 BGB</norm>
+   <vorinstanz>vorgehend LG Berlin, 15. März 2022, Az: 67 S 240/21, Urteil<br/>vorgehend AG Berlin-Mitte, 16. September 2021, Az: 12 C 421/18<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Wirksamkeit von Quotenabgeltungsklausel mit hypothetischen Betrachtungen in AGB und Individualmietvertrag</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Eine formularmäßige Quotenabgeltungsklausel in einem Wohnraummietvertrag benachteiligt den Mieter nach § 307 Abs. 1 Satz 1 BGB unangemessen und ist daher unwirksam, weil sie von dem Mieter bei Vertragsschluss verlangt, zur Ermittlung der auf ihn bei Vertragsbeendigung zukommenden Kostenbelastung mehrere hypothetische Betrachtungen anzustellen, die eine sichere Einschätzung der tatsächlichen Kostenbelastung nicht zulassen (Bestätigung von Senatsurteil vom 18. März 2015 - VIII ZR 242/13, BGHZ 204, 316 Rn. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Zur Zulässigkeit der individualvertraglichen Vereinbarung einer Quotenabgeltungsklausel in einem Wohnraummietvertrag (im Anschluss an Senatsurteil vom 16. Juni 2010 - VIII ZR 280/09, NJW-RR 2010, 1310 Rn. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des Landgerichts Berlin - Zivilkammer 67 - vom 15. März 2022 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Kläger waren Mieter einer Wohnung der Beklagten in Berlin. Sie traten aufgrund einer "Vereinbarung" mit der Beklagten in einen zwischen dieser und einem Vormieter geschlossenen Mietvertrag ein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Im Mietvertrag zwischen der Beklagten und dem Vormieter vom 29. Mai 2015 ist unter anderem folgendes festgehalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">"§ 11 Schönheitsreparaturen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">[…]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. Besteht das Mietverhältnis bei Auszug des Mieter schon länger als ein Jahr oder liegen die letzten Schönheitsreparaturen während der Mietzeit länger als ein Jahr zurück, und endet das Mietverhältnis vor Fälligkeit der Schönheitsreparaturen, ist der Mieter verpflichtet, anteilige Kosten für die Schönheitsreparaturen - einschließlich voraussichtlicher Mehrwertsteuer - entsprechend dem Kostenvoranschlag des Vermieters oder eines vom Vermieter eingeholten Kostenvoranschlags eines Fachbetriebes oder eines Bauingenieurs zu zahlen, die dem Grad der durch sie erfolgten Abnutzung der jeweiligen Teilbereiche der Wohnung entsprechen. […]"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die zwischen den Parteien geschlossene "Vereinbarung zum Mietvertrag vom 29. Mai 2015" enthält unter anderem folgende Regelungen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">"§ 1 Übernahme Mietverhältnis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Die Parteien sind sich darüber einig, dass der Nachmieter [die Kläger] anstelle des Mieters in den Mietvertrag vom 29. Mai 2015 mit allen Rechten und Pflichten zum 16. Oktober 2015 eintreten. […] Die Wohnung wird an den Nachmieter ohne Gebrauchsspuren übergeben. […]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">§ 2 Schönheitsreparaturen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Zwischen dem Mieter [dem Vormieter] und dem Vermieter wurde bei Vertragsabschluss des Mietvertrages vom 29. Mai 2015 individuell vereinbart, dass der Mieter die laufenden Schönheitsreparaturen und auch anteilige Schönheitsreparaturkosten trägt, wenn bei Beendigung des Mietverhältnisses Schönheitsreparaturen noch nicht fällig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Der Nachmieter übernimmt auch diese Verpflichtung. Zwischen den Parteien wurde dies ausdrücklich verhandelt. Der Vermieter war bereit, dem Nachmieter insoweit entgegenzukommen und die vom Mieter übernommene Verpflichtung zur Tragung der Schönheitsreparaturen bzw. anteiligen Schönheitsreparaturkosten zu übernehmen, wenn der Nachmieter im Gegenzug einen Betrag von 80,00 € zahlt. Die Miete wurde im Hinblick auf die Vereinbarung zwischen dem Vermieter und dem Mieter zur Tragung der Schönheitsreparaturen bzw. anteiligen Schönheitsreparaturkosten um diesen Betrag im Mietvertrag vom 29. Mai 2015 herabgesetzt. Der Nachmieter erklärt aber nach den Verhandlungen ausdrücklich, dass er den Vertrag insoweit unverändert übernimmt einschließlich der Verpflichtung zur Tragung der Schönheitsreparaturen bzw. anteiligen Schönheitsreparaturkosten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">§ 3 Mindestvertragslaufzeit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. […]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. […] Wird die Wohnung zurückgegeben, bevor die Schönheitsreparaturen fällig sind, verpflichtet sich der Nachmieter für das Entgegenkommen des Vermieters nochmals hinsichtlich der Verkürzung der Mindestlaufzeit auch anteilige Kosten für die Schönheitsreparaturen - einschließlich voraussichtlicher Mehrwertsteuer - entsprechend dem Kostenvoranschlag des Vermieters oder eines vom Vermieter eingeholten Kostenvoranschlags eines Fachbetriebes oder eines Bauingenieurs zu zahlen, die dem Grad der durch sie erfolgten Abnutzung der jeweiligen Teilbereiche der Wohnung entsprechen. […]"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Mietverhältnis der Parteien endete am 31. Mai 2018. Nach Rückgabe der Wohnung rechnete die Beklagte über die seitens der Kläger geleistete Kaution (3.205,49 €) ab und erklärte (unter anderem) mit anteiligen Schönheitsreparaturkosten - gestützt auf die Kalkulation eines Bauingenieurs - in Höhe von 1.253,34 € die Aufrechnung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Kläger sind der Ansicht, die Verpflichtung zur Zahlung anteiliger Schönheitsreparaturkosten sei ihnen nicht wirksam auferlegt worden, so dass die hierauf gestützte Aufrechnung der Beklagten ihren Kautionsrückzahlungsanspruch nicht teilweise zum Erlöschen gebracht habe. Die auf Zahlung von 1.253,34 € nebst Zinsen gerichtete Klage hat das Amtsgericht abgewiesen. Auf die hiergegen gerichtete Berufung der Kläger hat das Landgericht das erstinstanzliche Urteil abgeändert und die Beklagte antragsgemäß verurteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Mit der vom Berufungsgericht zugelassenen Revision begehrt die Beklagte die Wiederherstellung des amtsgerichtlichen Urteils.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht (LG Berlin, ZMR 2022, 473) hat zur Begründung seiner Entscheidung - soweit für das Revisionsverfahren von Interesse - im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Den Klägern stehe der Kautionsrückzahlungsanspruch in der geltend gemachten Höhe zu. Ein aufrechenbarer Gegenanspruch der Beklagten aus der zwischen den Parteien vereinbarten Quotenabgeltungsklausel sei unabhängig davon nicht gegeben, ob es sich bei dieser um eine Individual- oder um eine an den Vorschriften der §§ 305 ff. BGB zu messende Formularvereinbarung handele.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Quotenabgeltungsklausel sei bereits als Individualvereinbarung gemäß § 556 Abs. 4 Alt. 1 BGB unwirksam. Danach seien Vereinbarungen unwirksam, die zum Nachteil des Mieters von § 556 Abs. 1 BGB abwichen. Die in § 11 Nr. 6 des mit dem Vormieter geschlossenen und von den Klägern übernommenen Mietvertrags und die in § 3 Nr. 2 der Vereinbarung der Parteien enthaltenen Regelungen zur Tragung anteiliger Schönheitsreparaturkosten durch die Kläger wichen zu deren Nachteil von § 556 Abs. 1 Satz 1 BGB ab. Nach dieser Vorschrift sei den Parteien eines Wohnraummietvertrags lediglich eine Vereinbarung dahingehend gestattet, "dass der Mieter Betriebskosten trägt". Damit sei es im Wohnraummietrecht nur möglich, neben der Grundmiete die Betriebskosten, nicht aber Verwaltungs- oder Instandsetzungs- und Instandhaltungskosten auf den Mieter abzuwälzen. Bei der Vereinbarung der quotalen Abgeltung von Schönheitsreparaturen, die zum Zeitpunkt der Beendigung des Mietverhältnisses noch nicht einmal fällig seien, handele es sich offensichtlich weder um die Vereinbarung der Grundmiete noch um die Abwälzung von Betriebskosten im Sinne des § 556 Abs. 1 BGB. Damit unterfalle eine solche Vereinbarung, nicht anders als die einer "Verwaltungskostenpauschale" oder einer Kostenumlage von Kleinreparaturen, selbst als Individualvereinbarung zwingend dem "Unwirksamkeitsverdikt" des § 556 Abs. 4 BGB.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Eine der Beklagten günstigere Beurteilung wäre nur dann in Betracht zu ziehen, wenn die von den Parteien vereinbarte Quotenabgeltung als Bestandteil der Mietabrede oder als eine dieser zuzurechnenden Offenlegung der vermieterseitigen Kalkulation zu verstehen wäre. Dies sei jedoch nicht der Fall. Weder aus dem Wortlaut noch aus der Systematik, dem Sinn und Zweck oder den Begleitumständen des Mietvertrags ergebe sich ein belastbarer Anhalt dafür, dass die Parteien die Quotenabgeltung als Bestandteil der Vereinbarung zur Grundmiete verstanden hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Sollte es sich bei der Quotenabgeltungsklausel, auf welche die Beklagte ihren zur Aufrechnung gestellten Gegenanspruch stütze, deren Vorbringen zuwider um eine Allgemeine Geschäftsbedingung handeln, folge ihre Unwirksamkeit nicht nur aus § 556 Abs. 1, 4 BGB, sondern - gemäß der Rechtsprechung des Bundesgerichtshofs (Senatsurteil vom 18. März 2015 - VIII ZR 242/13) - wegen einer unangemessenen Benachteiligung der Kläger auch aus § 307 Abs. 1 Satz 1 BGB.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Diese Beurteilung hält rechtlicher Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Mit der vom Berufungsgericht gegebenen Begründung kann ein Anspruch der Beklagten auf Zahlung der für die Renovierung der Wohnung (anteilig) aufzuwendenden Kosten aus § 535 Abs. 1 BGB in Verbindung mit der zwischen den Parteien vereinbarten Quotenabgeltungsklausel, mit dem sie gegenüber dem von den Klägern geltend gemachten - hier nach dem Zugang der Abrechnung der Beklagten bei den Klägern auch fälligen (vgl. Senatsurteil vom 24. Juli 2019 - VIII ZR 141/17, NJW 2019, 3371 Rn. 24 f.) - Anspruch auf Rückzahlung der Mietkaution (§ 551 BGB in Verbindung mit der zwischen den Mietvertragsparteien getroffenen Sicherungsabrede) aufrechnen kann, nicht verneint werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>1. Noch rechtsfehlerfrei ist das Berufungsgericht allerdings davon ausgegangen, dass die Quotenabgeltungsklausel, die den Klägern als Mietern der Wohnung einen Teil der zukünftig entstehenden Kosten für Schönheitsreparaturen für den Fall auferlegt, dass das Mietverhältnis - wie hier - vor Fälligkeit der ihnen nach der mietvertraglichen Vereinbarung zukommenden Verpflichtung zur Vornahme von Schönheitsreparaturen endet, dann unwirksam ist - und damit ein aufrechenbarer Gegenanspruch der Beklagten nicht besteht -, wenn es sich bei dieser Vereinbarung um eine Allgemeine Geschäftsbedingung (§ 305 Abs. 1 Satz 1 BGB) handelt. Denn diese benachteiligt die Kläger nach § 307 Abs. 1 Satz 1 BGB unangemessen, weil sie von ihnen verlangt, zur Ermittlung der auf sie bei Vertragsbeendigung zukommenden Kostenbelastung mehrere hypothetische Betrachtungen anzustellen, die eine sichere Einschätzung der tatsächlichen Kostenbelastung nicht zulassen (vgl. Senatsurteil vom 18. März 2015 - VIII ZR 242/13, BGHZ 204, 316 Rn. 24 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>2. Rechtsfehlerhaft hat das Berufungsgericht jedoch angenommen, dass die Beklagte ihren zur Aufrechnung gestellten Zahlungsanspruch auch dann nicht mit Erfolg auf die Quotenabgeltungsklausel stützen kann, wenn diese zwischen den Parteien - was das Berufungsgericht offen gelassen hat und was daher zugunsten der Beklagten im Revisionsverfahren zu unterstellen ist - individualvertraglich vereinbart wurde. In diesem Fall ist die Vereinbarung einer Quotenabgeltungsklausel - anders als das Berufungsgericht gemeint hat - wirksam möglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Ansicht des Berufungsgerichts (unter Hinweis auf Schmidt-Futterer/Lehmann-Richter, Mietrecht, 15. Aufl., § 538 BGB Rn. 71, 60; nunmehr 16. Aufl., § 535 BGB Rn. 861, 856) folgt eine Unwirksamkeit der - unterstellt - individuell ausgehandelten Quotenabgeltungsklausel nicht aus der Bestimmung des § 556 Abs. 4 BGB. Hiernach ist bei der Vereinbarung von Betriebskosten eine zum Nachteil des Mieters von § 556 Abs. 1 BGB abweichende Vereinbarung unwirksam. Noch zutreffend folgert das Berufungsgericht hieraus, dass nur die enumerativ in der Betriebskostenverordnung aufgezählten Bewirtschaftungskosten als Betriebskosten, nicht jedoch andere Kosten, wie etwa (allgemeine) Verwaltungskosten, im Wege einer Vereinbarung nach § 556 Abs. 1 BGB, § 1 Abs. 1 BetrKV als Pauschale oder als Vorauszahlung auf den Mieter umgelegt werden können (vgl. Senatsurteil vom 19. Dezember 2018 - VIII ZR 254/17, NJW-RR 2019, 721 Rn. 13). Zu Unrecht hat das Berufungsgericht aber angenommen, dass die Vorschrift des § 556 Abs. 4 BGB jedwede Belastung des Mieters mit sonstigen Kosten, mithin auch solchen, die ihre Rechtsgrundlage in anderen Bestimmungen haben, ausschließt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>aa) Im Streitfall geht es - worauf die Revision zutreffend hinweist - nicht um die Übernahme von Betriebskosten nach Maßgabe des § 556 Abs. 1 BGB durch die Kläger. Deren hier in Rede stehende Pflicht zur anteiligen Tragung von Kosten noch nicht fälliger Schönheitsreparaturen hat ihre Grundlage nicht in § 556 Abs. 1 BGB. Hiervon ist offensichtlich auch das Berufungsgericht ausgegangen, da es ausgeführt hat, es handele sich vorliegend nicht "um die Abwälzung von Betriebskosten im Sinne des § 556 Abs. 1 BGB". Damit kann aber - anders als das Berufungsgericht angenommen hat - das Abweichungsverbot des § 556 Abs. 4 BGB von vornherein einer Auferlegung von Kosten für noch nicht fällige Schönheitsreparaturen auf die Kläger als Mieter nicht entgegenstehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Pflicht zur Ausführung von Schönheitsreparaturen und zur Tragung diesbezüglicher anteiliger Kosten aufgrund der Quotenabgeltungsklausel betrifft vielmehr die Instandhaltungs- und Instandsetzungspflicht aus § 535 Abs. 1 Satz 2 BGB. Denn die Ausführung von Schönheitsreparaturen ist nach ständiger Rechtsprechung des Senats ein Teil der - grundsätzlich den Vermieter treffenden (§ 535 Abs. 1 Satz 2 BGB) - Instandhaltungspflicht (vgl. Senatsurteile vom 28. Februar 2018 - VIII ZR 157/17, BGHZ 218, 22 Rn. 15; vom 8. Juli 2020 - VIII ZR 163/18, BGHZ 226, 208 Rn. 16, und VIII ZR 270/18, WuM 2020, 559 Rn. 16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die Bestimmung des § 535 Abs. 1 Satz 2 BGB ist dispositiv (vgl. Senatsurteile vom 8. Juli 2020 - VIII ZR 163/18, aaO, und VIII ZR 270/18, aaO). Die Pflicht zur Ausführung von Schönheitsreparaturen kann deshalb sowohl im Wege Allgemeiner Geschäftsbedingungen - insoweit allerdings eingeschränkt (vgl. Senatsurteile vom 18. März 2015 - VIII ZR 185/14, BGHZ 204, 302 Rn. 15, 35; vom 22. August 2018 - VIII ZR 277/16, NJW 2018, 3302 Rn. 20; vom 8. Juli 2020 - VIII ZR 163/18, aaO Rn. 15) - als auch individualvertraglich (vgl. BT-Drucks. 14/4553, S. 40; Staudinger/V. Emmerich, BGB, Neubearb. 2021, § 535 Rn. 109; MünchKommBGB/Häublein, 9. Aufl., § 535 Rn. 146; BeckOK-Mietrecht/Siegmund, Stand: 1. November 2023, § 535 Rn. 5246; siehe auch Senatsurteil vom 7. Juni 1989 - VIII ZR 91/88, BGHZ 108, 1, 8 [zu Kleinreparaturklauseln]) auf den Mieter übertragen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>bb) Hiervon ausgehend kann nach der Rechtsprechung des Senats eine Quotenabgeltungsklausel zwar nicht im Wege Allgemeiner Geschäftsbedingungen wirksam zum Inhalt des Wohnraummietvertrags gemacht werden (siehe oben unter II 1). Sie kann jedoch - entgegen der Auffassung des Berufungsgerichts - grundsätzlich individualvertraglich wirksam zwischen den Mietvertragsparteien vereinbart werden (vgl. bereits Senatsurteil vom 16. Juni 2010 - VIII ZR 280/09, NJW-RR 2010, 1310 Rn. 9; ebenso BeckOK-BGB/Zehelein, Stand: 1. November 2023, § 535 Rn. 445). Die Bestimmung des § 556 Abs. 4 BGB steht dem - wie ausgeführt - nicht entgegen. Anhaltspunkte für einen möglichen Verstoß der Quotenabgeltungsklausel gegen die Vorschriften der §§ 134, 138 BGB sind im Streitfall weder festgestellt noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Anders als das Berufungsgericht gemeint hat, ergibt sich Gegenteiliges nicht aus der Entscheidung des Senats zur Unwirksamkeit der Übertragung einer Verwaltungskostenpauschale im Wege des § 556 Abs. 1 BGB auf den Mieter (vgl. Senatsurteil vom 19. Dezember 2018 - VIII ZR 254/17, NJW-RR 2019, 721 Rn. 14). Entgegen der Ansicht des Berufungsgerichts und der Revisionserwiderung folgt hieraus nicht, dass ein Wohnraummieter in keinem Fall mit den Kosten von Instandhaltungs- oder Instandsetzungsmaßnahmen belastet werden kann. Derartige Kosten waren nicht Gegenstand der vorgenannten Senatsentscheidung, da die Verwaltungskosten, anders als die Schönheitsreparaturen, nicht der Instandhaltungs- beziehungsweise Instandsetzungspflicht des Vermieters im Sinne der - dispositiven - Bestimmung des § 535 Abs. 1 Satz 2 BGB unterfallen, sondern ihrer Natur nach - nicht umlagefähige (§ 1 Abs. 2 Nr. 1 BetrKV) - Betriebskosten sind (vgl. Senatsurteil vom 19. Dezember 2018 - VIII ZR 254/17, aaO Rn. 21). Als solche hatte sie der dortige Vermieter - vergeblich - versucht, im Wege des § 556 Abs. 1 BGB auf den Mieter zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Nach alledem kann das angegriffene Urteil des Berufungsgerichts keinen Bestand haben; es ist daher aufzuheben (§ 562 Abs. 1 ZPO). Der Rechtsstreit ist noch nicht zur Endentscheidung reif, da das Berufungsgericht - von seinem Rechtsstandpunkt aus folgerichtig - keine Feststellungen dazu getroffen hat, ob die Parteien die Quotenabgeltungsklausel individuell ausgehandelt haben (§ 305 Abs. 1 Satz 3 BGB) oder ob es sich hierbei um eine - dann unwirksame - Allgemeine Geschäftsbedingung (§ 305 Abs. 1 Satz 1 BGB) handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Diesbezüglich weist der Senat für das weitere Verfahren vorsorglich darauf hin, dass für ein - vom Amtsgericht bejahtes - Aushandeln der die Quotenabgeltungsklausel enthaltenen Vertragsbedingung im Sinne von § 305 Abs. 1 Satz 3 BGB erforderlich ist, dass der Verwender die betreffende Klausel inhaltlich ernsthaft zur Disposition stellt und sich deutlich und ernsthaft zur gewünschten Änderung der Klausel bereit erklärt (BGH, Urteil vom 13. März 2018 - XI ZR 291/16, WM 2018, 1046 Rn. 15; Beschlüsse vom 20. November 2012 - VIII ZR 137/12, WuM 2013, 293 Rn. 7; vom 19. März 2019 - XI ZR 9/18, NJW 2019, 2080 Rn. 14). Allein die vorliegend durch die Beklagte erfolgte Eröffnung von Wahlmöglichkeiten zwischen mehreren vorformulierten Vertragsbedingungen macht die vom Vertragspartner - hier den Klägern - gewählte Alternative grundsätzlich noch nicht zu einer Individualabrede (vgl. BGH, Urteile vom 17. Februar 2010 - VIII ZR 67/09, BGHZ 184, 259 Rn. 18 [zum Stellen von Vertragsbedingungen]; vom 10. Oktober 2013 - VII ZR 19/12, NJW 2014, 206 Rn. 19 f.). Vielmehr muss auch hier der Vertragspartner des Klauselverwenders Gelegenheit erhalten, alternativ eigene Textvorschläge mit der effektiven Möglichkeit ihrer Durchsetzung einzubringen (vgl. BGH, Urteile vom 20. Januar 2016 - VIII ZR 26/15, NJW 2016, 1230 Rn. 25 mwN [zum Stellen von Vertragsbedingungen]; vom 13. März 2018 - XI ZR 291/16, aaO Rn. 16; BeckOK-BGB/Zehelein, Stand: 1. November 2023, § 535 Rn. 246; Erman/Looschelders, BGB, 17. Aufl., § 305 Rn. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund wird das Berufungsgericht zu berücksichtigen haben, dass allein der Umstand, dass die Beklagte den Klägern die Wahlmöglichkeit zwischen der Übernahme der Schönheitsreparaturen und der Zahlung einer um 80 € niedrigeren Miete einerseits sowie einer höheren Mietzahlung bei Nichtausführung von Schönheitsreparaturen andererseits eingeräumt hat, nach Vorstehendem nicht ohne Weiteres für ein Aushandeln im Sinne des § 305 Abs. 1 Satz 3 BGB und damit für das Vorliegen einer wirksamen (individualvertraglichen) Quotenabgeltungsklausel genügt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Dr. Bünger     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Dr. Schmidt     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Dr. Reichelt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Messing     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Dr. Böhm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304152024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

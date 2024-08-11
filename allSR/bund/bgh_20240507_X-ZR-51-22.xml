@@ -1,0 +1,1516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300692024</doknr>
+   <ecli>ECLI:DE:BGH:2024:070524UXZR51.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240507</entsch-datum>
+   <aktenzeichen>X ZR 51/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, Art 69 Abs 1 EuPatÜbk, § 4 S 1 PatG, § 14 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 20. April 2022, Az: 4 Ni 22/20 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Auslegung des Patentanspruchs bei Abgrenzung von konkret beschriebenem Stand der Technik; naheliegende Lösungsalternativen - Festhalteanordnung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Festhalteanordnung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Umstand, dass sich ein Patent von konkret beschriebenem Stand der Technik abgrenzt, kann von Bedeutung für die Auslegung des Patentanspruchs sein. Voraussetzung hierfür ist aber, dass aus der Patentschrift hinreichend deutlich hervorgeht, auf welche konkrete Ausgestaltung sich die Abgrenzung bezieht und durch welches Merkmal sich das Patent von dieser Ausgestaltung abgrenzt (Fortführung von BGH, Urteil vom 27. November 2018 - X ZR 16/17, GRUR 2019, 491 Rn. 19 f. - Scheinwerferbelüftungssystem; Urteil vom 26. April 2022 - X ZR 44/20, GRUR 2022, 1129 Rn. 45 ff. - Verbundelement; Urteil vom 27. September 2022 - X ZR 87/20, GRUR 2022, 1731 Rn. 22, 28 - Brenngutkühlung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ausgehend vom Stand der Technik können sich je nach den Umständen verschiedene Möglichkeiten zum weiteren Vorgehen anbieten und dementsprechend das Beschreiten unterschiedlicher Wege naheliegend sein. Dann ist grundsätzlich nicht von Bedeutung, welche der Lösungsalternativen der Fachmann als erste in Betracht zöge (Bestätigung von BGH, Urteil vom 11. November 2014 - X ZR 128/09, GRUR 2015, 356 Rn. 31 - Repaglinid; Urteil vom 16. Februar 2016 - X ZR 5/14, GRUR 2016, 1023 Rn. 36 - Anrufroutingverfahren).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 20. April 2022 wird auf Kosten des Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Beklagte ist Inhaber des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 2 628 635 (Streitpatents), das am 14. Januar 2013 unter Inanspruchnahme einer deutschen Priorität vom 15. Februar 2012 angemeldet worden ist und eine Anordnung zum Festhalten eines Zweiradfahrzeugs auf einem Transportfahrzeug betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den neun Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Anordnung zum Festhalten eines Zweiradfahrzeugs mit Rahmen und Federung auf einem Transportfahrzeug, wobei mindestens ein Rad (1) des Zweiradfahrzeugs eine Hohlachse (2) mit einer koaxialen Durchgangsöffnung (6) und das Rad (1) einen kompressierbaren Reifen aufweist, mit einer Transportebene (20) des Transportfahrzeugs, auf die das Zweiradfahrzeug mit seinen Rädern stellbar ist, mit einem oder mehreren Zugorganen, die an dem Zweiradfahrzeug sowie an dem Transportfahrzeug angreifen und durch die das Zweiradfahrzeug gegen die Transportebene (20) des Transportfahrzeugs spannbar ist, wobei ein Befestigungselement die Hohlachse (2) des Rades (1) durchragend angeordnet ist, dadurch gekennzeichnet, dass an den beidseitig aus der Durchgangsöffnung (6) herausragenden Enden des Befestigungselementes jeweils ein spannbares Zugorgan mit seinem einen Ende befestigt ist, das mit seinem anderen Ende an dem Transportfahrzeug befestigbar ist, wobei das Rad (1) unter einer bestimmten Kompression seines Reifens gegen die Transportebene (20) verspannt ist, während der Rahmen und die Federung unverspannt bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Der Kläger macht geltend, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und sei nicht patentfähig. Ferner sei die Erfindung nicht so offenbart, dass ein Fachmann sie ausführen könne. Der Beklagte hat das Streitpatent in der erteilten und einer geänderten Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Dagegen richtet sich die Berufung des Beklagten, der seine erstinstanzlichen Anträge weiterverfolgt. Der Kläger tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat in der Sache keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Anordnung zum Festhalten eines Zweiradfahrzeugs auf einem Transportfahrzeug.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents war aus der US-amerikanischen Patentanmeldung 2006/0186162 eine Anordnung bekannt, bei der Zugorgane an einem Teil des Zweirads angreifen, um dieses auf die Transportebene eines Fahrzeugs zu spannen. Dabei würden die Federungen des Zweirads komprimiert. Dies führe zu einer Funktionsreduktion und letztendlich zu einem Ausfall der Federungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, eine Anordnung zu schaffen, die einen sicheren Transport des Zweirads ermöglicht, ohne dessen Federung zu beschädigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung schlägt das Streitpatent in Patentanspruch 1 eine Anordnung vor, deren Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1   Anordnung zum Festhalten eines Zweiradfahrzeugs mit Rahmen und Federung auf einem Transportfahrzeug,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2   wobei mindestens ein Rad (1) des Zweiradfahrzeugs eine Hohlachse (2) mit einer koaxialen Durchgangsöffnung (6) und das Rad (1) einen kompressierbaren Reifen aufweist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3   mit einer Transportebene (20) des Transportfahrzeugs, auf die das Zweiradfahrzeug mit seinen Rädern stellbar ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4   mit einem oder mehreren Zugorganen, die an dem Zweiradfahrzeug sowie an dem Transportfahrzeug angreifen und durch die das Zweiradfahrzeug gegen die Transportebene (20) des Transportfahrzeugs spannbar ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5   wobei ein Befestigungselement die Hohlachse (2) des Rades (1) durchragend angeordnet ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dadurch gekennzeichnet, dass</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5.1   an den beidseitig aus der Durchgangsöffnung (6) herausragenden Enden des Befestigungselementes jeweils ein spannbares Zugorgan mit seinem einen Ende befestigt ist, das mit seinem anderen Ende an dem Transportfahrzeug befestigbar ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6   wobei das Rad (1) unter einer bestimmten Kompression seines Reifens gegen die Transportebene (20) verspannt ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6.1   während der Rahmen und die Federung unverspannt bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Einige Merkmale bedürfen der näheren Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Die Merkmale 4, 5, 5.1, 6 und 6.1 haben die Funktion, eine Belastung der Federung des Zweirads zu vermeiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die in den Merkmalen 5 und 5.1 vorgegebene Anordnung der in Merkmal 4 vorgesehenen Zugorgane an den beiden Enden eines aus einer Hohlachse durchragenden Befestigungselements ermöglicht es, das Zweirad durch Verspannen (mindestens) eines Rads auf dem Transportfahrzeug zu befestigen, ohne dass Spannkräfte auf die Federung wirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Um dies sicherzustellen, schließt Merkmal 6.1 ein Verspannen von Rahmen und Federung ausdrücklich aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Durch diese Ausgestaltung wird verhindert, dass die Federung aufgrund permanenter Kompression während des Transports defekt geht (Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b) Das Verspannen des Rads muss nach Merkmal 6 in der Weise erfolgen, dass der Reifen unter einer bestimmten Kompression steht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Dies dient dem Zweck, eine sichere Befestigung des Zweirads und damit einen sicheren Transport zu gewährleisten (Abs. 7 f., Abs. 43).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht gehen beide Parteien davon aus, dass eine Kompression im Sinne von Merkmal 6 dadurch erfolgen muss, dass die vom Zugorgan auf das Befestigungselement und damit auf die Achse ausgeübte Kraft den Reifen zusammendrückt, also dessen Form verändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Eine Verformung, die sich allein aufgrund des Eigengewichts des Zweirads einstellt, genügt hierfür nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich aus der in Merkmal 6 formulierten Vorgabe, wonach das Rad unter einer Kompression des Reifens zu verspannen ist, die Kompression also eine Folge des Verspannens sein muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>bb) Zu Recht ist das Patentgericht davon ausgegangen, dass sich aus Merkmal 6 keine darüber hinausgehenden Anforderungen an die Messgröße und an das Maß der Krafteinwirkung ergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>(1) Der Vorgabe, dass eine bestimmte Kompression eintreten muss, lässt sich lediglich entnehmen, dass die Kompression deutlich über dasjenige Maß hinausgehen muss, das sich schon aufgrund des Eigengewichts des Zweirads einstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich entgegen der Auffassung der Berufung nicht, dass die Kompression äußerlich wahrnehmbar sein muss, etwa durch eine mit bloßem Auge zu erkennende Verformung des Reifens, oder dass eine Verringerung des Volumens und eine daraus resultierende Erhöhung des Innendrucks eintreten müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Weder Patentanspruch 1 noch die Beschreibung legen näher fest, in welcher Weise die Kompression zu erfolgen hat. Merkmal 6 sieht insbesondere nicht vor, dass die Kompression des Reifens mit einer Kompression der darin befindlichen Luft einhergehen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Gegen ein engeres Verständnis spricht zudem der Umstand, dass der Begriff "Kompression" in der Beschreibung auch im Zusammenhang mit dem als nachteilhaft bewerteten Zusammendrücken der Federung verwendet wird (Abs. 9). Dass der Begriff in diesem Zusammenhang eine andere Bedeutung haben soll als in dem im gleichen Absatz behandelten Zusammenhang mit der Kompression des Reifens, lässt sich der Patentschrift nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(2) Entgegen der Auffassung der Berufung ist Merkmal 6 auch nicht zu entnehmen, dass der Reifen so komprimiert sein muss, dass er beim Transport eine Dämpfungsfunktion übernehmen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Aus dem Wortlaut von Patentanspruch 1 ergibt sich eine solche Anforderung nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung bietet keine Anhaltspunkte, die ein engeres Verständnis nahelegen könnten. Sie erläutert die Funktion des Verspannens unter Kompression wie bereits erwähnt nur dahin, dass damit ein sicherer Transport des Zweirads gewährleistet werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund kann dahingestellt bleiben, ob eine solche Dämpfungsfunktion überhaupt erzielt werden kann und ob hierfür zwingend eine Steigerung des Innendrucks erforderlich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(3) Entgegen der Auffassung der Beklagten führt der Umstand, dass die Beschreibung des Streitpatents die US-amerikanische Patentanmeldung 2006/0171790 (NK8) ausdrücklich als Stand der Technik anführt (Abs. 4), ebenfalls nicht zu einem engeren Verständnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats kann der Umstand, dass sich ein Patent von konkret beschriebenem Stand der Technik abgrenzt, allerdings von Bedeutung für die Auslegung des Patentanspruchs sein. Voraussetzung hierfür ist aber, dass aus der Patentschrift hinreichend deutlich hervorgeht, auf welche konkrete Ausgestaltung sich die Abgrenzung bezieht und durch welches Merkmal sich das Patent von dieser Ausgestaltung abgrenzt (BGH, Urteil vom 27. November 2018 - X ZR 16/17, GRUR 2019, 491 Rn. 19 f. - Scheinwerferbelüftungssystem; Urteil vom 26. April 2022 - X ZR 44/20, GRUR 2022, 1129 Rn. 45 ff. - Verbundelement; Urteil vom 27. September 2022 - X ZR 87/20, GRUR 2022, 1731 Rn. 22, 28 - Brenngutkühlung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Diese Voraussetzung ist im Streitfall nicht erfüllt. Das Streitpatent zeigt nicht auf, von welcher in NK8 offenbarten Ausgestaltung es sich abgrenzt und aus welchem Merkmal sich diese Abgrenzung ergeben könnte. Zum Inhalt von NK8 wird nur referiert, daraus seien Anordnungen zum Festhalten eines Transportfahrzeugs mit starren Stangen vorbekannt (Abs. 3 f.). Nicht erwähnt ist, dass NK8 auch eine Befestigung mittels eines spannbaren Zugorgans offenbart. Dementsprechend fehlt es an einem Hinweis darauf, wodurch sich das Streitpatent von dieser Ausführungsform unterscheidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Patentanspruchs 1 beruhe gegenüber NK8 jedenfalls nicht auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>NK8 zeige die Befestigung eines Zweiradfahrzeugs auf einer Transportebene, bei der eine Querstange durch die Hohlachse eines Rads durchragend angeordnet ist, an der Zugorgane wie Kabel, Zuggurte, Ketten oder Seile angreifen. Es bleibe jedoch offen, mit welcher Spannung die Zugorgane an der Vorrichtung befestigt seien, um das Motorrad zu stützen. Für den Fachmann, einen Fachhochschulingenieur für Fahrzeugtechnik mit mehrjähriger Konstruktions- und Entwicklungserfahrung auf dem Gebiet der Befestigung und Transportsicherung von zu transportierenden Fahrzeugen, insbesondere von Zweiradfahrzeugen wie Motorrädern oder Fahrrädern, komme aber grundsätzlich nur eine spielfreie Abspannung in Frage, weil die genannten Zugorgane in NK8 anstelle eines starren und eigenstabilen Ständers eingesetzt würden. Um das Motorrad stabil zu befestigen, müsse daher notwendig das Rad unter einer bestimmten Kompression seines Reifens gegen die Transportebene verspannt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Mit seiner dagegen gerichteten Argumentation, für eine Kompression müsse auf den Reifen eine Kraft einwirken, die größer sei als die in entgegengesetzter Richtung wirkende Kraft, die von der im Inneren des Reifens vorhandenen Luft und dem elastischen Material des Reifens selbst erzeugt werde, lasse der Beklagte das Eigengewicht des Motorrads außer Betracht. Zwar möge die Annahme zutreffen, dass bei einer vom Hersteller angenommenen Aufstandsfläche von 30 cm2 und einem Reifendruck von 2,8 kg/cm2 eine Belastung von mindestens 84 kg erforderlich sei. Diese Annahme betreffe aber einen bereits mit der Masse des Zweirads belasteten Reifen. Daher müsse die einer Belastung von 84 kg entsprechende Kraft nicht allein durch die Zuggurte aufgebracht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Der mit dem Hilfsantrag verteidigte Gegenstand sei ausgehend von NK8 ebenfalls nahegelegt. Nach NK8 komme für die Anordnung der als Befestigungselement dienenden Querstange generell jedes hierfür geeignete, im Wesentlichen horizontale Hohlloch am Motorrad in Frage. Daher habe es nahegelegen, eine solche Querstange an der Hohlachse des Vorderrads eines etwa aus der US-amerikanischen Patentanmeldung 2009/0250564 (NK13) bekannten Motorrads anzuordnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand von Patentanspruch 1 beruht gegenüber NK8 nicht auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>a) NK8 betrifft die Sicherung von Motorrädern auf Transportflächen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung von NK8 führt aus, Motorräder böten in der Regel keine sinnvollen Verankerungspunkte, um ein Seil oder eine Kette am oder über dem Schwerpunkt des Fahrzeugs zu befestigen (Abs. 4 ff.). Das Anschweißen von Haken oder Ringen sei nicht hinnehmbar (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>b) Vor diesem Hintergrund schlägt NK8 vor, eine Querstange mit zwei Enden durch eine im Wesentlichen horizontale Bohrung zu führen und diese zur Befestigung an der Transportfläche zu nutzen (Abs. 13 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>aa) Ein erstes Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 2 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Bei diesem Beispiel wird die Querstange durch einen hohlen Schwingenlagerbolzen geführt (Abs. 25). Nach der Beschreibung kann sie auch durch eine Hinterradachse (Abs. 25 und Abs. 35) oder dergleichen (Abs. 35) geführt sein. Die Querstange ist an einem Ständer (32) abgestützt, der mit der Oberfläche (34), etwa der Ladefläche eines Lastwagens oder Anhängers verschraubt ist. Wenn der Ständer (32) starr an der Oberfläche (34) und an der Querstange befestigt sei, könne er die Bewegung des Motorrads (12) während des Transports ausreichend einschränken (Abs. 31).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Da das Motorrad in einer aufrechten Position transportiert werde, wobei beide Räder die Oberfläche (34) berührten, so dass der größte Teil des Gewichts über die Aufhängung des Motorrads (12) getragen werde, könne der Transport mit minimalem Platzbedarf durchgeführt werden (Abs. 39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>bb) Ein alternatives Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 8 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild2_1.png"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild2_1.png"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausgestaltung ist es nicht erforderlich, auf der Oberfläche (34) einen Ständer zu montieren. Stattdessen werden an der Vorrichtung (10) befestigte Kabel (50) verlängert, um das Motorrad (12) zu stützen. Statt der Kabel können auch Zuggurte, Ketten, Seile oder dergleichen eingesetzt werden (Abs. 40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>c) Wie auch die Berufung nicht in Zweifel zieht, sind damit die Merkmale 1 bis 4 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>d) Offenbart sind ferner die Merkmale 5 und 5.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Bei der zweiten Ausführungsform ist jedenfalls bei Einsatz von Zuggurten ein spannbares Zugorgan für die Befestigung an dem Transportfahrzeug vorgesehen, welches an einer Querstange befestigt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Die Anordnung des Befestigungselements in der Hohlachse eines Rads ist zwar, wie die Berufung im Ausgangspunkt zu Recht geltend macht, in Figur 8 nicht gezeigt. Eine solche Ausgestaltung ist aber durch den mehrfachen Hinweis in der Beschreibung offenbart, dass das Befestigungselement auch durch die hohle Achse eines Hinterrads verlaufen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Diese Hinweise finden sich zwar nur in der Schilderung des ersten Ausführungsbeispiels. Aus der Erläuterung, dass die beim zweiten Ausführungsbeispiel eingesetzten Zugelemente den beim ersten Ausführungsbeispiel vorgesehenen Ständer (32) ersetzen, ergibt sich aber hinreichend deutlich, dass andere Elemente, insbesondere die Querstange und deren Anordnung bei beiden Ausführungsbeispielen gleich ausgestaltet sein können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>e) Damit ist auch Merkmal 6.1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>In diesem Zusammenhang kann offenbleiben, ob die in Figur 8 dargestellte Anordnung zu einer Verspannung der Federung für die Schwinge mit dem Hinterrad führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend ausgeführt hat, ist eine solche Verspannung jedenfalls bei der in der Beschreibung von NK8 offenbarten Anordnung des Befestigungselements in einer hohlen Achse des Hinterrads ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Diese Ausgestaltung schlägt NK8 nicht nur als zusätzliche, sondern - jedenfalls auch - als alternative Befestigungsmöglichkeit vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>f) Im Ergebnis zu Recht hat das Patentgericht Merkmal 6 ausgehend von NK8 als naheliegend angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufung im Ausgangspunkt zu Recht geltend macht, sind allerdings weder der Beschreibung noch der Darstellung in Figur 8 Hinweise darauf zu entnehmen, wie stark die zum Stützen des Motorrads eingesetzten Kabel, Zuggurte oder dergleichen angespannt werden und ob dies zu einer Kompression des Reifens im Sinne von Merkmal 6 führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Ein Verspannen, das zu einer Verformung des Reifens führt, war jedoch durch den in NK8 vorgegebenen Zweck einer sicheren Befestigung nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Berufung bestand ausgehend von NK8 Anlass, nach einer zweckmäßigen Ausgestaltung der in Figur 8 dargestellten Ausführungsform in der Variante einer Befestigung an der hohlen Achse des Hinterrads zu suchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausgestaltung handelte es sich zwar nur um eine von mehreren in NK8 aufgezeigten Alternativen. Entgegen der Auffassung der Berufung ergab sich daraus jedoch kein Stufenverhältnis in dem Sinne, dass nur die als erstes erläuterte Ausführungsform oder die in den Figuren abgebildete Variante nähere Betrachtung verdiente. NK8 stellt sowohl die Befestigung an der hohlen Achse eines Hinterrads als auch die Stützung mit Zuggurten oder dergleichen als grundsätzlich gleichwertige Abwandlungen dar. Alle diese Ausgestaltungen boten sich damit als Ausgangspunkt für weitere Überlegungen zur praktischen Umsetzung an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>bb) Bei einer Befestigung etwa mittels Ketten, Seilen oder Zuggurten an einer hohlen Achse des Hinterrads lag es nahe, eine möglichst sichere Fixierung des Motorrads anzustreben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Anlass hierzu bestand insbesondere auch deshalb, weil die genannten Befestigungsmittel für sich genommen nicht geeignet sind, das Gewicht des Motorrads teilweise oder sogar zum größten Teil zu tragen, wie dies NK8 für den beim ersten Ausführungsbeispiel eingesetzten Ständer (32) ausführt, eine sichere Fixierung also auf andere Weise bewirkt werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Wie auch der Beklagte im Ausgangspunkt nicht in Zweifel zieht, ergab sich bei diesbezüglichen Überlegungen, dass das Motorrad umso stabiler befestigt ist, je stärker es gegen die Oberfläche (34) verspannt ist. Mangels konkreter Erkenntnisse über das erforderliche Maß an Stabilität lag es deshalb nahe, über die genannten Befestigungsmittel eine möglichst große Kraft auszuüben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Damit bestand Anlass, die Befestigungsmittel jedenfalls versuchsweise nicht nur so weit anzuspannen, dass sie straff sind, ohne den Reifen zu verformen, sondern die Möglichkeiten der Kraftentfaltung jedenfalls innerhalb desjenigen Bereichs auszunutzen, bei dem noch keine ernsthafte Gefahr einer Beschädigung von Motorrad, Transportfahrzeug oder Fixierungsmittel besteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Wie der Beklagte unter Bezugnahme auf das von ihm vorgelegte Privatgutachten darlegt, lassen sich jedenfalls bei Einsatz herkömmlicher Ratschegurte Kräfte erzielen, die zu einer Verformung des Reifens und damit zu einer Kompression im Sinne von Merkmal 6 führen. Der Einsatz solcher Gurte und eine Kraftentfaltung in dem im Privatgutachten geschilderten Umfang lagen vor dem aufgezeigten Hintergrund nahe, weil es sich um übliche Zuggurte handelt, wie sie in NK8 als geeignet angeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund kommt es auf die Erwägung des Patentgerichts, dass bei jeder Verspannung des Rads aufgrund dessen Vorbelastung zwangsläufig eine Kompression des Reifens eintritt, nicht an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Berufung erforderte eine solche Ausgestaltung nicht eine Vielzahl von Überlegungen, die in ihrer Gesamtheit nur mit erfinderischer Tätigkeit aufzufinden war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Ausgehend von der in NK8 als mögliche Ausgestaltung offenbarten Befestigung mittels Ketten, Seilen oder Zuggurten an einer hohlen Achse des Hinterrads bedurfte es der Auswahl eines gebräuchlichen Zugorgans und der Nutzung der damit eröffneten üblichen Möglichkeiten zur Kraftentfaltung. Dies hat das Patentgericht zu Recht als naheliegend angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Demgegenüber ist entgegen der Auffassung der Berufung unerheblich, dass NK8 keine Hinweise enthält, die auf die Federungseigenschaften oder eine Dämpfungsfunktion des komprimierten Reifens hindeuten. Wie oben aufgezeigt wurde, ist eine solche Ausgestaltung nach Merkmal 6 nicht erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Aus Überlegungen zu einer möglichen Beeinträchtigung des Reifens aufgrund der Kompression sowie zu rechtlichen Vorgaben für den Transport ergaben sich keine relevanten Bedenken gegen den aufgezeigten Lösungsweg. Auch das Streitpatent zeigt insoweit weder konkrete Gefahren auf noch Mittel, um diesen gegebenenfalls zu begegnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>dd) Dass eine sichere Befestigung möglicherweise auch durch eine Reduzierung des Reifeninnendrucks erreicht werden könnte, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>(1) Ein solches Vorgehen wäre mit dem Nachteil verbunden, dass das Motorrad nach dem Transport nicht ohne weiteres einsatzfähig wäre. Deshalb bestand Anlass, vorrangig nach Lösungen zu suchen, bei denen dieser Nachteil vermieden werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>(2) Unabhängig davon muss nach der Rechtsprechung des Senats nicht zwangsläufig immer nur eine Handlungsalternative naheliegend sein. Vielmehr können sich je nach den Umständen verschiedene Möglichkeiten zum weiteren Vorgehen anbieten und dementsprechend das Beschreiten unterschiedlicher Wege naheliegend sein. Dann ist grundsätzlich nicht von Bedeutung, welche der Lösungsalternativen der Fachmann als erste in Betracht zöge (BGH, Urteil vom 11. November 2014 - X ZR 128/09, GRUR 2015, 356 Rn. 31 - Repaglinid; Urteil vom 16. Februar 2016 - X ZR 5/14, GRUR 2016, 1023 Rn. 36 - Anrufroutingverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>So verhält es sich hier.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon, welche Option sich als erstes anbot, um das Motorrad für den Transport zu befestigen, war die vom Streitpatent geschützte Ausgestaltung aus den oben aufgezeigten Gründen ebenfalls naheliegend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>2. Der mit dem Hilfsantrag verteidigte Gegenstand beruht ebenfalls nicht auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>a) Nach dem Hilfsantrag soll Patentanspruch 1 um ein Merkmal 5.0 ergänzt werden, gemäß dem an der Hohlachse über eine Teleskopgabel ein Rahmen des Zweiradfahrzeugs abgestützt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>b) Eine solche Ausgestaltung ist in NK8 nicht ausdrücklich erwähnt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, führt NK8 als Alternative zu der in Figur 8 dargestellten Befestigung an einem Schwingerlagerbolzen nur die Befestigung an der hohlen Achse eines Hinterrads an. Bei einem Motorrad ist in der Regel jedoch nur das Vorderrad an einer Teleskopgabel befestigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>c) Zu Recht hat das Patentgericht die Befestigung an einem Vorderrad ausgehend von NK8 als naheliegend angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, führt die Beschreibung von NK8 aus, dass anstelle eines Schwingerlagerbolzens oder einer Hinterradachse grundsätzlich auch jede andere horizontale Bohrung zur Befestigung eingesetzt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund hat es das Patentgericht zu Recht als naheliegend angesehen, als alternative oder zusätzliche Befestigungsmöglichkeit auch die hohle Achse eines Vorderrads in Betracht zu ziehen. Damit lag eine Ausgestaltung nach Merkmal 5.0 nahe, weil ein Vorderrad typischerweise an einer Teleskopgabel befestigt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Zu Recht hat das Patentgericht in diesem Zusammenhang die Entgegenhaltung NK13 angeführt, die eine Befestigung an Vorder- und Hinterachse unter anderem in der nachfolgend wiedergegebenen Figur 1 zeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>NK13 offenbart zwar nur die Befestigung an Ständern ähnlich der ersten in NK8 vorgeschlagenen Ausführungsform. Aus dem Hinweis in NK8, dass anstelle eines Ständers auch Ketten oder Zuggurte eingesetzt werden können, ergab sich aber die Anregung, auch den Ständer am Vorderrad durch eine solche Befestigung zu ersetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pückler     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300692024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

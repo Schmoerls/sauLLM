@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300342014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Strafsenat</spruchkoerper>
+   <entsch-datum>20140129</entsch-datum>
+   <aktenzeichen>1 StR 654/13</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 22 StGB, § 23 StGB, § 152a Abs 1 Nr 1 StGB, § 152b Abs 1 StGB, § 152b Abs 2 StGB</norm>
+   <vorinstanz>vorgehend LG Freiburg (Breisgau), 6. August 2013, Az: 2 KLs 610 Js 31280/12 - AK 4/13<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Versuchte Fälschung von Zahlungskarten mit Garantiefunktion: Unmittelbares Ansetzen zur Tatausführung bei Erlangung von Kartendaten durch "Skimming" an Geldautomaten</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Zu der Fälschung von Zahlungskarten mit Garantiefunktion bei Erlangung der Kartendaten mittels „Skimming“ wird durch das Auswerten und Systematisieren der Videoaufzeichnungen der PIN-Eingaben sowie dem Erfassen der ausgelesenen Kartendaten der Kunden auf einem Datenträger noch nicht unmittelbar zu der Tat angesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Auf die Revision des Angeklagten wird das Urteil des Landgerichts Freiburg vom 6. August 2013 im Schuldspruch unter Erstreckung auf den Mitangeklagten S.   dahingehend abgeändert (§ 349 Abs. 4 StPO),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) dass der Angeklagte der gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion in Tateinheit mit Beihilfe zum gewerbs- und bandenmäßigen Computerbetrug sowie wegen Verabredung der gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion in zwei Fällen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) der Mitangeklagte S.    der gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion in drei Fällen, jeweils in Tateinheit mit Beihilfe zum gewerbs- und bandenmäßigen Computerbetrug, sowie wegen Verabredung zur gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion in zwei Fällen schuldig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die weitergehende Revision des Angeklagten wird verworfen (§ 349 Abs. 2 StPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Der Angeklagte hat die Kosten seines Rechtsmittels zu tragen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat den Angeklagten wegen gewerbs- und bandenmäßiger Fälschung von Zahlungskarten mit Garantiefunktion in Tateinheit mit Beihilfe zum gewerbs- und bandenmäßigen Computerbetrug (Fall III.B.3. der Urteilsgründe) sowie wegen versuchter gewerbs- und bandenmäßiger Fälschung von Zahlungskarten mit Garantiefunktion in zwei Fällen (Fälle III.B.4. und 5. der Urteilsgründe) zu einer Gesamtfreiheitsstrafe von vier Jahren und vier Monaten verurteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Verurteilung hält in den Fällen III.B.4. und 5. der Urteilsgründe rechtlicher Überprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Feststellungen des Landgerichts gehörten der Angeklagte und der nicht revidierende Mitangeklagte S.    einer professionell strukturierten Bande an, die sich gebildet hatte, um gewerbsmäßig Zahlungskarten mit Garantiefunktion zu fälschen. Dem Angeklagten und seinem Mitangeklagten kam dabei die Aufgabe von „Skimmern“ zu. Sie waren dafür zuständig, jeweils eine Kameraleiste an Geldautomaten anzubringen, um mit Hilfe der Kamera die Eingabe der PIN durch die Nutzer des Automaten zu filmen. Zudem brachten sie Kartenlesegeräte auf die jeweilige Einzugsvorrichtung der Geldautomaten für die verwendeten Zahlungskarten auf. Damit konnten die auf dem Magnetstreifen der Karten gespeicherten Daten ausgelesen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Dem Angeklagten fiel zusätzlich die Aufgabe zu, die aufgenommenen Videoaufzeichnungen auszuwerten, die PINs der Nutzer anhand der Videoaufzeichnungen herauszuschreiben und zu ordnen, sowie die - für ihn nicht lesbaren - ausgelesenen Kartendaten auf einen Datenträger zu überschreiben, um diese zusammen mit den PINs unter Verwendung von Chat- oder Messenger-Programmen über das Internet an namentlich nicht ermittelte Bandenmitglieder im Ausland zu übermitteln. Diese stellten auf der Grundlage der übersandten Informationen die später zur Bargeldabhebung eingesetzten Kartendubletten her. Für seine Tätigkeit war dem Angeklagten von dem Anführer der Bande jeweils die Hälfte der mit den Kartendubletten abgehobenen Gelder zugesagt worden. Der Angeklagte sollte davon einen Teil an den Mitangeklagten S.   weitergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Im Fall III.B.4. der Urteilsgründe hatten der Angeklagte und S.   in einem Zeitraum von rund einer Woche täglich die beschriebenen Skimming-Gerätschaften an dem Geldautomaten in einer Bankfiliale an- und abgebaut. Dabei konnten in einer nicht näher festgestellten Anzahl Kartendaten ausgelesen und PINs ermittelt werden. Die entsprechenden Daten befanden sich im Zeitpunkt der Festnahme des Angeklagten und seines Mitangeklagten auf einem Datenträger. Der Angeklagte hatte auch bereits Teile der Videoaufzeichnungen ausgewertet, die PINs erfasst und geordnet. Eine Übertragung der Daten an die im Ausland agierenden Bandenmitglieder ließ sich nicht feststellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Entsprechend verhielt es sich nach den Feststellungen im Fall III.B.5. bezüglich des „Skimmings“ in einer weiteren Bankfiliale. Die dort in Erfahrung gebrachten Daten waren von dem Angeklagten nach teilweiser Auswertung der gefertigten Aufnahmen bereits auf einem Datenträger erfasst worden. Die Übermittlung der Daten konnte das Tatgericht wiederum nicht feststellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>2. Diese Feststellungen tragen die Schuldsprüche wegen versuchter gewerbs- und bandenmäßiger Fälschung von Zahlungskarten mit Garantiefunktion nicht. Weder mit dem Verwenden der „Skimming-Gerätschaften“ an den Geldautomaten noch mit dem Auswerten der Videoaufzeichnungen, dem systematischen Erfassen der so ermittelten PINs oder dem Aufspielen der ausgelesenen Kartendaten auf einen Datenträger haben der Angeklagte oder der Mitangeklagte S.   unmittelbar zu der Begehung einer Tat gemäß § 152b Abs. 1, Abs. 2, Abs. 4 i.V.m. § 152a Abs. 1 Nr. 1 StGB angesetzt. Ein unmittelbares Ansetzen zu den Taten in den Fällen III.B.4. und 5. begründende Verhaltensweisen anderer Bandenmitglieder, die als Mittäter an den fraglichen Taten beteiligt waren (zum einheitlichen Versuchsbeginn für sämtliche Mittäter vgl. Fischer, StGB, 61. Aufl., § 22 Rn. 21 mwN), hat das Tatgericht ebenfalls nicht festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>a) Gemäß § 22 StGB versucht eine Straftat, wer nach seiner Vorstellung von der Tat unmittelbar zu der Verwirklichung des Tatbestandes ansetzt. Der Verwirklichung eines Tatbestandsmerkmals bedarf es dafür nicht. Es genügt vielmehr, dass der Täter solche Handlungen vornimmt, die nach seinem Tatplan der Erfüllung eines Merkmals des gesetzlichen Tatbestands vorgelagert sind und unmittelbar in die straftatbestandliche Handlung einmünden. Der Versuch einer Straftat erstreckt sich damit auch auf Handlungen, die bei ungestörtem Fortgang unmittelbar zur Tatbestandsverwirklichung führen sollen oder die in unmittelbarem räumlichen und zeitlichen Zusammenhang mit ihr stehen. Dies ist der Fall, wenn der Täter subjektiv die Schwelle zum „jetzt geht es los“ überschreitet, es eines weiteren Willensimpulses nicht mehr bedarf und er objektiv zur tatbestandlichen Ausführungshandlung dergestalt ansetzt, dass sein Tun ohne Zwischenakte in die Erfüllung des Tatbestands übergeht (BGH, Urteile vom 9. Oktober 2002 - 5 StR 42/02, BGHSt 48, 34, 36 mwN; vom 27. Januar 2011 - 4 StR 338/10, NStZ 2011, 517 Rn. 6; Beschlüsse vom 15. März 2011 - 3 StR 15/11, wistra 2011, 299, 300 Rn. 5; vom 11. August 2011 - 2 StR 91/11, NStZ-RR 2011, 367, 368).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die vorstehenden abstrakt-generellen Maßstäbe des Versuchsbeginns bedürfen angesichts der Vielzahl denkbarer Sachverhaltsgestaltungen stets einer wertenden Konkretisierung unter Beachtung der Umstände des Einzelfalls (BGH, Urteile vom 12. Dezember 2001 - 3 StR 303/01, NJW 2002, 1057; vom 27. Januar 2011 - 4 StR 338/10, NStZ 2011, 517 Rn. 6). Auf die strukturellen Besonderheiten des in Frage kommenden Tatbestands ist dabei Bedacht zu nehmen (BGH, Urteil vom 7. November 2007 - 5 StR 371/07, NStZ 2008, 409, 410; Beschluss vom 15. März 2011 - 3 StR 15/11, wistra 2011, 299, 300 Rn. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Bei der Bestimmung des Versuchsbeginns zu der Straftat des Nachmachens (§ 152a Abs. 1 Nr. 1 StGB) einer Zahlungskarte mit Garantiefunktion i.S.v. § 152b Abs. 4 StGB muss - den vorgenannten Grundsätzen entsprechend - das unmittelbare Ansetzen auf die Fälschungshandlung, also das Übertragen der zuvor ausgespähten Kartendaten auf die Kartendublette, bezogen werden (vgl. BGH aaO, wistra 2011, 299, 300 Rn. 6; Saliger StV 2012, 528 mwN). In der Rechtsprechung des Bundesgerichtshofs ist deshalb anerkannt, dass das bloße Anbringen von Skimming-Gerätschaften an einem Geldautomaten noch kein unmittelbares Ansetzen zu der Tat des Nachmachens von Zahlungskarten begründet (BGH aaO, wistra 2011, 299, 300 Rn. 6; BGH, Beschluss vom 11. August 2011 - 2 StR 91/11, NStZ-RR 2011, 367, 368; siehe auch BGH, Beschluss vom 14. September 2010 - 5 StR 336/10, NStZ 2011, 89). Gelingt es dem Täter nicht, die mit Hilfe der Skimming-Geräte aufgezeichneten Datensätze in seinen Besitz zu bringen, fehlt es ebenfalls am Versuchsbeginn des Nachmachens von Zahlungskarten (BGH aaO, NStZ 2011, 89).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>c) Ob bei der gebotenen wertenden tatbestands- und einzelfallbezogenen Konkretisierung des Versuchsbeginns ein unmittelbares Ansetzen zu der Tat gemäß § 152b i.V.m. § 152a Abs. 1 Nr. 1 StGB bei dem zeitlich gestreckten Vorgang von der Erlangung der Kartendaten durch die Skimming-Gerät-schaften bis zu der Übertragung dieser Daten auf die Kartendubletten vor dem Beginn der Fälschungshandlung selbst gegeben sein kann, ist in der Rechtsprechung des Bundesgerichtshofs noch nicht vollständig geklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Der 4. Strafsenat hat bei der geplanten Zahlungskartenfälschung unter Verwendung mittels „Skimming“ erlangter Kartendaten die Übermittlung der gewonnenen, aber noch nicht ausgewerteten Daten an die für die Herstellung der Dubletten zuständigen Mittäter im Ausland als unmittelbares Ansetzen ausreichen lassen (BGH, Urteil vom 27. Januar 2011 - 4 StR 338/10, NStZ 2011, 517 f. Rn. 8). Dabei hat er maßgeblich auf das - für den konkreten Fall festgestellte - eingespielte System von Tatbeiträgen abgestellt, innerhalb dessen den für die Erstellung der Dubletten zuständigen Mittätern im Ausland die einzelnen Datenübersendungen jeweils avisiert wurden. Der die Übersendung veranlassende Angeklagte habe damit „gleichsam einen automatisierten Ablauf“ in Gang gesetzt, bei dem die Auswertung der Speichermedien durch Abgleich der Videoaufzeichnungen und der ausgelesenen Kartendaten als der Fälschung vorgelagerte Verhaltensweisen bei wertender Betrachtung keine dem Versuchsbeginn entgegen stehenden Zwischenschritte bedeuteten (BGH aaO, NStZ 2011, 517 f. Rn. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der 3. Strafsenat des Bundesgerichtshofs hat dahinstehen lassen, ob dieser Rechtsprechung zu folgen wäre (BGH, Beschluss vom 15. März 2011 - 3 StR 15/11, wistra 2011, 299, 300 Rn. 6). Der 2. Strafsenat nimmt ein unmittelbares Ansetzen zum Nachmachen von Zahlungskarten mit Garantiefunktion „erst dann“ an, wenn der „Täter vorsätzlich und in der tatbestandsmäßigen Absicht mit der Fälschungshandlung selbst beginnt“ (BGH, Beschluss vom 11. August 2011 - 2 StR 91/11, NStZ-RR 2011, 367, 368).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>d) Der Senat braucht nicht zu entscheiden, ob und gegebenenfalls unter welchen Voraussetzungen ein unmittelbares Ansetzen zum Nachmachen von Zahlungskarten mit Garantiefunktion vor dem Beginn der eigentlichen Fälschungshandlung den Versuchsbeginn begründen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die vom Tatgericht für die Fälle III.B.4. und 5. festgestellten Umstände lassen selbst unter Berücksichtigung der vom 4. Strafsenat vertretenen Rechtsauffassung die Annahme unmittelbaren Ansetzens jedenfalls nicht zu. Es wären hier auch bei wertender Betrachtung der innerhalb der Bande verabredeten und durchgeführten Abläufe durch den Angeklagten weitere Zwischenschritte bis zu dem Beginn der Fälschungshandlung durch das „Beschreiben“ der Kartendubletten erforderlich gewesen. Anders als in der dem 4. Strafsenat vorliegenden tatsächlichen Konstellation fehlte es hier nicht nur an der Weitergabe der ermittelten Kartendaten und den die PINs betreffenden Informationen an die für den Fälschungsakt allein zuständigen weiteren Mittäter. Vielmehr war selbst die dem Angeklagten nach der verabredeten Vorgehensweise überantwortete Aufgabe nicht vollständig abgeschlossen. Nach den Urteilsfeststellungen hatte er in beiden Fällen lediglich einen Teil der täglich gefertigten Videoaufnahmen hinsichtlich der Ermittlung der PINs ausgewertet und die erkannten Identifikationsnummern geordnet (UA S. 13). Es sollte aber eine Übersendung sämtlicher Informationen („Kartendaten und zugehörige PINs“; UA S. 8) per Internetübertragung an die im Ausland tätigen Mitglieder erfolgen. Wie sich weiterhin aus dem Urteil ergibt, erfolgten die Informationsübermittlungen nicht täglich nach dem jeweiligen Abbau der Skimming-Gerätschaften, sondern erst nach einer gewissen Dauer der Informationsauswertung durch den Angeklagten. In den fraglichen Fällen hatten der Angeklagte und sein Mitangeklagter die Skimming-Gerätschaften zumindest jeweils über einen Zeitraum von acht bzw. sieben Tagen an den Geldautomaten täglich angebracht und wieder abgebaut, ohne dass eine Weitergabe erlangter Informationen an die mit dem Fälschen der Dubletten befassten Mittäter festgestellt werden konnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen kann nicht davon gesprochen werden, es habe sich auf der Grundlage der Tätervorstellungen um dem Beginn der Fälschungshandlung unmittelbar vorgelagerte Verhaltensweisen gehandelt, die ohne weitere Zwischenschritte in die Tatbestandserfüllung einmünden sollen. Solange den für das Herstellen der zu fälschenden Zahlungskarten zuständigen Tatbeteiligten die erforderlichen Kartendaten nicht zugänglich gemacht sind, lässt sich aus der Perspektive der Tätervorstellungen auch noch keine Gefährdung des tatbestandlich geschützten Rechtsguts annehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die vom Tatrichter rechtsfehlerfrei getroffenen Feststellungen tragen aber in den Fällen III.B.4. und 5. der Urteilsgründe jeweils Schuldsprüche wegen Verabredung zur gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion (§ 152b Abs. 1, Abs. 2 und 4, § 152a Abs. 1 Nr. 1, § 30 Abs. 2 StGB). Der Senat hat deshalb in entsprechender Anwendung von § 354 Abs. 1 StPO die Schuldsprüche entsprechend umgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>1. Die Feststellungen belegen, dass der Angeklagte gemeinsam mit dem Mitangeklagten S.   sowie - wenigstens - den Bandenmitgliedern N.      , L.      und M.    verabredet hatte, bei arbeitsteiligem Vorgehen Zahlungskarten mit Garantiefunktion auf der Grundlage zuvor durch „Skimming“ erlangter Daten echter Zahlungskarten zu fälschen. Nach den getroffenen Abreden waren sowohl dem Angeklagten als auch dem Mitangeklagten S.    Funktionen im Vorbereitungsstadium der Fälschungstaten zugewiesen, die zusammen mit dem bei beiden vorhandenem erheblichen Tatinteresse im Hinblick auf die Höhe ihres Anteils an den erlangten und erwarteten abgehobenen Geldbeträgen eine Beteiligung als Mittäter begründen. Die Anzahl der verabredeten Verbrechen mit mittäterschaftlicher Beteiligung des Angeklagten (dazu BGH, Beschluss vom 15. März 2011 - 3 StR 15/11, wistra 2011, 299, 300 Rn. 7) hat das Tatgericht ebenfalls festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>§ 265 StPO steht der Schuldspruchänderung nicht entgegen. Der Angeklagte hätte sich nicht erfolgreicher als geschehen verteidigen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Ob das vom Landgericht festgestellte Verhalten des Angeklagten auch den Tatbestand der Vorbereitung der Fälschung von Zahlungskarten mit Garantiefunktion gemäß § 152b Abs. 5, § 149 StGB verwirklicht (vgl. Senat, Urteil vom 16. Dezember 2003 - 1 StR 297/03, wistra 2004, 265 ff. bzgl. § 149 StGB bei Verschaffung von Skimming-Gerätschaften) bedarf keiner Entscheidung (siehe bereits BGH, Beschluss vom 11. August 2011 - 2 StR 91/11, NStZ-RR 2011, 367, 368). Die Nichtanwendung wirkt sich keinesfalls zu Lasten des Angeklagten aus. § 152b Abs. 5 i.V.m. § 149 Abs. 1 Nr. 1 StGB stellt sich nicht als privilegierende Spezialregelung in Bezug auf Vorbereitungshandlungen der Tat gemäß § 152b StGB dar. Vielmehr dient sie gerade dazu, unter den Voraussetzungen von § 149 StGB Vorbereitungshandlungen des Verbrechens der Fälschung von Zahlungskarten mit Garantiefunktion selbst dann bestrafen zu können, wenn die über § 30 StGB bei jedem Verbrechen strafbaren Verhaltensweisen vor Versuchsbeginn nicht gegeben sind. Eine andere Betrachtung würde die gesetzgeberische Entscheidung, § 152b - anders als § 152a StGB bei Zahlungskarten ohne Garantiefunktion - als Verbrechenstatbestand auszugestalten, zuwider laufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>3. Die Änderung der Schuldsprüche zieht weder eine Änderung der Einzelstrafenaussprüche in den Fällen III.B.4. und 5. noch des Gesamtstrafenausspruchs nach sich. Der Senat schließt aus, dass das Landgericht auf der Grundlage der geänderten Schuldsprüche niedrige Einzelstrafen und darauf beruhend eine niedrigere Gesamtstrafe verhängt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>a) Das Tatgericht hat ohne Rechtsfehler den gemäß § 23 Abs. 1, § 49 Abs. 1 StGB gemilderten Strafrahmen aus § 152b Abs. 2 StGB der Strafzumessung im engeren Sinne zugrunde gelegt. Dieser Strafrahmen entspricht dem bei der Verabredung der gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion gemäß § 152b Abs. 1, 2 und 4, § 152a Abs. 1 Nr. 1, § 30 Abs. 2 StGB zur Verfügung stehenden Strafrahmen (vgl. BGH, Beschluss vom 11. August 2011 - 2 StR 91/11, NStZ-RR 2011, 367, 368).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>b) Auch im Hinblick auf die konkreten Zumessungserwägungen des Landgerichts schließt der Senat die Verhängung niedrigerer Einzelstrafen bei der Verurteilung wegen Verabredung zu dem vorstehend genannten Verbrechen aus. Bei der Strafzumessung wegen Verbrechensverabredung muss vor allem das von der Verabredung ausgehende „Bedrohungspotential“ und das Ausmaß, in dem die Verabredung bereits durch das Verhalten der daran Beteiligten „aktiviert“ worden ist, berücksichtigt werden; zudem ist zu beachten, wie nahe die bereits zur Ausführung gekommenen Akte dem Stadium des Tatbeginns gekommen sind (Senat, Beschluss vom 13. August 1996 - 1 StR 453/96, insoweit nicht abgedruckt in NStZ 1997, 83). Angesichts der bereits seitens des Angeklagten erbrachten Mitwirkungshandlungen in Umsetzung des gemeinsamen Tatplans sowie der vorhandenen Nähe zum Versuchsbeginn schließt der Senat im Blick auf die eher niedrigen Einzelstrafen aus, dass im Falle einer Verurteilung „nur wegen Verabredung“ noch mildere Einzelstrafen in den Fällen III.B.4. und 5. oder gar eine geringere Gesamtfreiheitsstrafe verhängt worden wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Änderung der Schuldsprüche ist gemäß § 357 Abs. 1 StPO auf den nichtrevidierenden Mitangeklagten S.    zu erstrecken. In den Fällen III.B.4. und 5. liegt bei ihm derselbe Rechtsfehler vor. Die für den Angeklagten festgestellten Verhaltensweisen begründen aus den vorstehend dargelegten Gründen noch nicht das unmittelbare Ansetzen zu den jeweiligen Taten. Daher ist auch für den Mittäter S.    das Versuchsstadium nicht erreicht worden. Die für ihn rechtsfehlerfrei festgestellten Handlungen begründen ebenfalls die Verabredung des Verbrechens gemäß § 152b StGB in zwei Fällen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Auswirkungen auf die Höhe der Einzelstrafen und die Gesamtstrafe schließt der Senat aus den für den Angeklagten dargelegten entsprechenden Gründen (II.3.b) aus. Der Erstreckung steht das nicht entgegen. Diese ist auch dann vorzunehmen, wenn sich die Schuldspruchänderung nicht auf den Rechtsfolgenausspruch auswirkt (Senat, Beschlüsse vom 7. Oktober 2003 - 1 StR 385/03 mwN; vom 6. Mai 2012 - 1 StR 178/13, in NStZ 2013, 658 insoweit nicht abgedruckt).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>IV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Da die gegen die Verurteilung insgesamt gerichtete Revision des Angeklagten nur einen geringen Teilerfolg hat, ist es nicht unbillig, diesen mit den gesamten Kosten und Auslagen seines Rechtsmittels zu belasten (§ 473 Abs. 1 und 4 StPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Raum                     Wahl                         Rothfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>               Graf                      Radtke</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300342014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

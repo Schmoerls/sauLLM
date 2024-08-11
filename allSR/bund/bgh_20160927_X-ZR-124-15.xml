@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE312632017</doknr>
+   <ecli>ECLI:DE:BGH:2016:270916UXZR124.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20160927</entsch-datum>
+   <aktenzeichen>X ZR 124/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 52 Abs 1 Buchst d EuPatÜbk, § 1 Abs 3 Nr 4 PatG, § 9 S 2 Nr 3 PatG</norm>
+   <vorinstanz>vorgehend OLG München, 22. Oktober 2015, Az: 6 U 4891/14, Urteil<br/>vorgehend LG München I, 20. November 2014, Az: 7 O 13161/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentverletzung: Datenfolge als durch ein patentgeschütztes Verfahren unmittelbar hergestelltes Erzeugnis; Erzeugnisschutz für die Darstellung eines Untersuchungsbefundes - Rezeptortyrosinkinase II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Rezeptortyrosinkinase II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Eine Datenfolge kommt nur dann als durch ein patentgeschütztes Verfahren unmittelbar hergestelltes Erzeugnis in Betracht, wenn sie sachlich-technische Eigenschaften aufweist, die ihr durch das Verfahren aufgeprägt worden sind, und sie daher ihrer Art nach tauglicher Gegenstand eines Sachpatents sein kann (im Anschluss an BGH, Urteil vom 21. August 2012, X ZR 33/10, BGHZ 194, 272, MPEG-2-Videosignalcodierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Darstellung eines mittels eines patentgeschützten Verfahrens gewonnenen Untersuchungsbefunds und hieraus gewonnener Erkenntnisse stellt als Wiedergabe von Informationen kein Erzeugnis dar, das Schutz nach § 9 Satz 2 Nr. 3 PatG genießen kann.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision gegen das Urteil des 6. Zivilsenats des Oberlandesgerichts München vom 22. Oktober 2015 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die ein Diagnoselabor betreibt, macht Ansprüche wegen Verletzung des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 959 132 (Klagepatents) geltend. Sie ist eine Tochtergesellschaft der I.            Inc., die Inhaberin einer ausschließlichen Lizenz an dem Klagepatent ist und die Klägerin zur gerichtlichen Geltendmachung von Unterlassungsansprüchen ermächtigt und ihr ihre Ansprüche auf Auskunft, Rechnungslegung und Schadensersatz abgetreten hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Klagepatent, dessen Inhaberin die T.     Inc. ist, ist am 13. Oktober 1997 unter Inanspruchnahme einer japanischen Priorität vom 18. Oktober 1996 international angemeldet worden und betrifft unter anderem eine Nukleinsäure, die für eine Rezeptorproteinkinase codiert, sowie ein Verfahren zum Nachweis der beanspruchten Nukleinsäure.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Bundespatentgericht erklärte das Klagepatent auf eine von der Beklagten zu 1 erhobene Nichtigkeitsklage mit Urteil vom 9. Juli 2013 (3 Ni 37/11 (EP), juris) unter anderem im Umfang der Patentansprüche 1 und 2 für nichtig und gab Patentanspruch 7 als neue Ansprüche 1 und 2 folgende Fassung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Verfahren zum Nachweis eines Nukleinsäuremoleküls einer Tandemverdopplungsmutante, das humane FMS-artige Tyrosinkinase 3 (FLT3) codiert, wobei das Nukleinsäuremolekül eine Nukleotidsequenz hat entsprechend einer Tandemverdopplungsmutation in der Nukleotidsequenz von Exon 11 oder Exons 11 bis 12 von FLT3 ohne Verschiebung des Leserasters, die durch Primer der SEQ ID NO: 26 und SEQ ID NO: 27 amplifiziert werden kann und als Längenmutation nachweisbar ist, umfassend die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Durchführung einer Genamplifikationsreaktion mit einer Nukleinsäureprobe von einem Menschen, wobei ein Nukleinsäurefragment, das Exon 11 oder Exons 11 bis 12 des FMS-artigen Tyrosinkinase 3 (FLT3)-Gens umfasst und eine Tandemverdopplungsmutation in der Juxtamembran hat, amplifiziert wird, welches im FLT3-Gen gefunden werden kann;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Nachweis der Anwesenheit der Tandemverdopplungsmutation in dem Nukleinsäurefragment aus Schritt (a).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Verfahren zum Nachweis eines Nukleinsäuremoleküls mit einer Nukleinsäuresequenz entsprechend einer Tandemverdopplungsmutation in der Nukleotidsequenz von Exon 11 oder Exons 11 bis 12 von humanem FLT3 ohne Verschiebung des Leserasters, die durch Primer der SEQ ID NO: 26 und SEQ ID NO: 27 amplifiziert werden kann und als Längenmutation nachweisbar ist, umfassend die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Durchführung einer Genamplifikationsreaktion mit einer Nukleinsäureprobe von einem Menschen, wobei ein Nukleinsäurefragment, das Exon 11 oder Exons 11 bis 12 des FMS-artigen Tyrosinkinase 3 (FLT3)-Gens umfasst und eine Tandemverdopplungsmutation in der Juxtamembran hat, amplifiziert wird, welches im FLT3-Gen gefunden werden kann;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Nachweis der Anwesenheit der Tandemverdopplungsmutation in dem Nukleinsäurefragment aus Schritt (a)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Gegen die Entscheidung des Bundespatentgerichts legten beide Parteien Berufung ein. Mit Urteil vom 19. Januar 2016 (X ZR 141/13, GRUR 2016, 475 - Rezeptortyrosinkinase) änderte der Senat das Urteil des Bundespatentgerichts auf die Berufung der Nichtigkeitsbeklagten und unter Zurückweisung der weitergehenden Berufung der Nichtigkeitsklägerin ab. Die Patentansprüche 1, 2 und 7 haben nunmehr folgende Fassung (Änderungen der Patentansprüche 1 und 2 gegenüber der erteilten Fassung und Änderungen von Patentanspruch 7 gegenüber der Fassung nach dem Urteil des Bundespatentgerichts sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Nukleinsäuremolekül einer Tandemverdopplungsmutante, das FMS-artige Tyrosinkinase 3 (FLT3) codiert, wobei das Nukleinsäuremolekül eine Nukleotidsequenz hat entsprechend:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) einer Tandemverdopplungsmutation in der Aminosäuresequenz der Juxtamembran von FLT3, oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) einer Tandemverdopplungsmutation in der Nukleotidsequenz <span style="text-decoration:underline">von Exon 11 oder Exons 11 bis 12 von FLT3 ohne Verschiebung des Leserasters</span>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Nukleinsäuremolekül mit einer Nukleinsäuresequenz entsprechend:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) einer Tandemverdopplungsmutation in der Aminosäuresequenz der Juxtamembran von FLT3, oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) einer Tandemverdopplungsmutation in der Nukleotidsequenz <span style="text-decoration:underline">von Exon 11 oder Exons 11 bis 12 von FLT3 ohne Verschiebung des Leserasters</span>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. Verfahren zum Nachweis des Nukleinsäuremoleküls <span style="text-decoration:underline">nach Anspruch 1 oder des Nukleinsäuremoleküls nach Anspruch 2</span>, umfassend die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Durchführung einer Genampliﬁkationsreaktion mit einer Nukleinsäureprobe von einem Menschen, wobei ein Nukleinsäurefragment, das Exon 11 oder Exons 11 bis 12 des FMS-artigen Tyrosinkinase-3-(FLT3)-Gens umfasst und eine Tandemverdopplungsmutation in der Juxtamembran hat, amplifiziert wird, welches im FLT3-Gen gefunden werden kann;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Nachweis der Anwesenheit der Tandemverdopplungsmutation in dem Nukleinsäurefragment aus Schritt (a)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagten zu 1 und 3, deren Geschäftsführer die Beklagten zu 4, 5, 6 und 7 sind, bieten verschiedene gentechnische Untersuchungen an, zu denen unter anderem auch eine Untersuchung des FLT3-Gens gehört. Die Beklagte zu 3 bearbeitet die eingehenden Proben in der Weise, dass die Zellen aufbereitet und sämtliche in den Proben enthaltene Nukleinsäuren extrahiert werden. Die derart aufbereiteten Nukleinsäuren werden an die in der Tschechischen Republik ansässige Beklagte zu 2 weitergeleitet, deren Geschäftsführer ebenfalls die Beklagten zu 4, 5, 6 und 7 sind. Dort werden die Nukleinsäuren mit Unterstützung durch Mitarbeiter der Beklagten zu 1 und 3 auf eine Längenmutation in einem Abschnitt im FLT3-Gen (FLT3-LM) untersucht und die Mutationslast bestimmt. Nach Abschluss der Untersuchung schickt die Beklagte zu 2 Kopien des Testberichts direkt an den Auftraggeber, der den Untersuchungsauftrag erteilt und die entsprechende Probe eingesandt hat, sowie an die Beklagten zu 1 und 3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die auf Unterlassung, Auskunft und Rechnungslegung sowie Feststellung der Schadensersatzpflicht gerichtete Klage, die die Klägerin auf die Patentansprüche 1 und 2 in der Fassung des Urteils des Bundespatentgerichts vom 9. Juli 2013 gestützt hat, abgewiesen (LG München I, GRUR-RR 2015, 93). Die Berufung der Klägerin ist erfolglos geblieben. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Klägerin ihre Berufungsanträge insofern weiter, als sie auf § 9 Satz 2 Nr. 3 PatG gestützt sind. Die Beklagten treten dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Klagepatent betrifft, wie im Senatsurteil vom 19. Januar 2016 (GRUR 2016, 475 Rn. 8 ff. - Rezeptortyrosinkinase) erläutert, das technische Problem, eine für das FLT3-Gen codierende Nukleinsäure, die aufgrund genetischer Veränderungen als Marker bei der Diagnose leukämischer Erkrankungen verwendet werden kann, sowie ein Verfahren zum Nachweis dieser Nukleinsäure zur Verfügung zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems schlägt das Klagepatent in der Fassung jenes Urteils in den Patentansprüchen 1 und 2 jeweils ein entsprechendes Nukleinsäuremolekül vor und in Anspruch 7 ein Verfahren zum Nachweis eines der mit den Ansprüchen 1 und 2 beanspruchten Nukleinsäuremoleküle, dessen Merkmale und Schritte der Senat wie folgt gegliedert hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7.1 Das Verfahren dient zum Nachweis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.1.1 des Nukleinsäuremoleküls nach Anspruch 1 oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.1.2 des Nukleinsäuremoleküls nach Anspruch 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7.2 Das Verfahren umfasst die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.2.a Durchführung einer Genamplifikationsreaktion mit einer Nukleinsäureprobe von einem Menschen, wobei ein Nukleinsäurefragment amplifiziert wird, das</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">7.2.a.1 im FLT3-Gen gefunden werden kann,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">7.2.a.2 Exon 11 oder Exons 11 bis 12 des FMS-artigen Tyrosinkinase-3-(FLT3)-Gens umfasst und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">7.2.a.3 eine Tandemverdopplungsmutation in der Juxtamembran hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.2.b Nachweis der Anwesenheit der Tandemverdopplungsmutation in dem Nukleinsäurefragment aus Schritt (a).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Danach wird zunächst ein Nukleinsäurefragment einer Nukleinsäureprobe von einem Menschen amplifiziert. In einem zweiten Schritt wird die Anwesenheit der Tandemverdopplungsmutation in dem Nukleinsäurefragment nachgewiesen, wobei Patentanspruch 7 nicht festlegt, wie dieser Nachweis zu führen ist. Es bleibt vielmehr dem Fachmann überlassen, wie er diesen Nachweis ausgestaltet. Das Klagepatent erläutert jedoch, dass auf das Vorhandensein der als Leukämieindikator verwendeten Tandemverdopplungsmutation in der Aminosäuresequenz von FLT3 geschlossen werden kann, wenn die Verlängerung des Fragments festgestellt wird, die sich aus der Insertion der mit der Mutation korrespondierenden verdoppelten Nukleotidsequenz ergibt (BGH, GRUR 2016, 475 Rn. 29 ff. - Rezeptortyrosinkinase).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>II. Das Berufungsgericht hat seine Entscheidung - soweit für das Revisionsverfahren von Interesse - im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die Voraussetzungen für eine Inanspruchnahme der Beklagten nach den Grundsätzen des derivativen Erzeugnisschutzes gemäß § 9 Satz 2 Nr. 3 PatG seien nicht gegeben. Die Beklagte zu 2 mache zwar vom Gegenstand von Patentanspruch 7 wortsinngemäß Gebrauch. Allerdings handle es sich bei dem in Patentanspruch 7 offenbarten, von der Beklagten zu 2 durchgeführten Nachweisverfahren nicht um ein vom Anwendungsbereich des § 9 Satz 2 Nr. 3 PatG erfasstes Verfahren. Es werde weder ein Erzeugnis geschaffen, noch ein solches in seiner Beschaffenheit verändert. Die von den Beklagten zu 1 und 3 im Inland aufbereitete Probe, die "Ausgangsprodukt" der DNA-Analyse sei, werde durch das Verfahren nicht verändert. Weder die Fixierung des für das Diagnoseverfahren spezifischen Genabschnitts durch die anspruchsgemäßen Primer noch die sich an diese Markierung anschließende Genampliﬁkation führe zu einer Veränderung des Nukleinsäuremoleküls als solchem. Auch der Umstand, dass der markierte Teilabschnitt als solcher in der Natur nicht vorkomme, rechtfertige nicht die Annahme, dieser werde im Sinne eines Herstellungsverfahrens erzeugt. Bei dem Nachweisverfahren handle es sich daher um ein im Wege eines Arbeitsverfahrens durchführbares Messverfahren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Unabhängig hiervon handle es sich bei dem Ergebnis des patentgemäßen Verfahrens auch nicht um ein Erzeugnis im Sinne von § 9 Satz 2 Nr. 3 PatG. Zwar müssten Erzeugnisse nicht unbedingt körperlicher Natur sein. Es sei aber erforderlich, dass die Verfahrensergebnisse beliebig oft bestimmungsgemäß genutzt werden könnten. Daran fehle es beim Ergebnis des patentgemäßen Verfahrens, das in der Information bestehe, ob in dem untersuchten amplifizierten Nukleinsäuremolekül eine Tandemverdopplungsmutation vorhanden sei oder nicht. Die Möglichkeit, dass die durch das erfindungsgemäße Verfahren erlangte Information mehrfach genutzt werden könne, so etwa bei der Behandlung eines Patienten oder in der Pharmaforschung, rechtfertige es nicht, die Information nach den Grundsätzen der höchstrichterlichen Rechtsprechung (BGH, Urteil vom 21. August 2012 - X ZR 33/10, BGHZ 194, 272 - MPEG-2-Videosignalcodierung) als unmittelbares Verfahrenserzeugnis im Sinne von § 9 Satz 2 Nr. 3 PatG anzusehen. Die Wiedergabe von Informationen sei nach dem Gesetz vom Patentschutz ausgeschlossen. Ein solcher Ausschluss vom Patentschutz dürfe nicht über die Ausdehnung des Schutzes als unmittelbares Verfahrenserzeugnisses umgangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Schließlich sei es auch nicht geboten, § 9 Satz 2 Nr. 3 PatG über seinen unmittelbaren Anwendungsbereich hinaus im Wege der Analogie auf die nach dem patentgemäßen Verfahren gewonnenen Erkenntnisse anzuwenden, weil - wie die Klägerin meine - den Belangen junger und sensibler Technologien wie der Biotechnologie durch eine entsprechende Ausdehnung des Patentschutzes Rechnung zu tragen sei. Es fehle bereits an einer Regelungslücke. Die Regelung in § 9a Abs. 3 PatG zeige, dass der Gesetzgeber ein Bedürfnis für einen derivativen Erzeugnisschutz über den Anwendungsbereich des § 9 Satz 2 Nr. 3 PatG hinaus gesehen habe. Da es sich hierbei um eine Ausnahmeregelung handle, komme eine weitere Ausdehnung des derivativen Erzeugnisschutzes auf andere Technologiebereiche im Wege der Analogie nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der revisionsrechtlichen Nachprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht ist zu Recht zu dem Ergebnis gelangt, dass der Klägerin die geltend gemachten Ansprüche auf Unterlassung, Auskunft, Rechnungslegung und Schadensersatz nach § 9 Satz 2 Nr. 3 PatG nicht zustehen. Die Beklagten haben mit den in den Klageanträgen bezeichneten, in der Tschechischen Republik gewonnenen Untersuchungsergebnissen kein vom Verbietungsrecht des Patentinhabers aus § 9 Satz 2 Nr. 3 PatG erfasstes unmittelbares Verfahrenserzeugnis zum Zwecke des Inverkehrbringens oder Gebrauchens eingeführt. Dass die Verfahrensansprüche 1 und 2, wie sie dem Berufungsurteil zugrunde lagen, durch das Senatsurteil vom 19. Januar 2016 gegenüber dem patentgerichtlichen Urteil wieder eine weitere Fassung erhalten haben, führt zu keiner anderen Beurteilung. Die Weiterung in dem nunmehr das erfindungsgemäße Verfahren betreffenden Patentanspruch 7 bezieht sich ausschließlich auf die Charakterisierung der Nukleinsäuresequenz der mit dem Verfahren nachzuweisenden Nukleinsäuremoleküle, ändert jedoch weder etwas an der Art der erfindungsgemäß durchzuführenden Verfahrensschritte noch am Charakter der Verfahrensergebnisse. Sie bestehen in einem biochemischen Befund, dessen Erhebung eine Erkenntnis erlaubt, deren Wiedergabe in den nach Deutschland gesandten Untersuchungsberichten die Voraussetzungen des derivativen Erzeugnisschutzes nicht erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Nach § 9 Satz 2 Nr. 3 PatG sind Erzeugnisse, die unmittelbar durch ein patentiertes Verfahren hergestellt sind, so geschützt, als ob sie durch ein Erzeugnispatent unter Schutz gestellt wären. Dementsprechend greift der Schutz nach § 9 Satz 2 Nr. 3 PatG nur ein, wenn das geschützte und angewendete Verfahren entweder ein Erzeugnis hervorbringt oder zu einer Veränderung der äußerlichen oder inneren Beschaffenheit eines Erzeugnisses führt und damit ein Ergebnis erzielt wird, das seinerseits prinzipiell taugliches Objekt eines Sachpatents sein könnte. Unerheblich ist lediglich, ob der Gegenstand eines solchen Sachpatents selbst patentfähig ist, insbesondere die Sachmerkmale den Anforderungen der Neuheit und der erfinderischen Tätigkeit genügen. Nicht in den Anwendungsbereich von § 9 Satz 2 Nr. 3 PatG fallen daher Ergebnisse reiner Arbeitsverfahren, bei denen keine neue Sache geschaffen wird, sondern lediglich auf eine Sache eingewirkt wird, ohne Veränderungen an ihr vorzunehmen, so wenn die Sache beispielsweise untersucht, gemessen oder befördert wird (Benkard/Scharen, PatG, 11. Aufl., § 9 Rn. 53 f.; Busse/Keukenschrijver, PatG, 8. Aufl., § 9 Rn. 102; Schulte/Rinken/Kühnen, PatG, 9. Aufl., § 9 Rn. 86 f.; Mes, PatG, 4. Aufl., § 9 Rn. 65; ders., GRUR 2009, 305, 307; OLG Düsseldorf, InstGE 12, 258 Rn. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Danach handelt es sich bei den von der Beklagten zu 2 in der Tschechischen Republik gewonnenen und an die Auftraggeber sowie die Beklagten zu 1 und 3 übermittelten Untersuchungsberichten oder deren Inhalten nicht um Erzeugnisse im Sinne des § 9 Satz 2 Nr. 3 PatG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Das Verfahren nach Patentanspruch 7 dient dazu, eine Tandemverdopplungsmutation, die nach der technischen Lehre des Klagepatents als Indikator für eine Leukämieerkrankung dient, in einem Nukleinsäuremolekül nach Patentanspruch 1 oder Patentanspruch 2 nachzuweisen, wobei erfindungsgemäß der Nachweis einer Längenmutation ausreicht. Ergebnis des Verfahrens ist mithin ein biochemischer Befund, dessen Erhebung dem Fachkundigen Informationen vermittelt, die ihm die Erkenntnis des Fehlens oder Vorhandenseins einer bestimmten Mutation, nämlich der als Leukämieindikator dienenden Tandemverdopplungsmutation, gestatten. Nur diese Erkenntnis sowie gegebenenfalls die oder ein Teil der sie tragenden Informationen werden mit den als patentverletzend angegriffenen Handlungen nach Deutschland übermittelt. Sie stellen im Hinblick darauf, dass die Wiedergabe von Informationen nach Art. 52 Abs. 1 Buchst. d EPÜ und § 1 Abs. 3 Nr. 4 PatG vom Patentschutz ausgeschlossen ist, keinen Gegenstand dar, auf den ein Sachpatent gerichtet werden könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Ohne Erfolg beruft sich die Revision darauf, dass nach der Rechtsprechung des Bundesgerichtshofs eine mittels eines geschützten Verfahrens gewonnene (Video-)Datenfolge als unmittelbares Verfahrenserzeugnis anzusehen sein kann, auch wenn sie nicht als ein körperlicher Gegenstand zu qualifizieren ist, sondern ein solcher erst durch ihre Verbindung mit einem Datenträger entsteht (BGHZ 194, 272, Rn. 21 f. - MPEG-2-Videosignalcodierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>aa) Voraussetzung für einen solchen Schutz von Daten als Verfahrenserzeugnis ist zum einen, dass das Ergebnis des patentierten Verfahrens in einer üblichen Form wahrnehmbar gemacht und auf diese Weise wie ein körperlicher Gegenstand beliebig oft bestimmungsgemäß genutzt werden kann (BGHZ 194, 272, Rn. 23 - MPEG-2-Videosignalcodierung). Zum anderen muss auch in diesem Fall die das Verfahrensergebnis verkörpernde Datenfolge ihrer Art nach als tauglicher Gegenstand eines Sachpatents in Betracht kommen. Dies ist indessen nur dann der Fall, wenn sie sachlich-technische Eigenschaften aufweist, die ihr durch das Verfahren aufgeprägt worden sind. So verhielt es sich bei den Videodaten, die erfindungsgemäß zur Datenkompression in bestimmter Weise codiert waren (BGHZ 194, 272, Rn. 20 - MPEG-2-Videosignalcodierung) und nicht wegen der codierten (Video-)Information, sondern wegen dieser Datenstruktur, mithin wegen eines technischen Merkmals, grundsätzlich auch einem Sachschutz zugänglich waren (vgl. Arnold, FS 80 Jahre Patentgerichtsbarkeit in Düsseldorf, S. 15, 20: Art der "Verpackung" des Informationsgehalts).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Diese Differenzierung gewährleistet zum einen, dass der gesetzliche Ausschlusstatbestand nicht unterlaufen wird, nach dem die Wiedergabe von Informationen dem Patentschutz nicht zugänglich ist. Sie stellt zum anderen sicher, dass von dem patentrechtlichen Schutz nur die Nutzung von Erfindungen, mithin von Lehren zum technischen Handeln, erfasst wird. Hierzu gehört die ausschließliche Zuordnung der Anwendung von technischen Verfahren zum Berechtigten ebenso wie die ausschließliche Zuordnung der Herstellung oder des Vertriebs von Erzeugnissen, deren technische Bereitstellung entweder als solche (in einem Sachpatent) unter Schutz steht oder aber sich als unmittelbares Ergebnis eines geschützten Verfahrens darstellt. Hingegen liegen Handlungen, die keine technische Lehre nutzen, sondern lediglich Vorteile aus solchen Handlungen ziehen, als solche außerhalb des patentrechtlichen Schutzes. Sie können lediglich als Folge eines patentverletzenden Handelns gegebenenfalls mit einem Schadensersatzanspruch erfasst werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dementsprechend hat bereits das Reichsgericht vor der gesetzlichen Verankerung des derivativen Erzeugnisschutzes seine Anerkennung für den durch ein Verfahren zur Herstellung eines Stoffes auf chemischem Wege "dargestellten" Stoff damit begründet, dass der mittels des Verfahrens erzeugte Stoff nicht außerhalb des Gegenstands der Erfindung liege, sondern den das Verfahren patentrechtlich charakterisierenden Abschluss bilde; das Verfahren begreife daher den mittels desselben hergestellten Stoff als zum Gegenstand der Erfindung gehörig in sich (RG, Urteil vom 14. März 1888 - I 389/87, RGZ 22, 8, 17 - Methylenblau). Es verfängt daher auch nicht der an sich zutreffende Hinweis der Revision, dass der derivative Sachschutz gerade für als solche seinerzeit dem Sachschutz (Stoffschutz) <em>nicht</em> zugängliche Erzeugnisse begründet worden sei. Denn ungeachtet dessen ist der derivative Sachschutz für das technische Ergebnis eines dieses Ergebnis notwendig umfassenden technischen Verfahrens gewährt worden (s. dazu auch Verhauwen, FS 80 Jahre Patentgerichtsbarkeit in Düsseldorf, S. 543, 544, 552).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Die im Streitfall übermittelte Datenfolge erfüllt die dargestellten Voraussetzungen nicht. Sie zeichnet sich nicht durch eine besondere (technische) Art der Darstellung aus und weist auch sonst keine sachlich-technischen Eigenschaften auf, die ihr durch das erfindungsgemäße Verfahren aufgeprägt worden wären, sondern ist lediglich dadurch gekennzeichnet, dass die von den Daten verkörperte Information die erfindungsgemäß gewonnene Erkenntnis enthält. Die Übermittlung der Datenfolge zieht damit zwar einen Vorteil aus der (außerhalb des Geltungsbereiches des Patentgesetzes stattfindenden) Nutzung des erfindungsgemäßen Verfahrens, stellt jedoch selbst keine Nutzung der technischen Lehre der Erfindung dar. Vielmehr kommt es bei der Übersendung der Untersuchungsergebnisse ausschließlich auf den einem Patentschutz nicht zugänglichen Informationsgehalt an, dessen Wert sich überdies regelmäßig in der einmaligen Übermittlung für die Zwecke einer ärztlichen Diagnose erschöpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Schließlich führt auch der Umstand, dass nach der in Merkmal 7.2.a vorgesehenen Genamplifikationsreaktion ein Nukleinsäurefragment amplifiziert und damit ein Fragment gewonnen wird, das als solches nicht in der Natur vorkommt, zu keiner anderen Beurteilung. Die Voraussetzungen für eine Inanspruchnahme der Beklagten nach § 9 Satz 2 Nr. 3 PatG wären auch dann nicht gegeben, wenn man das amplifizierte Fragment der untersuchten Probe als ein Erzeugnis des erfindungsgemäßen Verfahrens ansähe. Denn im Streitfall wird die entsprechend bearbeitete, das betreffende Fragment enthaltende Probe gerade nicht ins Inland verbracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Ob, wie die Klägerin meint, ein rechtspolitisches Bedürfnis nach einem patentrechtlichen Schutz von Ergebnissen insbesondere gentechnischer Analyse- und In-vitro-Diagnoseverfahren besteht, braucht der Senat nicht zu entscheiden. Die bestehende gesetzliche Regelung bietet jedenfalls für eine über § 9 Satz 2 Nr. 3 PatG hinausgehende richterrechtliche Schutzerstreckung keine Handhabe. Überdies erscheint fraglich, ob eine solche Ausdehnung des Patentschutzes auf mittels technischer Analyseverfahren gewonnene Erkenntnisse nicht notwendig über ein Ausschließlichkeitsrecht an technischen Lehren hinausginge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gröning      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schuster      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE312632017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

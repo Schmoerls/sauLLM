@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300232019</doknr>
+   <ecli>ECLI:DE:BGH:2018:040918UXZR14.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180904</entsch-datum>
+   <aktenzeichen>X ZR 14/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 30 BGBEG, Art 33 Abs 1 BGBEG, Art 33 Abs 2 BGBEG, Art 54 Abs 2 EuPatÜbk, Art 89 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 20. September 2016, Az: 5 Ni 28/14 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentfähigkeit einer Erfindung: Anwendbares Recht auf die Überleitung der Rechte an einer Erfindung durch Inanspruchnahme als Diensterfindung durch den Arbeitgeber und durch Vereinbarung zwischen dem Diensterfinder und seinem Arbeitgeber; Stand der Technik im Hinblick auf die unterschiedlichen Zeitzonen beim Hochladen einer technischen Lehre auf einen Webserver - Drahtloses Kommunikationsnetz</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Drahtloses Kommunikationsnetz</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Wirksamkeit der Überleitung der Rechte an einer Erfindung durch Inanspruchnahme als Diensterfindung durch den Arbeitgeber richtet sich nach dem Arbeitsstatut.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Welche Rechte und Pflichten der Vertragsparteien sich aus einer rechtsgeschäftlichen Vereinbarung über die Übertragung eines Prioritätsrechts ergeben, ist nicht nach dem für die Erstanmeldung maßgeblichen Recht zu beurteilen, sondern nach dem Vertragsstatut. Wird die Vereinbarung zwischen dem Diensterfinder und seinem Arbeitgeber getroffen, entspricht das Vertragsstatut regelmäßig dem Arbeitsstatut.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Eine technische Lehre, die der Öffentlichkeit dadurch zugänglich gemacht wird, dass sie auf einen Webserver hochgeladen und über das Internet allgemein oder einem Teil der Fachöffentlichkeit weltweit verfügbar gemacht wird, bildet nicht bereits dann Stand der Technik, wenn zum Zeitpunkt des Hochladens in einer andern Zeitzone als derjenigen des Ortes des Hochladens der Prioritäts- oder Anmeldetag noch nicht angebrochen war.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 20. September 2016 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 2 229 744 wird mit Wirkung für die Bundesrepublik Deutschland für nichtig erklärt, soweit sein Gegenstand über folgende Patentansprüche 1 und 12 hinausgeht, auf die sich die Patentansprüche 2 bis 11 und 13 bis 15 rückbeziehen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">"1. Method in a first node (110) for requesting a status report from a second node (120), the first node (110) and the second node (120) both being comprised within a wireless communication network (100), the status report comprising positive and/or negative acknowledgement of data sent from the first node (110) to be received by the second node (120), wherein the method comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">transmitting (306) a sequence of data units or data unit segments to be received by the second node (120), the method further comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">counting (307) the number of transmitted data units and the number of transmitted data bytes of the transmitted data units,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">requesting (310) a status report from the second node (120) if the counted number of transmitted data units exceeds or equals a first predefined value, or the counted number of transmitted data bytes of the transmitted data units exceeds or equals a second predefined value and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">resetting both the counted number of transmitted data units and the counted number of transmitted data bytes, if the counted number of transmitted data units exceeds or equals the first predefined value, or the counted number of transmitted data bytes units exceeds or equals the second predefined value.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">12. A first node (110) comprising an arrangement (400) for requesting a status report from a second node (120), the first node (110) and the second node (120) both used for a wireless communication network (100), the status report comprising positive and/or negative acknowledgement of data sent from the first node (110) to be received by the second node (120), wherein the arrangement (400) comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a transmitter (406), adapted to transmit a sequence of data units or data unit segments to be received by the second node (120),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">the arrangement (400) further comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a counting mechanism (407), adapted to count the number of transmitted data units and the number of transmitted data bytes of the transmitted data units,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a requesting unit (410), adapted to request a status report from the second node (120) if the counted number of transmitted data units exceeds or equals a first predefined value, or the counted number of transmitted data bytes of the transmitted data units exceeds or equals a second predefined value, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a resetting unit (411, 412), adapted to reset the counting mechanism thereby to reset both the counted number of transmitted data units and the counted number of transmitted data bytes, if the counted number of transmitted data units exceeds or equals the first predefined value, or if the counted number of transmitted data bytes exceeds or equals the second predefined value."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits werden zu einem Viertel der Beklagten und zu drei Vierteln der Klägerin und ihrer Streithelferin auferlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 2 229 744 (Streitpatents), das ein Verfahren und eine Anordnung in einem Funkkommunikationsnetzwerk betrifft. Das Streitpatent ist unter Inanspruchnahme der Priorität einer US-amerikanischen Patentanmeldung vom 8. Januar 2008 am 7. Oktober 2008 angemeldet worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent umfasst 15 Patentansprüche. Patentansprüche 1 und 12, auf die die jeweils nachfolgenden Patentansprüche unmittelbar oder mittelbar rückbezogen sind, lauten in der Verfahrenssprache wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">"1. Method in a first node (110) for requesting a status report from a second node (120), the first node (110) and the second node (120) both being comprised within a wireless communication network (100), the status report comprising positive and/or negative acknowledgement of data sent from the first node (110) to be received by the second node (120), wherein the method comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">transmitting (306) a sequence of data units or data unit segments to be received by the second node (120), the method further comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">counting (307) the number of transmitted data units and the number of transmitted data bytes of the transmitted data units, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">requesting (310) a status report from the second node (120) if the counted number of transmitted data units exceeds or equals a first predefined value, or the counted number of transmitted data bytes of the transmitted data units exceeds or equals a second predefined value.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">12. A first node (110) comprising an arrangement (400) for requesting a status report from a second node (120), the first node (110) and the second node (120) both used for a wireless communication network (100), the status report comprising positive and/or negative acknowledgement of data sent from the first node (110) to be received by the second node (120), wherein the arrangement (400) comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a transmitter (406), adapted to transmit a sequence of data units or data unit segments to be received by the second node (120),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">the arrangement (400) further comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a counting mechanism (407), adapted to count the number of transmitted data units and the number of transmitted data bytes of the transmitted data units, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a requesting unit (410), adapted to request a status report from the second node (120) if the counted number of transmitted data units exceeds or equals a first predefined value, or the counted number of transmitted data bytes of the transmitted data units exceeds or equals a second predefined value."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin und ihre Streithelferin haben geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig. Die Beklagte hat das Schutzrecht in der erteilten Fassung sowie mit einem Hilfsantrag verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen wendet sich die Berufung der Beklagten, mit der sie das Streitpatent zuletzt nur noch mit dem erstinstanzlich gestellten Hilfsantrag als Hauptantrag verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat im zuletzt noch geltend gemachten Umfang in der Sache Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren und eine Anordnung zur Anforderung von Statusberichten in einem drahtlosen Kommunikationsnetz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents unterliegt die Qualität der Kommunikation in einem solchen Netzwerk aus einer Vielzahl von Gründen Schwankungen. Insbesondere können bei der Kommunikation zwischen zwei im Streitpatent als Knoten bezeichneten Teilnehmergeräten, wie etwa einer Basisstation und einer Nutzereinrichtung, gesendete Dateneinheiten wie Protokolldateneinheiten <em>(protocol data units, PDU)</em> beim Empfänger verzerrt oder gar nicht ankommen. Es kann daher notwendig werden, solche Dateneinheiten nochmals zu senden. Zu diesem Zweck müssen sie beim Sender in einem Pufferspeicher <em>(retransmission buffer)</em> zwischengespeichert werden. Da der hierfür zur Verfügung stehende Speicherplatz begrenzt ist, muss der sendende Knoten zu irgendeinem Zeitpunkt erfahren, welche gespeicherten Dateneinheiten er erneut senden muss und welche nicht mehr benötigt werden. Hierzu dient ein Statusbericht, den der empfangende Knoten an den sendenden Knoten zurücksendet. Er kann den Empfang einer Dateneinheit entweder bestätigen <em>(acknowledgment</em> = ACK) oder verneinen (NACK).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Ein solcher Statusbericht kann entweder vom sendenden oder vom empfangenden Knoten angestoßen ("getriggert") werden. Das Streitpatent schildert, dass das <em>Radio-Link-Control</em>-Protokoll (RLC-Protokoll), das zum LTE-Standard (= <em>3GPP TS 36.322 Evolved Universal Terrestrial Radio Access [E-ULTRA], Radio Link Control [RLC] protocol specification [Release 8]</em>, NK4a) gehört, ein Verfahren vorsieht, bei dem der Sender bei Vorliegen bestimmter Kriterien die Anforderung <em>(poll)</em> eines Statusberichts sendet. Kriterien hierfür seien das Senden der letzten PDU in einem Puffer oder Ablauf eines Zeitgebers für ein erneutes Versenden einer Anforderung, wenn der Empfang der Dateneinheit bis dahin nicht bestätigt werde. Die Kriterien eigneten sich für stoßweisen Datenverkehr <em>(bursty traffic).</em> Bei kontinuierlicher Übertragung <em>(continuous transmission)</em> müssten hingegen zusätzliche Auslöser in Betracht gezogen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Wie die Streitpatentschrift weiter erläutert, kann sich ein Stau oder eine Blockade <em>(stalling)</em> sowohl daraus ergeben, dass eine zu große Anzahl Bytes zwischengespeichert wird, als auch aus einer zu großen Anzahl von Dateneinheiten. Im LTE-Standard ist die Größe der Dateneinheiten variabel; sie entspricht daher keiner bestimmten Anzahl von Bytes. Da der Sender die Sequenznummer benötigt, um zu erkennen, ob er alle Dateneinheiten empfangen hat, die Anzahl der zu vergebenden Sequenznummern jedoch ihrerseits beschränkt ist, kann eine Blockade nicht nur deshalb eintreten, weil die zwischengespeicherten Daten die Speicherkapazität erschöpfen, sondern auch deshalb, weil sie die Neuvergabe der Nummernfolge verhindern. Die Begrenzung der Zahl der bis zu einer Berichtsanforderung gespeicherten Dateneinheiten oder Bytes kann entweder zähler- oder fensterbasiert <em>(counter or window based)</em> erfolgen. Bei einem zählerbasierten Verfahren wird die Anzahl gesendeter Dateneinheiten oder Bytes gezählt und ein Poll-Bit nach Erreichen einer eingestellten Anzahl derselben gesetzt. Bei einem fensterbasierten Verfahren wird hingegen ein Statusbericht nur dann angefordert, wenn die Anzahl der gesendeten, aber noch nicht bestätigten Dateneinheiten oder Bytes eine bestimmte Anzahl überschreitet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Streitpatentschrift bemängelt, dass kein bekanntes Verfahren berücksichtige, dass eine Blockade zuweilen sowohl wegen der Speicherplatz- als auch wegen der Sequenznummernbeschränkung auftreten könne. Qualität und Kapazität eines Netzwerks würden allerdings sowohl durch Datenverlust und Blockaden als auch durch das unnötige Anfordern von Statusberichten und unnötiges erneutes Senden von Daten beeinträchtigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund bezeichnet es das Streitpatent als Aufgabe, ein verbessertes drahtloses Kommunikationssystem bereitzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>3. Die mit Patentanspruch 1 - in der zuletzt von der Beklagten noch verteidigten Fassung - unter Schutz gestellte erfindungsgemäße Lösung lässt sich - in sachlicher Übereinstimmung mit dem Urteil des Patentgerichts - wie folgt gliedern:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">1. Verfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.1 in einem ersten Knoten (110) zum Anfordern eines Statusberichts von einem zweiten Knoten (120);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.2 bei dem sich der erste Knoten (110) und der zweite Knoten (120) beide in einem drahtlosen Kommunikationsnetz (100) befinden;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1.3 bei dem der Statusbericht die positive oder negative Bestätigung von Daten umfasst, die vom ersten Knoten (110) gesendet und durch den zweiten Knoten (120) empfangen werden sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">2. Das Verfahren umfasst die folgenden Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.1 Senden (306) einer Folge von Dateneinheiten oder Dateneinheitssegmenten, die durch den zweiten Knoten (120) empfangen werden sollen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.2 Zählen (307)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2.1 der Anzahl gesendeter Dateneinheiten und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2.2 der Anzahl gesendeter Datenbytes der gesendeten Dateneinheiten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.3 Anfordern (310) eines Statusberichts vom zweiten Knoten (120), wenn</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3.1 die gezählte Anzahl von gesendeten Dateneinheiten einen ersten vordefinierten Wert überschreitet oder diesem entspricht oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3.2 die gezählte Anzahl von gesendeten Datenbytes der gesendeten Dateneinheiten einen zweiten vordefinierten Wert überschreitet oder diesem entspricht;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2.4 Zurücksetzen beider Zähler, wenn</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.4.1 die gezählte Anzahl von gesendeten Dateneinheiten den ersten vordefinierten Wert überschreitet oder diesem entspricht oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.4.2 die gezählte Anzahl von gesendeten Datenbytes den zweiten vordefinierten Wert überschreitet oder diesem entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>4. Patentanspruch 1 bedarf folgender Erläuterungen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Der in den Merkmalen 2.2.2, 2.3.2 und 2.4.2 (Verfahrensschritte des Zählens, Anforderns eines Statusberichts und Zurücksetzens beider Zähler) verwendete Begriff der "Datenbytes" ist identisch mit dem in der Beschreibung ebenfalls verwendeten Begriff der "Bytes". Das ergibt sich aus den Ausführungen in der Beschreibung zum Stand der Technik, den Vorteilen der erfindungsgemäßen Lehre und den erfindungsgemäßen Ausführungsbeispielen, bei denen die Begriffe "Bytes" oder "Datenbytes" in Zusammenhang mit den genannten Merkmalen verwendet werden, ohne dass damit ein unterschiedlicher Bedeutungsinhalt zum Ausdruck kommt (vgl. Abs. 8 ff.; 16 f.; 35 ff.; 63 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Merkmal 2.3.2 sieht vor, dass ein Statusbericht vom zweiten Knoten angefordert wird, wenn die gezählte Anzahl gesendeter Datenbytes der gesendeten Dateneinheiten einen zweiten vordefinierten Wert überschreitet oder diesem entspricht. Das schließt eine Veränderung der gezählten Anzahl gesendeter Datenbytes durch Abziehen der Datenbytes positiv oder negativ (ACK oder NACK) bestätigter Dateneinheiten von der gezählten Anzahl gesendeter Datenbytes der gesendeten Dateneinheiten aus, da diese Anzahl dann nicht mehr allein für die Anforderung des Statusberichts bei Erreichen oder Überschreiten eines vordefinierten Schwellenwertes maßgeblich wäre. Ein solches Verständnis steht in Einklang mit Merkmal 2.4.2, das das Zurücksetzen beider Zähler neben dem Erreichen oder Überschreiten eines vordefinierten Zahlenwertes von gesendeten Dateneinheiten alternativ auch an das Erreichen oder Überschreiten eines vordefinierten Zahlenwertes von gesendeten Datenbytes knüpft. Es entspricht zudem der in der Patentschrift beschriebenen zählerbasierten Technik, nach der die Anzahl von gesendeten PDUs bzw. Bytes gezählt und die Abfrage ausgelöst wird, wenn eine voreingestellte Anzahl von PDUs bzw. Bytes gesendet worden ist, und grenzt sich damit von der fensterbasierten Technik ab, bei der die Abfrage nur dann ausgelöst wird, wenn die Menge der gesendeten, aber noch nicht bestätigten Daten eine bestimmte Anzahl von PDUs bzw. Bytes überschreitet (vgl. Abs. 9 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>c) Indem gleichzeitig mit der Anforderung des Statusberichts beide Zähler zurückgesetzt werden (Merkmalsgruppe 2.4), werden, wie in der Patentschrift ausgeführt, erfindungsgemäß überflüssige Berichtsanforderungen sowohl wegen der Sequenznummernbeschränkung als auch wegen des beschränkten Speicherplatzes durch einen einzigen Mechanismus vermieden. Durch die Kombination der beiden Anforderungskriterien Anzahl der gesendeten Dateneinheiten und Anzahl der gesendeten Bytes wird erreicht, dass keine Anforderung unnötigerweise aufgrund des ersten Kriteriums erfolgt, obwohl eine solche Anforderung erst kurz zuvor durch das andere zweite Kriterium ausgelöst worden ist (Abs. 17). Zudem werden Blockaden aufgrund von Sequenznummernbeschränkungen als auch aufgrund von fehlendem Speicherplatz verhindert (Abs. 18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>5. Die Erläuterungen zu Patentanspruch 1 gelten für Patentanspruch 12 entsprechend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat die Patentfähigkeit des Gegenstands des Streitpatents verneint und zur Begründung im Wesentlichen folgendes ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Der Tagungsbeitrag Tdoc R2-073937 des Unternehmens ZTE, der im Rahmen einer mit LTE befassten 3GPP-Standardisierungsarbeitsgruppe im Oktober 2007 verfasst worden ist (NK1), beinhalte eine Zusammenstellung von Vorschlägen beteiligter Gesellschaften zum Anfordern von Statusberichten zwischen zwei bestimmten LTE-Teilnehmern. Der Statusbericht könne positive oder negative Bestätigungen vom Sender gesendeter Datenpakete enthalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>In der NK1 werde durch den in Tabelle 2 <em>"Rel-6 Status reporting triggers" </em>unter Bezugnahme auf den Tagungsbeitrag R2-074176 der NTT DoCoMo, Inc. (NK2) aufgeführten <em>Status Reporting Trigger </em>
+                  <em>"Detection of missing PDUs" </em>das generelle Zählen von Dateneinheiten als Grundlage für ein folgendes Anfordern eines Statusberichts offenbart, indem die individuell zugeordnete Nummer jeder gesendeten Dateneinheit (PDU) im hierfür zur Verfügung stehenden Sequenznummernraum bestimmt (gezählt) werde und bei fehlenden Sequenznummern die entsprechenden Datenpakete als nicht empfangen detektiert würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Durch den in Tabelle 1 <em>"Rel-6 Polling triggers" </em>u.a. aufgeführten <em>Polling Trigger "Every Poll_PDU PDU" </em>sei zudem eine Zählung der als <em>"Poll_PDU"</em> vorgesehenen Dateneinheiten bekannt, die als Auslöser für das Senden eines Statusberichts nach Erreichen eines vordefinierten Wertes dienten, der fehlende Datenpakete dokumentiere und deren erneute Sendung initiiere. Dass - wie in Tabelle 1 ebenfalls vermerkt - der <em>Polling Trigger "Every Poll_PDU PDU"</em> von ZTE abgelehnt werde und sich dort zudem der Entscheidungsvorschlag <em>"No?"</em> finde, impliziere keine zwingende oder bereits erfolgte Festlegung seitens der 3GPP-Arbeitsgruppe, da sich das Dokument nur als Diskussionsgrundlage verstehe und nicht abschließend gemeint sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Aus dem von Motorola stammenden Vorgängerdokument R2-073538 derselben 3GPP-Arbeitgruppe vom August 2007 (NK3) sei dem Fachmann zudem als vorteilhaft bekannt gewesen, die Anzahl der Bytes gesendeter Datenpakete zu zählen, worauf sich in Tabelle 3 <em>"New polling triggers proposed"</em> der NK1 auch der dort aufgeführte <em>Polling trigger </em>
+                  <em>"Transmission of every N bytes data" </em>beziehe. Dabei werde bei Überschreiten eines vorbestimmten Byte-Werts der Statusreport vom sendenden Netzwerkteilnehmer beim Empfänger angefordert und so das Überlaufen des Datenpuffers verhindert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dem Fachmann werde damit bereits im Vorfeld der NK1 gezeigt, dass eine bloße Überwachung des Sequenznummernraums für Dateneinheiten wie im UMTS-Standard im LTE-Kontext aufgrund der nun variablen Datenpaketgröße zur Verhinderung einer Blockade des Kommunikationssystems nicht mehr ausreichend sei. Der Fachmann werde zum einen den ihm bereits aus dem UMTS-Standard bekannten, für sich gesehen wenig Speicherplatz belegenden PDU-Zähler weiterverwenden, da dieser auf einfache und bewährte Art das Fehlen von Dateneinheiten mittels Sequenznummernüberwachung signalisieren könne, und zum anderen aufgrund der in der LTE-Zukunft nun variablen PDU-Größe zusätzlich dafür Sorge tragen, sich gegen sehr großen Speicherraum einfordernde Dateneinheiten durch einen Byte-Zähler abzusichern. Dem stehe nicht entgegen, dass dieser Ansatz nicht in den Standard übernommen worden sei, da nicht nur technisch-wissenschaftliche, sondern auch ökonomische und firmenpolitische Faktoren für die Aufnahme einer Funktionalität in einen Standard von Bedeutung sein könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung der Patentfähigkeit der Erfindung hält der Überprüfung im Berufungsverfahren im allein noch von der Beklagten verteidigten Umfang des Streitpatents (vormaliger Hilfsantrag) nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand des Patentanspruchs 1 ist gegenüber der NK1 neu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) In dem ZTE-Beitrag werden zunächst in der Arbeitsgruppe diskutierte <em>"Polling and status reporting triggers"</em> aufgelistet. Dabei ist neben dem jeweiligen Trigger angegeben, welche der beteiligten Unternehmen die Aufnahme des Triggers in den LTE-Standard befürworten oder ablehnen und welche Entscheidung sich danach abzeichnet. In einem weiteren Teil der NK1 folgen Überlegungen von ZTE zur Auswahl der Trigger unter den Gesichtspunkten verringerter Komplexität und Latenz sowie gesteigerter Effizienz und Verlässlichkeit <em>(reduced complexity, reduced latency, improved efficiency and improved reliability)</em> und schließlich sechs Vorschläge von ZTE zur weiteren Entwicklung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>b) Wie das Patentgericht zutreffend ausgeführt hat und von der Beklagten auch nicht in Abrede gestellt wird, werden die Merkmale 1 bis 2.1 in der NK1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>c) In Tabelle 1 der NK1 wird - neben anderen Triggern - auch der PDU-Zähler-basierte Trigger<em> "Every Poll_PDU PDU"</em> aufgeführt, der den Merkmalen 2.2.1 und 2.3.1 entspricht. Allerdings wird dieser Trigger von ZTE ausdrücklich abgelehnt, und es wird auch sonst kein einen solchen Trigger unterstützendes Unternehmen genannt. Vielmehr befürwortet ZTE einen fensterbasierten PDU-Trigger. Ob dennoch eine Offenbarung der genannten Merkmale angenommen werden kann, erscheint zweifelhaft, da hierbei außer Betracht bliebe, dass das Streitpatent gerade eine bestimmte Kombination bekannter Trigger lehrt, bedarf jedoch keiner abschließenden Entscheidung, weil es jedenfalls an einer Offenbarung der Merkmale 2.3, 2.3.2 und 2.4 in der NK1 fehlt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>d) In Tabelle 3 der NK1 wird als ein neu vorgeschlagener <em>"Polling Trigger"</em> der Trigger <em>"Transmission of every N bytes data" </em>aufgeführt. Die NK1 nimmt insoweit Bezug auf die NK3, die von Motorola, einem anderen Unternehmen der 3GPP-Arbeitsgruppe, stammt. In der NK3 wird dieser Trigger wie folgt definiert (NK3, 2.2):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">
+                  <em>"The sender triggers the polling function for every N bytes of data transmitted which haven’t been ACK/NACK yet. The trigger aims at avoiding RLC buffer overflows. </em>
+                  <em>Note that RLC PDU size is flexible in LTE system, so the byte based polling is more accurate in reflecting the potential buffer level than PDU or SDU counts."</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Ein Statusbericht soll demnach nur dann angefordert werden, wenn die Anzahl gesendeter Datenbytes der gesendeten Dateneinheiten (PDUs), die noch nicht positiv oder negativ (ACK/NACK) bestätigt wurden, einen vordefinierten Schwellenwert erreicht oder überschreitet. Das genügt nicht den Anforderungen des Merkmals 2.3.2, welches das Anfordern eines Statusberichts allein davon abhängig macht, dass die gezählte Anzahl von gesendeten Datenbytes der gesendeten Dateneinheiten einen vordefinierten Wert überschreitet oder diesem entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>e) In der NK1 ist zudem nicht offenbart, das Anfordern eines Statusberichts vom zweiten Knoten davon abhängig zu machen, dass die gezählte Anzahl von gesendeten Dateneinheiten oder die gezählte Anzahl von gesendeten Datenbytes der gesendeten Dateneinheiten einen jeweils vordefinierten Wert erreicht oder überschreitet. Das würde selbst dann gelten, wenn - entgegen der vorgenannten Beurteilung - zugunsten der Klägerin unterstellt würde, dass der in Tabelle 1 der NK1 neben mehreren anderen Triggern aufgeführte Trigger <em>"Every Poll_PDU PDU" </em>die Merkmale 2.2.1 und 2.3.1 und der in Tabelle 3 der NK1 neben anderen Triggern aufgeführte Trigger <em>"Transmission of every N bytes data"</em> die Merkmale 2.2.2 und 2.3.2 offenbart. Denn auch dann ergibt sich aus der NK1 nicht, diese beiden Trigger erfindungsgemäß miteinander zu kombinieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>f) Schließlich wird in der NK1 nicht offenbart, beide Zähler zurückzusetzen, wenn einer der beiden in den Merkmalen 2.4.1 oder 2.4.2 vorgesehenen Werte erreicht oder überschritten worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>2. Entgegen der Annahme des Patentgerichts ergab sich die Lehre aus Patentanspruch 1 für den Fachmann auch nicht in naheliegender Weise aus dem Stand der Technik.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>a) Es mag sein, dass es (im Nachhinein) nur konsequent erscheint, Blockaden des Datenpuffers dadurch besonders effizient zu vermeiden, dass auf die Kombination der beiden Kriterien "Anzahl der gesendeten Dateneinheiten" und "Anzahl der gesendeten Bytes" abgestellt wird und beide Zähler gleichzeitig zurückgesetzt werden. Eine entsprechende Anregung ist jedoch keiner der drei im Urteil des Patentgerichts berücksichtigten Entgegenhaltungen zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>aa) Dies gilt zunächst für die NK1, aus der sich bereits keine Anregung dafür ergibt, den Trigger <em>"Transmission of every N bytes data" </em>oder einen anderen der in den Tabellen der NK1 aufgeführten Trigger im Sinne des Merkmals 2.3.2 abzuändern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>bb) Zudem nennt die NK1 zwar in Tabelle 1 <em>"Rel-6 Polling Trigger"</em> den PDU-Zähler-basierten Trigger <em>"Every Poll_PDU PDU"</em> und in Tabelle 3 "New polling triggers proposed" den Trigger <em>"Transmission of every N bytes data"</em>, lässt aber eine klare Präferenz für einen fensterbasierten Trigger erkennen (NK1, S. 1, Tabelle 1; S. 4 unter "improved efficiency"), während u.a. der PDU-Zähler-basierte Trigger <em>"Every Poll_PDU PDU" </em>von den Autoren der NK1 (ZTE) abgelehnt wird (NK1, S. 1, Tabelle 1; S. 4 Proposal 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Entsprechend wird in der NK1 an keiner Stelle auch nur erwogen, den PDU-Zähler-basierten Trigger <em>"Every Poll_PDU PDU" </em>mit einem Byte-Zähler-basierten Trigger zu kombinieren<em>. </em>Im Gegenteil spricht der unter der Überschrift <em>"2.2 further considerations"</em> erörterte Gesichtspunkt der <em>"reduced complexity", </em>wonach unnötige Optionen eliminiert werden sollen, eher gegen die Kombinationen von mehreren Triggern. Unter dem Gesichtspunkt der <em>"improved reliability"</em> wird allein die Kombination von senderseitigen Triggern mit empfängerinitiierten Statusberichten befürwortet. Unter dem Gesichtspunkt der <em>"improved efficiency"</em> wird zudem ausgeführt, dass Studien gezeigt hätten, dass empfängerinitiierte Statusberichte effizienter seien als senderinitiierte. Zudem könnten fensterbasierte Abfragen eine effiziente Art sein, Statusberichte auszulösen. Demnach wurde der Fachmann durch NK1 nicht veranlasst, eine Kombination der in den Tabellen 1 und 3 u.a. aufgeführten PDU- und Byte-Zähler-basierten Trigger in Erwägung zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>cc) Damit konnte sich aus der NK1 auch keine Anregung ergeben, beide Zähler zurückzusetzen, wenn eine der beiden Voraussetzungen nach den Merkmalen 2.4.1 oder 2.4.2 eingetreten ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>dd) Eine Anregung, das aus der NK1 bekannte Verfahren im Sinne des erfindungsgemäßen Verfahrens zu ergänzen, ergab sich für den Fachmann auch nicht, wenn er die NK2 in seine Überlegungen mit einbezog.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Die NK2, die von einem anderen Unternehmen aus der 3GPP-Arbeitsgruppe (NTT DoCoMo Inc.) als die NK1 stammt, geht von dem (auch vom Streitpatent als für die stoßweise Datenübertragung hilfreich angesehenen) Trigger <em>"Transmission of last data in the buffer"</em> aus und stellt fest, dass bei kontinuierlicher Datenübertragung ein weiterer senderseitiger Trigger erforderlich sei. Von den vier insoweit in Betracht kommenden Möglichkeiten <em>(SDU-based polling, timer based periodic polling, PDU counter polling und window based polling)</em> werden die beiden letztgenannten als effiziente Lösungen bevorzugt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Die NK2 mag damit, anders als die NK1, das <em>"PDU counter polling"</em> im Hinblick auf dessen Effizienz auf die gleiche Stufe wie das <em>"window based polling"</em> stellen. Ein Motiv, den PDU-basierten Trigger mit einem Byte-basierten Trigger zu kombinieren und bei Erreichen oder Überschreiten bereits eines der beiden Schwellwerte beide Zähler zurückzusetzen, folgt aber auch daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>ee) Es ergab sich schließlich nicht aus NK3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(1) Wie erläutert, entspricht der in der NK3 offenbarte senderseitige Trigger<em> "Transmission of every N bytes data"</em> nicht den Vorgaben des Merkmals 2.3.2. Die NK3, die der 3GPP-Arbeitsgruppe den genannten Trigger zusammen mit anderen Triggern als vorteilhaft vorschlägt, gibt keine Veranlassung, diesen im Sinne des Merkmals 2.3.2 abzuändern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(2) Zudem wird in der NK3 lediglich vorgeschlagen, den Trigger <em>"Transmission of every N bytes data"</em> mit dem periodisch ausgelösten senderseitigen Trigger<em> "Transmission of every K TTIs"</em> zu kombinieren, nicht aber, wie erfindungsgemäß gefordert, mit einem PDU-Zähler-basierten Trigger. Eine Anregung, von diesen beiden Triggern den periodischen Trigger<em> "Transmission of every K TTIs" </em>durch einen anderen Trigger und insbesondere einen PDU-Zähler-basierten Trigger zu ersetzen, ergibt sich aus der NK3 nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(3) Entsprechend fehlt es auch an einer Anregung, beide Zähler nach Maßgabe der Merkmale 2.4.1 und 2.4.2 zurückzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>IV. Das Urteil des Patentgerichts ist in dem von der Beklagten noch verteidigten Umfang auch nicht aus einem anderen Grund im Ergebnis zutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>1. Unabhängig von der Frage, ob der Gegenstand der Patentansprüche 1 und 12 gegenüber der zum LTE-Standard gehörenden technischen Spezifikation <em>"3GPP TS 36.322 V.8.1.0 (2008-03) - 3rd Generation Partnership Project; Technical Specification Group Radio Access Network; Evolved Universal Terrestrial Radio Access (E-URTRA) Radio Link Control (RLC) protocol specification (Release 8)"</em> (NK4b) und den weiteren LTE-Spezifikationen NK4c und NK4d neu wäre, gehören die NK4b, NK4c und NK4d gegenüber dem Streitpatent jedenfalls deshalb nicht zum Stand der Technik, weil sie erst am 17. März 2008 veröffentlicht worden sind und das Streitpatent - entgegen der Ansicht der Klägerin - die Priorität der US-amerikanischen Patentanmeldung 61/19746 vom 8. Januar 2008 (N4) rechtswirksam in Anspruch nimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>a) Dies gilt zunächst in inhaltlicher Hinsicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Rechtsprechung des Bundesgerichtshofs muss der Gegenstand der beanspruchten Erfindung in der Voranmeldung als zu der angemeldeten Erfindung gehörend offenbart sein (BGH, Urteil vom 11. September 2009 - X ZR 168/98, BGHZ 148, 383, 389 = GRUR 2002, 146 - Luftverteiler; Urteil vom 11. Februar 2014 - X ZR 107/12, BGHZ 200, 63 Rn. 23 = GRUR 2014, 542 Rn. 21 - Kommunikationskanal; vgl. auch EPA (GBK) GRUR Int. 2002, 80).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>bb) Die Klägerin meint, das in den Merkmalen 2.2.2, 2.3.2 und 2.4.2 des Patentanspruchs 1 und entsprechend in Patentanspruch 12 geforderte "Zählen der gesendeten Datenbytes" sei in der Voranmeldung nicht offenbart, weil dort durchgehend nur von einem "Zählen der gesendeten Bytes" die Rede sei. Dabei geht die Klägerin davon aus, dass mit "Datenbytes" lediglich "Nutzdaten" gemeint sind, während der Begriff "Bytes" neben Nutzdaten auch Headerbytes umfasse. Entsprechend sei das Zählen "der gesendeten Datenbytes der gesendeten Dateneinheiten" in der Voranmeldung nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>cc) Dem kann nicht beigetreten werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(1) Wie bereits erläutert, unterscheidet sich der in den Patentansprüchen 1 und 12 und in der Beschreibung des Streitpatents verwendete Begriff der "Datenbytes" nicht von dem gleichfalls in der Beschreibung des Streitpatents in Zusammenhang mit den Merkmalen 2.2.2, 2.3.2 und 2.4.2 verwendeten Begriff der "Bytes". Entsprechend besteht auch kein Unterschied zwischen dem in den Patentansprüchen 1 und 12 verwendeten Begriff der "Datenbytes" und dem in der Voranmeldung in Zusammenhang mit den Verfahrensschritten des Zählens, Anforderns und Zurücksetzen der Zähler verwendeten Begriff der "Bytes" (vgl. N4, S. 2, Z. 24 ff.; S. 4, Z. 23 ff.). Da sich der im Patentanspruch verwendete Begriff der "Datenbytes" damit nicht von dem in der Voranmeldung verwendeten Begriff der "Bytes" unterscheidet, ist er auch als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Die Frage, ob mit den (in der Voranmeldung und dem Streitpatent identisch verwendeten) Begriffen der "Datenbytes" und "Bytes" Nutzdaten oder Nutzdaten und Headerbytes gemeint sind oder noch ein anderes Verständnis zugrunde zu legen ist, bedarf mangels Entscheidungserheblichkeit keiner Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>(2) Auch die weiteren Einwände der Klägerin, die Voranmeldung offenbare nicht allgemein erste und zweite Knoten, ein drahtloses Kommunikationsnetzwerk, ein Übertragen und Zählen von Dateneinheiten und Dateneinheitssegmenten und das Anfordern eines Statusberichts, so wie dies in den Patentansprüchen 1 und 12 vorgesehen sei, greifen nicht durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Bundesgerichtshofs kann die Priorität einer Voranmeldung in Anspruch genommen werden, wenn sich die dort anhand eines Ausführungsbeispiels oder in sonstiger Weise beschriebenen technischen Anweisungen für den Fachmann als Ausgestaltung der in der Nachanmeldung umschriebenen allgemeineren technischen Lehre darstellen und diese Lehre in der in der Nachanmeldung offenbarten Allgemeinheit bereits der Voranmeldung als zu der angemeldeten Erfindung gehörend entnommen werden kann (BGH, Urteil vom 11. Februar 2014 - X ZR 107/12, BGHZ 200, 63 Rn. 23 = GRUR 2014, 542 Rn. 24 - Kommunikationskanal; vgl. auch BGH, Urteil vom 17. Februar 2015 - X ZR 161/12, GRUR 2015, 573 Rn. 29 - Wundbehandlungsvorrichtung; Urteil vom 7. November 2017 - X ZR 63/15, GRUR 2018, 175 Rn. 30 - Digitales Buch).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Die Voranmeldung erwähnt zwar das Dokument <em>"3GPP TS 36.322 Evolved Universal Terrestrial Radio Access (E-URTra), Radio Link Control (RLC) Protocol Specification (Release 8)"</em> als Hintergrund der Erfindung und erläutert das erfindungsgemäße Verfahren und die erfindungsgemäße Anwendung im Hinblick auf das darin beschriebene LTE-Kommunikationssystem. Dem Fachmann erschließt es sich jedoch bereits aus der Eingangsbemerkung der Voranmeldung, in der darauf hingewiesen wird, dass sich die Erfindung auf ein Verfahren und eine Anwendung in einem Telekommunikationssystem bezieht, und in der das RLC-Polling zum kontinuierlichen Senden nur als ein "besonderer Fall" eines solchen Verfahrens oder Anwendung genannt wird (N4, S. 1, Abs. 1 unter der Überschrift <em>"Method and Arrangement in a Telecommunication System"</em>), dass das erfindungsgemäße Verfahren zum Anfordern eines Statusberichts allgemein die Kommunikation zwischen einem ersten und einem zweiten Knoten in einem drahtlosen Kommunikationsnetz betrifft und die Anwendung zwischen <em>"User Equipments"</em> (S. 4, Z. 10 ff.: <em>"UE"</em>) des LTE-Kommunikationssystems lediglich als ein besonderer Anwendungsfall zu verstehen ist. Zudem wird im letzten Satz der Voranmeldung darauf hingewiesen, dass, obwohl die Erfindung für das LTE-Kommunikationssystem <em>("evolved UTRAN")</em> beschrieben worden sei, ähnliche Prinzipien auch für das UMTS-Kommunikationssystem <em>("UTRAN")</em> anwendbar seien, wenn flexible RLC-PDU-Größen eingeführt würden (N4, S. 6). Auch dieser Hinweis ist aus fachlicher Sicht ohne weitere Überlegung dahin zu verstehen, dass sich das erfindungsgemäße Verfahren und die erfindungsgemäße Anwendung auf alle geeigneten drahtlosen Kommunikationssysteme und insoweit auch auf die Kommunikation zwischen zwei Knoten solcher Systeme beziehen und nicht nur auf das LTE-Kommunikationssystem und das bei diesem eingesetzte <em>"User Equipment"</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Entsprechend offenbart es sich dem Fachmann, dass sich das Zählen von übertragenen "PDUs", das in der Voranmeldung im Hinblick auf das LTE-Kommunikationssystem erläutert wird, auch allgemein auf das Übertragen und Zählen von Dateneinheiten oder Dateneinheitssegmenten bezieht, so wie dies in den Patentansprüchen 1 und 12 vorgesehen ist. Nichts anderes gilt hinsichtlich des Anforderns eines Statusberichts, das in der Voranmeldung zwar bezogen auf das LTE-Kommunikationssystem dahin erläutert wird, dass ein Abfrage-Bit <em>("poll bit")</em> in dem RLC-Header gesetzt wird (N4, S. 1, Z. 16 ff.). Auch dieses Merkmal offenbart sich dem Fachmann im Hinblick auf Kommunikationssysteme als bloße Ausführungsform der allgemeinen Lehre, dass erfindungsgemäß ein Statusbericht in Abhängigkeit von beiden in der Zusammenfassung (N4, S. 2, Abs. 2: <em>Summary</em>) genannten Mechanismen (Zählen der Anzahl der PDUs bzw. Dateneinheiten und Zählen der Anzahl der übertragenen Bytes) abgefragt werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>b) Die Anmelderin des Streitpatents, die Telefonaktiebolaget L M Ericsson (TLME), war auch zur Inanspruchnahme der Priorität der US-amerikanischen Patentanmeldung 61/19746 vom 8. Januar 2008 (N4) berechtigt. Sie ist zwar nicht Anmelderin der Voranmeldung. Sie ist aber als Rechtsnachfolgerin der drei Anmelder der Voranmeldung, Per Johan Torsner, Janne Pelsa und Michael Meyer, zur Inanspruchnahme der Priorität berechtigt (Art. 87 Abs. 1 EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>aa) Die beiden Anmelder Torsner und Pelsa haben ihr Prioritätsrecht durch rechtsgeschäftliche Vereinbarungen vom 5. und 9. August 2008 (Anl. DN3a und 3b) auf TLME übertragen. Soweit die Klägerin erstinstanzlich die Echtheit der vorgelegten Ablichtungen der Vereinbarungen und die Echtheit der darauf befindlichen Unterschriften mit Nichtwissen bestritten hat, ist sie darauf in der Berufungsinstanz nicht mehr zurückgekommen und hat allein noch eine Übertragung des Prioritätsrechts des dritten Anmelders Meyer zunächst auf dessen Arbeitgeberin, die Ericsson GmbH, und von dieser auf TLME in Abrede gestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>bb) Das Prioritätsrecht ist aber auch insoweit auf die TLME übergegangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>(1) Der Übergang des Prioritätsrechts von dem Anmelder Meyer auf die Ericsson GmbH erfolgte durch rechtsgeschäftliche Vereinbarung der beiden Parteien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>(a) Während die Rechtsprechung und das Schrifttum in Deutschland sowie die Beschwerdekammern des Europäischen Patentamtes davon ausgehen, dass das Prioritätsrecht als eigenständiges Vermögensrecht auf Inanspruchnahme der Priorität zu qualifizieren ist, das von dem Anmelder der Erstanmeldung auf einen Dritten als Rechtsnachfolger übertragen werden kann (BPatG, Urteil vom 13. Januar 1981 - 13 W (pat) 36/78, GRUR Int. 1982, 452, 453; OLG Düsseldorf, Urteil vom 6. Dezember 2012 - 2 U 46/12, juris Rn. 44; Benkard/Grabinski, EPÜ, 2. Aufl. (2012), Art. 87 Rn. 3; Busse/Keukenschrijver, PatG, 8. Aufl. (2016), § 40 Rn. 10; Keukenschrijver, Mitt. 2001, 233; Schulte/Moufang, PatG mit EPÜ, 8. Aufl., § 41 Rn. 27; vgl. auch BGH, Urteil vom 16. April 2013 - X ZR 49/12, GRUR 2013, 712 Rn. 11 - Fahrzeugscheibe; EPA (TBK), Entscheidung vom 18. Juni 2015 - T 205/14, 3.3; Entscheidung vom 19. Juni 2015 - T 517/14, 2.4), sieht die englische Rechtsprechung als "successor in title" ohne weiteres denjenigen an, auf den die Rechte an der Erfindung übertragen worden sind (High Court, Kitchin J, [2009] EWHC 1304 (Pat) Rn. 93 - Edwards Lifesciences AG/Cook Biotech Inc; High Court, Arnold J, [2010] EWHC 1487 (Pat) Rn. 58, 70 - KCI Licensing Inc/Smith &amp; Nephew Plc). Ebenso verhält es sich nach der Rechtsprechung des schweizerischen Bundesgerichts (BGE 42 II 400).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>(b) Beide Ansichten werden in Fällen, in denen das Recht an der Erfindung nach der Erstanmeldung und vor Einreichung der europäischen Nachanmeldung von dem Erfinder und Anmelder der Erstanmeldung auf den Anmelder der Nachanmeldung durch rechtsgeschäftliche Vereinbarung übertragen wurde - wie in dem vom High Court entschiedenen Fall KCI Licensing Inc/Smith &amp; Nephew Plc - regelmäßig zu keinen unterschiedlichen Ergebnissen führen, weil die Übertragungsvereinbarung auch bei fehlender ausdrücklicher Vereinbarung nach allgemeinen Grundsätzen zumeist so auszulegen sein wird, dass mit den Rechten an der Erfindung stillschweigend auch das Recht auf Inanspruchnahme der Priorität übertragen werden soll (vgl. etwa BGH, GRUR 2013, 712 Rn. 14 ff. - Fahrzeugscheibe).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>(c) Im Streitfall sind die Rechte des Miterfinders Meyer an der Erfindung jedoch nicht aufgrund rechtsgeschäftlicher Vereinbarung, sondern durch Inanspruchnahme als Arbeitnehmererfindung seitens der Ericsson GmbH mit von Herrn Meyer am 6. Februar 2008 empfangener Erklärung übergegangen. Ob mit diesem Übergang auch das Recht des Miterfinders Meyer auf Inanspruchnahme der Priorität aus der US-amerikanischen Voranmeldung übergegangen ist, bedarf im Streitfall keiner abschließenden Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>(aa) Auf den Übergang der Rechte des Miterfinders Meyer an der Erfindung durch Inanspruchnahme als Arbeitnehmererfindung ist deutsches Recht anzuwenden. Die Rechte und Pflichten, die sich aus einer Diensterfindung ergeben, bestimmen sich nach demselben Recht, an das auch sonst für das Arbeitsverhältnis zwischen dem Arbeitnehmererfinder und dem Arbeitgeber anzuknüpfen ist (OLG Karlsruhe, Urteil vom 13. April 2018 - 6 U 161/16, GRUR 2018, 1030 Rn. 23 = juris Rn. 145; Busse/Keukenschrijver, 8. Aufl. (2016) PatG, Einl ArbEG Rn. 11; MüKo-BGB/Drexl, 7. Aufl., 2018, IntImmGR Rn. 204 f.; Staudinger/Fezer/Koos, Neubearb. 2015, IntWirtschR Rn. 1053; jeweils zu Art. 8 Rom-I-VO). Entsprechend beurteilt sich auch die Wirksamkeit der Inanspruchnahme einer Erfindung als Arbeitnehmererfindung nach dem Arbeitsstatut. Da eine im Jahr 2008 erklärte Inanspruchnahme in Rede steht, findet Art. 30 EGBGB Anwendung. Da das Arbeitsverhältnis zwischen der Ericsson GmbH und Herrn Meyer, der am Standort Herzogenrath beschäftigt war, deutschem Recht unterlag, richtet sich danach auch die Wirksamkeit der Inanspruchnahme der Erfindung durch die Ericsson GmbH.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>(bb) Nach seinerzeit geltendem deutschen Recht gehen mit Zugang der unbeschränkten Inanspruchnahmeerklärung beim Arbeitnehmer alle Rechte an der Erfindung von Gesetzes wegen auf den Arbeitgeber über (§ 7 Abs. 1 ArbErfG aF). Dies gilt nach der Rechtsprechung des Bundesgerichtshofs jedoch nicht für auf der Erfindung beruhende Schutzrechte oder Schutzanmeldungen, deren Inhaber der Arbeitnehmer im Zeitpunkt der Inanspruchnahme ist, da er diese nicht aufgrund des Rechts an der Erfindung, sondern aufgrund seiner Stellung als Anmelder oder Patentinhaber unabhängig von seiner sachlichen Berechtigung innehat (BGH, Urteil vom 12. April 2011 - X ZR 72/10, GRUR 2011, 733 Rn. 31 - Initialidee). Ob dennoch mit der Inanspruchnahme einer Arbeitnehmererfindung durch den Arbeitgeber auch das Recht auf Inanspruchnahme der Priorität nach Art. 87 EPÜ mit auf diesen übergeht, kann im Streitfall offenbleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>(d) Denn das Recht auf die Inanspruchnahme der Priorität ist jedenfalls durch rechtsgeschäftliche Vereinbarung zwischen der Ericsson GmbH und dem Miterfinder Meyer übertragen worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>(aa) Nach der Rechtsprechung des Bundesgerichtshofs richtet sich die Wirksamkeit einer Übertragung des Rechts auf Inanspruchnahme der Priorität einer Patentanmeldung gemäß Art. 33 Abs. 2 EGBGB nach dem Recht des Staates der Erstanmeldung (BGH, Urteil vom 16. April 2013 - X ZR 49/12, GRUR 2013, 712 Rn. 12 - Fahrzeugscheibe mwN). Von der nach Art. 33 Abs. 2 EGBGB zu beurteilenden Frage der Übertragbarkeit und insoweit gegebenenfalls geltender Form- und anderer Wirksamkeitserfordernisse ist jedoch die Frage zu unterscheiden, nach welchem Recht sich die Verpflichtungen zwischen altem und neuem Rechtsinhaber richten. Dies ist jedenfalls für die Vereinbarung über die Verpflichtung zur Übertragung des Rechts auf Inanspruchnahme der Priorität (Verpflichtungsgeschäft) nach Art. 33 Abs. 1 EGBGB das jeweilige Vertragsstatut. Das Vertragsstatut richtet sich aber wiederum regelmäßig nach dem Arbeitsstatut, wenn die Übertragung in Zusammenhang mit der Inanspruchnahme einer Diensterfindung durch den Arbeitgeber steht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>(bb) Aus den von der Beklagten vorgelegten Unterlagen ergibt sich unter Berücksichtigung der Interessenlage der Beteiligten, dass der Miterfinder Meyer mit seiner damaligen Arbeitgeberin, der Ericsson GmbH, vereinbart hat, dieser sein Recht als Mitanmelder der US-amerikanischen Voranmeldung zur Inanspruchnahme der Priorität aus dieser Voranmeldung zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>α) Herr Meyer hat der Ericsson GmbH mit an eine Sachbearbeiterin aus der Patentabteilung seiner Arbeitgeberin gerichteter E-Mail vom 8. Januar 2008 die Nummer der US-amerikanischen Voranmeldung mitgeteilt. Diese Mitteilung war unter Berücksichtigung der Gesamtumstände für die Ericsson GmbH nicht nur als Wissensmitteilung zu verstehen, sondern auch als Erklärung ihres Arbeitnehmers, die Übertragung des Prioritätsrechts der Voranmeldung auf die Ericsson GmbH für den Fall anzubieten, dass diese - wie zu erwarten stand - die Erfindung als Diensterfindung nach §§ 5, 6 ArbErfG aF in Anspruch nehmen sollte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Diese Auslegung der abgegebenen Erklärung rechtfertigt sich vor dem Hintergrund, dass es der Ericsson GmbH oder der TLME nach dem seinerzeit geltenden US-amerikanischen Recht nicht möglich gewesen wäre, die Voranmeldung selbst einzureichen, da Patentanmeldungen nur von dem oder den Erfindern selbst eingereicht werden konnten, so dass sich auch das Recht auf die Inanspruchnahme der Priorität der Voranmeldung nicht originär zugunsten der Ericsson GmbH oder der TLME begründen ließ, sondern es einer Übertragung dieses Rechts von den Erfindern und Anmeldern der Voranmeldung bedurfte. Teilte der Diensterfinder danach seiner Arbeitgeberin am 8. Januar 2008 die Nummer der US-amerikanischen Voranmeldung mit, war dies als Bekundung seiner Bereitschaft zu verstehen, bei Inanspruchnahme der Erfindung alles Nötige und rechtlich Geschuldete zu tun, um der Arbeitgeberin wirksame Nachanmeldungen der Erfindung zu ermöglichen. Da dies insbesondere die Übertragung des Prioritätsrechts umfasste, lag hierin das Angebot, insbesondere auch das aus der Voranmeldung hervorgegangene Prioritätsrecht zu übertragen. Dies entsprach auch dem Interesse des Miterfinders, da das Prioritätsrecht nach einer wirksamen Inanspruchnahme der Erfindung durch seine Arbeitgeberin aufgrund des damit bewirkten Übergangs des Rechts an der Erfindung nicht mehr von dem Diensterfinder selbst, sondern nur noch von seiner Arbeitgeberin (oder deren Konzernmutter) als nunmehriger Inhaberin der Rechte an der Erfindung für Nachanmeldungen in Anspruch genommen werden konnte. Im Gegenzug eröffnete sich der Diensterfinder mit der Übertragung des Prioritätsrechts auf seine Arbeitgeberin die Aussicht, dass von dieser eingereichte Nachanmeldungen einen für die Patentfähigkeit gegebenenfalls ausschlaggebenden besseren Zeitrang erhielten und ihm dies im Rahmen des Vergütungsanspruchs nach § 9 ArbErfG zu Gute kommen würde. Zugleich kam er damit seiner Verpflichtung nach § 15 Abs. 2 ArbErfG nach, die Ericsson GmbH als seine Arbeitgeberin auf Verlangen beim Erwerb von Schutzrechten zu unterstützen und die erforderlichen Erklärungen abzugeben, wozu nach zutreffender Ansicht bei Voranmeldungen durch den Arbeitnehmer auch die Zustimmung zur Übertragung von Prioritätsrechten gehört (Bartenbach/Volz, ArbErfG, 5. Aufl., § 15 Rn. 32; Rother in Reimer/Schade/Schippel, ArbErfG, 8. Aufl., § 15 Rn. 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>β) Das Angebot zur Übertragung des Rechts auf die Inanspruchnahme der Priorität der US-amerikanischen Voranmeldung hat die Ericsson GmbH mit Inanspruchnahme der Erfindung als Diensterfindung mit Erklärung vom 28. Januar 2008 angenommen, deren Zugang der Miterfinder Meyer am 6. Februar 2008 bestätigt hat (Anl. DN3d). Zwar ist in der Erklärung der Ericsson GmbH ausdrücklich nur von einer unbeschränkten Inanspruchnahme der Erfindung "RLC polling for continuous transmission, P-number P25436 US1" die Rede. Mit Erwähnung der US-amerikanischen Voranmeldung 61/19746 kommt in der Erklärung jedoch darüber hinaus zum Ausdruck, dass die Ericsson GmbH mit der unbeschränkten Inanspruchnahme der Erfindung auch - ihrem wirtschaftlichen Interesse entsprechend - das Recht auf Inanspruchnahme der Priorität aus der Voranmeldung auf sich übergehen lassen und entsprechend das hierauf gerichtete Angebot ihres Arbeitnehmers annehmen wollte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>(cc) Ob auch, wozu der Senat neigt, für die mit dem kausalen Rechtsgeschäft zugleich bewirkte Verfügung über das Recht auf Inanspruchnahme der Priorität (Verfügungsgeschäft) nach Art. 33 Abs. 1 EGBGB an das Vertragsstatut, hier also deutsches Recht, anzuknüpfen ist oder an das Statut, dem das zu übertragende Recht unterliegt, im Streitfall also US-amerikanisches Recht, da die Übertragung des Rechts auf Inanspruchnahme der Priorität einer US-amerikanischen Voranmeldung in Rede steht, kann offen bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>α) Die Frage stellt sich, weil Art. 33 EGBGB nach überwiegender Ansicht so verstanden wird, dass das für die Übertragung der Forderung erforderliche abstrakte Verfügungsgeschäft einheitlich dem Statut der abgetretenen Forderung nach Art. 33 Abs. 2 EGBGB zu unterstellen ist, während nach anderer Auffassung auch für das Verfügungsgeschäft mit Ausnahme der in Art. 33 Abs. 2 EGBGB genannten Aspekte einheitlich an das Statut nach Art. 33 Abs. 1 EGBGB anzuknüpfen ist, dem die Vereinbarung über die Verpflichtung zur Übertragung der Forderung unterliegt, was im Wesentlichen der seit dem 17. Dezember 2009 an die Stelle des Art. 33 EGBGB getretenen Regelung in Art. 14 Rom-I-VO unter Berücksichtigung auch der Erläuterungen in Erwägungsgrund 38 Rom-I-VO entspricht (vgl. dazu etwa Bamberger/Roth/Spickhoff, 3. Aufl. (2012), Art. 14 Rom-I-VO Rn. 2 ff.; MüKo-BGB/Martiny, 7. Aufl. (2018), Art. 14 Rom-I-VO Rn. 25; Palandt/Thorn, 77. Aufl. (2018), Art. 14 Rom-I-VO Rn. 3; Staudinger/Hausmann, Neubearb. 2016, Art. 11-29 Rom-I-VO Rn. 9 ff.; jeweils mit weiteren Nachweisen).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>β) Sie kann im Streitfall aber offen bleiben, weil sowohl bei Anwendung des Statuts des Prioritätsrechts (US-amerikanischen Rechts) als auch bei Anwendung des Vertragsstatuts (deutschen Rechts) eine Vereinbarung zwischen dem Miterfinder Meyer und der Ericsson GmbH zustande gekommen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich der Anwendung deutschen Rechts folgt dies aus obigen Erläuterungen zum Zustandekommen einer Vereinbarung zwischen beiden Parteien über die Übertragung des Prioritätsrechts von dem Miterfinder Meyer auf die Ericsson GmbH.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Die Anwendung US-amerikanischen Rechts führt zu keinem anderen Ergebnis. Aus dem von der Beklagten vorgelegten Gutachten von Prof. T.   (Anl. DN3h) ergibt sich, dass im Hinblick auf die Mitteilung des Miterfinders Meyer an seine Arbeitgeberin betreffend die Nummer der US-amerikanischen Voranmeldung am 8. Januar 2008 sowie die Inanspruchnahme der Erfindung als Diensterfindung durch die Ericsson GmbH mit Erklärung vom 28. Januar 2008 und unter Berücksichtigung der Interessenlage beider Parteien aus im Wesentlichen den gleichen Gründen wie bei der Anwendung deutschen Rechts auch bei der Anwendung amerikanischen Rechts eine "implied-in-fact" Vereinbarung über die Übertragung des Prioritätsrechts von dem Miterfinder Meyer auf die Ericsson GmbH anzunehmen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>(2) Das Prioritätsrecht ist durch Übertragungserklärung <em>("Assignment Declaration")</em> vom 14. Februar 2008 (Anl. DN3e) von der Ericsson GmbH auf TLME weiterübertragen worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>(a) Nach dem als Vertragsstatut nach Art. 33 Abs. 1 EGBGB maßgeblichen deutschen Recht ist eine Vereinbarung über die Übertragung des Prioritätsrechts von der Ericsson GmbH auf TLME zustande gekommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>(aa) Da die Beteiligten bei der Übertragungserklärung <em>("Assignment Declaration")</em> vom 14. Februar 2008 keine Rechtswahl getroffen haben, ist nach der Vermutungsregel des - im Jahr 2008 noch anwendbaren - Art. 28 Abs. 2 Satz 1 EGBGB das am Geschäftssitz des Veräußerers geltende Recht anwendbar (Pahlow, GRUR Int. 2017, 393, 396 f. im Hinblick auf Art. 4 Abs. 2 Rom-I-VO). Da die Ericsson GmbH ihren Sitz in Herzogenrath hat, gilt mithin deutsches Recht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>(bb) In der Übertragungserklärung ist ein Angebot der Ericsson GmbH zur Übertragung des Prioritätsrechts zu sehen, das mit Hinterlegung im elektronischen Archiv der Ericsson-Unternehmensgruppe am 14. Februar 2008 abgegeben wurde und TLME nach § 130 Abs. 1 Satz 1 BGB zugegangen war, da diese darauf Zugriff nehmen konnte und sollte und dies im Rahmen der Ericsson-Unternehmensgruppe auch zu erwarten war. Die Annahmeerklärung durch TLME war für das Zustandekommen der Vereinbarung entbehrlich, da eine solche Erklärung nach der gewählten Übermittlungsform nicht zu erwarten war (§ 151 Satz 1, Alt. 1 BGB). Auch insoweit entspricht die Auslegung der erkennbaren Interessenlage der Beteiligten, da es sich bei der Übertragung um ein für TLME vorteilhaftes Rechtsgeschäft handelte und allein TLME das Prioritätsrecht für die Anmeldung des Streitpatents in Anspruch nehmen konnte und sollte, nachdem ihr bereits die beiden anderen Anmelder der Voranmeldung Peisa und Torsner ihr Prioritätsrecht übertragen hatten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>(b) Zudem ist mit der zwischen der Ericsson GmbH und TLME getroffenen Vereinbarung über das Prioritätsrecht verfügt worden, unabhängig davon, ob insoweit nach Art. 33 Abs. 1 und 2 EGBGB deutsches oder US-amerikanisches Recht anwendbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>(aa) Das ergibt sich bei Anwendung deutschen Rechts entsprechend den vorstehenden Ausführungen zum Zustandekommen einer Vereinbarung über die Übertragung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>(bb) Auch bei Anwendung US-amerikanischen Rechts ist die Übertragungserklärung <em>("Assignment Declaration")</em> der Ericsson GmbH als Angebot zur Übertragung des Prioritätsrechts anzusehen und ergibt sich dessen Annahme aus dem späteren Verhalten von TLME, insbesondere der Inanspruchnahme der Priorität aus der Voranmeldung bei Anmeldung des Streitpatents (vgl. auch Gutachten T.  , Abs. 25, Anl. DN3h).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>2. Der Patentfähigkeit des Gegenstands von Patentanspruch 1 in dem von der Beklagten verteidigten Umfang steht auch der Tagungsbeitrag <em>TSG-RAN WG2 Meeting #60bis</em> (NK6) von Ericsson nicht entgegen. Dieser gehört nicht zum Stand der Technik, da er erst am 8. Januar 2008 und damit am Prioritätstag des Streitpatents veröffentlicht worden ist. Entgegen der Auffassung der Klägerin ist unerheblich, dass zu der Uhrzeit, zu der die NK6 von TLME auf den europäischen Webserver der 3GPP-Standardisierungsgruppe hochgeladen und damit weltweit abrufbar gemacht wurde (gegen 8.36 Uhr mitteleuropäischer Zeit [MEZ]), in einigen anderen Zeitzonen (etwa in Alaska, wo es 22.36 Uhr [Yukon Zeit] war, und auf Hawaii [21.36 Uhr nach Hawaii-Standard-Zeit]) der 8. Januar 2008 noch nicht angebrochen war. Entsprechendes gilt für die auf denselben 3GPP-Server hochgeladene E-Mail, mit der der Miterfinder Peisa kurz nach Hochladen der NK6 die WG2-Arbeitsgruppe hierauf hingewiesen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>a) Nach Art. 54 Abs. 2 iVm Art. 89 EPÜ bildet den Stand der Technik, was vor dem Anmeldetag oder - wie im Streitfall relevant - dem Prioritätstag der europäischen Patentanmeldung der Öffentlichkeit durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise zugänglich gemacht worden ist. Ausgangspunkt für die Prüfung, ob eine Entgegenhaltung, da vor diesem Tag veröffentlicht, zum Stand der Technik gehört, ist damit der Kalendertag, an dem die Patentanmeldung oder Prioritätsanmeldung bei dem jeweiligen Patentamt eingereicht wurde. Unerheblich ist hingegen, zu welcher Stunde oder Minute die Einreichung an diesem Tag erfolgt ist. Sodann ist der Tag der Anmeldung oder Prioritätsanmeldung in Bezug zu dem Zeitpunkt zu setzen, an dem die Entgegenhaltung der Öffentlichkeit zugänglich gemacht worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>b) Im Hinblick auf die unterschiedlichen Zeitzonen sind in Rechtsprechung und Verwaltungspraxis für den letzteren Zeitpunkt unterschiedliche Referenzzeiten herangezogen worden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>aa) Der High Court of England and Wales und dessen Court of Appeal sowie eine Einspruchsabteilung des Europäischen Patentamts haben als Referenz für die Bestimmung des Zeitpunkts einer öffentlichen Zugänglichmachung im Sinne von Art. 54 Abs. 2 EPÜ auf die am Ort des Amtes der Patent- oder Prioritätsanmeldung geltende Zeitzone abgestellt (High Court, Birss J [2015] EWHC 3366 (pat) Rn. 156, Court of Appeal, Gross, Floyd LJJ, Sales J, [2017] EWCA Civ 266 Rn. 161 - Unwired Planet International Ltd v Huawei Technologies Co Ltd; Einspruchsabteilung des EPA, Beschluss vom 31. Juli 2013 - Anmelde-Nummer 03 012 734.4, Abs. 2.2.1, DN9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>bb) Als Maßstab für die Bestimmung des Zeitpunkts der Vorveröffentlichung kommt alternativ aber auch die Zeitzone in Betracht, die an dem Ort gilt, an dem die Handlung erfolgt ist, mit der die technische Lehre der Öffentlichkeit zugänglich gemacht worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>cc) Eine Prüfungsabteilung des Europäischen Patentamtes hat demgegenüber - entsprechend der Auffassung der Klägerin - darauf abgestellt, ob die Entgegenhaltung in irgendeiner Zeitzone am Tag vor dem Anmelde- oder Prioritätstag im Internet abrufbar gewesen und damit der Öffentlichkeit zugänglich gemacht worden ist (vgl. EPA, Beschluss vom 12. August 2013 - Anmelde-Nummer 09 733 661.4, DN8, Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>c) Während der letztgenannte Ansatz im Streitfall zur Folge hätte, dass die NK6 zum Stand der Technik gehörte, da sie etwa in Alaska oder Hawaii nach der dort geltenden Zeit am Tag vor Einreichen der Prioritätsanmeldung über das Internet abgerufen werden konnte, führen die beiden erstgenannten Ansichten zum gegenteiligen Ergebnis, da die NK6 erst am Tag des Einreichens der Prioritätsanmeldung verfügbar war, wenn auf die Zeit abgestellt wird, die am Sitz des US-amerikanischen Patentamtes in Alexandria (Virginia) oder am Ort der Handlung galt, die zur Veröffentlichung der NK6 geführt hat. Die letztgenannte Ansicht greift aus den nachfolgenden Gründen jedoch nicht durch. Ob die erste oder die zweite Auffassung zutrifft, bedarf keiner abschließenden Entscheidung, da beide im Streitfall zu demselben Ergebnis führen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>aa) Für die erstgenannte Ansicht spricht, dass die konsequente Heranziehung der Zeitzone des Patentamtes, bei dem die Patent- oder Prioritätsanmeldung eingereicht wurde, es ausschließt, dass eine Entgegenhaltung die nicht vor diesem Zeitraum veröffentlicht worden ist, Stand der Technik bilden kann. Sie hat allerdings den Nachteil, dass es insbesondere bei Veröffentlichungen in anderen Zeitzonen als der des Patentamtes der Patent- oder Prioritätsanmeldung erforderlich werden kann, den genauen Zeitpunkt der Veröffentlichung festzustellen, da nur nach dessen Feststellung bestimmt werden kann, ob die Veröffentlichung in der den Referenzmaßstab bildenden Zeitzone des Patentamtes der Patent- oder Prioritätsanmeldung bereits vor oder erst an dem Tag der Anmeldung veröffentlicht worden ist. Die Bestimmung des genauen Zeitpunktes einer Vorveröffentlichung kann aber zu Schwierigkeiten führen, etwa wenn bei der Veröffentlichung einer Patentanmeldung nur der Tag, nicht aber auch die Stunde der Vorveröffentlichung dokumentiert worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>bb) Demgegenüber liegt der Maßgeblichkeit des Kalendertages (und nicht der Uhrzeit) der Anmeldung als Referenzzeitpunkt die Vorstellung zugrunde, dass auch eine bestimmte Veröffentlichung oder Benutzung, die als Stand der Technik in Betracht kommt, ihrerseits an einem bestimmten Ort an einem bestimmten, seiner Zählung nach vor dem Anmeldetag liegenden Kalendertag (nach der nach diesem Ort geltenden Zeitzone) stattgefunden hat. Unerheblich ist demgegenüber jeweils der genaue Zeitpunkt und damit auch das Verhältnis der an unterschiedlichen Referenzorten geltenden Kalendertage. Diesem der Pariser Verbandsübereinkunft zugrunde liegenden Konzept kommt es am nächsten, auch bei der öffentlichen Zugänglichmachung einer technischen Lehre über ein sofortige weltweite Verfügbarkeit ermöglichendes Medium wie das Internet auf den Ort und dessen Zeitzone abzustellen, an dem die Handlung erfolgt, die zur öffentlichen Zugänglichkeit der technischen Information für die Fachwelt führt, im Streitfall mithin auf das Hochladen der NK6 an einem Ort der mitteleuropäischen Zeitzone. Dieser Ansatz hat zudem den Vorteil, dass es für die Bestimmung des Zeitpunktes einer Veröffentlichung als Referenz allein auf die Bestimmung des Tages der Veröffentlichung in der Zeitzone der Veröffentlichungshandlung ankommt. Danach ist beispielsweise die Feststellung hinreichend, an welchem Tag eine Patentanmeldung in der Zeitzone des jeweiligen Patentamtes veröffentlicht wurde, um bestimmen zu können, ob diese Veröffentlichung im Hinblick auf den Anmeldetag einer anderen Patent- oder Prioritätsanmeldung zum Stand der Technik gehört. Das entspricht auch der Regelung in Art. 54 Abs. 3, 87 EPÜ, wonach für den Inhalt nachveröffentlichter europäischer Patentanmeldungen oder von diesen in Anspruch genommener Prioritätsanmeldungen auf deren Anmeldetag abzustellen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>cc) Der von der Klägerin vertretenen Auffassung ist hingegen nicht beizutreten. Sie erweitert den Referenzrahmen von der Zeitzone, an der die Veröffentlichungshandlung erfolgt ist, auf alle Zeitzonen, ohne dass ein Bezug zur Veröffentlichungshandlung und damit ein eine solche Erweiterung rechtfertigender Grund vorliegt. Zudem besteht auch bei diesem Ansatz der Nachteil, dass es erforderlich werden kann, den stundengenauen Zeitpunkt der Veröffentlichung festzustellen, da nur nach dessen Feststellung bestimmt werden kann, ob die Veröffentlichung in der den Referenzmaßstab bildenden Zeitzone des Patentamtes der Patent- oder Prioritätsanmeldung bereits vor oder erst an dem Tag der Anmeldung veröffentlicht worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>d) Nach alledem gehört die NK6 nicht zum Stand der Technik, da sie erst am Prioritätstag veröffentlicht worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>3. Hinsichtlich der weiteren Entgegenhaltungen, auf die die Klägerin ihren Angriff gegen die Patentfähigkeit des Gegenstands der Patentansprüche 1 und 12 in der erteilten Fassung im Berufungsverfahren noch gestützt hat, nämlich die internationale Anmeldung WO 2008/097544 (NK5), den UMTS-Standard (NK7) sowie das Dokument zum UMTS-Standard "3GPP TS 125 322 v3.18.0" (D2), die europäische Patentanmeldung 1 638 237 (D3LG) und die internationale Anmeldung WO 2008/137594 (D3HTC), hat die Klägerin weder geltend gemacht noch ist, wie in der mündlichen Verhandlung erörtert, etwas dafür erkennbar, dass sie der Patentfähigkeit des Gegenstands der Patentansprüche 1 und 12 in der zuletzt verteidigten Fassung entgegenstehen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie §§ 91 Abs. 1, 92 Abs. 1, 100, 101 Abs. 2, 516 Abs. 3 Satz 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300232019&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

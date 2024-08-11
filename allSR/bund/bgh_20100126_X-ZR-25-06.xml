@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE315332010</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20100126</entsch-datum>
+   <aktenzeichen>X ZR 25/06</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 69 EuPatÜbk, § 14 PatG, § 115 Abs 1 PatG, § 412 Abs 1 ZPO</norm>
+   <vorinstanz>vorgehend BPatG München, 23. November 2005, Az: 4 Ni 44/04 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsklage: Auslegung der Angabe "weitgehend geschlossen" in einem Patentanspruch; weiteres Sachverständigengutachten wegen mangelnder Berücksichtigung patentrechtlicher Vorgaben - Insassenschutzsystemsteuereinheit</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Insassenschutzsystemsteuereinheit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Angabe "weitgehend geschlossen" in einem Patentanspruch kann dahin auszulegen sein, dass ein vollständiger Verschluss nicht erfasst ist (hier in einem Fall ausgesprochen, in dem für den Stand der Technik ein solcher Verschluss kennzeichnend war) .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Nach einer Anhörung des gerichtlichen Sachverständigen in der mündlichen Verhandlung über eine Patentnichtigkeitsklage braucht ein zweites Sachverständigengutachten nicht allein deshalb erhoben zu werden, weil das schriftliche Gutachten des angehörten Sachverständigen patentrechtliche Vorgaben noch nicht hinreichend berücksichtigt hatte .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 23. November 2005 verkündete Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts abgeändert und wie folgt neu gefasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 667 822 wird mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland im Umfang seines Patentanspruchs 8 für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Rechtsstreits tragen die Klägerin 90/100 und die Beklagte 10/100.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des auch mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland erteilten europäischen Patents 667 822 (Streitpatents), das am 5. November 1993 unter Inanspruchnahme der Priorität des deutschen Gebrauchsmusters 92 15 382 vom 11. November 1992 und der deutschen Offenlegungsschrift 43 22 488 vom 6. Juli 1993 angemeldet worden ist. Das Streitpatent ist in der Verfahrenssprache Deutsch veröffentlicht und umfasst zehn Ansprüche, die insgesamt angegriffen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Steuereinheit für ein bei einem entsprechend schweren Verkehrsunfall auszulösendes Insassenschutzsystem eines Fahrzeugs, mit mindestens einem auf Druckanstieg in einem Hohlkörper ansprechenden, in einem Seitenteil der Fahrzeugkarosserie angeordneten Detektor, der als Sensor zur Erkennung des einen Seitenaufprall darstellenden Verkehrsunfalls dient, dadurch gekennzeichnet, dass ein weitgehend geschlossenes Seitenteil der Fahrzeugkarosserie als Hohlkörper dient und ein Steuergerät des Insassenschutzsystems den bei dem Seitenaufprall in dem Hohlkörper auftretenden, durch den Sensor erfassten stoßartigen und weitgehend adiabatischen Luftdruckanstieg auswertet."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Wegen der weiteren angegriffenen und jeweils auf Anspruch 1 rückbezogenen Patentansprüche 2 bis 10 wird auf die Streitpatentschrift Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig, denn er sei weder neu noch beruhe er auf erfinderischer Tätigkeit. Zu Unrecht sei die Priorität des deutschen Gebrauchsmusters 92 15 382 in Anspruch genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Bundespatentgericht hat das Streitpatent in vollem Umfang für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Hiergegen wendet sich die Beklagte mit ihrer Berufung, wobei sie Anspruch 8 nicht mehr verteidigt. Sie beantragt im Übrigen hauptsächlich,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">unter Abänderung des angefochtenen Urteils die Klage abzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Im Auftrag des Senats hat Professor Dr.-Ing. W., …, Institut für Kraftfahrwesen, ein schriftliches Gutachten erstattet, das er in der mündlichen Verhandlung erläutert und ergänzt hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Soweit das Streitpatent nicht mehr verteidigt wird (Patentanspruch 8), verbleibt es bei der Nichtigerklärung durch das Patentgericht (st. Rspr., vgl. Sen.Urt. v. 14.9.2004 - X ZR 149/01, GRUR 2005, 145, 146 - elektronisches Modul). Im Übrigen hat die zulässige Berufung der Beklagten Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>A. Das Streitpatent betrifft eine Steuereinheit, die bei einem schweren, die Fahrzeugseite betreffenden Verkehrsunfall Insassenschutzsysteme, insbesondere Airbags, zuverlässig auslösen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>I. Die Beschreibung des Streitpatents gibt an, dass aus der deutschen Offenlegungsschrift 1 944 289 eine Steuereinheit bekannt sei, die einen oder mehrere miteinander verbundene, lang gestreckte Hohlkörper rund um die Karosserie aufweise, die mit einem flüssigen oder gasförmigen Medium gefüllt seien. An den Enden oder an den Anschlussstellen seien Auslöser in Form von Ventilen angebracht, die bei einer Verformung des Hohlkörpers die sich ausbreitende Druckwelle erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Eine aus der veröffentlichten europäischen Patentanmeldung 305 654 bekannte Steuereinheit weise zur Messung von durch einen Aufprall hervorgerufenen Schall- und Körperschallschwingungen mehrere Körperschallsensoren und Mikrofone auf. Dabei würden die akustischen Leistungsspektren der Schall- und Körperschallsignale hinsichtlich Art und Richtung des Aufpralls ausgewertet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>II. An der erstgenannten Steuereinheit kritisiert die Beschreibung, dass diese einen zu komplexen Aufbau aufweise. Durch die Anordnung rohrförmiger Hohlkörper könne zudem nur ein Aufprall erkannt werden, der den Hohlkörper mit seinen kleinen Abmessungen verforme. Eine großflächige Verlegung der mit einem Medium gefüllten Hohlkörper sei andererseits aus Gewichtsgründen nicht praktikabel und zu aufwändig. Des Weiteren könne durch die Anordnung von Auslösern an den Enden der Hohlkörper und insbesondere bei flüssigen Medien in den Hohlkörpern die Zeitspanne zwischen dem Aufprall und der Aufnahme der Druckwelle durch den Auslöser sehr groß sein. Bei der zuletzt genannten Steuereinheit sei nachteilig, dass die akustischen Leistungsspektren von Schall- und Körperschallsignalen keine Aussage hinsichtlich der Schwere eines Aufpralls zuließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>III. Durch das Streitpatent soll demnach unter Vermeidung dieser Nachteile eine einfache Steuereinheit für ein Insassenschutzsystem eines Fahrzeugs zur Verfügung gestellt werden, die die Schwere eines Unfalls schnell erkennt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>IV. Nach Patentanspruch 1 soll dies durch eine Steuereinheit für ein bei einem entsprechend schweren Verkehrsunfall auszulösendes Insassenschutzsystem eines Fahrzeugs folgender Merkmalskombination erreicht werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Sie hat mindestens einen Detektor, der</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) als Sensor zur Erkennung des einen Seitenaufprall darstellenden Verkehrsunfalls dient,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) auf einen Druckanstieg in einem Hohlkörper anspricht,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) in einem Seitenteil der Fahrzeugkarosserie angeordnet ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(1) das weitgehend geschlossen ist</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2) und als Hohlkörper dient,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) den bei einem Seitenaufprall dort auftretenden stoßartigen und weitgehend adiabatischen Luftdruckanstieg erfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Ein Steuergerät des Insassenschutzsystems wertet den auftretenden stoßartigen und weitgehend adiabatischen Luftdruckanstieg aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend verkleinert wiedergegebenen Zeichnungen aus der Streitpatentschrift zeigen ein Halbleiter-Mikrofon als Luftdrucksensor der erfindungsgemäßen Steuereinheit (Figur 2) sowie eine beispielhafte Einbausituation in einer Fahrzeugtür (Figur 1):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="263px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>V. Die patentierte Lehre zum technischen Handeln setzt auf Druckanstiege, wie sie typisch für Aufprallsituationen sind, die ein Auslösen eines Insassenschutzsystems erfordern, und nach der zum Stand der Technik gehörenden deutschen Offenlegungsschrift 1 944 289 beim Zusammendrücken eines auch in einem Seitenteil angeordneten geschlossenen Hohlraums erfasst werden. Anders als bei einem Geschehen, das ein Auslösen beispielsweise eines Airbags keinesfalls rechtfertigt, ergeben sich dann ausweislich Sp. 3 Z. 31 ff. extrem niederfrequente Komponenten, die einen Luftdruckanstieg in einem Hohlraum innerhalb von wenigen msec kennzeichnen. Der Patentanspruch 1 drückt das dahin aus, dass patentgemäß ein stoßartiger und weitgehend adiabatischer Luftdruckanstieg erfasst werde (Merkmal 1 d). Der gerichtliche Sachverständige hat diese Deutung als fachlicher Sicht entsprechend bestätigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>In Abkehr von der zum Ausgang der Darstellung in der Beschreibung genommenen Lösung im Stand der Technik soll die Erfassung eines derartigen Druckanstiegs jedoch nicht mit Hilfe eines geschlossenen Hohlkörpers erfolgen. Diese Deutung ergibt sich aus der Wortwahl des Streitpatents. Es bezeichnet das in der deutschen Offenlegungsschrift 1 944 289 vorgeschlagene System als Hohlkörper (Sp. 1 Z. 7). Dieses besteht aus rohrförmigen Gebilden, die bei einem Unfall verformt werden und hierdurch einen Druckstoß bereitstellen, der zur Auslösung von die Unfallgefahren mindernden Funktionen genutzt wird. Diese Hohlkörper müssen - wie ein Fachmann auch aus der Darstellung in Sp. 1 Z. 5 ff. der Beschreibung des Streitpatents erkennt - notwendiger Weise gänzlich geschlossen sein. Könnte man sich auch patentgemäß eines solchen Hohlkörpers bedienen, hätte es aus fachlicher Sicht ausgereicht, zur Kennzeichnung der geschützten Lehre ebenfalls den bloßen Begriff Hohlkörper zu verwenden. Der Patentanspruch enthält jedoch den Zusatz "weitgehend geschlossen". Das weist im Vergleich zu der Lösung nach der deutschen Offenlegungsschrift 1 944 289 auf eine Einschränkung hin, eben weil dort ein geschlossenes System erforderlich ist. Dass es gerade darum geht, sich einen solchen Hohlkörper zu ersparen, und stattdessen einen Raum zu nutzen, der <em>nur</em> weitgehend geschlossen ist, wird sodann dadurch bestätigt, dass der patentgemäß vorausgesetzte umschlossene Raum außerdem seiner Funktion nach beschrieben ist. Laut Merkmal 1 c (2) dient er nur als Hohlkörper; er ist also kein Hohlkörper, wie er aus dem Stand der Technik bekannt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Erläuterung der Erfindung in der Beschreibung und den Figuren des Streitpatents steht dieser Auslegung des Patentanspruchs 1 nicht entgegen. Die vorgenommene Wertung erklärt vielmehr, warum in Figur 1 die Seitentür selbst als umschlossener Raum dargestellt ist, der die Erfassungsvorrichtung aufnimmt. Unter diesen Umständen kann auch aus der Darstellung in Sp. 4 Z. 12 ff. der Beschreibung, auf welche die Klägerin in der mündlichen Verhandlung wesentlich abgehoben hat, Gegenteiliges nicht hergeleitet werden. Die dort erwähnte Vergrößerung der Empfindlichkeit der Erfassung im Falle eines weitgehend dichten abgeschlossenen Hohlkörpers kann auch zwanglos als Vergleich mit einem weitgehend offenen System und als Hinweis verstanden werden, dass bei Einhaltung einer hinreichenden Abgeschlossenheit, nämlich einer, welche die gemäß Merkmal 1 d vorgesehene Erfassung eines stoßartigen und weitgehend adiabatischen Luftdruckanstiegs erlaubt, die Genauigkeit der Steuereinheit entweder bei der Konstruktion des den Sensor aufnehmenden Seitenteils über das Maß der weitgehenden Geschlossenheit oder über die Auswahl unter vorhandenen, in ihrer Geschlossenheit aber unterschiedlichen Seitenteilen beeinflusst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 sieht schließlich als Erfassungsvorrichtung einen Sensor vor, der als einzige Qualifikation die Befähigung besitzen muss, auf einen Druckanstieg in einem geschlossenen Hohlkörper anzusprechen. Nach der Lehre des Streitpatents ist ein solcher Sensor nunmehr freilich in einem lediglich als Hohlkörper dienenden, weil nur weitgehend geschlossenen Raum eines Seitenteils der Fahrzeugkarosserie vorzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Die Lösung nach dem Streitpatent erfüllt hiernach das in Sp. 1 Z. 35 f. der Beschreibung genannte technische Problem, eine einfache Steuereinheit zur Verfügung zu stellen. Denn sie zeichnet sich dadurch aus, keinen besonderen umschlossenen Bauteil als Seitenteil in der Fahrzeugkaroserie vorsehen zu müssen, sondern - wenn erwünscht - dort ohnehin vorhandene Seitenteile nutzen zu können, ohne für aufwändige Abdichtungen sorgen zu müssen, ferner keinen besonderen Detektor für nur weitgehend geschlossene Räume zu brauchen, weil auf einen Sensor zurückgegriffen werden kann, der in geschlossenen Hohlkörpern auf Luftdruckanstieg anspricht, und schließlich auch noch dessen Anbringungsort in dem als Hohlkörper dienenden Seitenteil frei wählen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>B. I. Der Gegenstand des Patentanspruchs 1 ist neu (Art. 54 EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>1. Angesichts des durch Auslegung bestimmten Inhalts (Sinngehalts) des Patentanspruchs 1 offenbart die japanische Offenlegungsschrift Hei 5-66228 dessen Lehre nicht, so dass dahinstehen kann, ob das Streitpatent die Priorität des deutschen Gebrauchsmusters 92 15 382 vom 11. November 1992 wirksam in Anspruch genommen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die japanische Offenlegungsschrift Hei 5-66228 schlägt zwar ebenfalls eine Einrichtung zur Seitenaufprallerfassung bei Fahrzeugen vor. Sie lehrt jedoch, zwischen der Außen- und der Innenwand einer Seitentüre eine Trennwand einzuziehen, so dass sich zur Außenwand hin ein geschlossener dichter Raum ergibt. Die von der Klägerin angeführten elastischen Körper 8 stellen das nicht in Frage. Denn sie schützen vor Eindringen von Regenwasser in den Raum zwischen der Innenwand und der Trennwand. Die Dichtigkeit des zwischen der Trennwand und der Außenwand gebildeten Bereichs beeinflussen sie jedoch nicht. In diesem abgedichteten Raum sollen zum Beispiel Mikrofone arbeiten, die im Fall einer Verformung der Türe die dort stattfindende Druckerhöhung erfassen. Weder beschrieben noch gezeigt ist damit der Einsatz eines Sensors in einem nur weitgehend geschlossenen Seitenteil der Fahrzeugkarosserie gemäß Merkmal 1 c (1), das gemäß Merkmal 1 c (2) lediglich als Hohlkörper dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Auch die deutsche Offenlegungsschrift 42 01 822 betrifft eine Steuereinheit für ein bei einem Verkehrsunfall auszulösendes Insassenschutzsystem. Der Detektor ist wahlweise als piezoelektrisches Element, Beschleunigungssensor oder Magnetanker mit Eisenkern ausgebildet und in einem weitgehend geschlossenen Raum, nämlich innerhalb des aus Innenwandung und Außenwandung gebildeten Innenraums einer Fahrzeugtür angeordnet. Nicht offenbart wird jedoch, den Sensor auf einen Luftdruckanstieg ansprechen zu lassen (Merkmal 1 b) und in einem als Hohlkörper dienenden, weil weitgehend geschlossenen Seitenteil einen Luftdruckanstieg zu erfassen (Merkmal 1 c). Soweit in der Sp. 2 Z. 26-27 der deutschen Offenlegungsschrift 42 01 822 die Verwendung eines druckempfindlichen Sensorelements erwähnt wird, detektiert dieses, wie der Sachverständige in der mündlichen Verhandlung bestätigt hat, den Deformationsweg eines Verstärkungselements, das in der Tür als zusätzliches Bauteil vorgesehen ist, damit beispielsweise ein Airbag nicht schon bei geringfügiger Beschädigung der Außenwandung der Tür auslöst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Alle anderen Entgegenhaltungen kommen dem Patentanspruch 1 nicht näher. Zusammenfassend kann man sagen, dass der mit Hilfe eines Luftdruckanstiegs detektierende Stand der Technik - wie durch die japanischen Offenlegungsschrift Hei 5-66228 belegt - durch die Erfassung in einem abgeschlossenen Hohlkörper geprägt ist. Dies trifft insbesondere auch im Hinblick auf den in der japanischen Offenlegungsschrift Hei 2-249740 (Anmeldung 1-72628) gezeigten, in einer Seitentüre verbauten Lufttank zu, der zwar im Normalbetrieb über ein Ventil mit der Außenwelt verbunden und daher nicht vollständig dicht ist, bevor es zu einem Unfallgeschehen kommt, das eine Auslösung des Insassenschutzsystems erfordert. Im Falle eines derartigen Seitenaufpralls wird das Ventil aber geschlossen, um die Erfassung des Druckanstiegs in einem dann geschlossenen Raum zu ermöglichen (Übersetzung S. 12, Z. 20 - S. 13, Z. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>II. Nach dem gesamten Inhalt der mündlichen Verhandlung vermag der Senat nicht die Wertung zu treffen, dass sich der Gegenstand des Patentanspruchs 1 für einen Fachmann in naheliegender Weise aus dem Stand der Technik ergeben hat (Art. 56 EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>1. Auf Grund der Erörterung dieser Frage mit den Parteien und dem gerichtlichen Sachverständigen in der mündlichen Verhandlung geht der Senat davon aus, dass zum Anmeldezeitpunkt Entwicklungen auf dem hier interessierenden Gebiet der Technik üblicherweise von Universitäts- oder Fachhochschulingenieuren des Maschinenbaus oder der Elektrotechnik bzw. von Diplom-Physikern mit langjähriger Erfahrung in der Entwicklung von Sicherheitseinrichtungen für Kraftfahrzeuge vorgenommen wurden, die entweder in der Fahrzeugentwicklung bei einem Automobilhersteller oder bei einem größeren Zulieferbetrieb beschäftigt waren und sich auch mit der Entwicklung geeigneter Sensoren befassten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>2. Zu Unrecht beruft sich die Klägerin darauf, dass sich der Gegenstand des Patentanspruchs 1 für einen solchen Fachmann aus einer Kombination des Inhalts der deutschen Offenlegungsschriften 19 44 289 und 42 01 822 ergeben habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Wie bereits erwähnt, offenbart die deutsche Offenlegungsschrift 19 44 289 die Verwendung von rohrförmigen Gebilden, die bei einem Unfall verformt werden und hierdurch einen Druckstoß bereitstellen, der als Betätigungskraft zur Auslösung von die Unfallgefahren mindernden Funktionen dient. Die deutsche Offenlegungsschrift 42 01 822 hingegen sieht innerhalb der Tür ein Verstärkungselement vor, das im Falle eines Unfalls deformiert wird. Der daran bzw. daneben angeordnete Sensor ist dazu bestimmt, den Deformationsweg bzw. die Beschleunigung des Verstärkungselements zu messen. Das bedeutet einen prinzipiellen Unterschied in der Konstruktion, der aus fachlicher Sicht nicht an eine Kombination denken lässt. Jedenfalls ist aber auch für den Fall, dass eine kombinatorische Nutzung von Elementen in Betracht gezogen wird, in keiner der Schriften eine Anregung erkennbar, die in Richtung der wesentlichen Erkenntnis des Streitpatents geht, dass ein nur weitgehend geschlossenes Seitenteil der Fahrzeugkarosserie als Hohlkörper für einen Luftdrucksensor dienen und dort mittels eines für die Luftdruckmessung in geschlossenen Räumen geeigneten Sensors stoßartiger und weitgehend adiabatischer Luftdruckanstieg erfasst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>3. Auch durch die deutsche Offenlegungsschrift 42 01 822 in Verbindung mit der Offenbarung in dem japanischen Dokument Sho 59-146247 wurde der Gegenstand des Patentanspruchs 1 des Streitpatents nicht nahe gelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich schon daraus, dass entgegen der Ansicht der Klägerin das japanische Dokument nicht die Erfassung eines stoßartigen und weitgehend adiabatischen Luftdruckanstiegs offenbart. Aus fachlicher Sicht behandelt diese Entgegenhaltung nur leichte Kollisionen beim Einparken eines Fahrzeugs und stellt eine Art Abstandwarngerät mit den damals zur Verfügung stehenden Mitteln bereit. Denn der einzige Schutzanspruch fordert eine Mitteilung des Ereignisses an den Fahrer, was nur dann sinnvoll ist, wenn von diesem auch eine Reaktion erwartet werden kann. Dies erscheint bei einem schweren, sich innerhalb von nur wenigen Millisekunden abspielenden Unfall wenig sachgerecht. Es muss deshalb davon ausgegangen werden, dass ein Fachmann diese Veröffentlichung in dem hier interessierenden Zusammenhang gar nicht in Erwägung gezogen hat. Der gerichtliche Sachverständige hat dies bei seiner Anhörung in der mündlichen Verhandlung ebenso gesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>4. Ebenfalls ohne Erfolg beruft sich die Klägerin darauf, dass die nachfolgend angeführten drei Entgegenhaltungen jeweils in Verbindung mit dem S.-Datenbuch 1990/91, das auf Seite 95 in Bild 4 einen Differenzdrucksensor offenbart, wie er mit Figur 2 in der Streitpatentschrift abgebildet ist, den Gegenstand des Patentanspruchs 1 des Streitpatents nahe gelegt hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>a) Schon ein Grund, warum ein Fachmann auf die Idee hätte kommen können, den S.-Sensor im Rahmen oder in Abwandlung der in der deutschen Offenlegungsschrift 19 44 289 vorgeschlagenen Lösung einzusetzen, ist nicht ersichtlich. Denn beim oben bereits abgehandelten Gegenstand der deutschen Offenlegungsschrift 19 44 289 bildet der völlig abgeschlossene rohrförmige Hohlkörper, der mit einem beliebigen Medium gefüllt ist, selbst die Gebeeinrichtung, die auf die Verformung der umgebenden Teile sowie die eigene Verformung anspricht. Eines Sensors bedarf es hier nicht. Zum Auffinden der Lehre des Streitpatents hätte abgesehen davon auch noch gehört, sich die Erkenntnis zu erschließen, dass auf die Druckmessung in einem herkömmlichen, abgeschlossenen Hohlkörper verzichtet werden und stattdessen ein weitgehend geschlossenes Seitenteil der Fahrzeugkarosserie als Hohlkörper im Sinne einer Messumgebung für den Drucksensor verwendet werden kann. Hierfür geben beide Entgegenhaltungen nichts her.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>b) Angesichts dessen, was oben über die deutsche Offenlegungsschrift 42 01 822 bereits gesagt ist, gibt der dort gemachte Vorschlag einen anderen Weg als das Streitpatent vor, weil innerhalb der Tür ein Verstärkungselement vorzusehen ist, das im Falle eines Unfalls deformiert wird. Der Sensor, auch der in Sp. 2 Z. 26-27 der deutschen Offenlegungsschrift 42 01 822 beschriebene, ist demgemäß dazu bestimmt, den Deformationsweg oder die Beschleunigung des Verstärkungselements zu messen. Inwiefern sich ein Fachmann, der sich von dieser Offenbarung ausgehend an einer Weiterentwicklung versucht, für das S.-Datenbuch 1990/1991 und den darin enthaltenen Differenzdrucksensor überhaupt interessiert haben sollte, ergibt sich auch aus den Darlegungen der Klägerin nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>c) Schließlich lässt sich das Naheliegen auch nicht aus der deutschen Offenlegungsschrift 40 18 470 in Verbindung mit dem S.-Datenbuch 1990/1991 und seinem Sensor herleiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Die deutsche Offenlegungsschrift 40 18 470 befasst sich mit der sachgerechten Anordnung eines Seitenairbags. Sie offenbart, dass dieser in der Lehne des Sitzes eines Fahrzeugs untergebracht werden kann, und schlägt hierfür bestimmte Gestaltungen vor. Das begründet Zweifel, ob ein Fachmann sich mit dieser Schrift überhaupt näher beschäftigte, wenn es zum Zeitpunkt der Anmeldung des Streitpatents seine Aufgabe war, eine Steuereinheit für die Erfassung und Auswertung eines Seitenaufpralls zu entwickeln. Die Erörterung dieser Frage mit dem gerichtlichen Sachverständigen in der mündlichen Verhandlung hat diese Zweifel bestätigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die Zweifel betreffen auch die eher beiläufige Erwähnung in der deutschen Offenlegungsschrift 40 18 470, dass ein Sensor, der auf die Verformung der Außenhaut der Tür anspricht, an der Innenseite der Außenhaut angebracht werden kann, wie es in Figur 2 dieser Entgegenhaltung dargestellt ist. Aber selbst wenn man davon ausgeht, dass der Fachmann sich für die deutsche Offenlegungsschrift 40 18 470 und dabei auch für diese Darstellung interessierte, kann nicht angenommen werden, dass sie geeignet war, den Weg zu der Lehre des Streitpatents zu weisen. Denn angesichts der Beiläufigkeit der Darstellung des Sensors in der Figur 2, die auch darin zum Ausdruck kommt, dass sie in Figur 4 nicht wiederholt ist, konnte man sie zwanglos lediglich als ganz allgemein gehaltenen Hinweis verstehen, dass selbstverständlich ein Auslösemittel benötigt werde, das auf einen Seitenaufprall anspricht, und wo dies angebracht werden könne. Durch ein solches naheliegendes ganz im Allgemeinen bleibendes Verständnis war der Blick des Fachmanns, was die konkrete Ausgestaltung der Örtlichkeit und des Detektors anbelangt, auf die Vorbilder im Stand der Technik verwiesen. Wie sich aus den obigen Ausführungen ergibt, waren diese aber selbst für Fachleute, die auf Luftdruckmessung setzten und die deshalb auch den S.-Sensor im Blick gehabt haben könnten, dadurch gekennzeichnet, dass ein auf einen Druckanstieg in einem geschlossenen Hohlkörper ansprechender Sensor auch in einem solchen geschlossenen Hohlkörper eingesetzt wurde. Ausweislich der japanischen Offenlegungsschrift Hei 2-249740 hielt der Entwickler dieser 1989 angemeldeten Neuerung es sogar für nötig, dafür zu sorgen, dass das Ventil, das einen Austausch der Luft in dem Tank mit der Umgebungsluft erlaubt, im Falle eines Seitenaufpralls geschlossen wird, um den damit verbundenen Druckanstieg in einem vollständig geschlossenen Hohlkörper zu erfassen. Unter diesen Umständen verbietet sich auch die Annahme, für einen Fachmann, der daran ging, für einen nach Maßgabe der deutschen Offenlegungsschrift 40 18 470 gestalteten Seitenairbag eine konkrete Steuereinheit, die den Luftdruckanstieg erfasst und auswertet, zu konstruieren, sei ohne erfinderisches Bemühen etwas anderes in Betracht gekommen, als ebenfalls Sorge zu tragen, dass der Sensor in einem geschlossenen Hohlraum arbeitet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Eine andere Bewertung rechtfertigt auch nicht der Beschreibungsteil in Sp. 2 Z. 45-61 der deutschen Offenlegungsschrift 40 18 470. Diese Textstelle lässt vielmehr sogar fraglich sein, dass - wie soeben unterstellt - ein Fachmann auf Grund der deutschen Offenlegungsschrift 40 18 470 überhaupt Anregung erhielt, eine nach Maßgabe der deutschen Offenlegungsschrift 40 18 470 gestaltete Konstruktion mit Hilfe einer Erfassung des Luftdruckanstiegs zu betreiben. Der dort verwendete Begriff "piezoelektrisch" kann zwar auch benutzt werden, wenn ein Aufprall nur mittelbar über den Anstieg des Drucks in einem Hohlkörper erfasst wird. Nach den Erläuterungen des Sachverständigen im Termin kann aber nicht ausgeschlossen werden, dass ein Fachmann - wenn er diese Schrift nicht ohnehin bei Seite legte, weil sie nur eine Neuerung für die Anbringung des Airbags verspricht - die zitierte Beschreibungsstelle ausschließlich dahingehend verstand, dass ein hydraulischer bzw. piezoelektrischer Drucksensor oder ein Membranschalter zur Feststellung des Seitenaufpralls verwendet werden könne, mit dem eine unmittelbare Erfassung der Verformung in Form von Druckenergie direkt an der Außenwand der Tür erfolge. Bei diesem Verständnis konnte weder der S.-Sensor als Mittel der Wahl erscheinen, noch war sonst ein Weg zu dem Gegenstand des Patentanspruchs 1 des Streitpatents eröffnet, weil dieser eine mittelbare Erfassung über den Luftdruckanstieg lehrt, wobei sich der Luftdrucksensor an einer beliebigen Stelle im Inneren des lediglich als Hohlkörper dienenden Raums im Seitenteil befinden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>C. Die Einholung eines weiteren Sachverständigengutachtens, deren Beantragung die Klägerin trotz Anhörung des gerichtlichen Sachverständigen in der mündlichen Verhandlung aufrechterhalten hat, hat der Senat nicht für erforderlich gehalten (§ 115 Abs. 1 PatG; § 412 Abs. 1 ZPO). Wie die Klägerin schriftsätzlich zu Recht geltend gemacht hatte, hat der gerichtliche Sachverständige zwar in Anbetracht der Bedeutung, die er dem in Figur 2 des Streitpatents abgebildeten S.-Sensor zugeschrieben hat, der Erfassung des Inhalts des Patentanspruchs 1 in seinem schriftlichen Gutachten eine Betrachtungsweise zu Grunde gelegt, die dem patentrechtlich Gebotenen nicht entspricht. Der Senat hat dem Sachverständigen zu Beginn der mündlichen Verhandlung die patentrechtlich maßgeblichen Auslegungsgrundsätze jedoch erläutert, die Befragung auf dieser Grundlage durchgeführt und den Antworten entnommen, dass sie das patentrechtlich Gebotene nicht außer Acht gelassen haben. Auch die Klägerin hat nicht geltend gemacht, dass die mündlichen Erläuterungen des Sachverständigen in dieser Hinsicht noch zu beanstanden seien. Zum anderen bedeutet die Auslegung eines Patentanspruchs keine Tatsachenfeststellung etwa dahin, wie ein Fachmann den Wortlaut des Patentanspruchs versteht. Sie besteht vielmehr in der Bestimmung, wie dessen Lehre zum technischen Handeln nach objektiven Maßstäben aus fachlicher Sicht zu bewerten ist (vgl. Sen.Urt. v. 22.12.2009 - X ZR 56/08 Tz. 29 - Kettenradanordnung II, für BGHZ vorgesehen) und erfordert ebenso wie die Bejahung oder Verneinung erfinderischer Tätigkeit einen Akt wertender Entscheidung über eine Rechtsfrage (st. Rspr. seit BGH, Urt. v. 26.9.1996 - X ZR 72/94, GRUR 1997, 116, 117 f. - Prospekthalter; vgl. z.B. BGHZ 160, 204, 212 - Bodenseitige Vereinzelungseinrichtung; BGHZ 180, 215, 220 Tz. 16 - Straßenbaumaschine), die allein und eigenverantwortlich das Gericht zu treffen hat (BGHZ 180, 215, 220 Tz. 18 f. - Straßenbaumaschine m.w.N.). Sachverständige Äußerungen hierzu haben im Patentnichtigkeitsverfahren wie im Patentverletzungsprozess (vgl. BGHZ 171, 120 Tz. 18 - Kettenradanordnung I; GRUR 2008, 779 Tz. 31 f. - Mehrgangnabe; Sen.Urt. v. 22.12.2009 - X ZR 55/08; Sen.Urt. v. 22.12.2009, - X ZR 56/08) lediglich die Aufgabe, dem Gericht gegebenenfalls die für die jeweilige Bewertung erforderlichen technischen Zusammenhänge zu erläutern und den erforderlichen Einblick in die Kenntnisse, Fertigkeiten und Erfahrungen der jeweils typischen, im Durchschnitt der beteiligten Kreise angesiedelten Vertreter der einschlägigen Fachwelt einschließlich ihrer methodischen Herangehensweise zu vermitteln (Sen.Urt. v. 22.12.2009 - X ZR 56/08 Tz. 26 - Kettenradanordnung II, für BGHZ vorgesehen). Soweit - wie hier - aufgrund der Ausführungen des Sachverständigen im Termin für den Senat kein weiterer dahingehender Erläuterungsbedarf mehr besteht, erfordert daher allein die Tatsache, dass das schriftliche Gutachten patentrechtliche Vorgaben noch nicht hinreichend berücksichtigt hatte, nicht die Einholung eines neuen Sachverständigengutachtens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>D. Die Unteransprüche 2 bis 7 und 9 bis 10 haben aufgrund ihrer Abhängigkeit von Anspruch 1 ebenfalls Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>E. Die Kostenentscheidung folgt aus § 121 Abs. 2 PatG i.V. mit § 92 Abs. 1 Satz 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Scharen                                   Keukenschrijver                                        Gröning</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                         Berger                                                  Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE315332010&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

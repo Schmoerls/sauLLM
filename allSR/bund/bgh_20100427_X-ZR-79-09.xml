@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300532010</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20100427</entsch-datum>
+   <aktenzeichen>X ZR 79/09</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, § 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 31. März 2009, Az: 3 Ni 30/08 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Europäisches Patentrecht: Patentfähigkeit der Auswahl eines modifizierten Materials für ein als solches bekanntes einfach strukturiertes Werkzeug - Fugenglätter</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Fugenglätter</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Beschränkt sich die Problemlösung darauf, ein als solches bekanntes, einfach strukturiertes Werkzeug (hier: Kunststoffkeil zum Glätten von Silikonfugen) aus einem modifizierten Material (hier: Elastomer statt Kunststoff) herzustellen und darüber hinaus nur auf die Anweisung, den Gegenstand geometrisch (Gesamtgröße und Bemaßung der Randaufkantung im Verhältnis zum Innenbereich) so auszulegen, dass die Eigenschaften des gewählten Materials optimal ausgenützt werden können, handelt es sich auch dann um eine von einem durchschnittlich versierten Fachmann zu erwartende Entwicklungsleistung, wenn für die Auswahl des Werkstoffs Vorbilder im Stand der Technik nicht auszumachen sind (im Anschluss an BGH, 12. Februar 2003, X ZR 200/99, GRUR 2003, 693 - Hochdruckreiniger; BGH, 4. Februar 2010, Xa ZR 36/08 Tz. 27 - Gelenkanordnung) .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 31. März 2009 verkündete Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten des Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Beklagte ist eingetragener Inhaber des am 13. April 1995 angemeldeten und unter anderem für das Hoheitsgebiet der Bundesrepublik Deutschland erteilten europäischen Patents 711 887 (Streitpatents), dessen Anspruch 1 im Einspruchsbeschwerdeverfahren in der Verfahrenssprache folgenden Wortlaut erhalten hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Werkzeug zur Nacharbeit von Fugen, die mit dauerelastischer Fugenmasse, insbesondere Kunststoffmasse gefüllt sind, welches eine ebene Platte mit einer im Wesentlichen konstanten Dicke und mit einem umlaufenden, beidseitig senkrecht zur Plattenebene überstehenden Rand ist, der seinerseits aus drei aneinander anschließenden Kanten besteht, wobei zwei Kanten gerade sind und eine Kante bogenförmig verläuft, wobei die beiden geraden Kanten sowie die längere der beiden geraden Kanten und die gebogene Kante einen spitzen Winkel einschließen,  d a d u r c h  g e k e n n z e i c h e t , dass das Werkzeug aus einem Elastomer besteht und im Innern relativ dünn und weich ist und somit durch Biegen optimal angepasst werden kann."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Wegen der Ansprüche 2 bis 10 wird auf die neue europäische Patentschrift (711 887 B2) Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit ihren vom Bundespatentgericht zu gemeinsamer Verhandlung und Entscheidung verbundenen Klagen haben die Klägerinnen das Streitpatent in vollem Umfang angegriffen und geltend gemacht, der Gegenstand seiner Ansprüche sei mangels Neuheit, jedenfalls aber mangels erfinderischer Tätigkeit nicht patentfähig. Sie haben sich dafür auf einen Beitrag in der Veröffentlichung "selbst ist der Mann Das Heimwerker-Magazin" Nr. 11, November 1988, Seite 73 (im Folgenden: Heimwerkermagazin) sowie auf das deutsche Gebrauchsmuster 85 03 947 U1 berufen. Der Beklagte ist den Klagen entgegengetreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Bundespatentgericht hat das Streitpatent antragsgemäß für nichtig erklärt. Mit seiner dagegen gerichteten Berufung, deren Zurückweisung die Klägerinnen beantragen, verfolgt der Beklagte seinen Klageabweisungsantrag weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat in der Sache keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. 1. Das Streitpatent betrifft ein Werkzeug zur Nacharbeit von mit dauerelastischer Fugenmasse, insbesondere Kunststoffmasse gefüllten Fugen. Der Beschreibung zufolge kann bei der Bearbeitung von Fugen überschüssiges Fugenmaterial oft nur sehr schwer geglättet oder abgetragen werden. Der Einsatz von als Werkzeugen in Betracht kommenden Spachteln oder ähnlichen Hilfsmitteln sei an Kanten, Ecken oder anderen unzugänglichen Stellen allenfalls erschwert möglich. Ein zusätzliches Problem bestehe darin, dass die Fugenmasse von den bekannten Werkzeugen nur schlecht aufgenommen werde und beim Glattstreichen vom Werkzeug fallen und beispielsweise die anliegenden Fliesen verunreinigen könne. Auch die Anbringung von Krepp-Klebebändern führe zu unbefriedigenden Arbeitsergebnissen bzw. gefährde diese dadurch, dass beim Abziehen die Fugenmasse vom Klebeband abbröckle und die Fliesen verschmutze oder in die soeben geglättete Fuge falle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="562px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>2. Die Streitpatentschrift erwähnt des Weiteren den nachstehend eingefügten, im Tatbestand erwähnten Beitrag aus dem Heimwerkermagazin:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>3. An dem mit diesem Beitrag vorgestellten Kunststoffkeil bemängelt die Streitpatentschrift, dass er sich nur in begrenztem Umfang zur Aufnahme des abgetragenen Materials eigne. Demgegenüber habe die Erfindung es sich zur Aufgabe gemacht, ein Werkzeug anzugeben, mit dem bei verbesserter Handhabung Fugen geglättet und überschüssige Fugenmaterialien exakt und ohne weitere Hilfsmittel abgetragen werden könnten. Zur Nacharbeit von mit dauerelastischer Fugenmasse, insbesondere Kunststoffmasse gefüllten Fugen wird ein Werkzeug vorgeschlagen (ohne Bezugsziffern; in Klammern die vom Bundespatentgericht vorgenommene Merkmalsnummerierung) mit:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. (<strong>M1</strong>) einer ebenen Platte</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 (<strong>M2</strong>) mit im Wesentlichen konstanter Dicke</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. (<strong>M3</strong>) und einem beidseitig umlaufenden Rand,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 (<strong>M4</strong>) der senkrecht zur Plattenebene übersteht und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 (<strong>M5</strong>) aus drei aneinander anschließenden Kanten besteht, von denen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">2.2.1 (<strong>M6</strong>) zwei gerade sind und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">2.2.2 (<strong>M7</strong>) eine bogenförmig verläuft</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. (<strong>M8</strong>) die beiden geraden Kanten und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. (<strong>M9</strong>) die längere der beiden geraden Kanten und die gebogene Kante jeweils einen spitzen Winkel einschließen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. (<strong>M10</strong>) das (Werkzeug) aus einem Elastomer besteht und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.1 (<strong>M11</strong>) im Inneren relativ dünn und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.2 (<strong>M12</strong>) relativ weich ist</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.3 (<strong>M13</strong>) und somit durch Biegen optimal angepasst werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Zeichnung der Streitpatentschrift zeigt folgendes Ausführungsbeispiel:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="225px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>4. Das patentgemäße Werkzeug besteht aus einer Platte (1), die beidseitig mit umlaufenden Rändern (2) versehen ist, die jeweils aus zwei geraden und einer bogenförmigen Kante (3, 4, 5) bestehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Die Angabe, dass das Werkzeug aus einem Elastomer besteht (Merkmal 5), ist dahin zu verstehen, dass Platte und Ränder aus demselben, homogenen Elastomer-Materialgemisch bestehen. Denn weder der Wortlaut der Ansprüche noch die Beschreibung bieten Anhaltspunkte für die Annahme, dass diese beiden Bereiche aus jeweils unterschiedlichen Elastomer-Materialien mit entsprechend unterschiedlichem Härtegrad zusammengefügt sein sollen. Gleichwohl werden an das Material in den verschiedenen Bereichen des Werkzeugs divergierende Anforderungen gestellt. Es soll durch die Kanten verstärkt werden, wodurch die Platte am Rand relativ hart und dadurch eine maximale Kraftentwicklung gegeben sein soll, ohne dass seine Flexibilität leidet, da es im Inneren relativ dünn und weich ist (Beschreibung Tz. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>b) Der Beschreibung in ihrer Gesamtheit ist zu entnehmen, dass die vorgenannten Eigenschaften durch Wahl eines Elastomers mit ausreichender Flexibilität bei gleichzeitiger genügender Festigkeit am Rand und Abriebsfestigkeit (Beschreibung Tz. 9) gewährleistet und dass die Flexibilität im Inneren und die Festigkeit am Rande gegebenenfalls außerdem durch entsprechende Bemaßung des Werkzeugs erzielt werden soll (Beschreibung Tz. 10). Aus der in diesem Zusammenhang erfolgten Bemerkung, dass "auch" die Längen der Kanten zweckmäßigerweise auf die manuelle Benutzung abgestimmt werden, ergibt sich, dass zur Verwirklichung des erforderlichen Verhältnisses von Flexibilität und Festigkeit auch weitere geometrische Parameter, namentlich Breite und Höhe des Randes im Verhältnis zur Dicke und Größe der Platte eingesetzt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>c) Soweit die Platte (Merkmal 1) eine "im Wesentlichen" konstante Dicke aufweist, signalisiert diese Relativierung - wie häufig in Patentansprüchen -, dass die Platte grundsätzlich von konstanter Höhe ist - was im Übrigen im Patentanspruch auch dadurch zum Ausdruck kommt, dass sie als "eben" bezeichnet wird -, dass die absolute Konstanz aber keine Bedingung für die erfolgreiche Nacharbeit der Lehre ist und dass deshalb gewisse, etwa fertigungsbedingte Unebenheiten toleriert werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht des Beklagten ist der Angabe "im Wesentlichen" aber nicht zu entnehmen, dass die Platte patentgemäß gezielt in verschiedenen Bereichen mit unterschiedlicher Dicke modelliert werden soll. Das ergibt sich auch nicht in Verbindung mit der Anweisung, dass das Werkzeug "im Inneren" relativ dünn und weich ist. Aus fachmännischer Sicht wird die Bezeichnung "im Inneren" vielmehr als Synonym für "Platte" (Merkmal 1) benutzt, mit dem hervorgehoben wird, dass der Bereich der Platte vom Rand zu unterscheiden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Hätte mit Patentanspruch 1 das unter Schutz gestellt werden sollen, was der Beklagte nunmehr mit seinem Verständnis der Merkmalselemente "im Wesentlichen konstante Dicke" und "im Inneren" verbunden wissen möchte, dass damit nämlich ein über den gesamten Querschnitt der Platte spezifisches Profil beschrieben wird, bei dem Bereiche mit größerer und geringerer Dicke aneinander grenzen und die Letzteren im Zentrum der Platte zu lokalisieren sind (Berufungsbegründung S. 5), hätte die Streitpatentschrift sich nicht damit begnügt, dieses Ziel allein durch die genannten Formulierungen zum Ausdruck zu bringen. Entsprechende Absichten wären vielmehr in Gestalt konkreterer Anweisungen in die Patentansprüche eingeflossen oder jedenfalls in der Beschreibung - zumindest ansatzweise - verdeutlicht worden. Die erteilten Ansprüche enthielten aber überhaupt keine in diese Richtung zielenden Vorgaben und in die Fassung, die Patentanspruch 1 infolge des Einspruchsbeschwerdeverfahrens erhalten hat, sind sämtliche Angaben aufgenommen worden, die dazu in der Beschreibung enthalten waren. Sie erschöpfen sich, abgesehen von der Anweisung, dass das Werkzeug aus einem Elastomer besteht, in den Angaben, dass das Werkzeug "im Innern relativ dünn und weich ist und somit durch Biegen optimal angepasst werden kann" (Beschreibung der Europäischen Patentschrift [B 1] Sp. 2 Z. 10 ff.). Hinzu kommt, dass die Beschreibung, wie bereits ausgeführt, zur Gewährleistung der Flexibilität im Inneren und zur Erhaltung der Festigkeit am Rande zwar ausdrücklich auf die Möglichkeit einer entsprechenden Bemaßung des Werkzeugs hinweist, aber keine Strukturierung der Platte in unterschiedlich dicke Bereiche vorschlägt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>d) Welche Bedeutung innerhalb der Lehre des Streitpatents der Anweisung zukommt, das Werkzeug im Inneren relativ dünn und relativ weich zu gestalten, so dass es durch Biegen optimal angepasst werden kann, erschließt sich aus der Gesamtheit der im Lichte der Beschreibung gelesenen Anweisungen in der Merkmalsgruppe 5. Wie auch die Erörterungen mit den Vertretern der Beklagten in der mündlichen Verhandlung bestätigt haben, zielt die unter Schutz gestellte Lehre zum einen darauf, durch die Verformbarkeit sowohl ein Arbeiten an schwer zugänglichen Stellen zu ermöglichen. Namentlich die Kritik an dem im Heimwerkermagazin gezeigten Kunststoffkeil (Beschreibung Tz. 5), dass sich dieser nur in begrenztem Maße zur Aufnahme des abgetragenen Materials eigne, verdeutlicht zum anderen, dass das in Patentanspruch 1 beschriebene optimale Anpassen durch Biegen aber auch auf die Funktion zu beziehen ist, das abgetragene Material mit dem Werkzeug aufzunehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Vorgabe in Merkmal 5.3, das Werkzeug so zu gestalten, dass es durch Biegen optimal angepasst werden kann, ist auf beide vorstehend beschriebenen werkzeugmäßigen Anforderungen, denen es der Beschreibung zufolge genügen soll, zu beziehen, nämlich auf das Abtragen einerseits und das Aufnehmen von Fugenmaterial ohne weitere Hilfsmittel andererseits. Dem Werkzeug soll durch Auswahl des Materials und Abstimmung des Unterschieds von Höhe und Breite des Rands im Verhältnis zur Platte sowie gegebenenfalls durch seine gesamte Dimensionierung die erforderliche Elastizität verliehen werden, damit es für den Einsatz auf einer frisch verfugten Fliesenwand, insbesondere in schwer zugänglichen Bereichen wie Nischen oder Winkeln, in seinem ganzen Korpus durch Biegen verformt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Das Werkzeug im Inneren, also im Bereich der Platte, relativ dünn und weich zu gestalten, ist in diesem Zusammenhang dahin zu verstehen, dass die Höhe (Dicke) dieses Bereichs, also die Platte, im Verhältnis zum Rand ("relativ") so austariert werden soll, dass die Festigkeit für die Funktion des Abtragens gewahrt und die Biegsamkeit für das Aufnehmen des abgestreiften Fugenmaterials ohne weitere Hilfsmittel gewährleistet ("optimal aufeinander abgestimmt") ist. Soweit es die Aufnahmefunktion betrifft, soll, wie die Erörterungen in der mündlichen Verhandlung bestätigt haben, das Werkzeug mit einer anpassenden Verformung so durch komprimierende Druckausübung in der Hand verformt und auf der zu verfugenden Fläche angesetzt werden können, dass die Kanten mit längeren Abschnitten auf den Fliesen anliegen, wobei sich das Innere muldenförmig darüber wölbt und einen Hohlraum zur Aufnahme des Füllmaterials bildet, so dass das abgetragene Material infolge der Wölbung der Platte in der Hand besser aufgefangen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>II. Der Berufung ist der Erfolg zu versagen, weil der Gegenstand des Streitpatents nicht patentfähig ist (Art. 2 § 6 Abs. 1 Nr. 1 IntPatÜbkG i.V. mit Art. 138 Abs. 1 lit. a EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>1. Allerdings ist der Gegenstand von Patentanspruch 1 neu (Art. 56 Abs. 1 EPÜ), und zwar auch gegenüber dem in dem Heimwerkermagazin als Kunststoffkeil bezeichneten Werkzeug. Das Bundespatentgericht hat zu Recht angenommen, dass das Beschaffenheitsmerkmal "Elastomer" dort nicht deshalb offenbart ist, weil Elastomere generell zur Gattung der Kunststoffe gehören. Die gegenüber anderen Kunststoffarten charakteristische Eigenschaft von Elastomeren, formbeständig und zugleich elastisch verformbar zu sein, wird in der Veröffentlichung nicht beschrieben. Die Abbildungen, mit denen die Anwendung des Werkzeugs demonstriert wird und anhand derer der Betrachter sich eine nähere Vorstellung von der Beschaffenheit des vorgestellten Werkzeugs macht, vermitteln nicht den Eindruck einer auch elastisch verformbaren Körperlichkeit des Kunststoffkeils. Es mag zwar sein, dass ein die Veröffentlichung studierender Fachmann (dazu nachstehend unter II 2) aufgrund von Überlegungen, die er aus seinem allgemeinen Fachwissen herleitet, zu der Annahme gelangen könnte, dass sich zur Herstellung solcher Keile auch ein Elastomer eignen würde. Dieser durch Kognition hergestellte Zusammenhang reicht aber nicht aus, um das Merkmal "Elastomer" in Patentanspruch 1 als vom Offenbarungsgehalt der Produktbeschreibung in dem Heimwerkermagazin umfasst anzusehen (vgl. Sen.Urt. v. 22.12.2009 - X ZR 27/06 - Hubgliedertor I für den entsprechenden Fall der unzulässigen Erweiterung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht des Bundespatentgerichts unterscheidet sich der Gegenstand unter Neuheitsgesichtspunkten von Patentanspruch 1 aber auch durch die Merkmale 5.1 bis 5.3 (Merkmale 11 bis 13 der patentgerichtlichen Gliederung) vom Stand der Technik. Der Sinngehalt der Angabe, dass das Werkzeug im Innern relativ dünn (und relativ weich) sein soll, erschöpft sich nicht darin, zum Ausdruck zu bringen, dass das Werkzeug infolge der Aufkantung der Randbereiche unterschiedliche Höhen aufweist; dieser Umstand kommt hinreichend deutlich in den Merkmalen 2 und 2.1 zum Ausdruck. Vor dem Hintergrund der Beschreibung verstehen sich die Merkmale in der Merkmalsgruppe 5, wie ausgeführt (oben I 4 d), insgesamt vielmehr als Anweisung, das Werkzeug durch Wahl des Materials, seiner Größe und der Dimensionierung seiner Randbereiche so auszulegen, dass es beiden unterschiedlichen werkzeugmäßigen Anforderungen beim Einsatz genügt. Dass das Streitpatent darauf verzichtet, diese Parameter - insbesondere durch quantifizierende Angaben - näher zu kennzeichnen, sondern die Abstimmung dem Fachmann überlässt, ändert nichts daran, dass der Merkmalsgruppe 5 gegenüber den Merkmalen 2 und 2.1 ein eigenständiger Gehalt zukommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 kann jedoch nicht als auf einer erfinderischen Tätigkeit beruhend gelten (Art. 56 EPÜ), weil es keiner überdurchschnittlichen fachmännischen Fähigkeiten bedurfte, um ihn aus dem Stand der Technik zu entwickeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Für die Qualifikation des einschlägigen Fachmanns hat das Patentgericht auf die eines Handwerksmeisters im Bereich Innenausbau/Fliesen/Sanitär abgestellt. Entgegen den Befürchtungen des Beklagten hat das Patentgericht damit nicht auf den Kenntnisstand des potentiellen Anwenderkreises abgestellt, zumal dazu, wie die Veröffentlichung im Heimwerkermagazin zeigt, ohnehin nicht nur gewerbliche Abnehmer, sondern vor allem auch Verbraucher zu zählen sind. Die diesbezüglichen Ausführungen im angefochtenen Urteil sind vielmehr dahin zu verstehen, dass nach Auffassung des Patentgerichts für die Weiterentwicklung solcher Werkzeuge auf den Kenntnisstand eines Handwerksmeisters in den genannten Bereichen abzustellen ist. Dem ist grundsätzlich beizupflichten. Für die Weiterentwicklung von Werkzeugen wie dem vorliegend interessierenden werden deren Hersteller auf die Sachkunde von Fachleuten auf dem Gebiet der Anwendung solcher Werkzeuge zurückgreifen, weil diesen die spezifischen praktischen Anwenderbedürfnisse geläufig sind. Richtig mag zwar sein, dass diese wiederum, wenn es um die fertigungstechnische Umsetzung geht, erforderlichenfalls den zusätzlichen Sachverstand und insbesondere die Materialkunde von Fertigungstechnikern heranziehen und auswerten werden. Die Notwendigkeit dazu entsteht aber erst, nachdem eine konkrete Idee für die Weiterentwicklung bereits erarbeitet worden ist. Gegen die Annahme des Patentgerichts, dass der für diese Leistung zuständige Fachmann im Streitfall im handwerklichen Bereich anzusiedeln ist, sind durchgreifende Bedenken weder vorgetragen noch ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>b) Die Überlegungen des mit der Weiterentwicklung der aus dem Stand der Technik bekannten Werkzeuge betrauten Fachmanns setzten naturgemäß bei der Fehleranalyse bei vorhandenen Lösungen und deren Verbesserung an. Als problematisch wurde insoweit - was auch der Lizenznehmer des Beklagten in der mündlichen Verhandlung bestätigt hat - im Stand der Technik angesehen, wenn Werkzeuge sich nicht hinreichend den Unebenheiten der Fliesenoberfläche anpassten, so dass die in entsprechende Vertiefungen eingedrungene Verfugungsmasse nicht mitentfernt wurde, weil das eingesetzte Werkzeug infolge zu großer Unflexibilität starr darüber hinwegglitt (vgl. deutsche Gebrauchsmusterschrift 85 03 947 U1 S. 2). Ein verbessertes Arbeitsergebnis war insoweit, wie dem Fachmann schnell klar werden konnte, zu erwarten, wenn das Werkzeug elastischer und schmiegsamer gestaltet wurde, so dass es sich besser an das jeweilige Oberflächenprofil der zu bearbeitenden Fläche anpasste. Höhere Elastizität und dadurch bedingte leichtere Verformbarkeit konnten zudem den Einsatz in engen, schwieriger zugänglichen Arbeitsbereichen erleichtern. Während die deutsche Gebrauchsmusterschrift 85 03 947 zur Erhöhung der Flexibilität vorschlug, die Schneidkante des Fugenausformungsabschnitts mit einem Freiwinkel von 4 - 6 Grad zu versehen, musste sich dem Fachmann, dem zusätzlich der Kunststoffkeil aus dem Heimwerkermagazin bekannt war, als Lösung aufdrängen, dieses Werkzeug einfach aus einem elastischeren Material herzustellen. Dieser Keil erfüllte nicht nur die Funktion, überschüssiges Material abzutragen; insbesondere die große Abbildung im oberen Bereich der Veröffentlichung enthielt für den Fachmann den zusätzlichen Fingerzeig, den von den Kanten geschaffenen Innenbereich zur Aufsammlung des abgetragenen Materials zu nutzen. Auch die Aufsammelfunktion ließ sich mit einem elastisch-verformbaren Werkzeug optimieren. Aus der Veröffentlichung ist nämlich zu ersehen, dass die Gefahr des Herabfallens abgetragenen Fugenmaterials besonders groß ist, wenn das Werkzeug, wie in der Abbildung 6 gezeigt, nur angewinkelt mit der Spitze an der Fuge angelegt werden kann und bei starrer Ausgestaltung ansonsten von der zu verfugenden Fläche weggerichtet ist. Eine Verbesserung der Auffangfunktion ließ sich augenscheinlich nicht einfach dadurch erzielen, dass ein solches Werkzeug plan auf die zu verfugende Wand gelegt und mit einer Schnittkante voran über die Fugen gezogen wird. Zwar könnte abgetragenes Material auf diese Weise auch bis zu einem gewissen Maße im Innenbereich aufgesammelt werden. Ist dieser jedoch unflexibel gestaltet, würde sich dieses Material aber schnell aufstauen und über den gesamten Innenbereich der Platte verteilen, womit jedenfalls eine erhöhte Gefahr der Verunreinigung der Umgebung einherginge. Für den Fachmann leicht erkennbar ließ sich das vermeiden, wenn das Werkzeug so verformbar ist, dass seine Ränder nicht nur in spitzem Winkel an der Schnittkante über den Fugen, sondern auch parallel zu diesen an den Fliesen anliegen und das Werkzeug darüber muldenförmig gewölbt ist, so dass das abgetragene Material sich nach oben auftürmen kann und nicht infolge der Starrheit der Platte nach dem Abschneiden breitgedrückt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Um zu erkennen, dass das Ziel einer verbesserten Materialaufsammlung, ebenso wie die bessere Anpassung des Werkzeugs an schwerer zugängliche Arbeitsbereiche, dadurch erzielt werden kann, dass für das Werkzeug ein elastischer Kunststoff ausgewählt wird, der sich durch einfaches Zusammendrücken verformen lässt, der aber seine ursprüngliche Form zurückgewinnt, wenn der verformende Druck aufgehoben wird, musste der Fachmann auf seinem Gebiet weder überdurchschnittlich bewandert und befähigt sein noch musste er erhebliche gedankliche Kreativität entfalten, um zur Lösung des Streitpatents zu gelangen. Er hat aufgrund seiner Fachkunde und Erfahrung eine generelle Vorstellung von den für ein solches Werkzeug in Betracht kommenden Materialien und kann eine endgültige Auswahl mit allenfalls geringem zusätzlichem Rechercheaufwand treffen. Die Einsicht, dass sich die gegenüber dem Kunststoffkeil aus dem Heimwerkermagazin erwünschten Verbesserungen prinzipiell durch Wahl eines Elastomers erzielen ließ, und das Werkzeug anschließend lediglich noch hinsichtlich seiner Abmessung und des Verhältnisses der einzelnen Bestandteile zueinander so ausgelegt werden musste, dass die Abtragungsfunktion des Randes bei hinreichender Flexibilität der Platte gewahrt ist, lag vielmehr nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>d) Der damit verbundenen Verneinung einer erfinderischen Tätigkeit steht nicht entgegen, dass der Fachmann im Stand der Technik keine unmittelbare Anregung zur materialmäßigen Weiterbildung eines Werkzeugs zur Nacharbeit von Fugen zu dem Gegenstand von Patentanspruch 1 vorfand, sondern zu dessen Auffindung von allgemeineren Überlegungen ausgehen musste. Bei der Beurteilung, ob einer beanspruchten Lösung eine erfinderische Bedeutung beigelegt werden kann, ist von dem auszugehen, was die Erfindung gegenüber dem Stand der Technik im Ergebnis tatsächlich leistet. Beschränkt sich die Problembewältigung, wie im Streitfall, darauf, ein als solches bekanntes, einfach strukturiertes Werkzeug aus einem modifizierten Material (hier: Elastomer statt Kunststoff) herzustellen und darüber hinaus nur noch darauf, den Fachmann in diesem Zusammenhang anzuweisen, die Bestandteile (hier: Rand und Platte) so auszugestalten, dass die Eigenschaften des gewählten Materials optimal ausgenützt werden können, handelt es sich auch dann um eine auch von einem durchschnittlich versierten Fachmann zu erwartende Entwicklungsleistung, wenn für die Auswahl des Werkstoffs Vorbilder im Stand der Technik nicht auszumachen sind (vgl. auch Sen.Urt. v. 12.2.2003 - X ZR 200/99, GRUR 2003, 693 - Hochdruckreiniger; BGH, Urt. v. 4.2.2010 - Xa ZR 36/08 Tz. 27 - Gelenkanordnung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Unteransprüche weisen, wie auch der Beklagte nicht geltend macht, keinen eigenständigen erfinderischen Gehalt auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>III. Die Kostenentscheidung beruht auf § 121 Abs. 2 Satz 2 PatG i.V. mit § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Scharen                                     Gröning                                        Berger</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                      Grabinski                                      Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300532010&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

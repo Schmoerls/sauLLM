@@ -1,0 +1,1902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301452020</doknr>
+   <ecli>ECLI:DE:BGH:2020:140520UXZR119.18.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20200514</entsch-datum>
+   <aktenzeichen>X ZR 119/18</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 130a Abs 5 S 1 ZPO, § 130a Abs 2 S 1 ZPO, § 130a Abs 2 S 2 ZPO, § 125a Abs 3 Nr 1 PatG, § 2 BGH/BPatGERVV</norm>
+   <vorinstanz>vorgehend BPatG München, 4. Mai 2018, Az: 4 Ni 36/16 (EP) verb.m, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Wirksamer Zugang eines elektronischen Dokuments mit Speicherung im EGVP; Anforderungen an Geeignetheit des elektronischen Dokuments für die gerichtliche Bearbeitung - Aktivitätsüberwachung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Aktivitätsüberwachung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein elektronisches Dokument ist wirksam beim Bundesgerichtshof eingegangen, wenn es auf dem für diesen eingerichteten Empfänger-Intermediär im Netzwerk für das elektronische Gerichts- und Verwaltungspostfach (EGVP) gespeichert worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein elektronisches Dokument ist für die Bearbeitung durch das Gericht geeignet, wenn es den Vorgaben genügt, die der Verordnungsgeber auf der Grundlage von § 130a Abs. 2 Satz 2 ZPO und § 125a Abs. 3 Nr. 1 PatG aufgestellt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 4. Mai 2018 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Unter Abänderung der erstinstanzlichen Entscheidung trägt die Beklagte die außergerichtlichen Kosten der Klägerinnen zu 1, 2 und 4 sowie sieben Achtel der Gerichtskosten. Das verbleibende Achtel der Gerichtskosten trägt die Klägerin zu 3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 571 988 (Streitpatents), das am 21. November 2003 unter Inanspruchnahme einer Priorität vom 10. Dezember 2002 angemeldet wurde und eine Vorrichtung sowie ein Verfahren zur Aktivitätsüberwachung betrifft. Die Patentansprüche 1 und 5, auf die insgesamt vier weitere Ansprüche zurückbezogen sind, lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. An activity monitor (1) comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a measurement unit (11) including a plurality of motion sensors, operable to produce respective sensor signals indicative of motion experienced thereby, the measurement unit (11) having a single output channel and operable to output the sensor signals in turn on the output channel; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a processor (12) for receiving the sensor signals from the measurement unit (11) and operable to process the signals in accordance with a predetermined method,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that the measurement unit (11) is operable to operate the output channel discontinuously in time during output of each motion sensor output signal.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. A method of monitoring activity, the method comprising the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">producing respective sensor signals from a plurality of motion sensors indicative of motion experienced thereby;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">outputting the sensor signals in turn on a single output channel; receiving the sensor signals; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">processing the signals in accordance with a predetermined method,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that the output channel is operated discontinuously in time during output of each motion sensor output signal.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen haben das Streitpatent in unterschiedlichem Umfang wegen fehlender Patentfähigkeit und zum Teil wegen nicht ausführbarer Offenbarung angegriffen. Die Beklagte hat das Schutzrecht in der erteilten Fassung und hilfsweise in vier geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent in vollem Umfang für nichtig erklärt. Dagegen wendet sich die Beklagte mit der Berufung, mit der sie den Hauptantrag und zwei ihrer erstinstanzlichen Hilfsanträge weiterverfolgt. Die Klägerinnen zu 1, 2 und 4 treten dem Rechtsmittel entgegen. Die Klägerin zu 3 hat die Klage im Laufe des Berufungsverfahrens zurückgenommen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, hat in der Sache aber keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>A. Die Berufung ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat die Berufungsbegründung vor Ablauf der hierfür maßgeblichen Frist am 27. September 2018 über das besondere elektronische Anwaltspostfach (beA) eingereicht. Diese Einreichung war rechtzeitig und wirksam, obwohl der für den Empfang eingerichtete Rechner das Dokument nicht in das Postfach des Bundesgerichtshofs gelegt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Das Dokument ist am 27. September 2018 auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Nach der in Patentnichtigkeitsverfahren entsprechend anwendbaren Regelung in § 130a Abs. 5 Satz 1 ZPO ist ein elektronisches Dokument eingegangen, sobald es auf der für den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Diese Voraussetzung ist, wie der Vorsitzende des Senats den Parteien bereits mit Verfügung vom 1. April 2019 mitgeteilt hat, im Streitfall erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Auf Anfrage des Senats haben die Bundesrechtsanwaltskammer, die die Verantwortung für den Betrieb des besonderen elektronischen Anwaltspostfachs trägt, das Projektbüro für das Elektronische Gerichts- und Verwaltungspostfach (EGVP) und die Verwaltung des Bundesgerichtshofs mitgeteilt, dass als Empfangssystem des Bundesgerichtshofs der Empfänger-Intermediär der IT Baden-Württemberg im EGVP-Netzwerk eingesetzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Auf diesem System ist die Berufungsbegründung innerhalb der maßgeblichen Frist eingegangen. Das System hat dem Prozessbevollmächtigten der Beklagten die erfolgreiche Übermittlung bestätigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Damit ist das Dokument rechtzeitig eingegangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 130a Abs. 5 Satz 1 ZPO ist maßgeblich, dass das Dokument auf dem maßgeblichen System gespeichert worden ist. Ob es von dort aus rechtzeitig an andere Rechner innerhalb des Gerichtsnetzes weitergeleitet oder von solchen Rechnern abgeholt werden konnte, ist demgegenüber unerheblich (so zutreffend Müller, NZA 2019, 1120, 1121).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Deshalb ist es unschädlich, dass der für die Abholung von Nachrichten eingesetzte Rechner im internen Netzwerk des Bundesgerichtshofs das Dokument nicht herunterladen konnte, sondern lediglich eine Fehlermeldung erhielt, die keinem Verfahren oder Absender zugeordnet werden konnte. Dabei handelt es sich um einen dem Eingang nachgelagerten Fehler im internen Gerichtsbetrieb, der der Wirksamkeit und Rechtzeitigkeit des Eingangs nicht entgegensteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Der Umstand, dass der Fehler wahrscheinlich dadurch ausgelöst wurde, dass der Dateiname einen Umlaut enthielt oder eine sonstige Besonderheit aufwies, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Nach § 130a Abs. 2 Satz 1 ZPO muss ein eingereichtes elektronisches Dokument allerdings für die Bearbeitung durch das Gericht geeignet sein. Entgegen einer in der Literatur vertretenen Auffassung (M. Vollkommer, MDR 2019, 1273, 1274) ergibt sich indes auch aus dieser Regelung nicht, dass ein im internen Gerichtsbetrieb auftretender Fehler zur Unwirksamkeit der Einreichung führt. Für die Frage, ob ein Dokument für die Bearbeitung durch das Gericht geeignet ist, sind vielmehr die Regelungen maßgeblich, die der Verordnungsgeber auf der Grundlage von § 130a Abs. 2 Satz 2 ZPO und § 125a Abs. 3 Nr. 1 PatG getroffen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die danach für den Streitfall maßgebliche Regelung in § 2 der Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht (BGH/PatGERVV vom 24. August 2007, BGBl. I S. 2130, zuletzt geändert durch Verordnung vom 24. November 2017, BGBl. I S. 3803) sieht - ebenso wie die Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach (ERVV vom 24. November 2017, BGBl. I S. 3803, geändert durch Verordnung vom 9. Februar 2018, BGBl. I S. 200) und die Bekanntmachung zu § 5 dieser Verordnung (https://justiz.de/elektronischer§rechtsverkehr/doku/bmjv§bekanntmachung§5§ervv§ervb§2018.pdf) - ein Verbot von Umlauten nicht vor. Ein Verstoß gegen diese Vorschriften ist im Streitfall auch im Übrigen nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>3. Einer Vorlage an den Gemeinsamen Senat der Obersten Gerichtshöfe des Bundes gemäß § 2 RsprEinhG bedarf es nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>a) Der Bundesfinanzhof hat in einem Beschluss vom 5. Juni 2019 in einer ähnlichen Fallkonstellation Wiedereinsetzung in den vorigen Stand gewährt. Hierbei ist er davon ausgegangen, dass ein Dokument nicht eingegangen ist, wenn es vom zentralen Intermediär-Server des Elektronischen Gerichts- und Verwaltungspostfachs nicht dem Bundesfinanzhof zugestellt, sondern in ein Verzeichnis für korrupte Nachrichten verschoben worden ist, auf das der Server des Bundesfinanzhofs keinen Zugriff hat, und wenn der Bundesfinanzhof von diesem Vorgang nicht benachrichtigt worden ist (BFH, NJW 2019, 2647, 2648).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>b) Dieser Entscheidung lässt sich nicht entnehmen, dass es sich - wie das beim Bundesgerichtshof der Fall ist - bei dem "zentralen Intermediär-Server" um die für den Empfang bestimmte Einrichtung des Bundesfinanzhofs handelt. Vielmehr ist von einem weiteren Server des Bundesfinanzhofs die Rede, an den die Nachricht nicht weitergeleitet wurde. Ein vergleichbarer Server ist beim Bundesgerichtshof nicht vorhanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>c) Unabhängig davon wäre der Beklagten jedenfalls Wiedereinsetzung in den vorigen Stand zu gewähren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte musste nicht damit rechnen, dass ein Dokument, dessen Dateiname Umlaute enthält, von einem internen Rechner des Gerichts nicht abgeholt werden kann, obwohl der Versand über das besondere elektronische Anwaltspostfach möglich ist und die erfolgreiche Übermittlung des Dokuments bestätigt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>B. Die Berufung hat in der Sache keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft einen Aktivitätsmonitor und ein Verfahren zum Überwachen von Aktivitäten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung des Streitpatents wird ausgeführt, ein bekanntes System zur Überwachung der menschlichen Aktivität werde in dem Artikel von Bouten et al. (A Triaxial Accelerometer and Portable Data Processing Unit for the Assessment of Daily Physical Activity, IEEE Transaction on Biomedical Engineering, Vol. 44, No. 3, D16) beschrieben. Dieses System bestehe aus drei orthogonal angeordneten uniaxialen piezoresistiven Beschleunigungssensoren. Es ermögliche die Messung der Beschleunigung des menschlichen Körpers in drei Richtungen (Abs. 3 f.). Die US-Patentschrift 6 077 236 (D5) beschreibe einen Apparat für die Beobachtung kardialer Kontraktionen, der einen Katheter mit einer Spitze zum Einführen in den Ventrikel der Herzmuskel umfasse. An oder nahe der Spitze befinde sich ein Beschleunigungsaufnehmer, der auf die natürliche Herzbeschleunigung anspreche (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Die bekannten Systeme läsen und überwachten unter Verwendung von drei analogen Abtastkanälen fortlaufend Informationen von drei Beschleunigungssensoren. Da die Messung kontinuierlich durchgeführt werde, sei der Energieverbrauch eines solchen Gerätes hoch. Es bestehe das Bedürfnis, den Energieverbrauch zu reduzieren, um die Verwendung günstiger oder kleinerer Batterien zu ermöglichen (Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>2. Dem Streitpatent liegt hiernach das technische Problem zugrunde, einen im Hinblick auf den Energieverbrauch und Kosten verbesserten Aktivitätsmonitor und ein entsprechend verbessertes Verfahren zur Verfügung zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>3. Um dies zu erreichen sehen Anspruch 1 eine Vorrichtung und Anspruch 5 ein Verfahren mit folgenden Merkmalen vor:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 1</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 5</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1. An activity monitor comprising</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5. A method of monitoring activity,<br/>the method comprising the steps<br/>of:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1 a measurement unit</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.1 including a plurality of motion sensors,<br/>operable to produce respective<br/>sensor signals indicative of<br/>motion experienced thereby;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.1 producing respective sensor signals<br/>from a plurality of motion sensors<br/>indicative of motion experienced<br/>thereby;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.2 the measurement unit having a<br/>single output channel and</p>
+                     </td>
+                     <td colspan="1" rowspan="2" valign="top">
+                        <p style="text-align:left">5.2 outputting the sensor signals in<br/>turn on a single output channel;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.3 operable to output the sensor signals<br/>in turn on the output channel;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2 and a processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1 for receiving the sensor signals<br/>from the measurement unit (11)<br/>and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.3 receiving the sensor signals and</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.2 operable to process the signals in<br/>accordance with a predetermined<br/>method</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.4 processing the signals in accordance<br/>with a predetermined method;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3 characterized in that the measurement<br/>unit is operable to operate<br/>the output channel discontinuously<br/>in time during output of each<br/>motion sensor output signal.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.5 characterized in that the output<br/>channel is operated discontinuously<br/>in time during output of each<br/>motion sensor output signal.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 1</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 5</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1. Aktivitätsmonitor mit</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5. Verfahren zum Überwachen von Aktivität,<br/>wobei das Verfahren die folgenden<br/>Schritte aufweist:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1 einer Messeinheit</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.1 die eine Vielzahl von Bewegungssensoren<br/>enthält, die ausgebildet<br/>sind, jeweilige Sensorsignale zu<br/>erzeugen, die auf von ihnen erfahrene<br/>Bewegung hinweisen;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.1 Erzeugen jeweiliger Sensorsignale<br/>aus seiner Vielzahl von Bewegungssensoren,<br/>die auf von diesen erfahrene<br/>Bewegung hinweisen;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.2 wobei die Messeinheit einen einzigen<br/>Ausgangskanal hat und</p>
+                     </td>
+                     <td colspan="1" rowspan="2" valign="top">
+                        <p style="text-align:left">5.2 Ausgeben der Sensorsignale der<br/>Reihe nach auf einem einzigen<br/>Ausgangskanal;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.3 ausgebildet ist, die Sensorsignale<br/>der Reihe nach auf dem<br/>Ausgangskanal auszugeben</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2 und einem Prozessor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1 zum Empfangen der Sensorsignale<br/>aus der Messeinheit</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.3 Empfangen der Sensorsignale</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.2 und ausgebildet, die Signale<br/>gemäß einem zuvor bestimmten<br/>Verfahren zu verarbeiten</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.4 Verarbeiten der Signale gemäß<br/>einem zuvor bestimmten Verfahren</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3 dadurch gekennzeichnet, dass die<br/>Messeinheit ausgebildet ist, bei der<br/>Ausgabe jedes Bewegungssensorausgangssignals<br/>den Ausgangskanal zeitdiskontinuierlich zu<br/>betreiben</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.5 dadurch gekennzeichnet, dass der<br/>Ausgangskanal bei der Ausgabe<br/>jedes Bewegungssensorausgangskanals<br/>zeitdiskontinuierlich betrieben wird</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Betrachtung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>a) Ein Bewegungssensor im Sinne der Merkmale 1.1.1 und 5.1 ist aus der Sicht des Fachmanns, den das Patentgericht von den Parteien unbeanstandet als einen Ingenieur der Fachrichtung Elektrotechnik oder einen Physiker mit mehrjähriger Erfahrung in der Konzeption von Messgeräten, wie Bewegungsmessgeräten angesehen hat, eine Komponente, die eine Lageänderung in eine elektrische Größe umsetzt. Als Beispiel dafür nennt die Streitpatentschrift piezoelektrische Beschleunigungssensoren (Abs. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>b) Ein Sensorsignal im Sinne der Merkmale 1.1.1 und 5.1 ist ein von dem Bewegungssensor erzeugtes Signal, welches auf das Maß der Lageänderung hinweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Patentansprüche 1 und 5 enthalten keine näheren Festlegungen zur Ausgestaltung eines solchen Signals. Diese bleibt dem Fachmann überlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Aus den Merkmalen 1.1.3 und 5.2 ergibt sich allerdings, dass das Signal für die Übertragung auf einem Ausgangskanal geeignet sein muss. Nach Merkmalsgruppe 1.2 sowie den Merkmalen 5.3 und 5.4 muss es ferner so beschaffen sein, dass es empfangen und von einem Prozessor verarbeitet werden kann. Hieraus mag, wie die Berufung geltend macht, zu folgern sein, dass das von einem piezoelektrischen Sensor erzeugte elektrische Signal vor der Übertragung verstärkt werden muss. Eine weitergehende Aufbereitung, etwa dahin, dass das übertragene Signal ohne weiteres vom Prozessor gelesen und verarbeitet werden kann, ist jedoch nicht erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung des Streitpatents wird ein einzelner analoger Ausgangskanal als vorzugswürdig bezeichnet (Abs. 16). Ein solches Signal kann von einem digitalen Prozessor nicht ohne vorherige Umwandlung verarbeitet werden. Im Einklang damit stellt die Beschreibung klar, dass der Ausdruck "umfassend" das Hinzufügen weiterer Merkmale, Ganzzahlen, Schritte oder Komponenten nicht ausschließt (Abs. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>c) Nach den Merkmalen 1.1.2 und 5.2 ist zur Übertragung der Sensorsignale nur ein einzelner Ausgangskanal vorhanden, auf dem die Signale der Sensoren der Reihe nach (<em>in turn</em>) übertragen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Die Abkehr von einer parallelen Übertragung der unterschiedlichen Signale auf mehreren Kanälen ist für die Erreichung des angestrebten Ziels der Energieeinsparung von wesentlicher Bedeutung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Der Ablauf eines patentgemäßen Übertragungsvorgangs ist in Figur 4 grob illustriert. Darin werden die Zeitabschnitte wiedergegeben, die für die Übertragung von drei unterschiedlichen Signalen (ax, ay, az) zur Verfügung stehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="446px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Zu Recht hat das Patentgericht entschieden, dass in jedem dieser Zeitabschnitte nur das Signal eines Sensors übertragen werden darf. Dies ergibt sich schon aus der in den Merkmalen 1.1.2 und 5.2 normierten Anforderung, dass die Sensorsignale der Reihe nach übertragen werden. Die Übertragung mehrerer Signale innerhalb derselben Zeiteinheit wäre eine parallele Übertragung, die mit diesen Merkmalen gerade ausgeschlossen werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Andererseits bleibt es dem Fachmann überlassen, wie lang er einen einzelnen Zeitabschnitt ausgestaltet. Durch Festlegung kurzer Zeitabschnitte kann er den Zeitraum, der für die Übertragung von Signalen von allen Sensoren erforderlich ist, ebenfalls kurz halten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>d) Ein zeitdiskontinuierliches Betreiben des Ausgangskanals im Sinne der Merkmale 1.3 und 5.5 erfordert, dass die Übertragung der Signale nicht über die gesamte Länge jedes zur Verfügung stehenden Zeitabschnitts hinweg erfolgt, sondern in einzelnen Zeitabschnitten oder Teilen davon unterbleibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>aa) Zutreffend hat das Patentgericht angenommen, dass dies auch dadurch erreicht werden kann, dass in einzelnen Zeitabschnitten oder Teilen davon keine Sensorsignale erzeugt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Aus den Merkmalen 1.3 und 5.5 ergibt sich lediglich, dass der Ausgangskanal nicht während aller zur Verfügung stehenden Zeitabschnitte zur Übertragung von Sensorsignalen genutzt werden darf. Wie dieses Ziel erreicht wird, bleibt dem Fachmann überlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen steht es dem Fachmann frei, in oder kurz vor dem Beginn von Zeitabschnitten, in denen keine Signale übertragen werden, bereits von der Erzeugung von Signalen abzusehen. Diese Vorgehensweise erscheint schon deshalb attraktiv, weil sie die Möglichkeit einer weitergehenden Energieeinsparung eröffnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung führt die Festlegung, dass der zeitdiskontinuierliche Betrieb bei der Ausgabe eines jeden Signals eines Sensors erfolgt, nicht zu einer abweichenden Beurteilung. Dieser Festlegung ist lediglich zu entnehmen, dass ein zeitdiskontinuierlicher Betrieb für die Signale aller Sensoren möglich sein muss. Vorgaben zum Verhältnis zwischen dem Umfang der erzeugten und der übertragenen Signale ergeben sich aus ihr nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung führt Patentanspruch 6, der eine Unterbrechung der Produktion von Sensorsignalen ausdrücklich vorsieht, ebenfalls nicht zu einer abweichenden Beurteilung. Seinem Wortlaut nach ließe dieser Anspruch allerdings auch die Deutung zu, dass es sich dabei um ein zusätzliches Merkmal handelt, das für die Verwirklichung von Merkmal 1.3 nicht ausreicht. Er kann aber auch dahin verstanden werden, dass damit eine konkrete Vorgehensweise zur Verwirklichung von Merkmal 1.3 beansprucht wird. Angesichts des Umstands, dass Patentanspruch 1 keine Vorgaben zur näheren Ausgestaltung dieses Merkmals enthält, ist die zuletzt genannte Auslegung vorzugswürdig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der in erster Instanz von der Klägerin zu 1 vertretenen Auffassung ist es andererseits nicht ausgeschlossen, dass die Sensoren kontinuierlich Signale erzeugen und diese vollständig, aber diskontinuierlich übertragen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Die Vorgabe, dass die Ausgabe bei (during) der Ausgabe unterbrochen werden muss, wäre zwar in sich widersprüchlich, wenn beide Anforderungen zur gleichen Zeit erfüllt sein müssten. Eine an der Funktion der Merkmale 1.3 und 5.5 orientierte Auslegung ergibt jedoch, dass es während des Zeitraums, in dem die Ausgabe erfolgt, immer wieder Zeitspannen geben muss, in denen die Ausgabe unterbleibt. Sofern der für die Übertragung erforderliche Zeitraum kurz genug ist, kann dies auch in der Weise geschehen, dass die während der Übertragungspausen anfallenden Signale zwischengespeichert und bei nächster Gelegenheit übertragen werden, so dass im Ergebnis alle Signale zum Prozessor gelangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>cc) Ebenfalls möglich ist es, nur einen Teil der von den Sensoren gelieferten Signale zu übertragen und die übrigen zu verwerfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Eine solche Vorgehensweise macht die Signale nicht zwangsläufig unbrauchbar. So ist insbesondere denkbar, dass die Sensoren die Signale in so dichter Folge oder mit so hoher Genauigkeit liefern, dass eine hinreichend exakte Auswertung auch dann noch möglich ist, wenn nur ein Teil dieser Signale an den Prozessor übertragen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>dd) Ausgeschlossen ist, wie das Patentgericht ebenfalls zutreffend angenommen hat, eine Ausgestaltung dahin, dass auf dem Übertragungskanal kontinuierlich Sensorsignale übertragen werden, der Prozessor diese aber nur diskontinuierlich abtastet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung wird eine diskontinuierliche Abtastung zwar als zusätzliches Merkmal einer bevorzugten Ausführungsform bezeichnet (Abs. 17). Korrespondierend dazu sieht Patentanspruch 4 dieses Merkmal ergänzend vor. Nach den Merkmalen 1.3 und 5.5 ist aber zwingend erforderlich, dass schon der Ausgangskanal diskontinuierlich betrieben wird. Daran fehlt es, wenn Signale kontinuierlich übertragen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Möglich ist, wie das Patentgericht ebenfalls zu Recht ausgeführt hat, dass die zeitdiskontinuierliche Übertragung durch den Prozessor initiiert oder gesteuert wird. Bei dieser Ausgestaltung müssen die einschlägigen Prozessorbefehle jedoch zur Folge haben, dass die Übertragung von Sensorsignalen in einzelnen Zeitabschnitten oder Teilen davon unterbleibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>ee) Die Festlegung, dass ein zeitdiskontinuierlicher Betrieb während der Ausgabe jedes Bewegungssensorausgangssignals erfolgen muss, hat nicht zur Folge, dass die Übertragung in jedem der in Figur 4 schematisch dargestellten Zeitabschnitte zumindest einmal unterbrochen werden muss, wie dies die Beklagte in der nachfolgend wiedergegebenen Abbildung schematisch (für den Fall einer mehrfachen Unterbrechung pro Zeitabschnitt) darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="459px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Ausreichend ist vielmehr, wie das Patentgericht zu Recht entschieden hat, wenn die Unterbrechung nur einzelne solcher Zeitabschnitte in ihrer Gesamtheit betrifft, wie dies in der nachfolgenden, vom Patentgericht erstellten Abbildung schematisch dargestellt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="344px"
+                       src="bild3_2.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="322px"
+                       src="bild4_3.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Diese für analoge Signale dargestellte Vorgehensweise entspricht, wie die Klägerinnen zu Recht geltend machen, der Vorgehensweise, die auch die Beklagte für digitale Signale für zulässig erachtet und wie folgt darstellt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="454px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Die Merkmale 1.3 und 5.5 treffen, wie die Klägerinnen im Kern zutreffend geltend machen, lediglich Festlegungen in Bezug auf die Signale der einzelnen Sensoren, und zwar diesbezüglich, dass ein diskontinuierlicher Betrieb für jedes übertragene Signal, also auch für jeden Sensor möglich sein muss. Zu den einzelnen Zeitabschnitten, die sich daraus ergeben, dass die Signale unterschiedlicher Sensoren nacheinander auf demselben Kanal übertragen werden, verhalten sich die genannten Merkmale hingegen nicht. Angesichts dessen ist eine Übertragung, wie sie in der von der Beklagten erstellten Abbildung dargestellt ist, zwar nicht ausgeschlossen, aber auch nicht zwingend erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Weder die Patentansprüche 1 und 5 noch die Beschreibung enthalten nähere Festlegungen zur Reihenfolge und zum Umfang der Unterbrechungen. In den Erläuterungen zu Figur 4 wird sogar ausgeführt, aus Gründen der Klarheit seien darin keine bestimmten Ausgangssignale dargestellt, sondern nur die Zeiträume, während der die Signale der einzelnen Sensoren übertragen würden (Abs. 18). Damit überlässt das Streitpatent die nähere Ausgestaltung dem Fachmann. Für diesen ergibt sich aus dem Zusammenhang, dass Reihenfolge und Umfang der Unterbrechungen derart zu wählen sind, dass eine sinnvolle Auswertung des Sensorsignals in vernünftigen Zeitabständen möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Die Anforderungen im Einzelnen hängen von der jeweiligen Anwendung ab. So ist dem Fachmann beispielsweise aus der im Streitpatent gewürdigten D5 bekannt, dass bei einer Vorrichtung zur Überwachung der Herzkontraktilität eine Abtastung von drei Signalen in unterschiedlichen Zeitintervallen keine Auswirkung auf die Gleichzeitigkeit der drei erfassten Ereignisse hat, da die Abtastungen innerhalb eines Zeitfensters in der Größenordnung von 100 µs durchgeführt werden und die Dynamik der Signale nicht von einer Art ist, die in diesem Zeitintervall Abweichungen hervorruft (D5 Sp. 9 Z. 16 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit für das Berufungsverfahren von Interesse, im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents in der erteilten Fassung sei zwar ausführbar offenbart, aber nicht neu gegenüber der bereits in der Streitpatentschrift gewürdigten Entgegenhaltung D5. Dass dort die Signalerfassung unterbrochen werde, sei unerheblich. Ausschlaggebend sei, dass der einzige Ausgangskanal während der Ausgabe jedes Bewegungssensor-Ausgangssignals zeitdiskontinuierlich betrieben werde. So werde die Messeinheit alle 3000 µs für jeweils 30 µs aktiviert, um den Stromverbrauch zu verringern. Das offenbarte wechselseitige Abtasten des Beschleunigungssensors und der Phasen des Erfassens, Schrittmachens und Defibrillierens führe zu einer Unterbrechung des Ausgangskanals.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Die mit den erstinstanzlichen Hilfsanträgen 2 und 3 verteidigten Gegenstände seien gegenüber den ursprünglich eingereichten Unterlagen (veröffentlicht als WO 2004/052200, B3) unzulässig erweitert. B3 offenbare nicht, dass die Abtastrate des Prozessors im Betrieb verändert bzw. variiert werden könne. Eine variable Abtastrate habe für den Fachmann außerdem aufgrund seines Fachkönnens in Verbindung mit D6 (US 2002/0116080 A1) oder D6.1 (The I2C-Bus Specification, Version 2.0, December 1998) nahegelegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand der Patentansprüche 1 und 5 durch D5 vollständig vorweggenommen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>a) D5 offenbart eine Vorrichtung zum Überwachen von Herzkontraktilität, welche sich auch für die Anwendung in Herzschrittmachern und Defibrillatoren eignet (Sp. 1 Z. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Wie in Figur 1 dargestellt wird, ist eine subkutane Master-Steuereinheit 9 mit einem multiaxialen Beschleunigungsmesser 2 verbunden, der sich in der Spitze 1 des in das Herz implantierten Katheters befindet. Die Master-Steuereinheit 9 dient auch als Schnittstelle zu externen Überwachungs- und Steuervorrichtungen 200, die den Einsatz der Master-Steuereinheit und der implantierbaren Vorrichtung für jegliche erforderlichen elektrischen Stimulations- oder Defibrillationsfunktionen ermöglichen oder der Überwachung der Funktionen von implantierbaren oder externen Vorrichtungen 300 zur Infusion von Medikamenten dienen, die gegebenenfalls in Verbindung mit anderen Parametern von den Messwerten der Herzkontraktilität beeinflusst sind (D5 Sp. 6 Z. 7 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="401px"
+                       src="bild6_5.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung der D5 erfordert die Implantierbarkeit zum Beispiel bei der Verwendung eines taktempfindlichen Herzschrittmachers die Verfügbarkeit des Katheters für alle notwendigen Funktionen der Abtastung und der Stimulation. Daraus ergebe sich das Erfordernis der Begrenzung des prozentualen Anteils der Zeit, in der die Leiter 7 und 8 für die Messung und Übertragung der vom multiaxialen Beschleunigungsmesser abgelesenen Signale verwendet würden. Um die Implantation zu ermöglichen, sei es notwendig, den Verbrauch des gesamten Systems auf 1 bis 5 µA zu begrenzen. Es sei deshalb erforderlich, den für die Erfassung der Signale der Beschleunigungsmesser erforderlichen Verbrauch auf nicht mehr als 2 µA zu beschränken (D5 Sp. 7 Z. 38 f.). Dies gelte insbesondere für batteriebetriebene Beschleunigungsmesser (D5 Sp. 7 Z. 66 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Bei einer in Figur 2 dargestellten Ausführungsform ist in der Spitze 1 des Katheters ein Beschleunigungswandler vom triaxialen Typ - z.B. ein triaxialer piezoelektrischer Beschleunigungswandler - befestigt, der aus drei uniaxialen Beschleunigungswandlern 2x-2y-2z besteht, die senkrecht zueinander angeordnet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="440px"
+                       src="bild7_6.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Die Beschleunigungswandler sind mit Anschluss- und Verstärkungsmitteln 3x-3y-3z und mit Schaltern 4x-4y-4z verbunden. Deren Ausgänge sind mit dem Gate (Steuereingang) eines MOS-Transistors 5 verbunden, der als Ausgangspuffer dient. Die Bezugszahl 6 gibt einen Lastwiderstand für die Anschluss- und Verstärkungsmittel an (D5 Sp. 6 Z. 29 ff.). Die vom Puffer 5 abgezweigte und in der Spitze 1 des Katheters angebrachte Schaltung 10 führt Zeitsteuerungsfunktionen aus, um in der einzigen Ausgangsleitung 8 die Signale der drei uniaxialen Beschleunigungsmesser 2x-2y-2z in unterschiedlichen und aufeinanderfolgenden Zeitintervallen bereitzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Die Master-Steuereinheit 9 rekonstruiert die drei analogen Signale der drei im Pulsmodus aktivierten Beschleunigungsmesser, verstärkt sie, filtert sie in einem Band von etwa 15 bis 100 Hz und misst innerhalb jedes Herzzyklus den Spitzen-Spitze-Wert der Beschleunigung in den drei betrachteten Richtungen, nämlich x, y und z. Die Master-Steuereinheit 9 berechnet das Modul der drei Spitzen-Spitze-Werte der Beschleunigung des Herzzyklus (D5 Sp. 6 Z. 29 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Die positive Referenzelektrode 7 versorgt die Beschleunigungswandler und den Zeitgeber 10. Die subkutane Einheit 9 wechselt vom Zustand PACING/SENSING, der durch das Bezugszeichen 113 angezeigt wird, in den Zustand SENSORS, der durch das Bezugszeichen 13 angezeigt wird, um die Messung des Moduls oder des Mittelwerts der von den drei Beschleunigungsmessern innerhalb des betreffenden Herzzyklus abgelesenen NHA-Werte (<em>natural heart acceleration</em>) zu ermöglichen. Sie sendet ferner einen Konstantstrom-Impuls, der es ermöglicht, die Schaltung 10 mit einer begrenzten Verzögerung in der Größenordnung von einer Mikrosekunde und für ein durch das Bezugszeichen T in der Wellenform 14 angegebenes Zeitintervall in Betrieb zu nehmen (D5 Sp. 8 Z. 34 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Bei der Ausführungsform eines triaxialen Beschleunigungssensors wird die Messeinheit alle 3000 µs für jeweils 30 µs aktiviert, um den Stromverbrauch zu verringern (D5 Sp. 4 Z. 48-55). Betroffen von der Unterbrechung sind die Sensorsignale eines jeden Sensors.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht und von der Berufung nicht beanstandet hat das Patentgericht die Merkmale 1 bis 1.2.2 bzw. 5 bis 5.4 als unmittelbar und eindeutig offenbart angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob schon die von den piezoelektrischen Elementen erzeugte Ladungstrennung ein Sensorsignal im Sinne des Streitpatents ist. Jedenfalls das durch die elektrischen Schaltkreise 3x-3y-3z durch Schließen der Schalter 4x-4y-4z erzeugte Signal erfüllt diese Voraussetzung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>c) Ebenfalls zu Recht hat das Patentgericht die Merkmale 1.3 und 5.5 als unmittelbar und eindeutig offenbart angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass die Messeinheit innerhalb einer Zeitspanne von 3000 µs jeweils nur für 30 µs aktiviert wird, hat zur Folge, dass auch die Übertragung der Sensorsignale nur mit entsprechenden zeitlichen Unterbrechungen erfolgt, und zwar für jeden der drei Sensoren. Dies reicht, wie bereits oben dargelegt wurde, zur Verwirklichung der Merkmale 1.3 und 5.5 aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>2. Ebenfalls ohne Erfolg wendet sich die Berufung gegen die Annahme des Patentgerichts, der mit Hilfsantrag 1 verteidigte Gegenstand sei unzulässig erweitert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 1 soll Patentanspruch 1 dahin ergänzt werden, dass der Prozessor ausgebildet ist, den Ausgangskanal mit einer variierenden Abtastrate abzutasten. In entsprechender Weise soll auch Patentanspruch 5 modifiziert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>b) Diese Ausgestaltung ist in den ursprünglich eingereichten Unterlagen nicht eindeutig und unmittelbar als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>aa) Das zusätzlich vorgesehene Merkmal ist mit dem Patentgericht dahin zu verstehen, dass die Abtastrate des Prozessors im Betrieb verändert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Ob dies auch dadurch geschehen kann, dass der Prozessor die Signale während bestimmter Zeiträume mit einer konstanten Rate und während anderer Zeiträume nicht ("mit der Rate Null") abtastet, kann dahingestellt bleiben. Beansprucht sind jedenfalls auch Ausgestaltungen, bei denen zwei unterschiedliche, von Null verschiedene Abtastraten zur Anwendung kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>bb) Die zuletzt genannte Variante ist in den ursprünglich eingereichten Unterlagen nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Wie in der Beschreibung des Streitpatents wird zwar schon in der Anmeldung ausgeführt, eine Variation der Abtastrate führe dazu, dass es Zeiträume gebe, in denen der Prozessor nicht aktiv sei, was eine Einsparung von Batterieleistung ermögliche (B3 S. 4 Z. 5 f.). Daraus ist aber lediglich zu entnehmen, dass in bestimmten Zeiträumen keine Abtastung erfolgt, nicht aber, dass die Abtastrate in bestimmten Zeiträumen auf einen von Null verschiedenen Wert reduziert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>3. Das Patentgericht hat zutreffend auch die Ansprüche gemäß Hilfsantrag 2 als nicht zulässig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>a) Anspruch 1 in der Fassung des Hilfsantrags 2 unterscheidet sich von der erteilten Fassung in den Merkmalen 1, 1.2.1 und 1.3 wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 1</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 5</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1² An activity monitor <span style="text-decoration:underline">for monitoring<br/>physical activity of human being</span>,<br/>comprising</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5² A method of monitoring <span style="text-decoration:underline">physical<br/>
+                           </span>activity <span style="text-decoration:underline">of a human being</span>, the<br/>method comprising the steps of:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1² for receiving the sensor signals<br/>from the measurement unit<br/>(11), <span style="text-decoration:underline">wherein the processor</span> is<br/>and operable <span style="text-decoration:underline">to sample the<br/>output channel of the measurement<br/>unit (11) at a varying sampling rate</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.2a <span style="text-decoration:underline">sampling the output channel at a<br/>varying sampling rate;</span>
+                           <br/>5.3² receiving the sensor signals;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3² characterized in that the<br/>measurement unit is operable<br/>to operate the output channel<br/>discontinuously in time during<br/>output <span style="text-decoration:underline">the production</span> of each<br/>motion sensor output signal</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.5² characterized in that the output channel<br/>is operated discontinuously in<br/>time during output <span style="text-decoration:underline">the production</span> of<br/>each motion sensor output signal</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 1</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <strong>Patentanspruch 5</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1² Aktivitätsmonitor zum Überwachen<br/>der <span style="text-decoration:underline">körperlichen</span> Aktivität<br/>
+                           <span style="text-decoration:underline">eines Menschen</span>
+                           <br/>mit</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5² Verfahren zum Überwachen von<br/>
+                           <span style="text-decoration:underline">körperlicher</span> Aktivität <span style="text-decoration:underline">eines Menschen</span>,<br/>wobei das Verfahren die folgenden<br/>Schritte umfasst:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1² zum Empfangen der Sensorsignale<br/>aus der Messeinheit (11),<br/>
+                           <span style="text-decoration:underline">wobei der Prozessor</span> und ausgebildet<br/>ist, <span style="text-decoration:underline">den Ausgangskanal mit einer variierenden<br/>Abtastrate abzutasten</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.2a <span style="text-decoration:underline">Abtasten des Ausgangskanals mit<br/>einer unterschiedlichen Abtastrate;</span>
+                           <br/>5.3² Empfangen der Sensorsignale;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3² dadurch gekennzeichnet, dass<br/>die Messeinheit ausgebildet ist,<br/>während der <span style="text-decoration:line-through">Ausgabe</span> 
+                           <span style="text-decoration:underline">Erzeugung<br/>
+                           </span>jedes Bewegungssensorausgangssignals<br/>den Ausgangskanal zeitdiskontinuierlich<br/>zu betreiben</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5.5² dadurch gekennzeichnet, dass der<br/>Ausgangskanal während der <span style="text-decoration:line-through">Ausgabe</span>
+                           <br/>
+                           <span style="text-decoration:underline">Erzeugung</span> jedes Bewegungssensorsignals<br/>zeitdiskontinuierlich betrieben wird</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>b) Dieser Gegenstand ist aus denselben Gründen unzulässig erweitert wie der mit Hilfsantrag 1 verteidigte Gegenstand, denn er sieht ebenfalls eine Variierung der Abtastrate vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>4. Hinsichtlich der mit der Klage angegriffenen weiteren Patentansprüche, die sich jeweils auf einen der oben behandelten Ansprüche zurückbeziehen, sind Umstände, die zu einer abweichenden Beurteilung führen könnten, weder aufgezeigt noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG in Verbindung mit § 92 Abs. 1, § 97 Abs. 1, § 100 Abs. 1 und 2 sowie § 269 Abs. 3 Satz 2 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>1. Eine Entscheidung über die außergerichtlichen Kosten der Klägerin zu 3 und über die außergerichtlichen Kosten der Beklagten, soweit diese von der Klägerin zu 3 zu tragen wären, ist nicht veranlasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Nach Rücknahme der Klage ist gemäß § 269 Abs. 4 ZPO nur auf Antrag über die Kosten zu entscheiden. Einen solchen Antrag hat die Beklagte nicht gestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>2. Hinsichtlich der Gerichtskosten war hingegen gemäß § 308 Abs. 2 ZPO eine Entscheidung über die Kosten auch ohne Antrag der Beklagten insgesamt im Urteil zu treffen, weil die Klagerücknahme nicht den gesamten Streitgegenstand betrifft (vgl. BGH, Beschluss vom 28. Januar 1999 - III ZB 39/89, NJW-RR 1999, 1741).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Der Klägerin zu 3 ist der auf sie entfallende Anteil der Gerichtskosten gemäß § 269 Abs. 3 Satz 2 ZPO aufzuerlegen. Eine abweichende Kostenregelung, die nach dem letzten Halbsatz des § 269 Abs. 3 Satz 2 ZPO auch im vorliegenden Zusammenhang relevant wäre, ist nicht ersichtlich. Eine Verpflichtung der Beklagten, gegen die Klägerin zu 3 keinen Kostenantrag zu stellen, bildet keinen anderen Grund im Sinne von § 269 Abs. 3 Satz 2 ZPO. Sie kann in der vorliegenden Konstellation allenfalls dazu führen, dass die Beklagte daran gehindert ist, gegen die Klägerin zu 3 einen Antrag auf Kostenfestsetzung zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301452020&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

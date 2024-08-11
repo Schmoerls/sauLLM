@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>JURE150005607</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Strafsenat</spruchkoerper>
+   <entsch-datum>20150114</entsch-datum>
+   <aktenzeichen>1 StR 93/14</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 370 Abs 1 AO, § 14 UStG, § 14a UStG, § 15 Abs 1 S 1 Nr 1 S 3 UStG</norm>
+   <vorinstanz>vorgehend LG Chemnitz, 17. Juli 2013, Az: 4 KLs 930 Js 42425/07<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Umsatzsteuerhinterziehung: Berechtigung zum Vorsteuerabzug vor Beginn der Ausführung der Leistung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Auf die Revisionen der Angeklagten wird das Urteil des Landgerichts Chemnitz vom 17. Juli 2013 mit den Feststellungen aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Auf die Revisionen der Staatsanwaltschaft wird das vorbezeichnete Urteil im jeweiligen Strafausspruch mit den Feststellungen aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Im Umfang der Aufhebung wird die Sache zu neuer Verhandlung und Entscheidung, auch über die Kosten der Rechtsmittel, an eine andere Wirtschaftsstrafkammer des Landgerichts zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat den Angeklagten H.   wegen Subventionsbetrugs und Steuerhinterziehung in jeweils zwei Fällen zu einer Gesamtfreiheitsstrafe von zwei Jahren sowie zu einer gesonderten Geldstrafe von 360 Tagessätzen zu je 270 Euro verurteilt. Gegen den Angeklagten G.   hat es wegen zweier Fälle der Beihilfe zum Subventionsbetrug, jeweils in Tateinheit mit Beihilfe zur Steuerhinterziehung, eine Freiheitsstrafe von einem Jahr und zehn Monaten und eine gesonderte Geldstrafe von 330 Tagessätzen zu je 500 Euro verhängt. Die Vollstreckung der Freiheitsstrafen hat es jeweils zur Bewährung ausgesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Angeklagten beanstanden ihre Verurteilung mit auf Verfahrensrügen und die Sachrüge gestützten Revisionen. Die Staatsanwaltschaft wendet sich gegen das Urteil mit jeweils auf den Strafausspruch beschränkten, zu Ungunsten der Angeklagten eingelegten Revisionen, die sie mit der Sachrüge näher begründet hat. Alle Rechtsmittel haben Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat folgende Feststellungen und Wertungen getroffen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>I. Mit Vereinbarung vom 17. Mai 2004 kamen der Angeklagte G.     als Geschäftsführer der A.      F.    GmbH (im Folgenden: A. GmbH) und der Angeklagte H.   überein, gemeinsam Pferdetransportanhänger aus glasfaserverstärktem Kunststoff zu entwickeln, zu produzieren, industriell zu fertigen und zu vertreiben. Dem Angeklagten H.    sollte die Entwicklung und Erstellung eines Prototyps sowie die Fertigung der Anhänger, dem Angeklagten G.     die Finanzierung des Projekts sowie der Vertrieb der Anhänger obliegen. Die Fertigung sollte an einem „förderfähigen“ Standort durchgeführt werden (UA S. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Zu diesem Zweck wurde am 12. Oktober 2005 die Ho.    GmbH &amp; Co. KG (im Folgenden: Ho.   ) gegründet. Der Angeklagte H.    war zunächst Alleingeschäftsführer der Komplementär-Gesellschaft, deren Gesellschafter die Angeklagten waren; im Februar 2007 wurde der Angeklagte G.     als weiterer Geschäftsführer bestellt. Die Angeklagten waren zudem als Kommanditisten an der Gesellschaft beteiligt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die A.  GmbH gewährte der Ho.     für eine Laufzeit von fünf Jahren ein festverzinsliches Darlehen über 2,3 Mio. Euro. Die Rückführung des Darlehens nebst Zinsen sollte durch die Einräumung eines exklusiven Vertriebsrechts für die Anhänger und die Verrechnung mit einem Betrag von 560 Euro je Anhänger erfolgen, wobei der Vereinbarung eine angenommene Jahresbestellmenge von 1.000 Anhänger pro Jahr zugrunde lag. Bei Nichterreichen dieser Bestellmenge sollte nicht nur der Darlehensrückzahlungsanspruch verfallen, sondern auch die Ho.    zum eigenen Vertrieb berechtigt sein (UA S. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Nach Einholung von Vergleichsangeboten, welche die A.  GmbH absprachegemäß unterbot, erteilte die Ho.     (in Gründung) der A. GmbH durch Annahme deren Angebots vom 21. Oktober 2004 zu einem angemessenen Preis von 1.440.000 Euro zuzüglich 230.400 Euro Umsatzsteuer den Auftrag zur Herstellung eines für die industrielle Produktion der Anhänger geeigneten Produktionswerkzeugsatzes (sog. Negativformen) und der dazu notwendigen Vorleistungen, insbesondere der Herstellung eines Werkzeuggrundträgers (Werkzeugsatz 1). Die A. GmbH erbrachte die Leistungen nur teilweise selbst und bediente sich im Übrigen verschiedener Nachunternehmer, die ihre Leistungen gegenüber der GmbH abrechneten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Die A. GmbH stellte der Ho.    für den Werkzeugsatz 1 am 2. Dezember 2005 1.043.000 Euro zuzüglich 166.880 Euro Umsatzsteuer sowie am 29. Dezember 2005 weitere 387.000 Euro zuzüglich 61.920 Euro Umsatzsteuer in Rechnung. Die Rechnungslegung erfolgte, obwohl zu diesem Zeitpunkt - wie die Angeklagten wussten - weder der Werkzeuggrundträger noch der daraus laminierte Werkzeugsatz vorhanden waren (UA S. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Ho.    leistete auf die Rechnungen Zahlungen am 2. Januar 2006 in Höhe von 350.000 Euro, am 5. April 2006 in Höhe von 924.500 Euro sowie am 24. März 2006 in Höhe von 156.500 Euro. Zudem trat sie am 6. Februar 2006 einen Vorsteuererstattungsanspruch in Höhe von 228.800 Euro an die A. GmbH ab (UA S. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Auch bis zum Ablauf des Jahres 2005 war der Werkzeugsatz 1 "weder hergestellt noch für die serielle Produktion geeignet", was den beiden Angeklagten bekannt war. Zu diesem Zeitpunkt war durch einen Nachunternehmer der A. GmbH erst mit dem Fräsen des Werkzeuggrundträgers als Vorstufe für die Erstellung eines Werkzeugsatzes begonnen worden (UA S. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Dennoch beantragte die Ho.   am 1. Februar 2006 auf der Grundlage der von der A. GmbH erstellten Rechnungen beim Finanzamt Plauen eine Investitionszulage für das Kalenderjahr 2005 in Höhe von 393.250 Euro (27,5 % von 1.430.000 Euro) für die Anschaffung des Werkzeugsatzes 1. Das Finanzamt lehnte am 1. März 2006 die Festsetzung einer Investitionszulage zunächst ab, setzte diese jedoch im Einspruchsverfahren in beantragter Höhe fest, nachdem die Antragstellerin die Betriebsbereitschaft des Werkzeugs und damit den Abschluss der Investition im Jahr 2005 dargelegt hatte. Ausgehend von einer berechtigten Zulage auf angeschaffte "Zwischenwerkzeuge" in Höhe von 195.434,80 Euro ging das Landgericht von einer um 197.815,20 Euro zu hoch festgesetzten Investitionszulage aus (UA S. 17, 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>In der am 17. März 2006 beim Finanzamt Plauen eingereichten, vom Angeklagten H.    unterzeichneten Umsatzsteuerjahreserklärung 2005 machte die Ho.     zudem die in den Rechnungen der A. GmbH für den Werkzeugsatz 1 ausgewiesene Umsatzsteuer in Höhe von 228.800 Euro zu Unrecht als Vorsteuer geltend. Das Finanzamt stimmte der Steueranmeldung, mit der ein Erstattungsbetrag angemeldet wurde, am 2. Oktober 2006 zu und zahlte das Guthaben aus. Dadurch wurde nach Ansicht des Landgerichts Umsatzsteuer in Höhe von 114.400 Euro verkürzt (UA S. 19 f., 36).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>III. In der Folge beauftragte die Ho.     die A. GmbH mit der Herstellung von weiteren vier Produktionswerkzeugsätzen zu einem angemessenen Preis von jeweils 360.000 Euro zuzüglich 57.600 Euro Umsatzsteuer (Werkzeugsätze 2 bis 5, UA S. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Für die Werkzeugsätze 2 und 3 wurde durch die A. GmbH im Jahr 2006 in mehreren Rechnungen über den Gesamtbetrag abgerechnet, der jeweils von der Ho.     vollständig im Jahr 2006 gezahlt wurde (UA S. 12 f.). Für den Werkzeugsatz 4 wurden mehrere Abschlagsrechnungen über insgesamt 350.000 Euro zuzüglich 56.000 Euro Umsatzsteuer (UA S. 14), für den Werkzeugsatz 5 über insgesamt 340.000 Euro zuzüglich 54.400 Euro Umsatzsteuer gestellt (UA S. 15). Auch diese Abschlagsrechnungen wurden von der Ho.    vollständig im Jahr 2006 gezahlt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die Werkzeugsätze 2 bis 5 waren am 31. Dezember 2006 "weder komplett hergestellt noch für die serielle Produktion" geeignet. Der Werkzeugsatz 2 wurde durch einen Nachunternehmer der A. GmbH im Januar 2007 fertiggestellt. Für den Werkzeugsatz 3 erfolgte am 29. Januar 2007 die Auftragserteilung an einen weiteren Nachunternehmer. Mit der Erstellung des Werkzeugsatzes 4 war ab 2008 ein polnisches Unternehmen befasst. Hinsichtlich des Werkzeugsatzes 5 wurde kein Nachunternehmer beauftragt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dennoch beantragte die Ho.     am 23. Mai 2007 auf der Grundlage der von der A. GmbH erstellten Rechnungen eine Investitionszulage für das Kalenderjahr 2006 in Höhe von 387.750 Euro (27,5 % von 1.410.000 Euro) für die Anschaffung der Werkzeugsätze 2 bis 5 (UA S. 17). Die Festsetzung wurde durch das Finanzamt am 10. September 2009 abgelehnt (UA S. 19). Bei antragsgemäßer Festsetzung wäre nach Auffassung des Landgerichts ausgehend von einer berechtigten Zulage auf angeschaffte "Zwischenwerkzeuge" in Höhe von 47.500,75 Euro die Investitionszulage um 340.249,25 Euro zu hoch festgesetzt worden (UA S. 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>In der am 31. Mai 2007 beim Finanzamt eingereichten Umsatzsteuerjahreserklärung 2006 machte die Ho.    zudem die in den Rechnungen der A. GmbH ausgewiesene Umsatzsteuer von 225.600 Euro als Vorsteuer geltend, darunter 168.000 Euro für die Werkzeugsätze 3 (57.600 Euro, UA S. 13), 4 (56.000 Euro, UA S. 14) und 5 (54.400 Euro, UA S. 15), bei denen mit der Herstellung bis zum 31. Dezember 2006 noch nicht begonnen worden war. Das Finanzamt stimmte der Steueranmeldung, mit der ein Erstattungsbetrag angemeldet wurde, zu und zahlte den Betrag von 168.000 Euro auch an die Ho.     aus (UA S. 20, 36).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>IV. Das Landgericht hat die Handlungen des Angeklagten H.    als Subventionsbetrug (§ 264 StGB) und Steuerhinterziehung (§ 370 AO) in jeweils zwei Fällen gewertet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Er habe bei der Beantragung der Investitionszulage für die Kalenderjahre 2005 und 2006 zu subventionserheblichen Tatsachen i.S.v. § 264 Abs. 8 StGB - nämlich zu Art und Zeitpunkt der Investitionen (UA S. 34) - unrichtige Angaben gemacht und damit im Hinblick auf beide Förderzeiträume einen Subventionsbetrug begangen. Die Werkzeugsätze seien am Ende des jeweiligen Jahres weder zur vertraglich vorgesehenen seriellen Produktion der Anhänger geeignet noch betriebsbereit gewesen. Bei der Bestimmung der Schadenshöhe sei jedoch zu berücksichtigen, dass die in den Jahren 2005 und 2006 tatsächlich angefallenen Aufwendungen in Höhe von 710.671,55 Euro im Jahr 2005 und von 172.729,70 Euro im Jahr 2006 als Anschaffungskosten für vom Subventionszweck umfasste "Zwischenwerkzeuge" investitionszulagebegünstigt sein können (UA S. 34 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Durch unberechtigte Geltendmachung von Vorsteuern für die Jahre 2005 und 2006 habe sich der Angeklagte H.   zudem wegen Hinterziehung von Umsatzsteuer in zwei Fällen strafbar gemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Im Jahr 2005 seien hinsichtlich des Werkzeugsatzes 1 höchstens 50 % der berechneten Leistungen tatsächlich erbracht und lediglich eine Anzahlung, die 50 % des Rechnungsbetrags nicht überschritten habe, veranlasst worden. Damit hätte lediglich die Hälfte der in den Rechnungen ausgewiesenen Umsatzsteuerbeträge in Höhe von 228.800 Euro - nämlich 114.400 Euro - als Vorsteuer geltend gemacht werden dürfen (UA S. 35 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Für das Jahr 2006 sei nur die Vorsteuer hinsichtlich des Werkzeugsatzes 2 i.H.v. 57.600 Euro zu Recht geltend gemacht worden. Demgegenüber hätten hinsichtlich der Werkzeugsätze 3 bis 5 die Voraussetzungen für einen Vorsteuerabzug nicht vorgelegen. Da insoweit mit der Herstellung noch nicht begonnen worden sei, stünden die Rechnungen, in denen Umsatzsteuer in Höhe von 168.000 Euro gesondert ausgewiesen war, "mit keiner Leistung im Zusammenhang".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>V. Das Verhalten des Angeklagten G.     hat das Landgericht jeweils als Beihilfe zu den Taten des Angeklagten H.    gewertet, wobei es als Beihilfehandlungen die von G.    in seiner Funktion als Geschäftsführer der A. GmbH vorgenommenen Rechnungsstellungen angesehen hat. Da das Landgericht angenommen hat, dass die Beihilfe zum Subventionsbetrug in Tateinheit zur Beihilfe zur Steuerhinterziehung steht, wurde der Angeklagte G.     nur wegen zweier Taten verurteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>B.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Revision des Angeklagten H.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Revision des Angeklagten H.   hat umfassend Erfolg. Hinsichtlich der Verurteilung wegen Subventionsbetrugs greift eine Verfahrensrüge durch; die Verurteilung wegen Steuerhinterziehung hält sachlich-rechtlicher Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>I. Zum Schuldspruch wegen Subventionsbetrugs (§ 264 StGB) in zwei Fällen hat eine auf § 261 StPO gestützte Verfahrensrüge Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>1. Das Landgericht hat der Verurteilung des Angeklagten H.   wegen Subventionsbetrugs zugrunde gelegt, dass der Angeklagte für die Jahre 2005 und 2006 jeweils eine Investitionszulage für betriebsbereit angeschaffte Produktionswerkzeuge beantragt habe, obwohl die Werkzeuge nicht zur seriellen Produktion geeignet und mangels Betriebsbereitschaft bis zum Ende des jeweiligen Kalenderjahrs auch nicht angeschafft gewesen seien (UA S. 34).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>2. Mit zulässig erhobener Verfahrensrüge beanstandet die Revision des Angeklagten H.   , das Landgericht habe dem im Wege des Selbstleseverfahrens in die Hauptverhandlung eingeführten Investitionszulageantrag der Ho.    für das Kalenderjahr 2006 im Urteil einen unzutreffenden Inhalt beigemessen. Er habe die Investitionszulage nicht für bereits angeschaffte Wirtschaftsgüter, sondern für geleistete Anzahlungen beantragt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>3. Die Verfahrensbeanstandung eines Verstoßes gegen § 261 StPO ist begründet; sie führt auch zur Aufhebung der Verurteilung wegen Subventionsbetrugs für das Jahr 2005.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend macht die Revision geltend, dass die Feststellung, die Ho.    habe die Investitionszulage stets für bis zum Ende das Kalenderjahrs bereits angeschaffte Wirtschaftsgüter und damit für abgeschlossene Investitionen beantragt, in einem unaufgelösten Widerspruch zum Inhalt des Investitionszulageantrags für das Kalenderjahr 2006 vom 23. Mai 2007 steht. Denn aus dieser Urkunde ergibt sich aufgrund der Eintragungen unter der Rubrik "Begünstigungsfall", dass die Ho.    im Kalenderjahr 2006 für die Werkzeugsätze 4 und 5 eine Investitionszulage nicht für bereits angeschaffte Wirtschaftsgüter, sondern für geleistete Anzahlungen auf Anschaffungskosten beantragt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Dies führt hier zum Erfolg der Verfahrensrüge (vgl. auch BGH, Beschlüsse vom 7. Dezember 2010 - 4 StR 401/10, StV 2012, 67; und vom 19. August 2008 - 3 StR 252/08, NStZ 2009, 404, jeweils mwN). Der Senat kann nicht ausschließen, dass das Landgericht bei zutreffender Erfassung des Inhalts des Investitionszulageantrags für das Jahr 2006 nicht von (bewusst) unrichtigen Angaben des Angeklagten H.   ausgegangen wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>b) Der Verfahrensfehler erfasst auch die Verurteilung wegen Subventionsbetrugs betreffend das Jahr 2005. Denn im Falle eines auf geleistete Anzahlungen (statt auf bereits angeschaffte Wirtschaftsgüter) gestützten Investitionszulageantrags für das Jahr 2006 hätte das Landgericht auch für das Jahr 2005 erörtern müssen, ob eine auf Anzahlungen bezogene Investitionszulage zu gewähren gewesen wäre. Deshalb kommt es nicht darauf an, ob eine weitere, den Inhalt des Investitionszulageantrags für das Jahr 2005 betreffende und ebenfalls auf § 261 StPO gestützte Verfahrensrüge deswegen unzulässig ist, weil die Revision diesen Antrag nicht vollständig (es fehlt Seite 1) mitgeteilt hat (vgl. § 344 Abs. 2 Satz 2 StPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>4. Die Aufhebung der Verurteilung des Angeklagten H.   wegen Subventionsbetrugs in zwei Fällen auf die Verfahrensrüge hin erfasst auch die dieser Verurteilung zugrunde liegenden Feststellungen. Auf die weiteren hierauf bezogenen Verfahrensrügen kommt es daher nicht mehr an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Eines Eingehens auf die Sachrüge bedarf es danach ebenfalls nicht. Der Senat hatte allerdings bei der materiell-rechtlichen Prüfung der Voraussetzungen des § 264 StGB keinen Rechtsfehler zum Nachteil des Angeklagten gesehen (vgl. auch unten G.I.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>II. Die Verurteilung wegen Steuerhinterziehung in zwei Fällen (§ 370 Abs. 1 Nr. 1 AO) ist bereits auf die Sachrüge hin aufzuheben. Einer Erörterung der erhobenen Verfahrensrügen bedarf es daher nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>1. Das Landgericht hat die Verurteilung des Angeklagten H.   wegen Hinterziehung von Umsatzsteuer jeweils darauf gestützt, dass die Voraussetzungen für einen Vorsteuerabzug aus den Rechnungen der A. GmbH für die Ho.    nicht vorgelegen haben. Es hat hierbei jedoch einen unzutreffenden rechtlichen Maßstab zugrunde gelegt. Die Verurteilung des Angeklagten H.   hält daher insoweit rechtlicher Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>a) Gemäß § 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 1 und 2</span> UStG kann ein Unternehmer die gesetzlich geschuldete Steuer für Lieferungen und sonstige Leistungen, die von einem anderen Unternehmer für sein Unternehmen ausgeführt worden sind, als Vorsteuer abziehen, wenn er eine nach den §§ 14, 14a UStG ausgestellte Rechnung besitzt. Soweit der gesondert ausgewiesene Steuerbetrag auf eine Zahlung vor Ausführung dieser Umsätze entfällt, ist er bereits abziehbar, wenn die Rechnung vorliegt und die Zahlung geleistet ist (§ 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>aa) Das Landgericht ist zwar auf Grundlage der von ihm getroffenen Feststellungen zutreffend davon ausgegangen, dass ein Vorsteuerabzug nach § 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 1 und 2</span> UStG nicht zulässig war, da im jeweiligen Anmeldungszeitraum die Leistungen durch die A. GmbH noch nicht an die Ho.     ausgeführt waren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Insbesondere wurden auch keine Teilleistungen i.S.v. § 13 Abs. 1 Nr. 1 Buchst. a Satz 2 UStG erbracht. Teilleistungen liegen vor, wenn für bestimmte Teile einer wirtschaftlich teilbaren Leistung das Entgelt gesondert vereinbart wird (§ 13 Abs. 1 Nr. 1 Buchst. a Satz 3 UStG; vgl. dazu BFH, Beschluss vom 9. März 2006 - V B 77/05, BFH/NV 2006, 1530 mwN). Hier fehlte es jedenfalls an einer gesonderten Vereinbarung des Entgelts für bestimmte Teile einer Leistung. Eine solche ist nicht schon dann zu bejahen, wenn lediglich Teilzahlungen, Abschlagzahlungen, Vorauszahlungen, Vorschüsse oder vorläufige Zahlungen vereinbart worden sind. Derartige Vereinbarungen vertraglicher Art betreffen allein den Fälligkeitszeitpunkt für die geschuldete Gegenleistung, nicht aber eine gesonderte Entgeltvereinbarung für bestimmte Teile der Leistung. Dies gilt auch dann, wenn solche Zahlungen vereinbarungsgemäß entsprechend dem Fortgang der Leistungen oder nach einem bestimmten Leistungsstand zu entrichten sind (vgl. Nieskens in Rau/Dürrwächter, UStG, § 13 Rn. 281).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>bb) Bei der Prüfung der Berechtigung zum Vorsteuerabzug aus geleisteten Anzahlungen gemäß § 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG ist das Landgericht dagegen rechtsfehlerhaft davon ausgegangen, dass auch in diesem Fall die "Rechnungsausstellung mit einer Leistung verbunden sein" müsse und deshalb ein Vorsteuerabzug nur möglich sei, wenn mit der Leistung - hier der Erstellung des betreffenden Werkzeugsatzes - bereits begonnen worden sei (vgl. UA S. 36).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Entfällt der gesondert ausgewiesene Umsatzsteuerbetrag - wie hier - auf eine Zahlung vor der Ausführung der Umsätze, setzt der Vorsteuerabzug lediglich voraus, dass eine nach den §§ 14, 14a UStG ausgestellte Rechnung vorliegt und die Zahlung geleistet worden ist (§ 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG). Der Vorsteuerabzug kann dann in dem (Vor-)Anmeldungszeitraum vorgenommen werden, in dem erstmalig beide Voraussetzungen erfüllt sind. Mit der Ausführung der Leistung muss nach dem eindeutigen Wortlaut der Vorschrift noch nicht begonnen worden sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>b) Ob für die Ho.    nach § 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG eine Berechtigung zum Vorsteuerabzug aus den Rechnungen der A.  GmbH als Anzahlungen bestand, kann der Senat auf der Grundlage der Urteilsfeststellungen nicht prüfen. Die vom Landgericht getroffenen Feststellungen ermöglichen weder die Nachprüfung, ob die ausgestellten Rechnungen die für einen Vorsteuerabzug notwendigen Angaben enthielten (nachfolgend aa)), noch, ob die Anzahlungen im jeweiligen Anmeldungszeitraum erfolgten (nachfolgend bb)).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>aa) Die Berechtigung zum Vorsteuerabzug setzt zunächst das Vorliegen einer Rechnung i.S. der §§ 14, 14a UStG voraus. Dabei ergeben sich die erforderlichen Rechnungsangaben aus § 14 Abs. 4 UStG, der sinngemäß gilt, wenn das Entgelt oder ein Teil des Entgelts vereinnahmt wird, bevor die Lieferung oder sonstige Leistung ausgeführt werden (§ 14 Abs. 5 Satz 1 UStG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Der Vorsteuerabzug aus einer Rechnung über Leistungen, auf die Anzahlungen geleistet wurden, setzt voraus, dass alle maßgeblichen Elemente des Steuertatbestandes, d.h. der künftigen Lieferung oder sonstigen Leistung zum Zeitpunkt der Anzahlung genau bestimmt sind. Die Rechnung muss deshalb Angaben tatsächlicher Art enthalten, welche eine eindeutige und leicht nachprüfbare Feststellung der Leistung ermöglichen, über die abgerechnet wird (BFH, Urteil vom 24. August 2006 - V R 16/05, BFHE 215, 311; vgl. auch EuGH, Urteil vom 21. Februar 2006 in der Rechtssache C-419/02, BUPA Hospitals u.a., DStRE 2006, 424).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>In der Rechnung müssen die Menge und die Art (handelsübliche Bezeichnung) des Gegenstands der Lieferung angegeben werden (§ 14 Abs. 4 Satz 1 Nr. 5 UStG). Zudem ist gemäß § 14 Abs. 4 Satz 1 Nr. 6 UStG der Zeitpunkt der Vereinnahmung des Entgelts oder eines Teils des Entgelts anzugeben, sofern der Zeitpunkt der Vereinnahmung feststeht und nicht mit dem Ausstellungsdatum der Rechnung übereinstimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Die Angabe des Datums der Vereinnahmung des Entgelts wird dem leistenden Unternehmer regelmäßig nicht möglich sein, weil der Leistungsempfänger grundsätzlich erst nach oder gleichzeitig mit der Rechnungsstellung zahlt (vgl. auch BFH, Urteil vom 17. Dezember 2008 - XI R 62/07, BFHE 223, 535). Daher muss in der Rechnung kenntlich gemacht werden, dass über eine noch nicht ausgeführte Leistung abgerechnet wird. Dies kann sich aus der Aufmachung der Rechnung (z.B. durch Bezeichnung als Anzahlungs- oder Vorausrechnung) oder aus ihrem Inhalt (z.B. durch Hinweis auf den erst in der Zukunft liegenden Zeitpunkt der Leistung) ergeben (vgl. Sächsisches Finanzgericht, Urteil vom 6. November 2013 - 2 K 1198/13; Finanzgericht Baden-Württemberg, Beschluss vom 14. April 2011 - 9 V 3818/10; Birkenfeld in Birkenfeld/Wäger, Das große Umsatzsteuerhandbuch, § 164 Rn. 71, 114, 132; Wagner in Sölch/Ringleb, § 14 Rn. 392 ["sollte"]; so auch Abschnitt 14.5. Abs. 16, Abschnitt 14.8. Abs. 4 UStAE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Die Pflichtangaben des § 14 Abs. 4 UStG verfolgen das Ziel, die Erhebung der Umsatzsteuer und ihre Überprüfung sicherzustellen. Daher müssen nach ständiger Rechtsprechung des Bundesfinanzhofs die Rechnungsangaben eine eindeutige und leicht nachprüfbare Feststellung der Voraussetzungen für den Vorsteuerabzug ermöglichen (vgl. BFH, Urteil vom 17. Dezember 2008 - XI R 62/07 mwN, BFHE 223, 535). Dies macht eine entsprechende Kenntlichmachung erforderlich. Sofern eine Voraus- oder Anzahlungsrechnung weder den Zeitpunkt der Vereinnahmung des Entgelts enthält, weil dieser noch nicht feststeht, noch kenntlich macht, dass über eine noch nicht ausgeführte Leistung abgerechnet wird, bestünde andernfalls für die Finanzverwaltung stets die Ungewissheit, ob über eine Anzahlung abgerechnet wird oder ob die Angabe des Leistungszeitpunkts aus anderen Gründen fehlt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Die Kenntlichmachung ist auch im Hinblick auf die Gefahr geboten, dass vom Empfänger andernfalls mit Hilfe von schon vor Leistungsausführung erteilten Rechnungen, die den Eindruck erwecken, es würde über eine bereits erbrachte Leistung abgerechnet, missbräuchlich Vorsteuern geltend gemacht werden könnten. Damit korrespondiert, dass der nicht nur über eine vereinnahmte Anzahlung, sondern mit einer nicht als Vorausrechnung erkennbaren Rechnung über eine noch nicht ausgeführte Leistung abrechnende Rechnungsersteller, die in der Rechnung ausgewiesene Umsatzsteuer gemäß § 14c Abs. 2 Satz 2 Var. 2 UStG jedenfalls ab dem Zeitpunkt schuldet, in dem feststeht, dass die Leistung nicht mehr ausgeführt wird (vgl. BFH, Urteile vom 21. Februar 1980 - V R 146/73, BFHE 129, 569; vom 20. März 1980 - V R 131/74, BFHE 130, 122; vom 29. Juni 1988 - V B 144/87, BFH/NV 1989, 134; vom 5. Februar 1998 - V R 65/97, BFHE 185, 302; und vom 7. April 2011 - V R 44/09, BFHE 234, 430; Stadie in Rau/Dürrwächter, UStG, 157. Lfg., § 14c Rn. 263 f. mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) Neben dem Vorliegen einer den dargelegten Anforderungen genügenden Rechnung i.S.v. §§ 14, 14a UStG setzt der Vorsteuerabzug gemäß § 15 Abs. 1 Satz 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG weiterhin die Zahlung im jeweiligen Anmeldungszeitraum der Geltendmachung voraus. Für den Zeitpunkt der Leistung der Zahlung ist nicht auf den Zahlungsabfluss beim Leistungsempfänger, sondern auf den Zeitpunkt der Vereinnahmung durch den leistenden Unternehmer abzustellen. Denn die mit dem Anspruch auf Vorsteuerabzug korrespondierende Umsatzsteuer entsteht beim leistenden Unternehmer gemäß § 13 Abs. 1 Nr. 1 Buchst. a Satz 4 UStG erst mit Ablauf des Voranmeldungszeitraums, in dem er das Entgelt oder Teilentgelt vereinnahmt hat (Birkenfeld in Birkenfeld/Wäger, Das große Umsatzsteuer-handbuch, 39. Lfg., § 173, Vorsteuerabzug aus Rechnungen über Voraus- und Anzahlungen, Rn. 47). Ob die geltend gemachten Anzahlungen im jeweiligen Anmeldungszeitraum von der A. GmbH vereinnahmt worden sind, lässt sich den Urteilsfeststellungen jedoch nicht mit der erforderlichen Klarheit entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>c) Angesichts der unzureichenden Feststellungen zur Berechtigung der Ho.    zum Vorsteuerabzug kann der Senat nicht nachprüfen, ob es zu einer Steuerverkürzung gekommen ist. Der Schuldspruch wegen Hinterziehung von Umsatzsteuer für die Jahre 2005 und 2006 hat daher keinen Bestand. Deshalb war das Urteil auch insoweit mit den Feststellungen aufzuheben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>C.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Revision des Angeklagten G.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Die Revision des Angeklagten G.    hat ebenfalls Erfolg. Eine auf die Verletzung von § 261 StPO gestützte Verfahrensrüge greift in vollem Umfang durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>I. Mit dieser zulässig erhobenen Verfahrensrüge beanstandet die Revision des Angeklagten G.    , das Landgericht habe den im Wege des Selbstleseverfahrens in die Hauptverhandlung eingeführten Investitionszulageanträgen der Ho.    für die Kalenderjahre 2005 und 2006 im Urteil einen unzutreffenden Inhalt beigemessen. Die Investitionszulage sei nicht für bereits angeschaffte Wirtschaftsgüter, sondern für geleistete Anzahlungen beantragt worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>II. Die Verfahrensbeanstandung eines Verstoßes gegen § 261 StPO ist begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Zutreffend macht die Revision geltend, dass die Feststellung, die Ho.    habe die Investitionszulage stets für bis zum Ende das Kalenderjahrs bereits angeschaffte Wirtschaftsgüter und damit für abgeschlossene Investitionen beantragt, nicht mit dem Inhalt der Investitionszulageanträge für das Kalenderjahr 2005 vom 1. Februar 2006 und für das Kalenderjahr 2006 vom 23. Mai 2007 zu vereinbaren ist. Denn aus diesen Urkunden ergibt sich aufgrund der Eintragungen unter der Rubrik „Begünstigungsfall“, dass die Ho.    im Kalenderjahr 2005 für den Werkzeugsatz 1 sowie im Kalenderjahr 2006 für die Werkzeugsätze 4 und 5 eine Investitionszulage nicht für bereits angeschaffte Wirtschaftsgüter, sondern lediglich für geleistete Anzahlungen auf Anschaffungskosten beantragt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Dies führt hier zum Erfolg der Verfahrensrüge (vgl. auch BGH, Beschlüsse vom 7. Dezember 2010 - 4 StR 401/10, StV 2012, 67 und vom 19. August 2008 - 3 StR 252/08, NStZ 2009, 404, jeweils mwN). Der Senat kann nicht ausschließen, dass das Landgericht bei zutreffender Erfassung des Inhalts der Investitionszulageanträge für die Jahre 2005 und 2006 nicht von (bewusst) unrichtigen Angaben ausgegangen wäre. Die Verurteilung wegen Beihilfe zum Subventionsbetrug in zwei Fällen hat daher keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>III. Die Aufhebung erfasst auch die Verurteilung wegen jeweils in Tateinheit zur Beihilfe zum Subventionsbetrug begangener Beihilfe zur Hinterziehung von Umsatzsteuer für die Jahre 2005 bzw. 2006. Denn schon im Hinblick auf die im Ansatz rechtsfehlerfrei angenommene Tateinheit mit Beihilfe zum Subventionsbetrug kann ein Schuldspruch wegen Beihilfe zur Steuerhinterziehung nicht isoliert bestehen bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Da der Verfahrensfehler auch zur Aufhebung der der Verurteilung zugrunde liegenden Feststellungen führt, kommt es auf die weiteren Verfahrensrügen nicht an. Allerdings hat die Verurteilung auch materiell-rechtlich deswegen keinen Bestand, weil der Senat aufgrund der unzureichenden Feststellungen zur Vorsteuerabzugsberechtigung der Ho.   nicht prüfen kann, ob überhaupt eine beihilfefähige Haupttat des Angeklagten H.    vorliegt (s. oben B.II.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>D. Revision der Staatsanwaltschaft zu Ungunsten des Angeklagten H.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Die auf den Strafausspruch beschränkte und auf die Sachrüge gestützte Revision der Staatsanwaltschaft zu Ungunsten des Angeklagten H.   hat Erfolg. Der Strafausspruch hat insgesamt keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>I. Die Revisionsbeschränkung der Staatsanwaltschaft auf den Strafausspruch ist wirksam. In Fällen, in denen die Revision des Angeklagten vollen Erfolg hat, ist im Rahmen der Staatsanwaltsrevision nicht auf § 301 StPO zurückzugreifen, um daraus eine Unwirksamkeit der Rechtsmittelbeschränkung herzuleiten. Dies gilt jedenfalls dann, wenn - wie hier - die Beschwerdepunkte losgelöst vom nicht angefochtenen Teil des Urteils geprüft werden können und im weiteren Verfahren auch keine Widersprüche zwischen den von der Staatsanwaltschaft nicht angefochtenen Teilen des Urteils und der Entscheidung des Senats auftreten können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>II. Die Festsetzung der Einzelstrafen hält revisionsgerichtlicher Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>1. Das Landgericht hat im Rahmen der Strafzumessung rechtsfehlerhaft zugunsten des Angeklagten H.    berücksichtigt, dass es ihm bei den Taten nicht um die persönliche Bereicherung, sondern um die Durchführung des Projekts gegangen sei. Diese Wertung findet in den Urteilsfeststellungen keine tragfähige Grundlage. Der Angeklagte und der Mitangeklagte G.    waren alleinige Gesellschafter der Komplementär-Gesellschaft sowie die einzigen Kommanditisten der Ho.     und profitierten damit beide von der Auszahlung der Investitionszulage sowie der Umsatzsteuererstattungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>2. Hinsichtlich des Subventionsbetrugs betreffend die Investitionszulagen für die Jahre 2005 und 2006 hat das Landgericht - ausgehend von den von der Staatsanwaltschaft nicht angegriffenen Urteilsfeststellungen - der Strafzumessung zudem einen zu geringen Schuldumfang zugrunde gelegt. Zwar bestehen keine Anhaltspunkte für die Annahme, das Landgericht könnte die unterschiedliche kriminelle Intensität des Handelns der Angeklagten während der verschiedenen Produktionszyklen im Rahmen der Strafzumessung nicht ausreichend beachtet haben. Allerdings hat das Landgericht jeweils strafmildernd berücksichtigt, dass die in den betreffenden Jahren tatsächlich angefallenen Aufwendungen als Anschaffungskosten für "Zwischenwerkzeuge" investitionszulagebegünstigt gewesen seien. Diese Annahme wird indes von den Feststellungen nicht getragen. Den Urteilsfeststellungen ist nicht zu entnehmen, welche Anschaffungen den Voraussetzungen für eine Förderung nach dem Investitionszulagegesetz genügt hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>III. Die Aufhebung der Einzelstrafen zieht die Aufhebung des Ausspruchs über die Gesamtstrafe nach sich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Die Gesamtstrafenbildung könnte davon abgesehen auch deshalb keinen Bestand haben, weil die Anwendung des § 53 Abs. 2 Satz 2 StGB durchgreifenden Bedenken begegnet. Die Urteilsgründe lassen besorgen, dass das Landgericht rechtsfehlerhaft Gesichtspunkte der Strafzumessung im Sinne der Findung einer schuldangemessenen Strafe mit solchen der Strafaussetzung zur Bewährung vermengt hat, indem es allein deshalb, um die Verhängung der Gesamtfreiheitsstrafe noch zur Bewährung aussetzen zu können, für die Hinterziehung von Umsatzsteuer für das Jahr 2005 eine Einzelgeldstrafe verhängt und diese gemäß § 53 Abs. 2 Satz 2 StGB nicht in die Gesamtfreiheitsstrafe einbezogen hat (vgl. BGH, Urteile vom 17. September 1980 - 2 StR 355/80, BGHSt 29, 319 und vom 19. Dezember 2000 - 5 StR 490/00, NStZ 2001, 311).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>IV. Die vom Landgericht gewählte Formulierung des Urteilstenors gibt zudem Anlass, darauf hinzuweisen, dass sich in Fällen, in denen gemäß § 53 Abs. 2 Satz 2 StGB gesondert auf eine Geldstrafe erkannt wird, bereits aus der Entscheidungsformel ergeben muss, welche (Gesamt-)Strafe für welche Tat(en) verhängt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>E. Revision der Staatsanwaltschaft zu Ungunsten des Angeklagten G.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Auch die ebenfalls wirksam auf den Strafausspruch beschränkte Revision der Staatsanwaltschaft zu Ungunsten des Angeklagten G.    hat Erfolg. Der Strafausspruch hat insgesamt keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>I. Die Bemessung der Einzelstrafen hält rechtlicher Nachprüfung nicht stand, weil das Landgericht auch zum Vorteil des Angeklagten G.    rechtsfehlerhaft berücksichtigt hat, dass es bei den Taten nicht um seine persönliche Bereicherung, sondern um die Durchführung des Projekts gegangen sei (s. dazu oben D.II.1.). Zudem hat das Landgericht rechtsfehlerhaft zum Vorteil des Angeklagten hinsichtlich beider Haupttaten des Subventionsbetrugs, zu denen er Beihilfe geleistet hat, einen zu geringen Schuldumfang zugrunde gelegt (s. dazu oben D.II.2.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>II. Der vom Landgericht vorgenommene Härteausgleich weist ebenfalls Rechtsfehler zugunsten des Angeklagten G.     auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Die Annahme des Landgerichts, ein Härteausgleich sei "im Bezug auf die zwischenzeitlich vollstreckte Strafe aus dem Urteil des Amtsgerichts Leipzig [vom 10. Mai 2010] wegen vorsätzlicher Insolvenzverschleppung in Tateinheit [richtig: Tatmehrheit] mit Vorenthalten und Veruntreuen von Arbeitsentgelt [in 14 Fällen]" (UA S. 40) erforderlich, ist unzutreffend. Unabhängig davon, dass im Urteil nur die verhängte Gesamtgeldstrafe von 150 Tagessätzen zu je 30 Euro und nicht auch die Einzelstrafen mitgeteilt werden, wären die im vorliegenden Verfahren ausgesprochenen Einzelstrafen ohne nähere Feststellungen nur mit der im Urteil des Amtsgerichts Calw vom 9. Mai 2008 wegen falscher Verdächtigung verhängten Geldstrafe von 40 Tagessätzen zu je 100 Euro gesamtstrafenfähig gewesen. Dann hätte lediglich ein Härteausgleich für 40 vollstreckte Tagessätze gewährt werden dürfen. Der Senat kann nicht ausschließen, dass sich dieser Rechtsfehler im Ergebnis zugunsten des Angeklagten ausgewirkt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>III. Bei der Gesamtstrafenbildung ist zudem auch hinsichtlich des Angeklagten G.    zu besorgen, dass das Landgericht rechtsfehlerhaft Gesichtspunkte der Strafzumessung im Sinne der Findung einer schuldangemessenen Strafe mit solchen der Strafaussetzung zur Bewährung vermengt hat, indem es allein deshalb, „um die Vollstreckung der verhängten Freiheitstrafe gemäß § 56 Abs. 1 bis 3 StGB noch zur Bewährung aussetzen zu können“ (UA S. 40/41), gemäß § 53 Abs. 2 Satz 2 StGB auf eine gesonderte Geldstrafe erkannt hat (s. oben D.III.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>F.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Im Umfang der Aufhebung ist die Sache zu neuer Verhandlung und Entscheidung an eine andere Wirtschaftsstrafkammer des Landgerichts zurückzuverweisen, weil neue Feststellungen, die wieder eine Verurteilung rechtfertigen können, möglich erscheinen. Der Senat hat auch auf die Revisionen der Staatsanwaltschaft die den Strafaussprüchen zugrunde liegenden Feststellungen aufgehoben, um der neuen Strafkammer widerspruchsfreie Feststellungen zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>G.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Für die neue Hauptverhandlung weist der Senat auf Folgendes hin:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>I. Sollte der neue Tatrichter hinsichtlich der verfahrensgegenständlichen Investitionszulage für die Jahre 2005 und 2006 wieder im Wesentlichen zu denselben Feststellungen gelangen, wird er hinsichtlich des Tatvorwurfs des Subventionsbetrugs Folgendes in den Blick nehmen können:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>1. Als subventionserhebliche Tatsachen kommen hier insbesondere der Zeitpunkt der Anschaffung der Werkzeugsätze sowie der Zeitpunkt der Leistung von Anzahlungen auf Anschaffungskosten in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>a) Subventionserheblich sind Tatsachen, die durch Gesetz oder aufgrund eines Gesetzes vom Subventionsgeber als subventionserheblich bezeichnet sind (§ 264 Abs. 8 Nr. 1 StGB) oder von denen die Bewilligung, Gewährung, Rückforderung, Weitergewährung oder das Belassen einer Subvention oder eines Subventionsvorteils gesetzlich abhängig ist (§ 264 Abs. 8 Nr. 2 StGB).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Zwar scheidet hier eine Subventionserheblichkeit nach § 264 Abs. 8 Nr. 1 Alt. 1 StGB aus, weil der Zeitpunkt der Anschaffung der begünstigten Investitionen sowie der Zeitpunkt der Leistung von Anzahlungen nicht durch Gesetz als subventionserheblich bezeichnet sind. Allerdings sind jedenfalls die Voraussetzungen des § 264 Abs. 8 Nr. 2 StGB erfüllt. Es kann daher offen bleiben, ob die in den jeweiligen Antragsformularen enthaltenen Hinweise, wonach alle in diesem Antrag angegebenen Tatsachen sowie die Tatsachen, die unverzüglich anzuzeigen sind, subventionserheblich seien, zu pauschal waren, um den Anforderungen des § 264 Abs. 8 Nr. 1 Alt. 2 StGB zu genügen (vgl. hierzu BGH, Urteil vom 11. November 1998 - 3 StR 101/98, BGHSt 44, 233).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Die Regelung des § 264 Abs. 8 Nr. 2 StGB erfasst Fälle, in denen eine ausdrückliche Bezeichnung als subventionserheblich fehlt oder unwirksam ist, dem Gesetz selbst aber sonst - wenn auch erst mit Hilfe der anerkannten Auslegungsmethoden - entnommen werden kann, unter welchen Voraussetzungen die Subvention gewährt wird. Eine gesetzliche Abhängigkeit von einer Tatsache i.S.v. § 264 Abs. 8 Nr. 2 StGB liegt nur dann vor, wenn das Gesetz selbst mit hinreichender Deutlichkeit zum Ausdruck bringt, dass die "Subventionierung" unter der im Gesetz genannten Voraussetzung erfolgt, ohne dass die entsprechende Tatsache ausdrücklich als subventionserheblich bezeichnet wird. Daran fehlt es in der Regel, wenn die gesetzliche Vorschrift der Verwaltung einen Spielraum einräumt (BGH, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>b) Gemessen an diesen Maßstäben begründen die Absätze 4 und 5 des § 2 InvZulG 2005 eine gesetzliche Abhängigkeit der Bewilligung der Investitionszulage vom Anschaffungszeitpunkt des begünstigten Wirtschaftsguts als für den Abschluss der Investition maßgeblichen Zeitpunkt sowie gegebenenfalls vom Zeitpunkt der Leistung von Anzahlungen auf die Anschaffungskosten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>aa) Gemäß § 2 Abs. 4 InvZulG 2005 ist die Bewilligung der Investitionszulage vom Zeitpunkt der Investition abhängig. Investitionen sind nur dann begünstigt, wenn sie der Anspruchsberechtigte nach dem 24. März 2004 und vor dem 1. Januar 2007 begonnen und nach dem 31. Dezember 2004 und vor dem 1. Januar 2007 abgeschlossen hat bzw. nach dem 31. Dezember 2006 abschließt, soweit vor dem 1. Januar 2007 Teilherstellungskosten entstanden oder im Fall der Anschaffung Teillieferungen erfolgt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Investitionen sind in dem Zeitpunkt abgeschlossen, in dem die Wirtschaftsgüter angeschafft oder hergestellt worden sind. Aus dem Einkommensteuerrecht übernommene Begriffe sind auch im Recht der Gewährung von Investitionszulagen grundsätzlich nach den für die Einkommensbesteuerung maßgeblichen Grundsätzen auszulegen, soweit sich nicht aus dem Investitionszulagegesetz, seinem Zweck und seiner Entstehungsgeschichte etwas anderes ergibt (st. Rspr. des BFH, vgl. Urteil vom 26. Januar 2006 - III R 5/04, BStBl. II 2006, 771 mwN). Zeitpunkt der Anschaffung ist ertragsteuerlich der Zeitpunkt der Lieferung (§ 9a EStDV). Geliefert ist das Wirtschaftsgut, wenn der Erwerber nach dem Willen der Vertragsparteien darüber wirtschaftlich verfügen kann. Neben dem Übergang der wirtschaftlichen Verfügungsmacht auf den Erwerber setzt der Begriff der Anschaffung im Investitionszulagenrecht zusätzlich die Betriebsbereitschaft des Wirtschaftsguts voraus (BFH, Urteile vom 28. November 2006 - III R 17/05, BFH/NV 2007, 975 und vom 25. September 1996 - III R 112/95, BStBl. II 1998, 70 mwN). Eine Teillieferung liegt dann vor, wenn das Wirtschaftsgut geliefert wurde, jedoch noch nicht betriebsbereit ist oder wenn Teile eines aus mehreren unselbständigen Wirtschaftsgütern bestehenden Wirtschaftsguts an den Anspruchsberechtigten geliefert wurden (Martin in Heß/Martin, InvZulG, § 5 Rn. 72).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>bb) Auch die Höhe der Investitionszulage hängt gemäß § 2 Abs. 5 InvZulG 2005 vom Zeitpunkt der Investition sowie bei Geltendmachung von Anzahlungen auf Anschaffungskosten von deren Zahlungszeitpunkt ab. Denn Bemessungsgrundlage für die Investitionszulage ist gemäß § 2 Abs. 5 InvZulG 2005 die Summe der Anschaffungs- und Herstellungskosten der im Wirtschaftsjahr oder Kalenderjahr abgeschlossenen begünstigten Investitionen. In die Bemessungsgrundlage können die im Wirtschaftsjahr oder Kalenderjahr geleisteten Anzahlungen auf Anschaffungskosten und entstandene Teilherstellungskosten einbezogen werden. Macht der Anspruchsberechtigte von diesem Recht Gebrauch, dürfen im Wirtschaftsjahr oder Kalenderjahr der Anschaffung oder Herstellung der Wirtschaftsgüter die Anschaffungs- oder Herstellungskosten bei der Bemessung der Investitionszulage nur berücksichtigt werden, soweit sie die Anzahlungen oder Teilherstellungskosten übersteigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Gemäß § 2 Abs. 5 Satz 4 InvZulG 2005 i.V.m. § 7a Abs. 2 Satz 3 EStG sind Anzahlungen auf Anschaffungskosten im Zeitpunkt der tatsächlichen Zahlung aufgewendet. Es kommt darauf an, wann der Schuldner seine Leistungshandlung erbringt und seine wirtschaftliche Verfügungsmacht über den geleisteten Geldbetrag verliert (BFH, Urteile vom 24. August 2004 - IX R 28/02, BFH/NV 2005, 49 und vom 22. Mai 1987 - III R 47/82, BStBl. II 1987, 673). Bei Investitionen, die nach dem 31. Dezember 2006 abgeschlossen werden, sind vor dem 1. Januar 2007 geleistete Anzahlungen auf Anschaffungskosten nur insoweit zulagebegünstigt, als sie den Wert der erfolgten Teillieferungen nicht übersteigen (vgl. § 2 Abs. 4 Satz 1 InvZulG 2005).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>2. Für die Beurteilung der Frage, ob hinsichtlich der Investitionszulage für das Kalenderjahr 2005 unrichtige Angaben über subventionserhebliche Tatsachen gemacht wurden, wird der Tatrichter neben den Angaben im Investitionszulageantrag vom 1. Februar 2006 auch die Angaben im Rahmen der Einspruchsbegründung vom 13. März 2006 in den Blick zu nehmen haben, die Teil der von der Anklage erfassten prozessualen Tat i.S.v. § 264 StPO sind (zum prozessualen Tatbegriff vgl. BGH, Urteil vom 18. Dezember 2012 - 1 StR 415/12, BGHR StPO § 264 Abs. 1 Ausschöpfung 5 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>II. Hinsichtlich der dem Angeklagten H.    zur Last liegenden Hinterziehung von Umsatzsteuer für die Jahre 2005 und 2006 wird der neue Tatrichter - sollte er erneut zu der Überzeugung gelangen, dass die A. GmbH im jeweiligen Anmeldungszeitraum keine Leistungen an die Ho.    erbracht hat - zu prüfen haben, ob die Voraussetzungen für einen Vorsteuerabzug aus Anzahlungen gemäß § 15 Abs. 1 Nr. 1 <span style="text-decoration:underline">Satz 3</span> UStG - nämlich das Vorliegen einer Rechnung i.S.v. §§ 14, 14a UStG und die Leistung der Zahlung (s. oben B.II.) - vorgelegen haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Der Senat weist darauf hin, dass eine Strafbarkeit wegen Steuerhinterziehung durch Einreichen einer falschen Umsatzsteuerjahreserklärung nicht bereits deshalb ausgeschlossen ist, weil die eingereichte Erklärung keine Unterschrift trägt. Zwar ist eine Steuererklärung, welche die gesetzlich vorgeschriebene Unterschrift nicht enthält, unwirksam. Der Mangel der fehlenden Unterschrift ist aber dann steuerrechtlich unbeachtlich, wenn auf eine solche Steuererklärung ein wirksamer Bescheid ergeht. Dasselbe gilt, wenn - wie hier - eine zu einer Steuervergütung führende Steueranmeldung durch Zustimmung des Finanzamts nach § 168 Satz 2 AO einer Steuerfestsetzung unter Vorbehalt der Nachprüfung gleichsteht (vgl. BFH, Urteil vom 28. Februar 2002 - V R 42/01, BStBl. II 2002, 642; BGH, Urteil vom 27. September 2002 - 5 StR 97/02, NStZ-RR 2003, 20). Für die Annahme einer Tathandlung ist es ausreichend, wenn aufgrund einer Gesamtwürdigung der festgestellten Umstände feststeht, dass die falschen Angaben in der abgegebenen Steuererklärung durch den Angeklagten veranlasst wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>III. Hinsichtlich der dem Angeklagten G.      vorgeworfenen Beihilfe zum Subventionsbetrug und zur Steuerhinterziehung durch Rechnungsstellung wird der neue Tatrichter die von der Rechtsprechung zur Beihilfestrafbarkeit bei sog. berufstypischen neutralen Handlungen entwickelten Grundsätze in den Blick nehmen können. Danach gilt Folgendes:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Zielt das Handeln des Haupttäters ausschließlich darauf ab, eine strafbare Handlung zu begehen, und weiß dies der Hilfeleistende, so ist sein Tatbeitrag als Beihilfehandlung zu werten. In diesem Fall verliert sein Tun stets den "Alltagscharakter"; es ist als "Solidarisierung" mit dem Täter zu deuten und dann auch nicht mehr als sozialadäquat anzusehen. Weiß der Hilfeleistende dagegen nicht, wie der von ihm geleistete Beitrag vom Haupttäter verwendet wird, hält er es lediglich für möglich, dass sein Tun zur Begehung einer Straftat genutzt wird, so ist sein Handeln regelmäßig noch nicht als strafbare Beihilfehandlung zu beurteilen, es sei denn, das von ihm erkannte Risiko strafbaren Verhaltens des von ihm Unterstützten war derart hoch, dass er sich mit seiner Hilfeleistung die Förderung eines erkennbar tatgeneigten Täters angelegen sein ließ (BGH, Urteile vom 21. August 2014 - 1 StR 13/14, NStZ-RR 2014, 316; und vom 22. Januar 2014 - 5 StR 468/12, wistra 2014, 176 jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>IV. Im Falle einer erneuten Verurteilung der Angeklagten wegen Subventionsbetrugs bzw. Beihilfe hierzu wird der neue Tatrichter bei der Strafzumessung auch im Blick behalten, dass es für das Jahr 2006 anders als für das Jahr 2005 nicht zu einer Festsetzung und Auszahlung der beantragten Investitionszulage gekommen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Rothfuß                      Jäger                            Cirener</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                 Radtke                    Mosbacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-JURE150005607&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

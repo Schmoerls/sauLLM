@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>JURE140010370</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20140513</entsch-datum>
+   <aktenzeichen>X ZR 133/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 52 EuPatÜbk, Art 54 Abs 1 EuPatÜbk, Art 54 Abs 2 EuPatÜbk, Art 56 EuPatÜbk, Art 138 Abs 1 Buchst a EuPatÜbk, Art 138 Abs 1 Buchst b EuPatÜbk, Art 2 § 6 Abs 1 Nr 1 IntPatÜbkG, Art 2 § 6 Abs 1 Nr 2 IntPatÜbkG</norm>
+   <vorinstanz>vorgehend BPatG München, 5. Juni 2012, Az: 3 Ni 44/10 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren betreffend eine Europäisches Patent: Einschränkung des Patentanspruchs durch die Beschreibung im Falle eines Verfahrens zur Reinigung von Immoglobulin-G-Antikörpern</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 5. Juni 2012 verkündete Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 746 398 (Streitpatents), das am 21. Februar 1995 unter Inanspruchnahme einer US-amerikanischen Priorität vom 22. Februar 1994 angemeldet wurde und Verfahren zur Reinigung von Antikörpern betrifft. Das Streitpatent umfasst 26 Patentansprüche, von denen die einander nebengeordneten Patentansprüche 1 und 2 in der Verfahrenssprache wie folgt lauten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">"1. A method for purifying monomeric IgG antibody from a mixture comprising the monomeric antibody and protein A comprising contacting said mixture with a hydrophobic interaction chromatographic (HIC) support and selectively eluting the monomer from the support.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. A method for the purification of an IgG antibody from conditioned cell culture medium containing same comprising sequentially subjecting the medium to (a) Protein A affinity chromatography, (b) ion exchange chromatography, and (c) hydrophobic interaction chromatography."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die übrigen Ansprüche sind auf einen dieser Ansprüche zurückbezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat die Klage zunächst nur auf den Nichtigkeitsgrund der fehlenden Patentfähigkeit gestützt. Im Verlauf des Verfahrens hat sie ferner geltend gemacht, die Erfindung sei nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in sechs geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, die weiterhin die Klageabweisung erstrebt und das Streitpatent hilfsweise mit ihren bereits in erster Instanz gestellten Anträgen sowie - für den Fall, dass eine von der Klägerin im Berufungsverfahren neu eingeführte Entgegenhaltung entscheidungserheblich werden sollte - mit weiteren sechs Hilfsanträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft die Reinigung von Immunglobulin-G- Antikörpern (IgG-Antikörpern) aus Protein A enthaltenden Gemischen sowie aus konditioniertem Zellkulturmedium unter Anwendung der hydrophoben Wechselwirkungschromatographie.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. Im Stand der Technik sind verschiedene Verfahren zur Aufreinigung von Proteinen bekannt. Nach den Erläuterungen in der Streitpatentschrift setzen die herkömmlichen Reinigungsverfahren, zu denen die Größenausschluss-chromatographie, die Ionenaustauschchromatographie und die Präzipitation (Ausfällung) zu zählen sind, bei den Unterschieden an, die das zu reinigende Protein einerseits und die unerwünschten Proteinverunreinigungen andererseits hinsichtlich molekularer Eigenschaften wie Größe, Ladung und Löslichkeit aufweisen (Beschr. Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Bei der Größenausschlusschromatographie, die auch unter den Begriffen Gelfiltrations- oder Gelpermeationschromatographie bekannt sei und vor allem für die Trennung von Makromolekülen angewendet werde, beruhe der Trennungseffekt darauf, dass unterschiedlich große Moleküle unterschiedliche Diffusionsvolumina aufwiesen. Kleinere Moleküle drängen vollständig in die porösen Polymere der stationären Phase ein und würden dadurch stärker zurückgehalten als große Moleküle, denen nur die Zwischenräume zwischen dem Polymergranulat zugänglich seien. Dementsprechend eluierten große Moleküle vor den kleinen (Beschr. Abs. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Bei den Präzipitationsverfahren würden die in einer Probe enthaltenen gewünschten Antikörper durch den Zusatz von Salzen oder organischen Lösungsmitteln als Fällungsmittel ausgeschieden (Beschr. Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Ionenaustauschchromatographie trenne die Moleküle nach ihrer unterschiedlichen Ladung. Geladene funktionelle Gruppen in der Probe bänden ionische funktionelle Gruppen von entgegengesetzter Ladung auf der Oberfläche eines Adsorptionsmittels. Dabei werde zwischen anionischer und kationischer Austauschchromatographie unterschieden (Beschr. Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Streitpatentschrift führt weiter aus, dass in neuerer Zeit die Techniken der Affinitätschromatographie und der hydrophoben Wechselwirkungschromatographie (Hydrophobic Interaction Chromatography, HIC) entwickelt worden seien, um die traditionelleren Verfahren der Größenausschluss- und der Ionenaustauschchromatographie zu ergänzen (Beschr. Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Affinitätschromatographie nutze die spezifische Wechselwirkung zwischen Proteinen und Liganden. Das zu reinigende Molekül werde spezifisch und reversibel an einen Liganden gebunden, während kontaminierende Substanzen ausgewaschen würden. Die spezifische Wahl eines Liganden für die Affinitätsreinigung eines Antikörpers sei das Antigen, mit dem der gewünschte Antikörper reagiere. Jedoch können nach den Ausführungen in der Streitpatentschrift auch mit Protein A aus Staphylococcus bestimmte Antikörper der IgG-Klasse gebunden werden (Beschr. Abs. 7 bis 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die hydrophobe Wechselwirkungschromatographie mache sich die Wechselwirkungen zwischen den hydrophoben Abschnitten des zu reinigenden Proteins und der HIC-Matrix zu Nutze und ermögliche so eine Trennung von Proteinen mittels Affinitätsgelen auch dann, wenn diese nur Kohlenwasserstoff-Abstandsarme und keinen Affinitätsliganden enthalten. Die hydrophobe Wechselwirkung sei bei hoher Ionenstärke am wirksamsten. Daher empfiehlt sich die HIC nach den Ausführungen in der Streitpatentschrift vor allem nach einer Salzfällung oder der Durchführung eines Ionenaustauschverfahrens (Beschr. Abs. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Nach der Streitpatentschrift sind Affinitätschromatographie und HIC auch schon kombiniert mit einer oder mehreren der herkömmlichen Proteinreinigungsverfahren angewandt worden (Beschr. Abs. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Als für die Isolierung von Antikörpern am weitesten verbreitetes Verfahren wird in der Streitpatentschrift die Protein-A-Affinitätschromatographie genannt. Nachteilig bei diesem Verfahren sei jedoch, dass mit der Elution des Antikörpers von der Säule gleichzeitig Protein A vom chromatographischen Träger ausgewaschen werde, das den gewonnenen Antikörper wiederum verunreinige. Zur Entfernung des ausgewaschenen Proteins A sei bis zum Prioritätszeitpunkt des Streitpatents eine Reinigung mittels einer Größenausschluss-Hochleistungsflüssigkeitschromatographie (High Performance Liquid Chromatography, HPLC) oder einer Anionenaustauschchromatographie empfohlen worden. Überraschenderweise habe sich aber gezeigt, dass für das Herauslösen von verunreinigendem Protein A aus IgG-Gemischen, die aus einem chromatographischen Träger mit Protein A eluiert worden seien, die HIC nutzbar gemacht werden könne (Beschr. Abs. 13, 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Aufgabe des Streitpatents darin gesehen, mit Hilfe der zum Prioritätszeitpunkt bekannten Techniken ein Reinigungsverfahren zu entwickeln, das die selektive Anreicherung von (monomeren) Antikörpern aus einem Gemisch ermöglicht, das den (monomeren) Antikörper und Protein A enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dies trifft nur für den Gegenstand von Patentanspruch 1 zu. Für Patentanspruch 2 ist das technische Problem allgemeiner dahin zu formulieren, ein Verfahren anzugeben, mit dem hochreine monomere IgG-Antikörper gewonnen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung der gestellten Aufgabe schlägt das Streitpatent in den</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Patentansprüchen 1 und 2 Reinigungsverfahren für IgG-Antikörper unter Einbeziehung der HIC vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>a) Die Merkmale des in Patentanspruch 1 vorgeschlagenen Verfahrens lassen sich - im Wesentlichen mit dem Patentgericht - wie folgt gliedern:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.1 Das Verfahren dient der Reinigung eines monomeren IgG-Antikörpers aus einem Gemisch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.1.1 Das Gemisch umfasst den monomeren Antikörper und Protein A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.2 Das Verfahren umfasst</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.2.1 das Inkontaktbringen des Gemisches mit einem Träger für hydrophobe Wechselwirkungschromatographie (HIC)und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.2.2 das selektive Eluieren des Monomers vom Träger.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>b) Die Merkmale des in Patentanspruch 2 vorgeschlagenen Verfahrens können mit dem Patentgericht wie folgt gegliedert werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">2.1 Das Verfahren dient der Reinigung eines IgG-Antikörpers aus konditioniertem Zellkulturmedium, das den IgG-Antikörper enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">2.2 Das Verfahren umfasst die aufeinanderfolgende Durchführung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">2.2.1 einer Protein-A-Affinitätschromatographie,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">2.2.2 einer Ionenaustauschchromatographie und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">2.2.3 einer hydrophoben Wechselwirkungschromatographie (HIC) mit dem Medium.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>3. Zur Auslegung der Patentansprüche sind folgende Bemerkungen veranlasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Merkmal 1.1.1 beschreibt das Gemisch, aus dem der monomere IgG-Antikörper nach dem von Patentanspruch 1 beanspruchten Verfahren herausgelöst werden soll, als eines, das neben dem monomeren IgG-Antikörper Protein A umfasst. Dabei schließt die Formulierung "umfasst" nicht aus, dass das Gemisch neben Protein A auch andere Verunreinigungen enthält. Die Beschreibung des Streitpatents geht demgegenüber von einem weiteren Verständnis des Begriffs Gemisch aus. Danach kann das Gemisch von den möglichen Verunreinigungen, wie Immunglobulinaggregate, fehlgefaltete Proteine, Wirtszellenprotein, restliches Material aus vorangegangenen chromatographischen Schritten, wie beispielsweise Protein A, ohne Einschränkung eine oder mehrere enthalten, so dass sich darunter nicht zwingend auch Protein A befinden müsste (Beschr. Abs. 37). Diese Definition kann indessen nicht für die Bestimmung des Gegenstands des Patentanspruchs 1 herangezogen werden, da Merkmal 1.1.1 verlangt, dass das Gemisch jedenfalls Protein A als verunreinigende Substanz enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Das Patentgericht hat angenommen, entgegen der Auffassung der Beklagten handle es sich bei der HIC im Sinne von Merkmal 1.2.1 und 2.2.3 nicht um ein funktionelles, sondern um ein allgemeines technisches Merkmal, das im Vergleich zu der im Stand der Technik bekannten Vorgehensweise keine Besonderheiten aufweise und insbesondere nicht - wie von der Beklagten geltend gemacht - speziell an die Abreicherung von Protein A oder von IgG-Aggregaten angepasst sei. Vielmehr sei die HIC mangels näherer Konkretisierung in den Patentansprüchen 1 und 2 nach den im Stand der Technik bekannten Methoden durchzuführen, die, weil sie zu hochreinen Erzeugnissen führten, zur Entfernung sowohl von Protein A als auch von IgG-Aggregaten geeignet seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dies hält den Angriffen der Berufung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Merkmale 1.2.1 und 2.2.3 in der erteilten Fassung treffen keine nähere Aussage über die Bedingungen, unter denen die HIC durchzuführen ist. Die in der Streitpatentschrift dargestellten Beispiele mögen - wie die Beklagte geltend macht - detaillierte Angaben dazu enthalten, wie die einzelnen Verfahrensschritte einer HIC ausgeführt werden können, um das Protein A aus dem zu reinigenden Gemisch zu entfernen. Indessen kommt es hierauf letztlich nicht an. Der Gegenstand eines Patents bestimmt sich nach den Patentansprüchen. Zwar ist die Beschreibung, die die technische Lehre des Patentanspruchs erläutert, nicht nur für die Bestimmung des Schutzbereichs, sondern auch für die Auslegung des Patentanspruchs heranzuziehen (st. Rspr., s. nur BGH, Urteil vom 17. Juli 2012 - X ZR 117/11, BGHZ 194, 107 Rn. 27 - Polymerschaum). Jedoch darf dies nicht zu einer sachlichen Einengung des durch den Wortlaut des Patentanspruchs festgelegten Gegenstands führen (BGH, Urteil vom 4. Februar 2010 - Xa ZR 36/08, GRUR 2010, 602 Rn. 27 - Gelenkanordnung). Aus der Gesamtheit der Offenbarung lässt sich nicht entnehmen, dass die Patentansprüche in der erteilten Fassung über die reinen Zweckangaben (Entfernung von Protein A in Patentanspruch 1 und Reinigung eines IgG-Antikörpers aus konditioniertem Zellkulturmedium in Patentanspruch 2) hinaus mit Blick auf die in der Beschreibung des Streitpatents geschilderten Beispiele eine spezielle Art einer HIC zum Gegenstand haben, die von dem abweicht, was zum Standard einer HIC und zu den im Einzelfall vom Fachmann sachgerecht auszuwählenden und einzustellenden Parametern gehört. Die Beklagte legt auch nicht konkret dar, was eine solche HIC kennzeichnen sollte. Eine andere Beurteilung ergibt sich auch dann nicht, wenn die Merkmale "Entfernung von Protein A" und "Entfernung von IgG-Aggregaten" - wie in den Hilfsanträgen teilweise vorgesehen - ausdrücklich in die Patentansprüche aufgenommen werden. Das Patentgericht hat hierzu festgestellt, dass anerkannte Methoden der HIC zur Entfernung sowohl von Protein A als auch von IgG-Aggregaten geeignet sind. Insbesondere hat das Patentgericht, insoweit von der Berufung nicht mit einer Verfahrensrüge angefochten, festgestellt, dass IgG-Aggregate sich nicht nur in ihrer Molekülgröße von den zu isolierenden monomeren IgG-Antikörpern unterscheiden, sondern auch in ihrem hydrophoben Verhalten. Daraus ergibt sich, dass zur Entfernung von IgG-Aggregaten im Prioritätszeitpunkt nicht ausschließlich die Gelfiltration in Betracht kam, sondern die HIC mit den im Stand der Technik bekannten Parametern objektiv ebenfalls hierfür geeignet war. Die Beklagte kann daher nicht mit Erfolg geltend machen, dass die Entfernung von IgG-Aggregaten als zusätzliches technisches Merkmal anzusehen sei, weil IgG-Aggregate nur unter "spezifischen Chromatographiebedingungen" entfernt werden könnten. Dementsprechend gehen die Patentansprüche in der erteilten Fassung und in den mit den Hilfsanträgen verteidigten Fassungen von einer im Stand der Technik bekannten HIC aus, die allgemein für die Gewinnung eines hochreinen Antikörpers und damit für die Entfernung von Verunreinigungen unterschiedlicher Art und daher auch von Protein A und von IgG-Aggregaten geeignet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 beruhe nicht auf erfinderischer Tätigkeit. Das darin geschützte Verfahren sei dem Fachmann, einem wissenschaftlich tätigen Biochemiker mit speziellen Kenntnissen auf dem Gebiet der Immunologie, der mit der Aufreinigung von Antikörpern befasst sei, schon allein durch die Entgegenhaltung NiK10 (Schmidt, Journal of Biotechnology 11 (1989) S. 235 bis 252), zumindest aber durch eine Zusammenschau der NiK10 und der NiK3 (internationale Patentanmeldung WO 89/06544), nahegelegt gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die NiK10 betreffe die Aufreinigung von monomeren IgG-Antikörpern im Sinne von Patentanspruch 1. Denn nach den Erläuterungen in der NiK10 seien nur diese funktionsfähig und kommerziell verwertbar, während Dimere Verunreinigungen darstellten. Die NiK10 gebe nicht nur einen Überblick über die gängigen Proteinreinigungsverfahren, sondern zeige auch Aspekte auf, die bei der Konzeption neuer Reinigungsprotokolle zu berücksichtigen seien. Danach liege für den Fachmann ein Reinigungsprotokoll bestehend aus einer Protein-A-Affinitätschromatographie als erstem Reinigungsschritt gefolgt von einer weiteren, abschließenden Reinigungsstufe auf der Hand. Die Protein-A-Affinitäts-chromatographie werde in der NiK10 neben der Ionenaustauschchromatographie als die für den ersten Reinigungsschritt am häufigsten verwendete Technik genannt. Zwar zeige die NiK10 dem Fachmann auch den Nachteil dieser Methode auf, der darin bestehe, dass aus der Affinitätsmatrix Protein A in die gewonnenen IgG-Antikörper ausgewaschen werden könne, dessen Entfernung im Hinblick darauf, dass zum therapeutischen Einsatz beim Menschen bestimmte Antikörper einen gesetzlich vorgeschriebenen hohen Reinheitsgrad aufweisen müssten, einen weiteren, abschließenden Reinigungsschritt erforderlich mache. Da die Protein-A-Affinitätschromatographie aber ansonsten keine Nachteile aufweise, werde der Fachmann daran festhalten, den ersten Reinigungsschritt in diesem Verfahren durchzuführen. Nachdem im Stand der Technik keine der Protein-A-Affinitätschromatographie nachgeschalteten Reinigungsschritte mit zufriedenstellenden Ergebnissen bekannt gewesen seien, habe für den Fachmann Anlass bestanden, nach neuen Strategien zur Reinigung von IgG-Antikörpern unter Beteiligung der Protein-A-Affinitätschromatographie zu suchen. Zwar nehme die NiK10 insoweit auf ein von Kenney und Chase im Jahr 1987 beschriebenes Proteinreinigungsverfahren Bezug, das die Kombination der Protein-A-Affinitätschromatographie mit der Ionenaustauschchromatographie vorsehe. Da dort die Ionenaustauschchromatographie aber nicht als abschließender, sondern lediglich als weiterer Reinigungsschritt genannt werde und nach den Angaben in der Streitpatentschrift eine solche Kombination nur mit mäßigem Erfolg angewendet worden sei, werde sich der Fachmann nicht nur auf dieses Beispiel konzentrieren, sondern sich im Abschnitt "Final Purification" (abschließende Reinigung) der NiK10, wo eine überschaubare Zahl möglicher Endreinigungsstufen mit deren Vor- und Nachteilen erläutert würden, über als abschließende Reinigungsverfahren in Betracht kommende Techniken informieren. Auch wenn dort die Gelfiltration vor der HIC und der Hydroxyapatit-chromatographie als die am häufigsten angewendete Methode für die Gewinnung von hochreinen Antikörperprodukten genannt werde, habe für den Fachmann Anlass bestanden, auch die weiteren als geeignet erachteten Techniken in Betracht zu ziehen und dabei die als vielversprechender nachgeschalteter Reinigungsschritt bewertete HIC als vorteilhaft anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann, der ausgehend von der NiK10 ein die Protein-A-Affinitätschromatographie umfassendes Reinigungsprotokoll für IgG-Antikörper entwickeln habe wollen, habe auch auf die NiK3 zurückgreifen können. Denn der in Merkmal 1.1 verwendete allgemeine Begriff IgG-Antikörper umfasse entgegen der Auffassung der Beklagten auch heteroligierende Antikörper im Sinne der NiK3. Die in NiK3 für die Reinigung heterobifunktioneller Antikörper entwickelten Reinigungsprotokolle basierten auf den üblichen Techniken der Chromatographie zur Isolierung und Trennung von Immunglobulinen. Das Beispiel betreffend die Isolierung des heterobifunktionellen Antikörpers 17-1A x B140 zeige die Durchführung einer Protein-A-Affinitätschromatographie gefolgt von einer hydrophoben Wechselwirkungschromatographie. Im Anschluss daran werde der gesuchte heterobifunktionelle IgG-Antikörper durch selektive Elution im Sinne des Merkmals 1.2.2 gewonnen. Während der Elution erfolge die Trennung des heterobifunktionellen Antikörpers 17-1A x B140 von den monoklonalen Antikörpern 17-1A und B140.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Ebenso wenig beruhe der Gegenstand von Patentanspruch 2 auf erfinderischer Tätigkeit. Das darin beschriebene Verfahren sei dem Fachmann durch die NiK3, die NiK10 und die NiK4 (V.K. Garg, in: Targeted Therapeutic System, herausgegeben von P. Tyle and B.P. Ram, 1990, S. 45 bis 73) nahegelegt gewesen. Dem Fachmann sei aus der NiK3 bekannt gewesen, dass sich für die Aufreinigung von IgG-Antikörpern die Kombination einer Protein-A-Affinitäts-chromatographie mit einer sich anschließenden hydrophoben Wechselwirkungschromatographie eigne. Für den Fall, dass hiermit keine IgG-Produkte gewonnen werden könnten, die die Grenzwerte an zulässigen Verunreinigungen nicht überschritten, werde der Fachmann die Durchführung eines weiteren Reinigungsschritts erwägen. Hierfür habe er sich an der NiK4 orientieren können, in der auch Konzepte für dreistufige Reinigungsverfahren angesprochen würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Er finde dort zunächst den Hinweis, dass nach einer Affinitätschromatographie mit Protein A abschließend ein Anionenaustauschschritt zur Entfernung ausgewaschener Proteine, insbesondere des Proteins A, durchgeführt werden solle. Da die Ionenaustausch- und die Affinitätschromatographie als die am häufigsten verwendeten Techniken bei der Aufreinigung monoklonaler Antikörper bezeichnet würden, werde der Fachmann dieser Kombination bei der Entwicklung eines dreistufigen Verfahrens Aufmerksamkeit schenken, auch wenn die zweistufige Kombination zum Prioritätszeitpunkt des Streitpatents als nicht zufriedenstellend erachtet worden sei. Dem anschließenden Kapitel über die hydrophobe Wechselwirkungschromatographie in der NiK4 entnehme der Fachmann, dass sich dieses Verfahren am besten als Anschlussverfahren nach einer Ionenaustauschchromatographie eigne. Dies werde den Fachmann nicht überraschen, da auch die Streitpatentschrift die Durchführung einer HIC nach vorangegangener Ionenaustauschchromatographie als bekannt voraussetze. In der Durchführung einer Protein-A-Affinitätschromatographie, gefolgt von einer Ionenaustauschchromatographie und abschließender HIC sei demzufolge keine erfinderische Tätigkeit zu erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der Patentansprüche 1 und 2 in der Fassung der Hilfsanträge I bis V sei dem Fachmann ebenfalls nahegelegt gewesen. Die in diesen Hilfsanträgen zusätzlich aufgenommene Entfernung von IgG-Aggregaten beschreibe ein bereits zur Aufgabe der bekannten Reinigungsverfahren gehörendes Merkmal. Denn Dimere und damit alle Formen von IgG-Aggregaten stellten zu entfernende Verunreinigungen dar. Der Einwand der Beklagten, dass nach dem Stand der Technik IgG-Aggregate ausschließlich mittels Gelfiltration entfernt worden seien, greife nicht durch. IgG-Aggregate unterschieden sich von den zu isolierenden monomeren IgG-Antikörpern nicht nur hinsichtlich ihrer Molekülgröße, sondern auch in ihrem hydrophoben Verhalten. Der Fachmann werde daher auch die HIC als für die Entfernung von IgG-Aggregaten geeignetes Reinigungsverfahren in Betracht ziehen. Nachdem mit den im Stand der Technik bekannten Reinigungsverfahren bereits Reinheitsgrade von mehr als 95% erreicht würden, beruhe auch der Gegenstand des Streitpatents in der Fassung des hierauf abstellenden Hilfsantrags III nicht auf erfinderischer Tätigkeit. Die Verwendungsansprüche der Hilfsanträge IV und V gingen sachlich nicht über die vorangehenden Hilfsanträge hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren jedenfalls im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht den Gegenstand von Patentanspruch 1 mangels erfinderischer Tätigkeit als nicht patentfähig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>a) Nach der NiK10 erfolgt die Reinigung großer Mengen von monoklonalen Antikörpern in folgenden drei Arbeitsschritten: Präparieren der zu reinigenden Substanz <em>(feed pretreatment), </em>Anfangsreinigung <em>(initial purification) </em>und abschließende Reinigung <em>(final purification). </em>Die Vorbehandlung dient dazu, die Probe für die Reinigung durch chromatographische Verfahren vorzubereiten, indem kleine Moleküle, wie Wasser, und Salze aus der aufzureinigenden Substanz entfernt werden. Als übliche Methoden hierfür nennt die NiK10 Ultrafiltration, Entsalzung und Pufferaustausch (S. 242 = S. 13 f. der Übers.). Für die erste Reinigungsstufe, in der in der Regel die meisten wesentlichen Verunreinigungen entfernt werden, hat sich nach der NiK10 die Ionenaustauschchromato-graphie etabliert, mit der bei Verwendung eines Anionenaustauschers Antikörper mit einer Reinheit von mehr als 98% und bei einem Kationenaustausch mit einer Reinheit zwischen 50 und 95% gewonnen werden können (S. 243 = S. 15 der Übers.). Als für diese Reinigungsstufe ebenfalls geeignete Methode nennt die NiK10 die Affinitätschromatographie, mit der bei Verwendung von immobilisiertem Protein A eine Reinheit von mehr als 95% bei einer Ausbeute von 80% erzielt werden könne (S. 243 bis 245 = S. 16 bis 18 der Übers.). In diesem Zusammenhang weist die NiK10 darauf hin, dass bei hohen Anforderungen an die Eliminierung von Verunreinigungen für eine In-vivo-Verwendung des Antikörpers beim Menschen zu berücksichtigen sei, dass Protein A aus der Affinitätsmatrix entweichen könne. Nach der NiK10 kann diesem unerwünschten Effekt entgegengewirkt werden, indem die chromatographische Säule vor Gebrauch vorgespült oder im Anschluss an die Durchführung der Affinitätschromatographie das ausgewaschene Protein A in einem abschließenden Reinigungsschritt entfernt wird (S. 244 = S. 16 der Übers.). Ein speziell hierfür geeignetes Verfahren nennt die NiK10 an dieser Stelle nicht. Im Abschnitt über die für eine abschließende Reinigung in Betracht kommenden Verfahren, die nach den Erläuterungen in der NiK10 erforderlich ist, wenn ein extrem hoher Reinheitsgrad gefordert ist, werden mehrere Chromatographieverfahren, darunter auch die HIC, als geeignet aufgeführt (S. 245 "Final Purification" = S. 18 der Übers.). Das Problem der Entfernung von nach einer Affinitätschromatographie ausgewaschenem Protein A wird an dieser Stelle nicht (erneut) ausdrücklich angesprochen. Hinsichtlich der Gelfiltration wird allgemein darauf hingewiesen, dass diese ideal sei, um dem Produkt den letzten Schliff zu geben. In Bezug auf die HIC heißt es, dass sich nur wenige Literaturstellen zum Einsatz der HIC für die Abtrennung monoklonaler Antikörper im großen Maßstab fänden, dass aber über gute Ergebnisse für die Abtrennung monoklonaler Antikörper aus Zellkultur-überstand berichtet werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>b) Aus der NiK10 ergibt sich somit, dass die HIC als abschließendes Reinigungsverfahren in Betracht kommt, wenn nach dem ersten Reinigungsschritt ein weiterer - abschließender - Reinigungsschritt notwendig wird, weil ein besonders hoher Reinheitsgrad des Präparats gefordert ist. Da zugleich ausdrücklich auf die Notwendigkeit hingewiesen wird, im Anschluss an die Durchführung einer Affinitätschromatographie ausgewaschenes Protein A in einem abschließenden Reinigungsschritt zu entfernen, ist gegen die Annahme des Patentgerichts, jedenfalls eine naheliegende Möglichkeit habe in der Durchführung einer HIC zur Entfernung der Protein-A-Verunreinigungen bestanden, nichts zu erinnern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>c) Darauf, ob - wie das Patentgericht angenommen hat - der Gegenstand von Patentanspruch 1 dem Fachmann auch durch die NiK3 in Kombination mit der NiK10 nahegelegt wurde, kommt es daher nicht mehr an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>2. Das Patentgericht hat ebenfalls zu Recht entschieden, dass der Gegenstand von Patentanspruch 2 nicht patentfähig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 2 ist zwar neu (Art. 54 Abs. 1 und 2 EPÜ). Wenn auch alle nach Patentanspruch 2 zur Reinigung von IgG-Antikörpern einzusetzenden Chromatographieverfahren in den von der Klägerin als neuheitsschädlich vorgelegten Entgegenhaltungen aufgeführt, erläutert und zum Teil auch Kombinationen dieser Verfahren vorgeschlagen werden, sieht doch keine der genannten Entgegenhaltungen vor, dass die drei in Patentanspruch 2 genannten Verfahren in der dort vorgesehenen Kombination und Reihenfolge durchgeführt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>b) Jedoch ist das Patentgericht zutreffend zu dem Ergebnis gelangt, dass der Gegenstand von Patentanspruch 2 in der erteilten Fassung dem Fachmann durch den Stand der Technik nahegelegt war (Art. 56 EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Ob sich dies bereits - wie das Patentgericht angenommen hat - aus der NiK4 ergibt, mag im Hinblick darauf zweifelhaft sein, dass diese Veröffentlichung am Ende des Abschnitts VI (vorletzter Absatz, S. 57 = S. 17 der Übers.) eine Ionenaustauschchromatographie <em>vor </em>der Affinitätschromatographie zu empfehlen scheint. Letztlich kommt es darauf jedoch nicht an. Denn dem Fachmann war der Gegenstand von Patentanspruch 2 jedenfalls durch die NiK10 nahegelegt. Dort ist ausgeführt, dass für therapeutische Anwendungen bestimmte und daher einen hohen Reinheitsgrad fordernde Produkte nach der Protein-A-Affinitätschromatographie einem Ionenaustauschschritt unterzogen wurden (S. 245 Abs. 1 = S. 17 Abs. 1 der Übers.). Im Abschnitt über die für eine abschließende Reinigung in Betracht kommenden Verfahren, die nach den Erläuterungen in der NiK10 durchzuführen ist, wenn ein extrem hoher Reinheitsgrad gefordert ist, wird, wie bereits dargelegt, neben anderen Chromatographieverfahren auch die HIC als geeignet genannt (S. 245 "Final Purification" = S. 18 der Übers.), so dass der Fachmann aufgrund der NiK10 Anlass hatte, bei unbefriedigenden Ergebnissen eines bloß zweistufigen Verfahrens oder höheren Ansprüchen an die Reinheit des Endprodukts ein dreistufiges Verfahren im Sinne des Patentanspruchs 2 zu erproben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>3. Zu Recht hat das Patentgericht den Gegenstand von Patentanspruch 1 auch in der Fassung der Hilfsanträge für nicht patentfähig erachtet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag I soll das Gemisch nach Merkmal 1.1.1, aus dem der monomere IgG-Antikörper gereinigt werden soll, auch IgG-Aggregate umfassen. IgG-Aggregate stellen, wie das Patentgericht - für das Berufungsverfahren bindend (§ 117 PatG i.V.m. § 529 Abs. 1 Nr. 1 ZPO) - festgestellt hat, unerwünschte Verunreinigungen eines IgG-Antikörpers dar. Nachdem jedoch das Merkmal "Gemisch" in Patentanspruch 1 - wie bereits oben dargelegt - aufgrund des Verbs "umfassen" ohnehin nicht auf eine Zusammensetzung reduziert ist, die neben dem Antikörper nur noch Protein A enthält, stellt Hilfsantrag I keine inhaltliche Änderung, insbesondere keine Beschränkung von Patentanspruch 1 in der erteilten Fassung dar, so dass die Patentfähigkeit seines Gegenstandes auch nicht anders zu beurteilen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>b) Nach Hilfsantrag II soll zusätzlich Merkmal 1.1 dahingehend spezifiziert werden, dass die Reinigung eines monomeren IgG-Antikörpers <em>"durch Entfernen von Protein A und IgG-Aggregaten" </em>aus einem Gemisch im Sinne des Hilfsantrags I erfolgen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 enthält keine Angaben, unter welchen Bedingungen die HIC durchzuführen ist: Daher umfasst - wie oben dargelegt - die Durchführung der HIC nach im Stand der Technik bekannten Methoden, die zur Entfernung sowohl von IgG-Aggregaten als auch von Protein A geeignet sind, weil sie zu hochreinen Erzeugnissen führen. Damit ergeben sich aus dem zusätzlichen Merkmal keine weitergehenden, spezifischen Anforderungen an die Verfahrensführung, so dass dieses die Patentfähigkeit des Gegenstands von Patentanspruch 1 nicht zu begründen vermag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>c) Entsprechendes gilt für Hilfsantrag III, der auf Hilfsantrag II aufsetzt und zusätzlich verlangt, dass <em>"der monomere IgG-Antikörper eine Reinheit von größer als 95%, bezogen auf Gesamtprotein in der Zusammensetzung, aufweist".</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>d) Der Gegenstand des als Verwendungsanspruch formulierten Patentanspruchs 1 ist weder in der Fassung des Hilfsantrags IV noch in der Fassung des Hilfsantrags V patentfähig. Diese Fassungen entsprechen in der Sache Hilfsantrag II bzw. Hilfsantrag I, deren Gegenstand - wie oben dargelegt -kein die Patentfähigkeit begründendes Merkmal aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>4. Ebenso wenig ist der Gegenstand von Patentanspruch 2 in der Fassung der Hilfsanträge I bis V patentfähig. Diese Fassungen unterscheiden sich von der erteilten Fassung im Wesentlichen dadurch, dass der Verfahrensschritt der HIC durch die Angabe, dass mit diesem Schritt IgG-Aggregate und/oder Protein A entfernt würden, konkretisiert werden soll. Wie schon bei Patentanspruch 1 vermögen diese zusätzlichen Merkmale die Patentfähigkeit auch hier nicht zu begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>5. Nachdem es für die Entscheidung nicht auf die von der Klägerin im Berufungsverfahren neu eingeführte Veröffentlichung von Grebenau u.a. (NiK28) ankommt, muss über die Hilfsanträge VI bis XI nicht befunden werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG, § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                        Gröning                                 Grabinski</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                      Bacher                          Kober-Dehm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-JURE140010370&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE637292022</doknr>
+   <ecli>ECLI:DE:BGH:2022:190722UXZR47.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220719</entsch-datum>
+   <aktenzeichen>X ZR 47/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 21 Abs 1 Nr 4 PatG, § 38 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 10. Dezember 2019, Az: 4 Ni 80/17, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentanmeldung: Erweiterung eines Patents durch zusätzliche Einfügung eines Begriffs</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 10. Dezember 2019 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des deutschen Patents 10 2007 044 368 (Streitpatents), das am 17. September 2007 angemeldet worden ist und das Erzeugen einer Folge von Röntgenbildern für eine 3D-Rekonstruktion betrifft. Patentanspruch 1, auf den sich drei weitere Ansprüche zurückbeziehen, lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">Verfahren zum Erzeugen einer Bildfolge für eine 3D-Rekonstruktion durch ein Röntgenbildaufnahmesystem mit einem Röntgen-C-Bogen, der eine Röntgenquelle und einen Flachdetektor trägt, mit den Schritten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) Empfangen einer Eingabe zur Festlegung einer Kurve (H) in zu dem Röntgenbildaufnahmesystem definierten Koordinaten und Festlegen der Kurve (H) durch das Röntgenbildaufnahmesystem aufgrund der Eingabe,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) Empfangen einer Eingabe zur Festlegung eines Punktes (P) in einem interessierenden Bereich (IB) und Festlegen des Punktes (P) durch das Röntgenbildaufnahmesystem aufgrund der Eingabe,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) Berechnen einer Mehrzahl von Stellungen (S1, S2, S3, ... Sn; T, T') des Röntgen-C-Bogens, bei denen jeweils der Flachdetektor einerseits senkrecht auf einer von dem Punkt (P) in dem interessierenden Bereich (IB) ausgehenden geraden Linie (L, L') steht und andererseits die Kurve (H) tangential berührt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) Durchlaufen der in Schritt c) berechneten Stellungen (S1, S2, S3, ... Sn; T, T') durch Verfahren des Röntgen-C-Bogens und jeweils automatisches Aufnehmen eines Röntgenbildes bei jeder Stellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 5, auf den ein weiterer Anspruch zurückbezogen ist, schützt sinngemäß ein Röntgenbildaufnahmesystem, das zur Durchführung dieses Verfahrens geeignet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und sei nicht patentfähig. Ferner sei die Erfindung nicht so offenbart, dass ein Fachmann sie ausführen könne. Den zuletzt genannten Einwand hat die Klägerin später fallengelassen. Die Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in sieben geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen wendet sich die Beklagte mit ihrer Berufung. Sie verfolgt ihre erstinstanzlichen Anträge weiter. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist begründet und führt zur Abweisung der Klage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft das Erzeugen einer Folge von Röntgenbildern für eine 3D-Rekonstruktion.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung des Streitpatents wird ausgeführt, eine 3D-Rekonstruktion erfordere, dass Abbildungen aus unterschiedlichen Richtungen aufgenommen würden. Hierzu werde herkömmlicherweise ein Röntgen-C-Bogen über einen Winkel von 180° in gleichmäßigen Winkelabständen verfahren und in den so definierten Stellungen jeweils ein Röntgenbild aufgenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Zur Rekonstruktion eines interessierenden Bereichs müsse dieser in jedem Bild vollständig abgebildet sein. Dies sei problematisch, wenn sich der Bereich jenseits des Mittelpunkts des Objekts befinde, der üblicherweise das Drehzentrum bilde. Dieses Problem trete etwa bei Abbildungen der Leber auf. Der interessierende Bereich könne in solchen Fällen nicht einen neuen Mittelpunkt für eine kreisförmige Bewegung definieren, weil sonst die Röntgenquelle oder der Röntgendetektor gegen den Patienten stieße.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Im Stand der Technik seien Systeme bekannt, bei denen der C-Bogen zur Vermeidung von Kollisionen auf einer nicht kreisförmigen Bahn bewegt werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, die Bewegung des C-Bogens zu optimieren, um eine möglichst gute Rekonstruktion zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieses Problems schlägt das Streitpatent in Patentanspruch 1 ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <table class="Rsp" style="margin-left:36pt">
+                  <tr>
+                    <th colspan="2" rowspan="1" valign="top"/>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1    </p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren zum Erzeugen einer Bildfolge für eine 3D-Rekonstruktion durch ein Röntgenbildaufnahmesystem mit einem Röntgen-C-Bogen, der eine Röntgenquelle und einen Flachdetektor trägt, mit den Schritten:</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1a</p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Empfangen einer Eingabe zur Festlegung einer Kurve (H) in zu dem Röntgenbildaufnahmesystem definierten Koordinaten und Festlegen der Kurve (H) durch das Röntgenbildaufnahmesystem aufgrund der Eingabe,</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1b</p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Empfangen einer Eingabe zur Festlegung eines Punktes (P) in einem interessierenden Bereich (IB) und Festlegen des Punktes (P) durch das Röntgenbildaufnahmesystem aufgrund der Eingabe,</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1c</p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Berechnen einer Mehrzahl von Stellungen (S1, S2, S3, ... Sn; T, T') des Röntgen-C-Bogens, bei denen jeweils der Flachdetektor einerseits senkrecht auf einer von dem Punkt (P) in dem interessierenden Bereich (IB) ausgehenden geraden Linie (L, L') steht und andererseits die Kurve (H) tangential berührt,</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1d</p>
+                    </td>
+                    <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Durchlaufen der in Schritt c) berechneten Stellungen (S1, S2, S3, ... Sn; T,T') durch Verfahren des Röntgen-C-Bogens und jeweils automatisches Aufnehmen eines Röntgenbildes bei jeder Stellung.</p>
+                    </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Patentanspruch 5 schützt ein Aufnahmesystem, das durch die Eignung zur Durchführung eines solchen Verfahrens geprägt ist und deshalb grundsätzlich keiner abweichenden Beurteilung unterliegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Abweichend von Patentanspruch 1 sieht Anspruch 5 allerdings nicht ausdrücklich vor, dass die mit dem System erzeugbare Bildfolge für eine 3D-Rekonstruktion geeignet sein muss. Dieser Unterschied führt im Hinblick auf die relevanten Entgegenhaltungen aber nicht zu einem abweichenden Ergebnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Das mit Patentanspruch 1 geschützte Verfahren umfasst nach Merkmal 1 nicht die Herstellung einer 3D-Rekonstruktion, sondern lediglich die Anfertigung einer dafür geeigneten Bildfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Aus dem Begriff "Bildfolge" lässt sich lediglich entnehmen, dass eine Mehrzahl von Abbildungen erforderlich ist, wie dies auch in Merkmal 1c vorgesehen ist, nicht aber, dass die Anzahl der angefertigten Abbildungen größer sein muss als zwei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, welche Mindestzahl von Bildern erforderlich ist, um eine den üblichen medizinischen Qualitätsanforderungen genügende 3D-Rekonstruktion zu erstellen. Patentanspruch 1 definiert keine besonderen Qualitätsanforderungen und fordert nicht die Eignung für medizinische Zwecke oder für die Abbildung von Regionen des menschlichen Körpers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>b) Ebenso wenig enthält Patentanspruch 1 nähere Vorgaben zu Form und Verlauf der in Merkmal 1a vorgesehenen Kurve (H).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>aa) Die in Merkmal 1a vorgesehene Kurve (H) dient der Bestimmung der einzelnen Aufnahmepositionen. Diese müssen gemäß Merkmal 1c so berechnet werden, dass der Flachdetektor, auf den die Röntgenstrahlen auftreffen, die Kurve tangential berührt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Damit wird sichergestellt, dass der Flachdetektor in den Aufnahmepositionen die Kurve nicht schneidet. So können Kollisionen mit dem Körper des Patienten vermieden werden, sofern der Körper und der Flachdetektor auf unterschiedlichen Seiten der Kurve liegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Ein tangentiales Berühren im Sinne von Merkmal 1c setzt nach den auf dieses Merkmal bezogenen Erläuterungen in der Beschreibung nicht zwingend voraus, dass der reale Flachdetektor die Kurve berührt. Vielmehr muss der grafisch dargestellte Flachdetektor die Kurve berühren (Abs. 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>In Übereinstimmung damit werden bei dem in der Beschreibung geschilderten Ausführungsbeispiel die Aufnahmepositionen so gewählt, dass ein Abbild des Detektors mit der Tangente (T) zusammenfällt (Abs. 26). Der Flachdetektor muss mithin auf einer Geraden liegen, die in ihrer Verlängerung die Kurve tangential berührt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Nach der Beschreibung des Streitpatents besteht die Kurve vorzugsweise aus einer Hüllkurve, die den Patienten bei der üblichen Stellung auf jeden Fall umgibt. Eine solche Kurve kann zum Beispiel aus zwei Halbellipsen bestehen (Abs. 10). Diese Anforderung hat in Patentanspruch 1 keinen Niederschlag gefunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Den aufgezeigten Ausführungen in der Beschreibung ist lediglich zu entnehmen, dass eine den Körper vollständig umgebende Hüllkurve eine geeignete Ausgestaltung einer Kurve ist (Abs. 10), nicht aber, dass eine Kurve im Sinne von Patentanspruch 1 zwingend diese Eigenschaften aufweisen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Die Festlegung der Kurve hat nach der Lehre des Streitpatents die Funktion, Kollisionen des Flachdetektors mit dem zu untersuchenden Körper zu vermeiden. Diese Funktion kann auch mit einer offenen oder den Körper nur teilweise umgebenden Kurve verwirklicht werden, weil Patentanspruch 1 nicht vorgibt, über welchen Winkelbereich sich die Aufnahmepositionen erstrecken müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>cc) Die Formulierungen "(geschlossene) Kurve (Hüllkurve)" und "Kurve (Hüllkurve)", welche die Beschreibung bei der Darstellung der einzelnen Verfahrensschritte (Abs. 9) bzw. der Komponenten des geschützten Aufnahmesystems (Abs. 15) verwendet, führen nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Klammerzusätze könnten zwar ähnlich wie bei einer Legaldefinition als Mittel zur Definition von Synonymen verstanden werden. Sie können aber auch dahin verstanden werden, dass die in Klammern gesetzten Begriffe besonders bevorzugte Ausführungsformen bezeichnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Angesichts dieser Ambivalenz kommt den bereits erwähnten Ausführungen, wonach die Kurve geeigneter Weise geschlossen ist und den Körper vollständig umgibt (Abs. 10), ausschlaggebende Bedeutung zu. Diesen Ausführungen ist aus den bereits genannten Gründen zu entnehmen, dass diese Eigenschaften zwar vorteilhaft sind, nicht aber zwingend erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>c) Merkmal 1a enthält auch keine näheren Vorgaben zu der Art und Weise, in der die Kurve festgelegt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Aus dem Erfordernis einer Eingabe ergibt sich allerdings, dass der Benutzer die Möglichkeit haben muss, die Definition der Kurve zu beeinflussen. Wie dies im Einzelnen zu geschehen hat, gibt Patentanspruch 1 indes nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>d) Die in den Merkmalen 1b und 1c definierten Vorgaben für die Berechnung der Aufnahmepositionen können bei einer von der Kreisform abweichenden Kurvenform dazu führen, dass der Punkt, an dem der Zentralstrahl der zur Aufnahme eingesetzten Röntgenstrahlung auf den Flachdetektor auftrifft, nicht identisch ist mit dem Punkt, an dem der Detektor die Kurve berührt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>aa) Der nach Merkmal 1b festzulegende Punkt (P) bildet den Ausgangspunkt für die Berechnung der einzelnen Aufnahmepositionen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Dieser Punkt liegt gemäß Merkmal 1c innerhalb des interessierenden Bereichs (IB), also desjenigen Bereichs, für den eine 3D-Rekonstruktion erstellt werden soll. Aufgrund der erfindungsgemäßen Ausgestaltung kann er den Drehpunkt für die einzelnen Aufnahmepositionen bilden. Es muss lediglich der Abstand des Flachdetektors so angepasst werden, dass er die Hüllkurve tangential berührt (Abs. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Wie der Punkt (P) innerhalb des interessierenden Bereichs bestimmt wird, bleibt nach Merkmal 1b dem Anwender überlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>bb) Die in Merkmal 1c definierte Anforderung, dass der Flachdetektor in den Aufnahmepositionen senkrecht auf einer Linie steht, die von dem Punkt (P) ausgeht, und zugleich die Kurve (H) tangential berührt, hat bei einer nicht kreisförmigen Kurve zur Folge, dass der Punkt, an dem der Zentralstrahl der zur Aufnahme eingesetzten Röntgenstrahlung auf den Flachdetektor trifft, nicht zwingend identisch ist mit dem Punkt, an dem der Detektor die Kurve berührt, sofern der Zentralstrahl durch den Punkt (P) hindurchverläuft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Dieser Zusammenhang ist in der nachfolgend wiedergegebenen Figur 2 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="466px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Figur 2 zeigt exemplarisch zwei Positionen, in denen der Flachdetektor auf tangentialen Linien (T, T') angeordnet ist, das Abbild des Detektors die Kurve (H) also jeweils an genau einem Punkt berührt. Dieser Punkt ist nicht identisch mit der Stelle, an der die vom Punkt (P) ausgehende, senkrecht zur Tangente verlaufende Linie (L bzw. L') die Tangente schneidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Da der Zentralstrahl senkrecht auf den Detektor auftrifft, hat dies zur Folge, dass der Mittelpunkt des Detektors die Hüllkurve nicht berührt, sondern außerhalb davon liegt, wenn der Zentralstrahl durch den Punkt (P) verläuft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>e) Aus Merkmal 1c ergibt sich, dass der Zentralstrahl in den dort definierten Stellungen durch den Punkt (P) verlaufen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Für die Eignung der Bildfolge zur 3D-Rekonstruktion würde es zwar ausreichen, wenn der interessierende Bereich (IB) vollständig innerhalb des jeweiligen Aufnahmebereichs liegt. Die in Merkmal 1c vorgeschriebene Orientierung an einer vom Punkt (P) ausgehenden Linie (L, L') impliziert aber, dass diese Linie mit dem Verlauf des Zentralstrahls übereinstimmt. Dies steht zudem in Einklang mit den Ausführungen in der Beschreibung, durch das erfindungsgemäße Verfahren werde es möglich, dass der Punkt in dem interessierenden Bereich tatsächlich Drehpunkt sei (Abs. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>f) Eine Berechnung der Stellungen im Sinne von Merkmal 1c erfordert, dass das Aufnahmesystem anhand der Eingabe von Kurve (H) und Punkt (P) gemäß den Merkmalen 1a und 1b die Aufnahmepositionen unter Berücksichtigung der geometrischen Vorgaben aus Merkmal 1c ableitet. Diese Voraussetzung ist nicht erfüllt, wenn eine bestimmte Position durch den Nutzer fest vorgegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>g) Die Kurve (H) ist nach Merkmal 1c lediglich maßgeblich für die einzelnen Positionen, die für eine Aufnahme bestimmt werden, nicht aber für die Bahn, auf der der C-Bogen zu diesen einzelnen Positionen geführt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Schon aus dem bereits aufgezeigten Umstand, dass der Mittelpunkt des Detektors nicht zwingend der Punkt sein muss, an dem der Detektor die Hüllkurve berührt, ergibt sich, dass die Bahn, die der Mittelpunkt des Detektors zwischen den einzelnen Positionen zurücklegt, nicht zwingend mit der Kurve (H) übereinstimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Das detaillierte und in Einzelheiten voneinander abweichende Vorbringen der Parteien zu der Frage, welche Bewegungsbahnen im Einzelnen in Betracht kommen, ist für die Auslegung von Patentanspruch 1 nicht von ausschlaggebender Bedeutung. Denn der Anspruch gibt für die Kurve (H) weder eine elliptische noch eine sonstige Form zwingend vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>h) Aus dem Zusammenspiel der Merkmale 1c und 1d ergibt sich, dass die in Merkmal 1d vorgesehenen automatischen Aufnahmen erst dann angefertigt werden, wenn alle in Merkmal 1c vorgesehenen Stellungen berechnet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Das Berechnen der einzelnen Stellungen gemäß Merkmal 1c dient dem Zweck, ein kollisionsfreies Verfahren des C-Bogens zur Anfertigung der gewünschten Aufnahmen zu ermöglichen. Hierzu wird nach der Beschreibung des Streitpatents zunächst festgelegt, an welchen Stellen die einzelnen Aufnahmen erfolgen sollen. Erst danach wird der C-Bogen an diese Stellen verfahren, um die Aufnahmen automatisch anzufertigen. Diese Ausgestaltung greift Merkmal 1d ausdrücklich auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der erteilten Fassung von Patentanspruch 1 gehe über den Inhalt der ursprünglichen Anmeldung (NK20) hinaus. In den Ursprungsunterlagen werde ausschließlich der Begriff "Hüllkurve" verwendet, nicht aber der Begriff "Kurve". Letzterer werde in der Patentschrift nicht als Synonym verwendet. Er sei weiter als der Begriff "Hüllkurve". Deshalb gehörten zu dem nach der erteilten Fassung geschützten Gegenstand auch Ausgestaltungen, die in der Anmeldung nicht als zur Erfindung gehörend offenbart seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon sei der Gegenstand der erteilten Fassung von Patentanspruch 1 dem Fachmann, einem Physiker oder Elektroingenieur mit Masterabschluss und mehrjähriger Berufserfahrung auf dem Gebiet der Entwicklung von Röntgengeräten zur 3D-Rekonstruktion, durch das deutsche Gebrauchsmuster 20 2005 021 106 (NK11) und die US-Patentanmeldung 2003/0099328 (NK13) vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>NK11 offenbare eine mobile Röntgendiagnostikeinrichtung mit einem C-Bogen zur automatischen Erzeugung von Projektionsaufnahmen für eine Volumenrekonstruktion. Um den erforderlichen Bewegungsablauf festzulegen, seien werkseitig ein elliptischer Scan und ein Teach-in-Modus vorgesehen. Beide Optionen verwirklichten das Merkmal 1a. Ferner werde ein Zielpunkt innerhalb der interessierenden Region (ROI) eingegeben. Danach fahre das System automatisch mehrere Aufnahmestellungen an. Diese würden berechnet, weil die Stellungen des Detektors und der Röntgenquelle an ermittelte Hindernisse angepasst würden. Bei den berechneten Stellungen liege der zu untersuchende Punkt auf dem Zentralstrahl zwischen Flachdetektor und Röntgenquelle, der Detektor also senkrecht auf einer vom Punkt (P) ausgehenden geraden Linie. Dass der interessierende Punkt im Ausnahmefall auch neben dem Zentralstrahl liegen könne, stelle lediglich eine Alternative dar, die jedoch nicht im Regelfall eintrete. Für die per Teach-in-Modus eingegebene Oberfläche offenbare NK11 ferner, dass der Flachdetektor tangential zur Mantelfläche verlaufe und bei Hindernissen radial nach außen verschoben werde. Dabei erfüllten zwar nicht alle Stellungen die Anforderung nach Merkmal 1c. Dies sei nach der erteilten Fassung aber auch nicht notwendig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>NK13 offenbare ein Verfahren zum Erzeugen einer Bildfolge für eine 3D-Rekonstruktion. Die Entgegenhaltung widme sich der Aufgabe, die Nachteile von C-Bogen-Geräten zu überwinden, die isozentrisch in immer gleichem Abstand rotierten. In dem hierzu vorgeschlagenen Verfahren würden minimale und maximale Scanpositionen eingegeben. Das System lege mittels Extrapolation die Zwischenpositionen fest. Ferner werde eine Kontur-Kurve festgelegt, wobei ein vordefinierter Abstand vorgegeben werde. Die Eingabe eines interessierenden Punkts (POI) sei in NK13 nicht ausdrücklich offenbart. In den Figuren 8 bis 10 sei er aber als Drehpunkt eingezeichnet, der sich in der Mitte des interessierenden Bereichs (ROI) befinde. Aus den Eingaben berechne das System eine Mehrzahl von Stellungen, bei denen der Flachdetektor senkrecht auf einer vom Drehpunkt ausgehenden geraden Linie stehe und die Konturkurve mit zusätzlichem Abstand des Patienten tangential berühre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung des Patentgerichts geht der Gegenstand der erteilten Fassung von Patentanspruch 1 nicht über den Inhalt der ursprünglich eingereichten Unterlagen (NK20) hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>a) Wie bereits oben dargelegt wurde, ist das Patentgericht allerdings zu Recht davon ausgegangen, dass eine Kurve im Sinne von Merkmal 1b nicht zwingend geschlossen sein und den Körper vollständig umgeben muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung des Patentgerichts gilt jedoch für den in der Anmeldung verwendeten Begriff "Hüllkurve" nichts Anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Wortbestandteil "Hüll" mag für sich gesehen darauf hindeuten, dass es sich um eine Kurve handelt, die einen Gegenstand einhüllt, also vollständig umgibt. In der Anmeldung beziehen sich die auch in der Beschreibung des Streitpatents enthaltenen Ausführungen, wonach geeigneterweise eine geschlossene Ausgestaltung gewählt wird, die den Patienten in der üblichen Stellung vollständig umgibt, aber auf eine Hüllkurve.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Aus den bereits im Zusammenhang mit der Auslegung des Streitpatents dargelegten Gründen ist diesen Ausführungen zu entnehmen, dass es sich lediglich um eine vorteilhafte, nicht aber um eine zwingende Ausgestaltung des beschriebenen Merkmals handelt. Ausgehend vom Kontext der Anmeldung muss folglich auch eine Hüllkurve nicht zwingend geschlossen sein und den Körper des Patienten vollständig umgeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>c) Die zusätzliche Einfügung des Begriffs "Kurve" hat damit im Ergebnis nicht zu einer Erweiterung des beanspruchten Gegenstands geführt, sondern allenfalls dazu, dass der Begriff "Hüllkurve" im Kontext des Streitpatents enger zu verstehen ist als im Kontext der Anmeldung. Der Begriff "Kurve" im Sinne des Streitpatents ist demgegenüber gleichbedeutend mit dem Begriff "Hüllkurve" im Sinne der Anmeldung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>2. Entgegen der Auffassung des Patentgerichts ist der Gegenstand der erteilten Fassung von Patentanspruch 1 durch NK11 und NK13 nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 ist durch NK11 nicht vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>aa) NK11 offenbart eine mobile Röntgendiagnostikeinrichtung mit einem C-Bogen zur automatischen Erzeugung von Projektionsaufnahmen für eine Volumenrekonstruktion.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>NK11 führt als Nachteil bekannter Einrichtungen dieser Art an, der Zentralstrahl verlaufe bei der Orbitalbewegung des C-Bogens immer durch einen Zielpunkt (point of interest, POI) innerhalb des Untersuchungsobjekts und der Abstand des Zielpunkts zum Eingangsfenster des Bildverstärkers sei für jede Aufnahme annähernd gleich (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund befasst sich NK11 mit dem Problem, den Abstand zwischen dem Untersuchungsbereich (region of interest, ROI) und dem Eingangsfenster möglichst klein zu halten, ohne dass das Eingangsfenster mit der Oberfläche des Untersuchungsobjekts in Berührung kommt (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Als Lösung wird eine Einrichtung vorgeschlagen, bei der die Halterung für den C-Bogen in mehreren Achsen motorisch verstellbar ist und Mittel zur Bestimmung der Position aufweist (Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Das Eingangsfenster des Röntgenstrahlempfängers kann wahlweise in einem Automatiklauf oder wie in einer von der Bedienperson in einem Teach-in-Lauf geführten Weise in geringem Abstand über die Oberfläche des Untersuchungsobjekts geführt werden. Dabei ist es unerheblich, ob der Zentralstrahl stets durch einen Punkt (POI) verläuft. Entscheidend ist, dass der Untersuchungsbereich (ROI) bei der Mehrzahl der Projektionsaufnahmen vollständig vom Röntgenstrahlenempfänger erfasst wird. Ebenfalls unerheblich ist, ob das Eingangsfenster tangential zur Oberfläche des Untersuchungsobjekts verläuft. Bei Hindernissen kann es angebracht sein, den Mittelpunkt des Eingangsfensters nahezu unverändert zu lassen und nur die Richtung des Zentralstrahls zu verändern (Abs. 8 unter 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Alternativ kann die Bedienperson festlegen, dass das Eingangsfenster sich tangential zu einer Mantelfläche eines elliptischen Prismas bewegen soll. Die Festlegung der Ellipse erfolgt zum Beispiel durch manuelles Anfahren der beiden Scheitelpositionen und Abspeichern der betreffenden Koordinaten. Anschließend wird ein Probelauf ohne Röntgenstrahlung ausgelöst. Bei drohenden Hindernissen wird der Probelauf gestoppt und nach manuellem Umfahren des Hindernisses fortgesetzt. Die Bewegungssteuerung der Einrichtung fügt die Ausweichmanöver der gewählten Bahnkurve hinzu und steuert die Bewegung des C-Bogens im Röntgenaufnahmelauf so, dass die Hindernisse umfahren werden. Bei der Eingabe der elliptischen Bahnkurve kann die Bedienperson festlegen, dass der Zentralstrahl an den beiden Scheitelpunkten der Ellipse durch die Mitte des Untersuchungsbereichs (ROI) verläuft (Abs. 8 unter 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Ein Ausführungsbeispiel für die zweite Vorgehensweise ist in der nachfolgend wiedergegebenen Figur 3 dargestellt. Dort muss der C-Bogen in der Position (12'') einem unterhalb des Tisches liegenden Hindernis (72) ausweichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild2_1.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild2_1.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>bb) Damit fehlt es entgegen der Auffassung des Patentgerichts an einer eindeutigen und unmittelbaren Offenbarung von Merkmal 1c.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>(1) Bei der ersten der beiden beispielhaft geschilderten Vorgehensweisen bezeichnet NK11 einen tangentialen Verlauf des Eingangsfensters und ein Durchlaufen des Punktes (POI) durch den Zentralstrahl ausdrücklich als nicht erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>(a) Damit ist die Einhaltung der in Merkmal 1c definierten Anforderungen - eine tangentiale Ausrichtung des Eingangsfensters und die senkrechte Ausrichtung der Tangente zu einer von dem Punkt (POI) ausgehenden Linie - zwar nicht schlechthin ausgeschlossen. NK11 enthält aber nicht die Anweisung, auf die Einhaltung dieser Anforderungen zumindest an einzelnen Aufnahmepositionen zu achten. Mit dem Hinweis, es reiche gegebenenfalls aus, die Richtung des Strahls zu ändern, lenkt NK11 das Augenmerk sogar gerade weg von der in Merkmal 1c vorgegebenen Ausrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>(b) Entgegen der Auffassung der Klägerin beziehen sich diese Ausführungen in NK11 nicht nur auf Ausnahmesituationen, in denen eine Kollision droht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Die aufgezeigten Ausführungen stehen im Kontext der einleitenden Darlegungen, wonach das Eingangsfenster sowohl im Automatiklauf als auch im Teach-in-Lauf in geringem Abstand über die Oberfläche des Untersuchungsobjekts geführt werden soll (Abs. 8 unter 1). Sie sind mithin als Beschreibung der generellen Vorgehensweise zu verstehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Im gleichen Kontext wird zwar auch das Vorgehen beim Auftreten von Hindernissen behandelt. Daraus ist aber lediglich zu entnehmen, dass die geschilderte Vorgehensweise eine geeignete Aufnahme auch dann ermöglicht, wenn solche Hindernisse auftreten, nicht aber, dass diese Vorgehensweise auf solche Situationen beschränkt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>(2) Bei der zweiten in NK11 geschilderten Vorgehensweise ist das Eingangsfenster zwar grundsätzlich tangential angeordnet. Ein Durchlaufen des Punktes (POI) durch den Zentralstrahl ist in diesem Zusammenhang aber nur - optional - für die beiden Scheitelpunkte der Ellipse vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Sofern von dieser Option Gebrauch gemacht wird und der Punkt (POI) einen der Brennpunkte der Ellipse bildet, steht die von diesem Punkt zum Mittelpunkt des Eingangsfensters verlaufende Linie zwar senkrecht zur Tangente. Dies reicht zur Offenbarung von Merkmal 1c jedoch nicht aus, weil diese beiden Aufnahmepositionen nicht anhand einer zuvor festgelegten Kurve berechnet, sondern vom Benutzer vorgegeben werden, damit die elliptische Kurve in einem nachfolgenden Schritt berechnet werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>b) Ebenfalls zu Unrecht ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand von Patentanspruch 1 durch NK13 vollständig vorweggenommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>aa) NK13 offenbart eine Vorrichtung zur 3D-Rekonstruktion, bei der die Abstände zwischen Röntgenquelle und Untersuchungsobjekt sowie zwischen Röntgenstrahldetektor und Untersuchungsobjekt verändert werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung von NK13 rotiert bei bekannten Systemen eine an einem C-Bogen befestigte Einheit aus Röntgenröhre und Detektor in Kreisbahnen um eine zentrale Rotationsachse. Diese wird so positioniert, dass sie sich in der Mitte des Bereichs oder Volumens befindet, das von Interesse ist (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Bei solchen Vorrichtungen seien die Abstände zwischen Röntgenquelle und Rotationsachse und zwischen Empfänger und Rotationsachse konstant und fest (Abs. 6). Bei Untersuchungsobjekten mit länglichem Querschnitt führe dies dazu, dass der Abstand zwischen der Austrittsfläche der Strahlen und dem Bildempfänger in den verschiedenen Aufnahmepositionen unterschiedlich groß sei. Dadurch werde die Größe des Rekonstruktionsvolumens begrenzt (Abs. 9-11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Als Verbesserung schlägt NK13 vor, die Vorrichtung so auszugestalten, dass der Abstand zwischen der Röntgenquelle bzw. dem Bildempfänger und dem Körper des Patienten variiert werden kann, so dass die Röntgenquelle und der Bildempfänger innerhalb eines angestrebten Abstandes vom Körper bleiben (Abs. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Ein Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 2 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild3_2.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild3_2.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Zum Empfangen der Röntgenstrahlen können beispielsweise ein Bildempfänger (124) mit einer Kamera (125) oder ein Flachdetektor eingesetzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Der Röntgenstrahler (123) und der Bildempfänger (124) sind an einem C-Bogen (112) befestigt. Sie können aber entlang radialer Bahnkurven (B, C) verfahren werden, so dass ihr Abstand zur zentralen Achse (133) variabel ist (Abs. 33).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Die Verstellung kann automatisch oder manuell erfolgen. Der Bediener kann über eine Konsole (114) Parameter eingeben, um einzelne radiale Positionen festzulegen, die bestimmten Scanpositionen entsprechen. Zum Beispiel kann er den C-Bogen (112) zu einzelnen Scanpositionen verfahren und dann den Röntgenstrahler (123) und den Bildempfänger (124) zu den entsprechenden Radialpositionen verfahren. Sobald die maximalen und minimalen Scanpositionen definiert sind, kann der Mainframe (111) radiale Zwischenpositionen extrapolieren, zu denen der Röntgenstrahler (123) und der Bildempfänger (124) für jeden einzelnen Scanwinkel des Verfahrbereichs des C-Bogens verfahren werden (Abs. 33).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Optional können die radialen Positionen mit Hilfe von Sensoren (132, 134) gemessen und gesteuert werden (Abs. 34). Mit Hilfe von kapazitiven Sensoren (137) kann der Bildempfänger (124) so verfahren werden, dass eine Bildebene eingehalten wird, die innerhalb einer engen Toleranz oder eines vordefinierten Abstands von der Oberfläche des Patienten liegt (Abs. 39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Mögliche Aufnahmepositionen sind schematisch in den nachfolgend wiedergegebenen Figuren 8 bis 10 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild4_3.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild4_3.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>bb) Danach fehlt es an einer Offenbarung der in Merkmal 1c vorgesehenen Berechnung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Die in NK13 vorgesehene Extrapolation radialer Zwischenpositionen (Abs. 33) kann zwar als Berechnung im Sinne von Merkmal 1c angesehen werden. Entgegen der Auffassung des Patentgerichts ergibt sich hieraus und aus der weiteren in NK13 definierten Vorgabe, den Abstand des Röntgenempfängers vom Körper innerhalb eines vorgegebenen Bereichs zu halten (Abs. 13), aber nicht automatisch eine tangentiale Ausrichtung nach Merkmal 1c.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat mit den Parteien eingehend erörtert hat, kann die in Merkmal 1c definierte Vorgabe, dass der Detektor auf einer Tangente (T) liegen muss, dazu führen, dass zwischen Detektor und Körper ein relativ großer Abstand eingehalten werden muss, obwohl der Detektor aufgrund seiner Abmessungen näher an den Körper herangefahren werden könnte, ohne diesen zu berühren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Dies steht in Widerspruch zu der in NK13 definierten Vorgabe, den Abstand zum Körper innerhalb eines vorgegebenen Bereichs zu halten. Die Umsetzung dieser Vorgabe kann es erfordern, den Detektor so nahe an den Körper heranzuführen, dass er diesen zwar nicht berührt, sein Abbild den Körper bzw. eine in definiertem Abstand um diesen herum verlaufende Kurve im weiteren Verlauf aber schneidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Dieser Zusammenhang ist durch die nachfolgend dargestellten Einfügungen in Figur 2 des Streitpatents schematisch veranschaulicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild5_4.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild5_4.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Die rote Linie stellt schematisch einen Detektor dar, der entsprechend den Vorgaben aus Merkmal 1c positioniert ist. Die grüne Linie stellt den Zentralstrahl dar, der durch den Punkt (P) verläuft und senkrecht auf den Detektor auftrifft. Aufgrund seiner geringen Abmessungen könnte der Detektor in der unten dargestellten Position näher an die Kurve (H) herangefahren werden, ohne diese zu berühren. Die in Merkmal 1c definierte Vorgabe, dass der Detektor auf einer Tangente (T, T') liegen muss, schließt eine solche Annäherung jedoch aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Die blaue Linie stellt schematisch eine Positionierung dar, wie sie sich aus NK13 ergibt. Die dort im Vordergrund stehende Vorgabe, den Abstand zwischen Detektor und dem Körper bzw. einer diesen in definiertem Abstand umgebenden Kurve innerhalb eines angestrebten Bereichs zu halten, kann dazu führen, dass der Detektor auf einer Linie angeordnet ist, die die Kurve (H) im weiteren Verlauf schneidet. Je nach Situation kann die Position im Einzelfall zwar auch den Vorgaben von Merkmal 1c entsprechen. Dies ist aber nicht das Ergebnis einer zielgerichteten Vorgehensweise, sondern letztlich vom Zufall abhängig. Damit ist die Positionierungsvorgabe aus Merkmal 1c nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>IV. Die angefochtene Entscheidung erweist sich nicht aus anderen Gründen als im Ergebnis zutreffend (§ 119 Abs. 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>1. Aus den weiteren Entgegenhaltungen ergibt sich kein weitergehender Offenbarungsgehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>a) Die deutsche Patentanmeldung 101 53 787 (NK10) offenbart eine mobile chirurgische Röntgendiagnostikeinrichtung mit einem C-Bogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Beschreibung von NK10 war die Erzeugung von Röntgenbildfolgen, die einer bestimmten Abbildungsgeometrie genügen, im Stand der Technik nur mit ortsfesten Vorrichtungen möglich (Abs. 2-4)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>NK10 schlägt demgegenüber vor, für diese Zwecke eine mobile Vorrichtung einzusetzen, bei der der C-Bogen um sieben verschiedene Achsen bewegt werden kann (Abs. 14 mit Tabelle 1). Um die gewünschte Abbildungsgeometrie zu erreichen, werden für jede zulässige Kombination von Achspositionen die Position des Fokuspunkts des Röntgenstrahls und die Position des Mittelpunkts des Empfängers ein einem gerätewagenfesten Koordinatensystem gespeichert (Abs. 17). Zur Anfertigung von Aufnahmen kann der automatischen Achsensteuerung der Abstand zwischen einem auf dem Zentralstrahl liegenden Referenzpunkt und dem Fokuspunkt vorgegeben werden. Die Einrichtung wird von der Bedienperson dann so justiert, dass ein im Inneren des Untersuchungsobjekts liegender Zielpunkt mit dem Referenzpunkt zur Deckung kommt. Danach kann ein Steuerprogramm aufgerufen werden, das bei einer manuellen Bewegung des C-Bogens um die Orbitalachse die anderen Achsen so nachführt, dass der Zielpunkt stets auf dem Zentralstrahl liegt (Abs. 22).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Um Kollisionen zu vermeiden, wird zunächst ein Simulationsvorgang ohne Röntgenaufnahme durchgeführt. Bei einer drohenden Kollision wird das Verfahren des C-Bogens beendet und dieser gegebenenfalls in die entgegengesetzte Richtung verfahren, bis auch dort die Bewegung wegen der Gefahr einer Kollision gestoppt wird (Abs. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>bb) Dieser Offenbarungsgehalt geht hinsichtlich des Merkmals 1c nur insoweit über den Offenbarungsgehalt von NK13 hinaus, als NK10 ausdrücklich vorsieht, dass der Zentralstrahl in allen Aufnahmepositionen durch einen im Körper liegenden Zielpunkt geht. Eine Berechnung der Aufnahmepositionen im Sinne des Merkmals 1c offenbart NK10 ebenso wenig wie NK13.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>b) Die deutsche Patentanmeldung 103 35 656 (NK12) nimmt den Gegenstand von Patentanspruch 1 ebenfalls nicht vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>aa) NK12 offenbart ein Verfahren und eine Vorrichtung zur Steuerung der Bewegung der Komponenten einer Röntgendiagnostikeinrichtung und befasst sich mit der Aufgabe, die Steuerung so auszugestalten, dass die notwendige Projektionsgeometrie schnell und mit geringer Strahlenbelastung festgelegt werden kann (Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>Hierzu wird vorgeschlagen, das Untersuchungsobjekt zunächst aus mehreren unterschiedlichen Winkelstellungen aufzunehmen. In den aufgenommenen Bildern werden charakteristische Punkte markiert. Anhand dieser Angaben wird die Lage dieser Punkte in einem raumfesten Koordinatensystem errechnet. Danach wird ein interessierender Punkt (POI) bestimmt. Anhand dieser Vorgabe werden die Zielstellungen der einzelnen Komponenten errechnet. Anschließend wird eine Bewegung der Komponenten zu diesen Stellungen ausgelöst. Zur Vermeidung von Kollisionen können hierbei bekannte Techniken zur Anwendung gelangen, wie sie in der internationalen Patentanmeldung 01/50959 beschrieben sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>bb) Auch hieraus ergeben sich keine weitergehenden Hinweise in Bezug auf Merkmal 1c.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>c) Der Offenbarungsgehalt der deutschen Patentanmeldung 10 2005 023 165 (NK7) reicht ebenfalls nicht weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>aa) NK7 offenbart ein Kollisionsschutzverfahren für ein medizinisches Bildgebungssystem und widmet sich der Aufgabe, ein solches Verfahren schnell, genau und einfach auszugestalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>Als Lösung wird vorgeschlagen, die Oberfläche des Patienten mit einem optischen Sensor zu erfassen und anhand dieser Daten eine individuelle Schutzzone festzulegen, die zum Beispiel durch einen vorgegebenen Abstand (zum Beispiel 2 bis 6 cm) definiert ist. Um diese Form wird eine Hüllkurve gelegt, die den notwendigen Schutzabstand zum Patienten wiedergibt (Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Der zur Steuerung eingesetzte Rechner kann die Bewegungen des C-Bogens so steuern, dass weder die Röntgenröhre noch der Detektor in die Schutzzone eintritt oder dass die Bewegung bei einer Durchschreitung der individuellen Schutzzone stark verlangsamt wird. Durchquert einer der beweglichen Teile außerhalb der Schutzzone (22) liegende Bereiche, die innerhalb der Hüllkurve liegen, ist eine Verlangsamung der Bewegung nicht erforderlich (Abs. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>bb) Damit ist zwar die Festlegung einer Kurve im Sinne von Merkmal 1a offenbart, nicht aber die darauf basierende Festlegung von Aufnahmepositionen gemäß Merkmal 1c.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>NK7 definiert lediglich einen Bereich, in dem sich die Aufnahmekomponenten nicht oder nur mit geringerer Geschwindigkeit bewegen dürfen, nicht aber eine tangentiale Ausrichtung des Detektors an der diesen Bereich umschließenden Kurve oder der außerhalb derselben definierten Hüllkurve.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 ist durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Anregungen, die Vorrichtungen und Verfahren aus den oben dargestellten Entgegenhaltungen im Sinne der streitpatentgemäßen Lösung und insbesondere nach Maßgabe des Merkmals 1c zu verändern, sind weder hinreichend dargetan noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>3. Für den Gegenstand von Patentanspruch 5 gilt nichts Anderes als für denjenigen des Patentanspruchs 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Das für die Beurteilung ausschlaggebende Merkmal 1c ist auch in Patentanspruch 5 vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>V. Die Sache ist zur Endentscheidung reif (§ 119 Abs. 5 Satz 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent erweist sich aus den oben aufgezeigten Gründen als rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>VI. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE637292022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

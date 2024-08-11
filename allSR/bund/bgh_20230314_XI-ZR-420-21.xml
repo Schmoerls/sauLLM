@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300232023</doknr>
+   <ecli>ECLI:DE:BGH:2023:140323UXIZR420.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>11. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230314</entsch-datum>
+   <aktenzeichen>XI ZR 420/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 489 Abs 1 Nr 2 BGB, § 489 Abs 4 S 1 BGB</norm>
+   <vorinstanz>vorgehend OLG Frankfurt, 22. Juli 2021, Az: 16 U 132/20<br/>vorgehend LG Frankfurt, 5. Mai 2020, Az: 2-12 O 87/19<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Ordentliche Kündbarkeit eines im Zusammenhang mit einem variabel verzinslichen Darlehensvertrag geschlossenen Zinssatz-Swap-Vertrags mit fester Laufzeit; Erschwerung des ordentlichen Kündigungsrechts betreffend den Darlehensvertrag</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein im Zusammenhang mit einem variabel verzinslichen Darlehensvertrag geschlossener Zinssatz-Swap-Vertrag mit fester Laufzeit ist weder in direkter noch in analoger Anwendung von § 489 Abs. 1 Nr. 2 BGB ordentlich kündbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Wenn die Bank für den Fall einer vorzeitigen Auflösung des Zinssatz-Swap-Vertrags den negativen Marktwert als Ablösebetrag verlangt, stellt dies keine Erschwerung im Sinne des § 489 Abs. 4 Satz 1 BGB hinsichtlich des ordentlichen Kündigungsrechts betreffend den Darlehensvertrag dar.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision des Klägers gegen das Urteil des 16. Zivilsenats des Oberlandesgerichts Frankfurt am Main vom 22. Juli 2021 wird auf seine Kosten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger begehrt die Feststellung, dass der Beklagten im Fall der Kündigung eines Darlehensvertrags und der Beendigung eines Zinssatz-Swap-Vertrags keine Ansprüche aus dem Swap-Vertrag auf Zahlung eines negativen Marktwerts zustehen. Darüber hinaus nimmt er die Beklagte auf Rückzahlung von 109.242,28 € in Anspruch, die er auf den Swap-Vertrag gezahlt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der Kläger ist ein gemeinnütziger Verband der Freien Wohlfahrtspflege, der im Bereich der sozialen Arbeit und des Gesundheitswesens tätig ist. Er schloss am 23. Mai 2007 zur Finanzierung des Baus eines Pflegeheims mit der VR-Bank W.      (künftig: VR Bank) einen Darlehensvertrag in Höhe von 4 Mio. € mit einer variablen Verzinsung und einem anfänglichen Zinssatz von 4,667% p.a. ab. Als variabler Zinssatz wurde der 3-Monats-EURIBOR zuzüglich einer anfänglichen Zinsmarge von 0,6% p.a. vereinbart. Die Höhe der Zinsmarge hängt vereinbarungsgemäß von der Entwicklung verschiedener Bilanzkennzahlen des Klägers ab. Vereinbart sind Zinsanpassungen zum Ende eines jeden Quartals. Das Darlehen ist ab dem 30. Juni 2009 in Raten in Höhe von 50.100 € zum Ende eines jeden Kalendervierteljahres zu tilgen. Die Zinsen sind ebenfalls zum Ende eines jeden Kalendervierteljahres fällig und aus dem jeweiligen Darlehenssaldo zu berechnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Der Kläger schloss darüber hinaus am 25. Mai 2007 mit der Beklagten einen Zinssatz-Swap-Vertrag mit einer Laufzeit vom 1. Oktober 2007 bis zum 1. April 2029 ab. In diesem ist eine Verpflichtung des Klägers zur Zahlung von Zinsen in Höhe von 4,1% p.a. auf verschiedene Bezugsbeträge in Euro bis zu 4 Mio. € bis zum 1. April 2014 und danach in Höhe von 3,45% p.a. auf verschiedene Bezugsbeträge in Schweizer Franken bis zu einem Betrag von 4.946.700 CHF sowie eine Verpflichtung der Beklagten zur Zahlung variabler Zinsen in Höhe des 3-Monats-EURIBOR auf verschiedene Bezugsbeträge in Euro bis zu 4 Mio. € bestimmt. Darüber hinaus ist in dem Swap-Vertrag für die Zeit ab dem 1. Juli 2014 bis zum Laufzeitende ein Zahlungstausch vereinbart, nach dem der Kläger zu Beginn eines jeden Quartals jeweils 82.665 CHF und die Beklagte jeweils 50.100 € zu zahlen haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Der Swap-Vertrag sollte zur "Verbilligung" des Darlehens und zur Absicherung des mit dem Darlehensvertrag verbundenen Zinsrisikos dienen. Der Marktwert des Swap-Vertrags entwickelte sich aus Sicht des Klägers negativ. Dieser beabsichtigt, den Darlehensvertrag und den Swap-Vertrag vorzeitig zu beenden. Die Beklagte teilte dem Kläger mit Schreiben vom 9. November 2017 mit, dass sie zur vorzeitigen Beendigung des Swap-Vertrags nur gegen Zahlung eines negativen Marktwerts bereit sei, den sie mit ca. 1,65 Mio. € bezifferte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Der Kläger meint, dass er den Swap-Vertrag zusammen mit dem Darlehensvertrag auch ohne Zahlung eines negativen Marktwerts wirksam kündigen könne und dass eine Verpflichtung zur Zahlung des negativen Markwerts des Swap-Vertrags in der von der Beklagten verlangten Höhe das ihm als Darlehensnehmer nach zehn Jahren zustehende Kündigungsrecht faktisch ausschließe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Klage ist in den Vorinstanzen erfolglos geblieben. Mit der vom Berufungsgericht zugelassenen Revision verfolgt der Kläger sein Begehren weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Feststellungsklage sei zulässig. Der Kläger begehre mit ihr die Feststellung, dass er berechtigt sei, den mit der Beklagten geschlossenen Swap-Vertrag bei gleichzeitiger Kündigung des mit der VR Bank geschlossenen Darlehensvertrags ordentlich zu kündigen, ohne dass die Beklagte die Zahlung eines negativen Marktwerts beanspruchen könne. Das Rechtsschutzbedürfnis für eine solche Feststellung sei gegeben, weil es für den Kläger unzumutbar sei, den Darlehensvertrag und den Swap-Vertrag zu kündigen und damit das Risiko zu tragen, an die Beklagte einen Betrag von rund 1,4 Mio. € zu zahlen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Feststellungsklage sei allerdings unbegründet, weil dem Kläger hinsichtlich des Swap-Vertrags selbst dann kein Recht zur ordentlichen Kündigung zustehe, wenn die Kündigung zusammen mit der Kündigung des Darlehensvertrags erklärt werde. Der Swap-Vertrag sei auf eine bestimmte Zeit geschlossen worden und sehe kein Recht zur ordentlichen Kündigung vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Ein Kündigungsrecht ergebe sich weder aus § 489 Abs. 1 Nr. 2 i.V.m. Abs. 4 BGB noch aus § 489 Abs. 2 i.V.m. Abs. 4 BGB. Diese Vorschriften seien nicht unmittelbar anwendbar, weil Swap-Verträge keine Darlehensverträge seien. Ein Swap-Vertrag sei ein Vertrag eigener Art, der den Tausch von Zahlungsströmen zum Gegenstand habe, so dass hinsichtlich der Differenz periodisch Zahlungsansprüche einer Partei entstünden. Er enthalte zudem nicht die für einen Darlehensvertrag typische Verpflichtung zur Überlassung von Geld auf Zeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Das Kündigungsrecht nach § 489 Abs. 1 Nr. 2 i.V.m. Abs. 4 BGB sei auch nicht analog auf Swap-Verträge anzuwenden. Durch die Kombination eines Darlehensvertrags, in dem ein variabler Zinssatz vereinbart sei, mit einem nach Laufzeit und Tilgung abgestimmten Swap-Vertrag, in dem sich die das Darlehen gewährende oder eine andere Bank zur Zahlung variabler Zinsen an den Darlehensnehmer gegen Zahlung fester Zinsen verpflichte, werde im wirtschaftlichen Ergebnis zwar ein synthetisches Festzinsdarlehen erreicht, weil der Darlehensnehmer während der gesamten Laufzeit "in der Summe" allein zur Zahlung der vereinbarten festen Zinsen verpflichtet werde. Einer analogen Anwendung von § 489 Abs. 1 Nr. 2 i.V.m. Abs. 4 BGB stehe aber entgegen, dass die bei einer solchen Vertragskombination bestehende Interessenlage nicht mit jener vergleichbar sei, die der in § 489 Abs. 1 Nr. 2 BGB geregelten Fallgestaltung zugrunde liege. Die rechtliche Wirkung der vorliegenden Verträge beschränke sich nicht darauf, dass dem Kläger für mehr als zehn Jahre ein Festzinsdarlehen eingeräumt werde. Die Verträge kombinierten vielmehr zugunsten des Darlehensnehmers die Vorteile eines Festzinsdarlehens mit den Vorteilen eines variabel verzinslichen Darlehens. Der Kläger habe einerseits die Sicherheit, dass er im Ergebnis über die gesamte Laufzeit keine höheren als die vereinbarten Festzinsen zu zahlen habe. Andererseits habe er zugleich die Möglichkeit, den Darlehensvertrag gemäß § 489 Abs. 2 BGB unter Einhaltung einer Kündigungsfrist von drei Monaten zu kündigen, weil im Darlehensvertrag ein variabler Zinssatz vereinbart sei. Für den Kläger bestehe daher der Vorteil, dass er das Darlehen tilgen könne, wenn er unvorhergesehen über Geldmittel verfüge, oder dass er es umschulden könne, wenn die Marktzinsen sinken. Der alleinige Fortbestand des Swap-Vertrags sei für den Darlehensnehmer auch nicht in jedem Fall von Nachteil, weil sich der Referenzzinssatz zu seinen Gunsten entwickeln könne. Der Gesetzgeber sei bei Schaffung des § 609a BGB in der bis zum 31. Dezember 2001 geltenden Fassung von einem Darlehensvertrag mit fester Zinsbindung ausgegangen und habe mit der Regelung in Absatz 1 Nr. 3 dieser Vorschrift das Anliegen verbunden, "den Schuldner nach Ablauf einer längeren Zeit vor der Bindung an einen nicht mehr zeitgemäßen Zinssatz zu bewahren". Die vorliegende Vertragsgestaltung sei demgegenüber dadurch gekennzeichnet, dass der Darlehensnehmer sich grundsätzlich durch eine Kündigung nach § 489 Abs. 2 BGB vom Darlehensvertrag lösen könne. Durch den Swap-Vertrag werde er nicht zwangsläufig an einen "nicht mehr zeitgemäßen" Zinssatz gebunden. Er habe vielmehr nur die Differenz zwischen dem vereinbarten Zinssatz und dem Referenzzinssatz zu zahlen. Damit liege eine von einem Darlehensvertrag abweichende Interessenlage vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der Kläger könne sich nicht mit Erfolg darauf berufen, dass die isolierte Fortführung des Swap-Vertrags für ihn nicht in Betracht komme, weil er als gemeinwohlorientiertes Unternehmen keine spekulativen Geschäfte abschließen dürfe. Auf die individuellen Umstände eines Geschäftspartners könne es bei der Beurteilung der Vergleichbarkeit einer Interessenlage nicht ankommen. Wenn der Gesetzgeber wegen fehlender Vergleichbarkeit der Interessenlage davon abgesehen habe, das Kündigungsrecht des § 489 Abs. 1 Nr. 2 BGB auf Swap-Verträge zu erstrecken, die auf Darlehensverträge abgestimmt seien, sei die Annahme spekulativ, der Gesetzgeber hätte eine Ausnahme für Unternehmen vorgesehen, die keine Spekulationsgeschäfte abschließen dürften. Darüber hinaus enthalte der vorliegende Swap-Vertrag auch bei ungekündigtem Darlehensvertrag insoweit ein spekulatives Element, als ab dem 1. April 2014 ein Währungstausch (Schweizer Franken gegen Euro) vereinbart und das Darlehen damit im Ergebnis in ein Fremdwährungsdarlehen umgewandelt worden sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Mit dem Swap-Vertrag sei auch keine Erschwerung des Kündigungsrechts im Sinne des § 489 Abs. 4 Satz 1 BGB verbunden. Er diene nicht dazu, die Kündigung des Darlehensvertrags wirtschaftlich unattraktiv zu machen, sondern habe die Funktion, dem Darlehensnehmer im Fall steigender Zinsen einen festen Zinssatz zu sichern. Durch den Abschluss der beiden Verträge kombiniere der Darlehensnehmer die Vorteile eines variabel verzinslichen und eines festverzinslichen Darlehens. Daher treffe es nicht zu, dass die Lösung vom Darlehensvertrag durch den abgeschlossenen Swap-Vertrag erschwert werde. Darüber hinaus sei der Swap-Vertrag nicht in jedem Fall für den Darlehensnehmer ein wirtschaftliches Hindernis für die Kündigung des Darlehensvertrags. Wenn die variablen Zinsen über den im Swap-Vertrag vereinbarten festen Zinssatz von 4,1% steigen, stehe dem Darlehensnehmer aus dem Swap-Vertrag ein Zahlungsanspruch zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Rückzahlung des auf den Swap-Vertrag in der Zeit von Januar 2018 bis März 2019 gezahlten Betrags von 109.242,28 € aus § 812 Abs. 1 BGB könne der Kläger deswegen nicht beanspruchen, weil er nicht berechtigt sei, den Swap-Vertrag vor Ende der vereinbarten Laufzeit ordentlich zu kündigen. Auch ein Anspruch auf Schadensersatz aus § 280 Abs. 1 BGB stehe dem Kläger nicht zu, weil das Verhalten der Beklagten, im Fall der vorzeitigen Beendigung des Swap-Vertrags einen Ablösebetrag zu verlangen, nicht pflichtwidrig sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Diese Ausführungen halten einer revisionsrechtlichen Überprüfung im Ergebnis stand, so dass die Revision zurückzuweisen ist. Das Berufungsgericht hat zu Recht angenommen, dass die begehrte Feststellung nicht zu treffen ist, weil dem Kläger bezüglich des Swap-Vertrags kein ordentliches Kündigungsrecht zusteht und weil das dem Kläger hinsichtlich des Darlehensvertrags zustehende Kündigungsrecht nicht im Sinne des § 489 Abs. 4 Satz 1 BGB erschwert ist. Einen Anspruch des Klägers auf Rückzahlung von 109.242,28 € hat das Berufungsgericht ebenfalls zu Recht verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Rechtsfehlerfrei hat das Berufungsgericht die Feststellungsklage nicht als unzulässig, sondern als unbegründet abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahinstehen, ob der Kläger ein Feststellungsinteresse im Sinne des § 256 Abs. 1 ZPO hinreichend dargelegt hat. Nach der Rechtsprechung des Bundesgerichtshofs handelt es sich bei dem von § 256 ZPO geforderten rechtlichen Interesse nicht um eine Prozessvoraussetzung, ohne deren Vorliegen dem Gericht eine Sachprüfung und ein Sachurteil überhaupt verwehrt ist (Senatsurteil vom 27. Oktober 2009 - XI ZR 225/08, BGHZ 183, 60 Rn. 12 mwN). Aufgrund dessen kann die Feststellungsklage auch bei fehlendem Feststellungsinteresse als unbegründet abgewiesen werden, wenn die weiteren Zulässigkeitsvoraussetzungen einer Feststellungsklage erfüllt sind (BGH, Urteil vom 13. März 2001 - VI ZR 290/00, NJW-RR 2001, 957; Senatsurteil, aaO). So liegt der Fall hier.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Revisionserwiderung macht zu Unrecht geltend, die Feststellungsklage sei deswegen unzulässig, weil es an einem gegenwärtigen Rechtsverhältnis fehle. Die Behauptung eines solchen ist besondere Prozessvoraussetzung der Feststellungsklage (BGH, Urteil vom 13. März 2001 - VI ZR 290/00, NJW-RR 2001, 957). Für ein gegenwärtiges Rechtsverhältnis im Sinne des § 256 Abs. 1 ZPO genügen Beziehungen zwischen den Parteien, die schon zur Zeit der Klageerhebung die Grundlage bestimmter Ansprüche bilden. Nicht ausreichend ist dagegen ein Rechtsverhältnis, das noch nicht besteht, sondern erst in Zukunft unter Voraussetzungen, deren Eintritt noch völlig offen ist, entstehen kann (BGH, aaO). Gemessen hieran begehrt der Kläger die Feststellung eines gegenwärtigen Rechtsverhältnisses.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat den Feststellungsantrag zutreffend dahin ausgelegt, dass der Kläger mit ihm festgestellt wissen möchte, er sei berechtigt, den Swap-Vertrag ordentlich zu kündigen, ohne einen negativen Marktwert zahlen zu müssen. Die Revision hält diese Auslegung ausdrücklich für richtig. Gegenstand der Feststellungsklage ist danach die Frage, ob ein zwischen den Parteien bestehendes Vertragsverhältnis - der Swap-Vertrag - durch den Kläger wirksam gekündigt werden kann. Bei dieser Frage handelt es sich nicht lediglich um eine Vorfrage im Zusammenhang mit einem zukünftigen Rechtsverhältnis. Der Kläger möchte mit dem für sich beanspruchten Kündigungsrecht vielmehr ein aus einem bestehenden Rechtsverhältnis abgeleitetes subjektives Recht festgestellt haben. Dabei handelt es sich um ein gegenwärtiges Rechtsverhältnis im Sinne des § 256 Abs. 1 ZPO (vgl. BGH, Urteil vom 7. März 2013 - VII ZR 223/11, NJW 2013, 1744 Rn. 16; Stein/Jonas/Roth, ZPO, 23. Aufl., § 256 Rn. 37; Musielak/Voit/Foerste, ZPO, 19. Aufl., § 256 Rn. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Die Auffassung des Berufungsgerichts, dem Kläger stehe kein Recht zur ordentlichen Kündigung des Swap-Vertrags aus einer unmittelbaren oder analogen Anwendung von § 489 Abs. 1 Nr. 2 BGB zu (dazu a) bis c)) und das dem Kläger hinsichtlich des Darlehensvertrags zustehende Kündigungsrecht aus § 489 Abs. 1 Nr. 2 und Abs. 2 BGB werde nicht im Sinne des § 489 Abs. 4 Satz 1 BGB erschwert (dazu d)), hält den Angriffen der Revision stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>a) Nach der herrschenden Ansicht in der Instanzrechtsprechung und Literatur ist ein im Zusammenhang mit einem Darlehensvertrag geschlossener Zinssatz-Swap-Vertrag mit fester Laufzeit nicht ordentlich kündbar (vgl. OLG Köln, WM 2012, 888, 889 f.; OLG Stuttgart, WM 2012, 1829, 1833; OLG Dresden, WM 2015, 1191, 1193; OLG Koblenz, Beschluss vom 2. Dezember 2020 - 8 U 1202/19, juris Rn. 46; OLG Frankfurt am Main, WM 2022, 1171 Rn. 105 ff.; Schwintowski in Herberger/Martinek/Rüßmann/Weth/Würdinger, jurisPK-BGB, 10. Aufl., Stand: 01.02.2023, § 489 BGB Rn. 30; BeckOK BGB/Rohe, 65. Ed. 04.11.2022, § 489 Rn. 1; MünchKommBGB/Berger, 9. Aufl., § 489 Rn. 4; BeckOGK/C. Weber, Stand: 01.01.2023, BGB § 489 Rn. 36 und 36.1; Samhat in Ellenberger/Bunte, Bankrechts-Handbuch, 6. Aufl., § 54 Rn. 144; Gottschalk/Spiegel, WM 2017, 2179, 2182 ff.; Hanke, BKR 2017, 358, 362 f.; Ch. Schmitt, BKR, 2018, 169, 175; Gillen, EWiR 2022, 323, 324).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Demgegenüber gehen verschiedene Stimmen in der Literatur davon aus, dass der Darlehensnehmer einen Zinssatz-Swap-Vertrag während der vereinbarten Laufzeit unter bestimmten Voraussetzungen auch ohne Zahlung eines negativen Marktwerts in entsprechender Anwendung von § 489 Abs. 1 Nr. 2 oder Abs. 2 BGB ordentlich kündigen kann (vgl. Staudinger/Mülbert, BGB, Neubearb. 2015, § 489 Rn. 57; G. Krämer in Dauner-Lieb/Langen, BGB Schuldrecht, 4. Aufl., § 489 Rn. 8c; Meuschke, AG 2012, R157 f.; unter engen Voraussetzungen auch Stupp/Mucke, BKR 2005, 20, 25 f.; bei identischen Parteien von Swap- und Kreditvertrag auch Reiner/Scholl in Ellenberger/Bunte, Bankrechts-Handbuch, 6. Aufl., § 94 Rn. 90; Jahn/Reiner in Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl., § 114 Rn. 147; für den "synthetischen Floater" auch L. Krämer, Finanzswaps und Swapderivate in der Bankpraxis, 1999, S. 233).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die herrschende Meinung ist zutreffend. Dem Kläger steht hinsichtlich des Swap-Vertrags kein ordentliches Kündigungsrecht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>b) Die Kündigungsregelungen des § 489 BGB sind auf den Zinssatz-Swap-Vertrag nicht unmittelbar anwendbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>In dem streitgegenständlichen Swap-Vertrag ist eine Laufzeit bis zum 1. April 2029 vereinbart. Ein Recht zur ordentlichen Kündigung während der Laufzeit ist vertraglich nicht vereinbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht ist zutreffend davon ausgegangen, dass § 489 BGB auf Zinssatz-Swap-Verträge keine direkte Anwendung findet (vgl. OLG Koblenz, Beschluss vom 2. Dezember 2020 - 8 U 1202/19, juris Rn. 46; OLG Frankfurt am Main, WM 2022, 1171 Rn. 106; MünchKommBGB/Berger, 9. Aufl., § 489 Rn. 4; Gottschalk/Spiegel, WM 2017, 2179, 2182; Hanke, BKR 2017, 358, 362; Gillen, EWiR 2022, 323, 324; aA bei Vorliegen bestimmter Voraussetzungen Staudinger/Mülbert, BGB, Neubearb. 2015, § 489 Rn. 57; Meuschke, AG 2012, R157 f.; Stupp/Mucke, BKR 2005, 20, 25 f.). Die Vorschrift regelt das ordentliche Kündigungsrecht des Darlehensnehmers bei Darlehensverträgen. Der zwischen den Prozessparteien geschlossene Swap-Vertrag ist kein Darlehensvertrag. Gegenstand eines Darlehensvertrags ist die zeitweilige Überlassung eines Geldbetrags durch den Darlehensgeber (vgl. Senatsurteil vom 14. Mai 2019 - XI ZR 345/18, BGHZ 222, 74 Rn. 26; MünchKommBGB/Berger, 9. Aufl., § 488 Rn. 8). Die Beklagte hat dem Kläger auf der Grundlage des Swap-Vertrags kein Geld überlassen. Die Parteien haben in dem Swap-Vertrag vielmehr den Austausch von Geldleistungen, deren Höhe durch verschiedene Zinssätze und Währungen bestimmt wird, zu bestimmten Zeitpunkten vereinbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Dass der Swap-Vertrag im Zusammenhang mit einem Darlehensvertrag abgeschlossen wurde, rechtfertigt keine andere Beurteilung. Denn bei dem mit der VR Bank abgeschlossenen Darlehensvertrag einerseits und dem zwischen den Prozessparteien vereinbarten Swap-Vertrag handelt es sich um rechtlich selbständige Verträge (vgl. OLG Frankfurt am Main, WM 2022, 1171 Rn. 107; Schwintowski in Herberger/Martinek/Rüßmann/Weth/Würdinger, jurisPK-BGB, 10. Aufl., Stand: 01.02.2023, § 489 BGB Rn. 30; Ch. Schmitt, BKR 2018, 169, 175; Hanke, BKR 2017, 358, 362; Gottschalk/Spiegel, WM 2017, 2179, 2182; im Grundsatz auch Wiehe/Kleißendorf, BKR 2016, 234, 240). Anhaltspunkte dafür, dass Darlehens- und Swap-Vertrag derart eng miteinander verbunden sind, dass beide Verträge nach dem Willen der Vertragsparteien miteinander stehen und fallen sollen (vgl. BeckOGK/C. Weber, Stand: 01.01.2023, BGB § 489 Rn. 36.2), sind weder festgestellt noch ersichtlich. Der Kläger hat die Verträge nicht nur mit verschiedenen Vertragspartnern geschlossen. Die Verträge wurden außerdem in getrennten Vertragsurkunden ohne wechselseitige Bezugnahme verschriftlicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Meinung der Revision ist der Kläger auch nicht berechtigt, den Swap-Vertrag in entsprechender Anwendung von § 489 Abs. 1 Nr. 2 BGB ordentlich zu kündigen. Das Berufungsgericht ist zutreffend davon ausgegangen, dass die Voraussetzungen für eine analoge Anwendung dieser Vorschrift auf den Swap-Vertrag nicht vorliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Nach § 489 Abs. 1 Nr. 2 BGB kann der Darlehensnehmer einen Darlehensvertrag mit gebundenem Sollzinssatz nach Ablauf von zehn Jahren nach dem vollständigen Empfang unter Einhaltung einer Kündigungsfrist von sechs Monaten kündigen. Die Frage, ob § 489 Abs. 1 Nr. 2 BGB auf Zinssatz-Swap-Verträge, die im Zusammenhang mit einem Darlehensvertrag abgeschlossen worden sind, entsprechend anzuwenden ist, ist umstritten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Nach einer Auffassung wird eine entsprechende Anwendung von § 489 Abs. 1 Nr. 2 BGB auf Zinssatz-Swap-Verträge bejaht, wenn der Swap-Vertrag, wie hier, im Zusammenhang mit einem variabel verzinslichen Darlehen abgeschlossen worden ist, so dass bei wirtschaftlicher Betrachtung beider Verträge im Ergebnis ein "synthetisches Festzinsdarlehen" vorliegt (vgl. G. Krämer in Dauner-Lieb/Langen, BGB Schuldrecht, 4. Aufl., § 489 Rn. 8c; Reiner/Scholl in Ellenberger/Bunte, Bankrechts-Handbuch, 6. Aufl., § 94 Rn. 90; Jahn/Reiner in Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl., § 114 Rn. 147; Staudinger/Mülbert, BGB, Neubearb. 2015, § 489 Rn. 57; Meuschke, AG 2012, R157 f.; Stupp/Mucke, BKR 2005, 20, 25 f.). Dabei wird eine analoge Anwendung teilweise nur dann angenommen, wenn die Parteien des Swap-Vertrags und des Darlehensvertrags identisch sind, beide Verträge auf annähernd den gleichen Nominalbetrag lauten, gleiche Laufzeiten haben und beide Verträge in einem engen zeitlichen Zusammenhang geschlossen worden sind (vgl. Mülbert, aaO; Stupp/Mucke, aaO; einschränkend auch Jahn/Reiner, aaO und Wiehe/Kleißendorf, BKR 2016, 234, 240).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Die überwiegende Auffassung verneint demgegenüber eine analoge Anwendung von § 489 Abs. 1 Nr. 2 BGB auf Zinssatz-Swap-Verträge. Sie argumentiert mit der Gesetzgebungsgeschichte und meint, es liege keine planwidrige Regelungslücke vor (OLG Frankfurt am Main, WM 2022, 1171 Rn. 107; MünchKomm/BergerBGB, 9. Aufl., § 489 Rn. 4; BeckOK BGB/Rohe, 65. Ed. 01.02.2023, § 489 Rn. 1; Ch. Schmitt, BKR 2018, 169, 175; Gottschalk/Spiegel, WM 2017, 2179, 2182 f.; Hanke, BKR 2017, 358, 362). Darüber hinaus wird eine Analogie auch deswegen abgelehnt, weil die bei Darlehensverträgen bestehende Interessenlage nicht mit jener vergleichbar sei, die bei Zinssatz-Swap-Verträgen gegeben sei (Gottschalk/Spiegel, aaO, S. 2183 f.; Hanke, aaO; Gillen, EWiR 2022, 323, 324 f.) und es sich um "grundverschiedene" Vertragstypen handele (OLG Frankfurt am Main, aaO; Ch. Schmitt, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>bb) Zutreffend ist die zuletzt genannte Auffassung. Die Voraussetzungen für eine Analogie liegen nicht vor. Eine Analogie ist nur zulässig, wenn das Gesetz eine planwidrige Regelungslücke enthält und der zu beurteilende Sachverhalt in rechtlicher Hinsicht so weit mit dem Tatbestand, den der Gesetzgeber geregelt hat, vergleichbar ist, dass angenommen werden kann, der Gesetzgeber wäre bei einer Interessenabwägung, bei der er sich von den gleichen Grundsätzen hätte leiten lassen wie bei dem Erlass der herangezogenen Gesetzesvorschrift, zu dem gleichen Abwägungsergebnis gekommen (st. Rspr., BGH, Urteile vom 14. Dezember 2016 - VIII ZR 232/15, BGHZ 213, 136 Rn. 33, vom 27. Juni 2018 - IV ZR 222/16, BGHZ 219, 142 Rn. 23, vom 19. November 2019 - II ZR 233/18, WM 2020, 319 Rn. 19, vom 24. Februar 2021 - VIII ZR 36/20, BGHZ 229, 59 Rn. 38 und vom 27. Oktober 2022 - IX ZR 145/21, WM 2023, 83 Rn. 13). Die Planwidrigkeit muss dabei aufgrund konkreter Umstände positiv festgestellt werden können, weil sonst jedes Schweigen des Gesetzgebers - und das ist der Normalfall, wenn er etwas nicht regeln will - als planwidrige Lücke im Wege der Analogie von den Gerichten ausgefüllt werden könnte (BVerfGE 118, 212, 243; 128, 193, 210). Gemessen an diesen Maßstäben ist für eine analoge Anwendung von § 489 Abs. 1 Nr. 2 BGB auf Zinssatz-Swap-Verträge kein Raum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(1) Anhaltspunkte, die die positive Feststellung einer planwidrigen Regelungslücke in § 489 Abs. 1 Nr. 2 BGB rechtfertigen würden, bestehen nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(a) Das Kündigungsrecht aus § 489 Abs. 1 Nr. 2 BGB ist über die früheren Regelungen in § 609a BGB in der Fassung vom 25. Juli 1986 (BGBl. I S. 1169; künftig: aF) und in § 247 BGB in der Fassung vom 1. Januar 1900 (künftig: aF), eingeführt durch das Bürgerliche Gesetzbuch vom 18. August 1896 (RGBl. 1896, S. 195), auf das "Gesetz, betreffend die vertragsgemäßen Zinsen" vom 14. November 1867 (Bundes-Gesetzblatt des Norddeutschen Bundes, 1867, S. 159, 160) zurückzuführen (vgl. "Referentenentwurf eines Gesetzes zur Änderung des Bürgerlichen Gesetzbuchs (§ 247 BGB)" [künftig: RefE], ZIP 1985, 1291, 1292; Weber, BB 2015, 2185, 2186). § 2 Abs. 1 dieses Gesetzes gewährte dem Schuldner bei einem Zinssatz von mehr als 6% p.a. das Recht, nach Ablauf eines halben Jahres mit einer Kündigungsfrist von sechs Monaten den Vertrag zu kündigen. Das Kündigungsrecht nach dieser Vorschrift wurde zum 1. Januar 1900 als § 247 BGB aF in das Bürgerliche Gesetzbuch übernommen (vgl. Schubert/Schmiedel/Krampe, Quellen zum Handelsgesetzbuch von 1897, Bd. II, S. 1347) und damit als eine Regelung im Allgemeinen Teil des Schuldrechts gefasst, die nicht nur auf Darlehensverträge Anwendung fand. § 247 Abs. 1 BGB aF bestimmte, dass in den Fällen, in denen ein höherer Zinssatz als 6% p.a. vereinbart war, der Schuldner nach Ablauf von sechs Monaten das Kapital unter Einhaltung einer Kündigungsfrist von sechs Monaten kündigen konnte. Das Kündigungsrecht galt gemäß § 247 Abs. 2 BGB aF zunächst nur nicht bei Schuldverschreibungen auf den Inhaber. Durch das Gesetz zur Wiederherstellung der Gesetzeseinheit auf dem Gebiete des bürgerlichen Rechts vom 5. März 1953 (BGBl. I S. 33) wurde der Ausnahmetatbestand des § 247 Abs. 2 BGB aF auf Orderschuldverschreibungen erweitert. § 247 BGB aF wurde sodann durch das Gesetz zur Änderung wirtschafts-, verbraucher-, arbeits- und sozialrechtlicher Vorschriften vom 25. Juli 1986 (BGBl. I S. 1169) zum 31. Dezember 1986 aufgehoben und zugleich für das Darlehensrecht mit Wirkung ab dem 1. Januar 1987 durch die neue, inhaltlich geänderte Vorschrift des § 609a BGB aF ersetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Mit der Verlagerung des Kündigungsrechts in das Darlehensrecht wurde dem Umstand Rechnung getragen, dass die Vorschrift für andere verzinsliche Geldschulden keine praktische Bedeutung erlangt hatte (vgl. RefE, ZIP 1985, 1291, 1294; FraktionsE, BT-Drucks. 10/4741, S. 22 re. Sp.). Anlass für die Aufhebung von § 247 BGB aF war, dass das Kündigungsrecht aufgrund der zwischenzeitlichen Entwicklungen des Zinsniveaus seit Inkrafttreten des Bürgerlichen Gesetzbuchs von einem Ausnahmerechtsbehelf zu einem weitgehend voraussetzungslosen Kündigungsrecht geworden war, was mit dem Wesen einer Festzinsabrede bei längerfristigen Krediten nicht zu vereinbaren war und in größerem Umfang zur Kündigung von Darlehen gegenüber Kreditinstituten geführt hatte (vgl. RefE, aaO, S. 1292; FraktionsE, aaO, S. 1 und 20). Die mit einer Kündigung einhergehende einseitige Verlagerung des Zinsänderungsrisikos auf den Darlehensgeber wurde als gesamtwirtschaftlich nachteilig angesehen, weil professionellen Kreditgebern eine laufzeit- und zinskongruente Refinanzierung erschwert wurde und zudem das Risiko gesehen wurde, dass vermehrt Kredite nur mit kurzen Zinsbindungsfristen oder Kredite mit langfristiger Zinsbindung nur gegen Kostenaufschläge herausgegeben würden (vgl. RefE, aaO, S. 1292; FraktionsE, aaO, S. 20 re. Sp.). Anliegen des Gesetzgebers war es, den Schuldnerschutz gerade bei festverzinslichen Krediten auf ein angemessenes Maß zurückzuführen (vgl. RefE, aaO, S. 1293; FraktionsE, aaO, S. 21 re. Sp.). Danach sollte dem Schuldner das Kündigungsrecht aus § 609a Abs. 1 Nr. 3 BGB aF bei allen festverzinslichen Darlehen nach Ablauf von zehn Jahren nach dessen Auszahlung zustehen, um ihm spätestens dann die Möglichkeit zu geben, sich von dem Darlehensvertrag und damit von der weiteren Bindung an einen nicht mehr zeitgemäßen Zinssatz zu lösen (vgl. RefE, aaO, S. 1294 f.; FraktionsE, aaO, S. 23 li. Sp.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Durch das Gesetz zur Modernisierung des Schuldrechts vom 26. November 2001 (BGBl. I S. 3138, künftig: Schuldrechtsmodernisierungsgesetz) wurde das Kündigungsrecht aus § 609a Abs. 1 Nr. 3 BGB aF in § 489 Abs. 1 Nr. 3 BGB in der bis zum 10. Juni 2010 geltenden Fassung (künftig: aF) normiert. Dabei erfolgte nur eine sprachliche Anpassung an die durch das Gesetz zur Modernisierung des Schuldrechts neu gefasste Diktion des Darlehensrechts, ohne dass hiermit sachliche Änderungen einhergingen (BT-Drucks. 14/6040, S. 253). Durch das Gesetz zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355) wurde das Kündigungsrecht aus § 489 Abs. 1 Nr. 3 BGB aF ohne wesentliche inhaltliche Änderung nach § 489 Abs. 1 Nr. 2 BGB verschoben. Dies hatte allein gesetzestechnische Gründe, weil das bisherige Kündigungsrecht des § 489 Abs. 1 Nr. 2 BGB aF aus systematischen Gründen in § 500 Abs. 1 BGB einen neuen Standort fand (vgl. BT-Drucks. 16/11643, S. 74 re. Sp.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(b) Die Gesetzgebungsgeschichte belegt, dass das ordentliche Kündigungsrecht aus § 489 Abs. 1 Nr. 2 BGB, das die Revision entsprechend auf Zinssatz-Swap-Verträge angewendet wissen möchte, vom Gesetzgeber bewusst auf Darlehensverträge zugeschnitten worden ist (vgl. Senatsurteil vom 21. Februar 2017 - XI ZR 185/16, BGHZ 214, 94 Rn. 52). Es soll ausdrücklich für alle festverzinslichen Darlehen gelten (FraktionsE, BT-Drucks. 10/4741, S. 23 li. Sp.; Senatsurteil, aaO, Rn. 54). Der Gesetzgeber hat die Kündigungsvorschrift vom allgemeinen Schuldrecht (§ 247 BGB aF) in das Darlehensrecht (§ 489 Abs. 1 Nr. 3 BGB aF) verschoben und damit ihren Anwendungsbereich bewusst auf Darlehensverträge eingeschränkt. Bei dieser Beschränkung hat er es auch im Rahmen des Schuldrechtsmodernisierungsgesetzes aus dem Jahr 2001 belassen, obwohl Zinssatz-Swap-Verträge, die im Zusammenhang mit Darlehensverträgen geschlossen wurden, zu diesem Zeitpunkt bereits erhebliche praktische Bedeutung erlangt hatten (vgl. Gottschalk/Spiegel, WM 2017, 2179, 2183), worauf das Berufungsgericht zutreffend hinweist. Darüber hinaus war die Frage der Kündbarkeit von im Zusammenhang mit Darlehensverträgen geschlossenen Zinssatz-Swap-Verträgen nach § 609a BGB aF damals schon Gegenstand einer rechtswissenschaftlichen Untersuchung gewesen (vgl. L. Krämer, Finanzswaps und Swapderivate in der Bankpraxis, 1999, S. 231 ff.), ohne dass der Gesetzgeber im Rahmen des Schuldrechtsmodernisierungsgesetzes hierauf einging. Damit lässt sich der Gesetzgebungsgeschichte - entgegen der Meinung der Revision - kein durchgreifendes Argument für das Vorliegen einer planwidrigen Regelungslücke entnehmen (zutreffend Gottschalk/Spiegel, aaO, S. 2182 f.; Hanke, BKR 2017, 358, 362; Ch. Schmitt, BKR 2018, 169, 175).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Der objektiv eindeutige Wortlaut der Kündigungsvorschrift, in der von dem Kündigungsrecht des "Darlehensnehmers" und von dem "Darlehensvertrag" die Rede ist, sowie die vom Gesetzgeber bewusst vorgenommene systematische Stellung der Vorschrift im Recht des Darlehensvertrags sprechen gegen das Vorliegen einer planwidrigen Regelungslücke.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(2) Der vorstehende Befund wird durch teleologische Gesichtspunkte bestätigt. Neben der planwidrigen Regelungslücke fehlt es, wie das Berufungsgericht zutreffend angenommen hat, auch an der für eine Analogie erforderlichen hinreichend vergleichbaren Interessenlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Dem Kündigungsrecht aus § 609a Abs. 1 Nr. 3 BGB aF liegt die für § 489 Abs. 1 Nr. 2 BGB fortgeltende Erwägung zugrunde, dass ein Schuldner bei allen festverzinslichen Darlehen spätestens nach Ablauf von zehn Jahren die Möglichkeit haben soll, sich durch Kündigung von dem Vertrag und damit von einer Bindung an einen nicht mehr marktgerechten Zinssatz zu lösen (RefE, ZIP 1985, 1291, 1294 f.; FraktionsE, BT-Drucks. 10/4741, S. 23 li. Sp.; Senatsurteil vom 21. Februar 2017 - XI ZR 185/16, BGHZ 214, 94 Rn. 60). Die Vorschrift dient damit dem Schutz des Darlehensnehmers als Schuldner (vgl. Senatsurteil, aaO; Grüneberg/Weidenkaff, BGB, 82. Aufl., § 489 Rn. 1; Hanke, BKR 2017, 358, 362). Sie schafft einen Ausgleich des Interesses des Darlehensnehmers an einer marktgerechten Verzinsung des ihm auf Zeit überlassenen Kapitals einerseits und des Interesses des Darlehensgebers an der Kalkulierbarkeit des Zinsänderungsrisikos andererseits (vgl. MünchKommBGB/Berger, 9. Aufl., § 489 Rn. 2). Das dieser Interessenabwägung des Gesetzgebers zugrundeliegende langfristige Festzinsdarlehen ist mit der aus einem variabel verzinslichen Darlehen und einem Zinssatz-Swap bestehenden Kombination von zwei rechtlich selbständigen Verträgen nicht vergleichbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Durch den gleichzeitigen Abschluss eines Darlehensvertrags mit variabler Verzinsung und eines Zinssatz-Swap-Vertrags, in dem sich der Darlehensnehmer zur Zahlung fester Zinsen und die Bank zur Zahlung variabler Zinsen verpflichtet, können zwar, wenn der Swap-Vertrag hinsichtlich des variablen Zinssatzes, der in Bezug genommenen Nominalbeträge und der Zahlungstermine auf die entsprechenden Vereinbarungen über Zins, Tilgung und Fälligkeiten im Darlehensvertrag zugeschnitten ist, bei einheitlicher wirtschaftlicher Betrachtung beider Verträge vom Darlehensnehmer zu leistende Zahlungen vereinbart werden, die im Ergebnis mit denen übereinstimmen, die sich aus einem entsprechenden Festzinsdarlehen ergeben (sog. "synthetischer Festzinskredit"). Eine solche Betrachtung lässt aber unberücksichtigt, dass die beiden Verträge rechtlich selbständig sind (vgl. OLG Frankfurt am Main, WM 2022, 1171 Rn. 107; Schwintowski in Herberger/Martinek/Rüßmann/Weth/Würdinger, jurisPK-BGB, 10. Aufl., Stand: 01.02.2023, § 489 BGB Rn. 30; Ch. Schmitt, BKR 2018, 169, 175; Hanke, BKR 2017, 358, 362; Gottschalk/Spiegel, WM 2017, 2179, 2182; im Grundsatz auch Wiehe/Kleißendorf, BKR 2016, 234, 240) und der Darlehensvertrag teilweise zwingenden gesetzlichen Regelungen unterworfen ist. So ist der - auch im Rahmen einer solchen Kombination - abgeschlossene Darlehensvertrag mit variabler Verzinsung gemäß § 489 Abs. 2 BGB jederzeit unter Einhaltung einer Kündigungsfrist von drei Monaten kündbar. Entgegen der Meinung der Revision kann aus der dargestellten wirtschaftlichen Betrachtung der beiden Verträge nicht darauf geschlossen werden, dass Darlehensvertrag und Swap-Vertrag vom Darlehensnehmer einheitlich nur nach § 489 Abs. 1 Nr. 2 BGB gekündigt werden können und das Kündigungsrecht betreffend den Darlehensvertrag aus § 489 Abs. 2 BGB entfällt. Denn das Kündigungsrecht nach dieser Vorschrift kann nicht abbedungen werden (§ 489 Abs. 4 Satz 1 BGB). Kläger und VR Bank haben das zwingende Recht des Klägers, den Darlehensvertrag jederzeit zu kündigen, zudem in den Vertragsbedingungen ausdrücklich vereinbart (vgl. Nr. 7.2 Allgemeine Bedingungen für Kredite und Darlehen).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund liegt eine Interessenlage der Vertragsparteien vor, die nicht mit derjenigen vergleichbar ist, die bei Vereinbarung eines Festzinsdarlehens gegeben ist. Der Kläger kann vorliegend die Darlehensvaluta gemäß § 489 Abs. 2 BGB jederzeit (unter Einhaltung einer Frist von drei Monaten) zurückzahlen und damit seine Verpflichtung zur Zahlung von - ggf. nicht mehr marktgerechten - Zinsen auf das überlassene Kapital einseitig zum Erlöschen bringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Der im Fall der Kündigung des Darlehensvertrags fortbestehende Swap-Vertrag hat keine Kapitalüberlassung zum Gegenstand, sondern den Austausch von Zinszahlungen. Die beiden Vertragspartner schulden aus ihm die Zahlung von Zinsen auf vereinbarte Nominalbeträge. Sie sind somit nach der Vertragskonstruktion grundsätzlich beide Zinsschuldner. Welche Vertragspartei an einem im Swap-Vertrag vereinbarten Zahlungstermin letztlich zu einer (saldierten) Zahlung verpflichtet ist, hängt von der Entwicklung des variablen Zinssatzes ab. Da es bei einem Swap-Vertrag - anders als bei einem Darlehensvertrag - keinen Kapitalnehmer gibt, der ausschließlich zur Zahlung von Zinsen verpflichtet ist, trägt der Zweck des § 489 Abs. 1 Nr. 2 BGB nicht, dem Schuldner die Möglichkeit zu geben, sich von der Bindung an einen nicht mehr marktgerechten Zinssatz für ein überlassenes Kapital zu lösen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Der hiergegen von der Revision vorgebrachte Einwand, der Kläger dürfe aufgrund seiner Tätigkeit im Bereich der Wohlfahrtspflege ausschließlich "konservative Finanzgeschäfte zu Sicherungszwecken" abschließen, so dass eine Kündigung des Darlehensvertrags nicht in Betracht komme, wenn der Swap-Vertrag allein fortgeführt werden müsse, verfängt ebenfalls nicht. Eine solche Tätigkeitsbeschränkung des Klägers unterstellt, betrifft, wie der Senat bereits entschieden hat (vgl. Senatsurteil vom 28. April 2015 - XI ZR 378/13, BGHZ 205, 117 Rn. 56 ff.), nur das Innenverhältnis des Klägers und hat keine Auswirkung auf die Wirksamkeit des abgeschlossenen Swap-Vertrags. Darüber hinaus stellt der streitgegenständliche Swap-Vertrag vorliegend kein Finanzgeschäft dar, das ausschließlich Sicherungszwecken dient. Wie das Berufungsgericht zutreffend und von der Revision unangegriffen festgestellt hat, enthält der Swap-Vertrag ab dem 1. April 2014 infolge der auf Schweizer Franken lautenden Bezugsgrößen für die vom Kläger geschuldeten Zinszahlungen ein nicht unerhebliches Währungsrisiko und damit von vornherein ein spekulatives Element. Denn der mit der VR Bank abgeschlossene Darlehensvertrag ist vom Kläger durchgängig in Euro zu bedienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>d) Ohne Erfolg macht die Revision weiter geltend, das ordentliche Kündigungsrecht des Klägers aus § 489 Abs. 1 Nr. 2 und Abs. 2 BGB betreffend den Darlehensvertrag werde im Sinne des § 489 Abs. 4 Satz 1 BGB erschwert, weil die Beklagte für die vorzeitige Auflösung des Swap-Vertrags einen Ablösebetrag in Höhe von ca. 1,65 Mio. € verlangt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Nach § 489 Abs. 4 Satz 1 BGB kann das Kündigungsrecht des Darlehensnehmers nach den Absätzen 1 und 2 dieser Vorschrift nicht durch Vertrag ausgeschlossen oder erschwert werden. Erschwerungen in diesem Sinne sind unter anderem Abreden, die an eine Kündigung gemäß § 489 Abs. 1 oder 2 BGB Rechtsfolgen knüpfen, durch die der Darlehensnehmer von der Kündigung abgehalten wird (vgl. Staudinger/Mülbert, BGB, Neubearb. 2015, § 489 Rn. 71). Beispiele für eine solche Erschwerung des Kündigungsrechts sind die Vereinbarung einer Vorfälligkeitsentschädigung oder einer Vertragsstrafe (FraktionsE, BT-Drucks. 10/4741, S. 23 re. Sp.). Derartige Abreden sind unwirksam, lassen aber die Wirksamkeit des Vertrags im Übrigen unberührt (vgl. FraktionsE, aaO; Staudinger/Mülbert, aaO, Rn. 66; MünchKommBGB/Berger, 9. Aufl., § 489 Rn. 19; BeckOGK/Weber, Stand: 01.01.2023, BGB § 489 Rn. 76 ff.; Menges in EBJS-HGB, 4. Aufl., D. Bank- und Börsenrecht IV.: Das Kreditgeschäft und die Kreditsicherung Rn. 145).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Eine entsprechende Abrede über die Zahlung eines Ablösebetrags im Fall der vorzeitigen Beendigung des Swap-Vertrags findet sich weder in dem zwischen dem Kläger und der VR Bank bestehenden Darlehensvertrag noch in dem streitgegenständlichen Swap-Vertrag. In diesem ist vielmehr eine feste Laufzeit bis zum 1. April 2029 ohne die Möglichkeit einer vorzeitigen Vertragsbeendigung vereinbart. Die in Ziffer 7 des in den Swap-Vertrag einbezogenen Rahmenvertrags für Finanztermingeschäfte geregelten Gründe für eine vorzeitige Vertragsbeendigung (Kündigung aus wichtigem Grund und Insolvenz) liegen offensichtlich nicht vor. Soweit sich die Beklagte gegenüber dem Kläger bereit erklärt hat, den Swap-Vertrag vor Ablauf der vereinbarten Vertragslaufzeit gegen Zahlung eines Ablösebetrags zu beenden, beruht dies folglich nicht auf einer vertraglichen Verpflichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Die im Fall einer vorzeitigen Beendigung des Swap-Vertrags aufgrund einer Aufhebungsvereinbarung möglicherweise entstehende Verpflichtung des Klägers zur Zahlung eines Ablösebetrags ist keine Rechtsfolge, die an die ordentliche Kündigung des Darlehensvertrags nach § 489 Abs. 1 Nr. 2 BGB, sondern an die Entscheidung des Klägers anknüpft, den Swap-Vertrag vorzeitig zu beenden. Der Kläger kann den Darlehensvertrag nach der genannten Vorschrift auch ohne den Abschluss einer den Swap-Vertrag betreffenden Aufhebungsvereinbarung kündigen und so die Zahlung eines Ablösebetrags vermeiden. Er hat in diesem Fall zwar die Zahlungsverpflichtungen aus dem Swap-Vertrag weiterhin zu erfüllen. Diese Verpflichtungen beruhen aber auf der vom Kläger bei Abschluss des Darlehensvertrags getroffenen Entscheidung, mit dem variabel verzinslichen Darlehen und dem Zinssatz-Swap zwei separate Verträge abzuschließen. Dass die zwischenzeitliche Entwicklung der Marktzinsen und des Wechselkurses (CHF/EUR) aus Sicht des Klägers zu einem negativen Marktwert des Swap-Vertrags und damit zu einem Ablöseverlangen der Beklagten geführt hat, das die Kündigung des Darlehensvertrags derzeit wirtschaftlich uninteressant macht, stellt keine Erschwerung des Kündigungsrechts im Sinne des § 489 Abs. 4 Satz 1 BGB dar (vgl. OLG Frankfurt am Main, WM 2022, 1171 Rn. 108 ff.; Staudinger/Mülbert, BGB, Neubearb. 2015, § 489 Rn. 71a; Schwintowski in Herberger/Martinek/Rüßmann/Weth/Würdinger, jurisPK-BGB, 10. Aufl., Stand: 01.02.2023, § 489 BGB Rn. 30; Samhat in Ellenberger/Bunte, Bankrechts-Handbuch, 6. Aufl., § 54 Rn. 144; Menges in EBJS-HGB, 4. Aufl., D. Bank- und Börsenrecht IV.: Das Kreditgeschäft und die Kreditsicherung Rn. 145; Gottschalk/Spiegel, WM 2017, 2179, 2185 f.; Hanke, BKR 2017, 358, 363; Ch. Schmitt, BKR 2018, 169, 175; Stupp/Mucke, BKR 2005, 20, 25; Gillen, EWiR 2022, 323, 324; aA bei "unangemessener" Höhe des Ablösebetrags MünchKommBGB/Berger, 9. Aufl., § 489 Rn. 20). Das Ablöseverlangen der Beklagten beruht nicht auf einer Vertragsklausel, sondern allein auf einer aus heutiger Sicht des Klägers ungünstigen Entwicklung der im Swap-Vertrag für die wechselseitigen Zahlungen festgelegten Bezugsgrößen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>3. Das Berufungsgericht hat schließlich zu Recht einen Anspruch des Klägers auf Rückzahlung von Zinsdifferenzen in Höhe von insgesamt 109.242,28 € verneint, die der Kläger in der Zeit von Januar 2018 bis März 2019 aufgrund des Swap-Vertrags an die Beklagte gezahlt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Dem Kläger steht aus § 812 Abs. 1 Satz 1 BGB kein Rückzahlungsanspruch zu, weil der Swap-Vertrag entgegen der Meinung der Revision nicht mit Wirkung zum 9. November 2017 beendet worden ist. Der Kläger ist nicht berechtigt, den bestehenden Swap-Vetrag, in dem eine feste Laufzeit bis zum 1. April 2029 vereinbart worden ist, ordentlich zu kündigen (siehe oben 2.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Rechtsfehlerfrei hat das Berufungsgericht auch den vom Kläger reklamierten Schadensersatzanspruch aus § 280 Abs. 1 BGB verneint. Denn die Beklagte war berechtigt, das vom Kläger im Oktober 2017 verlangte Begehren, den Swap-Vertrag im Fall der Kündigung des Darlehensvertrags ohne Zahlung des negativen Martkwerts zu beenden, mit Schreiben vom 9. November 2017 zurückzuweisen. Sie hat mit dieser Zurückweisung keine vertraglichen Nebenpflichten aus dem Swap-Vertrag verletzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="0" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Ellenberger     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Matthias     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Schild von Spannenberg</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Sturm     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Ettl     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300232023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

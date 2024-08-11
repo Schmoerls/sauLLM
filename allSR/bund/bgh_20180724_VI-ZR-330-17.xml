@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE302522018</doknr>
+   <ecli>ECLI:DE:BGH:2018:240718UVIZR330.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180724</entsch-datum>
+   <aktenzeichen>VI ZR 330/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 823 Abs 1 BGB, § 823 Abs 2 BGB, § 1004 BGB, § 4 Abs 1 BDSG vom 14.01.2003, § 29 Abs 1 S 1 Nr 1 BDSG vom 14.08.2009, § 29 Abs 2 BDSG vom 14.08.2009, Art 1 Abs 1 GG, Art 2 Abs 1 GG, Art 5 Abs 1  GG</norm>
+   <vorinstanz>vorgehend OLG Köln, 10. August 2017, Az: 15 U 188/16, Urteil<br/>vorgehend LG Köln, 2. November 2016, Az: 28 O 249/15<br/>nachgehend BGH, 20. November 2018, Az: VI ZR 330/17, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Persönlichkeitsrechtsverletzung im Internet: Prüfpflicht des Betreibers einer Internet-Suchmaschine</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Zur Prüfpflicht des Betreibers einer Internet-Suchmaschine bei Persönlichkeitsrechtsverletzungen (hier: Prozessberichterstattung).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision des Klägers gegen das Urteil des 15. Zivilsenats des Oberlandesgerichts Köln vom 10. August 2017 in der Fassung des Berichtigungsbeschlusses vom 7. September 2017 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Kläger trägt die Kosten des Revisionsverfahrens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger verlangt von der beklagten Gesellschaft mit Sitz in den USA, es als Betreiberin der Internetsuchmaschine "Google" zu unterlassen, bei Eingabe seines Nachnamens in der Ergebnisliste einen bestimmten Ergebnislink anzuzeigen. Hilfsweise verlangt er, den Ergebnislink unter weiteren Voraussetzungen zu entfernen und/oder zu sperren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der seit 2007 als Rechtsanwalt tätige Kläger vertrat im Jahr 2008 Herrn A. B. gegen die B.-Gesellschaft Frankfurt/M. mbH (B.-Gesellschaft) vor dem Landgericht Düsseldorf in einem Verfahren, in dem am 15. Juli 2009 eine mündliche Verhandlung stattfand. Anschließend veröffentlichte die B.-Gesellschaft im Internet einen (ersten) Bericht über dieses Verfahren und die mündliche Verhandlung. Daraufhin untersagte das Landgericht Düsseldorf mit Beschluss vom 21. Juli 2009 auf Antrag des Klägers unter anderem der B.-Gesellschaft,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"über den Antragsteller nachfolgende Äußerungen zu behaupten, zu verbreiten und/oder zu veröffentlichen und/oder behaupten zu lassen, verbreiten zu lassen und/oder veröffentlichen zu lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Junger Anwalt [...] hilflos</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A. B. unterschrieb später eine Unterlassungserklärung. Für die Entfernung des unter seinem Namen verbreiteten Falschberichtes aus dem Internet sieht er allerdings bis heute keine Veranlassung. Sein junger Anwalt, [...], lehnte es ab, sich hierzu zu äußern, nicht ohne damit den Eindruck der Hilflosigkeit zu hinterlassen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die B.-Gesellschaft gab dazu mit Schreiben vom 27. Juli 2009 eine Abschlusserklärung ab, wonach sie die einstweilige Verfügung als nach Bestandskraft und Wirkung einem rechtskräftigen Hauptsachetitel gleichwertig anerkenne und sich gegen die Kostenlast verwahre. Der Kostenwiderspruch der B.-Gesellschaft wurde durch Beschluss des Oberlandesgerichts Düsseldorf vom 26. Mai 2010 zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Am 24. Juli 2009 veröffentlichte die B.-Gesellschaft im Internet einen weiteren Bericht über das Verfahren und die mündliche Verhandlung. Dieser Beitrag beschreibt einleitend Hintergrund sowie Gegenstand des Verfahrens und geht dann näher auf den Ablauf der mündlichen Verhandlung, insbesondere auf gerichtliche Hinweise zur Antragstellung und die Reaktion des Klägers darauf ein. Abschließend befasst sich der Beitrag mit dem ersten Bericht und der daraufhin auf Antrag des Klägers erlassenen einstweiligen Verfügung. Unter anderem heißt es:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"<strong>Landgericht Düsseldorf unterrichtet Rechtsanwalt [...] über Möglichkeit einer erfolgreichen Antragstellung, juristische Beobachter diskutieren peinliche Situation, durch Antragsschrift [...] nicht umfänglich informiertes Landgericht erlässt Einstweilige Verfügung gegen Prozessbericht</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Prozessberichte zur Entwicklung des Presserechts, Neue Folge</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Landgericht Düsseldorf. In einem Verfahren klagte der frühere Vereinsvorstand A. B. gegen die Redaktion einer Literaturgesellschaft. Diese hatte die skandalauslösenden Aktivitäten des Vereinsfunktionärs, der falsche Tatsachen verbreitete und eine renommierte Verlagsgruppe diffamiert hatte, in drei Berichten in scharfer Form kritisiert. Das Verfahren am Landgericht erregt das Interesse der Öffentlichkeit wegen einer möglichen Einschränkung der vom BGH sehr weit definierten Freiheit der Presse im Bereich der Wirtschafts- und Verbraucherinformation. Durch den Widerstand von Rechtsanwalt [...] gegen die Prozessreportage gewinnt das Verfahren nun eine weitere presserechtliche Facette.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Hilfestellung des Gerichts für Anwalt [...]</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt"> [...]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Rechtsanwalt [...] ändert tatsächlich seine Anträge</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Nach dieser Hilfestellung des Gerichts gelang es [...] dann, die Anträge für seinen Mandanten neu zu formulieren. Ein juristischer Prozessbeobachter hierzu: `Drei Berichte nur zusammen zum Verbot zu beantragen, erscheint mir als ein Dilettantismus, der meiner Meinung nach einem Anwalt nicht unterlaufen darf. Die Gerichte sind seit einer Reform der Zivilprozessordnung zu Hinweisen verpflichtet, die in manchen Fällen einem juristischen Nachhilfekurs gleichen.`</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Dokumente des eigenen Mandanten nicht akzeptiert</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Nach Schluss der Verhandlung weigerte sich Rechtsanwalt [...] im Gespräch der Parteien auch noch, Dokumente entgegenzunehmen, die die fortbestehende Täterschaft bzw. Verantwortung seines Mandanten in der Frage der Verbreitung seines skandalauslösenden diffamierenden Aktionstextes belegen, für den dieser sogar eine Unterlassungserklärung abgegeben hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt"> [...]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Anwalt [...] erwirkt Einstweilige Verfügung gegen Bericht über seine Mandatsniederlegung</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Über die Vorgänge im und nach dem Verfahren am Landgericht Düsseldorf berichtete die Redaktion [...], so auch darüber, dass der junge Anwalt [...] bei Beobachtern den Eindruck der Hilflosigkeit hinterlassen habe. [...] beantragte hierauf eine Einstweilige Verfügung, die das Landgericht Düsseldorf erließ.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>Landgericht durch Antragsschrift absichtlich nicht vollständig informiert</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Die Redaktion hierzu: `Die Pressefreiheit gestattet sehr wohl, gerade das unorthodoxe Verhalten eines nassforsch auftretenden Anwalts in einem öffentlichen Verfahren zu kritisieren, zumal die geäußerte Meinung nicht einen Tatsachenkern beinhaltet. Denn es wurde nicht einmal die Tatsache behauptet, dass Anwalt [...] hilflos gewesen sei, eine Tatsache, der Beobachter allerdings wohl anhängen könnten. Die Redaktion hat sich bewusst darauf beschränkt, nur den aus den Ereignissen heraus nachzuvollziehenden Eindruck zu schildern, der bei Beobachtern durch das Verhalten des Anwalts entstanden war. Dass das Landgericht die Verfügung dennoch erließ, dürfte sich daraus erklären, dass die Antragsschrift insbesondere die Abläufe nach Ende der Verhandlung unterdrückt hat und dass diese folglich dem Gericht unbekannt geblieben sind.`</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Die Redaktion hat Widerspruch gegen die Verfügung eingelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Wir werden an dieser Stelle über den Fortgang der Auseinandersetzung berichten: <strong>Prozessberichte zur Entwicklung des Presserechts, Fortsetzung</strong>."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Daraufhin untersagte das Landgericht Düsseldorf mit Beschluss vom 21. August 2009 auf Antrag des Klägers unter anderem der B.-Gesellschaft,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"über den Antragsteller nachfolgende Äußerungen zu behaupten, zu verbreiten und/oder weiterhin zu verbreiten und/oder zu veröffentlichen und/oder behaupten zu lassen, verbreiten zu lassen und/oder veröffentlichen zu lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. durch die Antragsschrift [...] nicht umfänglich informiertes Landgericht erlässt Einstweilige Verfügung gegen Prozessbericht</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Landgericht durch Antragsschrift absichtlich nicht vollständig informiert</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wenn dies geschieht wie folgt: [Wiedergabe des Artikels]"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die B.-Gesellschaft erklärte auch dazu, dass sie die einstweilige Verfügung als nach Bestandskraft und Wirkung einem rechtskräftigen Hauptsachetitel gleichwertig anerkenne und sich gegen die Kostenlast verwahre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Am 14. September 2009 wurde auf der Internetseite "www.[...].co.uk/sites/14_09_09.htm" eines Internet-Blogs ein Beitrag veröffentlicht, der bis auf die durch den Beschluss des Landgerichts Düsseldorf vom 21. August 2009 untersagten Äußerungen dem am 24. Juli 2009 veröffentlichten Bericht entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Bei Eingabe des Nachnamens des Klägers in der Suchmaschine der Beklagten auf der Internetseite www.google.de wurde in der Suchergebnisliste an zweiter Stelle der Link "www.[...].co.uk/sites/14_09_09.htm" sowie folgender vorangestellter und nachfolgender Text angezeigt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"<strong>Landgericht Düsseldorf unterrichtet Rechtsanwalt [...] ...</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">www.[...].co.uk/sites/14_09_09.htm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Durch den Widerstand von Rechtsanwalt [...] gegen die Prozeßreportage gewinnt das Verfahren nun eine weitere presserechtliche Facette."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Mit einem an die Google Germany GmbH gerichteten Schreiben verlangte der Kläger, den unter dem Link "www.[...].co.uk/sites/14_09_09.htm" öffentlich zugänglich gemachten Beitrag aus dem Suchergebnis bei Eingabe unter anderem seines Namens zu entfernen. Zur Begründung verwies der Kläger auf den Beschluss des Landgerichts Düsseldorf vom 21. Juli 2009, die dazu von der B.-Gesellschaft abgegebene Abschlusserklärung vom 27. Juli 2009 und die endgültige Zurückweisung des Kostenwiderspruchs. Gleichwohl lasse die B.-Gesellschaft nunmehr über einen britischen Internetseitenbetreiber unter dem genannten Link unwahre und kompromittierende Äußerungen verbreiten. Unabhängig von den zahlreichen unwahren und persönlichkeitsrechtsverletzenden Äußerungen sei der Beitrag nicht mehr aktuell und unterschlage dem Leser, dass die B.-Gesellschaft bereits sieben Tage nach Erlass der einstweiligen Verfügung eine Abschlusserklärung abgegeben und die einstweilige Verfügung als rechtskräftigen Hauptsachetitel anerkannt habe. Auch die Zurückweisung des Kostenwiderspruchs werde dem Leser nicht mitgeteilt. Obwohl im Beitrag selbst eine Fortsetzung und Information über den Ausgang des Verfügungsverfahrens angekündigt werde, fehle ein solcher Zusatz - der bestätigen würde, dass die erhobenen Vorwürfe unzulässig und unberechtigt seien - bis heute gänzlich. Der seit Jahren unverändert veröffentlichte, unwahre und nicht aktuelle Beitrag verletze deshalb seine rechtlichen Interessen und stelle eine schwerwiegende Verletzung seines privaten Geltungsanspruchs dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte teilte dem Kläger mit, dass in Bezug auf den vom Kläger beanstandeten Link vorerst keine Maßnahmen ergriffen würden. Anhand der Informationen des Klägers habe kein offensichtlicher Rechtsverstoß festgestellt werden können. Im Berufungsverfahren hat die Beklagte geltend gemacht, dass der Hinweis des Klägers so detailliert über den Sachverhalt informieren müsse, dass sich die behauptete Rechtsverletzung sowohl in tatsächlicher Hinsicht eindeutig darstelle als auch in rechtlicher Hinsicht die nicht hinzunehmende Beeinträchtigung des Betroffenen auf der Hand liege. Sie wisse mangels Vortrags des Klägers zu den tatsächlichen Begebenheiten nach Schluss der mündlichen Verhandlung sowie zu dem Antrag auf Erlass der einstweiligen Verfügung vor dem Landgericht Düsseldorf nicht, was sie vortragen und beweisen solle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Der Link "www.[...].co.uk/sites/14_09_09.htm" war bis September 2016 abrufbar. Mittlerweile wird er in Suchergebnissen der Beklagten nicht mehr angezeigt, da die Internetseite "www.[...].co.uk/sites" unerreichbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat, wie vom Kläger erstinstanzlich zuletzt beantragt, die Beklagte verurteilt, es zu unterlassen, den Ergebnislink www.[...].co.uk/sites/14_09_09.htm mit dem Inhalt des Berichts bei Eingabe des Nachnamens des Klägers in der Ergebnisliste der Internetsuchmaschine Google anzuzeigen. In zweiter Instanz hat der Kläger beantragt, die Berufung der Beklagten zurückzuweisen, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"hilfsweise für den Fall, dass der Berufung der Beklagten stattgegeben werden sollte, der Beklagten aufzugeben, den Ergebnislink [...], mit dem auf den Webseiteninhalt [mit dem Bericht] weitergeleitet wird und der die Äußerungen enthält: `(...) Dass das Landgericht die Verfügung dennoch erließ, dürfte sich daraus erklären, dass die Antragsschrift insbesondere die Abläufe nach Ende der Verhandlung unterdrückt hat und dass diese folglich dem Gericht unbekannt geblieben sind.` und/oder `Die Redaktion hat Widerspruch gegen die Verfügung eingelegt. Wir werden an dieser Stelle über den Fortgang der Auseinandersetzung berichten (...)` - ohne dass auf die Abschlusserklärung vom 27. Juli 2009 (...) und/oder die Entscheidung des Oberlandesgerichts Düsseldorf vom 26. Mai 2010 über den Kostenwiderspruch (...) hingewiesen wird - bei Eingabe des Nachnamens des Klägers aus der Ergebnisliste der Internetsuchmaschine Google zu entfernen und/oder zu sperren, wenn dies geschieht, wie nachstehend eingeblendet: [...]."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat auf die Berufung des Klägers das Urteil des Landgerichts abgeändert und die Klage abgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt der Kläger seine in der Berufungsinstanz gestellten Anträge weiter mit der Maßgabe, dass er seinen Hilfsantrag für erledigt erklärt und ihn hilfsweise für den Fall, dass kein erledigendes Ereignis eingetreten ist, aufrechterhält. Die Beklagte hat sich der Erledigungserklärung nicht angeschlossen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Nach Auffassung des Berufungsgerichts hat der Kläger keinen Anspruch auf Unterlassung nach seinem Hauptantrag aus § 1004, § 823 Abs. 1 BGB in Verbindung mit Art. 1 Abs. 1, Art. 2 Abs. 1 GG. Zwar mache die Beklagte - auf Grundlage des Vorbringens des Klägers - mit den Äußerungen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"(...) Dass das Landgericht die Verfügung dennoch erließ, dürfte sich daraus erklären, dass die Antragsschrift insbesondere die Abläufe nach Ende der Verhandlung unterdrückt hat und dass diese folglich dem Gericht unbekannt geblieben sind."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Die Redaktion hat Widerspruch gegen die Verfügung eingelegt. Wir werden an dieser Stelle über den Fortgang der Auseinandersetzung berichten (...)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>unwahre Tatsachenbehauptungen über ihn auffindbar. Mit der Formulierung "unterdrückt" werde unter Berücksichtigung des vorangehenden Kontextes</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Dokumente des eigenen Mandanten nicht akzeptiert</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Nach Schluss der Verhandlung weigerte sich Rechtsanwalt [...] im Gespräch der Parteien auch noch, Dokumente entgegenzunehmen, die die fortbestehende Täterschaft bzw. Verantwortung seines Mandanten in der Frage der Verbreitung seines skandalauslösenden diffamierenden Aktionstextes belegen, für den dieser sogar eine Unterlassungserklärung abgegeben hatte."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>geäußert, dass entscheidungserhebliche Umstände trotz entsprechender Kenntnis dem Gericht nicht mitgeteilt worden seien. Dass die Äußerung mit einem "dürfte" eingeleitet werde, relativiere dies nicht im entscheidenden Maße. Der Kläger behaupte auch, dass dies unwahr sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Formulierung "Widerspruch eingelegt" teile nicht mit, dass eine Abschlusserklärung abgegeben und nur ein Kostenwiderspruch eingelegt worden sei, weshalb sie bewusst unvollständig sei und dem durchschnittlichen Rezipienten eine andere Bewertung der Rechtfertigung der einstweiligen Verfügung vermittle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Eine Haftung der Beklagten als mittelbare Störerin komme grundsätzlich in Betracht, soweit der Kläger die Beklagte über die behauptete Unwahrheit der Tatsachenbehauptung in erforderlichem Maße in Kenntnis gesetzt habe, was jedenfalls mit der Klagebegründung geschehen sei. Allerdings scheide die nur subsidiäre Haftung der Beklagten aus, weil der Kläger die Unwahrheit der ersten Äußerung nicht bewiesen habe. Die Beklagte könne nicht die Wahrheit der Tatsachenbehauptung beweisen, weil ihr insoweit keine zumutbaren Möglichkeiten zur Verfügung ständen. Sie habe über den von ihr rein technisch vermittelten Inhalt keine Kenntnis und könne sich diese auch nicht im Rahmen eines Prüfverfahrens verschaffen, weil sie keine (vertragliche) Beziehung zu dem sich Äußernden habe. Schon gar nicht könne sie die Wahrheit der Tatsachenbehauptung beweisen, gerade weil ihr insoweit keine (zumutbaren) Möglichkeiten zur Verfügung ständen. Die Unwahrheit der zweiten Äußerung aufgrund Unvollständigkeit dürfte der Kläger zwar bewiesen haben, indem er die Abschlusserklärung und die Entscheidung des Oberlandesgerichts Düsseldorf vorgelegt habe. Der Kläger habe jedoch - wie er mit seinem Hilfsantrag deutlich mache - nur einen Anspruch darauf, dass vollständig berichtet werde, was die Beklagte nicht bewirken könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Kläger habe auch keinen Unterlassungsanspruch nach § 1004 analog, § 823 Abs. 2 BGB in Verbindung mit § 29 Bundesdatenschutzgesetz a.F. (BDSG a.F.). Unmittelbarer Zweck der Suchmaschine der Beklagten und mithin Gegenstand ihrer Tätigkeit sei es, den Nutzern die im Internet recherchierten und auf den Servern gespeicherten (personenbezogenen) Daten zu übermitteln. Zwar habe die Beklagte in Deutschland eine Tochtergesellschaft gegründet, deren Geschäftszweck darin bestehe, Werbeflächen zu vermarkten, auf denen Unternehmen für ihre Waren oder Dienstleistungen Werbeanzeigen einbetten könnten, die mit den vom Nutzer eingegebenen Suchwörtern verknüpft seien. Jedoch seien die im Internet von der Beklagten recherchierten Informationen, die teilweise auch personenbezogene Daten enthielten, die eigentliche Ware, mit deren Übermittlung an die Nutzer - zur leichteren Auffindbarkeit der von diesen nachgesuchten Informationen - die Beklagte Geld verdiene. Die von der Beklagten erhobenen Daten des Klägers stammten ausschließlich von einer öffentlich zugänglichen Internetseite. Solange weder die Unwahrheit der ersten Äußerung feststehe noch der Kläger den sich Äußernden oder den Betreiber der die Äußerung enthaltenden Website in Anspruch genommen habe, überwögen die Interessen der Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Schließlich bestehe ein Unterlassungsanspruch auch nicht unter Berücksichtigung der Rechtsprechung des Europäischen Gerichtshofs (Urteil vom 13. Mai 2014 - C-131/12) zum "Recht auf Vergessenwerden". Solange der Kläger gegen die Beklagte keinen Anspruch auf Unterlassung unwahrer Tatsachenbehauptungen habe, müsse bei der Abwägung eines "Rechts auf Vergessen" deren Wahrheit unterstellt werden. Werde wie hier über wahre Umstände aus der Sozialsphäre des Klägers berichtet, bestehe ein berechtigtes Interesse an deren Verbreitung. Denn es werde ein Verhalten des Klägers als Anwalt öffentlich gemacht, welches für potentielle Mandanten von (erheblichem) Interesse sei. Dieses Interesse werde nicht maßgebend davon beeinflusst, dass nunmehr acht Jahre seit der (Erst-) Veröffentlichung vergangen seien. Der Zweck der Veröffentlichung - die Darstellung eines anwaltlichen Verhaltens des Klägers - sei gerade nicht erreicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Zuletzt könne der Kläger nicht Unterlassung nach § 35 Abs. 1 BDSG a.F. begehren. Die in dieser Norm enthaltene Löschungspflicht entspreche nicht dem Rechtsschutzziel des Klägers. Er mache keine Verpflichtung geltend, eventuell vorhandene statische Ergebnislisten zu löschen, sondern wolle erreichen, dass bei Eingabe der beanstandeten Suchbegriffe bestimmte Ereignisse nicht mehr angezeigt würden. Die Tätigkeit der Beklagten stelle einen dynamischen Prozess dar, bei dem das Internet aktuell durchsucht und mit den gefundenen Treffern jeweils eine (neue) Ergebnisliste dargestellt werde. Ein solches Verhalten könne lediglich mit einem Unterlassungsanspruch verhindert werden, da die Beklagte dann verpflichtet wäre, dafür zu sorgen, dass der entsprechende Treffer bei einer erneuten Suche nicht mehr auf der Ergebnisliste erscheine. Selbst wenn aber im Hauptantrag, jedenfalls aber im Hilfsantrag ein Löschungsbegehren zu erkennen und eine Löschung technisch möglich sein sollten, so bestehe ein Anspruch des Klägers hierauf schon deswegen nicht (mehr), weil es unstreitig nichts mehr zu löschen gebe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>B.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die Revision ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat zutreffend angenommen, dass für die Klage, die sich gegen die in den USA ansässige Beklagte richtet, die deutschen Gerichte international zuständig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>1. Auch in der Revisionsinstanz ist die internationale Zuständigkeit von Amts wegen zu prüfen (Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 15; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 9 ff.; BGH, Urteil vom 28. November 2002 - III ZR 102/02, BGHZ 153, 82, 84 ff.). Wenn die internationale Zuständigkeit - wie im Streitfall - nicht durch vorrangige Bestimmungen in internationalen Vereinbarungen oder im Unionsrecht geregelt wird, ist auf die Regeln der örtlichen Zuständigkeit nach §§ 12 ff. ZPO zurückzugreifen, da eine hiernach gegebene örtliche Zuständigkeit die internationale regelmäßig indiziert (Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 15 mwN; BGH, Urteil vom 18. Januar 2011 - X ZR 71/10, BGHZ 188, 85 Rn. 13). Nach § 32 ZPO ist für Klagen aus unerlaubten Handlungen das Gericht zuständig, in dessen Bezirk die Handlung begangen ist. Zur Begründung der Zuständigkeit genügt es, wenn der Kläger schlüssig Tatsachen behauptet, aus denen sich eine im Gerichtsbezirk begangene unerlaubte Handlung ergibt. Begehungsort der deliktischen Handlung ist dabei sowohl der Handlungs- als auch der Erfolgsort, so dass eine Zuständigkeit wahlweise dort gegeben ist, wo entweder die Verletzungshandlung begangen wurde oder wo in ein geschütztes Rechtsgut eingegriffen wurde. Erfasst werden neben Ansprüchen auf Schadensersatz auch Unterlassungsansprüche (Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 16 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Die deutschen Gerichte sind zur Entscheidung über Klagen wegen Persönlichkeitsbeeinträchtigungen durch im Internet abrufbare Veröffentlichungen international zuständig, wenn ein über die bloße Abrufbarkeit der rechtsverletzenden Inhalte hinausgehender Inlandsbezug vorliegt. Entscheidend ist, ob die als rechtsverletzend beanstandeten Inhalte objektiv einen deutlichen Bezug zum Inland in dem Sinne aufweisen, dass eine Kollision der widerstreitenden Interessen - Interesse des Klägers an der Achtung seines Persönlichkeitsrechts einerseits, Interesse der Beklagten an der Gestaltung ihres Internetauftritts und an einer Berichterstattung andererseits - nach den Umständen des konkreten Falls, insbesondere aufgrund des Inhalts der beanstandeten Meldung, im Inland tatsächlich eingetreten sein kann oder eintreten kann. Dies ist dann anzunehmen, wenn eine Kenntnisnahme von der beanstandeten Meldung nach den Umständen des konkreten Falls im Inland erheblich näher liegt als es aufgrund der bloßen Abrufbarkeit des Angebots der Fall wäre und die vom Kläger behauptete Beeinträchtigung seines Persönlichkeitsrechts durch Kenntnisnahme von der Meldung (auch) im Inland eintreten würde (Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 17; vom 14. Mai 2013 - VI ZR 269/12, BGHZ 197, 213 Rn. 7; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 16 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>2. Der danach erforderliche Inlandsbezug liegt vor. Mit seiner Klage wendet sich der in Deutschland wohnende Kläger gegen einen Ergebnislink, der von dem länderspezifischen Internetauftritt www.google.de in deutscher Sprache aufgeführt wird und zu einem in deutscher Sprache abgefassten Bericht führt, der sich zur beruflichen Tätigkeit des Klägers in Deutschland verhält (vgl. Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 19; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht ist auch zutreffend davon ausgegangen, dass der vom Kläger geltend gemachte Anspruch nach deutschem Recht zu beurteilen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>1. Die richtige Anwendung des deutschen Internationalen Privatrechts ist in der Revisionsinstanz von Amts wegen zu prüfen (Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 20; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 13; vom 15. Juli 2008 - VI ZR 105/07, BGHZ 177, 237 Rn. 8 mwN; BGH, Urteil vom 2. Oktober 1997 - I ZR 88/95, BGHZ 136, 380, 386).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II-Verordnung) ist nicht anwendbar, da gemäß Art. 1 Abs. 2 lit. g dieser Verordnung außervertragliche Schuldverhältnisse aus der Verletzung der Persönlichkeitsrechte vom Anwendungsbereich der Verordnung ausgenommen sind (Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Die Anwendbarkeit deutschen Rechts folgt aus Art. 40 Abs. 1 Satz 2 EGBGB.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Art. 40 EGBGB unterfällt auch der Persönlichkeitsschutz einschließlich sich daraus herleitender Unterlassungsansprüche (Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 22; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 15). Die Vorschrift wird nicht durch § 3 Abs. 2 TMG verdrängt, da diese Bestimmung keine Kollisionsnorm enthält (Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 23; vom 8. Mai 2012 - VI ZR 217/08, NJW 2012, 2197 Rn. 23 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>b) Der nach Art. 40 Abs. 1 Satz 2 EGBGB maßgebliche Erfolgsort liegt in Deutschland. Hier ist der soziale Geltungsanspruch des Klägers, der in Deutschland wohnt und beruflich tätig ist, betroffen und hier kollidiert das Interesse des Klägers an der Unterlassung der sein Persönlichkeitsrecht berührenden Anzeige des Suchergebnisses mit dem Interesse der Beklagten an der Gestaltung ihres Internetauftritts sowie an der Ausübung ihres Geschäftsmodells (vgl. dazu Senat, Urteile vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 24; vom 14. Mai 2013 - VI ZR 269/12, BGHZ 197, 213 Rn. 10; vom 8. Mai 2012 - VI ZR 217/08, NJW 2012, 2197 Rn. 31; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 16; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Auf Grundlage der vom Berufungsgericht getroffenen Feststellungen steht dem Kläger der gegen die Beklagte geltend gemachte Unterlassungsanspruch nicht zu (1.). Zurückzuweisen ist die Revision auch hinsichtlich des vom Kläger für erledigt erklärten (2.) und hinsichtlich des hilfsweise aufrechterhaltenen Hilfsantrags (3.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>1. Dem Kläger steht gegen die Beklagte kein Anspruch zu, es zu unterlassen, den Inhalt auf der von ihm benannten Internetseite durch Anzeige in den Suchergebnissen mit entsprechender Verlinkung auffindbar zu machen ("anzuzeigen"). Dieser Unterlassungsanspruch ergibt sich weder aufgrund einer Haftung der Beklagten als mittelbare Störerin wegen Verletzung des allgemeinen Persönlichkeitsrechts (§ 823 Abs. 1, § 1004 Abs. 1 Satz 2 BGB analog i.V.m. Art. 2 Abs. 1, Art. 1 GG) noch aufgrund einer Verletzung datenschutzrechtlicher Schutzgesetze (§ 823 Abs. 2, § 1004 Abs. 1 Satz 2 BGB i.V.m. § 4 Abs. 1, § 29 BDSG a.F.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>a) Der Kläger hat gegen die Beklagte keinen Unterlassungsanspruch aufgrund einer Haftung als mittelbare Störerin wegen Verletzung seines allgemeinen Persönlichkeitsrechts nach § 823 Abs. 1, § 1004 Abs. 1 Satz 2 BGB analog in Verbindung mit Art. 2 Abs. 1, Art. 1 GG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>aa) Zutreffend geht das Berufungsgericht davon aus, dass es im Streitfall nicht um die Haftung der Beklagten als unmittelbare Störerin geht (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 27).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(1) Unmittelbare Störerin könnte die Beklagte nur sein, wenn es sich bei der vom Kläger angegriffenen Suchergebnisseite um eigene Inhalte der Beklagten handelte. Zu den eigenen Inhalten eines Suchmaschinenbetreibers gehören auch solche Inhalte, die zwar von einem Dritten hergestellt wurden, die sich der Suchmaschinenbetreiber aber zu Eigen macht. Von einem Zu-Eigen-Machen ist auszugehen, wenn der in Anspruch Genommene nach außen erkennbar die inhaltliche Verantwortung für die auf seiner Internetseite veröffentlichten Inhalte übernimmt, was aus Sicht eines verständigen Durchschnittsnutzers auf der Grundlage einer Gesamtbetrachtung aller relevanten Umstände zu beurteilen ist. Dabei ist bei der Annahme einer Identifikation mit fremden Inhalten grundsätzlich Zurückhaltung geboten (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 28 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(2) Der vom Kläger beanstandete Bericht auf der Internetseite "www.[...].co.uk/sites/14_09_09.htm", welchen die Beklagte durch Verlinkung auffindbar machte, ist kein eigener Inhalt der Beklagten. Er wurde von anderen Personen ins Internet eingestellt. Die Beklagte machte sich den Inhalt durch Aufnahme in den Suchindex auch nicht zu Eigen. Die Beklagte durchsucht mit Hilfe sog. crawler-Programme die im Internet vorhandenen Seiten und erstellt hieraus automatisiert und nach ihren Algorithmen einen Suchindex. Bei der Anfrage durch einen Nutzer durchsucht die Suchmaschine der Beklagten diesen Index und liefert entsprechende Suchergebnisse. Auf der Grundlage einer Gesamtbetrachtung aller relevanten Umstände übernimmt die Beklagte aus der Sicht eines verständigen Durchschnittsnutzers damit nicht nach außen erkennbar die Verantwortung für die nachgewiesenen Inhalte. Der Anzeige der Suchergebnisse entnimmt der verständige Durchschnittsnutzer lediglich die Aussage, dass sich die von ihm eingegebenen Suchbegriffe in irgendeiner Weise in den über die angegebenen Links erreichbaren Texten auf den nachgewiesenen Internetseiten befinden; er entnimmt ihr hingegen nicht, dass sich die Beklagte mit den auffindbar gemachten Inhalten identifiziert (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 29). Dass die Beklagte die indexierte Internetseite inhaltlich-redaktionell überprüft hätte, ist im Übrigen weder festgestellt noch vom Kläger behauptet worden (vgl. dazu Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 29 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>bb) Die Beklagte haftet auch nicht als mittelbare Störerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(1) Grundsätzlich ist als mittelbarer Störer verpflichtet, wer, ohne unmittelbarer Störer zu sein, in irgendeiner Weise willentlich und adäquat kausal zur Beeinträchtigung des Rechtsguts beiträgt. Dabei kann als Beitrag auch die Unterstützung oder Ausnutzung der Handlung eines eigenverantwortlich handelnden Dritten genügen, sofern der in Anspruch Genommene die rechtliche und tatsächliche Möglichkeit zur Verhinderung dieser Handlung hatte. Die Haftung als mittelbarer Störer darf aber nicht über Gebühr auf Dritte erstreckt werden, welche die rechtswidrige Beeinträchtigung nicht selbst vorgenommen haben. Sie setzt deshalb die Verletzung von Verhaltenspflichten, insbesondere von Prüfpflichten, voraus. Deren Umfang bestimmt sich danach, ob und inwieweit dem als mittelbaren Störer in Anspruch Genommenen nach den Umständen des Einzelfalls eine Verhinderung der Verletzung zuzumuten ist (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 31 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(2) Für die Haftung des Betreibers einer Internetsuchmaschine hat der Senat bereits Grundsätze aufgestellt (vgl. Senat Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 33 ff.). Danach treffen den Betreiber einer Internetsuchmaschine erst dann spezifische Verhaltenspflichten, wenn er durch einen konkreten Hinweis Kenntnis von einer offensichtlichen und auf den ersten Blick klar erkennbaren Rechtsverletzung erlangt. Der Hinweis ist erforderlich, um den grundsätzlich nicht zur präventiven Kontrolle verpflichteten Diensteanbieter in die Lage zu versetzen, in der Vielzahl der indexierten Internetseiten diejenigen auffinden zu können, die möglicherweise die Rechte Dritter verletzen. Ein Rechtsverstoß kann beispielsweise im oben genannten Sinn auf der Hand liegen bei Kinderpornographie, Aufruf zur Gewalt gegen Personen, offensichtlichen Personenverwechslungen, Vorliegen eines rechtskräftigen Titels gegen den unmittelbaren Störer, Erledigung jeglichen Informationsinteresses durch Zeitablauf (vgl. EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, NJW 2014, 2257 Rn. 92 ff. - Google Spain), Hassreden (vgl. EGMR, Urteil vom 16. Juni 2015 - 64569/09, NJW 2015, 2863 Rn. 153 ff. - Delfi AS/Estland) oder eindeutiger Schmähkritik (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 36).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Allerdings kann die Grenze insbesondere in den beiden letztgenannten Fällen schwer zu ziehen sein. Gerade bei Schmähkritik ist die Erkennbarkeit einer offensichtlichen Rechtsverletzung für den Suchmaschinebetreiber problematisch. Wegen der Eigenart des Persönlichkeitsrechts als eines Rahmenrechts liegt seine Reichweite nicht absolut fest, sondern muss erst durch eine Abwägung der widerstreitenden grundrechtlich geschützten Belange bestimmt werden, bei der die besonderen Umstände des Einzelfalls sowie die betroffenen Grundrechte und Gewährleistungen der Europäischen Menschenrechtskonvention (EMRK) interpretationsleitend zu berücksichtigen sind. Der Eingriff in das Persönlichkeitsrecht ist nur dann rechtswidrig, wenn das Schutzinteresse des Betroffenen die schutzwürdigen Belange der anderen Seite überwiegt (Senat, Urteile vom 27. September 2016 - VI ZR 250/13, NJW 2017, 482 Rn. 19; vom 13. Januar 2015 - VI ZR 386/13, NJW 2015, 776 Rn. 13; vom 30. September 2014 - VI ZR 490/12, NJW 2015, 782 Rn. 19; vom 29. April 2014 - VI ZR 137/13, NJW 2014, 2276 Rn. 8; vom 17. Dezember 2013 - VI ZR 211/12, BGHZ 199, 237 Rn. 22; vom 14. Mai 2013 - VI ZR 269/12, BGHZ 197, 213 Rn. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die Grenze zulässiger Meinungsäußerungen liegt nicht schon da, wo eine polemische Zuspitzung für die Äußerung sachlicher Kritik nicht erforderlich ist. Eine Schmähkritik kann nicht bereits dann angenommen werden, wenn eine Äußerung überzogen oder ausfällig ist. Hinzutreten muss eine das sachliche Anliegen der Äußerung völlig in den Hintergrund drängende persönliche Kränkung, deren abschließende Bewertung ohne verifizierbare Erkenntnisse zum sachlichen Hintergrund selten möglich ist. Entsprechendes gilt für herabsetzende Tatsachenbehauptungen oder Werturteile mit Tatsachenkern. Denn hier kommt es maßgeblich auf den Wahrheitsgehalt der behaupteten Tatsache an. Hierzu hat der Suchmaschinenbetreiber typischerweise keine Erkenntnisse. Ist eine Validierung des Vortrags der Betroffenen somit regelmäßig nicht möglich, führt auch der Maßstab der "offensichtlichen und auf den ersten Blick klar erkennbaren Rechtsverletzung" nur in Ausnahmefällen zu einem eindeutigen Ergebnis für den Suchmaschinenbetreiber. Eine sichere und eindeutige Beurteilung, ob unter Berücksichtigung aller widerstreitenden grundrechtlich geschützten Belange und der Umstände des Einzelfalls das Schutzinteresse des Betroffenen, die schutzwürdigen Belange der Internetseitenbetreiber, der Internetbenutzer sowie des Suchmaschinenbetreibers überwiegt, ist diesem im Regelfall nicht ohne weiteres möglich (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 37 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(3) Der Kläger hat der Beklagten weder in seinem vorgerichtlichen Hinweis noch im vorliegenden Verfahren aufgezeigt, dass der durch den beanstandeten Link zugänglich gemachte Bericht im Sinne dieser Grundsätze offensichtlich und bereits auf den ersten Blick klar erkennbar sein Persönlichkeitsrecht verletzte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(a) Dies gilt zunächst für die Äußerung "Dass das Landgericht die Verfügung dennoch erließ, dürfte sich daraus erklären, dass die Antragsschrift insbesondere die Abläufe nach der Verhandlung unterdrückt hat und dass diese folglich dem Gericht unbekannt geblieben sind."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(aa) Deren Unzulässigkeit ergab sich nicht aus dem der Beklagten mitgeteilten Beschluss des Landgerichts Düsseldorf vom 21. August 2009, durch den auf Antrag des Klägers unter anderem der B.-Gesellschaft verschiedene Äußerungen untersagt wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Der verlinkte Bericht enthielt die durch den Beschluss des Landgerichts Düsseldorf vom 21. August 2009 untersagten Äußerungen ("durch Antragsschrift [...] nicht umfänglich informiertes Landgericht erlässt Einstweilige Verfügung gegen Prozessbericht" und "Landgericht durch Antragsschrift absichtlich nicht vollständig informiert") - im Gegensatz zu dem früher veröffentlichten Bericht, der Anlass für diese vom Kläger beantragte einstweilige Verfügung war - nicht (mehr).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Zwar greift ein auf die konkrete Verletzungsform beschränktes Unterlassungsgebot nicht nur dann, wenn eine Äußerung wortgleich wiederholt wird, sondern auch dann, wenn die darin enthaltenen Mitteilungen sinngemäß ganz oder teilweise Gegenstand einer erneuten Äußerung sind (vgl. Senat, Urteil vom 23. Juni 2009 - VI ZR 232/08, NJW 2009, 2823 Rn. 11; BVerfG [K], Beschlüsse vom 9. Juli 1997 - 1 BvR 730/97, juris Rn. 10; vom 4. Dezember 2006 - 1 BvR 1200/04, NJW-RR 2007, 860 Rn. 20 zum Wettbewerbsrecht). Allerdings wäre eine solche "Identität des Äußerungskerns" hier schon nicht offensichtlich und auf den ersten Blick klar erkennbar gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Vielmehr sprach aus Sicht der Beklagten gegen eine Identität des Äußerungskerns, dass die vom Kläger beanstandeten Äußerungen bereits in dem am 24. Juli 2009 von der B.-Gesellschaft veröffentlichten Bericht enthalten waren und durch den Beschluss des Landgerichts Düsseldorf vom 21. August 2009 nicht untersagt wurden. Denn wäre der Äußerungskern identisch, wäre zu erwarten gewesen, dass die nunmehr beanstandeten Äußerungen ebenfalls bereits auf seinen Antrag durch den Beschluss des Landgerichts Düsseldorf vom 21. August 2009 untersagt worden wären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(bb) Aus den gleichen Gründen hat der Kläger nicht aufgezeigt, dass die Äußerung persönlichkeitsrechtsverletzende unwahre Tatsachenbehauptungen oder Schmähkritik enthielt. Dabei kann offen bleiben, ob dieser Äußerung der vom Berufungsgericht angenommene Aussageinhalt, dass der Kläger entscheidungserhebliche Umstände trotz entsprechender Kenntnis dem Gericht nicht mitgeteilt habe, zu entnehmen ist. Denn aus dem Vorbringen des Klägers ergab sich für die Beklagte schon nicht offensichtlich und klar erkennbar, dass diese Tatsachenbehauptung unwahr ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(b) Das Vorbringen des Klägers zeigte der Beklagten auch nicht auf, dass die Äußerung "Die Redaktion hat Widerspruch gegen die Verfügung eingelegt" eine unwahre herabsetzende Tatsachenbehauptung enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Insoweit kann ebenfalls offen bleiben, ob der Beurteilung des Berufungsgerichts, wegen der fehlenden Mitteilung, dass eine Abschlusserklärung abgegeben worden und nur ein Kostenwiderspruch eingelegt worden sei, werde dem durchschnittlichen Rezipienten eine andere Bewertung der Rechtfertigung der einstweiligen Verfügung vermittelt, beizutreten ist. Denn die vom Berufungsgericht angenommene Rechtsverletzung in Form der "Unwahrheit [der Äußerung] aufgrund Unvollständigkeit" war für die Beklagte jedenfalls nicht offensichtlich und auf den ersten Blick erkennbar. Der entsprechenden Beurteilung des Berufungsgerichts liegt eine rechtliche Wertung zu Grunde; eine solche kann regelmäßig zu unterschiedlichen noch vertretbar erscheinenden Ergebnissen führen (vgl. dazu Senat, Urteile vom 22. November 2005 - VI ZR 204/04, NJW 2006, 601; vom 25. November 2003 - VI ZR 226/02, NJW 2004, 598; vom 26. Oktober 1999 - VI ZR 322/98, NJW 2000, 656; BVerfG [K], Beschluss vom 19. Februar 2004 - 1 BvR 417/98, NJW 2004, 1942 Rn. 16; Retka AfP 2018, 196). Unabhängig davon ergab sich für die Beklagte aus dem Vorbringen des Klägers jedenfalls nicht zweifelsfrei, dass die von ihm behauptete Tatsachengrundlage zutrifft. Die Angaben in dem verlinkten Bericht ermöglichten der Beklagten schon keine zweifelsfreie Zuordnung zu bestimmten gerichtlichen Verfahren und Entscheidungen. Insbesondere ist aus dem Vorbringen des Klägers nicht der sichere Schluss zu ziehen, dass nicht auch noch weitere Berichte und/oder gerichtliche Verfahren existierten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>(c) Weiter ergab sich für die Beklagte aufgrund des Vorbringens des Klägers nicht, dass von ihm als "kompromittierend" und "persönlichkeitsrechtsverletzend" bezeichnete Äußerungen eindeutige Schmähkritik oder sonst offensichtlich und auf den ersten Blick klar erkennbar unzulässige Meinungsäußerungen waren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Das Verhalten des Klägers darstellende und negativ bewertende Äußerungen ("dass der junge Anwalt [...] bei Beobachtern den Eindruck der Hilflosigkeit hinterlassen habe", "Anwalt [...] hilflos gewesen sei, eine Tatsache, der Beobachter allerdings wohl anhängen könnten", "Dilettantismus", "zu Hinweisen verpflichtet, die in manchen Fällen einem juristischen Nachhilfekurs gleichen", "dilettantischer Unfug", "lernen Jurastudenten spätestens im vierten Semester", "zeugt [...] nicht gerade von geschäftsmäßiger Mandatsausübung") überschreiten die Grenze zulässiger Meinungsäußerungen nicht schon deshalb, weil deren polemische Zuspitzung für die Äußerung sachlicher Kritik nicht erforderlich wäre und die Formulierungen als überzogen oder ausfällig bewertet werden könnten. Persönliche Kränkungen, die das sachliche Anliegen der Äußerungen völlig in den Hintergrund drängen, sind nicht ersichtlich. Im Übrigen muss sich ein Gewerbetreibender oder der Angehörige eines freien Berufs wertende, nicht mit unwahren Tatsachenbehauptungen verbundene Kritik an seiner gewerblichen oder freiberuflichen Leistung in der Regel auch dann gefallen lassen, wenn sie scharf formuliert ist (vgl. Senat, Urteile vom 27. September 2016 - VI ZR 250/13, NJW 2017, 482 Rn. 21; vom 16. Dezember 2014 - VI ZR 39/14, NJW 2015, 773 Rn. 21 mwN; BVerfG [K], Beschluss vom 2. Juli 2013 - 1 BvR 1751/12, NJW 2013, 3021 Rn. 15, 21). Zudem sprach aus Sicht der Beklagten gegen die offensichtliche Unzulässigkeit der Äußerungen, dass diese bereits in dem am 24. Juli 2009 von der B.-Gesellschaft veröffentlichten Bericht enthalten waren und dennoch nicht durch den Beschluss des Landgerichts Düsseldorf vom 21. August 2009 untersagt wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>(d) Für die Beklagte stellte sich der verlinkte Beitrag auch nicht deshalb als offensichtlich rechtsverletzend dar, weil infolge Zeitablaufs jegliches Informationsinteresse weggefallen wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Der Inhalt des vom Kläger beanstandeten Berichts bietet keine Anhaltspunkte für die Annahme, dass ein Interesse entweder an dessen Veröffentlichung oder an dessen Kenntnisnahme offensichtlich nicht mehr besteht. Angesichts der Umstände, dass der Bericht ausschließlich die Berufstätigkeit des Klägers betrifft und der Kläger seinen Beruf nach wie vor ausübt, bestand auch bis zur Entfernung des Beitrags im September 2016 noch ein berechtigtes Informationsinteresse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>b) Dem Kläger steht gegen die Beklagte der von ihm geltend gemachte Unterlassungsanspruch auch nicht nach § 1004 Abs. 1 Satz 2 BGB analog, § 823 Abs. 2 BGB in Verbindung mit § 4, § 29 Abs. 1 Satz 1 Nr. 2, Abs. 2 BDSG a.F. zu. Nach diesen Vorschriften kann der Betroffene die Unterlassung einer unzulässigen Erhebung und Übermittlung von Daten verlangen (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 42 ff.). Eine Unzulässigkeit in diesem Sinne lag im Streitfall nicht vor. Denn bei der danach gebotenen Abwägung der grundrechtlich geschützten Positionen des Klägers einerseits, der Beklagten und ihrer Nutzer andererseits greifen die oben - zur Frage des Unterlassungsanspruchs gemäß § 823 Abs. 1, § 1004 Abs. 1 Satz 2 BGB analog, Art. 2 Abs. 1 in Verbindung mit Art. 1 Abs. 1 GG - angestellten Überlegungen entsprechend Platz. Unter Berücksichtigung der Arbeitsweise und der besonderen Bedeutung der Suchmaschine für die Nutzbarmachung des Internets erfordert das Überwiegen eines schutzwürdigen Interesses der Kläger mithin auch hier einen hinreichend konkreten Hinweis, der dem Suchmaschinenbetreiber eine offensichtliche und bereits auf den ersten Blick klar erkennbare Rechtsverletzung aufzeigt (vgl. Senat, Urteil vom 27. Februar 2018 - VI ZR 489/16, juris Rn. 34, 52). Dies ist im Streitfall - wie oben bereits ausgeführt - nicht der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>2. Die Revision des Klägers ist auch zurückzuweisen, soweit er beantragt, die Erledigung seines Hilfsantrags festzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>a) In zweiter Instanz hat der Kläger beantragt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"hilfsweise für den Fall, dass der Berufung der Beklagten stattgegeben werden sollte, der Beklagten aufzugeben, den Ergebnislink [...], mit dem auf den Web-seiteninhalt [mit dem Bericht] weitergeleitet wird und der die Äußerungen enthält: `(...) Dass das Landgericht die Verfügung dennoch erließ, dürfte sich daraus erklären, dass die Antragsschrift insbesondere die Abläufe nach Ende der Verhandlung unterdrückt hat und dass diese folglich dem Gericht unbekannt geblieben sind.` und/oder `Die Redaktion hat Widerspruch gegen die Verfügung eingelegt. Wir werden an dieser Stelle über den Fortgang der Auseinanderset-zung berichten (...)` - ohne dass auf die Abschlusserklärung vom 27. Juli 2009 (...) und/oder die Entscheidung des Oberlandesgerichts Düsseldorf vom 26. Mai 2010 über den Kostenwiderspruch (...) hingewiesen wird - bei Eingabe des Nachnamens des Klägers aus der Ergebnisliste der Internetsuchmaschine Google zu entfernen und/oder zu sperren, wenn dies geschieht, wie nachstehend eingeblendet: [...]."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>In der Revisionsverhandlung hat der Kläger diesen Hilfsantrag für erledigt erklärt und ihn hilfsweise für den Fall, dass kein erledigendes Ereignis eingetreten ist, aufrechterhalten. Er will damit dem seiner Ansicht nach erledigend wirkenden Umstand Rechnung tragen, dass - wie vom Berufungsgericht festgestellt - der streitgegenständliche Link nur bis September 2016 abrufbar war und in den Suchergebnissen der Beklagten nicht mehr angezeigt wird, weil die Internetseite "www.[...].co.uk" nicht mehr erreichbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>b) Die einseitige Erledigungserklärung bildet eine gemäß § 264 Nr. 2 ZPO privilegierte Klageänderung, mit der von einem Leistungsantrag auf einen Feststellungsantrag übergegangen wird (vgl. BGH, Urteile vom 1. Juni 2017 - VII ZR 277/15, NJW 2017, 3521 Rn. 30; vom 19. Juni 2008 - IX ZR 84/07, NJW 2008, 2580 Rn. 8). Eine solche einseitige (Teil-) Erledigungserklärung ist im Revisionsverfahren jedenfalls dann zulässig, wenn das Ereignis, das die Hauptsache erledigt haben soll, unstreitig ist (vgl. BGH, Urteile vom 1. Juni 2017 - VII ZR 277/15, NJW 2017, 3521 Rn. 30; vom 10. Dezember 2014 - VIII ZR 9/14, NJW-RR 2015, 457 Rn. 34; vom 5. März 2014 - IV ZR 102/13, juris Rn. 12; vom 30. Januar 2014 - I ZR 107/10, MDR 2014, 670 Rn. 13; vom 20. Juli 2012 - V ZR 142/11, MDR 2012, 1105 Rn. 14; vom 27. Oktober 2011 - I ZR 131/10, NJW 2012, 2279 Rn. 17; vom 29. Oktober 2009 - I ZR 168/06, NJW-RR 2010, 1135 Rn. 15; vom 18. Dezember 2003 - I ZR 84/01, NJW 2004, 1665 Rn. 21; vom 5. Mai 1999 - XII ZR 184/97, BGHZ 141, 307, 316; vom 15. März 1996 - V ZR 316/94, NJW 1996, 1814; vom 25. Januar 1996 - VII ZR 26/95, NJW 1996, 1280, 1281; vom 28. Juni 1993 - II ZR 119/92, NJW-RR 1993, 1123, 1124; vom 8. Februar 1989 - IVa ZR 98/87, BGHZ 106, 359, 368). Entsprechendes soll gelten, wenn die hierfür maßgeblichen Tatsachen bereits durch das Instanzgericht festgestellt sind (vgl. MüKo-ZPO/Schulz, 5. Aufl., § 91a Rn. 97; Saenger/Gierl, ZPO 7. Auflage, § 91a Rn. 67; Zöller/Althammer, ZPO 32. Aufl., § 91a Rn. 51; allgemein zur Klageänderung in der Revisionsinstanz Musielak/Voit/Ball, ZPO 15. Aufl., § 559 Rn. 3 f. mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Zu prüfen ist dann, ob die Klage bis zum geltend gemachten erledigenden Ereignis zulässig und begründet war und - wenn das der Fall ist - ob sie durch dieses Ereignis unzulässig oder unbegründet geworden ist. Ein vor Rechtshängigkeit liegendes Ereignis kann die Hauptsache nicht erledigen (vgl. BGH, Urteil vom 17. Juli 2003 - IX ZR 268/02, BGHZ 155, 392, 395 mwN). Sind diese Voraussetzungen erfüllt, ist die Erledigung der Hauptsache festzustellen; anderenfalls ist die Klage abzuweisen oder - wenn die Klage in der Vorinstanz erfolglos war - das Rechtsmittel zurückzuweisen (vgl. BGH, Urteile vom 5. März 2014 - IV ZR 102/13, juris Rn. 12; vom 30. Januar 2014 - I ZR 107/10, MDR 2014, 670 Rn. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>c) Danach ist die Erledigungserklärung zwar zulässig, der Feststellungsantrag jedoch unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>aa) Die maßgeblichen Tatsachen sind durch das Berufungsgericht festgestellt und darüber hinaus in der Revisionsverhandlung unstreitig gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>bb) Es ist keine Erledigung eingetreten. Der erst in der Berufungsverhandlung vom 1. Juni 2017 gestellte Hilfsantrag war von Anfang an unbegründet, da der streitgegenständliche Link nur bis September 2016 abrufbar war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>3. Der für den Fall, dass kein erledigendes eingetretenes Ereignis eingetreten ist, hilfsweise aufrechterhaltene Hilfsantrag hat ebenfalls keinen Erfolg. Der Kläger kann zwar die Hauptsache für erledigt erklären und seinen ursprünglichen Klageantrag hilfsweise für den Fall aufrechterhalten, dass das Gericht ein erledigendes Ereignis verneint (vgl. BGH, Urteile vom 19. November 2014 - VIII ZR 191/13, BGHZ 203, 256 Rn. 22; vom 29. September 1982 - VIII ZR 167/82, WM 1982, 1260 Rn. 3; vom 6. Mai 1965 - II ZR 19/63, NJW 1965, 1597 f.). Der Hilfsantrag ist aber unbegründet, da der streitgegenständliche Link nur bis September 2016 abrufbar war und danach in den Suchergebnissen der Beklagten nicht mehr angezeigt wurde, weil die Internetseite "www.[...].co.uk" nicht mehr erreichbar war. Die Beklagte kann diesen Link somit aus der Ergebnisliste der Internetsuchmaschine Google nicht (mehr) entfernen oder sperren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Galke     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pentz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Offenloch</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Roloff      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Allgayer      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>Berichtigungsbeschluss vom 20. November 2018</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das Urteil vom 24. Juli 2018 wird wegen eines offensichtlichen Schreibversehens dahingehend berichtigt, dass es im Tatbestand auf Seite 5 oben statt "Anwalt [...] erwirkt Einstweilige Verfügung gegen Bericht über seine Mandatsniederlegung" richtig heißt "Anwalt [...] erwirkt Einstweilige Verfügung gegen Bericht über seine Mandatsausübung".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pentz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Offenloch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Roloff</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Müller      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Allgayer      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE302522018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

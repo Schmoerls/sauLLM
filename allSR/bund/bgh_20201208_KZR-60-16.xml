@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301312021</doknr>
+   <ecli>ECLI:DE:BGH:2020:081220UKZR60.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20201208</entsch-datum>
+   <aktenzeichen>KZR 60/16</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 102 AEUV, § 14 AEG vom 28.05.2015</norm>
+   <vorinstanz>vorgehend BGH, 24. Januar 2017, Az: KZR 60/16, Beschluss<br/>vorgehend OLG Düsseldorf, 9. Dezember 2015, Az: VI-U (Kart) 3/15, Urteil<br/>vorgehend LG Düsseldorf, 5. Februar 2015, Az: 14d O 11/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Wettbewerbsbeschränkung durch Eisenbahninfrastrukturunternehmen auf dem Binnenmarkt: Missbrauch einer marktbeherrschenden Stellung durch sprunghafte Preiserhöhung - Stornierungsentgelt II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Stornierungsentgelt II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Eine sprunghafte Preiserhöhung von einigem Gewicht kann ein bedeutsames Indiz für die missbräuchliche Ausnutzung von Handlungsspielräumen des marktbeherrschenden Unternehmens darstellen, die durch Wettbewerb nicht hinreichend kontrolliert sind.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 1. Kartellsenats des Oberlandesgerichts Düsseldorf vom 9. Dezember 2015 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zu neuer Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte, eine Tochtergesellschaft der Deutsche Bahn AG, ist ein Eisenbahninfrastrukturunternehmen. Sie unterhält nahezu das gesamte Eisenbahn-Schienennetz in Deutschland. Die Klägerin, ein Eisenbahnverkehrsunternehmen, nutzt dieses Netz für die Erbringung von Dienstleistungen im Bereich des schienengebundenen Güterverkehrs. Im Mittelpunkt ihrer Tätigkeit stehen internationale Gütertransporte mit Ausgangs- oder Zielort Rotterdam. Die Klägerin verlangt von der Beklagten Rückzahlung von Entgelten, die sie für die Stornierung von Trassenbestellungen an die Klägerin entrichtete.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte schließt mit zugangsberechtigten Unternehmen jeweils Rahmenverträge über die Nutzung der Eisenbahninfrastruktur ab. Diese Infrastrukturnutzungsverträge bilden die Grundlage für die über die jeweiligen Trassennutzungen abzuschließenden Einzelnutzungsverträge. Demgemäß regelt der zwischen der Beklagten, der niederländischen Infrastrukturbetreiberin Railned B.V. und der Klägerin geschlossene "Vertrag über die Nutzung der Nord-Süd-Güterschnellverkehrstrassen" aus dem Jahr 2001 die Grundsätze der Vertragsbeziehungen zwischen den Parteien. Nach Art. 1 Abs. 4, Nr. 7 Abs. 1 Anlage 2a bestimmt sich das von der Klägerin zu entrichtende Entgelt nach den jeweils gültigen, von der Beklagten für jede Netzfahrplanperiode festgelegten Trassen- und Anlagepreislisten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Den Eisenbahnunternehmen gewährt die Beklagte das Recht, bestellte und bereits zugewiesene Trassen vor ihrer Inanspruchnahme zu stornieren. Als Entgelt für eine Stornierung berechnete sie auf Grundlage ihres jeweiligen Trassenpreissystems einen Pauschalbetrag zuzüglich eines prozentualen Anteils des bei Nutzung zu entrichtenden Trassenpreises. Dieser variable Anteil des Stornierungsentgelts war in Abhängigkeit vom Zeitpunkt der Stornierung gestaffelt. Mit der Einführung des Trassenpreissystems 2008 (TPS 08), welches der Bundesnetzagentur gemeinsam mit den Schienennetz-Nutzungsbedingungen (SNB) zur Vorabprüfung mitgeteilt worden war, erhöhte die Beklagte mit Wirkung zum 9. Dezember 2007 den variablen Bestandteil der Stornierungsentgelte in allen Kategorien um 150 Prozent, wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="2" valign="top">
+                        <p style="text-align:left">Stornierungszeitpunkt</p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:left">Stornierungsentgelt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">bis zum 8. Dezember 2007</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">nach TPS 08</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">bis zum 60. Tag<br/>vor Abfahrt</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 €   </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 €   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">bis zum 30. Tag<br/>vor Abfahrt</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 10 %</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 25 %</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">nach dem 30. Tag und<br/>über 24 Stunden<br/>vor Abfahrt</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 20 %</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 50 %</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">unter 24 Stunden<br/>vor Abfahrt</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 40 %</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">80 € zuzüglich 100 %</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Zum Fahrplanwechsel im Dezember 2011 nahm die Beklagte die Erhöhungen zurück.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Klage begehrt die Klägerin die Rückzahlung der aus der Erhöhung der Stornierungsentgelte resultierenden Beträge für die Jahre 2009 bis 2011. Das Landgericht hat die Beklagte antragsgemäß zur Zahlung von 254.258,42 € nebst Zinsen verurteilt. Die Berufung der Beklagten ist ohne Erfolg geblieben. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Beklagte ihr auf Klageabweisung gerichtetes Begehren weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat Erfolg. Sie führt zur Aufhebung des Berufungsurteils (OLG Düsseldorf, Urteil vom 9. Dezember 2015 - VI-U (Kart) 3/15, juris) und zur Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat den von der Klägerin geltend gemachten Anspruch auf anteilige Rückzahlung der geleisteten Stornierungsentgelte zuerkannt und zur Begründung seiner Entscheidung im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Klage sei zulässig. Der Klägerin fehle insbesondere nicht das Rechtsschutzbedürfnis, weil das regulierungsrechtliche Antragsverfahren auf nachträgliche Überprüfung der von der Beklagten erhobenen Entgelte durch die Bundesnetzagentur nach § 14f Abs. 2 AEG in der bis zum 1. September 2016 geltenden Fassung keinen einfacheren Weg darstelle, um ihr Begehren durchzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Klage sei begründet. Der mit der Klage geltend gemachte Anspruch folge aus § 812 Abs. 1 Satz 1 Alternative 1 BGB. Die vertraglich geschuldeten Entgelte seien am Maßstab des § 315 Abs. 3 Satz 1 BGB zu messen. Danach ergebe sich, dass die mit der Einführung des TPS 08 erfolgte Erhöhung der Stornierungsentgelte unbillig und deshalb unverbindlich gewesen sei. Die Beklagte habe ihre Preiskalkulation nicht wie erforderlich offengelegt, um Feststellungen zum Umfang der Weitervermarktung stornierter Trassen und daraus erzielter Umsätze sowie zu den infolge der Stornierungen ersparten Aufwendungen und einem damit verbundenen Verwaltungsmehraufwand zu ermöglichen. Dazu sei sie im Rahmen der ihr obliegenden sekundären Darlegungslast verpflichtet gewesen. Die Billigkeit der erhobenen Stornierungsentgelte sei nicht deshalb zu vermuten, weil die maßgeblichen Schienennetznutzungsbedingungen der Bundesnetzagentur zur Vorabprüfung vorgelegen hätten und diese von ihrem Widerspruchsrecht keinen Gebrauch gemacht habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Der Beklagten stehe kein durch gerichtliche Schätzung zu ermittelndes Mindestentgelt oberhalb des vor Einführung des TPS 08 gültigen Preisniveaus zu, weil sie mit ihrem unzureichenden Vorbringen zugestanden habe, dass die Preiserhöhung insgesamt unbillig gewesen sei. Zudem sei für eine Anpassung keine tragfähige Grundlage ersichtlich. Eine Orientierung an Verbraucherpreisindizes sei nicht sachgerecht, weil unklar geblieben sei, inwieweit die Beklagte von diesen Parametern im streitbefangenen Zeitraum betroffen gewesen sei. Der Anspruch der Klägerin sei schließlich nicht verwirkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Diese Ausführungen halten der rechtlichen Überprüfung in einem entscheidenden Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat allerdings mit Recht angenommen, dass die Klage zulässig ist. Anders als die Revision meint, fehlt der Klägerin nicht das erforderliche Rechtsschutzbedürfnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Einem Rechtsuchenden kann nur unter ganz besonderen Umständen der Zugang zu einer sachlichen Prüfung seines Begehrens durch die Gerichte verwehrt werden. Grundsätzlich hat er einen Anspruch darauf, dass die staatlichen Gerichte sein Anliegen sachlich prüfen und darüber entscheiden (BGH, Urteil vom 28. März 1996 - IX ZR 77/95, NJW 1996, 2035, 2037). Das Erfordernis des Rechtsschutzbedürfnisses soll verhindern, dass Rechtsstreitigkeiten in das Stadium der Begründetheitsprüfung gelangen, für die eine solche Prüfung nicht erforderlich ist (BGH, Urteil vom 21. September 2017 - I ZR 58/16, GRUR 2017, 1236 Rn. 37 - Sicherung der Drittauskunft). Daher fehlt das Rechtsschutzbedürfnis im Allgemeinen dann, wenn eine Klage oder ein Antrag objektiv schlechthin sinnlos ist, wenn also der Kläger oder Antragsteller unter keinen Umständen mit seinem prozessualen Begehren irgendeinen schutzwürdigen Vorteil erlangen kann. Darüber hinaus kann das Rechtsschutzbedürfnis ausnahmsweise dann fehlen, wenn das verfolgte Begehren auf einem einfacheren Weg zu erlangen ist (vgl. BGH, Urteile vom 30. September 2009 - VIII ZR 29/09, NJW-RR 2010, 19 Rn. 20, und vom 24. April 1990 - VI ZR 110/89, BGHZ 111, 168, 171). Auf einen verfahrensmäßig unsicheren Weg darf die betroffene Partei jedoch nicht verwiesen werden (vgl. BGH, NJW-RR 2010, 19 Rn. 20 mwN). Ein schnelleres und billigeres Mittel des Rechtsschutzes lässt das berechtigte Interesse für eine Klage deshalb nur entfallen, sofern es wenigstens vergleichbar sicher oder wirkungsvoll alle Rechtsschutzziele herbeiführen kann (vgl. BGH, Urteil vom 24. Februar 1994 - IX ZR 120/93, NJW 1994, 1351, 1352). Bei Leistungsklagen ergibt sich das allgemeine Rechtsschutzbedürfnis regelmäßig aus der Nichterfüllung des behaupteten materiellen Anspruchs, dessen Bestehen für die Prüfung des Interesses an seiner gerichtlichen Durchsetzung zu unterstellen ist (st. Rspr., vgl. nur BGH, GRUR 2017, 1236 Rn. 37 - Sicherung der Drittauskunft, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Nach diesen Grundsätzen ist ein Rechtsschutzbedürfnis der Klägerin ohne Weiteres gegeben. Rechtsschutzziel der Klägerin ist die Verpflichtung der Beklagten zur Rückzahlung eines Teilbetrags entrichteter Stornierungsentgelte. Dass die Klägerin dieses Rechtsschutzziel überhaupt im Wege der Anrufung der Bundesnetzagentur erreichen könnte, ist nicht ersichtlich. Es ist auch nicht erkennbar, dass der Bundesnetzagentur Befugnisse zustehen, Art. 102 AEUV anzuwenden, über die geltend gemachten zivilrechtlichen Rückforderungsansprüche zu entscheiden oder der Beklagten auf öffentlich-rechtlicher Grundlage entsprechende Rückzahlungsverpflichtungen aufzuerlegen. Zudem ist nicht erkennbar, dass die Vorschriften des Allgemeinen Eisenbahngesetzes einen vergleichbar sicheren und wirkungsvollen Rechtsschutz bereithalten. Nach § 14f Abs. 1 Satz 2 AEG in der bis zum 1. September 2016 geltenden Fassung (im Folgenden: aF) kann die Regulierungsbehörde Bedingungen eines Eisenbahninfrastrukturunternehmens nur mit Wirkung für die Zukunft für ungültig erklären. Demgemäß hat die Bundesnetzagentur Anträge von zugangsberechtigten Eisenbahnverkehrsunternehmen auf nachträgliche Überprüfung von in der Vergangenheit liegenden Entgelten als unzulässig verworfen (vgl. nur BNetzA, Beschluss vom 11. Oktober 2019 - BK10-18-0265 E).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>2. Als rechtsfehlerhaft erweist sich die Annahme des Berufungsgerichts, die von der Beklagten erhobenen Stornierungsentgelte seien am Maßstab der individuellen vertraglichen Billigkeit im Sinne des § 315 Abs. 3 BGB zu überprüfen. Wie der Gerichtshof der Europäischen Union (Urteil vom 9. November 2017 - C-489/15, EuZW 2018, 74 Rn. 70 ff. - CTL Logistics) nach Verkündung des Berufungsurteils ausgesprochen hat, steht die zivilgerichtliche Überprüfung der Stornierungsentgelte am Maßstab des § 315 BGB nicht in Einklang mit den Vorgaben der Richtlinie 2001/14/EG des Europäischen Parlaments und des Rates vom 26. Februar 2001 über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (im Folgenden: Richtlinie 2001/14/EG), insbesondere nicht mit den Vorschriften der Art. 4 Abs. 5 und Art. 30 Abs. 1, 3, 5 und 6 Richtlinie 2001/14/EG, und muss daher, wie sich aus der nachfolgenden Rechtsprechung des Bundesgerichtshofs ergibt (BGH, Urteile vom 29. Oktober 2019 - KZR 39/19, WuW 2020, 209 Rn. 34 - Trassenentgelte, vom 1. September 2020 - KZR 12/15, juris Rn. 13 f. - Stationspreissystem II), unterbleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Nach diesen Grundsätzen kann das Urteil keinen Bestand haben, weil das Berufungsgericht die von der Klägerin beanstandeten Entgelte allein am Maßstab des § 315 BGB geprüft hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>III. Da sich das Urteil des Berufungsgerichts auch nicht aus anderen Gründen als richtig darstellt (§ 561 ZPO), ist es aufzuheben (§ 562 ZPO). Der Senat kann in der Sache nicht selbst entscheiden. Das Berufungsgericht hat - von seinem rechtlichen Standpunkt aus folgerichtig - keine Feststellungen dazu getroffen, ob die Beklagte gegen das Missbrauchsverbot gemäß Art. 102 AEUV verstoßen hat und gegebenenfalls in welcher Höhe die gezahlten Entgelte missbräuchlich überhöht gewesen sind. Der Senat kann diese Feststellungen nicht selbst treffen, weshalb die Sache zu neuer Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen ist (§ 563 Abs. 1 ZPO). Für die wiederzueröffnende Berufungsverhandlung weist der Senat auf Folgendes hin:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Die Vorschrift des Art. 102 AEUV ist im Streitfall anwendbar. Nach ihr ist mit dem Binnenmarkt unvereinbar und verboten die missbräuchliche Ausnutzung einer beherrschenden Stellung auf dem Binnenmarkt oder auf einem wesentlichen Teil desselben durch ein oder mehrere Unternehmen, soweit dies dazu führen kann, den Handel zwischen Mitgliedstaaten zu beeinträchtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Wie der Bundesgerichtshof nach Erlass des angefochtenen Urteils entschieden hat, stehen der Anwendung des Missbrauchsverbots nach Art. 102 AEUV sowie der darauf bezogenen Anspruchsgrundlage des nationalen Rechts weder die Vorgaben der Richtlinie 2001/14/EG noch die Vorschriften des Allgemeinen Eisenbahnrechts entgegen (BGH, WuW 2020, 209, Rn. 18 ff. - Trassenentgelte; Urteil vom 1. September 2020 - KZR 12/15, juris Rn. 19 ff. - Stationspreissystem II mwN; vgl. auch Schweitzer, Gutachten im Auftrag des Landes Sachsen-Anhalt, abrufbar unter https://www.d-kart.de/wp-content/uploads/2020/11/Schweitzer-Gutachten-Trassenentgelte-2020.pdf [abgerufen am 14. Januar 2021]). Die Ausführungen in dem von der Beklagten in Auftrag gegebenen und als Anlage RB 7 vorgelegten Gutachten Körber geben angesichts der Ausführungen in den genannten Senatsurteilen keinen Anlass zu einer abweichenden Beurteilung, zumal sie sich nicht mit der Frage befassen, woraus sich die Umsetzung der vermeintlichen Richtlinienvorgaben in das nationale Recht ergeben sollte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht wird daher im wiedereröffneten Berufungsrechtszug zu prüfen haben, ob die von der Beklagten vollzogene Erhöhung der Stornierungsentgelte missbräuchlich nach Art. 102 AEUV ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>a) Nach dieser Vorschrift kann die Weigerung eines marktbeherrschenden Unternehmens, einem anderen Unternehmen zu angemessenen, nicht-diskriminierenden Bedingungen Zugang zu einer wesentlichen Einrichtung zu gewähren, der für die Ausübung der Tätigkeit des anderen Unternehmens unerlässlich ist, einen Missbrauch einer marktbeherrschenden Stellung darstellen (vgl. EuGH, Urteil vom 26. November 1998 - C-7/97, WRP 1999, 167 Rn. 47 - Oscar Bronner/Mediaprint; zu § 19 GWB vgl. BGH, Beschluss vom 24. September 2002 - KVR 15/01, BGHZ 152, 84 Rn. 35 - Fährhafen Puttgarden I; Beschluss vom 11. Dezember 2012 - KVR 7/12, WuW 2013, 505 Rn. 15 - Fährhafen Puttgarden II). Daraus folgt, dass auch eine - wie im Streitfall - erfolgte Gewährung des Zugangs missbräuchlich sein kann, wenn die geforderten Bedingungen unangemessen oder diskriminierend sind. Darüber hinaus können auch behindernde Wirkungen des Preissetzungsverhaltens in Rechnung zu stellen sein. Insofern ist auf allgemeine Grundsätze zurückzugreifen (vgl. BGH, Urteil vom 1. September 2020 - KZR 12/15, juris Rn. 51 - Stationspreissystem II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>b) Ein Preis ist missbräuchlich überhöht im Sinne des Art. 102 AEUV, wenn der Inhaber einer marktbeherrschenden Stellung die sich daraus ergebenden Möglichkeiten genutzt hat, um geschäftliche Vorteile zu erhalten, die er bei hinreichend wirksamem Wettbewerb nicht erhalten hätte, und daher Preise hat durchsetzen können, die in keinem angemessenen Verhältnis zu dem wirtschaftlichen Wert der erbrachten Leistung stehen (vgl. EuGH, Urteil vom 14. Februar 1978 - Rs. 27/76, Slg. 1978, 207 Rn. 248/257 - United Brands; Urteil vom 11. November 1986 - C-226/84, Slg. 1986, 3263 Rn. 27 - British Leyland; Urteil vom 16. Juli 2009, Rs. C-385/07 P, Slg. 2009 I 6155 Rn. 142 - Duales System Deutschland/Kommission; BGH, Urteil vom 1. September 2020 - KZR 12/15 Rn. 66 - Stationspreissystem II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Ob ein solches Missverhältnis zwischen dem geforderten Preis und dem wirtschaftlichen Wert der angebotenen Leistung besteht, kann im Grundsatz durch einen Vergleich zwischen den tatsächlich entstandenen Kosten und dem tatsächlich verlangten Preis bestimmt werden (EuGH, aaO; Rn. 248/257 - United Brands/Kommission; Urteil vom 14. September 2017 - C-177/16, WuW 2018, 320 Rn. 36 - AKKA/LAA). Die Feststellung, ob die Erhöhung der Stornierungsentgelte missbräuchlich war, kann in Ermangelung anderer geeigneter Vergleichsmaßstäbe einen Vergleich mit Marktergebnissen erfordern, wie sie sich auf dem relevanten Markt in der Vergangenheit oder auch zu nachfolgenden Zeitpunkten ergeben haben. Dies gilt jedenfalls dann, wenn zum einen die in der Vergangenheit praktizierten Preise von den Vertragspartnern als angemessen betrachtet worden sind und sich zum anderen die Abnehmer des marktbeherrschenden Unternehmens sprunghaften und erheblichen Preissteigerungen ausgesetzt sehen. Ebenso wie bei der räumlichen Vergleichsmarktmethode erheblich höhere - einseitig festgesetzte - Entgelte als diejenigen, die in den anderen Mitgliedstaaten gefordert werden, als Indiz für einen Missbrauch der beherrschenden Stellung anzusehen sind (EuGH, Urteil vom 13. Juli 1989 - Slg. 1989, I 2521 Rn. 38 - Tournier; WuW 2017, 547 Rn. 38 - AKKA/LAA), kann eine sprunghafte Preiserhöhung von einigem Gewicht ein bedeutsames Indiz für die missbräuchliche Ausnutzung von Handlungsspielräumen des marktbeherrschenden Unternehmens darstellen, die durch Wettbewerb nicht hinreichend kontrolliert sind. Eine Mindestschwelle für die Erheblichkeit der Preisdifferenz besteht nicht; allerdings muss der Unterschied unter Berücksichtigung der Umstände des Einzelfalls ebenso wie beim räumlichen Vergleichsmarktkonzept von einigem Gewicht sein. Kann eine solche Differenz auf Grundlage eines einheitlichen Vergleichs, der die Unterschiede zwischen den Märkten berücksichtigt, festgestellt werden, so obliegt es dem marktbeherrschenden Unternehmen, gegenläufige Indizien vorzutragen und gegebenenfalls zu beweisen, die den Preisanstieg rechtfertigen (EuGH, WuW 2017, 547 Rn. 57 - AKKA/LAA, mwN, zur Beibringungslast im Verwaltungsverfahren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Vor diesem Hintergrund wird das Berufungsgericht - wie bereits unter dem nicht maßgeblichen Gesichtspunkt des § 315 Abs. 3 BGB - die bis zur Einführung des TPS 08 maßgeblichen Stornierungsentgelte zu berücksichtigen und nach der Rechtfertigung für die erhebliche, von der Klägerin geltend gemachte Preissteigerung infolge der Einführung des neuen Trassenpreissystems zu fragen haben. Dabei wird es Sache der Beklagten sein, die Gründe näher darzulegen, die die festgestellte Preisanhebung auch im Hinblick auf ihre konkrete Höhe objektiv rechtfertigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>aa) Bei der danach erforderlichen umfassenden Beurteilung der in Rede stehenden Preisanhebung sind die unterschiedlichen Funktionen der Stornierungsentgelte zu berücksichtigen (vgl. dazu ausführlich BNetzA, Beschluss vom 6. Februar 2017 - BK10-16-0008 E, S. 138 ff.). Sie dienen nach Art. 12 Richtlinie 2001/14/EG zum einen dazu, eine missbräuchliche Blockade von Kapazitäten zu verhindern, die daraus entstehen kann, dass zugangsberechtigte Eisenbahnverkehrsunternehmen ungeachtet ihres absehbaren Bedarfs Schienenfahrwege "auf Vorrat" buchen. Neben dieser, die Nachfrage steuernden Funktion reflektieren Stornierungsentgelte, soweit sie in Abhängigkeit vom vertraglich zu entrichtenden Entgelt berechnet werden, den zivilrechtlichen Erfüllungsschaden, der der Beklagten aufgrund der Ausübung des den Zugangsberechtigten eingeräumten Rechts zur Stornierung von bereits gebuchten Trassen entsteht. Die von der Beklagten angesetzten prozentualen Anteile pauschalieren diesen Erfüllungsschaden, wobei der Prozentsatz umso höher ausfällt, je kürzer der Zeitraum zwischen der Stornierung und dem Datum der gebuchten Fahrt ist. Dass mit der Erhebung von Stornierungsentgelten etwaige durch die Stornierung verursachte Kosten gedeckt werden sollen, ist hingegen nicht ersichtlich; dem entspricht es, dass die Beklagte gegenüber der Bundesnetzagentur zum Ausdruck gebracht hat, dass sie mit diesen Entgelten nicht die Handlung der Stornierung bepreisen wolle (vgl. BNetzA, Beschluss vom 6. Februar 2017 - BK10-16-0008<span style="text-decoration:underline"> </span>E, S. 139).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>bb) Angesichts dessen wird eine gravierende Preissteigerung bei den Stornierungsentgelten im Ausgangspunkt - auch unter Berücksichtigung der sektorspezifischen Entgeltgrundsätze - allenfalls dann gerechtfertigt sein, wenn die Beklagte nachvollziehbar darlegt, dass die Stornierungsentgelte aufgrund ihrer Höhe in der Vergangenheit ihre marktlenkende Anreizwirkung in ganz erheblichem Maße verfehlt haben oder sich das Verhältnis von pauschalierender Berechnung des Erfüllungsschadens zu den tatsächlich ausgefallenen Deckungsbeiträgen ebenso erheblich zum Nachteil der Beklagten verändert hat. Ungeachtet dessen wird entscheidend in Rechnung zu stellen sein, dass ein Marktteilnehmer bei hinreichend wirksamem Wettbewerb - will er nicht die Abwanderung von Kunden in Kauf nehmen - nicht ohne Weiteres eine Preisanpassung wird vornehmen können, die einen gravierenden und sprunghaften Preisanstieg für seine Kunden nach sich zieht (BGH, Urteil vom 1. September 2020 - KZR 12/15, juris Rn. 69 - Stationspreissystem II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(1) Konkrete und nachvollziehbare Angaben der Beklagten zur Kalkulation der - gravierenden - Erhöhungsbeträge sind bislang nicht erkennbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(a) Die Beklagte hat sich zur Begründung für die Anhebung der Stornierungsentgelte im Wesentlichen auf den Hinweis beschränkt, dass die Bundesnetzagentur der Anhebung nicht formal widersprochen habe. Im Übrigen macht sie geltend, dass die Stornierungsentgelte in der Vergangenheit ihre lenkende Funktion nicht erfüllt hätten. Dies habe sich an einer stetigen Zunahme von Trassenstornierungen ablesen lassen, die nach Erhöhung der Trassenpreise signifikant gesunken und nach Rücknahme der Erhöhung wiederum gestiegen seien. Im Hinblick auf die schadensausgleichende Funktion der Stornierungsentgelte hebt die Beklagte lediglich hervor, dass sie durch die Stornierungsentgelte nur einen geringen Teil der erwarteten Einnahmen kompensieren könne, der durch die Stornierung der gebuchten Trassen entfalle. Dieser Anteil entspreche den Anforderungen, die § 309 Nr. 5 Buchst. a BGB an Pauschalierungsklauseln stelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(b) Der bloße Verweis auf eine bessere Anreizwirkung vermag die konkreten Erhöhungsbeträge und die gewählten Zeitfenster nicht zureichend zu erklären, weil praktisch jeder Erhöhung von Stornierungsentgelten eine zusätzliche Anreizwirkung zukommt. Auch der Verweis auf die durch die Stornierungen entstehenden Deckungslücken kann den starken Anstieg der Stornierungsentgelte nur unzureichend erklären. Dabei ist zu berücksichtigen, dass die Beklagte die Erhöhung der Stornierungsentgelte mit dem Fahrplanjahr 2011 zurückgenommen und zudem die Stornierungsentgelte in der Folge einer grundlegenden Überarbeitung unterzogen hat. Zwar hat die Beklagte die auf den ursprünglichen Trassenpreis bezogenen variablen Bestandteil erhöht, allerdings die Basis für die Berechnung deutlich zugunsten der Zugangsberechtigten verändert. Danach ist bei einer Stornierung bis 30 Tage vor der gebuchten Abfahrt nur das Mindeststornierungsentgelt, zwischen 30 Tagen und fünf Tagen das Mindestentgelt zuzüglich 15 Prozent des Trassenpreises und bei einer Stornierung zwischen vier Tagen und 24 Stunden vor geplanter Abfahrt das Mindestentgelt zuzüglich eines Aufschlags von 30 Prozent des Trassenpreises zu zahlen. Erfolgt die Stornierung weniger als 24 Stunden vor der geplanten Abfahrt, wird neben dem Mindestentgelt ein Aufschlag von 80 Prozent des Trassenpreises fällig. Daraus folgt, dass gegenüber den Entgelten, die vor der in Rede stehenden Trassenpreiserhöhung sowie nach deren Rücknahme zu zahlen waren, infolge der Überarbeitung das Stornierungsentgelt bei Abbestellungen im Zeitraum zwischen 30 und 24 Stunden vor der geplanten Abfahrt nochmals günstiger und nur im Zeitfenster von weniger als 24 Stunden teurer geworden ist. Wie die Beklagte im Verfahren 18 K 3157/17 vor dem Verwaltungsgericht Köln geltend gemacht hat, basiert die Festlegung der neuen Zeitfenster und der Entgelthöhen auf einem Dialog mit den Zugangsberechtigten. Daraus habe sich ergeben, dass die Zugangsberechtigten in der Regel eine Woche vor geplanter Abfahrt wüssten, ob ein Verkehr durchgeführt werden könne (vgl. Verwaltungsgericht Köln, Urteil vom 3. November 2020 - 18 K 3157/17, S. 45, vorgelegt als Anlage RB 9). Diese Regelung hat die Bundesnetzagentur wiederholt - 2017/2018 - und ohne Beanstandungen genehmigt (vgl. BNetzA, Beschluss vom 6. Februar 2017 - BK10-16-0008 E, S. 135 ff.; Beschluss vom 19. November 2019 - BK10-19-0178 E, S. 124 ff.). Die aufgezeigten, nicht unerheblichen Schwankungen im Preissetzungsverhalten der Beklagten lassen nur in begrenztem Umfang, jedenfalls nicht ohne Weiteres, auf eine stringente Rationalität der beanstandeten Preiserhöhung schließen und legen den Schluss nahe, dass die sprunghafte Erhöhung der Stornierungsentgelte Ausdruck der Ausnutzung vom Wettbewerb nicht hinreichend kontrollierten Preissetzungsspielräume der Beklagten ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(2) In diesem Zusammenhang wird das Berufungsgericht im wiedereröffneten Berufungsverfahren dem Umstand, dass die Bundesnetzagentur im Rahmen der Vorabprüfung der in Rede stehenden Entgelte nach § 14e AEG aF keinen Widerspruch erhoben hat, eine indizielle Bedeutung für die Angemessenheit der geforderten Stornierungsentgelte nicht beimessen müssen. Die Erwägungen des Berufungsgerichts lassen - entgegen der Auffassung der Revision - keinen Rechtsfehler erkennen. Im Gegenteil wird das Berufungsgericht zu berücksichtigen haben, dass die Bundesnetzagentur erhebliche Bedenken hinsichtlich der Übereinstimmung der einschlägigen Entgeltregelung der SNB 08 unter Einschluss der Regelung über die Stornierungsentgelte angemeldet hat (vgl. Beschluss vom 20. November 2011 - 7S3-06-054, S. 70 ff.). Die Bundesnetzagentur hat dies in der mündlichen Verhandlung vor dem Senat dahingehend verdeutlicht, dass die zuständige Beschlussabteilung eine förmliche Beanstandung der erhöhten Stornierungsentgelte bereits vorbereitet hatte, diese Beanstandung aber wegen der Rücknahme der Erhöhung seitens der Beklagten gegenstandslos geworden sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(3) Angesichts dessen wird es auf die Frage, inwieweit die Beklagte durch "Weitervermarktung" der durch die Stornierung frei gewordenen Kapazitäten die ausgefallenen Deckungsbeiträge zumindest teilweise wieder erwirtschaften kann, nicht mehr entscheidend ankommen. Soweit das Berufungsgericht gleichwohl etwaigen "Weitervermarktungserlösen" Bedeutung beimessen sollte, ist zu beachten, dass eine Widersprüchlichkeit des Vorbringens es dem Gericht nicht erlaubt, von einer Beweisaufnahme abzusehen. Eine Partei ist nicht gehindert, ihr Vorbringen im Laufe des Rechtsstreits zu ändern, insbesondere zu präzisieren, zu ergänzen oder zu berichtigen. Dabei entstehende Widersprüchlichkeiten im Parteivortrag können allenfalls im Rahmen der Beweiswürdigung Beachtung finden. Die Nichtberücksichtigung eines erheblichen Beweisangebots wegen vermeintlicher Widersprüche im Vortrag der beweisbelasteten Partei liefe auf eine prozessual unzulässige vorweggenommene tatrichterliche Beweiswürdigung hinaus (BGH, Beschluss vom 10. November 2016 - I ZR 235/15, WuM 2017, 48 Rn. 15; Urteil vom 21. Juni 2018 - IX ZR 129/17, juris Rn. 21). Diese Grundsätze gelten erst recht für den Fall, dass sich Widersprüche zwischen dem Vorbringen einer Partei in unterschiedlichen Rechtstreitigkeiten ergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Für den Fall, dass sich das Vorbringen der Beklagten, wonach sie mit der Neubelegung von durch Stornierungen frei gewordener Trassen oder Trassenteile keine zusätzlichen Erlöse generiere, die sie ohne die Stornierung nicht erziele, sondern "nur" die Qualität der Netznutzung verbessere, als zutreffend erweisen sollte, könnte ihr nicht vorgehalten werden, sie habe mit den Stornierungsentgelten zu Lasten der stornierenden Zugangsberechtigten unbillige Mehrerlöse erzielt. Auch die Bundesnetzagentur geht davon aus, dass die Beklagte praktisch die gesamte Nachfrage nach Trassennutzung bedienen kann und es typischerweise nicht zu Ablehnungen kommt (vgl. BNetzA, Beschluss vom 6. Februar 2020 - BK10-16-0008 E, S. 139). Dies zugrunde gelegt, würde es - wie die Revision zu Recht geltend macht - an einer Kausalität zwischen Stornierung und vermeintlichen "Weitervermarktungserlösen" fehlen (vgl. BGH, Urteil vom 3. November 2015 - X ZR 122/13, NJW 2016, 1508 Rn. 19 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>d) Neben den Wirkungen missbräuchlicher Entgelte, die dem Ausbeutungstatbestand zuzuordnen sind, kann ein Preisverhalten auch darauf gerichtet sein, den Wettbewerb zu behindern. Das Berufungsgericht kann gegebenenfalls, ohne dass es nach dem Vorstehenden darauf weiter ankommen muss, in den Blick nehmen, ob die Anhebung der Stornierungsentgelte behindernde Wirkungen entfaltet und daher aus diesem Grund missbräuchlich im Sinne des Art. 102 AEUV ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>aa) Dabei wird zu berücksichtigen sein, dass insbesondere vertikal integrierte Unternehmen, die auf dem Markt für ein Vorleistungsprodukt über eine marktbeherrschende Stellung verfügen und die zudem auf dem nachgelagerten Endkundenmarkt tätig sind, eine besondere Verantwortung für die Sicherung eines unverfälschten Wettbewerbs auf den nachgelagerten und anderen benachbarten Märkten tragen (EuGH, Urteil vom 6. März 1974, verb. Rs. 6/73 und 7/73, Slg. 1974, 223 Rn. 22, 25 - Commercial Solvents; Urteil vom 14. November 1996, Rs. C-333/94 P, Slg. 1996, I-5951 Rn. 24 ff. - Tetra Pak II; näher dazu Mestmäcker/Schweitzer, Europäisches Wettbewerbsrecht, 3. Aufl., § 19 Rn. 35 ff.). Insofern ist es ihnen verwehrt, die auf dem Vorleistungsmarkt bestehende Marktmacht auf die benachbarten Märkte zu übertragen, indem sie Bedingungen auf dem Vorleistungsmarkt formulieren, die sich im Ergebnis als Begünstigung der eigenen oder der Tätigkeit von verbundenen Unternehmen auf dem nachgelagerten Markt auswirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Als missbräuchlich sind danach insbesondere solche Verhaltensweisen zu beurteilen, die darauf gerichtet sind, die Margen des auf dem nachgelagerten Markt tätigen Unternehmens so zu beschneiden, dass es ihm langfristig nicht mehr oder nur unter erschwerten Bedingungen möglich ist, seine Dienstleistungen auf dem nachgelagerten Markt rentabel anzubieten ("Kosten-Preis-Schere", vgl. zum Telekommunikationssektor EuGH, Urteil vom 14. Oktober 2010, C-280/08 P, WuW 2010, 1291 Rn. 177 f., 253 - Deutsche Telekom; Urteil vom 17. Februar 2011, C-52/09, EuZW 2011, 339 Rn. 39 ff., 69 ff. - TeliaSonera Sverige; vgl. zum Eisenbahnsektor: Monopolkommission, 7. Sektorgutachten "Mehr Qualität und Wettbewerb auf der Schiene" Rn. 171). Die mit einem derartigen Preissetzungsverhalten einhergehende Margenbeschneidung kann angesichts ihrer möglichen Verdrängungswirkung gegenüber Wettbewerbern des marktbeherrschenden und vertikal integrierten Unternehmens bereits für sich allein einen Missbrauch im Sinne von Art. 102 AEUV darstellen, wenn für das Preisverhalten eine sachliche Rechtfertigung nicht gegeben ist; dies gilt insbesondere dann, wenn der Zugang zum Vorleistungsprodukt für das Angebot der Dienstleistung auf dem nachgelagerten Markt - wie hier - unentbehrlich ist (vgl. EuGH, WuW 2010, 1291 Rn. 183 - Deutsche Telekom; EuZW 2011, 339 Rn. 31, 69 ff. - TeliaSonera Sverige).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Es bedarf insofern keines Nachweises, dass die Stornierungsentgelte missbräuchlich überhöht gewesen sind. Voraussetzung ist vielmehr die Feststellung, dass dieses Preissetzungsverhalten eine wettbewerbswidrige Wirkung auf dem nachgelagerten Markt erkennen lässt. Dafür genügt der Nachweis einer potenziell wettbewerbswidrigen Wirkung, durch die zumindest ebenso effiziente Wettbewerber wie das beherrschende Unternehmen verdrängt werden könnten (vgl. EuGH, EuZW 2011, 339 Rn. 64 - TeliaSonera Sverige). Bei einer positiven Differenz zwischen den Vorleistungspreisen und den Endkundenpreisen ist - anders als bei einer negativen Differenz - nachzuweisen, dass das Preissetzungsverhalten der Beklagten anderen Eisenbahnverkehrsunternehmen die Ausübung ihrer Tätigkeit auf dem nachgelagerten Markt, z.B. aufgrund einer geringeren Rentabilität, zumindest erschweren konnte (vgl. EuGH, EuZW 2011, 339 Rn. 73 f. - TeliaSonera Sverige). Die Feststellung einer wettbewerbswidrigen Wirkung erfordert dabei eine umfassende Interessensabwägung unter Berücksichtigung sämtlicher Umstände des Einzelfalls.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>bb) Vor diesem Hintergrund wird sich das Berufungsgericht mit dem Vorbringen der Klägerin auseinanderzusetzen haben, durch die erhöhten Stornierungsentgelte werde der Endkundenwettbewerb erheblich zu Lasten der Klägerin und anderer mittelständischer Bahnen und zugunsten der mit der Beklagten verbundenen DB Schenker Rail Deutschland AG verzerrt, weil die Privatbahnen - die im Gegensatz zu der im jährlichen Regelverkehr operierenden DB Schenker aufgrund der Kurzfristigkeit der Disposition überwiegend Trassen im Spot- und Gelegenheitsverkehr im Rahmen der neben dem Regelverkehr bestehenden Restkapazitäten nutzen - wegen der Art und Weise der Berechnung der Stornierungsentgelte ungleich höher durch die Stornierung von Gelegenheitsverkehren belastet würden als DB Schenker durch die Stornierung von Regeltrassen. Darüber hinaus bevorzuge die Beklagte DB Schenker dadurch, dass sie für Stornierungen von Bedarfstrassen, die typischerweise von den Privatbahnen nicht nachgefragt würden, sehr viel geringere Entgelte verlange. Schließlich wirkten sich die Stornierungsentgelte auf die Wettbewerber der DB Schenker deswegen besonders nachteilig aus, weil diese ein deutlich geringeres Transportvolumen beförderten als DB Schenker. Aufgrund des großen Transportaufkommens sei es DB Schenker in der Regel möglich, die Trassen von kurzfristig stornierten Transportaufträgen für andere Aufträge einzusetzen, so dass keine Stornierungen erfolgen müssten. Diese Benachteiligung wirke sich auf die Wettbewerbsfähigkeit der Privatbahnen auf dem Endkundenmarkt aus. Die Margen für einen Transportauftrag betrügen durchschnittlich nur zwischen zwei bis drei Prozent, die Erhöhung der Stornierungsentgelte habe durchschnittlich zu einer Verteuerung der Gesamtkosten um 0,5 Prozent geführt, wobei die Trassenkosten 20 Prozent der Gesamtkosten der Dienstleistung ausmachten. Diese höheren Kosten könne sie aufgrund des intensiven Preiswettbewerbs auf dem Endkundenmarkt nicht an ihre Auftragnehmer weitergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>e) Die genannten Maßstäbe stehen nicht in Widerspruch zu den Wertungen des sektorspezifischen Regulierungsrechts, die im Rahmen der kartellrechtlichen Prüfung zu berücksichtigen sind (BGH, WuW 2020, 209 Rn. 44 - Trassenentgelte; Urteil vom 1. September 2020 - KZR 12/15, juris Rn. 26 - Stationspreissystem II). Nach § 14 Abs. 4 Satz 1 AEG aF sind die Entgelte für die Nutzung der Eisenbahninfrastruktur so zu bemessen, dass die dem Eisenbahninfrastrukturunternehmen für die Erbringung der Pflichtleistungen nach Absatz 1 der Norm insgesamt entstehenden Kosten zuzüglich einer marktüblichen Rendite ausgeglichen werden. Darüber hinaus ist zu berücksichtigen, dass es Ziel der eisenbahnrechtlichen Regulierung ist, einen effizienten Infrastrukturbetrieb zu fördern und Anreize für eine effiziente Nutzung der Fahrwegkapazität zu schaffen (vgl. Erwägungsgründe 5, 11 ff., 16, 25 Richtlinie 2001/14/EG; EuGH, EuZW 2018, 75 Rn. 36 ff., 52 - CTL Logistics GmbH). Daher gestattet es Art. 12 Satz 1 Richtlinie 2001/14/EG Infrastrukturunternehmen, ein angemessenes Entgelt für Fahrwegkapazität zu erheben, die beantragt, aber nicht in Anspruch genommen wurde. Demgemäß sah § 21 Abs. 1 der bis zum 31. August 2016 geltenden Eisenbahninfrastruktur-Benutzungsverordnung (EIBV) vor, dass der Betreiber der Schienenwege seine Entgelte für die Pflichtleistungen so zu gestalten hat, dass sie durch leistungsabhängige Bestandteile den Eisenbahnverkehrsunternehmen und den Betreibern der Schienenwege Anreize zur Verringerung von Störungen und zur Erhöhung der Leistungsfähigkeit des Schienennetzes bieten. Nach § 21 Abs. 2, 3 EIBV konnte das Wegeentgelt einen Bestandteil enthalten, der den Kosten umweltbezogener Auswirkungen des Zugbetriebs und der Knappheit der Schienenwegkapazität Rechnung trägt (BGH, Urteil vom 18. Oktober 2011 - KZR 18/10, WuW/E DE-R 3417, juris Rn. 16 - Stornierungsentgelt). Allerdings genügt nicht jedes Entgelt, das eine Anreizwirkung im vorgenannten Sinn erfüllt, den eisenbahnrechtlichen Vorgaben. Vielmehr muss es - insbesondere der Höhe nach - angemessen sein, wie sich unmittelbar aus Art. 12 Satz 1 Richtlinie 2001/14/EG ergibt (vgl. Schlussanträge Generalanwalt Mengozzi, Rs. C-489/15, juris Rn. 46 - CTL Logistics GmbH; vgl. auch BNetzA, Beschluss vom 6. Februar 2017 - BK10-16-0008 E, S. 136; Regierungsbegründung BT-Drucks. 18/8334, S. 202, jeweils zu § 40 ERegG). Schließlich muss die Anwendung der Entgeltregelung gemäß Art. 4 Abs. 5 Richtlinie 2001/14/EG zu gleichwertigen und nichtdiskriminierenden Entgelten für unterschiedliche Eisenbahnunternehmen führen, die Dienste gleichwertiger Art in ähnlichen Teilen des Marktes erbringen, wobei die Entgeltregelungen nach Erwägungsgrund 35 der Richtlinie widerspruchsfreie "Signale" geben sollen, um den Eisenbahnunternehmen rationale Entscheidungen zu ermöglichen. Dem entspricht das eisenbahnrechtliche Diskriminierungsverbot des § 14 Abs. 1 Satz 1 AEG aF.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>3. Das Berufungsgericht wird gegebenenfalls zu prüfen haben, ob und in welcher Höhe die Beklagte aufgrund der Zahlung der in Rede stehenden Erhöhungsbeträge auf Kosten der Klägerin ungerechtfertigt bereichert oder die Klägerin von einem ihr entstandenen Schaden entlastet worden ist. Die Beklagte hat eingewandt, die Klägerin habe erhöhte Kosten an ihre Auftraggeber weiterreichen können. Dem ist die Klägerin entgegengetreten. Dem Einwand der Vorteilsausgleichung durch Abwälzung von missbräuchlich überhöhten Stornierungsentgelten an die nachgelagerte Marktstufe wird der Beklagten aus Rechtsgründen nicht ohne Weiteres versagt werden können (vgl. dazu BGH, Urteil vom 23. September 2020 - KZR 4/19, WuW 2021, 37 Rn. 35 ff. - Schienenkartell V, mwN). Dies gilt auch für den bereicherungsrechtlichen Anspruch, jedenfalls soweit die Bereicherung ausschließlich auf einen Verstoß gegen kartellrechtliche Vorschriften gestützt wird (anders bei gegebener Anspruchskonkurrenz mit bereicherungsrechtlichen Ansprüchen im Zusammenhang mit einer unwirksamen Preisbestimmung nach § 315 Abs. 3 BGB: BGH, Urteil vom 22. Juli 2014 - KZR 27/13, WuW 2014, 984, 990 f. - Stromnetznutzungsentgelt VI).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Berg     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Tolkmitt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Linder     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301312021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

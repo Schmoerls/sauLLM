@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE311092013</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130409</entsch-datum>
+   <aktenzeichen>X ZR 130/11</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 138 Abs 1 Buchst c EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 12. Mai 2011, Az: 2 Ni 32/09 (EU)<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Offenbarungsgehalt einer Patentanmeldung; Vorliegen einer unzulässigen Erweiterung - Verschlüsselungsverfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Verschlüsselungsverfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Allein aus dem Umstand, dass aus technischer Sicht der Anwendung eines in der Patentanmeldung offenbarten Verfahrens (hier: Verschlüsselungsverfahrens) zeitlich nachgeordnet ein weiteres Verfahren (hier: Entschlüsselungsverfahren) folgen muss, um insgesamt ein technisch und wirtschaftlich sinnvolles Ergebnis zu erreichen, kann in der Regel nicht gefolgert werden, dass das weitere Verfahren auch ohne erwähnt zu werden als zu der zum Patent angemeldeten Erfindung gehörend offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Dies gilt auch dann, wenn dem Fachmann mit der Beschreibung des ersten Verfahrens alle Informationen an die Hand gegeben werden, die er benötigt, um mit Hilfe seines Fachwissens auch das weitere Verfahren auszuführen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 12. Mai 2011 verkündete Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 033 703 (Streitpatents), das am 29. November 1994 angemeldet wurde und auf die europäische Stammanmeldung 0 655 739 (veröffentlicht als EP 0 655 739 A2, Anlage K3) zurückgeht. Das Streitpatent nimmt eine japanische Priorität vom 30. November 1993 in Anspruch. Es betrifft ein Verfahren und eine Vorrichtung zur Aufzeichnung von Informationssignalen und umfasst zehn Ansprüche, die bis auf die Ansprüche 3 und 8 einander nebengeordnet sind. Die Patentansprüche 1 bis 3 und 6 bis 8 betreffen das Verfahren, die Patentansprüche 4 und 5, 9 und 10 betreffen Vorrichtungen. Die Patentansprüche 1 und 10 lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A method of recording and reproducing information signals of binary digital signal train using an information signal recording medium formed with circular information signal tracks divided into a plurality of sectors each having a sector address by scrambling and de-scrambling the information signals with scrambling signals having cyclic codes, the method comprising the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">generating a plurality of initial values according to the sector addresses;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">generating a scrambling signal based on each generated initial value; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">scrambling the information signals, and, in the case of reproduction, de-scrambling scrambled information signals read from said recording medium, in each sector with one of said generated scrambling signals, each said scrambling signal being used for a predetermined plurality of sequential sectors,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein a starting point in said cyclic codes of the scrambling signal used for the signals in each said predetermined plurality of sequential sectors is offset by a predetermined offset value from the starting point of the scrambling signal used for the signals in the immediately preceding predetermined plurality of sequential sectors, sectors in adjacent portions of said signal tracks being scrambled using different scrambling signals.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">10. Apparatus for reproducing original information signals by de-scrambling scrambled information signals of binary digital signal train read from an information signal recording medium formed with circular information signal tracks divided into a plurality of sectors having sector addresses, the apparatus comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means for generating a first initial value based on the sector address, the first initial value being used over first sequential sectors of a predetermined number of sectors;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means for generating a second initial value based on the sector address, the second initial value being used over second sequential sectors of a predetermined number of sectors;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means for generating a first scrambling signal based on the first initial value;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means for generating a second scrambling signal based on the second initial value;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means for de-scrambling the information signals per sector with repeated use of the first scrambling signal that starts at the first initial value with respect to each sector of the first sequential sectors and with repeated use of the second scrambling signal that starts at the second initial value with respect to each sector of the second sequential sectors;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein a starting point of the second scrambling signal corresponding to the second initial value is offset by a predetermined offset value from another starting point of the first scrambling signal corresponding to the first initial value."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der Stammanmeldung hinaus. Darüber hinaus beruhe der Gegenstand des Patentanspruchs 10 nicht auf erfinderischer Tätigkeit. Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen wendet sich die Beklagte mit der Berufung, mit der sie weiterhin die Klageabweisung erstrebt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren und eine Vorrichtung zur Aufnahme und zur Wiedergabe von Informationssignalen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Patentbeschreibung werden digitale Signale durch die Bildung von konkaven und konvexen Stellen, also von Vertiefungen und Erhöhungen, entlang kreisförmiger Spuren auf eine optische Datenträgerscheibe, wie eine Compact Disc (CD), als Aufzeichnungsträger aufgenommen. Das Auslesen der Informationssignale erfolgt mittels eines Lasers, indem die Intensität dieses Lichtstrahls, der von den Vertiefungen und Erhöhungen reflektiert wird, analysiert wird. Dabei ist die Rotationsgeschwindigkeit der CD als Aufzeichnungsträger so geregelt, dass entweder die lineare Abtastgeschwindigkeit (CLV = Constant Linear Velocity) oder die Winkelgeschwindigkeit (CAV = Constant Angular Velocity) konstant ist. Im Fall konstanter Winkelgeschwindigkeit enthalten außen- und innenliegende Spuren die gleiche Anzahl Sektoren, deren Anfänge auch auf gleichen radialen Linien liegen. Ist hingegen die lineare Abtastgeschwindigkeit konstant, passen auf außenliegende Spuren mehr Sektoren als auf innenliegende Spuren, so dass auch die Sektoranfänge in der Regel auf unterschiedlichen radialen Linien liegen. Dabei kann es vorkommen, dass die Sektoranfänge benachbarter Spuren auf der gleichen radialen Linie liegen, was Lesefehler verursachen kann. Um dies zu verhindern, werden die Daten vor der Aufnahme mittels mathematischer Algorithmen verschlüsselt. Mit zunehmender Speicherkapazität der Aufzeichnungsträger erhöht sich jedoch auch die Wahrscheinlichkeit dafür, dass benachbarte Sektoranfänge nicht nur auf der gleichen radialen Linie liegen, sondern auch die gleiche Information beinhalten. Werden die aufzunehmenden Informationssignale in einem solchen Fall mit üblichen Methoden verschlüsselt, führt dies zu einer Verschlechterung des Signal/Rauschverhältnisses (Patentbeschreibung Abs. 2 bis 16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>2. Dem Streitpatent liegt demnach das technische Problem zugrunde, die Spursteuerung stabil zu halten (Abs. 16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>3. Dieses Problem soll durch die nebengeordneten Verfahrensansprüche 1, 2, 6 und 7 sowie die nebengeordneten Vorrichtungsansprüche 4, 5, 9 und 10 gelöst werden. Patentanspruch 1, der ein Verfahren zur Aufnahme (<em>recording</em>) und zur Wiedergabe (<em>reproducing</em>) von Informationssignalen einer binären digitalen Signalstrecke zum Gegenstand hat, lässt sich in folgende Merkmale gliedern (Gliederungspunkte des Patentgerichts in eckigen Klammern):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Bei dem Verfahren [1.2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 wird ein Informationssignalaufnahmemedium verwendet, das</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.1.1 aus kreisförmigen Informationssignalspuren aufgebaut und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">1.1.2 in eine Vielzahl von Sektoren mit je einer Sektoradresse eingeteilt ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 findet eine Verschlüsselung und Entschlüsselung der Informationssignale mit Verschlüsselungssignalen, die periodische Codes haben, statt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Das Verfahren umfasst folgende Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 Erzeugung einer Vielzahl von Anfangswerten entsprechend den Sektoradressen [1.3];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 Erzeugung eines Verschlüsselungssignals, basierend auf jedem der erzeugten Anfangswerte [1.4];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3 Verschlüsselung der Informationssignale in jedem Sektor mit einem der erzeugten genannten Verschlüsselungssignale, wobei jedes Verschlüsselungssignal für eine vorbestimmte Vielzahl aufeinanderfolgender Sektoren verwendet wird [1.5 teilweise];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.4 bei der Wiedergabe Entschlüsselung der verschlüsselten Informationssignale, die von dem Aufnahmemedium gelesen werden [1.5 teilweise];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.5 in den periodischen Codes des für die vorbestimmte Zahl aufeinanderfolgender Sektoren verwendeten Verschlüsselungssignals wird ein Startpunkt durch einen vorbestimmten Offset-Wert vom Startpunkt desjenigen Verschlüsselungssignals verschoben, das für die Signale in der unmittelbar vorhergehenden vorbestimmten Zahl aufeinanderfolgender Sektoren verwendet wird [1.6 teilweise];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.6 für Sektoren in benachbarten Teilen der zu verschlüsselnden Signalspuren werden unterschiedliche Verschlüsselungssignale verwendet [1.6 teilweise].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat angenommen, der Gegenstand sämtlicher Ansprüche des Streitpatents in der erteilten und in den erstinstanzlich hilfsweise beanspruchten Fassungen gehe über den Inhalt der Stammanmeldung hinaus. Die Unterlagen der Stammanmeldung offenbarten aus der Sicht des Fachmanns, eines mit der Aufzeichnung von Informationssignalen auf Datenträgern betrauten Diplomphysikers oder Diplomingenieurs der Fachrichtung Elektrotechnik mit Hochschulabschluss und mehrjähriger Berufserfahrung auf dem Gebiet der digitalen Signalverarbeitung, an keiner Stelle unmittelbar und eindeutig, dass Gegenstand der Erfindung auch ein Verfahren oder eine Vorrichtung zur Wiedergabe und Entschlüsselung von Informationssignalen sein solle. Sämtliche nebengeordneten Ansprüche der erteilten Fassung und auch der Hilfsanträge enthielten Merkmale bezüglich der Wiedergabe und der Entschlüsselung von Informationssignalen. Die Stammanmeldung zum Streitpatent offenbare ausschließlich die Verschlüsselung von Informationssignalen und deren Aufnahme auf einen Datenträger. Sämtliche nebengeordneten Ansprüche der erteilten Fassung und auch der Hilfsanträge enthielten indessen die Entschlüsselung und Wiedergabe von Informationssignalen betreffende Merkmale.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Argumentation der Beklagten, der Fachmann entnehme der Stammanmeldung, dass die mit der Erfindung bereitgestellte Lösung bei der Wiedergabe der aufgezeichneten Informationssignale hervortrete, führe zu keinem anderen Ergebnis. Eine Wiedergabe von Informationssignalen, die verschlüsselt aufgenommen worden seien, erfordere zwangsläufig deren Entschlüsselung. Dies komme in den Ansprüchen des Streitpatents dadurch zum Ausdruck, dass gleichzeitig mit der Wiedergabe auch die Entschlüsselung beansprucht werde. Die Stammanmeldung offenbare jedoch an keiner Stelle ein Verfahren zur Entschlüsselung von Informationssignalen, sondern lediglich ein Verfahren zum Verschlüsseln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Auch die Sichtweise der Beklagten, dass sich für den Fachmann aus der Offenbarung des Verschlüsselungsalgorithmus zwangsläufig die symmetrische Entschlüsselung und Wiedergabe gleichsam als Schattenbild der Verschlüsselung und Aufnahme ergebe, könne nicht überzeugen. Das "Mitlesen" des Fachmanns umfasse weder die Einbeziehung von Austauschmitteln noch die Berücksichtigung von Abwandlungen und Weiterentwicklungen der ursprünglich offenbarten Verschlüsselung und Aufnahme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>III. Die hiergegen gerichteten Angriffe der Berufung bleiben ohne Erfolg. Das Patentgericht ist zutreffend davon ausgegangen, dass der Inhalt des Streitpatents in jeder der beanspruchten Fassungen über die Offenbarung der Stammanmeldung (K3) hinausgeht (Art. 138 Abs. 1 Buchst. c EPÜ), indem (auch) die Entschlüsselung erfindungsgemäß verschlüsselter Signale geschützt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Rechtsprechung des Bundesgerichtshofs gehört zum Offenbarungsgehalt einer Patentanmeldung nur das, was den ursprünglich eingereichten Unterlagen unmittelbar und eindeutig als zu der zum Patent angemeldeten Erfindung gehörend zu entnehmen ist, nicht hingegen eine weitergehende Erkenntnis, zu der der Fachmann aufgrund seines allgemeinen Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann. Eine unzulässige Erweiterung liegt vor, wenn der Gegenstand des Patents sich für den Fachmann erst aufgrund eigener, von seinem Fachwissen getragener Überlegungen ergibt, nachdem er die ursprünglichen Unterlagen zur Kenntnis genommen hat (st. Rspr., vgl. BGH, Urteil vom 22. Dezember 2009 - X ZR 27/06, GRUR 2010, 509 - Hubgliedertor I Rn. 39; Urteil vom 8. Juli 2010 - Xa ZR 124/07, GRUR 2010, 910 - Fälschungssicheres Dokument Rn. 62; Urteil vom 16. Dezember 2008 - X ZR 89/07, BGHZ 179, 168 - Olanzapin, zur Offenbarung bei der Neuheitsprüfung). Zu einer unzulässigen Erweiterung führen auch solche Änderungen, durch die der Gegenstand der Anmeldung über den Inhalt der ursprünglich eingereichten Anmeldungsunterlagen hinaus zu einem Aliud abgewandelt wird. Dies ist unter anderem dann der Fall, wenn die Hinzufügung einen technischen Aspekt betrifft, der den ursprünglich eingereichten Unterlagen in seiner konkreten Ausgestaltung oder wenigstens in abstrakter Form nicht als zur Erfindung gehörend zu entnehmen ist (BGH, Beschluss vom 21. Oktober 2010 - Xa ZB 14/09, GRUR 2011, 40 - Winkelmesseinrichtung Rn. 22, zum Einspruchsverfahren; Urteil vom 21. Juni 2011 - X ZR 43/09, GRUR 2011, 1003 - Integrationselement Rn. 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Das Patentgericht hat zutreffend angenommen, dass den Ursprungsunterlagen ein Verfahren oder eine Vorrichtung, mit der erfindungsgemäß verschlüsselte Signale zum Zwecke der Wiedergabe der Information entschlüsselt werden können, nicht unmittelbar und eindeutig als Bestandteil der zum Patent angemeldeten Erfindung zu entnehmen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>a) Die Stammanmeldung offenbart ein Verfahren zur Aufnahme von Informationssignalen auf ein Aufzeichnungsmedium, das aus einer Vielzahl von kreisförmigen Spuren gebildet wird, insbesondere ein Verfahren zur Aufnahme von mit Verschlüsselungssignalen verschlüsselten Informationssignalen (<em>method of recording information signals on an information signal recording medium formed with a plurality of circular tracks, and more specifically to a method of recording information signals scrambled with scrambling signals</em>, vgl. Stammanmeldung K3, S. 2, Z. 5 bis 7). Ein Verfahren zur Wiedergabe und zur Entschlüsselung der aufgenommenen Informationssignale, die vor der Wiedergabe zu erfolgen hätte, ist, wie auch die Beklagte nicht in Abrede stellt, weder der zitierten Einleitung der Beschreibung, noch der Beschreibung der Erfindung und der Ausführungsbeispiele, noch den Patentansprüchen der Stammanmeldung zu entnehmen. Weder ist eine konkrete Ausgestaltung eines derartigen Verfahrens beschrieben, noch ist es in abstrakter Form erwähnt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Auch bei der gebotenen Berücksichtigung des Verständnisses des Fachmanns, eines - wie das Patentgericht unangegriffen festgestellt hat - mit der Aufzeichnung von Informationssignalen auf Datenträger betrauten Diplomphysikers oder Diplomingenieurs der Fachrichtung Elektrotechnik mit Hochschulabschluss und mehrjähriger Berufserfahrung auf dem Gebiet der digitalen Signalverarbeitung, der die Stammanmeldung zur Kenntnis nimmt und ihren Gesamtinhalt mit Hilfe seines Fachwissens erfasst, kann das Wiedergabe- und Entschlüsselungsverfahren nicht als zur Erfindung gehörend "mitgelesen" werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Dem Fachmann ist aufgrund seines Fachwissens bekannt, dass der Verschlüsselung der Signale bei der Wiedergabe der Information eine Entschlüsselung folgen muss. Zu Recht weist die Berufung darauf hin, dass die Stammanmeldung die Wiedergabe ausdrücklich anspricht (<em>Therefore, the recorded data can be reproduced by binarizing the reproduced signals modulated on the basis of the light intensity change along the pit and the land portions, and further demodulated into digital signals</em> [K3 S.2 Z. 25 bis 27]). Richtig ist auch, dass die erfindungsgemäßen Maßnahmen gerade der fehlerfreien Auslegung und Wiedergabe der Information dienen sollen. Es mag schließlich auch zutreffen, dass, wie in dem von der Beklagten vorgelegten Parteigutachten ausgeführt wird, dem Fachmann bekannt ist, dass zur Rekonstruktion der Informationsfolge nach einer Verschlüsselung mittels einer Exklusiv-Oder-Verknüpfung eine Entschlüsselung mittels derselben Methode gegenüberstehen muss, dass also die in den Blockdiagrammen der Figuren 1 und 4 der Stammanmeldung dargestellten Verschlüsselungsmittel ebenso als Entschlüsselungsmittel verwendet werden können oder gar müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dies ändert jedoch nichts daran, dass auch nach dem Verständnis des Fachmanns Verschlüsselung und Entschlüsselung unterschiedliche Vorgänge sind und unterschiedliche Funktionen haben. Wenn ihm daher die erfindungsgemäße Verschlüsselung im Allgemeinen und in den Ausführungsbeispielen beschrieben wird, mag dem Fachmann deren Bedeutung für die Entschlüsselung und Wiedergabe stets bewusst sein. Dessen ungeachtet beschreibt die Stammanmeldung gerade aus fachlicher Sicht ausschließlich diejenigen Maßnahmen, die bei der Aufzeichnung der Daten zu treffen sind, um die angestrebte stabile Spursteuerung zu erzielen; die Stammanmeldung gibt an, was zu tun ist, um die Signale so zu verschlüsseln, dass der erfindungsgemäße Erfolg erzielt wird. Dies ist technisch konsequent, denn die Verschlüsselung bildet die Grundlage des erfindungsgemäßen Erfolges; Art und Weise und Verfahren der Entschlüsselung sind nur die Konsequenz der Befolgung der technischen Anweisungen, die die Stammanmeldung zur Verschlüsselung gibt. Allein der Umstand, dass aus technischer Sicht auf ein bestimmtes Verfahren zeitlich nachgeordnet ein weiteres Verfahren folgen muss, um insgesamt ein technisch (und wirtschaftlich) sinnvolles Ergebnis zu erreichen, besagt jedoch nicht, dass das zweite Verfahren stets - auch ohne erwähnt zu werden - unmittelbar als zum ersten Verfahren gehörend offenbart ist. Der Anmelder hat es vielmehr in der Hand, worauf er sein Patentbegehren richtet. Er kann Ver- und Entschlüsselung gemeinsam oder auch nebeneinander beanspruchen. Er kann aber auch nur ein Verfahren zur Aufnahme von Daten zum Gegenstand der Anmeldung machen. Sonach sind - auch wenn man die Verschlüsselungsschritte zur Entschlüsselung verwenden kann - mit dem im Streitpatent beanspruchten Verfahren zur Wiedergabe und Entschlüsselung von Daten nicht lediglich weitere Merkmale zu dem ursprünglich offenbarten Verfahren zur Aufnahme und Verschlüsselung hinzugefügt worden. Vielmehr wird mit dem Verfahren zur Wiedergabe und Entschlüsselung ein anderes Verfahren, ein Aliud, beansprucht, das von dem ursprünglich offenbarten Erfindungsgegenstand nicht umfasst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c) Bei einem engen technischen Zusammenhang, wie er hier zwischen der erfindungsgemäßen Verschlüsselung und der ihr folgenden Entschlüsselung besteht, kann gegebenenfalls zwar auch ein kurzer Hinweis in der Beschreibung ausreichen, um dem fachmännischen Leser der Anmeldung deutlich zu machen, dass auch der nicht im Einzelnen beschriebene Bereich zu der angemeldeten Erfindung gehören soll. Im Streitfall bietet die Beschreibung für die Einbeziehung der Entschlüsselung in den Gegenstand der angemeldeten Erfindung aber keinerlei Anhalt. Die unter b erwähnte Darstellung der Informationswiedergabe in der Stammanmeldung beschreibt das Auslesen der Daten mittels Laserstrahls im Stand der Technik und damit den Hintergrund der Erfindung. Eine Aussage über den Gegenstand der Erfindung ist ihr nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Beklagten offenbaren auch die Figuren 1 und 4A der Stammanmeldung kein Verfahren zur Wiedergabe von Informationssignalen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte meint, den Figuren 1 und 4A seien als technische Information sowohl eine Vorrichtung und ein Verfahren zur Aufzeichnung als auch eine Vorrichtung und ein Verfahren zur Wiedergabe von Informationssignalen zu entnehmen; diese Information verkörpere die Lösung der in der Beschreibungseinleitung angesprochenen Probleme. Dies trifft nicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Bei den Figuren 1 und 4A handelt es sich um Blockdiagramme, die - wie es ausdrücklich heißt - die Verschlüsselungsmittel (<em>scrambling means</em>) eines ersten und eines zweiten Informationssignalaufnahmeverfahrens gemäß der Erfindung zeigen (K3 S. 3, Z. 34/35, 41/42). Die Beschreibung spricht bei der Erläuterung der Zeichnungen von digitalen Bild- oder Toninformationssignalen, die verschlüsselt und dann auf einem Datenträger aufgenommen werden. Bei beiden Zeichnungen ist nur von "<em>scrambled signals</em>", also verschlüsselten Signalen, die Rede, die von einer "<em>scrambled signal generating section</em>" verschlüsselt und dann auf einer CD aufgezeichnet werden (Fig. 1: S. 3 Z. 56 bis 58; Fig. 4A: S. 5 Z. 6 bis 15). Die Annahme der Beklagten, in der Beschreibung von Figur 4A werde eine Trennung der Informationssignale von den Adressensignalen für erforderlich gehalten, ein solcher Vorgang sei nur bei der Signalwiedergabe erforderlich und in dem betreffenden Beschreibungsteil sei eine Signalwiedergabe erläutert, findet im Beschreibungstext keine Grundlage. Dort wird lediglich erwähnt, dass die Sektoradresssignale durch die Informationssignale (voneinander) getrennt seien (<em>As shown in Fig. 4A, the address of a scrambled signal generating section 50 is designated on the basis of sector address signals S1 separated by the information signals S3</em>). Auch die Privatgutachter nehmen erkennbar nicht an, dass die Figuren 1 und 4A eine Signalwiedergabe erläutern. Sie führen zu diesem Punkt aus: "Für den durchschnittlichen Fachmann ist daher der Beschreibung eindeutig und unmittelbar entnehmbar, dass die dargestellte Einheit in Figur 1 bzw. Figur 4 genauso im Wiedergabegerät verwendet werden muss, wobei das <em>'information Signal S3'</em> das vom Datenträger reproduzierte Signal darstellt und das <em>'signal to be recorded'</em> dann das entwürfelte Signal" (Gutachten S. 11). Die Privatgutachter nehmen danach an, dass bei der Signalwiedergabe eine Einheit, wie sie in den Figuren 1 und 4A der Stammanmeldung gezeigt ist, verwendet werden muss, nicht aber, dass dort eine Wiedergabeeinheit an sich offenbart ist. Auch hier handelt es sich um eine Überlegung, die der Fachmann aufgrund seines Fachwissens treffen mag, die aber nicht die Annahme rechtfertigen kann, in der Beschreibung werde ein Entschlüsselungsverfahren unmittelbar als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>3. Die Berufung kann schließlich das Streitpatent auch im Umfang des Patentanspruchs 10 nicht mit Erfolg mit der Erwägung verteidigen, dieser Anspruch sei auf eine in der Stammanmeldung offenbarte Schaltung gerichtet, die lediglich mit der Zweckangabe versehen sei, dass die mit der beanspruchten Vorrichtung erzeugbaren Signale im Rahmen einer Wiedergabe benutzt werden könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die Berufung leitet dabei nicht die in Patentanspruch 10 bezeichnete Vorrichtung aus der Stammanmeldung ab, sondern meint lediglich, sie sei ebenso offenbart wie die Aufzeichnungsvorrichtung nach Patentanspruch 10 des auf die Stammanmeldung erteilten europäischen Patents 655 739. Diese Argumentation führt nicht zum Erfolg. Patentanspruch 10 ist auf ein Gerät (<em>apparatus</em>) gerichtet, das zur Wiedergabe von entschlüsselten Informationssignalen geeignet ist, die von einem Aufzeichnungsmedium wie einer CD gelesen werden (<em>for reproducing original information signals by de-scrambling scrambled information signals of binary digital signal train read from an information signal recording medium formed with circular information signal tracks divided into a plurality of sectors having sector addresses</em>). Auch wenn Patentanspruch 10 keine Bezugnahme auf Wandlereinrichtungen enthält, mit denen die reproduzierten ursprünglichen digitalen Signale in wahrnehmbare analoge Signale umgewandelt werden, und solche daher nicht erfordern mag, so muss das Gerät doch jedenfalls die verschlüsselten Informationssignale von der CD lesen und wiedergeben können. Die Annahme, dass der Anspruch insoweit lediglich einen Verarbeitungsvorgang für Signale beschreibe, die mit einer gegebenenfalls externen und nicht zum Anspruchsgegenstand gehörenden Leseeinrichtung erzeugt würden, verkürzt den Sinngehalt des Patentanspruchs und geht daran vorbei, dass das Auslesen der Information das Gegenstück zu der im Streitpatent beanspruchten Aufzeichnung darstellt. Der Gegenstand des Patentanspruchs 10 ist sonach nicht als bloße Schaltung zu verstehen. Das beanspruchte Gerät ist vielmehr durch seine Befähigung definiert, Daten, die in irgendeiner Weise eingelesen worden sind, verschlüsselt aufzunehmen und entschlüsselt wiederzugeben. Weder ein Verfahren und erst recht nicht ein Gerät zum Auslesen erfindungsgemäß verschlüsselter Informationen oder zu deren Verarbeitung durch Entschlüsselung sind aber in der Stammanmeldung als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 Satz 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                            Grabinski                            Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                     Hoffmann                            Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE311092013&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

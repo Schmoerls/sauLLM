@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310952014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20140430</entsch-datum>
+   <aktenzeichen>I ZR 224/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 4 Nr 10 UWG, § 286 ZPO</norm>
+   <vorinstanz>vorgehend Hanseatisches Oberlandesgericht Hamburg, 24. Oktober 2012, Az: 5 U 38/10, Urteil<br/>vorgehend LG Hamburg, 26. Februar 2010, Az: 310 O 31/09<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Wettbewerbsverstoß im Internet: Unlauterer Schleichbezug bei Zugriff auf die Buchungswebseite einer Fluggesellschaft durch den Betreiber eines Flugbuchungsportals - Flugvermittlung im Internet</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Flugvermittlung im Internet</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Betreiber eines Internetportals, auf dem Kunden im Wege der Vermittlung Flüge buchen können, verstößt auch dann nicht gegen das Verbot unlauterer Behinderung gemäß § 4 Nr. 10 UWG, wenn die der Vermittlung zugrundeliegenden, frei zugänglichen Flugverbindungsdaten im Wege einer automatisierten Abfrage von der Internetseite der Fluggesellschaft ermittelt werden (sog. "Screen Scraping"), und sich der Betreiber des Internetportals während des Buchungsvorgangs durch das Setzen eines Hakens mit den Nutzungsbedingungen der Fluggesellschaft einverstanden erklärt, die einen solchen automatisierten Abruf von Flugdaten untersagen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des Hanseatischen Oberlandesgerichts Hamburg - 5. Zivilsenat - vom 24. Oktober 2012 im Kostenpunkt und insoweit aufgehoben, als hinsichtlich des Unterlassungshauptantrags zum Nachteil der Beklagten erkannt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten der Revision, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist eine Fluggesellschaft, die preisgünstige Linienflüge anbietet. Sie vertreibt ihre Flüge nicht über Reisebüros, Reiseveranstalter oder sonstige Vermittler, sondern ausschließlich über ihre Internetseite sowie ihr Callcenter. Dort bietet die Klägerin auch die Möglichkeit zur Buchung von Zusatzleistungen Dritter wie beispielsweise Hotelaufenthalte oder Mietwagenreservierungen an. Auf der Internetseite der Klägerin kann zudem gegen Entgelt Werbung geschaltet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Bei der Buchung eines Flugs über die Internetseite der Klägerin muss der Kunde ein Kästchen ankreuzen, dem folgender Text zugeordnet ist:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Wichtig!</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Ich habe die Geschäftsbedingungen, Nutzungsbedingungen für die Internetseite, die Lichtbildausweis-Richtlinie sowie die oben stehenden wichtigen Informationen von R.   gelesen und akzeptiere sie. Ich werde alle anderen Reiseteilnehmer unter dieser Buchung von diesen Bestimmungen in Kenntnis setzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(Klicken Sie zum Fortfahren auf das Kontrollkästchen)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>In den auf der Internetseite der Klägerin abrufbar gehaltenen "Nutzungsbestimmungen für die Website von R.   " in der Fassung vom Januar 2009 heißt es unter anderem:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Ausschließlicher Vertriebskanal</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">R.   .com ist die einzige Website, die berechtigt ist, R.   -Flüge zu vertreiben. R.   gestattet keiner anderen Webseite, seine Flüge zu vertreiben, weder als einzelne Flugleistung noch als Teil eines Reisepakets. Infolgedessen behält sich R.   ausdrücklich das Recht vor, ohne Rückerstattung der Buchungskosten, Buchungen zu stornieren, die nicht direkt über die Webseite R.   .com erfolgen, einschließlich Buchungen über Webseiten Dritter, und zwar auch bei Online Reisebüros. Darüber hinaus behält sich R.   ausdrücklich das Recht vor, die Be-förderung solcher Passagiere zu verweigern, die solche Buchungen vornehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Zulässige Nutzung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Es ist Ihnen nicht gestattet, diese Website für andere als die im Folgenden aufgeführten privaten, nicht kommerziellen Zwecke zu nutzen: (i) Anzeigen dieser Web-site; (ii) Vornehmen von Buchungen; (iii) Überprüfen/Ändern von Buchungen; (iv) Überprüfen von Auskunfts- und Abfluginformationen; (v) Ausführen von Online-Eincheckvorgängen; (vi) Navigieren zu anderen Websites über die auf dieser Seite bereitgestellten Links und (vii) Nutzen sonstiger Angebote, die über die Website bereitgestellt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Die Nutzung dieser Website zu anderen als den oben aufgeführten privaten, nicht kommerziellen Zwecken ist untersagt. Untersagt ist insbesondere der Einsatz eines automatisierten Systems oder einer Software zum Extrahieren von Daten von der Website, um diese auf einer anderen Website anzuzeigen ("Screen Scraping"). Darüber hinaus darf die Website nicht ohne die vorherige schriftliche Zustimmung von R.   genutzt werden, um Informationen zu R.   -Flügen zu kommerziellen Zwecken Dritten bereitzustellen, Dienstleistungen von R.   zu erwerben, 'um diese an Dritte weiterzuverkaufen oder ähnliche Handlungen auszuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte betreibt seit dem Jahr 2007 auf der Internetseite "www.      .de" ein Portal, über das Kunden Flüge verschiedener Fluggesellschaften online buchen können. Dort wählt der Kunde in einer Suchmaske eine Flugstrecke und ein Flugdatum aus. Daraufhin werden entsprechende Flüge verschiedener Fluggesellschaften aufgelistet; dazu zählen auch Flüge der Klägerin. Wählt der Kunde einen Flug aus, werden ihm die genauen Flugdaten und der von der Fluggesellschaft erhobene Flugpreis angezeigt. Die für die konkrete Nutzeranfrage erforderlichen Informationen werden von der Beklagten im Wege eines automatisierten Abrufs von den Internetseiten der Fluggesellschaften abgefragt, im Arbeitsspeicher des Servers der Beklagten vervielfältigt und anschließend wieder gelöscht. Nach Eingabe und Bestätigung der Kontaktdaten durch den Kunden werden ihm auf einer weiteren Seite nochmals die Flugdaten und ein Gesamtpreis angezeigt, der sich aus dem Flugpreis, und als "Customer Service"-Gebühr und "Reservierungsgebühr" bezeichneten Aufschlägen zusammensetzt. Die beiden letztgenannten Preisbestandteile werden von der Beklagten erhoben und zum Flugpreis, der vom Fluganbieter veranschlagt wird, hinzugerechnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Während der Buchung auf dem Internetportal der Beklagten wird der Kunde aufgefordert, ein Kästchen mit dem Hinweis "Ich akzeptiere die Allgemeinen Geschäftsbedingungen" anzukreuzen. Dieser Text ist mit einem elektronischen Verweis (Link) unterlegt, der zu den Allgemeinen Geschäftsbedingungen der Beklagten führt. Darin findet sich der Hinweis, dass die Beklagte ausschließlich als Vermittler von Beförderungsleistungen auftritt und der Vertrag über die Reise ausschließlich zwischen dem Kunden und dem jeweiligen Fluganbieter zustande kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Wählt der Kunde auf dem Internetportal der Beklagten einen Flug der Klägerin aus, übermittelt die Beklagte die Flugroute und die Flugzeiten an das Buchungssystem der Klägerin. In das Kontaktfeld der Buchungsmaske der Klägerin fügte die Beklagte bis zum September 2008 ihre Unternehmensbezeichnung "B.  " sowie ihre Anschrift, ihre Telefonnummer, ihre E-Mail-Adresse und ihre Kreditkartendaten ein. Der Vor- und Zuname des Kunden wurde lediglich bei der Bezeichnung des Passagiers angegeben. Nachdem sich die Beklagte im Rahmen eines gerichtlichen Verfahrens am 24. September 2008 gegenüber der Klägerin strafbewehrt verpflichtet hatte, dieser im Rahmen der Buchung über ihr Online-Portal neben dem Vor- und Zunamen des Passagiers auch dessen Adresse und Telefonnummer zu übermitteln, teilte die Beklagte der Klägerin auch diese Informationen als Kontaktdaten mit, gab aber als weitere Kontaktdaten nach wie vor ihre eigene E-Mail-Adresse und ihre Kreditkartendaten an. Am 5. September 2012 hat die Beklagte durch eine Vertragsstrafe bewehrt gegenüber der Klägerin erklärt, dieser neben dem Namen, der Adresse und der Telefonnummer auch die E-Mail-Adresse des Buchenden mitzuteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Nach einer Buchung wird bei der Klägerin automatisch eine Buchungsbestätigung mit der Reservierungsnummer hergestellt und an die Beklagte übermittelt. Diese übersendet sodann ihrerseits eine Buchungsbestätigung an den Kunden, die neben der von der Klägerin mitgeteilten Reservierungsnummer unter anderem den Hinweis enthält, dass der Kunde für weitere Fragen zur Buchung die Klägerin direkt unter einer in der E-Mail angegebenen Telefonnummer erreichen kann. Außerdem weist die Beklagte darauf hin, dass es notwendig ist, für die von der Klägerin angebotenen Flüge online einzuchecken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin sieht in dem Verhalten der Beklagten eine missbräuchliche Nutzung ihres Buchungssystems und ein unzulässiges Einschleichen in ihr Direktvertriebssystem. Sie hat sich zudem auf urheberrechtlich geschützte Datenbankrechte und die Grundsätze des wettbewerbsrechtlichen Leistungsschutzes berufen und das Vorgehen der Beklagten als irreführend beanstandet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Soweit für das Revisionsverfahren von Bedeutung, hat die Klägerin beantragt, es der Beklagten unter Androhung von Ordnungsmitteln zu untersagen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die Website www.r.   .com zu kommerziellen Zwecken ohne Zustimmung der Klägerin wie folgt zu nutzen und/oder nutzen zu lassen und/oder diesbezüglich zu werben:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Vervielfältigung und Verbreitung von Daten der Flugbuchungsmaske, um</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Informationen zu Flügen der Klägerin bereitzustellen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Flugbuchungen vorzunehmen, um gebuchte Flüge an Dritte weiterzuverkaufen und/oder Flugbuchungen an Dritte zu vermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Ferner hat die Klägerin die Beklagte auf Auskunft in Anspruch genommen und die Feststellung ihrer Schadensersatzpflicht beantragt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Beklagte unter dem Gesichtspunkt des unlauteren Schleichbezugs gemäß §§ 3, 4 Nr. 10 UWG allein im Hinblick auf die Alternative des Weiterverkaufs von gebuchten Flügen an Dritte (Buchungsverhalten der Beklagten bis September 2008) zur Unterlassung verurteilt und die Klage im Übrigen abgewiesen. Es hat dabei Ansprüche unter dem Gesichtspunkt der Verletzung von Datenbankrechten nach §§ 87a, 87b, 97 Abs. 1 UrhG und eines sogenannten "virtuellen Hausrechts" sowie Ansprüche aus wettbewerbsrechtlichem Leistungsschutz gemäß §§ 3, 4 Nr. 9 Buchst. a und b UWG und wegen Irreführung und Verletzung der wettbewerbsrechtlichen Generalklausel gemäß § 3 Abs. 1 UWG verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Berufung hat die Klägerin auch ihren auf die Alternative der Vermittlung von Flügen an Dritte (Buchungsverhalten der Beklagten ab September 2008) gerichteten Unterlassungsantrag sowie ihre Anträge auf Auskunftserteilung und Feststellung der Schadensersatzpflicht weiterverfolgt. Sie hat zudem hilfsweise beantragt, der Beklagten unter Androhung von Ordnungsmitteln zu untersagen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">die Website www.r.   .com zu kommerziellen Zwecken ohne Zustimmung der Klägerin wie folgt zu nutzen und/oder nutzen zu lassen und/oder diesbezüglich zu werben:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Vervielfältigung und Verbreitung von Daten der Flugbuchungsmaske, um</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Informationen zu Flügen der Klägerin bereitzustellen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Flugbuchungen vorzunehmen, um gebuchte Flüge an Dritte weiterzuverkaufen und/oder Flugbuchungen an Dritte zu vermitteln,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und zwar wenn dies durch Umgehung einer technischen Schutzmaßnahme geschieht, die - wie nachfolgend abgebildet - auf der klägerischen Website www.r.   .com eingerichtet ist, und dadurch umgangen wird, dass die dem Nut-zer gestellte Aufgabe nicht wie in der nachfolgenden Abbildung vorgegeben gelöst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="397px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Ferner hat die Klägerin die Beklagte hilfsweise auch im Hinblick auf das im Unterlassungshilfsantrag beschriebene Verhalten auf Auskunft in Anspruch genommen und die Feststellung der Schadensersatzpflicht beantragt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat die Beklagte nach dem Unterlassungshauptantrag verurteilt und die Berufung der Klägerin im Übrigen zurückgewiesen (OLG Hamburg, Urteil vom 24. Oktober 2012 - 5 U 38/10, juris). Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Klägerin beantragt, verfolgt die Beklagte ihren auf Zurückweisung der Berufung der Klägerin gerichteten Antrag weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>A. Das Berufungsgericht hat angenommen, der Klägerin stehe ein Unterlassungsanspruch auch im Hinblick auf die Alternative der Vermittlung von Flügen an Dritte (Buchungsverhalten der Beklagten ab September 2008) zu. Ansprüche auf Auskunftserteilung und Schadensersatz hat es dagegen abgelehnt. Zur Begründung hat das Berufungsgericht ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Ein Unterlassungsanspruch wegen Verletzung von Datenbankrechten gemäß §§ 87a, 87b, 97 Abs. 1 UrhG scheide aus. Zwar vervielfältige die Beklagte Teile der Datenbank der Klägerin wiederholt und systematisch. Diese Teile seien jedoch nicht als wesentlich im Sinne von § 87b Abs. 1 Satz 1 UrhG anzusehen. Ferner laufe das Verhalten der Beklagten nicht einer normalen Auswertung der Datenbank zuwider und beinträchtige auch nicht die berechtigten Interessen der Klägerin in unzumutbarer Weise (§ 87b Abs. 1 Satz 2 UrhG). Da die Anträge auf Auskunftserteilung und Feststellung der Schadensersatzpflicht ausschließlich auf eine Verletzung von Schutzrechten an der Datenbank gestützt seien, seien auch diese Anträge unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Dagegen sei der von der Klägerin im Wege der kumulativen Klagehäufung geltend gemachte Unterlassungsanspruch wegen unlauteren Schleichbezugs gemäß §§ 8, 3, 4 Nr. 10 UWG auch im Hinblick auf die von der Beklagten seit September 2008 vorgenommenen Flugbuchungen begründet. Zwar habe die Beklagte seitdem die Buchungen nicht mehr im eigenen Namen getätigt und anschließend an ihre Kunden weiterverkauft. Es sei vielmehr zu Gunsten der Beklagten davon auszugehen, dass diese nunmehr nur noch als Vermittlerin der Flugleistungen der Klägerin auftrete, so dass es an dem Unlauterkeitsumstand einer Täuschung über die Wiederverkaufsabsicht fehle. Eine nicht mehr akzeptable Beeinträchtigung der Interessen der Klägerin, die ihre Leistungen direkt den Endkunden anbiete, liege jedoch auch dann vor, wenn die Beklagte als Vermittlerin entweder technische Schutzmechanismen überwinde, die ihre Einschaltung verhindern sollten, oder sich in anderer Weise über eine nicht nur ausdrücklich erklärte, sondern auch kommunikationstechnisch geschützte Abwehr eines derartigen Verhaltens durch die Fluggesellschaft hinwegsetze. Eine solche kommunikationstechnische Schutzvorrichtung sei hier vorhanden. Der Buchende müsse die Allgemeinen Geschäftsbedingungen der Klägerin nicht nur zur Kenntnis nehmen, sondern auch mit einem Haken in einem dafür vorgesehenen Kästchen ausdrücklich die Kenntnisnahme und sein Einverständnis mit diesen Bedingungen zum Ausdruck bringen, um die Buchung fortsetzen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>B. Die gegen die Verurteilung der Beklagten gerichteten Angriffe der Revision haben Erfolg. Sie führen zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das Berufungsgericht, soweit zum Nachteil der Beklagten entschieden worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>I. Gegenstand des Revisionsverfahrens ist allein der Unterlassungshauptantrag, soweit er auf das Verbot der Vermittlung von Flugbuchungen an Dritte gerichtet und auf Wettbewerbsrecht gestützt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Über das auf den Weiterverkauf von gebuchten Flügen gerichtete Unterlassungsgebot ist bereits rechtskräftig entschieden, weil die Beklagte die entsprechende Verurteilung durch das Landgericht nicht mit einem Rechtsmittel angegriffen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Ebenfalls bereits rechtskräftig entschieden ist über die mit dem Unterlassungshauptantrag verfolgten Ansprüche wegen der Verletzung des urheberrechtlichen Schutzes von Datenbankrechten gemäß §§ 87a, 87b UrhG. Soweit der auf das Verbot der Vermittlung von Flugbuchungen an Dritte gerichtete Unterlassungshauptantrag auf die Verletzung der Rechte der Klägerin als Datenbankhersteller gemäß §§ 87a, 87b UrhG gestützt war, hat das Berufungsgericht die gegen die Verneinung dieser Ansprüche gerichtete Berufung der Klägerin zwar nicht im Tenor, aber der Sache nach in den Entscheidungsgründen des Berufungsurteils zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Bei dem Verstoß gegen Lauterkeitsrecht und der Verletzung urheberrechtlicher Schutzrechte des Datenbankherstellers gemäß §§ 87a, 87b UrhG handelt es sich um unterschiedliche Streitgegenstände. Nach der ständigen Rechtsprechung des Bundesgerichtshofs wird der Streitgegenstand (der prozessuale Anspruch) durch den Klageantrag, in dem sich die vom Kläger in Anspruch genommene Rechtsfolge konkretisiert, und den Lebenssachverhalt (Klagegrund) bestimmt, aus dem der Kläger die begehrte Rechtsfolge herleitet (BGH, Urteil vom 19. April 2012 - I ZR 86/10, GRUR 2012, 1145 Rn. 17 = WRP 2012, 1392 - Pelikan; Urteil vom 13. September 2012 - I ZR 230/11, BGHZ 194, 314 Rn. 18 - Biomineralwasser). Bei einem einheitlichen Klagebegehren liegen verschiedene Streitgegenstände vor, wenn die materiell-rechtliche Regelung die zusammentreffenden Ansprüche durch eine Verselbständigung der einzelnen Lebensvorgänge erkennbar unterschiedlich ausgestaltet. Das ist etwa der Fall, wenn der Kläger sein Klagebegehren auf ein Schutzrecht und auf ein von ihm als wettbewerbswidrig angesehenes Verhalten des Beklagten stützt oder seinen Anspruch aus mehreren Schutzrechten herleitet. Unter diesen Voraussetzungen liegen auch bei einem einheitlichen Klagebegehren mehrere Streitgegenstände vor (BGH, Urteil vom 24. Januar 2013 - I ZR 60/11, GRUR 2013, 397 Rn. 13 = WRP 2013, 499 - Peek &amp; Cloppenburg III; Urteil vom 22. Januar 2014 - I ZR 164/12, GRUR 2014, 393 Rn. 14 = WRP 2014, 424 - wetteronline.de). So verhält es sich im Streitfall. Die Klägerin hat den Unterlassungsantrag im Wege der kumulativen Klagehäufung sowohl auf wettbewerbsrechtliche Ansprüche gemäß §§ 8, 3, 4 Nr. 10 UWG als auch auf ihre Rechte als Datenbankhersteller gemäß §§ 87a, 87b UrhG gestützt. Da das Berufungsgericht folgerichtig über beide prozessualen Ansprüche entschieden und den Unterlassungshauptantrag, soweit er auf die Verletzung von Rechten an einer Datenbank der Klägerin gestützt war, als unbegründet angesehen hat, ist dieser Teil der Entscheidung des Berufungsgerichts über den Unterlassungshauptantrag nicht in die Revisionsinstanz gelangt, weil er von der Klägerin nicht mit einem Rechtsmittel angefochten worden ist (vgl. BGH, Urteil vom 27. März 2013 - I ZR 93/12, GRUR 2013, 1150 Rn. 18 = WRP 2013, 1473 - Baumann).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>II. Die Revision wendet sich mit Erfolg gegen die Annahme des Berufungsgerichts, die Beklagte habe die Klägerin gemäß §§ 3, 4 Nr. 10 UWG wettbewerbswidrig behindert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>1. Eine unlautere Behinderung von Mitbewerbern nach §§ 3, 4 Nr. 10 UWG setzt eine Beeinträchtigung der wettbewerblichen Entfaltungsmöglichkeiten der Mitbewerber voraus, die über die mit jedem Wettbewerb verbundene Beeinträchtigung hinausgeht und bestimmte Unlauterkeitsmerkmale aufweist. Unlauter ist die Beeinträchtigung im Allgemeinen dann, wenn gezielt der Zweck verfolgt wird, Mitbewerber an ihrer Entfaltung zu hindern und sie dadurch zu verdrängen, oder wenn die Behinderung dazu führt, dass die beeinträchtigten Mitbewerber ihre Leistung am Markt durch eigene Anstrengung nicht mehr in angemessener Weise zur Geltung bringen können. Ob diese Voraussetzungen erfüllt sind, lässt sich nur aufgrund einer Gesamtwürdigung der Umstände des Einzelfalls unter Berücksichtigung der Interessen der Mitbewerber, Verbraucher und sonstiger Marktteilnehmer sowie der Allgemeinheit beurteilen (vgl. BGH, Urteil vom 7. Oktober 2009 - I ZR 150/07, GRUR 2010, 346 Rn. 12 = WRP 2010, 633 - Rufumleitung; Urteil vom 12. November 2009 - I ZR 183/07, GRUR 2010, 642 Rn. 53 = WRP 2010, 764 - WM-Marken; Urteil vom 22. Juni 2011 - I ZR 159/10, GRUR 2011, 1018 Rn. 65 = WRP 2011, 1469 - Automobil-Onlinebörse, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Die Voraussetzungen einer unlauteren Behinderung liegen im Streitfall nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Das Berufungsgericht hat keine Umstände festgestellt, die die Annahme rechtfertigen könnten, die Beklagte verfolge gezielt den Zweck, die Klägerin an ihrer Entfaltung zu hindern und sie dadurch zu verdrängen. Solche Umstände sind auch nicht ersichtlich. Das Angebot der Beklagten zielt nicht auf die Störung der wettbewerblichen Entfaltung der Klägerin ab, sondern baut gerade auf deren Angebot und der Funktionsfähigkeit des Buchungsportals der Klägerin im Internet auf (vgl. BGH, GRUR 2011, 1018 Rn. 66 - Automobil-Onlinebörse).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Im Streitfall führt eine Gesamtwürdigung der Umstände des vorliegenden Falls unter Berücksichtigung der Interessen der Mitbewerber, der Verbraucher und der sonstigen Marktteilnehmer sowie der Allgemeinheit auch nicht zu der Annahme, dass die Klägerin durch die beanstandete Vermittlung von Flügen durch die Beklagte ihre Leistung am Markt durch eigene Anstrengung nicht mehr in angemessener Weise zur Geltung bringen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht ist zutreffend davon ausgegangen, dass das beanstandete Verhalten der Beklagten nicht unter dem Gesichtspunkt eines Schleichbezugs durch Täuschung über die Absicht zum Weiterverkauf wettbewerbswidrig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(1) Der Gesichtspunkt des Schleichbezugs kann den Tatbestand einer gezielten Mitbewerberbehinderung im Sinne von § 4 Nr. 10 UWG erfüllen. Der Schwerpunkt des Unlauterkeitsvorwurfs dieser Fallgruppe liegt in der Behinderung eines Vertriebskonzepts, mit dem der Hersteller oder Dienstleistungserbringer legitime Absatzinteressen verfolgt (BGH, Urteil vom 11. September 2008 - I ZR 74/06, BGHZ 178, 63 Rn. 22 - bundesligakarten.de). Nach diesen Grundsätzen kann auch ein Direktvertriebssystem, bei dem sich ein Anbieter von Waren oder Dienstleistungen in zulässiger Weise dafür entschieden hat, sein Angebot selbst oder über von ihm weisungsabhängige Vertreter oder Agenturen abzusetzen, Schutz gegen eine Täuschung über die Wiederverkaufsabsicht genießen (BGHZ 178, 63 Rn. 27 - bundesligakarten.de).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(2) Das Berufungsgericht hat mit Recht angenommen, dass der im Revisionsverfahren noch relevante Antrag auf Untersagung der Vermittlung von Flugbuchungen an Dritte nicht auf den Unlauterkeitsgesichtspunkt der Täuschung über eine Wiederverkaufsabsicht der Beklagten gestützt werden kann. Dem Antrag liegt das Buchungsverhalten der Beklagten seit September 2008 zugrunde. Dieses Verhalten ist dadurch gekennzeichnet, dass die Beklagte der Klägerin während des Buchungsvorgangs als Kontaktdaten den Vor- und Zunamen des Kunden sowie dessen Adresse und Telefonnummer mitteilt und dadurch allein dieser als Vertragspartner in Betracht kommt. Das Berufungsgericht ist auf dieser Grundlage zu Recht davon ausgegangen, dass die Beklagte insoweit nur noch als Vermittlerin von Flugleistungen der Klägerin aufgetreten ist und keine eigenen Verträge mit dieser abschließt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>bb) Mit Erfolg wendet sich die Revision gegen die Beurteilung des Berufungsgerichts, im Streitfall liege ein Sachverhalt vor, der einer Täuschung über die Wiederverkaufsabsicht gleichstehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Das Berufungsgericht hat angenommen, für die Bejahung einer unlauteren Behinderung unter dem Gesichtspunkt des Schleichbezuges sei es unerheblich, ob einzelne oder mehrere Vorschriften der Allgemeinen Geschäftsbedingungen der Klägerin, in denen deren Modell des Direktvertriebs zum Ausdruck komme, einer rechtlichen Inhaltskontrolle standhielten oder nicht wirksam in den Vertrag einbezogen worden seien. Dem kann nicht zugestimmt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Ein wettbewerbsrechtlicher Schutz kommt nur im Hinblick auf Direktvertriebssysteme in Betracht, für die sich der Anbieter in rechtlich zulässiger Weise entschieden hat. So sind Vertriebssysteme, die gegen kartellrechtliche Vorschriften verstoßen, wettbewerbsrechtlich nicht schutzwürdig (vgl. BGH, Urteil vom 1. Dezember 1999 - I ZR 130/96, BGHZ 143, 232, 243 - Außenseiteranspruch II; Köhler in Köhler/Bornkamm, UWG, 32. Aufl., § 4 Rn. 10.64 f.). Nichts anderes kann für durch Allgemeine Geschäftsbedingungen ausgestaltete Vertriebssysteme gelten, die der rechtlichen Inhaltskontrolle nicht standhalten oder bei denen die maßgebenden Bedingungen erst gar nicht in die mit den Abnehmern abzuschließenden Verträge einbezogen werden und die deshalb keine Rechtswirkung entfalten. Ohne Erfolg beruft sich die Revision für ihre gegenteilige Ansicht auf die Senatsentscheidung "bundesligakarten.de". Soweit dort die Frage der Wirksamkeit von Allgemeinen Geschäftsbedingungen für unerheblich gehalten wurde, ging es allein um solche Bedingungen, die nichts mit der als verletzt beanstandeten konkreten Vertriebsbindung zu tun hatten (vgl. BGHZ 178, 63 Rn. 24 - bundesligakarten.de). Im Streitfall braucht die Frage, ob die Allgemeinen Geschäftsbedingungen der Klägerin wirksam in den Vertrag einbezogen worden sind und ob sie einer Inhaltskontrolle standhalten, nicht beantwortet zu werden. Dies kann zugunsten der Klägerin unterstellt werden. Eine unlautere Behinderung der Klägerin unter dem Gesichtspunkt des Schleichbezugs liegt auch dann nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(2) Das Berufungsgericht hat angenommen, das für eine Behinderung unter dem Gesichtspunkt des Schleichbezugs erforderliche Unlauterkeitsmoment könne auch darin bestehen, dass der Vermittler von im Direktvertrieb angebotenen Waren oder Dienstleistungen entweder technische Schutzmechanismen überwinde, die seine Einschaltung verhindern sollten, oder sich in anderer Weise über eine nicht nur ausdrücklich erklärte, sondern auch kommunikationstechnisch geschützte Abwehr eines derartigen Verhaltens durch die Fluggesellschaft hinwegsetze. Eine solche den Unlauterkeitsvorwurf tragende kommunikationstechnisch geschützte Abwehr hat das Berufungsgericht darin gesehen, dass die Klägerin sich nicht nur in ihren Geschäftsbedingungen gegen die gewerbliche Vermittlung ihrer Flüge auf der Grundlage von Daten gewandt hat, die sie auf ihrer Internetseite bereitgehalten hat, sondern dass sie darüber hinaus im Rahmen des Buchungsvorgangs vorgesehen hat, mit einem Haken in einem dafür vorgesehenen Kästchen ausdrücklich die Kenntnisnahme und das Einverständnis mit diesen Bedingungen zum Ausdruck zu bringen. Daraus ergebe sich, dass die Beklagte durch ihr Verhalten den eindeutig bekundeten Willen der Klägerin durch wahrheitswidrige Angaben missachtet habe, und zwar nicht nur durch einen inneren Vorbehalt, sondern durch eine technisch dokumentierte Willensbetätigung. Diese Beurteilung hält der rechtlichen Überprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(3) Zutreffend ist allerdings der rechtliche Ausgangspunkt des Berufungsgerichts. Danach liegt allein darin keine unlautere Behinderung, dass sich die Beklagte über den in den Allgemeinen Geschäftsbedingungen geäußerten Willen der Klägerin hinweggesetzt hat, keine gewerbliche Vermittlung von Flügen anhand von Daten vorzunehmen, die der Internetseite der Klägerin entnommen worden sind. Die Unlauterkeit kann nicht schon allein darin gesehen werden, dass das Verhalten des Mitbewerbers dem Willen des Unternehmers widerspricht. Dem Willen eines Unternehmers werden regelmäßig alle und damit auch dem Wesen des lauteren Wettbewerbs entsprechende Verhaltensweisen eines Mitbewerbers widersprechen, die den Unternehmer in seinen eigenen wettbewerblichen Entfaltungsmöglichkeiten beschränken. Allein der Umstand, dass die Beklagte sich als Mitbewerberin der Klägerin über deren Willen hinwegsetzt, ihre Flüge nur über die eigene Internetseite zu vertreiben, damit der Kunde die dort vorhandene Werbung und die kostenpflichtigen Zusatzangebote zur Kenntnis nehmen kann, kann einen Unlauterkeitsvorwurf nicht begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Zutreffend ist das Berufungsgericht weiter davon ausgegangen, dass sich daran auch nichts dadurch ändert, dass die Klägerin ihren Willen in ihren Geschäftsbedingungen ausdrücklich geäußert hat. Das bloße Sich-Hinwegsetzen über Vertragsbedingungen reicht für die Bewertung einer geschäftlichen Handlung als wettbewerbswidrig regelmäßig nicht aus, weil dies zu einer Verdinglichung schuldrechtlicher Pflichten führt, die mit der Aufgabe des Wettbewerbsrechts nicht im Einklang stünde. Erforderlich ist auch insoweit das Hinzutreten besonderer Umstände, die das Wettbewerbsverhalten als unlauter erscheinen lassen (vgl. BGHZ 143, 232, 240 - Außenseiteranspruch II; Urteil vom 11. Januar 2007 - I ZR 96/04, BGHZ 171, 73 Rn. 19 - Außendienstmitarbeiter; Köhler in Köhler/Bornkamm aaO § 3 Rn. 65a und § 4 Rn. 10.36, 10.42, 10.44, jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(4) Dem Berufungsgericht kann aber nicht in der Beurteilung gefolgt werden, die Unlauterkeit des Verhaltens der Beklagten folgt im Streitfall daraus, dass diese sich über eine von der Klägerin im Rahmen des Buchungsvorgangs vorgesehene kommunikationstechnische Schranke hinwegsetze.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Allerdings kann die Überwindung einer technischen Schutzvorrichtung, mit der ein Mitbewerber verhindert, dass sein Internetangebot von der Allgemeinheit genutzt werden kann, ein Umstand sein, der einen Unlauterkeitsvorwurf begründet. Dem liegt die Erwägung zugrunde, dass sich ein Unternehmer, der sein Angebot im Internet öffentlich zugänglich macht, im Allgemeininteresse an der Funktionsfähigkeit des Internets daran festhalten lassen muss, dass die von ihm eingestellten Informationen durch übliche Suchdienste in einem automatisierten Verfahren aufgefunden und dem Nutzer entsprechend seinen Suchbedürfnissen aufbereitet zur Verfügung gestellt werden. Er muss deshalb auch hinnehmen, dass ihm Werbeeinnahmen verlorengehen, weil die Nutzer seine Internetseite nicht aufsuchen (vgl. BGH, Urteil vom 17. Juli 2003 - I ZR 259/00, BGHZ 156, 1, 18 - Paperboy; BGH, GRUR 2011, 1018 Rn. 69 - Automobil-Onlinebörse). Dagegen ist das Allgemeininteresse an der Funktionsfähigkeit des Internets dann nicht mehr betroffen, wenn der Unternehmer durch technische Maßnahmen verhindert, dass eine automatisierte Abfrage der Daten seines Internetangebots möglich ist (vgl. BGHZ 156, 1, 18 - Paperboy; BGH, GRUR 2011, 1018 Rn. 69 - Automobil-Onlinebörse; vgl. auch Deutsch, GRUR 2009, 1027, 1032).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Einer solchen technischen Maßnahme steht jedoch die Notwendigkeit nicht gleich, durch Setzen eines Hakens zu dokumentieren, die Geschäfts- und Nutzungsbedingungen der Klägerin zu akzeptieren. Mit einem solchen Erfordernis, das der Verbraucher als übliche Vorgehensweise bei Bestellvorgängen im Internet kennt, will der Unternehmer vor allem sicherstellen, dass die Bedingungen in den zu schließenden Vertrag einbezogen werden. Diese primär vertragsrechtliche Maßnahme kann einer Begrenzung der Nutzung der Internetseite durch technische Maßnahmen gegen eine automatisierte Abfrage nicht gleichgesetzt werden. Mit dem Setzen des Hakens wird lediglich dokumentiert, dass der Nutzer den für die Annahme einer unlauteren Behinderung für sich genommen unbeachtlichen Willen der Klägerin im Hinblick auf die gewünschte Nutzung ihres Buchungsportals zur Kenntnis nehmen konnte. Ein das Unlauterkeitsurteil begründender besonderer Umstand liegt darin nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>cc) Die Revision wendet sich mit Erfolg auch gegen die vom Berufungsgericht vorgenommene Interessenabwägung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(1) Das Vorliegen einer unlauteren Behinderung lässt sich gemäß § 4 Nr. 10 UWG nur aufgrund einer Gesamtwürdigung der Umstände des Einzelfalls unter Berücksichtigung der Interessen der Mitbewerber, Verbraucher und sonstigen Marktteilnehmer sowie der Allgemeinheit beurteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht ist davon ausgegangen, dass das Angebot der Beklagten von großem Nutzen für den Verbraucher sein kann. Es hat angenommen, das Geschäftsmodell der Beklagten fördere die Preistransparenz auf dem Markt für Flugreisen und erleichtere dem Kunden das Auffinden des günstigsten Flugs für eine bestimmte Flugverbindung. Damit könne sich das Angebot der Beklagten sowohl auf den Wettbewerb als auch auf die Kundeninteressen positiv auswirken. Das Berufungsgericht hat gleichwohl angenommen, die Beeinträchtigung der Interessen der Klägerin rechtfertige die Annahme einer unlauteren Behinderung. Diese Beurteilung hält der revisionsrechtlichen Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(2) Das Berufungsgericht hat angenommen, der Klägerin entgingen potentielle Einnahmen; es sei wahrscheinlich, dass eine nicht unerhebliche Zahl von Fluginteressierten aufgrund der Buchungsmöglichkeit auf der Internetseite der Beklagten von einem Besuch der Website der Klägerin abgehalten würden. Diese Kunden nähmen die von der Klägerin angebotenen Zusatzleistungen und die dort bereitgehaltene Werbung nicht zur Kenntnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Beurteilung hat das Berufungsgericht den Umstand nicht hinreichend berücksichtigt, dass die Klägerin ihr Buchungsportal nicht durch technische Maßnahmen gegen eine automatisierte Abfrage gesichert, sondern der Allgemeinheit öffentlich zugänglich gemacht hat. In einem solchen Fall muss sie es im Interesse der Funktionsfähigkeit des Internets hinnehmen, dass Kunden die Möglichkeit von im Internet üblichen Suchdiensten nutzen und nicht selbst unmittelbar die Website der Klägerin aufsuchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(3) Dem Berufungsgericht kann auch nicht in seiner Beurteilung zugestimmt werden, der Klägerin sei es nicht zuzumuten, dass der Umfang der an den Endkunden gelangten Informationen außerhalb ihrer Kontrolle liege.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat nicht durch technische Maßnahmen sichergestellt, dass nur Endkunden über ihr Internetportal Flüge selbst buchen können. Es ist auch weder festgestellt noch ersichtlich, dass im Hinblick auf das Angebot und die Durchführung von Flügen ein Vertragsschluss über einen Vermittler generell zu solchen Schwierigkeiten führt, dass der Klägerin ein Vertrieb ihrer Flüge allein im Wege eines unmittelbaren Vertragsschlusses mit dem Endkunden zuzumuten ist. Es kommt hinzu, dass es der Klägerin freisteht, von der Beklagten vermittelte Flugbuchungen, die ihr jedenfalls aufgrund der angegebenen Kreditkartendaten der Beklagten als solche erkennbar sind, nicht anzunehmen. Nimmt die Klägerin aber Buchungen an, die von der Beklagten erkennbar für deren Kunden vorgenommen werden, kommt es rechtsgeschäftlich ohnehin allein auf die Kenntnis der Beklagten an (§ 166 Abs. 1 BGB). Eine zusätzliche Kenntnis des Kunden etwa von den Allgemeinen Geschäftsbedingungen der Klägerin ist nicht erforderlich, um diese wirksam in das Vertragsverhältnis zwischen der Klägerin und den Kunden der Beklagten einzubeziehen. Dem kann die Revisionserwiderung nicht mit Erfolg entgegenhalten, die Klägerin setze ein automatisiertes Buchungsverfahren ein und verlasse sich darauf, dass die Buchenden die Allgemeinen Geschäftsbedingungen zur Kenntnis nehmen. Das Berufungsgericht hat nicht festgestellt, dass die Beklagte seit September 2008 anders als in der Form der Vermittlerin aufgetreten ist und Verträge im eigenen Namen geschlossen hat. Es hat festgestellt, dass die Beklagte während des Buchungsvorgangs bei der Klägerin ihre eigenen Kreditkartendaten eingibt. Damit ist für die Klägerin jedenfalls erkennbar, dass die beanstandeten Buchungen unter Mitwirkung der Beklagten im Wege der Stellvertretung vorgenommen werden. Der Umstand, dass die Klägerin diese Umstände nicht zur Kenntnis nimmt, weil sie sich für ein durch Automation vereinfachtes Bearbeitungsverfahren entschieden hat, kann im Rahmen der Interessenabwägung nicht den Ausschlag zu ihren Gunsten geben (vgl. OLG Frankfurt, MMR 2009, 400, 401).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Das Interesse der Klägerin an einem direkten kommunikativen Zugang zum Kunden bezieht sich deshalb im Wesentlichen auf die Möglichkeit, diesen direkt werblich anzusprechen. Einem solchen Interesse kann im Rahmen der im Streitfall vorzunehmenden Gesamtwürdigung kein maßgebendes Gewicht beigemessen werden. Dies gilt umso mehr, als die Beklagte der Klägerin sowohl den Namen als auch die Anschrift und die Telefonnummer der Kunden mitteilt und die Beklagte sich darüber hinaus am 5. September 2012 zur Weiterleitung der E-Mail-Adresse des Kunden verpflichtet hat. Damit verfügt die Klägerin über ausreichende Möglichkeiten, mit den Kunden zu kommunizieren. Soweit die Revisionserwiderung geltend macht, die Beklagte habe nach Verkündung des Berufungsurteils die Auffassung vertreten, die Klägerin könne aus der Verpflichtungserklärung vom 5. September 2012 keine Ansprüche herleiten, kann dieser neue Sachvortrag in der Revisionsinstanz nicht berücksichtigt werden (§ 559 Abs. 1 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(4) Mit Erfolg wendet sich die Revision auch gegen die Annahme des Berufungsgerichts, die Beklagte beeinträchtige gezielt die ungehinderte Kommunikation und Vertragsabwicklung zwischen der Klägerin und den Kunden, weil sie beim Buchungsvorgang ihre eigenen Kreditkartendaten und nicht diejenigen der Kunden angebe. Das Berufungsgericht hat angenommen, die Kreditkartendaten seien für eine verlässliche Kommunikation der Klägerin mit ihren Vertragspartnern von erheblicher Bedeutung, weil für den Regelfall allein diese Daten ausreichend verlässlich seien, um sicherzustellen, dass entweder mit derjenigen Person, für die die Kreditkarte ausgegeben worden sei, oder mit einer Person kommuniziert werde, der diese Kreditkarte vom Inhaber zur Verfügung gestellt worden sei. Daraus lässt sich keine Interessenbeeinträchtigung ableiten, die im Rahmen der Gesamtwürdigung im Sinne von § 4 Nr. 10 UWG von Bedeutung ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Bei der Angabe von Kreditkartendaten im Rahmen eines Buchungsvorgangs geht es um die Sicherstellung der Entrichtung des Kaufpreises, die beim Erwerb von Flugreisen nicht vom Schuldner persönlich vorgenommen werden muss (§ 267 BGB). Es kommt damit allein darauf an, dass die Kreditkartendaten der Person angegeben werden, die die Zahlung vornimmt. Eine weitergehende Funktion der Kreditkartenangabe ist vom Berufungsgericht nicht festgestellt worden und auch sonst nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>(5) Eine wesentliche Interessenbeeinträchtigung der Klägerin folgt entgegen der Ansicht des Berufungsgerichts auch nicht aus den von der Klägerin vorgetragenen Kundenbeschwerden wegen unvollständiger Buchungsdaten und unterbliebener Sicherheitschecks. Diesen Ausführungen lässt sich nicht entnehmen, ob die betreffenden Beschwerden symptomatische Missstände beschreiben, die nicht lediglich den Charakter von im normalen Geschäftsverkehr nicht völlig auszuschließenden Einzelfällen haben. Entsprechendes gilt für die Annahme des Berufungsgerichts, die Klägerin befürchte nicht ohne Grund, ihr Ansehen könne (auch) durch schlechten Service der gewerblichen Vermittler leiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>(6) Dem Berufungsgericht kann auch nicht in der Beurteilung zugestimmt werden, die Klägerin habe ein grundsätzlich schutzwürdiges Interesse daran, dass sich die von ihr angebotenen Flugpreise nicht durch Vermittlungsprovisionen erhöhen. Dabei wird außer Acht gelassen, dass die Beklagte durch das Sammeln und Aufbereiten der auf die Buchungsanfrage eines Kunden passenden Flugdaten eine eigene Leistung erbringt, die auch nach den Feststellungen des Berufungsgerichts dem Interesse des Kunden entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Die Annahme des Berufungsgerichts, die Beklagte lege es darauf an, den Kunden die Kenntnis vorzuenthalten, dass die Zusatzgebühren von ihr und nicht von den Fluggesellschaften erhoben werden, wird nicht durch die getroffenen Feststellungen getragen. Das Berufungsgericht hat nicht festgestellt, die Kunden würden bei der Buchung über das Internetportal der Beklagten konkret dahingehend getäuscht, dass bestimmte von der Beklagten erhobene Preisbestandteile fälschlich der Klägerin zugerechnet werden. Auch für eine vom Berufungsgericht angenommene abstrakte Irreführungsgefahr fehlt es an hinreichenden Feststellungen. Das Berufungsgericht hat vielmehr angenommen, die angesprochenen Verkehrskreise gingen davon aus, dass die von der Klägerin versprochenen günstigen Preise nur bei einer Buchung direkt auf der Internetseite der Klägerin garantiert werden könnten. Es hat ferner festgestellt, es sei häufig bekannt, dass das Preisgefüge bei Einschaltung von Drittunternehmen als Vermittler nicht notwendigerweise demjenigen bei einem Direkterwerb vom Hersteller oder Anbieter entspreche. Es hat weiter ausgeführt, dass die Beklagte während des Ablaufs der Buchung dem Nutzer ihre eigenen Gebühren - wenn auch nur "nach und nach" - offenbare. Damit lässt sich die Annahme nicht in Einklang bringen, die Kunden gingen davon aus, die zusätzlichen Preisbestandteile würden von der Klägerin verlangt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Im Übrigen hat die Klägerin auch in der Antragsfassung nicht zum Ausdruck gebracht, dass sich das Verbot auf eine Verletzungsform bezieht, bei der die Beklagte die Kunden über die Preisgestaltung täuscht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>III. Da sich das Berufungsurteil nicht aus anderen Gründen als richtig erweist, ist es aufzuheben (§ 562 Abs. 1 ZPO), soweit zum Nachteil der Beklagten hinsichtlich des Unterlassungshauptantrags erkannt worden ist. Die Sache ist an die Vorinstanz zurückzuverweisen, weil sie noch nicht zur Endentscheidung reif ist (§ 563 Abs. 1 und 3 ZPO). Das Berufungsgericht hat - aus seiner Sicht folgerichtig - keine Feststellungen zu den von der Klägerin zur Begründung des Unterlassungshauptantrags geltend gemachten Ansprüchen wegen ergänzenden Leistungsschutzes gemäß § 4 Nr. 9 UWG und wegen Irreführung gemäß § 5 UWG getroffen. Dasselbe gilt für die von der Klägerin gestellten Hilfsanträge. Entgegen der Ansicht der Revision hat das Berufungsgericht insoweit auch noch keine Feststellungen im Hinblick auf die geltend gemachten urheberrechtlichen Ansprüche getroffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Büscher                     Pokrant                    Schaffert</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                 Koch                      Löffler</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310952014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

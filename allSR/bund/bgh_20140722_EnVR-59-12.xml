@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301142014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20140722</entsch-datum>
+   <aktenzeichen>EnVR 59/12</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 19 ARegV, § 20 ARegV, § 32 Abs 1 Nr 6 ARegV, § 21a Abs 6 S 2 Nr 3 EnWG, § 21a Abs 6 S 2 Nr 8 EnWG, § 21a Abs 6 S 2 Nr 9 EnWG</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 22. August 2012, Az: VI-3 Kart 40/11 (V), Beschluss<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Anreizregulierung: Gestaltungsspielraum der Regulierungsbehörde bei der Bestimmung von Qualitätselementen - Stromnetz Berlin GmbH</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Stromnetz Berlin GmbH</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der mit der Bestimmung von Qualitätselementen nach §§ 19, 20 ARegV betrauten Regulierungsbehörde steht bei der Auswahl der einzelnen Parameter und Methoden ein Spielraum zu, der in einzelnen Aspekten einem Beurteilungsspielraum, in anderen Aspekten einem Regulierungsermessen gleichkommt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Rechtsbeschwerde gegen den Beschluss des 3. Kartellsenats des Oberlandesgerichts Düsseldorf vom 22. August 2012 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Betroffene hat die Kosten des Rechtsbeschwerdeverfahrens einschließlich der notwendigen Auslagen der Bundesnetzagentur zu tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Wert für das Rechtsbeschwerdeverfahren wird auf 50.000 € festgesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Betroffene betreibt ein Elektrizitätsverteilernetz in Berlin. Sie wendet sich gegen die von der Bundesnetzagentur mit Beschluss vom 7. Juni 2011 (BK8-11/002; abrufbar unter: www.bundesnetzagentur.de) getroffene Festlegung über den Beginn der Anwendung, die nähere Ausgestaltung und das Verfahren der Bestimmung des Qualitätselements hinsichtlich der Netzzuverlässigkeit für Elektrizitätsverteilernetze nach den §§ 19 und 20 ARegV. In Nummer 1 der Festlegung wurde der Beginn der Anwendung des Qualitätselements auf den 1. Januar 2012 festgesetzt und ihr Anwendungsbereich auf die Netzzuverlässigkeit bei Elektrizitätsverteilernetzbetreibern beschränkt. In Nummer 2 ist geregelt, dass die Daten aller Elektrizitätsverteilernetzbetreiber, die nicht am vereinfachten Verfahren nach § 24 ARegV teilnehmen, zur Bestimmung des Qualitätselements Netzzuverlässigkeit heranzuziehen sind. Im Übrigen enthält die Festlegung nähere Regelungen zur standardisierten Bestimmung des Qualitätselements, wie etwa zur Ermittlung der Kennzahlen unter Heranziehung von geplanten und ungeplanten Versorgungsunterbrechungen, zur Ermittlung der Kennzahlenvorgaben (Referenzwerte) und zur Berechnungsmethode sowie zur Berücksichtigung von Kappungsgrenzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der Festlegung liegt eine Modellnetzanalyse zugrunde, die im Auftrag der Bundesnetzagentur von der Consentec Consulting für Energiewirtschaft und -technik GmbH in Kooperation mit der Forschungsgemeinschaft für Elektrische Anlagen und Stromwirtschaft e.V. (FGH) und Frontier Economics Limited (im Folgenden: Consentec) durchgeführt und im Juni und Oktober 2009 mit der Fachöffentlichkeit diskutiert wurde. Darüber hinaus hatten die beteiligten Wirtschaftskreise im Rahmen einer Konsultation zu dem Eckpunktepapier der Bundesnetzagentur zur "Ausgestaltung des Qualitätselements Netzzuverlässigkeit Strom im Rahmen der Anreizregulierung" vom 15. Dezember 2010 Gelegenheit zur Stellungnahme. Am 20. April 2011 erließ die Bundesnetzagentur die Festlegung über die Datenerhebung zur Bestimmung des Qualitätselements hinsichtlich der Netzzuverlässigkeit Strom nach den §§ 19 und 20 ARegV (BK8-11/001; abrufbar unter: www.bundesnetzagentur.de); die aufgrund dieser Festlegung erhobenen Daten flossen jedoch noch nicht in die streitgegenständliche Festlegung ein, sondern waren Grundlage für die Ermittlung des individuellen Qualitätselements, die gegenüber der Betroffenen mit Beschluss vom 21. Februar 2012 (BK8-11/1834-81) erfolgte und zu einer Anpassung der Erlösobergrenzen für die Kalenderjahre 2012 und 2013 führte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Beschwerde hat die Betroffene geltend gemacht, die Festlegung vom 7. Juni 2011 (BK8-11/002) beruhe auf formellen und materiellen Rechtsfehlern. Das Beschwerdegericht hat die Beschwerde zurückgewiesen. Dagegen wendet sich die Betroffene mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Rechtsbeschwerde ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>1. Das Beschwerdegericht hat seine Entscheidung (OLG Düsseldorf, RdE 2012, 437) im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die von der Betroffenen in formeller Hinsicht gegen die Festlegung vorgebrachten Rügen blieben ohne Erfolg. Entgegen ihrer Auffassung leide die Festlegung nicht insoweit an einem Begründungsmangel, als sich ihr nicht entnehmen lasse, welche Inputdaten die Bundesnetzagentur verwendet habe. Die Festlegung beinhalte lediglich allgemeine Regelungen zur Qualitätsregulierung und konkretisiere damit die in § 20 ARegV angelegte Bestimmung des Qualitätselements. Davon zu unterscheiden seien die weitere Festlegung über die Datenerhebung zur Bestimmung des Qualitätselements hinsichtlich der Netzzuverlässigkeit Strom nach den §§ 19 und 20 ARegV vom 20. April 2011 (BK8-11-001) und die Ermittlung des individuellen Qualitätselements, das von der jeweils zuständigen Regulierungsbehörde durch gesonderten Beschluss für den einzelnen Netzbetreiber festgelegt werde. Aufgrund dessen mache die Betroffene auch ohne Erfolg geltend, es sei nicht nachvollziehbar, ob und inwiefern die Bundesnetzagentur die von ihr verwendeten Daten einem Plausibilisierungsprozess unterzogen habe; eine solche Plausibilisierung erfolge erst im Rahmen der konkreten Ermittlung der Kennzahlenvorgaben und der individuellen Kennzahlen. Schließlich habe es die Bundesnetzagentur auch nicht rechtsfehlerhaft unterlassen, die in dem Consentec-Gutachten verwendeten Inputdaten in nicht anonymisierter Form zu veröffentlichen; § 31 Abs. 1 Satz 2 ARegV sehe lediglich vor, dass die Regulierungsbehörde neben den Effizienzwerten auch die nach §§ 19, 20 ARegV ermittelten Kennzahlenvorgaben und die Abweichungen der Netzbetreiber von diesen veröffentlichen müsse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Betroffenen sei die Festlegung auch in der Sache rechtmäßig. Bei der Festlegung des Beginns der Anwendung des Qualitätselements und bei dessen weiterer Ausgestaltung, der Methodik und der Regelung des Verfahrens zu dessen Bestimmung stehe der Bundesnetzagentur ein Gestaltungsspielraum zu, der nur einer eingeschränkten gerichtlichen Kontrolle unterliege.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund sei deren Entscheidung zum Beginn der Anwendung zum 1. Januar 2012 nicht zu beanstanden. Insbesondere habe es hierfür nicht an hinreichend belastbaren Datenreihen gefehlt. Alle Netzbetreiber hätten der Bundesnetzagentur gemäß § 52 EnWG seit dem Jahr 2006 einen jährlichen Bericht über alle in ihrem Netz im letzten Kalenderjahr aufgetretenen - geplanten und ungeplanten - Versorgungsunterbrechungen vorgelegt, bei denen Letztverbraucher oder Weiterverteiler länger als drei Minuten "spannungslos geworden" seien. Mit diesen Daten habe die Bundesnetzagentur die von ihr in der Festlegung ausgewählten Kennzahlen SAIDI und ASIDI bestimmen können, weil sie von der gewissenhaften Erfüllung der Meldepflicht durch die Netzbetreiber habe ausgehen dürfen und die gelieferten Daten im Laufe der Jahre in mehrfacher Hinsicht plausibilisiert habe. Den Auswirkungen stochastischer Schwankungen habe die Bundesnetzagentur durch die Verwendung der Daten aus drei Jahren (2006 bis 2008) hinreichend entgegengewirkt. Zudem werde die Bundesnetzagentur aufgrund der mit der Festlegung vom 20. April 2011 erfolgten Datenerhebung auch die in der Vergangenheit gemeldeten Daten erneut überprüfen und gegebenenfalls Korrekturen vornehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Fehl gehe auch der Einwand der Betroffenen, die Bundesnetzagentur habe rechtsfehlerhaft den Störungsanlass "Einwirkung Dritter" als ungeplante Versorgungsunterbrechung miterfasst, dem bei städtischen Netzbetreibern rund 30% der Störungen zuzuordnen seien. Mit Blick auf die Betroffenheit der Netzkunden seien alle Versorgungsunterbrechungen zu berücksichtigen, die in der Sphäre des Netzbetreibers lägen und ihm zugerechnet werden könnten. Dazu gehöre auch der von der Betroffenen angeführte "Baggerangriff". Denn das pauschale Herausnehmen solcher von Dritten verursachten Versorgungsunterbrechungen würde den Anreiz abschwächen, über öffentliche Informationen, Schulungsmaßnahmen und hochqualifizierte Planauskünfte andere Akteure in die Sicherstellung der Versorgungszuverlässigkeit einzubeziehen. Neben der präventiven Vorbeugung sei außerdem die Sorgfalt des Netzbetreibers bei der Beseitigung einer gleichwohl eingetretenen Versorgungsunterbrechung zu berücksichtigen, um die Versorgungsqualität des Netzbetreibers gerade auch an den von Dritten verursachten Versorgungsunterbrechungen repräsentativ zu messen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Schließlich sei auch nicht zu beanstanden, dass die Bundesnetzagentur die in § 20 Abs. 2 Satz 2 ARegV enthaltene Anforderung, bei der Ermittlung der Kennzahlenvorgaben (Referenzwerte) gebietsstrukturelle Unterschiede zu berücksichtigen, nicht durch eine Klassenbildung, sondern - auf Empfehlung des Consentec-Gutachtens - durch eine von einem kontinuierlichen Strukturparameter, nämlich der Lastdichte, abhängige Funktion umgesetzt habe. Im Rahmen der durchgeführten Modellnetz- und der statistischen Analyse sei die Lastdichte als zur Abbildung gebietsstruktureller Unterschiede geeigneter und signifikanter Parameter identifiziert worden. Dies gelte auch im Hinblick auf die Unterschiede zwischen den alten und neuen Bundesländern. Der in diesem Zusammenhang von der Betroffenen gerügte Dokumentationsfehler, sie sei in Kapitel 4 des Consentec-Gutachtens fehlerhaft den alten Bundesländern zugeordnet worden, sei unbeachtlich, weil davon die in Kapitel 3 getroffenen Aussagen und Schlussfolgerungen unberührt blieben. Des Weiteren sei ohne Bedeutung, ob Netze in Ostdeutschland angesichts der Verwendung von Polyethylen-Kabeln (im Folgenden: PE-Kabel) grundsätzlich störungsanfälliger seien. Dies betreffe nach dem Vorbringen der Betroffenen nur ca. 10% des Mittelspannungsnetzes und sei bereits deshalb ohne Relevanz; außerdem stelle dies einen endogenen Parameter dar, dessen Effekt im Übrigen durch den Parameter Lastdichte ausreichend beschrieben werde. Schließlich bedürfe es wegen der Orientierung am Zuverlässigkeitsniveau eines Durchschnittsunternehmens, der Verwendung von gemittelten Durchschnittswerten aus drei Jahren und der Deckelung der Erlöszuschläge und -abschläge nicht des von der Betroffenen geforderten Konfidenzbandes, das im Übrigen vom Verordnungsgeber auch nicht vorgegeben sei. Mit der Berücksichtigung des Parameters Lastdichte sei auch nicht die Wechselwirkung zwischen Effizienz- und Qualitätsvorgaben außer Betracht gelassen worden. Dass eine höhere Netzzuverlässigkeit mit höheren Kosten verbunden sei und daher zu einem niedrigeren Effizienzwert zu Lasten eines Netzbetreibers führen könne, könne die Qualitätsregulierung ausgleichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Diese Beurteilung hält der rechtlichen Nachprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung der Rechtsbeschwerde hat das Beschwerdegericht zu Recht angenommen, dass der Bundesnetzagentur bei der Bestimmung des Qualitätselements ein Entscheidungsspielraum zusteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Ausgestaltung des nach §§ 19, 20 ARegV zu bestimmenden Qualitätselements wie auch der Beginn seiner Anwendung und das Verfahren sind durch Gesetz und Verordnung nicht in allen Details punktgenau vorgegeben. Der mit der Bestimmung des Qualitätselements betrauten Regulierungsbehörde steht bei der Auswahl der einzelnen Parameter und Methoden vielmehr - wie der Senat etwa auch für den nach § 12 ARegV durchzuführenden Effizienzvergleich entschieden hat (Beschluss vom 21. Januar 2014 - EnVR 12/12, Rn. 10 ff. - Stadtwerke Konstanz GmbH) - ein Spielraum zu, der in einzelnen Aspekten einem Beurteilungsspielraum, in anderen Aspekten einem Regulierungsermessen gleichkommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>aa) Nach § 21a Abs. 2 Satz 1 EnWG in der für den Streitfall maßgeblichen Fassung vom 21. August 2009 - die sich in den hier relevanten Punkten von der derzeit geltenden Fassung nicht unterscheidet - erfolgt die Anreizregulierung durch Vorgabe von Obergrenzen für die Höhe der Netzzugangsentgelte oder für die Gesamterlöse aus Netzzugangsentgelten, die innerhalb einer Regulierungsperiode erzielt werden dürfen. Hierbei sind Effizienzvorgaben zu berücksichtigen. Gemäß § 21a Abs. 5 Satz 1 EnWG werden die Effizienzvorgaben unter anderem unter Berücksichtigung der Versorgungsqualität und auf diese bezogener Qualitätsvorgaben bestimmt. Die Qualitätsvorgaben werden gemäß § 21a Abs. 5 Satz 2 EnWG auf der Grundlage einer Bewertung von Zuverlässigkeitskenngrößen oder Netzleistungsfähigkeitskenngrößen ermittelt, bei der auch Strukturunterschiede zu berücksichtigen sind. Bei einem Verstoß gegen Qualitätsvorgaben können nach § 21a Abs. 5 Satz 3 EnWG auch die Obergrenzen zur Bestimmung der Netzzugangsentgelte für ein Energieversorgungsunternehmen gesenkt werden. Weitere materiell-rechtliche Vorgaben überlässt § 21a Abs. 6 EnWG einer Rechtsverordnung, die die nähere Ausgestaltung der Methode einer Anreizregulierung und ihre Durchführung regeln (§ 21a Abs. 6 Satz 1 Nr. 2 EnWG) und insbesondere Regelungen für die Ausgestaltung der Qualitätsvorgaben treffen kann (§ 21a Abs. 6 Satz 2 Nr. 3 EnWG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Verordnungsermächtigung wird durch die Anreizregulierungsverordnung ausgefüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(1) Gemäß § 18 ARegV dienen Qualitätsvorgaben der Sicherung eines langfristig angelegten, leistungsfähigen und zuverlässigen Betriebs von Energieversorgungsnetzen. Als Instrumente zur Gewährleistung der Qualitätsvorgabe werden in der Vorschrift Qualitätselemente nach den §§ 19 und 20 ARegV und die Berichtspflichten nach § 21 ARegV genannt. Das Qualitätselement ist Bestandteil der Regulierungsformel in Anlage 1 zu § 7 ARegV. Hierfür sieht § 19 Abs. 1 Satz 1 ARegV vor, dass auf die Erlösobergrenzen Zu- oder Abschläge vorgenommen werden können, wenn Netzbetreiber hinsichtlich der Netzzuverlässigkeit oder der Netzleistungsfähigkeit von Kennzahlenvorgaben abweichen. Die Kennzahlenvorgaben sind nach Maßgabe des § 20 ARegV unter Heranziehung der Daten von Netzbetreibern aus dem gesamten Bundesgebiet zu ermitteln und in Zu- und Abschläge umzusetzen (§ 19 Abs. 1 Satz 2 ARegV). Zulässige Kennzahlen für die Bewertung der Netzzuverlässigkeit, die in § 19 Abs. 3 ARegV definiert ist, sind gemäß § 20 Abs. 1 Satz 1 ARegV insbesondere die Dauer der Unterbrechung der Energieversorgung, die Häufigkeit der Unterbrechung der Energieversorgung, die Menge der nicht gelieferten Energie und die Höhe der nicht gedeckten Last. Nach § 20 Abs. 1 Satz 2 ARegV ist eine Kombination und Gewichtung dieser Kennzahlen möglich. Für die ausgewählten Kennzahlen sind Kennzahlenwerte der einzelnen Netzbetreiber zu ermitteln (§ 20 Abs. 1 Satz 3 ARegV). Aus diesen Kennzahlenwerten sind nach § 20 Abs. 2 ARegV Kennzahlenvorgaben als gewichtete Durchschnittswerte zu ermitteln, wobei bei der Ermittlung der Kennzahlenvorgaben gebietsstrukturelle Unterschiede zu berücksichtigen sind, was durch Gruppenbildung erfolgen kann. Damit ist zugleich klargestellt, dass die Referenzwerte nicht von der individuellen Qualität des jeweiligen Netzbetreibers abhängen sollen. Schließlich bestimmt § 20 Abs. 3 ARegV, dass für die Gewichtung der Kennzahlen oder der Kennzahlenwerte sowie die Bewertung der Abweichungen in Geld zur Ermittlung der Zu- und Abschläge auf die Erlöse nach § 19 Abs. 1 ARegV (monetäre Bewertung) insbesondere die Bereitschaft der Kunden, für eine Änderung der Netzzuverlässigkeit niedrigere oder höhere Entgelte zu zahlen, als Maßstab herangezogen werden, analytische Methoden, insbesondere analytische Kostenmodelle, die dem Stand der Wissenschaft entsprechen müssen, oder eine Kombination von beiden Methoden verwendet werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Erfolgt nach diesen Maßgaben eine Bestimmung des Qualitätselements, so hat die Regulierungsbehörde nach § 4 Abs. 5 ARegV von Amts wegen die Erlösobergrenze entsprechend anzupassen, wobei die Anpassung höchstens einmal jährlich zum 1. Januar des folgenden Kalenderjahres zulässig ist. Gemäß § 19 Abs. 2 Satz 1 ARegV hat die Regulierungsbehörde über den Beginn der Anwendung des Qualitätselements, der bei Stromversorgungsnetzen zur zweiten Regulierungsperiode zu erfolgen hat, zu entscheiden. Er soll nach § 19 Abs. 2 Satz 2 ARegV bereits zur oder im Laufe der ersten Regulierungsperiode erfolgen, soweit der Regulierungsbehörde hinreichend belastbare Datenreihen vorliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(2) Die Zielrichtung der Qualitätsvorgaben entspricht damit dem in § 1 Abs. 2 EnWG festgelegten speziellen Ziel der Sicherung eines langfristig angelegten leistungsfähigen und zuverlässigen Betriebs von Energieversorgungsnetzen. Die Regelungen zur Versorgungsqualität bilden einen wichtigen, notwendigen Bestandteil in einer auf Kosteneffizienz ausgerichteten Regulierung der Netze, damit Kosteneffizienzsteigerungen nicht zu Lasten der Versorgungsqualität gehen. Der Verordnungsgeber hat sich mit den Regelungen der §§ 18 ff. ARegV gegen eine - alternativ denkbare - integrative Qualitätsregelung entschieden, indem die Versorgungsqualität nicht Bestandteil des Effizienzvergleichs nach §§ 12 ff. ARegV ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>cc) Obwohl das Energiewirtschaftsgesetz und die Anreizregulierungsverordnung hiernach sowohl hinsichtlich der zu berücksichtigenden Kennzahlen als auch hinsichtlich der Ermittlung der Kennzahlenwerte und der Kennzahlenvorgaben wie auch hinsichtlich der anzuwendenden Methoden maßgebliche Weichenstellungen vorgeben, verbleiben bei der näheren Ausgestaltung und dem Verfahren der Bestimmung des Qualitätselements sowie dem Beginn seiner Anwendung im Einzelnen notwendigerweise erhebliche Spielräume.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die in §§ 19 und 20 ARegV enthaltenen Vorgaben sind trotz ihrer zum Teil hohen Regelungsdichte ausfüllungsbedürftig. Soweit der Verordnungsgeber in § 20 Abs. 1 Satz 1 ARegV bestimmte Kennzahlen für die Bewertung der Netzzuverlässigkeit vorgegeben hat, ist diese Aufzählung nicht abschließend, sondern beinhaltet lediglich Regelbeispiele, die von der Regulierungsbehörde verwendet und um weitere Parameter ergänzt werden können. Aus der in § 20 Abs. 1 Satz 2 ARegV eröffneten Möglichkeit einer Kombination der Kennzahlen geht zugleich hervor, dass der Verordnungsgeber nicht eine kumulative Anwendung sämtlicher genannter Regelbeispiele vorschreibt, sondern der Regulierungsbehörde - was auch aus § 20 Abs. 1 Satz 3 ARegV, der die "ausgewählten" Kennzahlen in den Blick nimmt, hervorgeht - insoweit ein Auswahlermessen einräumt. Entsprechendes gilt nach § 20 Abs. 3 ARegV im Hinblick auf die Gewichtung der Kennzahlen und Kennzahlenwerte sowie die monetäre Bewertung. Zur Ausfüllung dieser Vorgaben kommen - was dem Verordnungsgeber bewusst war (vgl. BR-Drucks. 417/07, S. 63) - verschiedene international verwendete Kennzahlen und unterschiedliche wissenschaftliche Methoden in Betracht. Die Auswahl einer konkreten Kennzahl oder Methode, die den abstrakten Vorgaben der Verordnung entspricht, hat der Verordnungsgeber nach § 32 Abs. 1 Nr. 6 ARegV der Regulierungsbehörde überlassen. Da die Auswahl der konkreten Kennzahlen und Methoden einen untrennbaren Zusammenhang mit der hinreichenden Belastbarkeit der dabei heranzuziehenden Datenreihen aufweist, berührt der der Regulierungsbehörde eingeräumte Entscheidungsspielraum auch den Beginn der Anwendung des Qualitätselements.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Dass solche Spielräume bestehen, deckt sich mit den Vorstellungen des Gesetzgebers. Dieser hat die gesetzlichen Vorgaben methodenoffen gestaltet, weil die Regulierungsbehörde das Anreizregulierungsmodell entwickeln soll (BT-Drucks. 15/5268, S. 120).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>dd) Die der Regulierungsbehörde eröffneten Spielräume kommen hinsichtlich einiger Aspekte einem Beurteilungsspielraum, hinsichtlich anderer Aspekte einem Regulierungsermessen gleich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die Bestimmung des Qualitätselements erfordert, wenn es die gesetzlich vorgegebene Zuverlässigkeit aufweisen soll, eine komplexe Modellierung der maßgeblichen Verhältnisse bei den einzelnen Netzen und Netzbetreibern, die nicht bis in alle Einzelheiten rechtlich vorgegeben werden kann und vom Gesetzgeber bewusst nicht vorgegeben worden ist. Dies hat Auswirkungen auf die gerichtliche Kontrolldichte. Gerichtliche Kontrolle kann nicht weiter reichen als die materiell-rechtliche Bindung der Instanz, deren Entscheidung überprüft werden soll. Sie endet deshalb dort, wo das materielle Recht in verfassungsrechtlich unbedenklicher Weise das Entscheidungsverhalten nicht vollständig determiniert (BVerfGE 88, 40, 56, 61; 103, 142, 156 f.; BVerwGE 131, 41 Rn. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Ob und inwieweit es sich bei den der Regulierungsbehörde eröffneten Spielräumen um einen Beurteilungsspielraum auf der Tatbestandsseite der Norm oder um ein Regulierungsermessen auf der Rechtsfolgenseite handelt, bedarf keiner abschließenden Entscheidung. Die für diese beiden Kategorien geltenden Kontrollmaßstäbe unterscheiden sich, wie auch das Bundesverwaltungsgericht entschieden hat (BVerwG, NVwZ 2014, 589 Rn. 33 f. mwN), eher verbal und weniger in der Sache (Senatsbeschluss vom 21. Januar 2014 - EnVR 12/12, Rn. 26 - Stadtwerke Konstanz GmbH). Ähnlich wie es der Senat für die Beurteilung der Effizienzwerte angenommen hat (Senatsbeschluss vom 21. Januar 2014 - EnVR 12/12, Rn. 28 - Stadtwerke Konstanz GmbH), weist auch die Bestimmung des Qualitätselements eine besondere Nähe zum Regulierungsermessen auf. Dessen Ermittlung ist das Ergebnis einer komplexen Bewertung, die sowohl die Erfassung und Beurteilung der maßgeblichen Elemente des Sachverhalts als auch die Auswahl zwischen mehreren in Frage kommenden Kennzahlen (einschließlich ihrer möglichen Kombination und Gewichtung) und Bewertungsmethoden erfordert, und findet unmittelbar Eingang in die Regulierungsformel nach Anlage 1 zu § 7 ARegV zur Bestimmung der Erlösobergrenzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Die Ausübung eines Beurteilungsspielraums ist darauf zu überprüfen, ob die Behörde die gültigen Verfahrensbestimmungen eingehalten hat, von einem richtigen Verständnis des anzuwendenden Gesetzesbegriffs ausgegangen ist, den erheblichen Sachverhalt vollständig und zutreffend ermittelt hat und sich bei der eigentlichen Beurteilung an allgemeingültige Wertungsmaßstäbe gehalten, insbesondere das Willkürverbot nicht verletzt hat (BVerwGE 131, 41 Rn. 21). Die eine Abwägung zwischen unterschiedlichen gesetzlichen Zielvorgaben erfordernde Ausübung des Regulierungsermessens ist vom Gericht zu beanstanden, wenn eine Abwägung überhaupt nicht stattgefunden hat (Abwägungsausfall), wenn in die Abwägung nicht an Belangen eingestellt worden ist, was nach Lage der Dinge in sie eingestellt werden musste (Abwägungsdefizit), wenn die Bedeutung der betroffenen Belange verkannt worden ist (Abwägungsfehleinschätzung) oder wenn der Ausgleich zwischen ihnen zur objektiven Gewichtigkeit einzelner Belange außer Verhältnis steht (Abwägungsdisproportionalität; vgl. BVerwGE 131, 41 Rn. 47). Nach diesen Maßgaben ist im Streitfall insbesondere zu überprüfen, ob die Bundesnetzagentur bei Erlass der angefochtenen Festlegung die gesetzlichen Vorgaben in § 21a Abs. 5 EnWG und die Anforderungen des Verordnungsgebers an Kennzahlen und Kennzahlenwerte in §§ 19, 20 ARegV beachtet hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>ee) Entgegen der Auffassung der Rechtsbeschwerde erstreckt sich der Entscheidungsspielraum der Bundesnetzagentur bei der Bestimmung des Qualitätselements im Ausgangspunkt auch auf die Festlegung über den Beginn seiner Anwendung. Denn die hierfür entscheidende Frage, ob hinreichend belastbare Datenreihen im Sinne des § 19 Abs. 2 Satz 2 ARegV vorliegen, lässt sich nur beantworten, wenn klar ist, welche Daten für die Bestimmung des Qualitätselements im Einzelnen herangezogen werden. Insoweit besteht aber - wie aufgezeigt - ein Entscheidungsspielraum der Regulierungsbehörde. Davon zu trennen ist allerdings die Frage, ob - nach der abstrakten Auswahl der maßgeblichen Datenreihen - die konkret erhobenen Daten hinreichend belastbar sind. Die Klärung dieser Frage ist gegebenenfalls mit sachverständiger Hilfe möglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>ff) Soweit die Rechtsbeschwerde unter Anführung mehrerer Einzelpunkte einen tragfähigen Sachgrund für die Annahme eines Entscheidungsspielraums der Regulierungsbehörde bestreitet, kann dies aus den vorgenannten Gründen einen solchen nicht grundsätzlich in Frage stellen. Die Einwände betreffen nur einzelne Details des Qualitätselements und insbesondere die Fragen, ob die Regulierungsbehörde den erheblichen Sachverhalt vollständig und zutreffend ermittelt hat, dies heißt hier insbesondere, ob sie von einer verlässlichen Datengrundlage ausgegangen ist, und ob die Regulierungsbehörde in zutreffender Weise gewichtete Durchschnittswerte gebildet und gebietsstrukturelle Unterschiede berücksichtigt hat. Ihnen ist gerade auch bei Annahme eines Entscheidungsspielraums gerichtlich nachzugehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Rechtsbeschwerde hat das Beschwerdegericht rechtsfehlerfrei angenommen, dass die angefochtene Festlegung nicht schon wegen eines Begründungsmangels formell rechtswidrig sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Allerdings unterliegt die Regulierungsbehörde bei der Ausfüllung eines Entscheidungsspielraums der vorliegenden Art besonderen Begründungsanforderungen. Ähnlich wie es das Bundesverwaltungsgericht bei telekommunikationsrechtlichen Entscheidungen angenommen hat (BVerwG, NVwZ 2014, 589 Rn. 34 ff.), ist bei einem derartigen Entscheidungsspielraum die eigentliche Bewertung der Behörde auch darauf nachzuprüfen, ob sie im Hinblick auf die Kriterien, die in der Rechtsnorm ausdrücklich hervorgehoben oder in ihr angelegt sind, ihre Festlegung plausibel und erschöpfend begründet hat. Dies folgt aus der Gewährleistung effektiven Rechtsschutzes gemäß Art. 19 Abs. 4 GG. Die gerichtliche Kontrolle eines der Behörde eingeräumten Gestaltungsspielraums ist grundsätzlich auf diejenigen Erwägungen zu erstrecken und zu beschränken, die die Behörde zur Begründung ihrer Entscheidung dargelegt hat; denn die notwendige Abwägung und ihre Darstellung im Bescheid sollen zumindest auch die nachgehende gerichtliche Kontrolle ermöglichen, die angesichts des ohnehin eingeräumten Beurteilungsspielraums sonst nicht hinreichend wirksam wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Aufgrund dessen muss der Begründung der Entscheidung zu entnehmen sein, dass die Regulierungsbehörde die in Betracht kommenden Kennzahlen und die Methoden zur Ermittlung der Kennzahlenwerte und ihrer Gewichtung sowie der monetären Bewertung abgewogen und geprüft hat, welche dem Ziel der Sicherung eines langfristig angelegten, leistungsfähigen und zuverlässigen Betriebs von Energieversorgungsnetzen am ehesten gerecht werden. Sodann muss die Behörde unter Bewertung der unterschiedlichen Belange im Einzelnen darlegen, dass und warum ihrer Ansicht nach im Ergebnis Überwiegendes für die gewählte Methode spricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>bb) Nach diesen Maßgaben liegt kein Begründungsmangel vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(1) Ohne Erfolg beanstandet die Rechtsbeschwerde, der angefochtenen Festlegung lasse sich nicht entnehmen, welche Datengrundlage die Bundesnetzagentur für ihre Entscheidung verwendet habe, weshalb die Festlegung einen Begründungsmangel aufweise. Dies ist nicht der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Zu Recht weist die Rechtsbeschwerde allerdings darauf hin, dass die Festlegung - anders als das Beschwerdegericht offenbar meint - nicht nur allgemeine Regelungen zur Qualitätsregulierung enthält, die ohne jeden Rückgriff auf konkrete Einzeldaten der einzelnen Netzbetreiber getroffen worden sind. Nach der Begründung der Festlegung ist die Referenzfunktion zur Bestimmung des Qualitätselements in zwei Schritten ermittelt worden, nämlich zum ersten aufgrund einer von den Consentec-Gutachtern entwickelten Modellnetzanalyse auf der Grundlage fiktiver, aber realitätsnaher Versorgungsaufgaben und zum zweiten aufgrund einer Zuverlässigkeits- bzw. Wirkungsanalyse dieses Modells anhand der für die Jahre 2006 bis 2008 erhobenen Daten nach § 52 EnWG. Dies wird in der Festlegung wie auch in dem dort in Bezug genommenen Consentec-Gutachten (S. 134 ff.) hinreichend dargelegt, weshalb unter diesem Gesichtspunkt kein Begründungsmangel ersichtlich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(2) Soweit die Rechtsbeschwerde nicht die fehlende Begründung dazu, welche Datenreihen verwendet worden sind, beanstandet, sondern vielmehr den Umstand, dass diese Datensätze nicht veröffentlicht worden seien und deshalb die in der Festlegung vorgegebene Referenzkurve mit den dort ermittelten Parametern nicht nachvollziehbar sei, bleibt dies ebenfalls ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(a) Nach § 84 Abs. 2 Satz 1 EnWG ist die Einsicht in Informationen, die von der Bundesnetzagentur erhoben und in deren Akten geführt werden, nur mit deren Zustimmung zulässig. Eine solche Zustimmung hat die Bundesnetzagentur nicht erteilt. Diese Entscheidung unterliegt in entsprechender Anwendung von § 99 Abs. 2 VwGO nicht der gerichtlichen Nachprüfung (BGH, Beschluss vom 21. Januar 2014 - EnVR 12/12, Rn. 73 - Stadtwerke Konstanz GmbH).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(b) Ob das Beschwerdegericht nach § 84 Abs. 2 Satz 4 EnWG ein Zwischenverfahren zur Entscheidung über eine Offenlegung der Daten hätte anordnen müssen, kann bereits deshalb dahinstehen, weil weder die Betroffene im Beschwerdeverfahren ein solches Verfahren angeregt hat noch die Rechtsbeschwerde die Unterlassung einer entsprechenden Anordnung durch das Beschwerdegericht mit der Verfahrensrüge beanstandet hat (vgl. Senatsbeschluss vom 2. Februar 2010 - KVZ 16/09, WuW/E DE-R 2879 Rn. 18 - Kosmetikartikel).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(c) Entgegen der Auffassung der Rechtsbeschwerde ist eine Offenlegung der Datengrundlage auch nicht nach § 73 Abs. 1 EnWG oder Art. 19 Abs. 4 GG geboten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(aa) Das in § 73 Abs. 1 EnWG normierte Erfordernis, wonach die Regulierungsbehörde ihre Entscheidungen zu begründen hat, dient dem Zweck, den Beteiligten und dem Gericht die Überprüfung der Entscheidung in tatsächlicher und rechtlicher Hinsicht zu ermöglichen. Hierzu ist es erforderlich und ausreichend, diejenigen tatsächlichen und rechtlichen Erwägungen anzuführen, aus denen sich die Rechtmäßigkeit der ergangenen Entscheidung ergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Im vorliegenden Zusammenhang sind keine konkreten Anhaltspunkte ersichtlich, die es aus rechtlichen Gründen als geboten erscheinen lassen, zur Überprüfung der von der Bundesnetzagentur getroffenen Auswahlentscheidung bei der Ausgestaltung und dem Verfahren zur Bestimmung des Qualitätselements die dabei verwendete Datengrundlage im Detail zu betrachten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Allerdings steht außer Zweifel, dass die Auswahl und Gewichtung der zur Ermittlung der Referenzkurve herangezogenen Parameter vom Inhalt der zugrunde liegenden Datensätze abhängen. Eine detaillierte Überprüfung der von jedem beteiligten Unternehmen übermittelten Daten stünde aber mit dem Regelungskonzept der Anreizregulierungsverordnung nicht in Einklang. § 27 Abs. 1 Satz 2 Nr. 4 ARegV sieht vor, dass die Regulierungsbehörde die zur Bestimmung des Qualitätselements erforderlichen Daten durch Einholung von Auskünften bei den Netzbetreibern erhebt. Hieraus kann, wie auch das Beschwerdegericht zutreffend angenommen hat, gefolgert werden, dass die Netzbetreiber zu vollständigen und wahrheitsgemäßen Angaben verpflichtet sind. Ein System zur Sanktionierung unzutreffender Angaben oder eine umfassende Überprüfung der Angaben durch die Bundesnetzagentur oder durch Dritte sind in der Anreizregulierungsverordnung zwar nicht vorgesehen; bei der Bestimmung des Qualitätselements hat die Bundesnetzagentur in der angefochtenen Festlegung aber angekündigt, die Datenmeldungen anhand der jeweils aktuellen Datenmeldungen nach § 52 EnWG zu überprüfen und zu plausibilisieren. Damit besteht eine hinreichende Sicherung, dass nur belastbare Daten verwendet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Der Verordnungsgeber war auch nicht gehalten, weitergehende Maßnahmen zur Überprüfung der Daten durch die Bundesnetzagentur oder die Gerichte vorzusehen. Er durfte davon ausgehen, dass ein beteiligtes Unternehmen im Regelfall nicht vorsätzlich unzutreffende Auskünfte erteilen wird, dass sich versehentlich unzutreffende Einzelangaben angesichts der Breite der Datengrundlage auf das Ergebnis nicht in nennenswertem Umfang auswirken und dass Anlass zu einer näheren Überprüfung nur dann besteht, wenn konkrete Anhaltspunkte vorliegen, die Zweifel an der Richtigkeit der übermittelten Daten begründen. Solche Anhaltspunkte zeigt die Rechtsbeschwerde nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(bb) Eine weitergehende Überprüfungspflicht des Beschwerdegerichts ergibt sich auch nicht aus Art. 19 Abs. 4 GG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die Regelung in § 84 Abs. 2 EnWG dient ebenso wie die inhaltsgleiche Regelung in § 72 Abs. 2 GWB (dazu BGH, WuW/E DE-R 2879 Rn. 13 - Kosmetikartikel) dem Ausgleich zwischen dem verfassungsrechtlichen Anspruch auf wirksamen Rechtsschutz nach Art. 19 Abs. 4 GG und auf Gewährung rechtlichen Gehörs nach Art. 103 Abs. 1 GG einerseits und dem als Ausfluss der Grundrechte der Art. 12 und 14 GG zu gewährenden Geheimnisschutz, insbesondere dem Schutz von Betriebs- und Geschäftsgeheimnissen andererseits. Damit wird zugleich der verfassungsrechtlichen Anforderung nach praktischer Konkordanz Rechnung getragen (vgl. BVerfGE 115, 205, 234). Hierbei ist neben dem privaten Interesse an effektivem Rechtsschutz und dem - je nach Fallkonstellation - öffentlichen oder privaten Interesse an Geheimnisschutz auch das öffentliche Interesse an der Wahrheitsfindung in die Abwägung einzustellen (BVerfGE 115, 205, 241).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Die Informationen über Versorgungsstörungen nach § 52 EnWG sind Geschäftsgeheimnisse der Unternehmen, die sie der Bundesnetzagentur mitgeteilt haben. Die in Rede stehenden Daten enthalten Angaben zu Zeitpunkt, Dauer, Ausmaß und Ursache der Versorgungsunterbrechungen und zu den ergriffenen Maßnahmen zur Vermeidung künftiger Versorgungsstörungen, also die Umstände, anhand deren die Tätigkeit der Netzbetreiber im Rahmen der Netzzuverlässigkeit als Qualitätselement bewertet wird. Diese Daten sind nicht offenkundig. An ihrer Nichtverbreitung besteht ein berechtigtes Interesse. Die Verpflichtung der Regulierungsbehörden zum Schutz von Betriebs- und Geschäftsgeheimnissen ergibt sich aus § 30 VwVfG, auf den § 71 Satz 1 EnWG ausdrücklich Bezug nimmt, und aus § 84 Abs. 2 Satz 2 EnWG, wonach die Einsicht in Unterlagen insbesondere dann zu versagen ist, wenn dies zur Wahrung solcher Geheimnisse geboten ist. Dass das Interesse der Betroffenen an einer Offenlegung der Datenreihen höher zu bewerten ist, wird von der Rechtsbeschwerde nicht dargelegt. Insoweit ist auch zu berücksichtigen, dass die Referenzkurve nicht anhand der konkret nach § 52 EnWG erhobenen Datenreihen ermittelt worden ist, sondern anhand einer Modellnetzanalyse, deren Ergebnisse lediglich anhand der Datenreihen plausibilisiert worden sind. Gegen die Modellnetzanalyse als solche bringt die Rechtsbeschwerde indes nichts Erhebliches vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Aus Art. 19 Abs. 4 GG können sich grundsätzlich keine weitergehenden Aufklärungspflichten ergeben. Insbesondere ist es nicht zulässig, das Geheimhaltungsinteresse grundsätzlich hinter das Rechtsschutzinteresse zurückzustellen (BVerfGE 115, 205, 242). Im Streitfall liegt deshalb keine Verletzung von Art. 19 Abs. 4 GG vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(3) Ohne Erfolg rügt die Rechtsbeschwerde, ein Begründungsmangel liege darin, dass aus der Festlegung nicht ersichtlich sei, ob eine Plausibilisierung der Daten erfolgt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Der Festlegung lässt sich entnehmen, dass dem Consentec-Gutachten die nach § 52 EnWG erhobenen Datenreihen für die Jahre 2006 bis 2008 zugrunde gelegen haben und eine Plausibilisierung der aufgrund der Festlegung vom 20. April 2011 (BK8-11/001) erhobenen Daten nicht erfolgt ist; dies ergibt sich aus Nummer II 6.1 der Gründe, worin die Bundesnetzagentur ihre in die Zukunft zielende Absicht kundgetan hat, diese Datenmeldungen erst zur Überprüfung der Bestimmung des Qualitätselements heranziehen zu wollen. Die Belastbarkeit der seit 2006 erhobenen Daten hat die Bundesnetzagentur in der Festlegung damit begründet, es sei davon auszugehen, dass "Betreiber von Energieversorgungsnetzen ihren gesetzlichen Meldepflichten gewissenhaft nachkommen und grundsätzlich richtige Daten an die Bundesnetzagentur liefern". Aus dem in der Festlegung in Bezug genommenen Consentec-Gutachten (S. 69, 134) ergibt sich, dass die Daten einer "groben Prüfung der Plausibilität" unterzogen und "offensichtlich fehlerhafte Daten ... korrigiert bzw. entfernt" worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Rechtsbeschwerde hat es das Beschwerdegericht nicht rechts- oder verfahrensfehlerhaft unterlassen, eigene Feststellungen zur hinreichenden Belastbarkeit der von der Bundesnetzagentur herangezogenen Datenreihen und zur Zulässigkeit der verwendeten Kennzahlen für die Bewertung der Netzzuverlässigkeit zu treffen, weil die Festlegung auf einer unzureichenden Tatsachengrundlage beruhe. Einen solchen Rechts- oder Verfahrensfehler zeigt die Rechtsbeschwerde nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Unrecht beanstandet sie, dass in die Datenerhebung nur eine "geringe" Anzahl von Netzbetreibern (127 bzw. 129 von insgesamt 191 Mittelspannungs- bzw. 190 Niederspannungsnetzbetreibern) einbezogen worden sei. Dies ist bereits im Ansatz nicht nachvollziehbar, weil damit die Daten von etwa zwei Drittel der jeweiligen Gruppe von Netzbetreibern berücksichtigt worden sind und dies für eine - wie hier - Plausibilitätskontrolle der in einer Modellnetzanalyse gefundenen Ergebnisse eine ausreichend große Anzahl darstellt. Dies wird durch das Consentec-Gutachten (S. 69) bestätigt, in dem die Gutachter die verwendete Datenbasis für hinreichend repräsentativ halten, um grundsätzliche Abhängigkeiten aufzeigen zu können. Dagegen bringt die Rechtsbeschwerde nichts Substantielles vor. Zudem hat die Bundesnetzagentur in der Festlegung angekündigt, die verwendeten Datenreihen anhand der auf Grundlage der weiteren Festlegung vom 20. April 2011 erhobenen Daten zu plausibilisieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>bb) Entsprechendes gilt für den betrachteten Zeitraum von drei Jahren. In dem Consentec-Gutachten (S. 25, 69) wird dies nachvollziehbar damit erklärt, dass mit der Einbeziehung der Daten für mehrere Jahre einerseits der Einfluss stochastischer Effekte möglichst gering gehalten werden soll, andererseits bei der Wahl eines zu langen Zeitraums die Gefahr besteht, dass Veränderungen der Unternehmenskenngrößen erst mit deutlicher zeitlicher Verzögerung erkennbar werden und sich zudem der Erhebungsaufwand erhöht. Auch dagegen erhebt die Rechtsbeschwerde keine substantiierten Einwände.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>cc) Anders als die Rechtsbeschwerde meint, ist es auch nicht zu beanstanden, dass die Datensätze aus der Zeit vor Beginn der Anreizregulierung stammen. Dies ist ein allgemeiner und unvermeidbarer Umstand der Anreizregulierung, der auch für die Bestimmung des Ausgangsniveaus der Erlösobergrenze nach § 6 ARegV oder für den Effizienzvergleich nach §§ 12 bis 14 ARegV gilt. Soweit die Bundesnetzagentur nur auf die Daten der Jahre 2007 bis 2009 und nicht auch auf die Daten der Jahre 2008 bis 2010 zurückgegriffen hat, hat sie dies in der Festlegung nachvollziehbar damit erklärt, dass die Kennzahlen des Kalenderjahres 2010 zum Zeitpunkt des Erlasses der angefochtenen Festlegung noch nicht in einer auswertbaren Form vorgelegen haben. Dies ist von der Rechtsbeschwerde nicht angegriffen worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>dd) Soweit die Rechtsbeschwerde weiterhin erhebliche Unplausibilitäten bei den verwendeten Datenreihen behauptet, kann sie damit keinen Erfolg haben. Nach den Feststellungen des Beschwerdegerichts hat die Bundesnetzagentur die im Laufe der Jahre gelieferten Daten in mehrfacher Hinsicht plausibilisiert, indem sie die Eingabe unplausibler Daten durch hinterlegte Eingaberegeln ausgeschlossen und Daten stichprobenartig auf offensichtliche Unplausibilitäten überprüft hat. Daneben lässt sich auch dem Consentec-Gutachten (S. 69, 134) entnehmen, dass die Gutachter eine eigene Plausibilisierung vorgenommen und Ausreißer eliminiert haben. Auch insoweit zeigt die Rechtsbeschwerde keine konkreten Anhaltspunkte dafür auf, dass die Bundesnetzagentur von einer fehlerhaften Tatsachengrundlage ausgegangen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>ee) Die Rechtsbeschwerde beanstandet auch ohne Erfolg, dass sich die Bundesnetzagentur nicht damit auseinandergesetzt habe, ob die ihr vorliegenden Datensätze nach der Eliminierung von sogenannten Rückwirkungsstörungen noch hinreichend belastbar seien. Rückwirkungsstörungen beruhen auf Versorgungsunterbrechungen in anderen, d.h. vor- oder nachgelagerten Netzebenen. Nach dem Consentec-Gutachten (S. 19) ist deren Ausklammerung aus den vorliegenden Daten aufgrund des gesondert erfassten Störungsanlasses "Rückwirkungsstörung" problemlos möglich, ohne dass die Belastbarkeit der verbleibenden Daten in Frage gestellt wird (S. 69). Anderes wird auch von der Rechtsbeschwerde nicht aufgezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>d) Ohne Erfolg rügt die Rechtsbeschwerde, dass das Beschwerdegericht nicht die Geeignetheit der von der Bundesnetzagentur verwandten ökonometrischen Methode zur Bestimmung der Referenzwerte mit sachverständiger Hilfe überprüft habe und nicht dem Einwand der Betroffenen nachgegangen sei, dass nicht sämtliche gebietsstrukturellen Unterschiede durch den Parameter Lastdichte hinreichend berücksichtigt würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>aa) § 21a Abs. 5 Satz 2 EnWG bestimmt, dass bei der Ermittlung von Qualitätsvorgaben Strukturunterschiede zu berücksichtigen sind. Diese Vorgabe des Gesetzgebers hat der Verordnungsgeber in § 20 Abs. 2 Satz 2 und 3 ARegV dahingehend präzisiert, dass bei der Ermittlung der Kennzahlenvorgaben gebietsstrukturelle Unterschiede zu berücksichtigen sind, wobei dies durch Gruppenbildung erfolgen kann. Dabei hat der Verordnungsgeber eine Unterscheidung nach Stadt und Land oder nach neuen und alten Bundesländern zwar für möglich gehalten (BR-Drucks. 417/07, S. 64), dies oder auch die in § 20 Abs. 2 Satz 3 ARegV angesprochene Gruppenbildung aber nicht zwingend vorgeschrieben, so dass der Regulierungsbehörde bei der Festlegung der anzuwendenden Parameter ein Entscheidungsspielraum zusteht. Allerdings lässt sich den gesetzlichen Vorgaben der Auftrag an die Regulierungsbehörde entnehmen, bei der Bestimmung des Qualitätselements dem Umstand Rechnung zu tragen, dass die Versorgungsstruktur eine starke, vom Netzbetreiber nicht beeinflussbare Wirkung auf die Netzzuverlässigkeit hat und das Qualitätsniveau im Hinblick auf die Kosten-Nutzen-Relation etwa in ländlichen Gebieten geringer sein kann als in städtischen Gebieten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>bb) In der angefochtenen Festlegung hat die Bundesnetzagentur auf der Grundlage des Consentec-Gutachtens bestimmt, dass bei der Heranziehung des Strukturparameters Lastdichte zur Berücksichtigung gebietsstruktureller Unterschiede die Ermittlung des Referenzwertes mittels einer Regressionsanalyse erfolgen soll und die Referenzwerte in Form eines hyperbolischen funktionalen Zusammenhangs berechnet werden sollen. Dies ist als solches rechtlich nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Bei der angegebenen Formel handelt es sich um die Grundvariante einer hyperbolischen Funktion, bei der die Referenzwerte in Abhängigkeit von der Lastdichte berechnet werden. Die Ermittlung der Regressionskonstanten a, b und c erfolgt nicht in der angefochtenen Festlegung, sondern erst bei der Ermittlung des individuellen Qualitätselements, hier in dem Beschluss der Bundesnetzagentur vom 21. Februar 2012. Der hyperbelähnliche Funktionsverlauf hat sich aus analytischen Überlegungen der Gutachter ergeben und ist von ihnen durch analytische Modellrechnungen bestätigt worden, wohingegen statistische Untersuchungen einer Vielzahl anderer Parameter keine besseren Erklärungsbeiträge geliefert haben (S. 27 des Gutachtens). Zugleich hat die Bundesnetzagentur die Verwendung der Formel und die Heranziehung des Strukturparameters Lastdichte unter den Vorbehalt gestellt, dass sich dieser auch nach Auswertung der aufgrund der Festlegung vom 20. April 2011 erhobenen Daten für die Kalenderjahre 2007 bis 2009 als statistisch bedeutsam erweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Damit entspricht die Entscheidung der Bundesnetzagentur den Vorgaben, die sich aus § 21a EnWG und §§ 19, 20 ARegV ergeben. Die Rechtsbeschwerde zeigt keinen Vortrag auf, dem das Beschwerdegericht hätte entnehmen müssen, dass die Formel zur Ermittlung der Referenzwerte und die Heranziehung des Strukturparameters Lastdichte aus wissenschaftlicher Sicht unvertretbar oder eine andere Methode eindeutig als besser geeignet anzusehen wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>cc) Die Bundesnetzagentur hat sich - wissenschaftlich beraten - in der angefochtenen Festlegung dafür entschieden, auf die vom Verordnungsgeber lediglich als Möglichkeit aufgeführte Gruppenbildung zu verzichten, weil diese - was auch im Consentec-Gutachten (S. 26) dargelegt wird - willkürliche Grenzziehungen erfordert und an den jeweiligen Klassengrenzen Sprünge und Verzerrungen bewirken kann, und stattdessen den Referenzwert durch eine von einem kontinuierlichen Strukturparameter abhängige Funktion zu ermitteln. In dem Consentec-Gutachten (S. 68 ff.) sind verschiedene strukturelle Einflussgrößen auf die Versorgungszuverlässigkeit untersucht worden, darunter auch die von der Rechtsbeschwerde angeführten Parameter Kabelanteil, Anzahl der Anschlusspunkte, Leitungslänge und Belegenheit Ost/West. Soweit diese einen signifikanten Einfluss auf die Versorgungszuverlässigkeit gezeigt haben, haben die Gutachter des Weiteren beachtet, dass es bei der Betrachtung eines Parameters zu überlagernden Effekten durch die anderen Parameter kommt, und denjenigen Parameter oder die Kombination an Parametern zu identifizieren versucht, die unter Berücksichtigung der Überlagerungseffekte die strukturellen Einflüsse nach Maßgabe des Bestimmtheitsmaßes R2 am besten abbilden. Dabei hat sich ergeben, dass der Strukturparameter Lastdichte die gebietsstrukturellen Unterschiede als alleiniger Parameter am besten abbildet und eine Kombination mit anderen Parametern kein signifikant verbessertes Bestimmtheitsmaß ergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Die darauf fußende Würdigung des Beschwerdegerichts ist aus Rechtsgründen nicht zu beanstanden. Bei dieser Ausgangslage hat die Bundesnetzagentur im Rahmen des ihr zustehenden Entscheidungsspielraums eine geeignete und nachvollziehbare ökonometrische Methode zur Bestimmung des Referenzwerts angewendet, die mit den Vorgaben des Gesetzes und der Anreizregulierungsverordnung in Einklang stehen. Der von der Rechtsbeschwerde aufgezeigte Vortrag der Betroffenen führt zu keiner abweichenden Beurteilung. Insbesondere enthält er keine Gesichtspunkte, die nicht bereits von der Bundesnetzagentur oder von den Consentec-Gutachtern in ihre Betrachtung einbezogen worden sind. Aufgrund dessen ist es auch nicht zu beanstanden, dass das Beschwerdegericht von der Einholung eines Sachverständigengutachtens abgesehen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>dd) Das Verfahren zur Bestimmung des Qualitätselements führt zu gewissen Vereinfachungen und Vergröberungen, die die einzelnen Netzbetreiber hinzunehmen haben. Durch die Kappungsgrenzen ist dem Erfordernis der Zumutbarkeit hinreichend Genüge getan. Auch im Hinblick auf gebietsstrukturelle Unterschiede in den neuen und alten Bundesländern ist nicht erkennbar, dass die von der Bundesnetzagentur angewendete Methodik rechtsfehlerhaft ist. Dies belegen auch die von den Consentec-Gutachtern in ihren ergänzenden Erläuterungen vom 15. Mai 2012 berichtigten Darstellungen Bild 4.1 bis 4.6. Soweit sich dort die Betroffene - neben einzelnen anderen Netzbetreibern aus den neuen wie auch den alten Bundesländern - außerhalb der "Punktewolke" befindet, kann dies die von der Bundesnetzagentur verwendete Referenzwertformel nicht in Frage stellen, weil es sich dabei im Verhältnis zur Gesamtzahl der Netzbetreiber nur um eine kleine Menge handelt und auch hier die Kappungsgrenzen zu Gunsten der "Ausreißer" wirken. Dies wäre möglicherweise nur dann anders, wenn die Betroffene etwa hinreichend dazu vorgetragen hätte, dass zwei im Hinblick auf Parameter wie Anzahl der Anschlusspunkte, Fläche des versorgten Gebiets, Leitungslänge und zeitgleiche Jahreshöchstlast vergleichbare Netzbetreiber allein aufgrund ihrer Belegenheit unterschiedliche Qualitätsvorgaben aufweisen würden. Hierzu verweist die Rechtsbeschwerde jedoch auf kein substantiiertes Vorbringen der Betroffenen, dem das Beschwerdegericht hätte nachgehen müssen. Allein die schlichte Behauptung, ein direkter Vergleich zwischen Ost- und Westberlin belege Qualitätsunterschiede, die nur durch die Belegenheit des Netzes zu erklären seien, genügt hierfür nicht. Ebenso sind die in der Rechtsbeschwerdebegründung dargelegten Zahlen zum jeweiligen Anteil der Netzbetreiber in den neuen und alten Bundesländern, die einen Bonus oder einen Malus erhalten, und zum Gesamtumfang dieser Beträge kein Beleg für die fehlende Tauglichkeit der in der Festlegung vorgegebenen Referenzwertformel. Diese Zahlen sind - unabhängig davon, ob sie als neuer Tatsachenvortrag überhaupt noch in der Rechtsbeschwerdeinstanz berücksichtigt werden können - als solche bereits nicht aussagekräftig, weil ein Bezug zu den Erlösobergrenzen und den übrigen Kennzahlen der Netzbetreiber fehlt und es damit an einer Vergleichsgrundlage mangelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>ee) Entgegen der Rechtsbeschwerde sind auch die Ausführungen des Beschwerdegerichts, das Vorbringen der Betroffenen zur Signifikanz des PE-Kabelanteils in den neuen Bundesländern begründe keinen Zweifel an dem Verfahren und der Methodik der Bestimmung des Qualitätselements und erfordere in Bezug auf gebietsstrukturelle Unterschiede keine Gruppenbildung zwischen alten und neuen Bundesländern, rechtlich nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>(1) Die nach § 20 Abs. 2 Satz 2 ARegV bei der Ermittlung der Kennzahlenvorgaben zu berücksichtigenden strukturellen Besonderheiten eines Versorgungsgebiets können im Hinblick auf räumliche Unterschiede - etwa die Notwendigkeit langer Leitungswege - oder auch bezüglich der Zahl und der Zusammensetzung der Abnehmer, wie im Hinblick auf das Verhältnis der Mischung zwischen Tarif- und Sonderabnehmern, vorliegen (vgl. BGH, Beschluss vom 31. Mai 1972 - KVR 2/71, BGHZ 59, 42, 47 - Stromtarif). Ob dazu auch - was die Betroffene vorgetragen hat - der in den neuen Ländern verwendete Leitungstyp der PE-Kabel gehört, weil dieser eine deutlich höhere Störungsanfälligkeit aufweise, ist zweifelhaft. Das Beschwerdegericht hat dies mit der Begründung verneint, dass es sich dabei um einen endogenen Parameter handele, der grundsätzlich auszublenden sei. Dies ist im Ausgangspunkt zutreffend. Für ein weitergehendes Verständnis des Begriffs der gebietsstrukturellen Unterschiede im Sinne des § 20 Abs. 2 Satz 2 ARegV könnte dagegen sprechen, dass der Verordnungsgeber in der Verordnungsbegründung eine Gruppenbildung wegen der Besonderheiten in den neuen Bundesländern als zulässig angesehen hat (siehe BR-Drucks. 417/07, S. 64). Ob er dabei auch den unterschiedlichen PE-Kabelanteil vor Augen gehabt hatte, lässt sich den Materialien allerdings nicht entnehmen. Diese Frage bedarf indes keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>(2) Die Heranziehung des Strukturparameters Lastdichte als einziger Einflussgröße bei der Ermittlung des Referenzwerts ist auch in Bezug auf die gebietsstrukturellen Unterschiede zwischen alten und neuen Bundesländern aus Rechtsgründen nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>In dem Consentec-Gutachten (S. 93 ff.) wird hierzu ausgeführt, dass der existierende Unterschied in der Versorgungszuverlässigkeit zwischen alten und neuen Bundesländern bekannt sei, die Untersuchungen jedoch zeigten, dass ein Großteil dieses Unterschieds auf die Parameter der Lastdichte und - damit einhergehend - des Freileitungsanteils zurückgeführt werden könne, weshalb eine separate Berücksichtigung der Belegenheit als Strukturparameter nicht notwendig sei. Insbesondere ergebe eine Kombination des signifikanten Parameters Lastdichte mit den Parametern Kabelanteil und/oder Anschlussdichte eine so geringe Verbesserung des Bestimmtheitsmaßes, dass eine solche entbehrlich sei. Die Consentec-Gutachter haben in ihrer Modellnetzanalyse die Verwendung einheitlicher Betriebsmittel unterstellt (S. B-4), indes im Rahmen der Wirkungsanalyse keine Hinweise auf systematische Unterschiede zwischen den Ergebnissen für die Belegenheiten Ost und West gefunden (S. 141 und S. 2 der ergänzenden Erläuterungen). Dies wäre aber zu erwarten gewesen, wenn das Vorbringen der Betroffenen zutreffend wäre und die Unterschiede zwischen alten und neuen Bundesländern nicht durch den Parameter Lastdichte hinreichend abgebildet würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Wie die Möglichkeit der Gruppenbildung in § 20 Abs. 2 Satz 3 ARegV und die damit einhergehenden und von den Netzbetreibern hinzunehmenden Vereinfachungen und Vergröberungen zeigen, muss bei der Ermittlung des Qualitätselements nicht jedes spezifische Detail abgebildet werden. Dies gilt auch für den PE-Kabelanteil. Dessen konkrete Auswirkung auf die Bestimmung des Qualitätselements ist von der Betroffenen nicht näher dargelegt, sondern nur pauschal behauptet worden. Insoweit kommt hinzu, dass diese Auswirkung im Zeitablauf kontinuierlich abnimmt. Denn nach Anlage 1 zu § 6 Abs. 5 Satz 1 StromNEV wird für Kabel im Nieder- und Mittelspannungsnetz eine betriebsgewöhnliche Nutzungsdauer von 30 bis 40 Jahren unterstellt, so dass danach bei Beginn der Anwendung des Qualitätselements im Jahr 2012 die mittlere Nutzungsdauer der in den neuen Bundesländern bis zum Jahr 1990 verbauten Kabel bereits überschritten war und damit - bei einem im Rahmen der Anreizregulierung zu simulierenden Wettbewerb - eine sukzessive Ersetzung der alten Kabel oder eine Herabsetzung der Preise zu erwarten gewesen wäre. Das Qualitätselement soll gerade auch einen Anreiz für eine Verbesserung der Netzzuverlässigkeit setzen. Andernfalls würde die - nach der Behauptung der Betroffenen - mindere Netzqualität in den neuen Bundesländern entgegen dem in § 18 Satz 1 ARegV niedergelegten Ziel der Qualitätsvorgaben verfestigt. Soweit der Netzbetreiber auf eine Ersetzung der alten Kabel verzichtet hat, stellt dies eine eigenverantwortliche Entscheidung dar, aufgrund der er die damit verbundenen Nachteile hinzunehmen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>ff) Ohne Erfolg bleibt auch die Rüge der Rechtsbeschwerde, dass bei der gewählten ökonometrischen Methode die Wechselwirkung zwischen Qualitätselement und Effizienzwert nicht hinreichend berücksichtigt worden sei, weil durch die Berücksichtigung der Lastdichte als einzigem Parameter die mit der Anreizregulierung verbundene Zielsetzung, Anreize zur Effizienzsteigerung zu setzen, ohne die Versorgungsqualität zu beeinträchtigen, verfehlt werde. Eine hohe Lastdichte führe nämlich einerseits zu einer hohen Versorgungssicherheit, andererseits seien damit aber auch Mehrkosten verbunden, die zu einem geringeren Effizienzwert führten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Zutreffend weist die Rechtsbeschwerde allerdings darauf hin, dass zwischen Qualitätselement und Effizienzwert eine Wechselwirkung besteht. Dies hat auch der Gesetzgeber in § 21a Abs. 5 Satz 1 EnWG anerkannt. Von der danach möglichen Integration der Versorgungsqualität in den Effizienzvergleich hat der Verordnungsgeber indes (vorerst) abgesehen und stattdessen die Bestimmung des Qualitätselements nach §§ 19, 20 ARegV als zusätzliches Element neben den Effizienzvergleich nach §§ 12 bis 14 ARegV in die Regulierungsformel eingefügt. Dies ist folgerichtig, weil andernfalls möglicherweise Kosten, die mit der Bereitstellung einer höheren Versorgungsqualität verbunden sind, zu Lasten der Netzbetreiber mit einer vergleichsweise hohen Netzqualität gingen, indem diese als Ineffizienzen ausgelegt werden könnten und damit sinkende Erlösobergrenzen zur Folge hätten (vgl. Herrmann/Westermann in Holznagel/Schütz, ARegV, § 18 Rn. 5 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Dies bedeutet allerdings nicht, dass dieser Ausgleich deckungsgleich sein muss und das Qualitätselement quasi ein genaues Korrektiv für den Effizienzvergleich sein soll. Dies würde die Unterschiede zwischen beiden Elementen verkennen. Es sind weder sachliche noch rechtliche Gründe erkennbar, die eine vollständige Kongruenz zwischen den Parametersätzen zur Berücksichtigung gebietsstruktureller Unterschiede bei der Effizienzbewertung einerseits und bei der Qualitätsbewertung andererseits gebieten. Die Qualitätsvorgabe enthält - anders als der Effizienzvergleich - keine Zielvorgabe, die ein Netzbetreiber erreichen muss. Ziel der Qualitätsregulierung ist nicht die Erreichung eines bestimmten - etwa absolut vorgegebenen oder "bestmöglichen" - Qualitätsniveaus, sondern die Erreichung eines für Netzbetreiber und Netznutzer im Hinblick auf Kosten und Nutzen optimalen Qualitätsniveaus, das langfristig durch einen dynamischen Prozess erzielt werden soll. Dies ergibt sich aus der in § 20 Abs. 3 Satz 1 ARegV geregelten monetären Bewertung, für die insbesondere die Bereitschaft der Kunden, für eine Änderung der Netzzuverlässigkeit niedrigere oder höhere Entgelte zu zahlen, als Maßstab herangezogen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Die Vorgaben des Energiewirtschaftsgesetzes und der Anreizregulierungsverordnung fordern ebenfalls keine Gleichsetzung bei der Bewertung von Effizienz und Qualität. Die Berücksichtigung von "Strukturunterschieden" (§ 21a Abs. 5 Satz 2 EnWG) und "gebietsstrukturellen Unterschieden" (§ 20 Abs. 2 Satz 2 ARegV) bei der Ermittlung von Kennzahlenvorgaben für die Qualitätsregulierung ist zwar in ihrer inhaltlichen Zielsetzung ähnlich aufgebaut wie bei der Effizienzbewertung; eine tatsächliche Berücksichtigung von Strukturparametern ist aber nur dann sachgerecht und erforderlich, wenn sie sich auswirken. Wie oben ausgeführt worden ist, hat die Bundesnetzagentur - rechtsfehlerfrei - den Strukturparameter Lastdichte als alleinigen Parameter für die bestmögliche Abbildung gebietsstruktureller Unterschiede im Rahmen der Qualitätsbewertung erkannt. Demgegenüber werden beim Effizienzvergleich eine Mehrzahl von Vergleichsparametern (§ 13 Abs. 3 Satz 4 ARegV) verwendet, die die strukturelle Vergleichbarkeit möglichst weitgehend gewährleisten sollen (§ 13 Abs. 3 Satz 8 ARegV). Dass diese Parameter nicht zwingend für die Qualitätsbewertung geeignet sind, zeigt sich am Beispiel des Parameters der Leitungslänge, dessen kostentreibende Wirkung auf der Hand liegt, der jedoch in Bezug auf die Versorgungszuverlässigkeit neutral ist (siehe Consentec-Gutachten S. 49).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>gg) Soweit die Rechtsbeschwerde in diesem Zusammenhang rügt, dass in dem Consentec-Gutachten das Netzgebiet der Betroffenen fehlerhaft der Gruppe "West" zugeordnet worden sei, handelt es sich dabei - wie das Beschwerdegericht rechtsfehlerfrei angenommen hat - um ein folgenloses Dokumentationsversehen. Dies ergibt sich aus den ergänzenden Erläuterungen der Gutachter vom 15. Mai 2012, an deren Richtigkeit das Beschwerdegericht zu zweifeln keinen Anlass hatte. Anderes wird auch von der Rechtsbeschwerde nicht aufgezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>e) Entgegen der Auffassung der Rechtsbeschwerde hat das Beschwerdegericht die Berücksichtigung des Störungsanlasses "Einwirkungen Dritter" bei der Bewertung der Netzzuverlässigkeit zu Recht für zulässig erachtet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Nach § 19 Abs. 3 Satz 1 ARegV beschreibt die Netzzuverlässigkeit die Fähigkeit des Energieversorgers, Energie möglichst unterbrechungsfrei und unter Einhaltung der Produktqualität zu transportieren. Nach der Verordnungsbegründung liegt die Netzzuverlässigkeit bei 100 Prozent, wenn ein unterbrechungsfreier Transport von Energie unter Einhaltung der Produktqualität stattfindet (BR-Drucks. 417/07, S. 63). § 20 Abs. 1 ARegV nennt beispielhaft Kennzahlen für die Bewertung der Netzzuverlässigkeit, nämlich die Dauer der Unterbrechung der Energieversorgung, die Häufigkeit der Unterbrechung der Energieversorgung, die Menge der nicht gelieferten Energie und die Höhe der nicht gedeckten Last. Nach der Verordnungsbegründung sollen die Kennzahlen geplante und ungeplante Unterbrechungen berücksichtigen (BR-Drucks. 417/07, S. 64).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Danach ist im Ausgangspunkt jegliche Versorgungsunterbrechung zu berücksichtigen, weil sie für die Verbraucher zu Unannehmlichkeiten führt und eine Verschlechterung der Versorgungsqualität bedeutet. Ziel einer Qualitätsregulierung nach § 18 ARegV muss es sein, eine Versorgungsunterbrechung unter den gegebenen Rahmenbedingungen nach Möglichkeit zu vermeiden und eine aufgetretene Störung so kurz wie möglich zu halten, also auf eine zeitnahe Wiederaufnahme der Energieversorgung hinzuwirken. Soweit die Bundesnetzagentur bei der Bestimmung des Qualitätselements die Störungsanlässe "Höhere Gewalt" und "Rückwirkungsstörungen" sowie geplante Versorgungsunterbrechungen aufgrund von "Zählerwechseln" außer Betracht gelassen hat, liegt dies im Rahmen des ihr zustehenden Entscheidungsspielraums.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Der Störungsanlass "Einwirkungen Dritter" ist indes damit nicht vergleichbar. Aufgrund dessen ist es nicht zu beanstanden, dass die Bundesnetzagentur die erfassten Störungsanlässe - über die genannten Ausnahmen hinaus - nicht auf solche beschränkt hat, die der Netzbetreiber schuldhaft im Sinne des § 276 Abs. 1 BGB verursacht hat, sondern alle Störfälle berücksichtigt hat, deren Verursachung oder deren Behebung in seiner Sphäre liegen. Insoweit hat das Beschwerdegericht zutreffend ausgeführt, dass ein Netzbetreiber Versorgungsunterbrechungen aufgrund des Verhaltens Dritter durchaus beeinflussen kann. Dies gilt sowohl in Bezug auf eine Vermeidung solcher Störungen etwa durch öffentliche Informationen, Schulungsmaßnahmen und sorgfältige Planauskünfte als auch in Bezug auf die möglichst zeitnahe Beseitigung einer gleichwohl eingetretenen Versorgungsunterbrechung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Rechtsbeschwerde ist eine Berücksichtigung nur des Störungsanlasses "Zuständigkeit des Netzbetreibers" nicht ausreichend. Ganz im Gegenteil könnte eine solche Beschränkung sogar zu einer fehlerhaften Datengrundlage führen, weil eine Unterscheidung zwischen den Störungsanlässen "Einwirkungen Dritter" und "Zuständigkeit des Netzbetreibers" bereits bei der Erfassung zu Grenz- oder Konfliktfällen führen und Missbrauchsmöglichkeiten eröffnen würde. Die Feststellung der tatsächlichen Verursachung einer Versorgungsunterbrechung kann im Einzelfall Schwierigkeiten aufwerfen, wenn etwa ein Leitungsschaden zwar unmittelbar auf einem Baggerschaden beruht, dieser aber durch eine unsorgfältige Planauskunft des Netzbetreibers mitverursacht worden oder dies nicht auszuschließen ist. In einem solchen Fall wäre es im Rahmen der Qualitätsregulierung nicht sachgerecht, wenn diese Versorgungsunterbrechung unberücksichtigt bliebe, weil als Störungsanlass "Einwirkungen Dritter" benannt würde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>f) Ohne Erfolg wendet sich die Rechtsbeschwerde gegen die Annahme des Beschwerdegerichts, dass die Bundesnetzagentur zur Dämpfung von Schwankungen nicht zur Einführung eines Tot- oder Konfidenzbandes, d.h. einer Bandbreite von Abweichungen vom Referenzwert ohne Bonus oder Malus, verpflichtet sei. Ein solches Erfordernis sehen weder Energiewirtschaftsgesetz noch Anreizregulierungsverordnung vor. Die Bundesnetzagentur hat sich in der Festlegung entsprechend der Empfehlung der Gutachter (S. 33 f.) dafür entschieden, die Auswirkungen von stochastischen Einflüssen durch eine Mittelwertbildung über mehrere Jahre zu dämpfen. Dies ist aus Rechtsgründen nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>g) Entgegen den Angriffen der Rechtsbeschwerde hat das Beschwerdegericht auch rechtsfehlerfrei angenommen, dass die Bundesnetzagentur den Beginn der Anwendung des Qualitätselements auf den 1. Januar 2012 festsetzen durfte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Nach § 19 Abs. 2 Satz 1 ARegV entscheidet die Regulierungsbehörde über den Beginn der Anwendung des Qualitätselements. Dieser soll nach § 19 Abs. 2 Satz 2 ARegV bereits zur oder im Laufe der ersten Regulierungsperiode erfolgen, soweit der Regulierungsbehörde hinreichend belastbare Datenreihen vorliegen. Insoweit hat das Beschwerdegericht dieser Norm aufgrund ihrer Formulierung als Soll-Vorschrift zutreffend entnommen, dass diese Entscheidung nicht im freien Ermessen der Regulierungsbehörde liegt, sondern bei Vorliegen der genannten Voraussetzung zu erfolgen hat, soweit nicht zwingende Sachgründe entgegenstehen. Das wird von der Rechtsbeschwerde auch nicht in Abrede gestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Das Beschwerdegericht hat rechts- und verfahrensfehlerfrei angenommen, dass der Bundesnetzagentur bei Erlass der Festlegung hinreichend belastbare Datenreihen vorgelegen haben. Dies ist dann der Fall, wenn die ermittelten Daten statistisch eine hinreichende Aussagekraft haben, um für die konkret in den Blick genommenen Kennzahlen der Netzzuverlässigkeit ihrem Umfang und ihrer Beschaffenheit nach repräsentative Aussagen treffen zu können. Nach den - von der Rechtsbeschwerde in nicht rechtserheblicher Form angegriffenen - Feststellungen des Beschwerdegerichts war dies hier - wie bereits oben ausgeführt worden ist - der Fall. Aufgrund dessen hat für das Beschwerdegericht kein Anlass bestanden, eigene Feststellungen zur hinreichenden Belastbarkeit der von der Bundesnetzagentur herangezogenen Datenreihen zu treffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Soweit die Rechtsbeschwerde in diesem Zusammenhang rügt, dass die Bundesnetzagentur die Anzahl der betroffenen Letztverbraucher in nachgelagerten Netzen bei der Qualitätsbewertung unberücksichtigt gelassen habe, ist dies - wie oben dargelegt - unbehelflich. Gleiches gilt für ihren Einwand, die Bundesnetzagentur habe die Ergebnisse des Consentec-Gutachtens "angepasst", indem sie die Referenzwertfunktion für die Niederspannung verändert habe. Dies betrifft die in Nummer 8 der Festlegung beschriebene alternative Berechnungsformel, die für den Fall angewendet werden soll, dass dem Strukturparameter Lastdichte nach Überprüfung der aufgrund der Festlegung vom 20. April 2011 erhobenen Daten keine statistische Signifikanz zukommen sollte. Die - im Vergleich zu dem Eckpunktepapier erfolgte - Änderung dieser Formel wird in Nummer II 7.1 der Begründung der Festlegung damit erklärt, dass die ursprüngliche Formel nach Hinweisen aus der Praxis nicht nachvollziehbar gewesen sei. Die Rechtsbeschwerde zeigt demgegenüber keine Anhaltspunkte dafür auf, dass die Änderung der Referenzwertformel aufgrund einer Anpassung der ursprünglichen Datenreihen tatsächlich erforderlich gewesen wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Die Kostenentscheidung beruht auf § 90 Satz 1 EnWG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                            Raum                            Kirchhoff</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                       Grüneberg                           Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301142014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

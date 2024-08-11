@@ -1,0 +1,2247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE603262024</doknr>
+   <ecli>ECLI:DE:BGH:2024:110124UXZR73.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240111</entsch-datum>
+   <aktenzeichen>X ZR 73/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BPatG München, 26. Mai 2021, Az: 4 Ni 4/21 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 26. Mai 2021 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 2 447 942 (Streitpatents), das am 1. Dezember 2006 unter Inanspruchnahme einer japanischen Priorität vom 6. Januar 2006 angemeldet worden ist und eine Spracherkennungsvorrichtung betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den ein weiterer Anspruch zurückbezogen ist, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A speech recognition apparatus, comprising</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">recognition unit (114) for carrying out a speech recognition process of recognizing the spoken words of a user,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">instruction means (109) for receiving speech recognition start instructions from the user, and instructing the recognition means (114) to start the speech recognition process,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">display means (110) for displaying at least one of recognizable speech words of the recognition unit (114),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein a set-up period of time is necessary from the time when the recognition means (114) receives instructions of start of the speech recognition process from the instruction means (109) to the time when the recognition means (114) is ready to carry out the speech recognition process,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein the speech recognition apparatus further comprises control means (112),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">the control means (112), during the set-up period of time, controls the display means (110) for displaying a prohibition character (3) indicative of prohibition of speech and the at least one of recognizable speech words and, after a lapse of the set-up period of time, controls the display means (110) for displaying a permission character indicative of permission of speech to be displayed, in a position where the prohibition character was displayed.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent wegen fehlender Patentfähigkeit angegriffen. Die Beklagte hat das Streitpatent wie erteilt und hilfsweise im Umfang von Patentanspruch 2 verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Klage abgewiesen. Dagegen richtet sich die Berufung der Klägerin, mit der sie weiterhin die vollständige Nichtigerklärung des Streitpatents begehrt. Die Beklagte tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, bleibt jedoch in der Sache ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Spracherkennungsvorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents kann eine Spracherkennungsvorrichtung, wie sie etwa in Navigationssystemen verwendet wird, einen Sprachtext analysieren, erkennen und auf dieser Grundlage eine Vielzahl von Prozessen durchführen (Abs. 2). Einige dieser Vorrichtungen wiesen ein Display auf, auf dem eine Liste möglicher Spracheingaben angezeigt werde (Abs. 4). Solche Spracherkennungsvorrichtungen reagierten teilweise nicht zu jeder Zeit auf eine Spracheingabe, sondern müssten zunächst aktiviert werden (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Zum Teil verstreiche zwischen der Aktivierung der Spracherkennungsvorrichtung, die etwa durch Drücken eines Schalters erfolge, und der Bereitschaft der Vorrichtung, eine Spracheingabe zu erkennen, eine gewisse Zeit. Herkömmlich sei der Nutzer darauf hingewiesen worden, dass die Spracheingabe erst ab einem bestimmten Zeitpunkt erfolgen könne. Diese Information werde dem Nutzer im Stand der Technik etwa durch eine Ansage vermittelt (Abs. 7). Aus der japanischen Offenlegungsschrift Hei-2003-177789 (NK9) sei ferner bekannt, ein sich bewegendes Bild anzuzeigen, das den Nutzer "intuitiv" darüber informiere, wann eine Spracheingabe möglich sei (Abs. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nachteilig hieran sei, dass insbesondere Nutzer, die mit der Vorrichtung nicht vertraut seien, sich auf die angezeigte Liste möglicher Spracheingaben konzentrierten und dadurch nicht auf ein etwa angezeigtes bewegtes Bild achteten, das sie auf den Zeitpunkt hinweise, ab dem sie einen Sprachbefehl eingeben könnten (Abs. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund kann das technische Problem dahin beschrieben werden, eine Spracherkennungsvorrichtung bereitzustellen, bei der eine Fehleingabe des Nutzers möglichst unterbleibt und zugleich unnötige Verzögerungen vermieden werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Das Streitpatent schlägt hierzu in Patentanspruch 1 eine Vorrichtung vor, deren Merkmale sich wie folgt gliedern lassen (abweichende Gliederung des Patentgerichts in eckigen Klammern).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p>1.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A speech recognition apparatus, comprising <strong>[1.1]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Spracherkennungsvorrichtung, umfassend</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">recognition unit (114) for carrying out a speech recognition process of recognizing the spoken words of a user; <strong>[1.1.1]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Erkennungseinheit (114) zum Ausführen eines Spracherkennungsprozesses des Erkennens der gesprochenen Wörter des Nutzers;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">instruction means (109) for receiving speech recognition start instructions from the user, and instructing the recognition means (114) to start the speech recognition process; <strong>[1.1.2]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Anweisungsmittel (109) zum Empfangen einer Spracherkennungs-Start-Anweisung des Nutzers und zum Anweisen des Erkennungsmittels (114), den Spracherkennungsprozess zu starten;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">display means (110) for displaying at least one of recognizable speech words of the recognition unit (114); <strong>[1.1.3]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Anzeigemittel zum Anzeigen mindestens eines erkennbaren gesprochenen Worts der Erkennungseinheit (114);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">control means (112). <strong>[1.3]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Steuerungsmittel (112).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A set-up period of time is necessary from the time when the recognition means (114) receives instructions of start of the speech recognition process from the instruction means (109) to the time when the recognition means (114) is ready to carry out the speech recognition process. <strong>[1.2]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Ein Einstellungszeitraum ist erforderlich, der von dem Zeitpunkt, zu dem die Erkennungseinheit (114) Anweisungen zum Start des Spracherkennungsprozesses vom Anweisungsmittel (109) empfängt, bis zu dem Zeitpunkt reicht, in welchem das Erkennungsmittel (114) bereit ist, den Spracherkennungsprozess auszuführen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The control means (112), during the set-up period of time, controls the display means (110) for displaying <strong>[1.3.1]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Das Steuerungsmittel steuert das Anzeigemittel während des Einstellungszeitraums zur Anzeige</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a prohibition character indicative of prohibition of speech</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eines Verbotszeichens (3), das das Verbot einer Spracheingabe anzeigt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">and the at least one of recognizable speech words.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">und mindestens eines erkennbaren Wortes.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The control means, after a lapse of the set-up period of time, controls the display means (110) for displaying <strong>[1.3.2]</strong>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Das Steuerungsmittel steuert das Anzeigemittel nach dem Verstreichen des Einstellungszeitraums zur Anzeige</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a permission character indicative of permission of speech to be displayed, in a position where the prohibition character was displayed.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eines Erlaubniszeichens, das die Erlaubnis zur Spracheingabe in einer Position anzeigt, in der das Verbotszeichen angezeigt wurde.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Ausgangspunkt für die Einleitung des Spracherkennungsprozesses ist nach Merkmal 1.2 eine Start-Anweisung des Nutzers. Hierzu verfügt die Vorrichtung über ein Anweisungsmittel zum Empfangen einer solchen Anweisung, etwa vermittelt durch einen vom Nutzer zu betätigenden Sprachknopf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Der Empfang der Start-Anweisung in der Erkennungseinheit markiert den Beginn des notwendigen Einstellungszeitraums gemäß Merkmal 2. Es beginnt eine zeitliche Phase, in der eine Spracherkennung technisch bedingt noch nicht möglich ist, obwohl der entsprechende Nutzerwunsch schon durch den Empfang der Start-Anweisungen in der Erkennungseinheit vorliegt. Hier besteht die Gefahr, dass der Nutzer entsprechend seinem Wunsch bereits Spracheingaben tätigt, die aber noch nicht erkannt werden können (Abs. 6). Der Einstellungszeitraum endet demgemäß, wenn die notwendige Einstellzeit abgelaufen ist und die Erkennungseinheit infolge dessen technisch bereit zur Ausführung des Spracherkennungsprozesses ist. Inwieweit und nach Maßgabe welcher weiteren Ablaufvorgaben der Spracherkennungsprozess anschließend tatsächlich umgesetzt wird, ist nicht mehr Gegenstand von Merkmal 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>c) Patentanspruch 1 enthält keine ausdrückliche Angabe zur Dauer des Einstellungszeitraums. Wie das Oberlandesgericht Karlsruhe in der als Anlage B3 vorgelegten Entscheidung im Verletzungsrechtsstreit (Urteil vom 8. Dezember 2021, S. 24) und das Patentgericht zutreffend angenommen haben, legt das Streitpatent zugrunde, dass der Einstellungszeitraum jedenfalls so lange währt, dass die Anzeigen nach Merkmalsgruppe 3 vom Nutzer wahrgenommen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Berufung entnimmt das Patentgericht dem Anspruch nicht, dass die Spracherkennungsvorrichtung vor dem Beginn des Einstellungszeitraums inaktiv sein müsse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat zutreffend darauf hingewiesen, dass es um eine Spracherkennungsvorrichtung geht, die nicht ständig einsatzbereit ist. Es ist danach nicht ausgeschlossen, dass die Vorrichtung zunächst aktiv ist, dann aber die Bereitschaft zur Spracherkennung endet, so dass sie, sofern eine neue Eingabe gewünscht wird oder erforderlich ist, erneut aktiviert werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 setzt insofern nur voraus, dass es bei dem Betrieb der Vorrichtung einen Zeitraum gibt, der mit einer Spracherkennungs-Start-Anweisung beginnt und bis zu dem Zeitpunkt reicht, in dem die Spracherkennungsvorrichtung technisch bereit ist, den Spracherkennungsprozess - erneut - auszuführen. Eine Spracherkennungs-Start-Anweisung des Nutzers kann, wie das Ausführungsbeispiel nach Figur 3 und dessen Erläuterung in Absatz 60 der Beschreibung verdeutlichen, auch in einer Spracheingabe des Nutzers bestehen, sofern diese das Erfordernis einer weiteren Spracheingabe mit sich bringt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>e) Nach Merkmalsgruppe 3 ist das Steuerungsmittel so eingerichtet, dass es während des Einstellungszeitraums die Anzeige zweier Elemente steuert: Die Anzeige eines Verbotszeichens (prohibition character, Merkmal 3.1) und die Anzeige einer Liste von erkennbaren Wörtern (Merkmal 3.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Zur Anordnung und Größe von Verbotszeichen einerseits und der aufgelisteten erkennbaren Wörter andererseits macht Anspruch 1 keine Vorgaben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die Auffassung der Berufung, das Patentgericht habe die Aufgabe und damit auch die Lösung unzutreffend bestimmt, trifft nicht zu. Maßgeblich für die Bestimmung der objektiven Aufgabe ist, was die Erfindung tatsächlich leistet. Die Lehre des Streitpatents geht dahin, dass dem Nutzer während des Einstellungszeitraums gleichzeitig die erkennbaren Wörter und ein Verbotszeichen angezeigt werden. Dies erlaubt es, dass der Nutzer schon zu einer Zeit, während der die Spracherkennung noch nicht bereit ist, sieht, welche Eingabe er demnächst machen kann; zugleich wird der Gefahr entgegengewirkt, dass er eine Eingabe macht, bevor die Spracherkennungsvorrichtung hierfür bereit ist. Dies gewährleistet eine möglichst rasche und zugleich fehlerfreie Nutzung der Spracherkennungsvorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Das Patent legt zugrunde, dass eine in der Beschreibung angesprochene gleichzeitige Anzeige eines erkennbaren Sprachtextes und eines sich bewegenden Bildes in einer Ecke des Bildschirms - als Hinweis auf den noch laufenden Einstellungszeitraum - dieser Gefahr nicht ausreichend entgegenwirkt und schlägt deshalb die Anzeige eines Verbotszeichens vor. Auch ohne konkrete Vorgaben zur Anordnung und Größe von Verbotszeichen und erkennbarem Wort ergibt eine funktionale Auslegung des Anspruchs, dass eine Gestaltung gefordert ist, die hinreichend sicherstellt, dass beide Anzeigen deutlich wahrgenommen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>f) Die Auffassung der Berufung, der Anspruch lasse offen, ob das Verbotszeichen und die Liste der erkennbaren Wörter auch schon vor dem Beginn des Einstellungszeitraums angezeigt werden, teilt der Senat nicht. Jedenfalls für das Verbotszeichen ist eine Anzeige erst ab dem Zeitpunkt sinnvoll, in dem der Nutzer die Spracherkennungs-Start-Anweisung gegeben hat und darauf wartet, mit der Spracheingabe beginnen zu können. Für diese Deutung spricht zudem die Parallele zu Merkmalsgruppe 4. Danach sind Merkmalsgruppen 3 und 4 dahin zu verstehen, dass die Anzeige des Verbotszeichens und der Liste erkennbarer Wörter erst während des Einrichtungszeitraums erfolgt und die Anzeige des Erlaubniszeichens erst erfolgt, nachdem dieser abgelaufen ist. Dem entspricht es, dass nach den Figuren 3 und 5 die Anzeige der Liste erkennbarer Wörter und des Verbotszeichens (Schritt 3) jeweils nach dem Beginn des Einstellungszeitraums (Schritt 2) vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 kann dagegen nicht entnommen werden, dass die Anzeige des Verbotszeichens und der Liste erkennbarer Wörter bereits unmittelbar nach dem Empfang der Spracherkennungs-Start-Anweisung erfolgt. Für die Ausführungsbeispiele ist dies zwar in der Beschreibung so vorgesehen (Abs. 19, 20, 71), doch hat dies im Anspruch keinen Niederschlag gefunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>g) Merkmalsgruppe 4 gibt als Zeitpunkt für die von der Steuerung zu veranlassende Anzeige des Erlaubniszeichens den Ablauf des Einstellungszeitraums an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Aus der Vorgabe, dass das Erlaubniszeichen an der Stelle anzuzeigen ist, an der das Verbotszeichen (im vorhergehenden Einstellungszeitraum) angezeigt wurde, folgt in zeitlicher Hinsicht, dass das Verbotszeichen im Einstellungszeitraum und das Erlaubniszeichen nach Ablauf dieses Zeitraums angezeigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>h) Unter einem Verbotszeichen (prohibition character) und einem Erlaubniszeichen (permission character) im Sinne der Merkmale 3.1 und 4.1 ist jeweils ein Text aus alphanumerischen Zeichen zu verstehen, also ein einzelnes Zeichen oder eine Abfolge von Zeichen, bei denen es sich lediglich um Buchstaben oder die Ziffern 0 bis 9 handelt. Dagegen fallen Symbole oder Bilder - entgegen der Auffassung des Patentgerichts - nicht unter den Begriff des Verbots- bzw. Erlaubniszeichens im Sinne von Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Der Wortlaut des Anspruchs ist insoweit nicht eindeutig. In den Ausführungsbeispielen und in der Beschreibung ist als "prohibition character" jeweils eine Abfolge von Wörtern ("You cannot make a speech yet") vorgesehen, die auch als "speech prohibition message" bezeichnet wird. Dies entspricht dem allgemeinen Sprachgebrauch, der im Zusammenhang mit elektronischer Datenverarbeitung unter "character" Schriftzeichen und damit Zahlen oder Buchstaben versteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>In Einklang damit spricht die Beschreibung davon, dass die "character" gelesen werden (Abs. 23). Ferner ist erwähnt, dass die "speech prohibition message" in einer anderen Sprache als die erkennbaren Wörter wiedergegeben wird (Abs. 34). Beides ist nur in Bezug auf einen Text, nicht aber in Bezug auf ein Symbol oder Bild sinnvoll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Entscheidend kommt hinzu, dass die Beschreibung, insbesondere in Absatz 20, die "prohibition speech message", als Beispiel für einen "prohibition character" bezeichnet und ihr eine "prohibition mark" als Beispiel für ein "prohibition image" gegenüberstellt. Diese Unterscheidung zwischen "message" und "character" auf der einen Seite und "mark" und "image" auf der anderen Seite zieht sich durch die gesamte Beschreibung (s. Abs. 23 und 24, Abs. 56, 58, 61, 71, 80).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Entsprechend handelt es sich bei dem Erlaubniszeichen im Sinne von Merkmal 4.1 um ein Schriftzeichen oder eine Folge solcher Zeichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 werde durch die US-amerikanische Patentanmeldung 2003/0095212 (NK5) nicht vollständig vorweggenommen. Ob der Fachmann dieser Entgegenhaltung entnehme, dass eine Liste mit erkennbaren Wörtern angezeigt werde, könne offenbleiben, denn jedenfalls erfolge eine solche Anzeige nicht während des Einstellungszeitraums. Zudem fehle es an der Anzeige eines Verbotszeichens während des Einstellungszeitraums.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Auch das US-amerikanische Patent 5 864 815 (NK6) sei nicht neuheitsschädlich. NK6 offenbare keinen Einstellungszeitraum, in dem ein Verbotszeichen und erkennbare Wörter und nach dessen Ablauf ein Erlaubniszeichen angezeigt würden. Selbst wenn man annehme, dass das Umschalten einen Zeitraum benötige, werde in diesem keine Liste erkennbarer Wörter angezeigt. Diese könne nur durch einen Sprachbefehl aufgerufen werden, also erst zu einer Zeit, in der die Spracheingabe bereits möglich sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>NK9 (in deutscher Übersetzung als NK9a) nehme den Gegenstand von Patentanspruch 1 ebenfalls nicht vollständig vorweg. Zwar seien dort mit den sich vergrößernden Figuren Verbotszeichen und Erlaubniszeichen offenbart. Nicht offenbart sei jedoch die Anzeige mindestens eines erkennbaren Wortes während des Einstellungszeitraums.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Der Neuheit des Gegenstands von Patentanspruch 1 stehe auch die japanische Patentanmeldung Hei-2002-108390 (NK10, in deutscher Übersetzung als NK10b) nicht entgegen. Dort fehle es jedenfalls an der Offenbarung der Anzeige eines Erlaubniszeichens nach dem Verstreichen des Einstellungszeitraums und an der Anzeige mindestens eines erkennbaren Wortes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents beruhe auf erfinderischer Tätigkeit. Entgegen der Auffassung der Klägerin handele es sich bei der Anweisung, während des Einstellungszeitraums mindestens ein erkennbares Wort anzuzeigen, um ein technisches Merkmal. Ausgehend von der NK9 gebe der Stand der Technik keinen Hinweis darauf, eine Liste der erkennbaren Wörter bereits während des Einstellungszeitraums anzuzeigen. Eine andere Beurteilung sei auch dann nicht angezeigt, wenn NK10 als Ausgangspunkt angesehen werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht den Gegenstand von Patentanspruch 1 gegenüber NK6 als neu angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Beschreibung der NK6 sind Spracherkennungsvorrichtungen bereits bekannt. Schwierigkeiten könne bereiten, dass im Rahmen der Nutzung der Spracherkennung Rückmeldungen an den Nutzer erforderlich seien. Würden solche Rückmeldungen auf dem Bildschirm in einem Fenster angezeigt, könne dies dazu führen, dass sie einen erheblichen Teil der Fläche des Bildschirms beanspruchten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>NK6 schlägt vor diesem Hintergrund vor, die Rückmeldung an den Nutzer so zu gestalten, dass sie wenig Fläche benötigt. Dafür ist ein bestimmter Benachrichtigungsbereich (designated notification area) vorgesehen. In diesem Bereich soll eine Benachrichtigung über einen von mindestens zwei unterschiedlichen Zuständen der Spracherkennungsvorrichtung angezeigt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>NK6 erläutert dies anhand eines Ausführungsbeispiels, das in den Figuren 2 bis 4 und 7 bis 12 dargestellt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Danach wird durch ein kleines Icon in der rechten unteren Ecke des Bildschirms angezeigt, in welchem von drei möglichen Zuständen - listening, not listening oder stand-by - sich die Spracherkennung aktuell befindet. Wird die Maus auf das Icon geführt, wird ein Tooltipp ("Microsoft Voice") angezeigt, der darüber informiert, dass sich das Icon auf die Spracherkennung bezieht. Der Nutzer kann einen Wechsel des Zustands herbeiführen, indem er auf das Icon klickt. Dadurch öffnet sich ein Menü, in dem er den Punkt "Listening Mode" anklicken und dann in einem Untermenü einen der drei möglichen Zustände wählen kann. Der so gewählte Zustand wird durch eine entsprechende Änderung des Icons angezeigt. Wird die Maus nun über das jeweilige Icon geführt, wird dem Nutzer ein Tooltipp angezeigt, mit dem er in Textform über den Zustand informiert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Erfolgt während des Zustands "listening" eine Spracheingabe, wird anstelle des Icons, das den Zustand anzeigt, ein anderes Icon dargestellt, das die Verarbeitung der Audio-Eingabe symbolisiert. Im Ausführungsbeispiel ist das eine Sanduhr. Zugleich wird ein Tooltipp eingeblendet, der eine Rückmeldung darüber anzeigt, ob die Vorrichtung die Spracheingabe erkennen konnte oder nicht. Im Ausführungsbeispiel reagiert die Vorrichtung auf die erfolgreiche Eingabe der Frage "What can I say?" mit der Anzeige einer Liste möglicher Sprachbefehle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht hat das Patentgericht entschieden, dass die Entgegenhaltung nicht sämtliche Merkmale von Patentanspruch 1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>aa) Es fehlt bereits an einer unmittelbaren und eindeutigen Offenbarung eines Einstellungszeitraums im Sinne des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>NK6 ist nicht zu entnehmen, dass ab dem vom Nutzer veranlassten Wechsel der Spracherkennung vom Zustand "not listening" in den Zustand "listening" durch Anklicken des entsprechenden Menüpunktes bis zu dem Zeitpunkt, in dem die Vorrichtung zur Spracherkennung bereit ist, ein Zeitraum im Sinne von Merkmal 2 verstreicht. Entgegen der Darstellung der Berufung hat das Patentgericht nicht bestätigt, dass NK6 einen Einstellungszeitraum offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>NK6 ist insbesondere nicht das Vorliegen einer relevanten "technisch bedingten" Verzögerung bei einem Zustandswechsel zu entnehmen. Selbst wenn der Vortrag der Berufung zutreffen sollte, dass stets eine technisch bedingte Verzögerung auftritt, ist weder aus NK6 noch sonst ersichtlich, dass diese so lange andauert, dass ein Verbotszeichen oder ein erkennbares Wort in für den Nutzer wahrnehmbarer Weise angezeigt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>bb) Auch Merkmal 3.1 ist nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>(1) Das Icon, das den Status "not listening" anzeigt, stellt ein Symbol dar und ist damit kein Verbotszeichen im Sinne von Merkmal 3.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>NK6 sieht zwar auch die Möglichkeit vor, dass anstelle eines Icons ein entsprechender Text den aktuellen Status kennzeichnet. Die Anzeige eines solchen Textes ("not listening") erfolgt aber nur unter der zusätzlichen Voraussetzung, dass der Nutzer mit der Maus auf das Icon geht. Patentanspruch 1 erfordert jedoch, dass die Anzeige eines Verbotszeichens durch das Steuerungsmittel nur voraussetzt, dass der Einstellungszeitraum begonnen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(2) Unabhängig davon hat das Patentgericht zutreffend angenommen, dass NK6 nicht unmittelbar und eindeutig offenbart, ob das für den Status "not listening" stehende Icon auch bei Auslösen des Statuswechsels noch für eine gewisse Zeit angezeigt wird oder ob unmittelbar das Icon angezeigt wird, das für "listening" steht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Soweit die Berufung in diesem Zusammenhang darauf verweist, dass nach NK6 stets der aktuelle Status ("current state", Sp. 4 Z. 13) angezeigt werde, rechtfertigte dies nur dann eine andere Beurteilung, wenn NK6 unmittelbar und eindeutig zu entnehmen wäre, dass sich der Status nicht unmittelbar mit dem Anklicken eines anderen Modus ändert. Diese Voraussetzung trifft jedoch, wie bereits ausgeführt wurde, schon mangels Offenbarung eines relevanten Einstellzeitraums nicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>cc) Schließlich ist NK6 auch Merkmal 3.2 nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Ob das von der Berufung angeführte Szenario zutrifft - der Nutzer wählt zunächst "listening", gibt sodann "What can I say?" ein, woraufhin ihm eine Liste erkennbarer Wörter angezeigt wird, dann schaltet er auf "not listening" um, so dass ihm das Icon für "not listening", aber weiterhin die Liste erkennbarer Wörter angezeigt werden - kann insoweit offenbleiben. Ein solches Szenario ergibt sich jedenfalls nur aufgrund eigenständiger fachlicher Überlegungen und ist damit durch NK6 nicht unmittelbar und eindeutig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Mit der von der Berufung angesprochenen Möglichkeit, die Liste erkennbarer Wörter in dem in Figur 7 gezeigten Menü (62) anzuklicken, ist ebenfalls nicht unmittelbar und eindeutig eine Anzeige im Zusammenhang mit einem relevanten Einstellungszeitraum offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>2. Zu Recht und von der Berufung unbeanstandet hat das Patentgericht NK5 nicht als neuheitsschädlich angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>a) NK5 befasst sich mit der Fernsteuerung von elektrischen Geräten im Haushalt. Da die Zahl solcher Geräte und die Möglichkeiten der Bedienung vielfältig seien, könne die Bedienbarkeit durch eine Fernbedienung verbessert werden, die sowohl die Betätigung von Tasten wie Spracheingaben ermöglicht. Dabei sei es wünschenswert, dass bei einer Spracheingabe eine optische Rückmeldung über ein GUI (graphic user interface) erfolge (Abs. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>NK5 erläutert ein Ausführungsbeispiel anhand der nachstehend wiedergegebenen Figur 1:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="348px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Danach ist eine Fernbedienung (10) vorgesehen, die sowohl über Tasten (1) wie über ein Mikrofon (5) verfügt, über das Sprache (V) eingegeben werden kann. Drückt der Nutzer eine Sprechtaste (8), wird ihm auf dem Bildschirm (28A) durch Text (TX) und Bild (IM) angezeigt, dass eine Spracheingabe möglich ist. Eine Spracheingabe wird nur verarbeitet, solange die Sprechtaste gedrückt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>b) NK5 nimmt zwar die Merkmalsgruppe 1 vorweg. Die weiteren Merkmale sind jedoch in NK5 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>aa) Es fehlt auch hier an einer unmittelbaren und eindeutigen Offenbarung eines Einstellungszeitraums im Sinne von Merkmal 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>NK5 ist nicht zu entnehmen, dass ab dem Drücken der Sprechtaste bis zu dem Zeitpunkt, in dem auf dem Bildschirm die Anzeige erscheint, dass eine Spracheingabe möglich ist, ein Zeitraum im Sinne von Merkmal 2 verstreicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>In Tabelle 4 ist als möglicher Fehler auch der Fall aufgeführt, dass eine Spracheingabe nicht erkannt wird ("not ready to receive voices"). In einer solchen Situation wird dem Nutzer als Rückmeldung der Text 12 nach Tabelle 2 angezeigt ("Please speak again"). Danach erfolgt diese Meldung nicht in einer Situation, in der die Vorrichtung nicht bereit ist, den Spracherkennungsprozess auszuführen. Es handelt sich vielmehr um eine Rückmeldung auf eine unzureichende Spracheingabe (Abs. 181-183).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>bb) Dem entspricht es, dass NK5 keine Anzeige einer Folge alphanumerischer Zeichen vorsieht, die eine Spracheingabe verbietet. Eine solche ist insbesondere in Tabelle 2 nicht aufgeführt. Der Entgegenhaltung ist lediglich zu entnehmen, dass nach dem Drücken der Sprechtaste auf die Möglichkeit hingewiesen wird, eine Spracheingabe vorzunehmen. Damit ist auch Merkmal 3.1 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>cc) Auch Merkmal 3.2 ist NK5 nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Zwar ist in der Beschreibung die Möglichkeit angedeutet, dass dem Nutzer neben einer Liste der von der Spracherkennungsvorrichtung erkannten Wörter auch eine Liste von "Kandidaten" angezeigt wird (Abs. 199, s. auch Abs. 55). Da es an einem Einstellungszeitraum fehlt, ist jedoch eine Anzeige einer solchen Liste während des Einstellungszeitraums nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>dd) Entsprechend fehlt es auch an einer Vorwegnahme der Merkmalsgruppe 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>3. Auch NK9 steht der Neuheit des Gegenstands von Patentanspruch 1 nicht entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>a) Nach NK9 entstehen bei den bekannten Spracherkennungsvorrichtungen Verzögerungen zwischen dem Zeitpunkt, zu dem die Spracheingabe durch Drücken eines Schalters gestartet wird, bis zu ihrem tatsächlichen Start. Dies könne dazu führen, dass der Nutzer schon zu dem Zeitpunkt, zu dem er den Schalter betätige, zu sprechen beginne und das Anfangssegment der eingegebenen Sprache nicht aufgezeichnet werde (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Bislang sei es insoweit bekannt gewesen, den Zeitpunkt, in dem die Vorrichtung zur Spracheingabe bereit sei, durch ein akustisches Signal oder die Anzeige eines Bildes kenntlich zu machen. Auf diese Weise werde dem Nutzer der Zeitpunkt, ab dem eine Spracheingabe verarbeitet werden könne, nicht hinreichend deutlich gemacht (Abs. 3, 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>NK9 schlägt vor, ab dem Zeitpunkt, in dem die Vorrichtung eingeschaltet werde, bis zu dem Zeitpunkt, in dem sie zur Verarbeitung einer Spracheingabe bereit sei, auf einer Anzeigeeinheit eine sich bewegende Figur anzuzeigen (Abs. 5). Dadurch könne der Nutzer den Status der Spracherkennungsvorrichtung über den Zeitraum vom Betätigen des Schalters bis zum tatsächlichen Start der Spracherkennung visuell verfolgen. So werde vermieden, dass er zu früh zu sprechen beginne (Abs. 17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>b) Damit sind Merkmalsgruppe 1 und Merkmal 2 vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>aa) Dagegen ist Merkmalsgruppe 3 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Merkmal 3.1 ist nicht verwirklicht, weil dem Nutzer keine Folge alphanumerischer Zeichen und damit kein Verbotszeichen im Sinne des Streitpatents angezeigt wird, sondern ein Symbol.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>NK9 offenbart auch keine Anzeige mindestens eines von der Spracherkennungsvorrichtung erkennbaren Wortes (Merkmal 3.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>bb) Auch Merkmalsgruppe 4 ist nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Zwar dürfte NK9 zu entnehmen sein, dass das Symbol, das sich während des Einstellungszeitraums bewegt hat, weiterhin angezeigt wird, nun aber ohne Bewegung. Da es sich jedoch nicht um eine Folge alphanumerischer Zeichen handelt, offenbart NK9 kein Erlaubniszeichen im Sinne von Merkmal 4.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>4. NK10 trifft das Streitpatent ebenfalls nicht neuheitsschädlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>a) NK10 beschäftigt sich mit einer Spracherkennungsvorrichtung, bei der die Spracherkennung nur während eines Zeitraums erfolgt, in dem der Nutzer den Schalter gedrückt hält, oder nur für eine festgelegte Zeitdauer nach Betätigen eines Schalters. Auch bei einer solchen Vorrichtung könne eine vollständige Erfassung der Spracheingabe misslingen, wenn etwa der Nutzer erst kurze Zeit nach Sprechbeginn den Schalter drückt oder diesen kurz vor dem Ende des Sprechens loslasse (Abs. 7). NK10 setzt sich zum Ziel, die hierdurch auftretenden Fehler bei einfacher Bedienbarkeit zu minimieren (Abs. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Die Entgegenhaltung schlägt hierzu vor, die Vorrichtung so auszulegen, dass die Spracheingabeeinheit beim Wechsel des Schalters von AUS auf EIN sofort über den Start der Sprachsignalerfassung informiert wird, dem Benutzer dagegen erst nach Ablauf einer festgelegten Einstellzeit angezeigt wird, dass die Spracheingabe nun möglich ist (Abs. 15). Diese Information des Nutzers kann etwa dadurch vermittelt werden, dass ihm zunächst ein liegendes Mikrofon und nach Ablauf der Einstellzeit ein vertikal angeordnetes Mikrofon angezeigt wird (Abs. 41 mit Figur 4). Die Einstellzeit liegt nach NK10 vorzugsweise bei ein paar hundert Millisekunden (Abs. 39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Dagegen wird beim Schalten von EIN auf AUS die Spracheingabeeinheit erst mit einer festgelegten Verzögerungszeit über das Ende der Sprachsignalerfassung informiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>b) Damit ist Merkmalsgruppe 1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>c) Es fehlt jedoch, anders als die Berufung meint, an einer Offenbarung von Merkmal 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>NK10 geht ausdrücklich davon aus, dass die Spracheingabeeinheit "sofort" bei Betätigen des Schalters einsatzbereit ist. Wenn dem Nutzer durch entsprechende Anzeige erst mit einer kurzen Verzögerung signalisiert wird, dass die Spracheingabe möglich ist, geschieht dies nicht deshalb, weil das Spracherkennungsmittel noch nicht bereit ist, den Spracherkennungsprozess durchzuführen, sondern nur, um zu verhindern, dass der Nutzer bereits vor der Betätigung des Schalters spricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>d) Damit fehlt es auch an einer Vorwegnahme von Merkmalsgruppen 3 und 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>NK10 sieht nicht vor, dass die fehlende Bereitschaft zur Spracheingabe durch ein Verbotszeichen im Sinne des Streitpatents vermittelt wird, sondern verwendet dafür ein Icon.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Auch die Anzeige mindestens eines erkennbaren Wortes ist durch NK10 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>5. Schließlich steht die europäische Patentanmeldung 1 028 410 (NK14) der Neuheit des Gegenstands von Patentanspruch 1 nicht entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>a) Diese erstmals in der Berufungsinstanz vorgelegte Entgegenhaltung ist gemäß § 117 PatG und § 531 Abs. 2 Satz 1 ZPO zu berücksichtigen, weil die Klägerin keinen Anlass hatte, sie bereits in erster Instanz vorzulegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin durfte aufgrund des nach § 83 Abs. 1 PatG erteilten, ihr günstigen Hinweises davon ausgehen, dass ihre Nichtigkeitsklage Erfolg haben würde. Bei dieser Ausgangslage hatte sie keinen Anlass, weitere Entgegenhaltungen vorzulegen. Der Hinweis gemäß § 83 Abs. 1 PatG dient dazu, den Streitstoff möglichst zu konzentrieren. Dieser Zielsetzung stünde es entgegen, wenn eine Partei gehalten wäre, zu einem Gesichtspunkt ergänzend vorzutragen, hinsichtlich dessen der Hinweis eine ihr günstige Entscheidung erwarten lässt. Schon aufgrund des notwendigerweise vorläufigen Charakters des Hinweises konnte die Klägerin zwar nicht sicher davon ausgehen, dass das Patentgericht an seiner Einschätzung festhalten würde. Sie durfte aber darauf vertrauen, dass sie Gelegenheit zur Ergänzung ihres Vorbringens erhält, wenn das Patentgericht im weiteren Verlauf des Rechtsstreits zu einer anderen Bewertung gelangt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Beklagten konnte der Umstand, dass sie den Ausführungen des Patentgerichts im qualifizierten Hinweis entgegengetreten ist, einen solchen Hinweis nicht ersetzen. Die Beklagte war gehalten, auf den erteilten Hinweis zu reagieren, soweit sie an ihrem von der Auffassung des Patentgerichts abweichenden Standpunkt festhalten wollte. Aus ihrem Vorbringen ergaben sich im Streitfall aber keine neuen Gesichtspunkte, die es als offensichtlich erscheinen ließen, dass das Patentgericht von seiner vorläufigen Bewertung abrücken würde (BGH, Urteil vom 15. März 2022 - X ZR 45/20, GRUR 2022, 975 Rn. 78 ff. - Windturbinenschaufelmontage).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>b) Auch diese Entgegenhaltung nimmt jedoch den Gegenstand von Patentanspruch 1 nicht vollständig vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>aa) NK14 betrifft eine Spracherkennungsvorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung müssen Nutzer einer solchen Vorrichtung ein Übungsprogramm (enrolment) absolvieren, damit die Spracherkennung möglichst gut arbeiten könne. Dies erfordere bestimmte, festgelegte Spracheingaben, damit sich das System besser auf die Eigenheiten der Sprache des konkreten Nutzers einstellen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Ein solches Übungsprogramm sei unproblematisch, wenn der Nutzer einen vorgegebenen Text flüssig lesen und nachsprechen könne. Es bestehe jedoch Bedarf, eine solche Vorrichtung auch für Nutzer bereitzustellen, die einen solchen Text nicht flüssig lesen können, etwa weil sie generell Schwierigkeiten mit dem Lesen haben oder weil der Text für sie eine Fremdsprache darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>NK14 schlägt dazu vor, dass solchen Nutzern der für die Übung erforderliche Text vorgesprochen wird und sie dann aufgefordert werden, ihn nachzusprechen. Dazu wird eine TTS-Vorrichtung (text to speech) genutzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Ein Ausführungsbeispiel wird anhand der nachstehend wiedergegebenen Figuren erläutert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="445px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Figur 2 zeigt im linken oberen Eck eines Feldes (104), in dem ein Text eingeblendet wird, den der Nutzer nachsprechen soll, das Symbol einer Sanduhr. Damit wird angezeigt, dass das System sich darauf vorbereitet, den ersten Satz vorzuspielen (Abs. 42). Ein auf die Sanduhr weisender Pfeil wird gelb dargestellt. Die TTS-Vorrichtung kann dann etwa den Satz ausgeben: "When the arrow on the hourglass icon changes from yellow to green, read the green words".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Das nächste Stadium zeigt die Figur 3:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="467px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Nun wird dem Nutzer das erste Wort des Textes vorgelesen und, um dies kenntlich zu machen, grün unterlegt. Der auf die Sanduhr weisende Pfeil bleibt gelb, weil der Nutzer noch nicht sprechen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Figur 4 zeigt eine Phase, in der der erste Satzteil vorgelesen wurde und grün unterlegt ist. Der Pfeil an der Sanduhr ist weiterhin gelb.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="439px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>In Figur 5 ist der Pfeil dann grün und anstelle einer Sanduhr wird ein Mikrofon angezeigt. Dies soll dem Nutzer anzeigen, dass er nunmehr das Vorgespielte nachsprechen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="417px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Die einzelnen Schritte des Verfahrens werden beginnend mit dem Start (12) der Registrierung und Initiierung (14) einer Sprache-Nutzer-Schnittstelle (voice user interface, VUI) und einer grafischen Nutzer-Schnittstelle (graphical user interface, GUI) durch die nachfolgenden Ablaufdiagramme gemäß den Figuren 1A und 1B veranschaulicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="403px"
+                       src="bild6_5.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="382px"
+                       src="bild7_6.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>bb) Es fehlt an einer Offenbarung von Merkmal 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>Ein Einstellungszeitraum im Sinne von Merkmal 2 ist, wie oben ausgeführt wurde, ein Zeitraum, in welchem die Spracherkennungsvorrichtung nach Empfang der Start-Anweisung technisch noch nicht bereit ist, eine Spracheingabe zu verarbeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>NK14 ist nicht unmittelbar und eindeutig zu entnehmen, dass es auch bei der dort beschriebenen Vorrichtung einen solchen Zeitraum gibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Nach den einleitenden Schritten 12 und 14 werden dem Nutzer allgemeine Instruktionen zum Ablauf des Registrierungsprozesses vorgespielt (16). Ferner wird er darauf hingewiesen, dass er jeweils still sein möge, während ihm die einzelnen Sätze vorgespielt werden, und jeden Satz, nachdem er ihm vorgespielt worden sei, nachsprechen solle. Damit gibt es nach NK14 Phasen, in denen eine Spracheingabe des Nutzers nicht erwünscht ist, weil es sich um Zeiträume handelt, während der ihm die TTS-Vorrichtung einen Text vorspricht, den er anschließend nachsprechen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>Wie aus dem Ablaufdiagramm nach Figur 1B ersichtlich ist, wird die Spracherkennung mit den Schritten 28, 34, 40 und 44 durchgeführt, in denen festgestellt wird, ob der Benutzer gesprochen hat, besondere Anweisungen vorliegen (Go Back oder Repeat) und die Sprachqualität ausreichend ist (Spoken Quality OK?). Zuvor wurde im Schritt 26 die aktuelle Phrase des Textblocks abgespielt. Sodann heißt es in NK14, es werde erwartet, dass der Benutzer die soeben abgespielte Phrase spricht (Abs. 30 a.E.: "<em>After the current phrase is played, the user is expected to speak the phrase just played.</em>").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Damit sind für den Registrierungsprozess im Zusammenwirken mit dem Benutzer zwar Schritte vorgesehen, die zeitlich vor den Spracherkennungsschritten liegen. Daraus folgt jedoch nicht unmittelbar und eindeutig, dass die Spracherkennungsmittel nicht schon zuvor technisch bereit sind, einen Spracherkennungsprozess durchzuführen. Ab welchem Zeitpunkt nach dem einleitenden Startschritt (12) und der Initiierung der Sprachnutzerschnittstelle (VUI) und der grafischen Nutzerschnittstelle (GUI) (Schritt 14) die technische Bereitschaft zur Spracherkennung vorliegt, lässt sich NK14 nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>cc) Mangels Bestimmbarkeit eines Einstellungszeitraums fehlt es auch an einer Offenbarung einer Steuerung des Anzeigemittels während des Einstellungszeitraums zur Anzeige im Sinne der Merkmalsgruppe 3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Darüber hinaus handelt es sich bei der angezeigten Sanduhr nicht um ein Verbotszeichen im Sinne von Merkmal 3.1, denn es wird keine Folge von Buchstaben oder Zahlen angezeigt, sondern ein Symbol.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>dd) Aus den gleichen Gründen ist NK14 kein Erlaubniszeichen zu entnehmen. Auch bei dem Mikrofon in Figur 5 handelt es sich um ein Symbol und nicht, wie von Merkmal 4.1 gefordert, um eine Folge von Buchstaben oder Zahlen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>6. Im Ergebnis zu Recht hat das Patentgericht entschieden, dass der Gegenstand von Patentanspruch 1 durch den Stand der Technik nicht nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>a) Bei der Prüfung auf erfinderische Tätigkeit ist - entgegen der Auffassung der Berufung - auch das Merkmal 3.2 zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Ob die Beschreibung des Streitpatents den Stand der Technik zutreffend dahin wiedergibt, dass die Anzeige mindestens eines erkennbaren Wortes während des Einstellungszeitraums im Stand der Technik bekannt war, bedarf an dieser Stelle keiner Entscheidung. Bei der Prüfung einer technischen Lehre auf erfinderische Tätigkeit sind nur diejenigen Anweisungen auszuscheiden, die nicht die Lösung des technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen. Dagegen ist es unerheblich, ob ein Merkmal für sich genommen im Stand der Technik bereits bekannt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Die Wiedergabe von Informationen ist als solche dem Patentschutz nicht zugänglich (Art. 52 Abs. 2 Buchst. d, Abs. 3 EPÜ). Deshalb haben bei der Prüfung der Patentfähigkeit solche Anweisungen als nicht technisch außer Betracht zu bleiben, die gerade die Vermittlung bestimmter Inhalte betreffen und damit darauf abziehen, auf die menschliche Vorstellung oder Verstandesfähigkeit einzuwirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>Dagegen dienen Anweisungen, die zwar die (visuelle) Informationswiedergabe betreffen, bei denen aber nicht die Vermittlung bestimmter Inhalte oder deren Vermittlung in besonderer Aufmachung im Blickpunkt steht, sondern die Präsentation von Bildinhalten in einer Weise, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung und Aufnahme von Informationen Rücksicht nimmt und dabei darauf gerichtet ist, die Wahrnehmung der gezeigten Information durch den Menschen in bestimmter Weise erst zu ermöglichen, zu verbessern oder zweckmäßig zu gestalten, der Lösung eines technischen Problems mit technischen Mitteln und sind bei der Prüfung auf erfinderische Tätigkeit zu berücksichtigen. Zu berücksichtigen ist ein auf die Wiedergabe von Informationen bezogenes Merkmal ferner, wenn und soweit es ein Mittel darstellt, um eine bestimmte technische Wirkung zu erzielen (BGH, Urteil vom 14. Januar 2020 - X ZR 144/17, GRUR 2020, 599 Rn. 26 - Rotierendes Menü).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>Die zuletzt genannten Voraussetzungen sind bei Merkmal 3.2 erfüllt. Die Anzeige mindestens eines erkennbaren Wortes während des Einstellungszeitraums hat die Funktion, den Nutzer schon während dieses Zeitraums darüber zu informieren, welche Spracheingaben er nach Verstreichen dieses Zeitraums tätigen kann. Das Merkmal zielt mithin nicht auf die Vermittlung bestimmter Inhalte, sondern dient der effizienteren Nutzung der Spracherkennungsvorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand von Patentanspruch 1 lag ausgehend von NK9 durch den Stand der Technik zum Prioritätszeitpunkt nicht nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>Wie oben ausgeführt wurde, nimmt NK9 die Merkmalsgruppe 1 und Merkmal 2, nicht jedoch die Merkmalsgruppen 3 und 4 vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>Weder aus NK9 selbst noch aus dem sonstigen Stand der Technik ergab sich ein Hinweis darauf, die dort beschriebene Vorrichtung dahin zu ändern, dass während des Einstellungszeitraums eine Liste erkennbarer Wörter angezeigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>Soweit eine solche Liste in einem Ausführungsbeispiel der NK6 gezeigt wird, geschieht dies dort in einer Situation, in der die Spracherkennungsvorrichtung bereits einsatzbereit ist, als Reaktion auf eine bestimmte Frage des Nutzers ("What can I say?"). Hieraus ergab sich keine Anregung, eine Liste erkennbarer Wörter unabhängig von einer Eingabe des Nutzers bereits während des Einstellungszeitraums anzuzeigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>NK5 erwähnt zwar die Möglichkeit der Anzeige von "Kandidaten für Spracherkennungsobjekte" (Abs. 55 und 199). Auch aus dieser Entgegenhaltung ergibt sich jedoch kein Hinweis, eine entsprechende Liste bereits vor dem Zeitpunkt anzuzeigen, in dem die Vorrichtung zur Spracherkennung bereit ist. Entsprechendes gilt für NK14.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Ansicht der Berufung ergab sich schließlich keine Anregung zur Anzeige einer Liste erkennbarer Wörter während des Einstellungszeitraums unter dem Gesichtspunkt, die Fehleranfälligkeit der Spracherkennungseinrichtung nach NK9 zu reduzieren. Das Patentgericht hat insoweit mit Recht darauf abgestellt, dass NK9 mit dem Ansatz, durch die Anzeige eines bewegten Bildes den Nutzer von einer verfrühten Spracheingabe während dieses Zeitraums abzuhalten, hierfür weder Anlass noch Anregung bietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>c) Eine andere Beurteilung ergibt sich auch dann nicht, wenn NK10 als Ausgangspunkt angesehen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>NK10 liegt weiter ab, weil sie, wie oben ausgeführt wurde, keinen Einstellungszeitraum offenbart. Unabhängig davon fehlt es auch insoweit an einer Anregung, bereits vor der Einsatzbereitschaft der Spracherkennungsvorrichtung eine Liste erkennbarer Wörter anzuzeigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>d) Der Hinweis der Berufung auf NK14 als möglichen Ausgangspunkt der Bemühungen des Fachmanns führt ebenfalls nicht weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>NK14 offenbart zwar die Anzeige einer Folge von Wörtern, die bei einer nachfolgenden Spracheingabe erkannt wird. Dass diese Anzeige während eines Einstellungszeitraums und nicht zu einer Zeit, in der die Vorrichtung für eine Spracheingabe technisch bereit ist, erfolgt, lässt sich, wie oben dargelegt wurde, NK14 nicht entnehmen. Eine Veranlassung, diese Wortfolge schon in einem Einstellungszeitraum anzuzeigen, ergibt sich damit nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Crummenerl     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE603262024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE314512012</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20120821</entsch-datum>
+   <aktenzeichen>X ZR 33/10</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 9 S 2 Nr 3 PatG, § 10 Abs 1 PatG</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 28. Januar 2010, Az: I-2 U 129/08, Urteil<br/>vorgehend LG Düsseldorf, 7. Oktober 2008, Az: 4a O 95/07, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentverletzungsstreit: Erzeugnisschutz für eine Datenfolge bzw. Datenträger zur Videobildcodierung und Erschöpfungseinwand - MPEG-2-Videosignalcodierung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>MPEG-2-Videosignalcodierung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Eine Videobilder repräsentierende Folge von Videobilddaten kann als unmittelbares Ergebnis eines Herstellungsverfahrens anzusehen sein und als solches Erzeugnisschutz nach § 9 Satz 2 Nr. 3 PatG genießen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ist eine Datenfolge als unmittelbares Verfahrenserzeugnis eines Videobildcodierungsverfahrens anzusehen, wird vom Erzeugnisschutz auch ein Datenträger erfasst, auf dem die erfindungsgemäß gewonnene Datenfolge gespeichert worden ist oder der eine Vervielfältigung eines solchen Datenträgers darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Ist ein derartiger Datenträger (hier: digitales Videomasterband) mit Zustimmung des Patentinhabers in den Verkehr gebracht worden, hält sich auch die Herstellung weiterer Datenträger (hier: DVDs), die die erfindungsgemäß codierte Datenfolge enthalten, im Rahmen der aus der Erschöpfung des Patentrechts folgenden Befugnis zum bestimmungsgemäßen Gebrauch der erzeugten Datenfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Die Lieferung von Datenträgern mit der erfindungsgemäßen Datenfolge, die nicht rechtswidrig ist, weil sie der Patentinhaber im Rahmen einer Testbestellung durch Zurverfügungstellung der Datenfolge veranlasst hat, kann die Gefahr künftiger patentverletzender Handlungen begründen, wenn der Lieferant in Unkenntnis der Erschöpfung handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>5. Ein optischer Datenträger, der Daten enthält, die mittels eines patentgeschützten Decodierungsverfahrens in Videobilddaten umgewandelt werden können, stellt nicht schon wegen dieser Eignung ein Mittel dar, das sich auf ein wesentliches Element des Decodierungsverfahrens bezieht.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das am 28. Januar 2010 verkündete Urteil des 2. Zivilsenats des Oberlandesgerichts Düsseldorf im Umfang der nachfolgenden Änderung des Ersturteils aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten werden das Urteil der 4a-Zivilkammer des Landgerichts Düsseldorf vom 7. Oktober 2008 abgeändert und die Klage abgewiesen, soweit zum Nachteil der Beklagten erkannt und die Klage nicht zurückgenommen oder der Rechtsstreit übereinstimmend für in der Hauptsache erledigt erklärt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits werden gegeneinander aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin war eingetragene Inhaberin des am 3. Dezember 1991 angemeldeten, für das Hoheitsgebiet der Bundesrepublik Deutschland erteilten und inzwischen wegen Ablaufs der Schutzdauer erloschenen europäischen Patents 630 157, das Systeme und Verfahren zur Codierung alternierender Halbbilder in Zeilensprungbildsequenzen von Videobildern betrifft. Die ein Codierungs- und Decodierungsverfahren betreffenden Patentansprüche 11 und 25 lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"11. A method for encoding video data representative of successive frames of video images, the video data for each frame having interlaced first and second fields, the method comprising the steps of (a) receiving a sequence of frames of video data and (b) separating the data for each frame into its first and second fields, characterized in that the method further comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(c) deriving one or more first motion vectors (FMV) each associated with a respective block of pixel data from the first field of a current frame (Ei(t)) and with a corresponding block of pixel data from the second field of the current frame (Oc1(t));</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(d) deriving one or more second vectors (CMV) each associated with a respective block of pixel data from the first field of the current frame (Ei(t)) and with a corresponding block of pixel data from the first field of the immediately preceding frame (Ec1(t-1));</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(e) storing the second field of the current frame (Oc1(t)), the first field of the current frame (Ei(t)), the first field of the immediately preceding frame (Ec1(t-1)), one or more first motion vectors derived in step (c), and one or more second motion vectors derived in step (d);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(f) determining from the one or more stored first motion vectors and/or the one or more stored second motion vectors, best mode information for predicting one or more blocks of pixel data, each associated with a respective stored first or second motion vector, and each having the least pixel error when compared with the corresponding block of pixel data of the first field of the current frame;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(g) determining pixel error data representative of any pixel error between the one or more predicted blocks of pixel data and the one or more corresponding blocks of pixel data of the first field of the current frame; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(h) providing signals representing the second field of the current frame, the best mode motion vector data, and the pixel error data.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">25. A decoding method for encoded video data representing a sequence of frames of video images, the video data for each frame having interlaced first and second fields, the method comprising the step of (a) receiving encoded video data for successive frames, characterized in that the method further comprises the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(b) separating the encoded data for each frame into (i) first motion vector data, if any, associated with one or more blocks of pixel data of the second field of a current frame (Oc(t)) and with one or more corresponding blocks of pixel data of a first field of the current frame (Ec(t)), (ii) second motion vector data, if any, associated with one or more blocks of pixel data of the first field of an immediately preceding frame (Ec1(t-1)) and with one or more corresponding blocks of pixel data of the first field of the current frame, (iii) pixel error data representative of any pixel error in each block of pixel data associated with the first and/or second motion vector data when compared with the corresponding block of pixel data of the first field of the current frame (Ec(t)), and (iv) the second field of the current frame;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(c) selecting one or more blocks of pixel data of the second field of the current frame associated with the first motion vector data and/or one or more blocks of pixel data of the first field of an immediately preceding frame associated with the motion vector data associated with the second motion vector data;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(d) deriving from the block or blocks of pixel data selected in step (c), one or more blocks of pixel data each having the lowest pixel error when compared with the corresponding block of pixel data of the first field of the current frame;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(e) generating a predicted first field of the current frame (Ec1(t)) from the one or more blocks of pixel data derived in step (d) and the pixel error data for the same one or more blocks of pixel data; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(f) generating the current frame of video image data from the predicted first field of the current frame and the second field of the current frame separated from the received encoded video data."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Wegen des Wortlauts von Patentanspruch 21, der ein das Decodierungsverfahren betreffendes Decodierungssystem betrifft, wird auf die Klagepatentschrift Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hatte das Klagepatent in einen von der M.                              , C.    (im Folgenden: MPEG LA), verwalteten Patentpool eingebracht. Die Poolpatente beziehen sich auf einen internationalen Standard der internationalen Standardisierungsorganisation (ISO) für Codierungsverfahren im Zusammenhang mit der Übertragung und Speicherung von Videosignalen (MPEG2-Standard). Die Inhaber der einzelnen eingebrachten Schutzrechte haben der MPEG LA eine weltweite einfache Patentlizenz erteilt. Die MPEG LA gewährt Unternehmen für die Codierung von Videodaten nach dem MPEG2-Standard in standardisierten Verträgen weltweite einfache Unterlizenzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist ein in Griechenland ansässiges Unternehmen, das optische Videodatenspeicher (Digital Video Discs - DVDs) herstellt und vertreibt. Einen Standard-Pool-Lizenzvertrag hat sie bisher nicht abgeschlossen. Die Klägerin hat die Beklagte auf Unterlassung und Rechnungslegung in Anspruch genommen und die Feststellung ihrer Verpflichtung zum Schadensersatz begehrt. Der Klageerhebung liegt eine von der Klägerin initiierte Testbestellung durch eine Frau P. zugrunde, die unter dem Briefkopf "E.    M. P." in Frankfurt/Main im Februar 2007 von der Beklagten ein Angebot für die Herstellung von 500 DVDs "Erdbebenmessung in Deutschland" erbat. Nachdem die Beklagte ihre Preise genannt hatte, übermittelte Frau P. ihr für die Herstellung als DVD-Master ein Digital Linear Tape (DLT) mit den bereits codierten Videodaten. Die Beklagte stellte die DVDs in einem üblichen Verfahren her, bei dem die Daten zunächst in einen Glassmaster eingeprägt werden, von dem ein Abdruck auf einem Stempel (Stamper) gefertigt wird, mit dem die optisch auslesbare Datenstruktur in DVD-Rohlinge gepresst wird, und sandte sie an die angegebene Lieferanschrift "E.    M. P." in Köln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Beklagte, soweit im Revisionsverfahren noch von Interesse, unter Androhung von Ordnungsmitteln verurteilt, es zu unterlassen, optische Datenträger mit codierten Videodaten, die aufeinander folgende Vollbilder von Videobildern repräsentieren und bei denen die Videodaten für jedes Vollbild verschachtelte erste und zweite Teilbilder besitzen, als unmittelbares Erzeugnis eines Verfahrens mit den in Patentanspruch 11 genannten Verfahrensschritten anzubieten, in Verkehr zu bringen oder zu gebrauchen oder zu den genannten Zwecken entweder einzuführen oder zu besitzen und/oder optische Datenträger anzubieten und/oder zu liefern, die für Decodierungssysteme für codierte Videodaten geeignet und bestimmt sind, die eine Sequenz von Vollbildern von Videobildern repräsentieren, wobei die Videodaten für jedes Vollbild erste und zweite verschachtelte Teilbilder besitzen und das System die Merkmale von Patentanspruch 21 aufweist, und/oder solche optischen Datenträger anzubieten und/oder zu liefern, die für ein Decodierungsverfahren für solche codierten Videodaten geeignet und bestimmt sind, das die Schritte von Patentanspruch 25 aufweist. Ferner hat das Landgericht die Beklagte zur Rechnungslegung nach näher bezeichneter Maßgabe für das Verfahren nach Patentanspruch 11 betreffende Verletzungshandlungen verurteilt und insoweit ihre Verpflichtung zur Leistung von Schadensersatz festgestellt sowie schließlich der Klägerin einen Auskunftsanspruch wegen unmittelbarer und mittelbarer Verletzung zugesprochen. Das Berufungsgericht hat die Berufung der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer vom Senat zugelassenen Revision hat die Beklagte ihren Klageabweisungsantrag zunächst in vollem Umfang weiterverfolgt; nachdem das Klagepatent im Verlauf des Revisionsverfahrens wegen Ablaufs der Schutzdauer erloschen ist, haben die Parteien den Rechtsstreit hinsichtlich des Unterlassungsanspruchs mit widerstreitenden Kostenanträgen übereinstimmend für erledigt erklärt; im Übrigen tritt die Klägerin dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat Erfolg und führt zur Klageabweisung, soweit keine Erledigung in der Hauptsache eingetreten ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Zu Recht hat das Berufungsgericht die Klage als zulässig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Es hat rechtsfehlerfrei und von der Revision unbeanstandet die internationale Zuständigkeit der deutschen Gerichte nach Art. 5 Nr. 3 EuGVVO bejaht. Die Klage ist auf eine Verletzung des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 630 157 durch Lieferung von DVDs in die Bundesrepublik Deutschland gestützt. Es wird mithin die Verletzung eines inländischen Schutzrechts durch eine Handlung geltend gemacht, deren den Gerichtsstand der unerlaubten Handlung begründender Erfolgsort im Inland liegt. Ob die Handlungen der Beklagten tatsächlich die geltend gemachte Patentverletzung begründen, ist keine Frage der Zulässigkeit, sondern der Begründetheit der Klage (vgl. BGH, Urteil vom 29. Juni 2010 - VI ZR 122/09, NJW-RR 2010, 1554-1558).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Die Klage ist auch nicht deshalb unzulässig, weil die Beklagte auf der Grundlage des Testkaufs gleichzeitig in acht weiteren Verfahren, in denen die Entscheidungen des Berufungsgerichts ebenfalls mit der Nichtzulassungsbeschwerde angegriffen worden sind, von anderen, dem Patentpool angehörenden Patentinhabern ebenfalls wegen Patentverletzung in Anspruch genommen worden ist. Entgegen der Meinung der Revision rechtfertigt dieser Umstand allein nicht die Annahme, die Rechtsverfolgung durch die Klägerin sei rechtsmissbräuchlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die von der Revision gezogene Parallele zu der Rechtsprechung des Bundesgerichtshofs zur missbräuchlichen Mehrfachverfolgung ein und desselben wettbewerbswidrigen Verhaltens (vgl. BGH, Urteil vom 6. April 2000 - I ZR 76/98, BGHZ 144, 165 - Missbräuchliche Mehrfachverfolgung; vom 17. Januar 2002 - I ZR 241/99, BGHZ 149, 371 - Missbräuchliche Mehrfachabmahnung; vom 26. Juni 2008 - I ZR 221/05, GRUR 2008, 915 - 40 Jahre Garantie) ist verfehlt. Die Beklagte wird nicht von mehreren Klägern in getrennten Prozessen wegen derselben Rechtsverletzung in Anspruch genommen, sondern allein die Klägerin macht - wie die Kläger der weiteren Verfahren - die Verletzung eines ihrer Schutzrechte durch die angegriffenen Handlungen der Beklagten geltend. Dies kann ihr auch dann nicht verwehrt werden, wenn die Klagen - wie ersichtlich der Fall - koordiniert und gemeinsam vorbereitet worden sind, da die Verletzung jedes Patents gesondert zu prüfen und auch die rechtliche Beurteilung sowohl des geltend gemachten Schutzes des unmittelbaren Verfahrenserzeugnisses als auch der geltend gemachten mittelbaren Patentverletzung davon abhängt oder jedenfalls abhängen kann, was im Einzelfall Gegenstand des Patentschutzes ist. Ob etwas anderes zu gelten hätte, wenn ohne vernünftigen Grund eine Vielzahl von Schutzrechten geltend gemacht würde, bedarf im Streitfall keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Das Klagepatent betrifft ein Verfahren zum Codieren von Videodaten (Patentanspruch 11), die aufeinander folgende Vollbilder von Videobildern repräsentieren,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(1) bei dem die Videodaten für jedes Vollbild verschachtelte erste und zweite Teilbilder besitzen und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(2) das Verfahren die folgenden Schritte enthält:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Empfangen einer Sequenz von Vollbildern von Videodaten und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Separieren der Daten für jedes Vollbild in dessen erste und zweite Teilbilder;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) Ableiten eines oder mehrerer erster Bewegungsvektoren (SMV), wovon jeder einem jeweiligen Block von Pixeldaten des ersten Teilbildes eines momentanen Vollbildes (Ei[t]) und einem entsprechenden Block von Pixeldaten des zweiten Teilbildes des momentanen Vollbildes (Oc1[t]) zugeordnet ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) Ableiten eines oder mehrerer zweiter Bewegungsvektoren (CMV), wovon jeder einem Block von Pixeldaten des ersten Teilbildes des momentanen Vollbildes und einem entsprechenden Block von Pixeldaten des ersten Teilbildes des unmittelbar vorhergehenden Vollbildes (Ec1[t-1]) zugeordnet ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(e) Speichern des zweiten sowie des ersten Teilbildes des momentanen Vollbildes und des ersten Teilbildes des unmittelbar vorhergehenden Vollbildes, eines oder mehrerer erster Bewegungsvektoren, die im Schritt (c) abgeleitet wurden, sowie eines oder mehrerer zweiter Bewegungsvektoren, die im Schritt (d) abgeleitet wurden;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(f) Bestimmen von Informationen bezüglich des besten Modus aus dem einen oder den mehreren gespeicherten ersten Bewegungsvektoren und/oder dem einen oder den mehreren gespeicherten zweiten Bewegungsvektoren, um einen oder mehrere Blöcke von Pixeldaten vorherzusagen, wovon jeder einem entsprechenden gespeicherten ersten oder zweiten Bewegungsvektor zugeordnet ist und wovon jeder den geringsten Pixelfehler im Vergleich zum entsprechenden Block von Pixeldaten des ersten Teilbildes des momentanen Vollbildes besitzt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(g) Bestimmen von Pixelfehlerdaten, die irgendeinen Pixelfehler zwischen dem einen oder den mehreren vorhergesagten Blöcken von Pixeldaten und dem einen oder den mehreren entsprechenden Blöcken von Pixeldaten des ersten Teilbildes des momentanen Vollbildes repräsentieren; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(h) Erzeugen von Signalen, die das zweite Teilbild des momentanen Vollbildes, die Bewegungsvektordaten bezüglich des besten Modus und die Pixelfehlerdaten repräsentieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Das Klagepatent betrifft des Weiteren ein Decodierungsverfahren (Patentanspruch 25) für codierte Videodaten, die eine Sequenz von Vollbildern von Videobildern repräsentieren, wobei die Videodaten für jedes Vollbild erste und zweite verschachtelte Teilbilder besitzen und das Verfahren folgende Schritte umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(a) Empfangen codierter Videodaten für aufeinander folgende Vollbilder;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(b) Separieren der codierten Daten für jedes Vollbild in</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(i) erste Bewegungsvektordaten, die in einem oder mehreren Blöcken von Pixeldaten des zweiten Teilbildes des momentanen Vollbildes und einem oder mehreren entsprechenden Blöcken von Pixeldaten eines ersten Teilbildes des momentanen Vollbildes zugeordnet sind,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(ii) zweite Bewegungsvektordaten, die, sofern vorhanden, einem oder mehreren Blöcken von Pixeldaten des ersten Teilbildes eines unmittelbar vorhergehenden Vollbildes und einem oder mehreren entsprechenden Blöcken von Pixeldaten eines ersten Teilbildes des momentanen Vollbildes zugeordnet sind,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(iii) Pixelfehlerdaten, die irgendeinen Pixelfehler in jedem Block von Pixeldaten, der den ersten und/oder zweiten Bewegungsvektordaten zugeordnet ist, im Vergleich zu dem entsprechenden Block von Pixeldaten des ersten Teilbildes des momentanen Vollbildes repräsentieren, sowie</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(iv) das zweite Teilbild des momentanen Vollbildes;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(c) Auswählen eines oder mehrerer Blöcke von Pixeldaten des zweiten Teilbildes des momentanen Vollbildes, die den ersten Bewegungsvektordaten zugeordnet sind, und/oder eines oder mehrerer Blöcke von Pixeldaten des ersten Teilbildes eines unmittelbar vorhergehenden Vollbildes, die den zweiten Bewegungsvektordaten zugeordnet sind;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(d) Ableiten aus dem Block oder den Blöcken von Pixeldaten, die im Schritt (c) ausgewählt werden, eines oder mehrerer Blöcke von Pixeldaten, wovon jeder den niedrigsten Pixelfehler im Vergleich zu dem entsprechenden Block von Pixeldaten des ersten Teilbildes des momentanen Vollbildes besitzt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(e) Erzeugen eines vorhergesagten ersten Teilbildes des momentanen Vollbildes aus dem einen oder den mehreren Blöcken von Pixeldaten, die im Schritt (d) abgeleitet werden, und aus den Pixelfehlerdaten für denselben Block oder dieselben mehreren Blöcke von Pixeldaten; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(f) Erzeugen des momentanen Vollbildes von Videobilddaten aus dem vorhergesagten ersten Teilbild des momentanen Vollbildes und dem zweiten Teilbild des momentanen Vollbildes, die aus den empfangenen codierten Videodaten separiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Das Klagepatent betrifft des Weiteren ein Decodierungssystem (Patentanspruch 21) für codierte Videodaten, das sinngemäß die Merkmale von Patentanspruch 25 aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>III. Das Berufungsgericht hat angenommen, die Beklagte habe den Gegenstand von Patentanspruch 11 des Klagepatents unmittelbar benutzt, weshalb der Klägerin Ansprüche auf Unterlassung, Schadensersatz und Rechnungslegung aus § 139 Abs. 1 und 2, § 140b PatG, §§ 259, 260 BGB, § 9 Satz 2 Nr. 3 PatG zustünden. Dies hat es im Wesentlichen wie folgt begründet: Aufgrund der vom Landgericht festgestellten Befolgung des MPEG-2-Standards sei mangels entgegenstehender Anhaltspunkte davon auszugehen, dass es bei der Codierung der Daten zu einer patentgemäßen Verfahrensführung gekommen sei, denn der Standard kenne ein Verfahren zur Vorhersagecodierung eines Zeilensprungbildsignals, wie es das Klagepatent lehre. Eine DVD mit solchen Daten sei als unmittelbares Erzeugnis des mit diesem Patentanspruch unter Schutz gestellten Verfahrens i.S. von § 9 Satz 2 Nr. 3 PatG anzusehen. Patentanspruch 11 betreffe kein Arbeits-, sondern ein Herstellungsverfahren. Ob auch nichtkörperliche Verfahrenserzeugnisse unter den Erzeugnisschutz fielen, könne dahinstehen, weil mit der Klage optische Datenträger angegriffen würden, auf denen die Daten mithilfe von entlang einer Aufzeichnungsspur vorgesehenen Vertiefungen und Erhebungen gespeichert seien. Unmittelbarkeit im Sinne von § 9 Satz 2 Nr. 3 PatG sei zu bejahen, wenn sich das angegriffene Erzeugnis als ein Zwischenprodukt darstelle, das im Anschluss an das patentgeschützte Verfahren zwar weiteren Behandlungsmaßnahmen unterzogen worden sei, das patentierte Verfahren aber zur Hervorbringung des Erzeugnisses bestimmungsgemäß und nach der Verkehrsanschauung wesentlich beigetragen habe und das durch die Erfindung geschaffene Erzeugnis seine charakteristischen Eigenschaften und seine Selbständigkeit durch die weiteren Behandlungsschritte nicht eingebüßt habe. So verhalte es sich hier. Nach der Codierung würden die in das MPEG-2-Format übertragenen Videodaten durch Speicherung im Rechner dauerhaft materialisiert. Während der anschließenden Schritte bis zur Herstellung der DVDs behielten die Daten ihre durch das Verfahren erhaltenen charakteristischen Eigenschaften unverändert bei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Für den Schutz aus § 9 Satz 2 Nr. 3 PatG sei allein entscheidend, dass das fragliche Produkt (DVD) als unmittelbares Resultat des patentgeschützten Herstellungsverfahrens anzusehen sei. Es bleibe den Verbietungsrechten des Schutzrechtsinhabers auch dann ausgesetzt, wenn es sich nicht mehr in der Hand desjenigen befinde, der das patentgemäße Verfahren durchgeführt habe. Deshalb werde die Beklagte nicht dadurch entlastet, dass die in ihren DVDs erhalten gebliebene Aufzeichnungsstruktur nicht von ihr selbst, sondern von dritter Seite aufgebracht worden sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Rechte aus dem Klagepatent seien nicht erschöpft. Erschöpfung sei nicht im Hinblick darauf eingetreten, dass - nach dem Vortrag der Beklagten - zur Herstellung des der Beklagten übersandten Masterbandes (DLT) ein von MPEG LA lizenziertes Codiergerät und Codierungsprogramm verwendet worden seien. Aus dieser Lizenz könnten gewerbliche Kunden der Codiergeräte-Lizenznehmer nicht die Erlaubnis zur Codierung von MPEG-2-Videos herleiten; dafür benötigten sie vielmehr, was rechtlich unbedenklich sei, eine eigene Lizenz. Das Masterband sei auch nicht dadurch in einer die Rechte aus dem Klagepatent konsumierenden Weise in den Verkehr gelangt, dass die Testkäuferin es der Beklagten mit Billigung der Klägerin zur Verfügung gestellt habe. Ein zur Erschöpfung führendes Inverkehrbringen liege (nur) vor, wenn ein erfindungsgemäßer Gegenstand begeben werde und der Schutzrechtsinhaber hierdurch den wirtschaftlichen Wert der Erfindung realisiere. Die Verfügungsgewalt an dem Masterband sei der Beklagten jedoch ausschließlich zum Zweck eines Testkaufs übertragen worden, um deren Rechtstreue zu verifizieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Beurteilung hält der rechtlichen Nachprüfung in einem entscheidenden Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>1. Dem Berufungsgericht ist im Ergebnis allerdings darin beizupflichten, dass die Beklagte ein vom Verbietungsrecht des Patentinhabers aus § 9 Satz 2 Nr. 3 PatG und von den Klageanträgen der Klägerin erfasstes unmittelbares Verfahrenserzeugnis in den Verkehr gebracht hat. Dieses ist in der Gesamtheit der nach Anwendung des Verfahrens nach Patentanspruch 11 des Klagepatents erhaltenen und in die gelieferten DVDs eingeprägten codierten Videodaten zu sehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>a) Patentanspruch 11 des Klagepatents stellt, wie das Berufungsgericht rechtsfehlerfrei und von der Revision unangegriffen angenommen hat, ein Herstellungsverfahren unter Schutz, das auf analog oder digital gespeicherte Videobildsequenzen angewendet wird, um diese entsprechend den Vorgaben des MPEG2-Standards zu codieren und dabei auf einen Bruchteil der Ausgangsdatenmenge zu komprimieren (vgl. dazu LG Düsseldorf, InstGE 7, 70 Rn. 46). Nach Durchlaufen der in Patentanspruch 11 vorgesehenen Verfahrensschritte werden als unmittelbares Verfahrenserzeugnis codierte Videodaten gewonnen, die den Vorgaben dieses Standards entsprechen und in den erhaltenen Informations- und Aufzeichnungsstrukturen nach den Feststellungen des Berufungsgerichts zunächst im Arbeitsspeicher von Encodersteckkarten und danach in einem für eine DVD geeigneten Format auf der Festplatte eines Rechners gespeichert werden. In der Folge bleibt die Gesamtheit der auf diese Weise dauerhaft materialisierten, codierten MPEG2-Videodaten als solche unverändert. Im Laufe des Herstellungsprozesses der DVDs werden die Daten zum Zwecke ihrer optischen Auslesbarkeit in Form von Vertiefungen ("pits") und nicht vertieften Bereichen ("lands") durch Einpressen des spiegelverkehrt auf dem Stamper vorhandenen Profils in die als DVDs verwendeten Kunststoffscheiben eingepresst. Dass die Daten dafür zunächst auf dem Masterband und dem Glassmaster zwischengespeichert wurden, ist allein den Erfordernissen der DVD-Produktion geschuldet, lässt nach den unangegriffenen Feststellungen des Berufungsgerichts aber die Identität und Charakteristik der verfahrensgemäß hergestellten Datenstruktur als des gewonnenen Verfahrenserzeugnisses unberührt. Das Berufungsgericht hat in diesem Zusammenhang anschaulich metaphorisch von der (wechselnden) Verpackung (Datenträger) einer Ware (codierte Videodaten) gesprochen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Die verfahrensgemäß gewonnene Datenfolge ist als unmittelbares Verfahrenserzeugnis Gegenstand des Verbotsrechts des Patentinhabers aus § 9 Satz 2 Nr. 3 PatG, auch wenn sie selbst nicht als ein körperlicher Gegenstand anzusehen ist, sondern ein solcher erst durch ihre Verbindung mit einem Datenträger entsteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Bundesgerichtshofs können unkörperliche Signalfolgen, die für die Übersendung über das Internet geeignete Daten repräsentieren, trotz Fehlens eines körperlichen Substrats (Datenträgers) Sachschutz beanspruchen. Der Bundesgerichtshof hat dabei darauf abgestellt, dass zwischen Datenfolgen, die auf einem Datenträger gespeichert sind, und solchen, die lediglich über das Internet übermittelt werden, für die Erfordernisse der Datenverarbeitung kein erheblicher Unterschied besteht (BGH, Beschluss vom 17. Februar 2004 - X ZB 9/03, BGHZ 158, 142 - Signalfolge). Dies trägt dem Umstand Rechnung, dass dem Datenträger für die bestimmungsgemäße Nutzung der Daten selbst in der Datenverarbeitung keine Bedeutung zukommt, sondern er lediglich als Speichermedium fungiert. Bei dem im Streitfall vorliegenden Ergebnis des Herstellungsverfahrens nach Patentanspruch 11 des Klagepatents verhält es sich nicht anders. Die verschiedenen eingesetzten Datenträger sind für die Verarbeitung und Nutzung der verfahrensgemäß gewonnenen Gesamtheit codierter und komprimierter Videodaten ebenfalls nur in der Funktion als Speichermedium von Bedeutung, während Gegenstand der bestimmungsgemäßen (datenverarbeitungsmäßigen) Nutzung allein die codierte, auf dem Datenträger lediglich materialisierte Datenfolge bleibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dass in der Fachliteratur Erzeugnisschutz nach § 9 Satz 2 Nr. 3 PatG für unkörperliche Verfahrensergebnisse wie Licht, Wärme, elektrische Energie oder Schall durchweg - von vereinzelten, in älteren Beiträgen geäußerten Ansichten abgesehen - abgelehnt wird (vgl. Benkard/Scharen, Patentgesetz, 10. Aufl., § 9 Rn. 53; Busse/Keukenschrijver 6. Aufl. § 9 Rn. 100 mwN), begründet keinen Widerspruch zur Beurteilung des Streitfalls. Diese Auffassung hat ersichtlich den unmittelbar mit der Erzeugung zusammenfallenden Ge- oder Verbrauch von Elektrizität, Wärme, Licht und gegebenenfalls auch Schallwellen im Blick. Damit ist das Abspielen von in eine DVD eingeprägten oder in anderer Form gespeicherten Gesamtheiten von Videodaten schon deshalb nicht vergleichbar, weil diese mittels der dafür vorgesehenen Geräte und unter Einsatz entsprechender Decodierungsvorrichtungen und -verfahren als Videoereignisse ausgelesen und wahrnehmbar gemacht und auf diese Weise wie körperliche Gegenstände beliebig oft bestimmungsgemäß genutzt werden können. Es erscheint wegen dieser Eignung, wie eine Sache genutzt und als Gegenstand des Handelsverkehrs dienen zu können, auch sachlich angemessen, der durch das Verfahren hervorgebrachten Datenfolge den Schutz eines unmittelbaren Verfahrenserzeugnisses zuzubilligen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Mit Erfolg wendet die Revision sich gegen die Ansicht des Berufungsgerichts, eine Erschöpfung der Rechte aus dem Klagepatent sei nicht eingetreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Allerdings kann eine Berechtigung zur Benutzung der Erfindung seitens Frau P., die nach den Feststellungen des Berufungsgerichts selbst keine MPEG-2-Poollizenz und keine von der Klägerin erteilte Patentverwertungslizenz besaß, nicht, wie die Revision meint, aus der Standardlizenz abgeleitet werden, über die der Hersteller der Codierungssoftware verfügte, mit der die Videodaten auf dem der Beklagten überlassenen Masterband codiert worden waren. Das Berufungsgericht hat diesen Vertrag rechtsfehlerfrei dahin ausgelegt, dass er den Herstellern von Codierungsgeräten und -software verwehrt, ihren gewerblichen Abnehmern die Nutzung der Geräte und Software für das gewerbliche Codieren eines oder mehrerer MPEG2-Videoereignisse zur Aufnahme auf einem MPEG2-gepackten Medium zu gestatten. Soweit die Revision meint, dass eine weitere Lizenz lediglich für einen Handel mit DVDs erforderlich sei, den Frau P. nicht betrieben habe, hat das Berufungsgericht dem Standardlizenzvertrag nach dem Zusammenhang der Entscheidungsgründe in rechtlich nicht zu beanstandender Weise entnommen, dass ohne eigene Lizenznahme nur ein persönlich-privater Gebrauch gestattet sei. Davon kann bei der von Frau P. erstellten Videodatenfolge schon in Anbetracht ihres Gegenstands und der Anzahl der bei der Beklagten in Auftrag gegebenen Vervielfältigungen nicht die Rede sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Den Umstand, dass die Testkäuferin mit Zustimmung der Klägerin das erfindungsgemäße Verfahren angewendet und das Masterband mit den codierten Daten angefertigt und durch Lieferung an die Beklagte in den Verkehr gebracht hat, hat das Berufungsgericht unzutreffend gewürdigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Das vom Berufungsgericht in Anlehnung an eine markenrechtliche Entscheidung des Bundesgerichtshofs (BGH, Urteil vom 15. Februar 2007- I ZR 63/04, GRUR 2007, 882 - Parfümtester) für im Streitfall entscheidend erachtete Kriterium, ob mit dem Inverkehrbringen der wirtschaftliche Wert des Schutzrechts realisiert worden ist, trägt die Verneinung einer Erschöpfung nicht. Wenn die Testkäuferin das erfindungsgemäße Verfahren mit Zustimmung der Klägerin angewandt hat, kann diese gegenüber der Testkäuferin aus dem Klagepatent insoweit keine Rechte mehr herleiten, und zwar weder wegen der Anwendung des Verfahrens selbst noch wegen des - bestimmungsgemäß und mit ihrem Willen - hierdurch unmittelbar hervorgebrachten Verfahrenserzeugnisses. Indem sie der Testkäuferin - zu welchem Zweck auch immer - die Benutzung des Verfahrens gestattet hat, hat die Klägerin den wirtschaftlichen Wert der Erfindung realisiert. Ist aber hinsichtlich des unmittelbaren Verfahrenserzeugnisses Erschöpfung eingetreten, kann sich hierauf auch die Beklagte berufen, die das Masterband von der Testkäuferin erhalten hat. Dass Frau P. die auf diesem Band gespeicherte, erfindungsgemäß codierte Datenfolge mit Zustimmung der Klägerin erzeugt hat, zieht die Revisionserwiderung zu Unrecht in Zweifel. Frau P. hat die Bestellung nach den Feststellungen des Berufungsgerichts auf Veranlassung der Klägerin vorgenommen (UA S. 8, 47). Dass sie das dafür benötigte Masterband gleichwohl ohne Kenntnis und Billigung der Klägerin hergestellt haben könnte, ist nach Lage der Dinge ausgeschlossen und so sind die Feststellungen des Berufungsgerichts im Zusammenhang der Entscheidungsgründe auch zu verstehen. Im Übrigen genügt es für die Erschöpfung, dass die Klägerin jedenfalls dem Inverkehrbringen des für die DVD-Herstellung bestimmten Masterbandes mit der darauf enthaltenen nach dem erfindungsgemäßen Verfahren codierten Datenfolge zugestimmt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Die aus der Erschöpfung des Patentrechts folgende Befugnis zum bestimmungsgemäßen Gebrauch des unmittelbaren Verfahrenserzeugnisses deckt auch die Vervielfältigung durch Pressung von 500 DVDs ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Die zur freien Benutzbarkeit führende Erschöpfung der Rechte aus einem mit Wirkung für die Bundesrepublik Deutschland erteilten Patent tritt bei einem nach § 9 Satz 2 Nr. 3 PatG geschützten unmittelbaren Verfahrenserzeugnis grundsätzlich ein, wenn es durch den Patentinhaber oder mit seiner Zustimmung in Deutschland in den Verkehr gebracht worden ist (vgl. BGH, Urteil vom 24. September 1979 - KZR 14/78, GRUR 1980, 39 - Fullplastverfahren; Benkard/Scharen, PatG, 10. Aufl., § 9 Rn. 25 mwN). Der Erwerber eines solchen in dieser Weise in den Verkehr gebrachten Verfahrenserzeugnisses und seine eventuellen Rechtsnachfolger können dieses grundsätzlich in beliebiger Weise nutzen. Die Fabrikation der von Frau P. in Auftrag gegebenen 500 DVDs ist davon nicht ausgenommen. Für ihre Herstellung musste der als solcher identisch gebliebene codierte Videodatensatz lediglich auf einen Stempel übertragen werden, mit dem die Daten in optisch auslesbarer Struktur in die gewünschte Anzahl von DVD-Rohlingen eingepresst werden konnten (oben IV 1 a). Die erneute Anwendung des Verfahrens nach Patentanspruch 11 des Klagepatents war dafür nicht erforderlich, sondern dazu reichte die Verwendung der auf dem Masterband gespeicherten bereits erfindungsgemäß codierten Datenfolge aus. Danach kann von der unberechtigten Hervorbringung (weiterer) unmittelbarer Verfahrenserzeugnisse mangels erneuter Nutzung des erfindungsgemäßen Verfahrens nicht gesprochen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>V. Das Berufungsgericht hat ferner angenommen, in der Lieferung der angegriffenen DVDs liege zugleich eine mittelbare Verletzung der Ansprüche 21 und 25 des Klagepatents. Dies hat es im Wesentlichen wie folgt begründet: Bei den hergestellten DVDs handele es sich um Mittel i.S. von § 10 Abs. 1 PatG, die sich auf ein wesentliches Element der Erfindung bezögen. Unter Schutz gestellt seien die mittels der patentgemäßen Vorrichtung zu decodierenden und dekomprimierenden Informations- und Aufzeichnungsstrukturen, die auf den Aufzeichnungsträgern physisch vorhanden und erst dadurch für die Decodierungsvorrichtung verarbeitbar seien. Bei der nach Patentanspruch 21 geschützten Vorrichtung würden komprimierte digitale Videosignale mit Informationen über die Reihenfolge der Anzeige dekomprimierter Halbbilder empfangen, identifiziert und in die richtige Reihenfolge eingeordnet. Die geschützte Vorrichtung setze damit eine Aufzeichnungsstruktur mit physikalischen Eigenschaften voraus, welche die optische Verwertbarkeit der gespeicherten Informationen verbesserten. Werde eine den maßgeblichen Teilen des MPEG-2-Standards entsprechende DVD in ein serienmäßig mit einer erfindungsgemäßen Decodierungsvorrichtung ausgestattetes Abspielgerät eingelegt, werde diese erfindungsgemäße Vorrichtung unvermeidbar und unter Verwendung des ebenfalls geschützten Decodierungsverfahrens in Funktion genommen. Gebrauch des nach Patentanspruch 21 geschützten Gegenstands und Anwendung des nach Patentanspruch 25 unter Schutz gestellten Verfahrens seien unmittelbare Benutzungshandlungen i.S. von § 9 Satz 2 Nrn. 1 und 2 PatG. Die von der Beklagten hergestellten DVDs seien nicht als Mittel anzusehen, die für die Verwirklichung der geschützte Lehre allenfalls von völlig untergeordneter Bedeutung seien, sondern veranlassten Gebrauch und Anwendung des geschützten Gegenstands und Verfahrens entscheidend. Die Erfindung könne mittels der DVDs aufgrund der darauf bereitgestellten Aufzeichnungsstrukturen im Zusammenwirken mit anderen Mitteln unmittelbar ausgeführt werden. DVDs mit den in bestimmter Weise komprimierten Videosignalen auf der einen und Decodierungsvorrichtung bzw. -verfahren auf der anderen Seite seien speziell aufeinander abgestimmt, weshalb die Ersteren nicht einem bloß zu verarbeitenden Rohstoff gleichgesetzt werden dürften.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>VI. Die Bewertung der Lieferung der angegriffenen DVDs als mittelbare Verletzung der Ansprüche 21 und 25 des Klagepatents hält der rechtlichen Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>1. Nach ständiger Rechtsprechung des Bundesgerichtshofs schützt § 10 Abs. 1 PatG als Patentgefährdungstatbestand den Patentinhaber im Vorfeld drohender Verletzung vor dem Eingriff in den Gegenstand seines Schutzrechts (BGH, Urteil vom 4. Mai 2004 - X ZR 48/03, BGHZ 159, 76, 84 - Flügelradzähler; Urteil vom 27. Februar 2007 - X ZR 113/04, GRUR 2007, 773 Rn. 18 - Rohrschweißverfahren). Vor dem Hintergrund dieses Gesetzeszwecks beschränkt das Tatbestandsmerkmal der "Mittel, die sich auf ein wesentliches Element der Erfindung beziehen", das Vorfeldverbot auf die Lieferung solcher Mittel, die nach ihrer Wirkungsweise geeignet sind, einen Eingriff in den Schutzgegenstand nach sich zu ziehen. Ein Mittel bezieht sich in der erforderlichen Weise auf ein wesentliches Element der Erfindung, wenn es geeignet ist, bei der Verwirklichung des geschützten Erfindungsgedankens mit einem solchen Element funktional zusammenzuwirken. Von einem solchen funktionalen Zusammenwirken des Mittels mit einem oder mehreren Merkmalen des Patentanspruchs kann aber nur die Rede sein, wenn der geschützte Erfindungsgedanke durch Einsatz des Mittels tatsächlich verwirklicht wird. Das Kriterium der Eignung des Mittels, mit einem wesentlichen Element der Erfindung bei der Verwirklichung des geschützten Erfindungsgedankens funktional zusammenzuwirken, schließt demgegenüber solche Mittel aus, die zwar bei der Benutzung der Erfindung verwendet werden, zur Verwirklichung der technischen Lehre der Erfindung aber nichts beitragen (vgl. BGH, Urteil vom 4. Mai 2004 - X ZR 48/03, BGHZ 159, 76 - Flügelradzähler, Urteil vom 27. Februar 2007 - X ZR 38/06, BGHZ 171, 168 Rn. 18 - Pipettensystem).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>2. An dem für die Verwirklichung einer mittelbaren Patentverletzung erforderlichen funktionalen Zusammenwirken mit einem oder mehreren Merkmalen der Patentansprüche 21 und 25 des Klagepatents fehlt es bei einer für die Decodierung nach dem erfindungsgemäßen Verfahren geeigneten DVD.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Das Verfahren nach Patentanspruch 25 des Klagepatents besteht im Wesentlichen darin, erfindungsgemäß codierte Daten in bestimmter Weise zu decodieren, um die Bildwiedergabe durch das Wiedergabegerät zu ermöglichen. Die erfolgreiche Anwendung des Decodierungsverfahrens setzt somit zwar voraus, dass die Daten in geeigneter, hier ebenfalls erfindungsgemäßer Weise codiert sind; insofern müssen DVD und das Decodierungssystem und -verfahren, wie das Berufungsgericht zutreffend ausführt, aufeinander abgestimmt sein. Dies ändert aber nichts daran, dass das Verfahren ausschließlich darin besteht, die Folge codierter Daten zu verarbeiten. Der erfindungsgemäße Erfolg besteht demgemäß, wie Patentanspruch 25 es ausdrückt, in der Erzeugung des aus den decodierten Daten gewonnenen Videosignals. Zu diesem Verarbeitungsvorgang und seinem Ergebnis leisten die nach Maßgabe von Patentanspruch 11 codierten Daten selber keinen Beitrag. Sie wirken nicht mit dem Decodierungssystem bei der Decodierung zusammen, sondern bilden deren Gegenstand und Ausgangspunkt, nicht anders als das Videobild den Gegenstand und Ausgangspunkt der Codierung bildet. Dieser Zusammenhang reicht für eine Einbeziehung in den mittelbaren Erfindungsschutz nach § 10 PatG nicht aus. Die mittelbare Patentverletzung setzt voraus, dass das gelieferte Mittel gleichsam als Element oder Baustein Verwendung findet, um wie ein "Rädchen im Getriebe", die geschützte Erfindung vollständig ins Werk zu setzen. Das Mittel muss dementsprechend in der Weise zur Verwirklichung der geschützten Erfindung beitragen, dass diese durch das Mittel oder mit Hilfe des Mittels vollständig verwirklicht werden kann. Einen solchen Stellenwert haben die gelieferten DVDs bzw. die darauf gespeicherten Videodaten für das nach den Patentansprüchen 21 und 25 geschützte System und Verfahren nicht. Beide sind ohne das Einlegen einer DVD in das Abspielgerät weder unvollständig noch funktionsuntauglich, sondern es fehlt dann lediglich an Bedarf und Anlass für die Inbetriebnahme des Systems und den Ablauf des Verfahrens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Die Lieferung einer DVD stellt mithin keine Lieferung eines "Mittels" im Sinne des § 10 PatG dar. Es kann daher offenbleiben, ob eine mittelbare Patentverletzung auch deshalb verneint werden müsste, weil die mit den DVDs belieferte Frau P. zwar insofern nicht zur Benutzung des erfindungsgemäßen Decodierungsverfahrens berechtigt gewesen ist, als ihr, wie das Berufungsgericht festgestellt hat, hierfür keine Lizenz eingeräumt war, die Lieferung der DVDs gleichwohl eine unmittelbare Verletzung nur dann zur Folge hätte haben können, wenn die codierten Videobilddaten mittels eines Wiedergabegeräts decodiert worden wären, das ohne Zustimmung der Klägerin hergestellt worden ist, die Lieferung der DVDs mithin nicht geeignet gewesen ist, die Gefahr einer unmittelbaren Patentverletzung zu erhöhen oder eine solche unmittelbare Patentverletzung zu erleichtern und damit diejenige Rechtsverletzung zu fördern, deren Abwehr der Patentgefährdungstatbestand des § 10 PatG dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>VII. Auf der Grundlage des vorstehend Ausgeführten kann die Klägerin die begehrte Feststellung der Schadensersatzpflicht wegen unmittelbarer Patentverletzung und die zur Bezifferung eines solchen Schadensersatzanspruchs dienende Rechnungslegung ebenso wenig verlangen wie die auf die geltend gemachte unmittelbare und mittelbare Patentverletzung gestützte Auskunft nach § 140b PatG, weil es an einer (vollendeten) Verletzungshandlung fehlt. Die begehrte Feststellung setzt ebenso wie die Ansprüche auf Auskunft und Rechnungslegung eine tatbestandsmäßig vollendete Verletzungshandlung voraus (vgl. BGH, Urteil vom 30. April 1964 - Ia ZR 223/63, GRUR 1964, 496, 497 - Formsand II; Urteil vom 7. Juni 2005 - X ZR 247/02, GRUR 2005, 848, 854 - Antriebsscheibenaufzug; Benkard/Rogge/Grabinski, PatG, 10. Aufl., § 139 Rn. 40; Busse/Keukenschrijver 6. Aufl. § 139 PatG Rn. 87; Mes, PatG GebrMG, 3. Aufl. § 139 PatG Rn. 118). Soweit nach teilweiser Klagerücknahme in der Berufungsinstanz und Erledigung in der Hauptsache noch rechtshängig, ist die Klage deshalb als unbegründet abzuweisen. Der Senat kann die Klageabweisung in diesem Umfang selbst aussprechen, weil die Sache nach dem festgestellten Sachverhalt zur Endentscheidung reif ist (§ 563 Abs. 3 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>VIII. Die Kostenentscheidung ist unter Berücksichtigung des teilweisen Unterliegens und Obsiegens (§ 92 Abs. 1 ZPO) und dabei hinsichtlich der für erledigt erklärten Unterlassungsansprüche nach den sich aus § 91a ZPO ergebenden Grundsätzen nach billigem Ermessen unter Berücksichtigung des bisherigen Sach- und Streitstands zu treffen. Dafür ist der voraussichtliche Ausgang des Verfahrens maßgeblich, sofern er mit hinreichender Sicherheit prognostiziert werden kann (BGH, Beschluss vom 16. November 1999 - KVR 10/98, WuW/E DE-R 420-422 = NJW-RR 2000, 776 - Erledigte Beschwerde), was hier der Fall ist, weil es dafür nur auf Rechtsfragen ankommt. Danach sind die auf den Unterlassungsanspruch wegen unmittelbarer Patentverletzung (Patentanspruch 11) entfallenden Kosten der Beklagten aufzuerlegen. Ohne Eintritt des erledigenden Ereignisses hätte die Klage insoweit im Ergebnis Erfolg gehabt. Zwar stand der Klägerin dieser Anspruch aus den dargelegten Gründen (oben IV 2 und vorstehend VII) nicht unter dem Gesichtspunkt der Wiederholungsgefahr zu. Nach dem festgestellten Sachverhalt war jedoch die Gefahr zukünftiger Verletzungshandlungen (Erstbegehungsgefahr) gegeben, die den Ausspruch des Unterlassungsgebots getragen hätte. Diese Gefahr ergab sich daraus, dass die Beklagte bereit war, den von Frau P. erteilten Auftrag zur Lieferung der gewünschten DVDs auszuführen, obwohl sie die Gründe, aus denen sich die Erschöpfung der Rechte aus dem Klagepatent ergab, nicht kannte und sie auch sonst keinen Anlass zu der Annahme hatte, dass Frau P. berechtigt sein könnte, das patentierte Codierungsverfahren zu nutzen. Diese Zusammenhänge rechtfertigen die Prognose, dass die Beklagte nicht anders gehandelt hätte als im Streitfall, wenn ihr ein Angebot zur Herstellung von DVDs unter Umständen unterbreitet worden wäre, unter denen keine Erschöpfung der Rechte aus dem Klagepatent eingetreten wäre. Für die Kostenentscheidung unerheblich ist deshalb auch der Einwand der Beklagten, das Testgeschäft sei rechtsmissbräuchlich gewesen, weil keine hinreichenden Anhaltspunkte für eine bereits begangene oder bevorstehende Rechtsverletzung durch die Beklagte bestanden hätten - was das Berufungsgericht im Übrigen allerdings mit rechtlich nicht zu beanstandenden Erwägungen verneint hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die Gefahr einer zukünftigen Begehungshandlung durch die Beklagte ist auch nicht entfallen. Zwar kann die Erstbegehungsgefahr, anders als regelmäßig die Wiederholungsgefahr, nicht nur durch Abgabe einer uneingeschränkten, bedingungslosen und durch das Versprechen einer angemessenen Vertragsstrafe gesicherten Unterlassungserklärung ausgeräumt werden (vgl. BGH, Urteil vom 7. Juni 2005 - X ZR 247/02, GRUR 2005, 848 - Antriebsscheibenaufzug). Gleichwohl kann der Wegfall der einmal begründeten Gefahr erstmaliger Begehung schutzrechtsverletzender Handlungen nur dann angenommen werden, wenn die Umstände entfallen sind, die diese Gefahr begründet haben, oder wenn aus anderen Gründen aus diesen Umständen nicht mehr auf eine drohende Schutzrechtsverletzung geschlossen werden kann. Dafür kommt im Streitfall im Wesentlichen nur die von der Beklagten vorprozessual abgegebene und im Rechtsstreit wiederholte Unterlassungserklärung infrage. Diese reichte aber aus denselben Gründen zur Ausräumung der Erstbegehungsgefahr nicht aus, wie sie nach der rechtlich nicht zu beanstandenden Würdigung durch das Berufungsgericht nicht ausreichte, um die Wiederholungsgefahr auszuräumen. Denn zur Beseitigung der Begehungsgefahr wäre mangels anderer von der Beklagten ergriffener Maßnahmen zur wirksamen Vermeidung von Lieferungen, wie sie an Frau P. vorgenommen wurden, ebenfalls nur eine in der Sache so konkret wie der Klageantrag oder ein entsprechender Urteilstenor gefasste Unterlassungserklärung geeignet gewesen. Daran fehlt es aus den vom Berufungsgericht rechtsfehlerfrei angenommenen und für die Begehungsgefahr gleichermaßen geltenden Gründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die von der Beklagten geltend gemachten Schadensersatz-, Auskunfts- und Rechenschaftslegungs- sowie (nur erstinstanzlich) Vernichtungsansprüche fallen nach den gesamten Umständen des Streitfalls wertmäßig i.S. von § 92 Abs. 2 Nr. 1 ZPO nicht erheblich ins Gewicht, so dass es nach allem angemessen ist, die Kosten des Rechtsstreits gegeneinander aufzuheben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                             Gröning                                        Grabinski</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                              Hoffmann                                          Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE314512012&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

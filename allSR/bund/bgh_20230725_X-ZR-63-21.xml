@@ -1,0 +1,2212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE628282023</doknr>
+   <ecli>ECLI:DE:BGH:2023:250723UXZR63.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230725</entsch-datum>
+   <aktenzeichen>X ZR 63/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BPatG München, 6. Mai 2021, Az: 4 Ni 2/20 (EP), Beschluss<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 6. Mai 2021 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 931 052 (Streitpatents), das am 9. Juli 2007 unter Inanspruchnahme von zwei US-amerikanischen Prioritäten vom 6. Dezember 2006 und vom 12. Januar 2007 angemeldet wurde und die gemeinsame Benutzung eines LNA-Schaltkreises betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 11, auf den drei weitere Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A system for processing signals received via a communication medium, the system comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a chip (302) comprising a first radio (305) or first receiver used for processing a signal for a first wireless protocol; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">said chip (302) comprises a shared LNA (308) that enables receiving said signal for said first wireless protocol and a signal for a second wireless protocol, wherein a transconductance amplifier (315A) within said chip (302) is utilized to couple an output of said shared LNA (308) to said first radio (305) or first receiver;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">said shared LNA (308) is integrated within a second radio (303) or second receiver in said chip (302) used for processing said signal for said second wireless protocol.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den neun weitere Ansprüche zurückbezogen sind, schützt ein Verfahren mit entsprechenden Merkmalen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig und die Erfindung nicht so offenbart, dass ein Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in sechs geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Klage abgewiesen. Dagegen richtet sich die Berufung der Klägerin, die weiterhin die Nichtigerklärung des Streitpatents erstrebt. Die Beklagte tritt dem Rechtsmittel mit ihren erstinstanzlichen Anträgen entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, aber nicht begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft die gemeinsame Benutzung eines LNA-Schaltkreises in einem Ein-Chip-System für zwei verschiedene Drahtlosprotokolle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift vereinen Mobilfunkgeräte eine zunehmende Zahl von Funktionen in einem Gerät. Es sei beispielsweise möglich, mit demselben Gerät Kommunikationsdienste über Bluetooth und zugleich über drahtlose lokale Netzwerke (WLAN) zu nutzen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Ein Großteil der Frontend-Datenverarbeitung, die den Empfang und die Übertragung von Hochfrequenz-Signalen (HF-Signalen) umfassen könne, werde in analogen Schaltkreisen durchgeführt (Abs. 3 f.). Eine Schwierigkeit auf dem Weg zu einer zunehmenden Integration bestehe darin, dass die analogen HF-Schaltkreise für jeden einzelnen drahtlosen Kommunikationsdienst in einem separaten integrierten Schaltkreis (IC) oder Chip implementiert sein könnten (Abs. 5 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein System, das eine stärkere Integration separater drahtloser Kommunikationsdienste auf einem einzigen tragbaren Gerät ermöglicht, und ein Verfahren mit entsprechenden Merkmalen zur Verfügung zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in Patentanspruch 11 ein System vor, dessen Merkmale sich wie folgt gliedern lassen (die abweichende Gliederung des Patentgerichts ist in der zweiten Spalte der Tabelle vermerkt):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11a</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A system for processing signals received via a communication medium, the system comprising</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">System zum Verarbeiten von über ein Kommunikationsmedium empfangenen Signalen, umfassend:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11b</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a chip (302) comprising</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen Chip (302), umfassend</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11b1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a first radio (305) or first receiver</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">ein erstes Funkgerät (305) oder einen ersten Empfänger,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11b2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">used for processing a signal for a first wireless protocol;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">der zum Verarbeiten eines Signals für ein erstes drahtloses Protokoll verwendet wird;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11e</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a second radio (303) or second receiver</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">ein zweites Funkgerät (303) oder einen zweiten Empfänger,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11f</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">used for processing said signal for a second wireless protocol;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">der zum Verarbeiten des Signals für ein zweites drahtloses Protokoll verwendet wird;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11c</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a shared LNA (308)</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen gemeinsam genutzten LNA (308),</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.5.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11c111c2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">that enables receiving the signals for the first and the second wireless protocol</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">der das Empfangen der Signale für das erste und das zweite drahtlose Protokoll ermöglicht</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.5.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11e</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">and is integrated within the second radio (303) or second receiver;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">und in dem zweiten Funkgerät (303) oder zweiten Empfänger integriert ist;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.6</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11d11d1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a transconductance amplifier (315A)</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen Transkonduktanzverstärker (315A),</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11.6.1        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">11d2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">utilized to couple an output of said shared LNA (308) to said first radio (305) or first receiver.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">der dazu genutzt wird, einen Ausgang des gemeinsam genutzten LNA (308) mit dem ersten Funkgerät (305) oder dem ersten Empfänger zu koppeln.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>4. Das in Patentanspruch 1 geschützte Verfahren wird durch den Einsatz eines Systems mit den in Anspruch 11 vorgesehenen Merkmalen geprägt und unterliegt deshalb derselben Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>5. Einige Merkmale bedürfen näherer Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Alle in den Merkmalen 11.3, 11.4, 11.5 und 11.6 vorgesehenen Komponenten sind auf dem in Merkmal 11.2 vorgesehenen Chip (302) angeordnet. Wie das Patentgericht zutreffend ausgeführt hat, schließt dies nicht aus, dass der Chip weitere Bauelemente aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b) Als Funkgerät (radio) im Sinne der Merkmale 11.3 und 11.4 wird nach den insoweit nicht angegriffenen Feststellungen des Patentgerichts üblicherweise eine Sender-/Empfängerschaltung für Hochfrequenzsignale (HF, radio frequency, RF) bezeichnet. Den Gegensatz dazu bildet ein Basisbandteil oder Basisbandchip.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Schaltungen für Hochfrequenzsignale verarbeiten nach den ebenfalls nicht angegriffenen Feststellungen des Patentgerichts analoge Signale.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>c) Protokolle im Sinne der Merkmale 11.3.1 und 11.4.1 sind Festlegungen für die Übertragung von Daten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Nach beiden genannten Merkmalen muss es sich um Protokolle für die drahtlose Datenübertragung handeln. Dies steht in Einklang mit der Vorgabe aus den Merkmalen 11.3 und 11.4, wonach das System Funkgeräte umfassen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Als Beispiele für drahtlose Protokolle führt die Beschreibung für das erste Funkgerät Bluetooth und für das zweite Funkgerät WLAN an. Entsprechende Festlegungen enthalten die Patentansprüche 14 bzw. 12.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>d) Hinsichtlich der eingesetzten Frequenzen enthält Patentanspruch 11 keine Vorgaben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung können ein oder mehrere Empfänger vorhanden sein. Diese können für ein einzelnes oder für mehrere Frequenzbänder eingerichtet sein (Abs. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>e) Zu Recht hat das Patentgericht angenommen, dass das erste und das zweite Funkgerät unterschiedliche Komponenten aufweisen müssen, die sich räumlich voneinander unterscheiden lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>aa) Dabei kann dahingestellt bleiben, ob sich diese Anforderung schon aus der Verwendung der beiden Zahlwörter ergibt, wie dies die Berufungserwiderung geltend macht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Dass es nicht allein um Funktionen geht, sondern auch um separate Bauteile des Chips, die diese Funktionen ausführen, folgt jedenfalls daraus, dass der gemeinsam genutzte rauscharme Verstärker (LNA) gemäß Merkmal 11.5.2 in dem zweiten Funkgerät integriert ist, und daraus, dass der Transkonduktanzverstärker einen Ausgang dieses rauscharmen Verstärkers mit dem ersten Funkgerät koppelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Wenn eine räumliche Unterscheidung der für die beiden Funktionen eingesetzten Komponenten nicht möglich ist, kommt eine Zuordnung des gemeinsam genutzten Verstärkers zu einem der beiden Funkgeräte nicht in Betracht. Wenn die Funktionen des ersten und des zweiten Funkgeräts sogar durch dieselben Komponenten verwirklicht werden, ist es mangels Unterscheidbarkeit der beiden Geräte auch nicht möglich, den Ausgang des gemeinsam genutzten Verstärkers mit dem ersten Gerät zu koppeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>bb) Dieses Verständnis steht in Einklang mit dem Ausführungsbeispiel, das in der nachfolgend wiedergegebenen Figur 3 des Streitpatents dargestellt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Bei diesem Beispiel werden die Hochfrequenz-Signale über eine gemeinsame Antenne (301) empfangen und im WLAN-Funkgerät (303) mit einem rauscharmen Verstärker (LNA 308) verstärkt. Die WLAN-Signale werden anschließend einem weiteren Verstärker (LNA 313) zugeführt und können danach zur weiteren Verarbeitung an andere Abschnitte des WLAN-Funkgeräts (303) übermittelt werden (Abs. 38 f.). Die Bluetooth-Signale werden nach dem Durchlaufen der ersten Verstärkungsstufe einer zweiten Verstärkungsstufe (312) zugeführt und können anschließend zur weiteren Verarbeitung an andere Abschnitte des Bluetooth-Funkgeräts (305) übermittelt werden. Die zweite Verstärkungsstufe (312) besteht aus einem Transkonduktanzverstärker (TCA 315A) und einer LNA-Last (315B, Abs. 40). Der Transkonduktanzverstärker ist im WLAN-Funkgerät (303) integriert, die LNA-Last im Bluetooth-Funkgerät (305). Beide Komponenten zusammen ermöglichen eine rauscharme Verstärkung (Abs. 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>cc) Vor diesem Hintergrund führen das vom Streitpatent angestrebte Ziel einer möglichst weitgehenden Integration, der Umstand, dass die in Figur 3 dargestellte Ausgestaltung in der Beschreibung nur als optional bezeichnet wird (Abs. 32: "may comprise") und die Vorgabe, dass alle Komponenten auf demselben Chip angeordnet sind, nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn eine noch weitergehende Integration möglich und vorteilhaft wäre, ist der Gesamtheit der oben genannten Merkmale zu entnehmen, dass Patentanspruch 11 eine separate und räumlich unterscheidbare Anordnung der beiden Funkgeräte verlangt, wie sie für das Ausführungsbeispiel in Figur 3 beschrieben ist. Nur dies ermöglicht eine Integration einzelner Bauteile in das eine oder das andere Funkgerät. Die beim Ausführungsbeispiel in Figur 3 vorgesehene Integration des Transkonduktanzverstärkers in das zweite und der BT-LNA-Last in das erste Funkgerät ist in Patentanspruch 11 zwar nicht zwingend vorgesehen. Wie bereits oben dargelegt wurde, erfordert aber schon die durch Merkmal 11.5.2 vorgegebene Integration des gemeinsam genutzten rauscharmen Verstärkers in das zweite Funkgerät eine räumliche Unterscheidbarkeit der beiden Geräte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dafür, dass die beiden Funkgeräte zwei voneinander getrennte Einheiten darstellen, spricht außerdem, dass die Beschreibung des Streitpatents im Zusammenhang mit dem ersten Funkgerät (Bluetooth-Funkgerät) darauf hinweist, dass der gemeinsam genutzte rauscharme Verstärker die Ausgangsspannungen über eine lange Übertragungsleitung steuern müsse, was zu erheblichen Signalverlusten und zu nachteiligen Auswirkungen auf die Induktivität im Verstärker führen könne, und zugleich Lösungsansätze zur besseren Bewältigung der langen Übertragungsleitung aufzeigt, wie beispielsweise die Platzierung eines Transkonduktanzverstärkers an geeigneter Stelle (Abs. 36). Diese Details haben in Patentanspruch 11 zwar keinen Niederschlag gefunden. Die Ausführungen dazu bestätigen aber, dass eine Integration, wie sie der Patentanspruch vorsieht, mit einer räumlichen Unterscheidbarkeit einhergeht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>dd) Aus den in der Beschreibung enthaltenen Ausführungen, wonach die Erfindung wahlweise in Hardware, Software oder einer Kombination davon verwirklicht werden kann (Abs. 50), ergibt sich vor dem aufgezeigten Hintergrund ebenfalls keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Diese Ausführungen mögen ebenso wie die generelle Zielsetzung einer möglichst hohen Integration dagegen sprechen, einzelne Komponenten räumlich voneinander zu trennen. Patentanspruch 11 sieht zur Verwirklichung dieser Ziele aber eine besondere Ausgestaltung vor, die eine räumliche Unterscheidbarkeit aus den oben aufgezeigten Gründen erfordert. Insoweit ist die Möglichkeit, die angestrebten Funktionen allein durch Software zu erfüllen, eingeschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>ee) Für die in Merkmal 11.5.2 vorgesehene Integration des gemeinsam genutzten rauscharmen Verstärkers in das zweite Funkgerät reicht es, wie das Patentgericht zutreffend ausgeführt hat, aus, wenn der Verstärker so in der räumlichen Nähe des Funkgeräts angeordnet ist, dass er einen Teil dieser räumlich unterscheidbaren Einheit bildet. Diese Anforderung ist auch dann erfüllt, wenn der Verstärker am Rande dieser Einheit angeordnet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>f) Ebenfalls zu Recht hat das Patentgericht angenommen, dass Patentanspruch 11 keine Vorgaben für die räumliche Anordnung des Transkonduktanzverstärkers enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Wie bereits dargelegt wurde, ist die in Figur 3 dargestellte Integration in das zweite Funkgerät erst in Patentanspruch 13 zwingend vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Nach Patentanspruch 11 bleibt es danach möglich, den Transkonduktanzverstärker stattdessen in das erste Funkgerät zu integrieren, wie dies in der Beschreibung ausdrücklich als mögliche (Abs. 33), wenn auch eher nachteilhafte (Abs. 36) Variante angeführt wird. Ferner kommt in Betracht, diesen Verstärker an einer Stelle des Chips anzuordnen, die keinem der beiden Funkgeräte zugeordnet werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufung im Ansatz zutreffend geltend macht, ist es danach nicht ausgeschlossen, den Transkonduktanzverstärker und den gemeinsam genutzten rauscharmen Verstärker als integriertes Bauteil auszugestalten. Auch in diesem Fall müssen jedoch zumindest einzelne Komponenten vorhanden sein, die nur die Funktion des Transkonduktanzverstärkers erfüllen, weil dieser gemäß Merkmal 11.6.1 in der Lage sein muss, den Ausgang des gemeinsam genutzten Verstärkers mit dem ersten Funkgerät zu koppeln, also das Ausgangssignal dieses Verstärkers aufzunehmen. Das Patentgericht hat dies zutreffend dahin zusammengefasst, dass der Transkonduktanzverstärker in Signalflussrichtung nach dem gemeinsam genutzten rauscharmen Verstärker angeordnet sein muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Die Erfindung sei so deutlich und vollständig offenbart, dass ein Fachmann, ein Diplom-Ingenieur der Elektrotechnik mit Schwerpunkt Nachrichtentechnik und mehrjähriger Berufserfahrung auf dem Gebiet der Telekommunikation, insbesondere der Konzeption und Entwicklung von integrierten analogen Hochfrequenz-Schaltungen für Telekommunikations-Endgeräte, sie ausführen könne. Zwar sei in Patentanspruch 11 nur festgelegt, dass der gemeinsam genutzte rauscharme Verstärker in den zweiten Empfänger integriert sei, wohingegen in Bezug auf die technische Umsetzung der Integration der weiteren Systemkomponenten auf dem Chip keine Details enthalten seien. Aus fachmännischer Sicht könne eine Komponente auf einem Chip indessen ohne weiteres physikalisch innerhalb einer anderen Komponente angeordnet werden. Dabei sei es auch möglich, dass die integrierte Komponente sowohl für die andere als auch für weitere Komponenten bestimmte Funktionen übernehme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 11 in der erteilten Fassung sei durch den Stand der Technik nicht vorweggenommen. Die US-amerikanischen Patentschriften 6 917 815 (NK7) und 6 657 491 (NK11) sowie die japanische Patentanmeldung 2002-237 764 (NK15) offenbarten zwar Systeme zum Empfangen und Übertragen von Signalen. NK7 und NK11 offenbarten aber nicht, dass es sich bei den Signalen um solche für drahtlose Protokolle handle. Keine der drei Entgegenhaltungen offenbare, dass ein gemeinsam genutzter Verstärker in einem zweiten Empfänger integriert sei. Ferner wiesen die Systeme der NK7, NK11 und NK15 keinen Transkonduktanzverstärker im Sinne des Streitpatents auf. Entsprechendes gelte für das in der US-amerikanischen Patentanmeldung 2006/0 063 493 (NK8) offenbarte System. Bei den Systemen aus den US-amerikanischen Patentanmeldungen 2005/0 070 325 (NK9) und 2006/0 252 403 (NK10) sowie der Veröffentlichung von Emira et al. (A Dual-Mode 802.11b/Bluetooth Receiver in 0.25 µm BiCMOS, 2004 IEEE International Solid-State Circuits Conference, IEEE 2004 – 0-7803-8267-6/04, NK14) fehle es an der Offenbarung eines zweiten Funkgeräts oder Empfängers sowie eines Transkonduktanzverstärkers zur Kopplung eines Ausgangs des rauscharmen Verstärkers mit einem Empfänger.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Ein System mit den Merkmalen von Patentanspruch 11 werde dem Fachmann durch die im Verfahren befindlichen Entgegenhaltungen auch nicht nahegelegt. Der rauscharme Verstärker aus NK7 enthalte zwar ein aktives Element, das als Transkonduktanzverstärker wirken könne. Dieses werde jedoch nicht zur Kopplung des Ausgangs des rauscharmen Verstärkers mit dem ersten Empfänger genutzt. NK7 gebe dem Fachmann weder für sich noch in Kombination mit anderen Entgegenhaltungen Anlass, in Signalflussrichtung nach dem gemeinsam genutzten rauscharmen Verstärker einen weiteren Transkonduktanzverstärker vorzusehen. Ebenso wenig lege NK7 nahe, den gemeinsam genutzten rauscharmen Verstärker der dem zweiten Empfänger beim Streitpatent entsprechenden Schaltungskomponente zuzuordnen. Auch aus NK11 ergebe sich keine Veranlassung, den gemeinsam genutzten rauscharmen Verstärker in den zweiten Empfänger zu integrieren. Ausgehend von NK15 ergäben sich aus NK11 keine weitergehenden Anregungen. NK8, NK9, NK10 und NK14 stellten schon wegen des Fehlens eines Transkonduktanzverstärkers bzw. eines zweiten Empfängers keinen geeigneten Ausgangspunkt für eine Weiterentwicklung in Richtung des Streitpatents dar. Die Entgegenhaltungen NK13, NK13a und NK20 lägen noch weiter ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht die Erfindung als ausführbar offenbart angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben ausgeführt wurde, reicht zur Verwirklichung von Merkmal 11.5.2 aus, dass der gemeinsam genutzte Verstärker (308) in der räumlichen Nähe des Funkgeräts angeordnet ist und deshalb einen Teil dieser räumlich unterscheidbaren Einheit bildet. Eine solche Ausgestaltung ist, wie auch die Berufung nicht in Zweifel zieht, in Figur 3 dargestellt und ausführbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Eine darüber hinausgehende "physikalische Integration" mit der Folge, dass der gemeinsam genutzte Verstärker anders als in Figur 3 nicht als erstes Glied in der Signalverarbeitungskette fungieren darf, ist nach Patentanspruch 11 demgegenüber nicht erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>2. Zutreffend hat das Patentgericht entschieden, dass der Gegenstand von Patentanspruch 11 neu ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>a) In der US-amerikanischen Patentschrift 6 917 815 (NK7) sind die Merkmale von Patentanspruch 11 nicht vollständig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) NK7 befasst sich mit der Aufgabe, die Funktionalität von drahtlosen Kommunikationssystemen zu erhöhen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>NK7 bezeichnet es als nachteilig, dass herkömmliche Dualband-Empfänger jeweils nur ein Band empfangen könnten und zwischen den beiden Bändern umschalten müssten (Sp. 1 Z. 41-42, Z. 65 bis Sp. 2 Z. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Zur Verbesserung schlägt NK7 einen Parallel-Dualband-Hochfrequenzempfänger vor, der die Funktionen eines typischen Empfängers zeitgleich in zwei separaten Frequenzbändern ausführt. Dabei wird ein Parallel-Dualband-Frontend-Subsystem, das eine Dualband-Antenne, einen Dualband-Vorverstärkerfilter und einen Parallel-Dualband-LNA aufweist, mit einem Abwärtswandler mit Spiegelfrequenzunterdrückung kombiniert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Ein Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 6 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Der Empfänger (300) weist ein Frontend-Subsystem mit einer Dualband-Antenne (302), einem Dualband-Bandpassfilter (304) und einem Dualband-LNA (306) auf. Das von diesem System bereitgestellte Signal (a) wird auf zwei Pfade (308, 309) aufgeteilt, auf denen jeweils ein Mischer (312, 314) angeordnet ist. Ein Quadratur-Lokaloszillator (310) wandelt die beiden Signale in Zwischenfrequenz-Signale (IF<sub>A</sub>, IF<sub>B</sub>). Diese werden durch Tiefpassfilter (316, 318) geleitet und danach wiederum auf jeweils zwei Pfade aufgeteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Im oberen Pfad werden das In-Phase-L<sub>O2</sub>-Signal in einem Mischer (322) mit dem Signal IFI und das Quadratur-L<sub>O2</sub>-Signal in einem Mischer (324) mit dem Signal IFQ gemischt. Die daraus resultierenden Signale werden in einem Summierschaltkreis (330) kombiniert, um das erste Basisbandsignal (A) zu erhalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Im unteren Pfad wird in entsprechender Weise mit zwei Mischern (342, 344) und einem Summierschaltkreis (350) das zweite Basisbandsignal (B) gewonnen (Sp. 9 Z. 56 bis Sp. 10 Z. 25).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(2) Ein exemplarisches Schaltbild für den Dualband-LNA (306) ist in der nachfolgend wiedergegebenen Figur 14 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausgestaltung wirkt das aktive Element des Verstärkers nach den Feststellungen des Patentgerichts als Transkonduktanzverstärker.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(3) Ein weiteres Ausführungsbeispiel für einen Empfänger ist in der nachfolgend wiedergegebenen Figur 8 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Bei diesem Beispiel sind in der zweiten Wandlungsstufe zusätzliche Mischer und Summierer vorgesehen, mit denen insgesamt vier Basisband-Ausgangssignale (BB,I<sub>A</sub>, BB,Q<sub>A</sub>; BB,I<sub>B</sub>, BB,Q<sub>B</sub>) gewonnen werden können (Sp. 10 Z. 39-44; Sp. 10 Z. 46 bis Sp. 11 Z. 44).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>bb) Wie das Patentgericht zutreffend angenommen hat, ist damit Merkmal 11.5.2 [11e] nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Bei den Ausführungsbeispielen der Figuren 6 und 8 bildet der rauscharme Verstärker (306, 416) einen Teil des beiden Funkempfängern vorgelagerten Frontend-Subsystems. Dass dieses oder zumindest der Verstärker in einen der beiden Funkempfänger integriert ist, geht weder aus den Figuren noch aus der Beschreibung hervor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ergeben sich aus dem Umstand, dass zwischen dem Verstärker und der nachgelagerten Empfängerschaltung keine anderen Komponenten angeordnet sind, keine weitergehenden Schlussfolgerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Weder den Figuren noch der Beschreibung lässt sich entnehmen, dass die dargestellten Schaltbilder zugleich die räumliche Anordnung der einzelnen Komponenten wiedergeben. Allenfalls die in Figur 4 eingezeichneten Rechtecke (410, 430, 440, 450) könnten als Hinweis auf die räumliche Zusammenfassung einzelner Komponenten verstanden werden. Danach bildet das Frontend-Subsystem (410) mit dem rauscharmen Verstärker (416) aber eine eigene, von den nachfolgenden Funkempfängern getrennte Komponente.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>cc) Wie das Patentgericht ebenfalls zutreffend entschieden hat, ist auch Merkmal 11.6.1 [11d2] nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ist der Umstand, dass der rauscharme Verstärker (416) als Transkonduktanzverstärker ausgeführt ist, zur Verwirklichung dieses Merkmals nicht ausreichend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben ausgeführt wurde, erfordert Merkmal 11.6.1 [11d2], dass nach dem gemeinsam genutzten rauscharmen Verstärker ein (weiterer) Transkonduktanzverstärker angeordnet ist. Diese Anforderung ist mit der in NK7 offenbarten Ausgestaltung nicht erfüllt. Der rauscharme Verstärker (416) wirkt zwar als Transkonduktanzverstärker. Ihm ist aber kein weiterer Transkonduktanzverstärker nachgeschaltet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>b) Die US-amerikanische Patentschrift 6 657 491 (NK11) offenbart ebenfalls nicht sämtliche Merkmale von Patentanspruch 11.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>aa) NK11 befasst sich mit der Aufgabe, die Gesamtleistung von Tunern, wie sie beispielsweise in Set-Top-Boxen, Kabelmodems und hochauflösenden Fernsehgeräten verwendet werden, bei der Verwendung von Splittern zu verbessern (Sp. 1 Z. 65 bis Sp. 2 Z. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Nach den Ausführungen in NK11 wird das ankommende Kabelsignal in bekannten Systemen in mehrere Ausgänge aufgeteilt, damit mehrere Tuner ansteuert werden können, etwa um einen Bild-im-Bild-Modus anzuzeigen, um mehrere Kanäle gleichzeitig zu sehen oder um einen Kanal zu sehen, während zeitgleich ein anderer aufgenommen wird (Sp. 1 Z. 24-39). Die hierzu eingesetzten passiven Splitter verschlechterten die Gesamtleistung des Tuners und verursachten einen großen Platzbedarf und Herstellungsaufwand (Sp. 1 Z. 40-64).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung schlägt NK11 eine autonome automatische Verstärkungsregelung vor, die durch die Integration einer aktiven Splitter-Tuner-Anordnung in einem integrierten Schaltkreis realisiert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>(1) Ein Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 3 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Das Eingangssignal wird in der ersten Stufe durch einen rauscharmen Verstärker (302) geleitet. Anschließend wird es durch einen aktiven Splitter (306) aufgeteilt, optional durch weitere rauscharme Verstärker (308, 310, 312) geführt und jeweils einem Tuner (108, 110, 112) zugeleitet. Ein Leistungsdetektor (304) überwacht den Ausgang des ersten Verstärkers (302) und sorgt dafür, dass die von diesem ausgegebenen Signale auf einem konstanten Pegel gehalten werden (Sp. 5 Z. 34-57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>(2) Eine abgewandelte Ausführungsform ist in der nachfolgend wiedergegebenen Figur 4 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild6_5.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Bei dieser Ausführung kommt ein Verstärkersplitter (406) zum Einsatz. Dieser umfasst einen ersten Verstärker (408), dessen Ausgangssignal aufgeteilt und an drei Verstärker der zweiten Stufe (418, 420, 422) weitergeleitet wird (Sp. 6 Z. 53 bis Sp. 7 Z. 26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>bb) Wie das Patentgericht zu Recht und von der Berufung unangegriffen entschieden hat, fehlt es damit an einer Offenbarung der Merkmale 11.4.1 [11f] und 11.6.1 [11d2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>NK11 offenbart zwar mehrere Funkempfänger. Diese verarbeiten jedoch keine unterschiedlichen Protokolle. Ferner ist kein Transkonduktanzverstärker offenbart, der den Ausgang des gemeinsam genutzten Verstärkers mit einem der Funkempfänger koppelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>cc) Ebenfalls zutreffend hat das Patentgericht entschieden, dass auch Merkmal 11.5.2 [11e] nicht offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, reicht es zur Offenbarung dieses Merkmals nicht aus, dass zwischen dem gemeinsam genutzten rauscharmen Verstärker und den einzelnen Empfängern keine weiteren Komponenten zwischengeschaltet sind. Die zur Verwirklichung von Merkmal 11.5.2 [11e] erforderliche räumliche Zuordnung ist weder in den Figuren 3 und 4 noch in der Beschreibung von NK11 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung können aus der Länge der in den Figuren dargestellten Verbindungen keine Schlussfolgerungen auf die räumliche Anordnung gezogen werden. Auch der in der Beschreibung enthaltene Hinweis, Figur 4 zeige ein detailliertes Blockdiagramm eines Systems, das entsprechend der Erfindung aufgebaut und angeordnet sei (constructed and arranged, Sp. 3 Z. 31-34), lässt nicht hinreichend deutlich erkennen, dass das Blockdiagramm nicht nur die Anordnung der Funktionen verdeutlicht, sondern zugleich die räumliche Anordnung der Bauteile und deren Integration in voneinander unterscheidbare Teilkomponenten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn bei der Interpretation der Figuren ergänzend der von der Berufung postulierte Erfahrungssatz heranzuziehen wäre, dass die Verbindung zwischen den beiden Verstärkern möglichst kurz sein sollte, um Verschlechterungen des Signals zu vermeiden, ergäbe sich auch daraus kein Hinweis darauf, dass der erste Verstärker in einen der nachgelagerten Empfänger integriert ist, die einzelnen Empfänger aber räumlich voneinander unterscheidbar angeordnet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>c) Die US-amerikanische Patentanmeldung 2005/0 070 325 (NK9) offenbart ebenfalls nicht sämtliche Merkmale von Patentanspruch 11.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>aa) NK9 befasst sich mit der Aufgabe, eine Empfängerarchitektur für drahtlose Kommunikationsvorrichtungen bereit zu stellen, die in der Lage ist, mehrere Kommunikationsstandards effizienter zu implementieren (Abs. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>NK9 geht von bekannten Systemen aus, die eine DSP-Funktionalität und eine analoge Funktionalität auf einem einzigen integrierten Schaltkreis unterstützen. Hieran sei nachteilig, dass das dynamische Konfigurieren der analogen Blöcke, zum Beispiel der Tiefpassfilter (LPF) und der Anti-Alias-Filter, aufgrund der unterschiedlichen Filterungs- und Rauschanforderungen jedes Kommunikationsstandards schwierig sein könne. Diese Filter nähmen zudem einen großen Raum ein. Ferner könne sich die Abstimmung des analogen Schaltkreises entlang der In-Phase- und Quadratur-Pfade als schwierig darstellen (Abs. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung schlägt NK9 vor, den Schaltkreis um zusätzliche Komponenten zu ergänzen, die eine bessere Implementierung unterschiedlicher Kommunikationsstandards ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Bei einem Ausführungsbeispiel, das in der nachfolgend wiedergegebenen Figur 2A dargestellt ist, wird die Architektur des Empfängers (50) insbesondere um Kondensatoren ergänzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild7_6.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Das über die Antenne (12) empfangene Hochfrequenz-Signal wird durch einen rauscharmen Verstärker (LNA 14) verstärkt und auf zwei Pfade aufgeteilt. Über einen Lokaloszillator (66) wird das Signal für einen Quadratursignalgenerator (20) bereitgestellt. Dieser übermittelt das Oszillator-Signal an den In-Phase-Mischer (16) und eine Quadraturversion dieses Signals an den Quadratur-Mischer (18). Die mit den beiden Mischern gewandelten Hochfrequenz-Signale werden über Analog-/Digital-Wandler (58, 60) zur weiteren Verarbeitung an einen digitalen Signalprozessor (DSP 62) weitergeleitet. Den Mischern (16, 18) sind Kondensatoren (52, 54) nachgeschaltet. Diese können die Ausgangsimpedanz der Mischer (16, 18) verwenden, um an deren Ausgängen Tiefpassfilter zu bilden, mit denen unerwünschte Frequenzen gedämpft werden können (Abs. 28, 31).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>In einer weiteren Ausführungsform können die Eingangsverstärker der Analog-/Digital-Wandler (58, 60) als ein parallel geschaltetes Transkonduktanzverstärkerpaar realisiert sein. In dieser Ausführungsform kann die Amplitude des Signals am Eingang der Analog-/Digital-Wandler (58, 60) durch entsprechendes Aktivieren oder Deaktivieren der einzelnen Transkonduktanzverstärker gesteuert werden (Abs. 48).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind, wie das Patentgericht zu Recht entschieden hat, die Merkmale 11.4 [11e] und 11.4.1 [11f] nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>NK9 offenbart zwar einen Empfänger, der unterschiedliche Protokolle verarbeiten kann. Wie auch die Berufung nicht in Zweifel zieht, werden diese Funktionen aber durch einen einheitlichen Schaltkreis verwirklicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Eine räumliche Unterscheidbarkeit und eine dadurch ermöglichte Integration des gemeinsam genutzten rauscharmen Verstärkers in einen der beiden Empfänger ist damit nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>d) Die US-amerikanische Patentanmeldung 2006/0 252 403 (NK10) nimmt ebenfalls nicht sämtliche Merkmale von Patentanspruch 11 vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>aa) NK10 befasst sich wie das Streitpatent mit der Aufgabe, ein Kommunikationssystem, das in mehreren Modi arbeiten kann, in der Weise zu verbessern, dass die Komplexität der Geräte reduziert wird und die Herstellung kostengünstig bleibt (Abs. 5, 8-10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>NK10 kritisiert, dass bei bekannten drahtlosen Telefonen für jedes Netzwerk ein separater Schaltkreis erforderlich sei. Dieses Nebeneinander mehrerer Schaltkreise werde auch bei Einsatz eines Mischers nicht entbehrlich und erhöhe die Herstellungskosten (Abs. 6 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung schlägt NK10 eine Architektur mit einem einzigen Schaltkreis vor, der in der Lage ist, mehrere Kommunikationsmodi abzudecken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>(1) Ein Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 2 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild8_7.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Der Schaltkreis umfasst eine Antenne (201) zum Empfangen eines Kommunikationssignals, gefolgt von einer ersten BAW-Komponente (Bulk Acoustic Resonator 202), die das Hochfrequenz-Signal empfängt. Danach folgt ein rauscharmer Verstärker (LNA 203, Abs. 23). Eine diesem nachgeschaltete zweite BAW-Komponente (204) kann bei Bedarf deaktiviert werden, weil sie nur für das WCDMA-Format benötigt wird, nicht für die GSM-, DCS- oder PCS-Formate (Abs. 25). In einem Mischerschaltkreis wird ein von einem Lokaloszillator (207) erzeugtes Signal durch zwei Mischer (205, 206) phasengleich und um 90° phasenverschoben mit dem Hochfrequenz-Signal vermischt, um die beiden Komponenten für die Zwischenfrequenz (IF) zu erzeugen (Abs. 26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Der rauscharme Verstärker (203) weist eine einstellbare Impedanz auf. Dadurch kann er mit den Frequenzeigenschaften der ersten BAW-Komponente (202) zusammenwirken (Abs. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>(2) Ein weiteres Ausführungsbeispiel ist in der nachfolgend wiedergegebenen Figur 3 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild9_8.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Bei diesem Beispiel sind zusätzlich ein dritter BAW-Resonator (308) und ein Phasenregel-Schaltkreis (PLL 307) vorhanden. Der PLL-Schaltkreis (307) dient zur Einstellung der Frequenz des zweiten und des dritten BAW-Schaltkreises und damit zur Einstellung der Frequenzeigenschaften des gesamten Filters (Abs. 31).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>(3) Bei einer als bevorzugt bezeichneten Ausführungsform ist der rauscharme Verstärker als Transkonduktanzverstärker ausgeführt (Abs. 32, Abs. 14 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>bb) Damit fehlt es, wie das Patentgericht zu Recht entschieden hat, an einer Offenbarung der Merkmale 11.4 [11e] und 11.4.1 [11f].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Ähnlich wie NK9 offenbart NK10 zwar Empfänger für mehrere unterschiedliche Protokolle. Auch NK10 lässt aber nicht erkennen, dass diese unterschiedlichen Funktionen durch räumlich unterscheidbare Komponenten verwirklicht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>cc) Ebenfalls zutreffend hat das Patentgericht in dem nach § 83 Abs. 1 PatG erteilten Hinweis ausgeführt, dass Merkmal 11.6.1 [11d2] nicht offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>Der in der bevorzugten Ausführungsform eingesetzte Transkonduktanzverstärker erfüllt die Funktion des gemeinsam genutzten rauscharmen Verstärkers im Sinne von Merkmal 11.5 [11c]. Ein mit dessen Ausgang verbundener (weiterer) Transkonduktanzverstärker ist in NK10 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>e) Die Veröffentlichung von Emira et al. (A Dual-Mode 802.11b/Bluetooth Receiver in 0.25 µm BiCMOS, 2004 IEEE International Solid-State Circuits Conference, IEEE 2004 – 0-7803-8267-6/04, NK14) offenbart ebenfalls nicht sämtliche Merkmale von Patentanspruch 11.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>aa) NK14 offenbart ein Dualmodus-System, das den Empfang gemäß des Standards IEEE 802.11b (Wi-Fi-Modus) und des Bluetooth-Standards unterstützt und vom HF-Frontend bis zum Analogwandler (ADC) auf einem Chip integriert ist. Der Aufbau ergibt sich aus der nachfolgend wiedergegebenen Abbildung 15.2.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild10_9.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>Das HF-Frontend verfügt über zwei Verstärkungsmodi. Für eine Verstärkung von 15 dB wird das Eingangssignal (RF IN) an einen rauscharmen Verstärker (LNA) übermittelt. Dessen Ausgangssignal wird an zwei Mischer weitergeleitet. Deren Ausgangssignale durchlaufen jeweils einen anpassbaren Tiefpassfilter (LPF). Beide Tiefpassfilter sind als Transkonduktanzverstärker (Operational Transconductance Amplifier, OTA) ausgeführt. Jedem Filter ist ein anpassbares Dämpfungsglied (Variable Gain Adjustment, VGA) nachgeschaltet, das ebenfalls als rauscharmer Verstärker (LNA) realisiert ist. In den sich anschließenden Analog-/Digital-Wandlern (ADC) werden die Quadratur- und In-Phase-Anteile der Basisbandsignale digitalisiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>Ein Foto des vorgeschlagenen Chips ist in der nachfolgend wiedergegebenen Figur 15.2.7 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild11_10.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>bb) Auch in NK14 fehlt es an einer Offenbarung der Merkmale 11.4 [11e] und 11.4.1 [11f].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>NK14 zeigt zwar einen Empfänger, der mehrere unterschiedliche Protokolle verarbeiten kann. Nicht offenbart ist aber, dass die einzelnen Funktionen durch räumlich voneinander unterscheidbare Komponenten verwirklicht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>cc) Die Merkmale 11.5.2 und 11.6.1 sind ebenfalls nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, inwieweit der Darstellung in Figur 15.2.7 eine Integration des LNA-Verstärkers in andere Teilkomponenten entnommen werden kann. Eine Offenbarung der Merkmale 11.5.2. und 11.6.1 setzte jedenfalls voraus, dass es zwei räumlich voneinander unterscheidbare Funkgeräte gibt. Diese Voraussetzung ist bei NK14 nicht erfüllt, weil es nur einen Empfänger gibt, der beide Protokolle verarbeiten kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>3. Der Gegenstand von Patentanspruch 11 beruht auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>a) Wie oben aufgezeigt wurde, fehlt es in den Entgegenhaltungen an der Offenbarung einer räumlichen Unterscheidbarkeit der Komponenten für die einzelnen Funktionen oder an der Offenbarung einer Integration des gemeinsam genutzten Verstärkers in eines der beiden Funkgeräte. Aus keiner Entgegenhaltung ergab sich eine Anregung, die dort offenbarten Systeme in dieser Weise abzuwandeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Die dagegen gerichtete Argumentation der Berufung beruht auf der Prämisse, dass eine räumliche Unterscheidbarkeit nicht erforderlich ist und dass es ausreicht, wenn der gemeinsam genutzte rauscharme Verstärker als Transkonduktanzverstärker ausgeführt ist. Beides ist aus den oben aufgeführten Gründen unzutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Berufung hat der Gegenstand von Patentanspruch 11 auch nicht ausgehend von NK11 in Kombination mit NK14 nahegelegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Dabei kann offenbleiben, ob sich ausgehend von NK11 aus NK14 die Anregung ergab, den ersten Verstärker in das Empfangsteil zu integrieren. Selbst wenn dies zu bejahen wäre, ergäbe sich aus der Kombination der Entgegenhaltungen jedenfalls nicht die Anregung, den Verstärker nur in einen der Empfänger zu integrieren und die anderen Empfänger als davon räumlich unterscheidbare Komponenten auszugestalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG in Verbindung mit § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="0" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Bacher     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Hoffmann     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Kober-Dehm</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Rombach     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Rensen     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE628282023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

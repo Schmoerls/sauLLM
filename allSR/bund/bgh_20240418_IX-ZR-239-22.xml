@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310562024</doknr>
+   <ecli>ECLI:DE:BGH:2024:180424UIXZR239.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>9. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240418</entsch-datum>
+   <aktenzeichen>IX ZR 239/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 17 Abs 2 S 2 InsO, § 129 InsO, §§ 129ff InsO, § 131 Abs 1 Nr 2 InsO, § 133 Abs 1 InsO, § 286 ZPO, § 166 BGB</norm>
+   <vorinstanz>vorgehend Brandenburgisches Oberlandesgericht, 14. Dezember 2022, Az: 7 U 128/21, Urteil<br/>vorgehend LG Potsdam, 25. Juni 2021, Az: 6 O 318/18<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Insolvenzanfechtung wegen vorsätzlicher Gläubigerbenachteiligung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Eine Deckungslücke, die mit hinreichender Gewissheit darauf schließen ließe, für den Schuldner habe keine begründete Aussicht bestanden, seine übrigen Gläubiger zukünftig vollständig befriedigen zu können, kann in der Regel nicht allein aus den zur Begründung einer Zahlungseinstellung herangezogenen Verbindlichkeiten des Schuldners abgeleitet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Annahme der Zahlungseinstellung setzt die tatrichterliche Überzeugung voraus, der Schuldner habe aus Mangel an liquiden Mitteln nicht zahlen können; Zahlungsverzögerungen allein, auch wenn sie wiederholt auftreten, reichen für diese Überzeugung häufig nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3a. Die Zurechnung des Wissens zwischen verschiedenen Behörden setzt eine tatsächliche Zusammenarbeit im konkreten Fall voraus; eine nur abstrakt unter bestimmten Voraussetzungen vorgesehene Zusammenarbeit reicht nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3b. Für die Zurechnung von außerhalb der konkreten Zusammenarbeit erworbenen Wissens bedarf es einer Einbindung des Wissensträgers, welche die Weitergabe auch dieses Wissens erwarten lässt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 7. Zivilsenats des Brandenburgischen Oberlandesgerichts vom 14. Dezember 2022 unter Zurückweisung des weitergehenden Rechtsmittels im Kostenpunkt und insoweit aufgehoben, als die Berufung der Beklagten wegen einer Verurteilung zu mehr als 21.284,65 € nebst Zinsen zurückgewiesen worden ist. Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger ist Verwalter in dem auf Eigenantrag vom 9. Januar 2015 am 26. Februar 2016 eröffneten Insolvenzverfahren über das Vermögen der H.   GmbH (nachfolgend: Schuldnerin). Soweit für das Revisionsverfahren noch von Interesse, nimmt der Kläger die beklagte B.       unter dem Gesichtspunkt der Insolvenzanfechtung auf Rückgewähr von 20 Einzelzahlungen in Höhe von insgesamt 235.976,63 € in Anspruch, welche die Schuldnerin auf Luftsicherheitsgebührenforderungen geleistet hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Schuldnerin war mit drei Flugzeugen als Charter-Fluggesellschaft für Reiseveranstalter tätig. Sie führte Flüge von verschiedenen deutschen Flughäfen durch. Vor jedem Flug durchsuchten Beamte der Bundespolizei Fluggäste und deren Gepäck. Dafür erhob die für den jeweiligen Flughafen zuständige Bundespolizeidirektion Gebühren nach dem Luftsicherheitsgesetz. Zahlstelle für sämtliche Gebührenforderungen war die Bundeskasse    . Etwaig erforderliche Vollstreckungsmaßnahmen wurden zentral vom Hauptzollamt    durchgeführt. Wurde eine Gebührenforderung nicht rechtzeitig beglichen, mahnte die jeweilige Bundespolizeidirektion die Zahlung an. Blieb die Mahnung erfolglos, übernahm die Bundeskasse    die weitere Beitreibung. Waren auch die Maßnahmen der Bundeskasse    erfolglos, ordnete wiederum die jeweilige Bundespolizeidirektion die Vollstreckung an und leitete den Vorgang an das Hauptzollamt    weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit den streitgegenständlichen 20 Einzelzahlungen beglich die Schuldnerin in der Zeit vom 25. August bis zum 14. November 2014 Gebührenforderungen von vier verschiedenen Bundespolizeidirektionen. 18 Zahlungen wurden an die Bundeskasse    geleistet, zwei Zahlungen in Höhe von insgesamt 21.284,65 € erfolgten an das Hauptzollamt    , nachdem dieses der Schuldnerin die Vollstreckung angedroht hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat alle Zahlungen für anfechtbar gehalten. Die Berufung der Beklagten hat keinen Erfolg gehabt. Mit ihrer vom Senat zugelassenen Revision möchte die Beklagte weiterhin die vollständige Abweisung der Klage erreichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat teilweise Erfolg. Sie führt zur Aufhebung des angefochtenen Urteils sowie zur Zurückverweisung der Sache an das Berufungsgericht, soweit dieses die Berufung der Beklagten wegen einer Verurteilung zu mehr als 21.284,65 € nebst Zinsen zurückgewiesen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat sämtliche streitgegenständlichen Zahlungen nach § 133 Abs. 1 InsO aF für anfechtbar gehalten. Für die in den letzten drei Monaten vor dem Antrag auf Eröffnung des Insolvenzverfahrens geleisteten 15 Zahlungen ergebe sich der Rückgewähranspruch bereits aus einer Anfechtung nach § 130 Abs. 1 Satz 1 Nr. 1 InsO; für solche im Rahmen einer Zwangsvollstreckung folge die Anfechtbarkeit aus § 131 Abs. 1 Nr. 2 InsO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat angenommen, die Schuldnerin habe ihre Zahlungen bereits ab Mitte August 2014 eingestellt gehabt. Auf dieser Grundlage werde gemäß § 17 Abs. 2 Satz 2 InsO die Zahlungsunfähigkeit der Schuldnerin ab diesem Zeitpunkt vermutet. Die Zahlungseinstellung hat das Berufungsgericht zum einen auf das Zahlungsverhalten der Schuldnerin wegen der Luftsicherheitsgebührenforderungen gestützt und zum anderen auf Verbindlichkeiten gegenüber der E.     für Flugsicherung (nachfolgend: E.     ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die nach § 130 Abs. 1 Satz 1 Nr. 1 InsO erforderliche Kenntnis auf Seiten der Beklagten von der Zahlungsunfähigkeit der Schuldnerin folge aus deren Zahlungsverhalten wegen Luftsicherheitsgebühren, die von der Bundespolizeidirektion H.    erhoben worden seien. Die beklagte B.     müsse sich analog § 166 Abs. 1 BGB die Kenntnis der Mitarbeiter der vier beteiligten Bundespolizeidirektionen, der Bundeskasse    sowie des Hauptzollamts     von der Zahlungsunfähigkeit der Schuldnerin zurechnen lassen. Sofern eine Befriedigung durch Zwangsvollstreckung und vergleichbare Druckzahlungen einzelner zuerkannter Beträge innerhalb der Dreimonatsfrist erfolgt sein sollte, liege eine erfolgreiche inkongruente Deckungsanfechtung gemäß § 131 Abs. 1 Nr. 2 InsO vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Den nach § 133 Abs. 1 InsO aF erforderlichen Gläubigerbenachteiligungsvorsatz der Schuldnerin hat das Berufungsgericht auf die von ihr erkannte Zahlungsunfähigkeit gestützt sowie darauf, dass eine Deckungslücke zwischen dem liquiden Vermögen der Schuldnerin und ihren Verbindlichkeiten in einem Ausmaß bestanden habe, das selbst bei optimistischer Einschätzung der zukünftigen Entwicklung in absehbarer Zeit keine vollständige Befriedigung der bereits vorhandenen und der absehbar hinzutretenden Gläubiger habe erwarten lassen. Die Kenntnis der Beklagten vom Gläubigerbenachteiligungsvorsatz der Schuldnerin ergebe sich aus § 133 Abs. 1 Satz 2 InsO aF. Insbesondere habe die Beklagte die Zahlungsunfähigkeit der Schuldnerin erkannt. Auf die Ausführungen zur Kenntnis im Sinne des § 130 Abs. 1 Satz 1 Nr. 1 InsO werde Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das hält rechtlicher Prüfung in wesentlichen Punkten nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Mit der vom Berufungsgericht gegebenen Begründung sind die streitgegenständlichen 20 Zahlungen nicht gemäß § 133 Abs. 1 InsO in der auf den Streitfall anwendbaren (Art. 103j Abs. 1 EGInsO) bis zum 4. April 2017 geltenden Fassung anfechtbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Das Berufungsgericht ist von kongruenten Deckungshandlungen ausgegangen. Ob einzelne der angefochtenen Zahlungen inkongruent waren, hat es offengelassen. Zu Unrecht bejaht das Berufungsgericht vor diesem Hintergrund den Gläubigerbenachteiligungsvorsatz der Schuldnerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>aa) Der Gläubigerbenachteiligungsvorsatz des Schuldners ist eine innere, dem Beweis nur eingeschränkt zugängliche Tatsache. Er kann daher in aller Regel nur mittelbar aus objektiven (Hilfs-)Tatsachen hergeleitet werden. Es ist Aufgabe des Tatrichters, die ihm unterbreiteten Hilfstatsachen auf der Grundlage des Gesamtergebnisses der mündlichen Verhandlung und einer etwaigen Beweisaufnahme umfassend und widerspruchsfrei zu würdigen. Dabei hat er die Rechtsprechung des Bundesgerichtshofs zu den für und gegen den Gläubigerbenachteiligungsvorsatz sprechenden Beweisanzeichen zu berücksichtigen. Die einzelnen Beweisanzeichen dürfen dabei nicht schematisch angewandt werden (BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 11 f mwN; st. Rspr.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>bb) Zu den Beweisanzeichen, die für den Gläubigerbenachteiligungsvorsatz des Schuldners sprechen, zählen die erkannte drohende (vgl. BGH, Urteil vom 3. März 2022 - IX ZR 78/20, BGHZ 233, 70 Rn. 54), die erkannte bereits eingetretene Zahlungsunfähigkeit (vgl. BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 30 ff) oder die erkannte insolvenzrechtliche Überschuldung (vgl. BGH, Urteil vom 3. März 2022 - IX ZR 53/19, ZInsO 2022, 716 Rn. 14 ff). Die Gewährung einer inkongruenten Deckung ist ein eigenständiges Beweisanzeichen. Dieses ist schon dann zu berücksichtigen, wenn die Wirkungen der Rechtshandlung zu einem Zeitpunkt eintraten, als zumindest aus der Sicht des Empfängers der Leistung Anlass bestand, an der Liquidität des Schuldners zu zweifeln (vgl. BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 32 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Schluss allein von der erkannten Zahlungsunfähigkeit auf den Gläubigerbenachteiligungsvorsatz fügt sich im Falle der Gewährung einer kongruenten Deckung nicht ohne Bruch in die Systematik der Anfechtungstatbestände ein. Entsprechendes gilt für die Systematik des § 133 InsO selbst. Die Annahme der subjektiven Voraussetzungen der Vorsatzanfechtung allein aufgrund erkannter Zahlungsunfähigkeit lässt vor diesem Hintergrund einen entsprechenden Willen des Gesetzgebers zweifelhaft erscheinen. Es kommt hinzu, dass die erkannte Zahlungsunfähigkeit für sich genommen in einer nicht zu vernachlässigenden Zahl der Fälle nicht mit hinreichender Gewissheit (§ 286 ZPO) auf die subjektiven Voraussetzungen der Vorsatzanfechtung schließen lässt. Dies gilt insbesondere dann, wenn der Schuldner aus der maßgeblichen Sicht ex ante trotz eingetretener Zahlungsunfähigkeit berechtigterweise davon ausgehen durfte, noch alle seine Gläubiger befriedigen zu können. Das hat der Senat mit Urteil vom 6. Mai 2021 (IX ZR 72/20, BGHZ 230, 28 Rn. 30 ff) näher begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat deshalb entschieden, dass im Falle der Gewährung einer kongruenten Deckung nicht mehr allein von der erkannten Zahlungsunfähigkeit auf den Gläubigerbenachteiligungsvorsatz geschlossen werden kann. Ist der Schuldner im Zeitpunkt der angefochtenen Rechtshandlung erkanntermaßen zahlungsunfähig, kommt es vielmehr zusätzlich darauf an, ob er wusste oder jedenfalls billigend in Kauf nahm, seine anderen Gläubiger auch zu einem späteren Zeitpunkt nicht vollständig befriedigen zu können (BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 31, 36, 46).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>cc) Die vom Berufungsgericht getroffenen Feststellungen tragen die Annahme der auf Seiten der Schuldnerin erkannten Zahlungsunfähigkeit. Rechtsfehlerfrei ist es von einer auf Seiten der Schuldnerin erkannten Zahlungseinstellung ausgegangen und hat daraus auf die erkannte Zahlungsunfähigkeit geschlossen (vgl. BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 41). Rechtsfehlerhaft ist hingegen die Annahme, die Schuldnerin habe zumindest billigend in Kauf genommen, andere Gläubiger auch zu einem späteren Zeitpunkt nicht vollständig befriedigen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(1) Im Ausgangspunkt mit Recht hat das Berufungsgericht erkannt, dass die im Moment der angefochtenen Rechtshandlung bestehende Deckungslücke zwischen dem liquiden Vermögen des Schuldners und seinen Verbindlichkeiten von Bedeutung sein kann. Hatte die Deckungslücke ein Ausmaß erreicht, das selbst bei optimistischer Einschätzung der zukünftigen Entwicklung in absehbarer Zeit keine vollständige Befriedigung der bereits vorhandenen und der absehbar hinzutretenden Gläubiger erwarten ließ, musste dem Schuldner klar sein, dass er nicht einzelne Gläubiger befriedigen konnte, ohne andere zu benachteiligen. Befriedigt er in dieser Lage einzelne Gläubiger, handelt er deshalb mit Gläubigerbenachteiligungsvorsatz (BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 46; vom 3. März 2022 - IX ZR 78/20, BGHZ 233, 70 Rn. 75).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>(2) Eine Deckungslücke im vorstehenden Sinne ist nicht festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>(a) Das Berufungsgericht hat zur Begründung der angenommenen Deckungslücke auf Verbindlichkeiten sowohl gegenüber der E.     als auch wegen der Luftsicherheitsgebühren verwiesen. Die Verbindlichkeiten seien von beträchtlicher Höhe im sechsstelligen Bereich gewesen und bis Mitte August und Oktober 2014 zudem angewachsen. Die Schuldnerin habe einen sich noch vergrößernden fälligen Forderungsrückstand beträchtlichen Umfangs fortlaufend vor sich hergeschoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>(b) Daraus folgt keine Deckungslücke, die mit hinreichender Gewissheit darauf schließen ließe, für die Schuldnerin habe keine begründete Aussicht bestanden, ihre übrigen Gläubiger zukünftig vollständig befriedigen zu können (vgl. BGH, Urteil vom 3. März 2022 - IX ZR 78/20, BGHZ 233, 70 Rn. 75). Das Berufungsgericht hat keine Deckungslücke zwischen dem liquiden Vermögen der Schuldnerin und ihren Verbindlichkeiten festgestellt, sondern lediglich auf die Verbindlichkeiten verwiesen, anhand derer es die von der Schuldnerin erkannte Zahlungseinstellung begründet hat. Das kann nur im Ausnahmefall ausreichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Dazu müssen die Verbindlichkeiten nach Art, (Gesamt-)Höhe, Anzahl und Bedeutung so beschaffen sein, dass aus der Sicht ex ante für jeden objektiven Betrachter in der Position des Schuldners selbst bei optimistischer Betrachtung unzweifelhaft klar sein muss, diese würden nicht mehr vollständig befriedigt. Das kommt etwa Betracht, wenn es sich um Verbindlichkeiten handelt, welche die erwartbare Schuldendeckungsfähigkeit des Schuldners offensichtlich bei weitem übersteigen. In diesem Sinne sind die Ausführungen des Senats mit Urteil vom 28. April 2022 (IX ZR 48/21, ZInsO 2022, 1498 Rn. 41) zu verstehen. Für die Annahme derartiger Verbindlichkeiten kann es daher sprechen, dass diese bis zur Eröffnung des Insolvenzverfahrens nicht mehr beglichen worden sind. Für sich genommen ausreichend ist dies jedoch nicht. Es muss sich vielmehr um Verbindlichkeiten handeln, welche aus der Sicht ex ante für sich genommen und ohne nähere Betrachtung des liquiden Vermögens sowie der künftigen Geschäftsentwicklung einen wirtschaftlichen Zusammenbruch des Schuldners zur Folge haben und diesen in ein Insolvenzverfahren führen mussten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Derartige Verbindlichkeiten sind vorliegend nicht festgestellt. Die vom Berufungsgericht herangezogenen Verbindlichkeiten gegenüber der E.     und wegen der Luftsicherheitsgebühren resultierten aus dem regulären Geschäftsbetrieb. Diesen hatte die Schuldnerin zuvor über Jahre aufrechterhalten, was (auch) die Begleichung der laufenden Verbindlichkeiten voraussetzte. Zwar beglich die Schuldnerin die Verbindlichkeiten auch in vorangegangenen Jahren nur verzögert. Dass ihr dies nun in der dafür zur Verfügung stehenden Zeit nicht mehr gelingen würde, ließ sich allein aus den festgestellten Verbindlichkeiten nicht schließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>(c) Fehlt es an Verbindlichkeiten, aus denen für sich genommen die notwendigen Schlüsse gezogen werden können, bedarf es näherer Feststellungen zur Höhe der Deckungslücke. Dazu ist, entsprechend den Grundsätzen zur Feststellung der Zahlungsunfähigkeit anhand einer Liquiditätsbilanz, den Verbindlichkeiten das liquide Vermögen des Schuldners gegenüberzustellen. Außerdem ist die bei optimistischer Betrachtung erwartbare Entwicklung der Vermögenslage in den Blick zu nehmen. Dabei ist zu berücksichtigen, dass insbesondere Gläubiger hoher Forderungen nicht selten zu Zugeständnissen (Stundungen, Ratenzahlungsvereinbarungen, Teilerlasse) bereit sind, um jedenfalls eine teilweise Realisierung ihrer Forderungen außerhalb des Insolvenzverfahrens zu erreichen. Die Darlegungs- und Beweislast für die Deckungslücke und den Umstand, dass die erwartbare Entwicklung der Vermögenslage keine vollständige Befriedigung erwarten ließ, trägt der Insolvenzverwalter (vgl. BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 48).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(3) Sofern die Deckungslücke für sich genommen nach diesen Maßstäben nicht ausreichen sollte, um die Überzeugung von einem Gläubigerbenachteiligungsvorsatz der Schuldnerin zu begründen, wird der Kläger weitere Indizien vortragen und erforderlichenfalls beweisen müssen (vgl. BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 47 f).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Rechtsfehlerhaft hat das Berufungsgericht die Kenntnis der Beklagten vom Gläubigerbenachteiligungsvorsatz der Schuldnerin auf den Vermutungstatbestand des § 133 Abs. 1 Satz 2 InsO (vgl. dazu BGH, Urteil vom 26. Oktober 2023 - IX ZR 112/22, WM 2024, 80 Rn. 11 f, zVb in BGHZ) gestützt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Gemäß § 133 Abs. 1 Satz 2 InsO wird vermutet, dass der Gläubiger den Benachteiligungsvorsatz des Schuldners kannte, wenn er wusste, dass die Zahlungsunfähigkeit des Schuldners drohte und dass die Rechtshandlung die Gläubiger benachteiligte. Die erste Voraussetzung dieses Vermutungstatbestands ist erfüllt, wenn der Gläubiger in den nach § 140 InsO maßgeblichen Zeitpunkten Umstände kannte, die mit der von § 286 ZPO vorausgesetzten Gewissheit auf die (drohende) Zahlungsunfähigkeit oder die Zahlungseinstellung des Schuldners schließen ließen. Das Wissen um die Benachteiligung der (übrigen) Gläubiger, die zweite Voraussetzung des Vermutungstatbestands, wird durch die Kenntnis von drohender oder bereits eingetretener Zahlungsunfähigkeit indiziert, wenn der Anfechtungsgegner weiß, dass es noch andere Gläubiger gibt, deren Forderungen vom Schuldner nicht vollständig bedient werden. Mit letzterem muss ein Gläubiger rechnen, wenn der Schuldner unternehmerisch tätig ist (BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 50 f mwN). Die Voraussetzungen des Vermutungstatbestands sind von der Neuausrichtung der Rechtsprechung des Senats nicht betroffen (BGH, Beschluss vom 12. Januar 2023 - IX ZR 71/22, ZInsO 2023, 785 Rn. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Die Annahme des Berufungsgerichts, auf Seiten der Beklagten seien ab Mitte August 2014 Umstände bekannt gewesen, die mit der nach § 286 ZPO vorausgesetzten Gewissheit auf die Zahlungseinstellung der Schuldnerin schließen ließen, trägt nicht. Das Berufungsgericht ist von einem unrichtigen Maßstab ausgegangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(1) Mit Urteil vom 6. Mai 2021 (IX ZR 72/20, BGHZ 230, 28 Rn. 41 f) hat der Senat den Maßstab konkretisiert, den der Tatrichter bei der Feststellung der Zahlungseinstellung anzuwenden hat. Entscheidend ist danach die am Beweismaß des § 286 ZPO zu messende, in umfassender und widerspruchsfreier Würdigung des Prozessstoffs zu gewinnende Überzeugung, der Schuldner könne aus Mangel an liquiden Zahlungsmitteln nicht zahlen. Eine besonders aussagekräftige Grundlage für diese Überzeugung ist die eigene Erklärung des Schuldners. Erklärt der Schuldner, eine fällige und nicht unbeträchtliche Verbindlichkeit binnen drei Wochen nicht - und zwar auch nicht nur ratenweise - begleichen zu können, wird in aller Regel von einer Zahlungseinstellung des Schuldners im Zeitpunkt der Abgabe der Erklärung auszugehen sein. Dies gilt erst recht, wenn der Schuldner darüber hinaus ausdrücklich erklärt, zahlungsunfähig zu sein. Fehlt es an einer (ausdrücklichen) Erklärung des Schuldners, müssen die für eine Zahlungseinstellung sprechenden Umstände ein der Erklärung entsprechendes Gewicht erreichen. Zahlungsverzögerungen allein, auch wenn sie wiederholt auftreten, reichen dafür häufig nicht. Es müssen dann Umstände hinzutreten, die mit hinreichender Gewissheit dafürsprechen, dass die Zahlungsverzögerung auf der fehlenden Liquidität des Schuldners beruht (BGH, Urteil vom 6. Mai 2021, aaO Rn. 41).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Die zusätzlich erforderlichen Umstände können darin zu sehen sein, dass der Schuldner Forderungen solcher Gläubiger nicht begleicht, auf deren (weitere) Leistungserbringung er zur Aufrechterhaltung seines Geschäftsbetriebs angewiesen ist. Ferner kann der Mahn- und/oder Vollstreckungsdruck des Gläubigers der Zahlungsverzögerung ein größeres Gewicht verleihen. Ein schematisches Vorgehen verbietet sich auch hier. Maßgebend ist, dass die zusätzlichen Umstände im konkreten Einzelfall ein Gewicht erreichen, das der Erklärung des Schuldners entspricht, aus Mangel an liquiden Mitteln nicht zahlen zu können (BGH, Urteil vom 6. Mai 2021 - IX ZR 72/20, BGHZ 230, 28 Rn. 42).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(2) Diesen Maßstab hat das Berufungsgericht nur im Blick auf die seitens der Schuldnerin erkannte, von ihm zur Begründung des Gläubigerbenachteiligungsvorsatzes herangezogene Zahlungseinstellung angewandt. Nur insoweit hat es sich davon überzeugt, die Schuldnerin habe aus Mangel an liquiden Mitteln nicht zahlen können. Das Berufungsgericht konnte sich hierzu auf Erklärungen der Schuldnerin - gegenüber der E.    - stützen, aus Mangel an liquiden Mitteln nicht zahlen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Wegen der Luftsicherheitsgebührenforderungen gab es nach den Feststellungen des Berufungsgerichts keine derartigen Erklärungen. Das Berufungsgericht hätte sich deshalb davon überzeugen müssen, dass entweder die festgestellten Zahlungsverzögerungen für sich genommen ein Gewicht erreichten, das der Erklärung entsprach, aus Mangel an liquiden Mitteln nicht zahlen zu können, oder sich dies jedenfalls in Zusammenschau mit zusätzlichen Umständen ergab. Das wird nachzuholen sein. Dabei wird zu berücksichtigen sein, dass die Anordnung der Vollstreckung durch die jeweilige Bundespolizeidirektion für sich genommen ein interner Vorgang ist und es deshalb Feststellungen dazu bedarf, was auf Seiten der Schuldnerin über die Anordnung bekannt geworden ist. Die Beklagte hat zudem darauf hingewiesen, die Bundespolizei sei gesetzlich zur Durchführung der die Luftsicherheitsgebühren auslösenden Maßnahmen verpflichtet gewesen und habe sich nicht auf ein Zurückbehaltungsrecht berufen dürfen. Das stünde der Annahme entgegen, die Bezahlung der Luftsicherheitsgebühren sei zur Aufrechterhaltung des Geschäftsbetriebs der Schuldnerin erforderlich gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>cc) Das Berufungsgericht hat Umfang und Grenzen der Wissenszurechnung zwischen Behörden verkannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(1) Eine Wissenszurechnung zwischen Behörden folgt nicht schon daraus, dass sie demselben Rechtsträger angehören. Im Grundsatz kommt es vielmehr auf das Wissen des jeweils zuständigen Bediensteten der zuständigen Behörde an (BGH, Urteil vom 30. Juni 2011 - IX ZR 155/08, BGHZ 190, 201 Rn. 16 mwN). Neben dem zuständigen Sachbearbeiter ist auch der Behördenleiter ein für die Wissenszurechnung geeigneter Kenntnisträger. Ob der Behördenleiter an der angefochtenen Rechtshandlung beteiligt war oder nicht, ist ohne Bedeutung (vgl. BGH, Urteil vom 8. Februar 2024 - IX ZR 107/22, zVb Rn. 28 mwN). Im rechtsgeschäftlichen Verkehr darf sich eine organisationsbedingte "Wissensaufspaltung" nicht zu Lasten des Geschäftspartners auswirken; dies gilt aber zunächst nur für die nach außen auftretende Organisationseinheit, also das Amt oder die Behörde. Eine Wissenszurechnung zwischen verschiedenen Behörden ist danach von weiteren Voraussetzungen abhängig (BGH, Urteil vom 30. Juni 2011, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Eine Wissenszurechnung zwischen verschiedenen Behörden kommt in Betracht, wenn diese eine behördenübergreifende Handlungs- und Informationseinheit gebildet haben. Das hat der Bundesgerichtshof angenommen für den Fall der Nachforschung einer Behörde bei weiteren Behörden nach Möglichkeiten, eine gegen den Fiskus gerichtete (Werklohn-)Forderung durch Aufrechnung zum Erlöschen zu bringen (vgl. BGH, Urteil vom 30. Juni 2011 - IX ZR 155/08, BGHZ 190, 201 Rn. 24). Für die Beitreibung von Forderungen des Fiskus durch mehrere Behörden gemeinsam kann nichts anderes gelten. Nicht ausreichend ist jedoch die abstrakt vorgesehene Zusammenarbeit. Die Wissenszurechnung setzt die tatsächliche Zusammenarbeit im konkreten Fall voraus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Kommt es zur Zusammenarbeit, kann auch Wissen zuzurechnen sein, das nicht im konkreten Fall erworben worden ist. Der Bundesgerichtshof hat entschieden, dass die Beauftragung einer Vollstreckungsbehörde mit der Beitreibung einer Forderung zur Zurechnung des Wissens der Vollstreckungsbehörde über weitere, von anderen Gläubigern betriebene Vollstreckungsverfahren führt (vgl. BGH, Beschluss vom 14. Februar 2013 - IX ZR 115/12, NZI 2013, 398 Rn. 5; vom 7. Mai 2015 - IX ZR 95/14, NZI 2015, 717 Rn. 23). Das entspricht der Zurechnung des Wissens eines beauftragten Rechtsanwalts, die allerdings durch dessen Verschwiegenheitspflicht begrenzt wird (vgl. BGH, Urteil vom 8. Januar 2015 - IX ZR 198/13, NZI 2015, 222 Rn. 13 mwN). Für die Zurechnung von Wissen, das nicht im Rahmen der konkreten Zusammenarbeit erworben worden ist, reicht indes nicht jede untergeordnete Hilfstätigkeit. Darin läge eine Überschreitung der Zuständigkeitsgrenzen zwischen den Behörden. Für die Zurechnung von außerhalb der konkreten Zusammenarbeit erworbenen Wissens bedarf es einer Einbindung des Wissensträgers, welche die Weitergabe auch dieses Wissens erwarten lässt. Das ist der Fall, wenn es sich um Wissen handelt, dass für die konkrete Tätigkeit von Bedeutung ist. So hängen die Erfolgsaussichten eines Vollstreckungsverfahrens auch davon ab, ob es weitere Vollstreckungsverfahren gibt oder gab und wie diese ausgegangen sind. Für die Tätigkeit als Zahlstelle, die sich in der Entgegennahme und Verbuchung von Zahlungen erschöpft, ist es hingegen ohne Bedeutung, wie sich das Zahlungsverhalten des Schuldners gegenüber anderen Gläubigern ausnimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(2) Nach diesen Grundsätzen kann nicht von einer Zusammenrechnung allen Wissens der Bundeskasse   , der vier beteiligten Bundespolizeidirektionen und des Hauptzollamts    ausgegangen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die streitgegenständlichen 20 Zahlungen bezogen sich nach den vom Landgericht getroffenen und vom Berufungsgericht in Bezug genommenen Feststellungen auf Luftsicherheitsgebühren, die von vier rechtlich selbständigen Bundespolizeidirektionen erhoben worden waren. Für die zur Ausfüllung eines Anfechtungstatbestands erforderlichen Kenntnisse kam es deshalb im Ausgangspunkt auf das Wissen der jeweiligen Bundespolizeidirektion an. Der Umstand, dass Zahlungen auf die Gebührenforderungen an die Bundeskasse    zu leisten waren und von dieser verbucht wurden, führte nicht zu einer Zurechnung des Wissens der Bundeskasse über das Zahlungsverhalten der Schuldnerin gegenüber den anderen Bundespolizeidirektionen. Es handelte sich um eine untergeordnete Hilfstätigkeit, für deren ordnungsgemäße Erfüllung das sonstige Zahlungsverhalten der Schuldnerin ohne Bedeutung war. Ob mit Übergang der Zuständigkeit für die weitere Beitreibung der Forderungen nach erfolgloser Mahnung durch die jeweilige Bundespolizeidirektion die für die Wissenszurechnung erforderliche Einbindung der Bundeskasse erfolgt ist, hat das Berufungsgericht nicht ausreichend festgestellt. Auch zu Vollstreckungsaufträgen an das Hauptzollamt     , die sich auf die den angefochtenen Zahlungen zugrundeliegenden Forderungen bezogen, fehlt es an Feststellungen. Gleiches gilt für das Wissen des Hauptzollamts. Die Bundeskasse kannte aufgrund ihrer Tätigkeit als Zahlstelle jedenfalls die (bloßen) Zahlungsverzögerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>2. Nach den bisher getroffenen Feststellungen kann auch nicht angenommen werden, dass die in den letzten drei Monaten vor dem Antrag auf Eröffnung des Insolvenzverfahrens geleisteten 15 Zahlungen nach § 130 Abs. 1 Satz 1 Nr. 1 InsO anfechtbar sind. Das Berufungsgericht hat die erforderliche Kenntnis auf Seiten der Beklagten von der Zahlungsunfähigkeit rechtsfehlerhaft bejaht. Auf die Ausführungen oben unter 1. b) bb) und cc) (Rn. 28 ff) wird Bezug genommen. Sie gelten entsprechend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>3. Anfechtbar gemäß § 131 Abs. 1 Nr. 2 InsO sind die am 13. November 2014 an das Hauptzollamt    geleisteten Zahlungen über 15.102,61 € (18. Zahlung) und 6.182,04 € (19. Zahlung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>a) Die Schuldnerin war zu diesem Zeitpunkt objektiv zahlungsunfähig. Sie hatte ihre Zahlungen im Sinne des § 17 Abs. 2 Satz 2 InsO eingestellt. Das folgt auch aus dem Umstand, dass im fraglichen Zeitpunkt fällige Verbindlichkeiten gegenüber der E.     in Höhe von 307.769,66 € bestanden, die bis zur Verfahrenseröffnung nicht mehr beglichen worden sind (vgl. BGH, Urteil vom 28. April 2022 - IX ZR 48/21, ZInsO 2022, 1498 Rn. 41 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>b) Die beiden Zahlungen haben der Beklagten inkongruente Deckungen verschafft. Das Berufungsgericht hat zwar offengelassen, ob es eine Befriedigung durch Zwangsvollstreckung oder vergleichbare Druckzahlungen gab. Nach den vom Berufungsgericht in Bezug genommenen Feststellungen des Landgerichts erfolgten allerdings beide Zahlungen an das Hauptzollamt    , nachdem dieses die Vollstreckung angedroht hatte und dementsprechend zur Abwendung der ansonsten unmittelbar drohenden Vollstreckungshandlungen des Hauptzollamts (vgl. BGH, Urteil vom 10. Dezember 2020 - IX ZR 80/20, ZInsO 2021, 400 Rn. 23 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die Revision ist daher zurückzuweisen, soweit das Berufungsgericht die Anfechtung der Zahlungen über 15.102,61 € (18. Zahlung) und 6.182,04 € (19. Zahlung) hat durchgreifen lassen. Im Übrigen ist das angefochtene Urteil aufzuheben und die Sache an das Berufungsgericht zurückzuverweisen (§ 562 Abs. 1, § 563 Abs. 1 ZPO). Eine eigene Sachentscheidung kann der Senat nicht treffen, weil die Sache nicht zur Endentscheidung reif ist (§ 563 Abs. 3 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schoppmeyer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schultz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Selbmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Harms     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Weinland     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310562024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

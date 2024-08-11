@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE632402022</doknr>
+   <ecli>ECLI:DE:BGH:2021:161221BIZR186.20.1</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20211216</entsch-datum>
+   <aktenzeichen>I ZR 186/20</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 2 Nr 1 Buchst b GeschGehG, § 6 GeschGehG, § 3 UWG, § 4 Nr 3 Buchst c UWG, § 8 Abs 1 UWG, § 138 Abs 2 ZPO, § 138 Abs 3 ZPO, § 286 ZPO</norm>
+   <vorinstanz>vorgehend OLG Hamm, 15. September 2020, Az: I-4 U 177/19, Urteil<br/>vorgehend LG Münster, 30. Oktober 2019, Az: 21 O 76/17, Urteil<br/>nachgehend BGH, 11. Mai 2022, Az: I ZR 186/20, Revision zurückgewiesen</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Darlegungs- und Beweislast im wettbewerbsrechtlichen Unterlassungsprozess: Umgehung von Geheimhaltungsmaßnahmen beim Nachahmungsschutz</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Senat beabsichtigt, die zugelassene Revision der Klägerin gegen das Urteil des 4. Zivilsenats des Oberlandesgerichts Hamm vom 15. September 2020 gemäß § 552a Satz 1 ZPO durch einstimmigen Beschluss zurückzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Parteien erhalten Gelegenheit zur Stellungnahme binnen drei Wochen nach Zustellung dieses Beschlusses.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>I. Die Klägerin, ein 1953 gegründetes Unternehmen mit Sitz in Österreich, produziert Maschinen und Fahrzeuge für den Neubau, den Umbau, die Messarbeiten und die Instandhaltung von Gleisen und Oberleitungen. Sie ist die führende internationale Anbieterin von Stopfaggregaten, die in Stopfmaschinen Verwendung finden, die dem Verdichten und Nivellieren von Schotterbetten im Gleisbau dienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Zum Sortiment der Klägerin gehört die Gleisbaumaschine "Unimat 08-475" mit dem darin enthaltenen Universalstopfaggregat "VPRS-03" (im Folgenden: Stopfaggregat der Klägerin). Dieses wird isoliert als Ersatzteil in Deutschland von einem Tochterunternehmen der Klägerin vertrieben. Die Klägerin verwendet bei ihrem Stopfaggregat das herkömmliche Exzenterwellen-Verfahren, um dessen Pickelarme in Vibration zu versetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte wurde 2012 in Österreich gegründet und bietet ebenfalls Maschinen, Produkte und Dienstleistungen auf dem Gebiet der Gleisinstandhaltung an. Geschäftsführer und Mitgesellschafter der Beklagten sind seit dem 17. Mai 2013 zwei ehemalige leitende Angestellte der Klägerin, Dr. L.         und H.    , deren Arbeitsverhältnisse bei der Klägerin einvernehmlich jeweils zum 31. Dezember 2012 aufgelöst wurden. Dr. L.       erstellte bereits am 10. Juli 2011 einen Businessplan zur Gründung eines Konkurrenzunternehmens der Klägerin, wobei zwischen den Parteien streitig ist, ob dieser Plan der Gründung der Beklagten zugrunde lag. Ein weiterer Gesellschafter der Beklagten, Dr. H.    , war zuvor Gesellschafter der Klägerin und schied bei ihr im Jahr 2013 gegen Zahlung eines dreistelligen Millionenbetrags aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte vertreibt ein von ihr als "Flüsteraggregat" bezeichnetes Universalstopfaggregat (im Folgenden: Flüsteraggregat), das sie im Jahr 2013 in Zusammenarbeit mit der J.     T.  GmbH (im Folgenden: J.    T.  ) entwickelt und Mitte 2014 fertiggestellt hat. J.    T.  produziert und vertreibt Bauteile für Maschinen der Klägerin und führt für Kunden der Klägerin auf deren Wunsch Revisionen an den Maschinen durch. Ein Prokurist, Betriebs- und Abteilungsleiter der J.    T.  , Herr K.   , war im Besitz der originalen Konstruktionszeichnungen für Pickelhalter, Schwenklager und Pickelarme für das Stopfaggregat der Klägerin. Die Klägerin erwirkte im Oktober bzw. Dezember 2019 prätorische Vergleiche mit Unterlassungsverpflichtungen der J.    T.   und des Herrn K.  .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Flüsteraggregat ist mit einem vollhydraulischen Stopfantrieb ausgestattet, für den der Beklagten in Österreich ein Patent erteilt worden ist. Anders als beim Antrieb durch eine Exzenterwelle wird die Vibration der Stopfpickel allein durch Hydraulikzylinder mit jeweils eigenem Hydraulikantrieb erzeugt. Im Unterschied zum Produkt der Klägerin sind Pickelhalter und Schwenklager symmetrisch ausgestaltet, ferner können die Stopfpickel auf bis zu 90 Grad (bei dem Produkt der Klägerin auf bis zu 70 Grad) ausgeschwenkt werden. Das Flüsteraggregat kann - wenn auch mit gewissem technischen Aufwand - auch in eine Gleisbaumaschine der Klägerin eingebaut werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin erwirkte in einem beim Landgericht Linz erhobenen Privatanklageverfahren eine Durchsuchung der Geschäftsräume der Beklagten sowie der Privaträume der beiden Geschäftsführer der Beklagten sowie der Lebensgefährtin eines der Geschäftsführer. Bei der Durchsuchung am 3. Oktober 2016 wurden in den Privaträumen dieses Geschäftsführers und seiner Lebensgefährtin zahlreiche Dateien und Kopien von Unterlagen und Zeichnungen der Klägerin sichergestellt, wobei zwischen den Parteien streitig ist, ob diese sich rechtmäßig im Besitz des Geschäftsführers der Beklagten befunden haben. Konstruktionszeichnungen für Pickelarm, Schwenklager und Pickelhalter für das Stopfaggregat der Klägerin wurden nicht sichergestellt. Auf dem Computer eines Mitarbeiters der Beklagten wurden jedoch händisch erstellte Zeichnungen von Pickelarm, Schwenklager und Pickelhalter des klägerischen Stopfaggregats aufgefunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat behauptet, das Flüsteraggregat basiere auf ihren Konstruktionszeichnungen, die die Geschäftsführer und Gesellschafter der Beklagten und der Gesellschafter Dr. H.    während ihrer Tätigkeit für die Klägerin ab dem 2. Halbjahr des Jahres 2012 rechtswidrig vervielfältigt und mitgenommen hätten. Es seien nicht nur die Maße, sondern auch zusätzliche Arbeitsanweisungen und Messtoleranzen übernommen worden, die auf jahrelangen Erfahrungswerten beruhten und nicht durch eine Vermessung der Teile oder andere Maßnahmen - wie z.B. das Reverse Engineering - ermittelt werden könnten. Auch optisch sei das Flüsteraggregat dem Aggregat der Klägerin nachgebildet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat die Beklagte auf Unterlassung des Anbietens, Bewerbens oder Vertreibens des Flüsteraggregats in Anspruch genommen; mit drei Hilfsanträgen zu diesem Unterlassungsantrag hat sie von der Beklagten die Unterlassung der Verwendung von Konstruktions- und Fertigungszeichnungen der Klägerin begehrt, die diverse Bauteile betreffen (Klageantrag zu 1). Außerdem hat sie die Androhung von Ordnungsmitteln, Feststellung der Schadensersatzpflicht, Auskunft und Rechnungslegung (Klageantrag zu 2 bis 5) begehrt. Widerklagend hat die Beklagte die Klägerin auf Schadensersatz wegen Vollziehung einer vom Landgericht Münster erlassenen einstweiligen Verfügung, mit der der Beklagten untersagt wurde, das von ihr vertriebene Flüsteraggregat zu bewerben oder zu vertreiben, in Anspruch genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat Klage und Widerklage abgewiesen (LG Münster, Urteil vom 30. Oktober 2019 - 21 O 76/17, juris). Das Berufungsgericht hat die Berufungen der Klägerin und der Beklagten zurückgewiesen (OLG Hamm, WRP 2021, 223). Es hat die Revision für die Klägerin zugelassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>II. Das Berufungsgericht hat angenommen, der mit dem Klageantrag zu 1 geltend gemachte Unterlassungsanspruch sowie die Hilfsansprüche stünden der Klägerin nicht zu. Daher könnten auch die geltend gemachten Annexansprüche keinen Erfolg haben. Zur Begründung hat es ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Voraussetzungen für einen Anspruch nach § 8 Abs. 1, § 3 Abs. 1, § 4 Nr. 3 Buchst. c UWG lägen nicht vor. Dem Stopfaggregat der Klägerin komme zwar eine mindestens durchschnittliche wettbewerbliche Eigenart zu. Das Flüsteraggregat stelle aber keine Nachahmung des Aggregats der Klägerin dar. Die abweichende Antriebsart stelle eine grundlegende Änderung dar und präge das Flüsteraggregat, welches damit nicht nur unerheblich vom Aggregat der Klägerin abweiche. Selbst wenn man unterstelle, dass das Flüsteraggregat eine Nachahmung des Stopfaggregats der Klägerin darstelle, sei jedenfalls nicht feststellbar, dass die Beklagte die für die Nachahmung erforderlichen Kenntnisse und Unterlagen unredlich erlangt habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Es komme auch kein Anspruch nach § 6 GeschGehG gegen die Beklagte in Betracht. Es könne offenbleiben, ob es sich bei den Konstruktionszeichnungen überhaupt um Geschäftsgeheimnisse handele. Jedenfalls seien den Umständen nach angemessene Geheimhaltungsmaßnahmen im Sinne von § 2 Nr. 1b GeschGehG nicht feststellbar. Zudem müssten sich die Maßnahmen nach § 6 GeschGehG gegen den Rechtsverletzer richten. Wie sich bereits aus den Ausführungen zu dem Anspruch nach § 8 Abs. 1, § 3, § 4 Nr. 3 Buchst. c UWG ergebe, sei aber nicht feststellbar, dass die Beklagte eine derartige Rechtsverletzung begangen habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>III. Der Senat beabsichtigt, die unbeschränkt zugelassene Revision der Klägerin (dazu III 1) durch einstimmigen Beschluss gemäß § 552a Satz 1 ZPO zurückzuweisen, weil die Voraussetzungen für die Zulassung der Revision nicht vorliegen (dazu III 2) und die Revision keine Aussicht auf Erfolg hat (dazu III 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Die vom Berufungsgericht vorgenommene Beschränkung der Zulassung der Revision für die Klägerin ist nicht wirksam. Damit ist ihre Revision als insgesamt zugelassen anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Zwar kann sich eine Beschränkung der Revisionszulassung, die nicht schon in der Entscheidungsformel des Berufungsurteils enthalten ist, auch aus den Entscheidungsgründen ergeben. Es entspricht der ständigen Rechtsprechung des Bundesgerichtshofs, dass die Entscheidungsformel im Lichte der Urteilsgründe auszulegen und deshalb von einer beschränkten Revisionszulassung auszugehen ist, wenn sich dies aus den Gründen des Urteils klar ergibt (BGH, Urteil vom 24. Oktober 2017 - II ZR 16/16, NJW-RR 2018, 39 Rn. 9; Urteil vom 11. Dezember 2019 - VIII ZR 361/18, BGHZ 224, 195 Rn. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die Zulassung der Revision kann auf einen tatsächlich und rechtlich selbständigen und damit abtrennbaren Teil des Gesamtstreitstoffs beschränkt werden, auf den auch die Partei ihre Revision beschränken könnte. Eine solche beschränkte Zulassung ist jedoch nur dann zulässig, wenn der von der Zulassungsbeschränkung betroffene Teil des Streits in tatsächlicher und rechtlicher Hinsicht unabhängig von dem übrigen Prozessstoff beurteilt werden und - auch nach einer Zurückverweisung - kein Widerspruch zwischen dem noch zur Entscheidung stehenden und dem unanfechtbaren Teil des Streitstoffs auftreten kann. Es muss sich dabei nicht um einen eigenen Streitgegenstand handeln, der betroffene Teil des Streitstoffs auf der Ebene der Berufungsinstanz muss zudem nicht teilurteilsfähig sein; zulässig ist auch eine Beschränkung der Revisionszulassung auf einen abtrennbaren Teil eines prozessualen Anspruchs (st. Rspr.; vgl. nur BGH, Urteil vom 31. Oktober 2018 - I ZR 73/17, GRUR 2019, 82 Rn. 14 = WRP 2019, 68 - Jogginghosen, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>b) Nach diesen Maßstäben ist die vom Berufungsgericht ausgesprochene Beschränkung der Zulassung der Revision für die Klägerin unwirksam.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht hat die Revision im Tenor seiner Entscheidung für die Klägerin unbeschränkt zugelassen. In den Entscheidungsgründen hat es dazu ausgeführt, die Revision sei für die Klägerin zuzulassen, soweit es den von ihr geltend gemachten Unterlassungsanspruch (Klageantrag zu 1 und diesbezüglicher 2. Hilfsantrag) betreffe. Bei der insoweit streitentscheidenden Frage, ob im Rahmen einer Nachahmung im Sinne des § 4 Nr. 3 Buchst. c UWG (§ 4 Nr. 9 Buchst. c UWG aF) auch auf die für die angesprochenen Verkehrskreise bedeutsame (technische) Funktionsweise des angeblich nachgeahmten Gegenstands abgestellt werden könne, handele es sich um eine Frage von grundsätzlicher Bedeutung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>bb) Damit hat das Berufungsgericht die Zulassung der Revision für die Klägerin nicht wirksam beschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>(1) Das Berufungsgericht konnte die Zulassung der Revision für die Klägerin nicht auf den Klageantrag 1 und den dazu gestellten zweiten Hilfsantrag beschränken und die Klageanträge 2 bis 5 von der Revisionszulassung ausnehmen. Die von der Zulassungsbeschränkung betroffenen Klageanträge 2 bis 5 betreffen Annexansprüche, die in tatsächlicher und rechtlicher Hinsicht von der rechtlichen Beurteilung des Unterlassungsklageantrags 1 (und den dazu gestellten Hilfsanträgen) abhängig sind. Der Anspruch auf Feststellung der Schadensersatzpflicht der Beklagten gemäß § 9 UWG und die der Bezifferung dieses Schadensersatzanspruchs dienenden Klageanträge auf Auskunftserteilung und Rechnungslegung setzen eine nach § 3 Abs. 1, § 4 Nr. 3 Buchst. c UWG unzulässige geschäftliche Handlung voraus, ebenso wie der Klageantrag 1 und die hierzu gestellten Hilfsanträge. Durch die Beschränkung der Zulassung der Revision für die Klägerin auf die Unterlassungsverpflichtung der Beklagten drohen einander widersprechende Entscheidungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>(2) Das Berufungsgericht konnte darüber hinaus Ansprüche nach den Vorschriften des Gesetzes zum Schutz von Geschäftsgeheimnissen nicht wirksam von der Zulassung der Revision für die Klägerin ausnehmen. Zwar ist eine Auslegung der Entscheidungsgründe des Berufungsurteils möglich, dass das Berufungsgericht die Zulassung der Revision auf Ansprüche aus wettbewerbsrechtlichem Leistungsschutz beschränken wollte, indem es zur Begründung der Revisionszulassung eine als grundsätzlich angesehene Rechtsfrage zur Auslegung von § 4 Nr. 3 Buchst. c UWG formuliert hat, die für den Unterlassungsanspruch gemäß § 6 in Verbindung mit § 4 GeschGehG ohne Bedeutung ist. Eine solche Beschränkung der Zulassung ist jedoch unwirksam.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Ein auf Wiederholungsgefahr gestützter Unterlassungsanspruch besteht nur, wenn das beanstandete Verhalten sowohl zum Zeitpunkt seiner Vornahme rechtswidrig war als auch zum Zeitpunkt der Entscheidung in der Revisionsinstanz rechtswidrig ist (st. Rspr.; vgl. nur BGH, Urteil vom 11. Februar 2021 - I ZR 227/19, GRUR 2021, 758 Rn. 29 = WRP 2021, 610 - Rechtsberatung durch Architektin, mwN). Es ist im Streitfall nicht möglich, das von der Klägerin beanstandete Verhalten der Beklagten ausschließlich nach der Vorschrift des § 4 Nr. 3 Buchst. c UWG zu beurteilen. Zum Zeitpunkt der Entscheidung in der Revisionsinstanz wäre zu prüfen, ob die Wertungen der Richtlinie (EU) 2016/943 über den Schutz vertraulichen Know-hows und vertraulicher Geschäftsinformationen (Geschäftsgeheimnisse) vor rechtswidrigem Erwerb sowie rechtswidriger Nutzung und Offenlegung und des zu ihrer Umsetzung erlassenen, am 26. April 2019 in Kraft getretenen Gesetzes zum Schutz von Geschäftsgeheimnissen bei der Auslegung von § 4 Nr. 3 Buchst. c UWG zu berücksichtigen sind (vgl. hierzu Köhler in Köhler/Bornkamm/Feddersen, UWG, 39. Aufl., § 4 Rn. 3.62 bis 3.64). Es begründet die Gefahr einander widersprechender Entscheidungen, wenn die Revision auf Ansprüche auf wettbewerbsrechtlicher Grundlage beschränkt wird, deren Inhalt sich unter Berücksichtigung von Ansprüchen auf anderer gesetzlicher Grundlage bestimmt, die von der Revisionszulassung nicht erfasst sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>c) Eine unwirksame Beschränkung der Zulassung der Revision führt dazu, dass die Zulassung der Revision wirksam, die Beschränkung jedoch unwirksam ist mit der Folge, dass die Revision unbeschränkt zugelassen ist (BGH, Urteil vom 20. Mai 2003 - XI ZR 248/02, NJW 2003, 2529 [juris Rn. 8] mwN; Urteil vom 19. April 2013 - V ZR 113/12, NJW 2013, 1948 Rn. 12). Die Revision der Klägerin ist daher in vollem Umfang zulässig und ihre Nichtzulassungsbeschwerde damit gegenstandslos.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Die Voraussetzungen für die Zulassung der Revision liegen jedoch nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Die Revision ist zuzulassen, wenn die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des Revisionsgerichts erfordert (§ 543 Abs. 2 Satz 1 ZPO). Eine Rechtssache hat grundsätzliche Bedeutung, wenn sie eine entscheidungserhebliche, klärungsbedürftige und klärungsfähige Rechtsfrage aufwirft, die sich in einer unbestimmten Vielzahl von Fällen stellen kann und deswegen das abstrakte Interesse der Allgemeinheit an der einheitlichen Entwicklung und Handhabung des Rechts berührt (BVerfG, Beschluss vom 28. Juni 2012 - 1 BvR 2952/08, WM 2013, 15, 16; BGH, Beschluss vom 21. März 2018 - I ZR 127/17, ZUM 2019, 186 Rn. 6 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Die vom Berufungsgericht als Frage von grundsätzlicher Bedeutung angesehene Rechtsfrage, ob im Rahmen der Prüfung einer Nachahmung im Sinne des § 4 Nr. 3 Buchst. c UWG (§ 4 Nr. 9 Buchst. c UWG aF) auch auf die für die angesprochenen Verkehrskreise bedeutsame Funktionsweise des Gegenstands abgestellt werden kann, ist nicht entscheidungserheblich. Fehlt es an der Entscheidungserheblichkeit, kommt eine Zulassung der Revision nicht in Betracht (vgl. BGH, Beschluss vom 7. Januar 2003 - X ZR 82/02, BGHZ 153, 254, 256 [juris Rn. 5]; Beschluss vom 19. Februar 2013 - VIII ZR 178/12, juris Rn. 4; Beschluss vom 6. Dezember 2017 - IV ZR 16/17, NJW-RR 2018, 476 Rn. 12; Beschluss vom 25. September 2019 - IV ZR 247/18, NJW-RR 2020, 94 Rn. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>c) Das Berufungsgericht hat Ansprüche der Klägerin nicht allein mit einer Begründung verneint, für die die als grundsätzlich angesehene Rechtsfrage eine Rolle spielt. Es hat die Klage mit der weiteren selbständig tragenden Begründung als unbegründet erachtet, die Voraussetzungen des § 4 Nr. 3 Buchst. c UWG lägen auch deshalb nicht vor, weil nicht feststellbar sei, dass die Beklagte die für die Nachahmung erforderlichen Kenntnisse und Unterlagen unredlich erlangt hätte. Diese Beurteilung greift die Revision ohne Erfolg an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht ist davon ausgegangen, dass der Vorwurf der Klägerin lediglich darauf abziele, dass die Geschäftsführer und Gesellschafter der Beklagten aufgrund ihrer früheren Tätigkeit als Mitarbeiter der Klägerin im Jahr 2012 oder vorher als Geschäftsgeheimnisse einzustufende Unterlagen, insbesondere Zeichnungen, unberechtigt mitgenommen beziehungsweise kopiert, der Beklagten zur Verfügung gestellt und mit diesen Unterlagen als Nachahmung das Flüsteraggregat gebaut haben sollen. Es hat seiner Beurteilung weiter zugrunde gelegt, dass die Klägerin sich das Vorbringen der Beklagten, sie habe das Aggregat in Zusammenarbeit mit J.    T.  entwickelt, nicht hilfsweise zu Eigen gemacht, sondern ausdrücklich bestritten hat. Diese Beurteilung wird von der Revision nicht angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) Das Berufungsgericht hat ohne Rechtsfehler angenommen, dass die Beklagte den Vortrag der Klägerin hinreichend bestritten hat. Die Revision macht ohne Erfolg geltend, das Bestreiten der Beklagten sei in sich widersprüchlich, so dass das Berufungsgericht den Vortrag der Klägerin nach § 138 Abs. 3 ZPO als zugestanden hätte behandeln müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(1) Das Berufungsgericht hat angenommen, die Beklagte habe den Vorwurf der Klägerin, die Geschäftsführer der Beklagten hätten während ihrer Zeit als Mitarbeiter der Klägerin als Geschäftsgeheimnisse einzustufende Unterlagen, insbesondere Zeichnungen, unberechtigt mitgenommen, substantiiert bestritten. Die Beklagte habe vorgetragen, sie habe ihr Aggregat in Zusammenarbeit mit J.    T.  entwickelt. Dort hätten die technischen Zeichnungen mit Maßen und Toleranzen vorgelegen. Die Geschäftsführer der Beklagten hätten umfangreiches Erfahrungswissen eingebracht, wobei die Toleranzen bekannt gewesen seien. Die Bauteile Pickelhalter, Schwenkarm und Pickelarm seien vermessen worden. Bei der Entwicklung seien die auch bei J.   T.  bekannten Schwachstellen berücksichtigt und verbessert worden. Dieser Vortrag zur Entwicklung des Flüsteraggregats in Zusammenarbeit mit J.    T.  auf Grundlage der gemeinsamen Kenntnisse sei nachvollziehbar und reiche zum Bestreiten des Vortrags der Klägerin aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte sei nicht gehalten, in Erfüllung einer sekundären Darlegungslast genauer zu den Umständen der Entwicklung des Flüsteraggregats vorzutragen. Maßgebend seien nach dem Klägervortrag allein die Umstände, die dazu geführt hätten, dass die Geschäftsführer der Beklagten sich während der Zeit ihrer Anstellung die entscheidenden Pläne der Bauteile verschaffen konnten. Zu den näheren Umständen der Entwicklung des Flüsteraggregats in Zusammenarbeit mit Jumbo Tec habe die Beklagte dagegen keine weiteren Einzelheiten darlegen müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Wie das Berufungsgericht zutreffend annimmt, trägt im Grundsatz derjenige, der einen Anspruch aus § 4 Nr. 3 Buchst. c UWG geltend macht, die volle Darlegungs- und Beweislast für die anspruchsbegründenden Tatsachen. In bestimmten Fällen ist es indes Sache der Gegenpartei, sich im Rahmen der ihr nach § 138 Abs. 2 ZPO obliegenden Erklärungspflicht zu den Behauptungen der beweispflichtigen Partei substantiiert zu äußern. Dabei hängen die Anforderungen an die Substantiierungslast des Bestreitenden zunächst davon ab, wie substantiiert der darlegungspflichtige Kläger vorgetragen hat. In der Regel genügt gegenüber einer Tatsachenbehauptung des darlegungspflichtigen Klägers das einfache Bestreiten des Beklagten. Ob und inwieweit die nicht darlegungsbelastete Partei ihren Sachvortrag substantiieren muss, lässt sich nur aus dem Wechselspiel von Vortrag und Gegenvortrag bestimmen, wobei die Ergänzung und Aufgliederung des Sachvortrags bei hinreichendem Gegenvortrag immer zunächst Sache der darlegungs- und beweispflichtigen Partei ist (st. Rspr., vgl. nur BGH, Urteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 26 mwN). Eine sekundäre Darlegungslast trifft den Prozessgegner der primär darlegungsbelasteten Partei, wenn diese keine nähere Kenntnis der maßgeblichen Umstände und auch keine Möglichkeit zur weiteren Sachaufklärung hat, während der Bestreitende alle wesentlichen Tatsachen kennt und es ihm unschwer möglich und zumutbar ist, nähere Angaben zu machen. Die sekundäre Darlegungslast führt jedoch weder zu einer Umkehr der Beweislast noch zu einer über die prozessuale Wahrheitspflicht und Erklärungslast (§ 138 Abs. 1 und 2 ZPO) hinausgehenden Verpflichtung des in Anspruch Genommenen, dem Anspruchsteller alle für seinen Prozesserfolg benötigten Informationen zu verschaffen. Genügt der Anspruchsgegner seiner sekundären Darlegungslast nicht, gilt die Behauptung des Anspruchstellers nach § 138 Abs. 3 ZPO als zugestanden (BGH, NJW 2021, 1669 Rn. 27 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(3) Nach diesen Maßstäben hat das Berufungsgericht mit Recht angenommen, dass die Beklagte die Behauptung der Klägerin, sie habe die für die Entwicklung ihres Flüsteraggregats erforderlichen Kenntnisse und Unterlagen unredlich erlangt, hinreichend bestritten hat. Es kann dahinstehen, ob - wie die Revision meint - der Vortrag der Beklagten ursprünglich widersprüchlich gewesen sein könnte. Die Beklagte hat jedenfalls im weiteren Verlauf des Rechtsstreits ihren Vortrag dahingehend klargestellt, dass J.    T.  im Besitz von Zeichnungen der drei maßgeblichen Bauteile gewesen sei und dass den Geschäftsführern der Beklagten Toleranzen bekannt gewesen seien. Dieser Vortrag der Beklagten liefert - anders als der Vortrag der Beklagten in dem vor dem OLG Frankfurt am Main (Urteil vom 8. März 2005 - 11 U 57/03, juris) geführten Verfahren, auf das sich die Revision beruft - eine nachvollziehbare, dem Vortrag der Klägerin entgegenstehende Erklärung für die Übereinstimmungen in den Zeichnungen der Parteien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(4) Dieses Bestreiten der Beklagten ist entgegen der Ansicht der Revision nicht in sich widersprüchlich und deshalb unbeachtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Die Revision macht geltend, der Vortrag der Beklagten, die Bauteile Pickelhalter, Schwenklager und Pickelarm seien vermessen worden, stehe in Widerspruch zu ihrem Vortrag, bei J.    T.  hätten technische Zeichnungen mit den von der Klägerin verwendeten Maßen und Toleranzen vorgelegen. Der Vortrag der Beklagten, sie habe sich per E-Mail am 29. November 2018 an J.   T.  gewandt, um die Maße für diese Bauteile gebeten und diese auch erhalten, stehe im Widerspruch zu ihrem Vorbringen, sie sei bereits durch J.    T.  in den Besitz der technischen Zeichnungen beziehungsweise der Maße und Toleranzen der Bauteile gelangt. J.   T.  habe außerdem erklärt, ihr sei weder die Existenz dieser technischen Zeichnungen noch deren Weitergabe durch ihren Prokuristen bekannt. Im Übrigen ergebe sich aus dem von der Beklagten vorgelegten Ausschnitt einer technischen Zeichnung von J.    T.  , dass diese im Vergleich mit einer Originalzeichnung der Klägerin in keinem einzigen Maß übereinstimme. Hätte die Beklagte tatsächlich das Stopfaggregat in Zusammenarbeit mit J.    T.  entwickelt, hätte es nahegelegen, dass der Vergleich zwischen den Zeichnungen Übereinstimmungen in den Werten erbracht hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Dieses Vorbringen verhilft der Revision nicht zum Erfolg. Das Berufungsgericht hat den Vortrag der Beklagten ohne Rechtsfehler als ausreichendes Bestreiten des Vortrags der Klägerin angesehen, die Geschäftsführer der Beklagten hätten sich unberechtigt Kenntnisse und Unterlagen aus der Zeit ihrer Tätigkeit bei der Klägerin verschafft, um sie für die Entwicklung des Flüsteraggregats bei der Beklagten zu verwenden. Die Beklagte hat dargelegt, dass ein Vermessen von Bauteilen auch bei Vorliegen von Zeichnungen mit Maßen und Toleranzen sinnvoll sein könne. Sie hat außerdem vorgetragen, sie habe sich Ende November 2018 bei J.   T.  erkundigt, ob dort Übersichtsmaße der Stopfkästen (Getriebekästen) sowie der Stopfzylinder vorlägen, damit die Beklagte ihren Flüsterantrieb in ein Stopfaggregat der Klägerin in Japan einbauen könne. Die Beklagte hat überdies E-Mails des Prokuristen der J.   T.  aus November 2018 vorgelegt, mit denen dieser der Beklagten zahlreiche technische Zeichnungen übersandt hat. Dass die J.     T.   erklärt hat, ihr seien die Handlungen ihres Prokuristen unbekannt, ist demgegenüber unerheblich. Soweit die Revision auf Vortrag der Klägerin zu Maßdifferenzen verweist, ist nicht ersichtlich, dass diese Differenzen gerade die hier maßgeblichen Bauteile betreffen. Der Vortrag der Klägerin betrifft eine spezielle Achse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat danach zu Recht den Vortrag der Beklagten für ausreichend substantiiert gehalten. Es hat im Übrigen nicht allein auf die bei J.    T.  unstreitig vorhandenen Zeichnungen, sondern auch auf die Kenntnisse der Geschäftsführer der Beklagten abgestellt. Insoweit musste die Beklagte nicht im Einzelnen darlegen, welchen Beitrag J.   T.  , die dort vorhandenen Zeichnungen und die Kenntnisse ihrer Geschäftsführer jeweils geleistet haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>cc) Das Berufungsgericht hat seiner Beurteilung zugrunde gelegt, dass die darlegungs- und beweisbelastete Klägerin einen direkten Beweis dafür, dass die Geschäftsführer der Beklagten sich unrechtmäßig die für die Entwicklung des Aggregats relevanten Pläne und Zeichnungen verschafft und an die Beklagte weitergegeben hätten, weder geführt noch angeboten habe. Gegen diese Beurteilung des Berufungsgerichts wendet sich die Revision nicht. Rechtsfehler sind insoweit auch nicht ersichtlich. Das Berufungsgericht hat festgestellt, dass zwar bei einer Durchsuchung des Hauses einer der Geschäftsführer der Beklagten zahlreiche Dateien und Kopien von Unterlagen und Zeichnungen der Klägerin sichergestellt wurden. Darunter befanden sich jedoch keine Pläne für Pickelarm, Schwenklager und Pickelhalterung für das streitgegenständliche Aggregat. Auch bei der Beklagten sind bei Durchsuchungen solche Zeichnungen nicht aufgefunden worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>dd) Die Revision wendet sich ohne Erfolg gegen die Beurteilung des Berufungsgerichts, auf Grundlage eines Indizienbeweises könnten keine Feststellungen getroffen werden, die den Vorwurf der Klägerin gegen die Geschäftsführer der Beklagten rechtfertigten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(1) Das Berufungsgericht hat angenommen, unstreitige oder bewiesene Hilfstatsachen ließen weder für sich genommen noch im Rahmen einer Gesamtwürdigung mit der erforderlichen Sicherheit den Schluss auf die Wahrheit der Behauptung der Klägerin zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Zwar hätten die Geschäftsführer der Beklagten noch während ihrer Anstellung bei der Klägerin konkrete Pläne für die Gründung eines Konkurrenzunternehmens gehabt. Daraus allein folge aber nicht, dass sie auch Unterlagen der Klägerin unberechtigt mitgenommen und der Beklagten verschafft hätten. Die sich aus der Durchsuchung ergebenden Befunde ließen einen solchen Schluss ebenfalls nicht mit der erforderlichen Sicherheit zu. Aus auf dem Computer eines Mitarbeiters aufgefundenen Handzeichnungen lasse sich ebenfalls nicht sicher schließen, dass eine im Sinne des Klägervortrags unzulässig erlangte Originalzeichnung der Klägerin zu Grunde gelegen habe. Es könne nicht ausgeschlossen werden, dass die Handzeichnungen in anderer Weise, zum Beispiel auf Grundlage von Vorlagen, die in sonstiger Weise verfügbar gewesen seien, erstellt worden seien. Unstreitig seien Zeichnungen der Klägerin von den maßgeblichen Bauteilen verfügbar gewesen. Jedenfalls hätten diese Zeichnungen dem Prokuristen der J.   T.  vorgelegen, der dazu angegeben habe, dass ein Mitarbeiter der deutschen Konzerngesellschaft der Klägerin sie ihm einige Jahre vor 2018 übermittelt habe. Der Vortrag der Klägerin, dass die Pläne aufgrund der bestehenden Sicherungsmaßnahmen nur durch unzulässige Umgehung der internen Sicherheitsmaßnahmen greifbar gewesen seien, sei angesichts dieses Umstands nicht mehr haltbar, da die Geheimhaltungsmaßnahmen der Klägerin zu einem Zeitpunkt einige Jahre vor 2018 durchaus zu umgehen gewesen seien. Es gehe zu Lasten der insoweit darlegungs- und beweisbelasteten Klägerin, dass nicht ersichtlich oder feststellbar sei, dass diese Umgehung der Sicherheitsmaßnahmen nach der Fertigung der Handzeichnungen oder der Entwicklung des Flüsteraggregats erfolgt sei. Es gebe keine Anhaltspunkte dafür, dass die über Herrn K.   verfügbaren Pläne ursprünglich von den Geschäftsführern der Beklagten stammten. Da die Klägerin sich nicht darauf berufe, dass die Beklagte ihre Kenntnisse unberechtigt über J.    T.   erlangt habe, sei nicht weiter aufzuklären, ob die Beklagte in berechtigter Weise auf die bei J.    T.  vorhandenen Kenntnisse und Unterlagen habe zurückgreifen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn davon auszugehen wäre, dass die Planung des Flüsteraggregats auf Grundlage von Plänen der Klägerin erfolgt sein müsse, würde dies aus den genannten Gründen nicht den Schluss zulassen, dass die Beklagte die Kenntnisse allein über ihre Geschäftsführer in der von der Klägerin allein behaupteten Art und Weise erlangt habe. Das Landgericht habe insoweit zu Recht auf die Vernehmung des Zeugen W.     verzichtet, der nach Behauptung der Klägerin aus eigener Wahrnehmung lediglich Angaben dazu machen können solle, dass sich - zu einem nicht näher benannten Zeitraum - in den Büroräumlichkeiten der Beklagten Pläne und Ordner mit Unterlagen der Klägerin befunden hätten. Die Beklagte habe aber selbst vorgetragen, dass ihr von einer Kundin insgesamt sechs Ordner mit Unterlagen der Klägerin zu der Stopfmaschine "09-16" übergeben worden seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Diese Beurteilung weist keinen Rechtsfehler auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(2) Das Berufungsgericht hat entgegen der Ansicht der Revision widerspruchsfrei festgestellt, dass unstreitig - außerhalb der Sphäre der Klägerin - Zeichnungen der Klägerin von den maßgeblichen Bauteilen verfügbar waren. Das Berufungsgericht hat sowohl im unstreitigen Tatbestand seines Urteils als auch in den Entscheidungsgründen festgehalten, dass der Prokurist, Betriebs- und Abteilungsleiter der J.    T.   K.   nach eigenen Angaben zu einem nicht näher genannten Zeitpunkt einige Jahre vor 2018 Zeichnungen betreffend das klägerische Stopfaggregat durch einen Mitarbeiter der deutschen Konzerngesellschaft der Klägerin erhalten hat. Damit hat das Berufungsgericht zwar offengelassen, aus welcher Quelle und wann genau der Prokurist K.   die Zeichnungen der Klägerin erlangt hat. Es hat daraus jedoch die aus Rechtsgründen nicht zu beanstandende Schlussfolgerung gezogen, dass Geheimhaltungsmaßnahmen der Klägerin einige Jahre vor 2018 zu umgehen waren und dass dieser Umstand zu Lasten der darlegungs- und beweisbelasteten Klägerin geht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(3) Das Berufungsgericht hat außerdem rechtsfehlerfrei angenommen, es bestünden keine greifbaren Anhaltspunkte dafür, dass die über den Prokuristen der J.    T.   verfügbaren Pläne gerade von der Beklagten beziehungsweise von deren Geschäftsführern stammten. Die Revision verweist nicht auf Vortrag der für die unredliche Kenntniserlangung der Beklagten darlegungs- und beweisbelasteten Klägerin, aus welcher Quelle der Prokurist der J.   T.  die Pläne erlangt hat und zu welchem Zeitpunkt dies geschehen ist. Das Berufungsgericht war danach nicht gehalten, weitere Feststellungen dazu zu treffen, ob der Prokurist der J.   T.  die Zeichnungen der Klägerin noch vor Entwicklung des Flüsteraggregats erlangt hat, so dass diese theoretisch bei dessen Entwicklung hätten Verwendung finden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(4) Das Berufungsgericht war entgegen der Ansicht der Revision auch nicht nach § 286 ZPO gehalten, den Zeugen W.   zu vernehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Die Revision macht ohne Erfolg geltend, die Klägerin habe den Zeugen zum Beweis dafür angeboten, dass sich im Haus einer der Geschäftsführer der Beklagten ein Karton mit Ordnern der Klägerin und im Büro der Beklagten Pläne der Klägerin befanden, ferner, dass der Zeuge bereits vor der Kündigung der Geschäftsführer der Beklagten angeworben wurde und bis zum Ende des Jahres 2012 auch in Gespräche hinsichtlich des vollhydraulischen Flüsteraggregats einbezogen war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Diesen Vortrag hat das Berufungsgericht zu Recht als unerheblich angesehen. Die Klägerin behauptet selbst nicht, dass der Zeuge die hier allein maßgeblichen Konstruktionszeichnungen gesehen haben soll. Vielmehr handelt es sich, wie die Revisionserwiderung zu Recht geltend macht, unter Zugrundelegung des Vortrags der Klägerin um das Angebot eines unzulässigen Ausforschungsbeweises, dem das Berufungsgericht nicht nachgehen musste. Dass der Zeuge bereits vor der Kündigung der Geschäftsführer der Beklagten angeworben worden ist und bereits 2012 an Gesprächen hinsichtlich des Flüsteraggregats einbezogen war, könnte lediglich beweisen, dass die Geschäftsführer der Beklagten noch während ihrer Anstellung Pläne zur Gründung der Beklagten und zur Entwicklung des Flüsteraggregats gehabt haben. Dies hat das Berufungsgericht seiner Beurteilung ohnehin zugrunde gelegt, so dass es einer Beweiserhebung durch Vernehmung des Zeugen W.   hierzu nicht bedurft hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Es kann dahinstehen, ob das Berufungsgericht - wie die Revision meint - der Klägerin einen Hinweis hätte erteilen müssen, dass ihr Vortrag zu ihrem Antrag, den Zeugen W.   zu vernehmen, nicht ausreichend gewesen sei. Die Revision legt nicht dar, was sie auf einen etwaigen Hinweis vorgetragen hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>3. Nach dem Vorstehenden hat die Revision keine Aussicht auf Erfolg. Auch die weiteren Rügen der Revision, mit denen sie sich gegen die Abweisung der Klage wendet, greifen nicht durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Ansicht der Revision hat das Berufungsgericht die Begründetheit der mit den Klageanträgen 3 bis 5 geltend gemachten Annexansprüche nicht unter Verstoß gegen § 540 Abs. 1 Nr. 2, § 547 Nr. 6 ZPO verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>aa) Dem in § 547 Nr. 6, § 540 Abs. 1 Nr. 2 ZPO niedergelegten Begründungserfordernis ist bereits dann Genüge getan, wenn die Entscheidungsgründe erkennen lassen, welche tatsächlichen Feststellungen und welche rechtlichen Erwägungen für die getroffene Entscheidung maßgeblich waren (st. Rspr.; vgl. BGH, Urteil vom 12. Mai 2016 - I ZR 1/15, GRUR 2016, 1275 Rn. 27 = WRP 2016, 1525 - Tannöd). Eine Entscheidung ist erst dann nicht mit Gründen versehen, wenn auf einzelne Ansprüche überhaupt nicht eingegangen wird (BGH, GRUR 2016, 1275 Rn. 27 = WRP 2016, 1525 - Tannöd) oder sich die Ausführungen in einer Aneinanderreihung von Gesichtspunkten erschöpfen, die eine gedankliche Bearbeitung ebenso vermissen lassen wie eine sprachlich angemessene Fassung (BGH, Urteil vom 22. Juni 2007 - V ZR 149/06, NJW-RR 2007, 1412 Rn. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>bb) Danach wahrt die angegriffene Entscheidung das Begründungserfordernis. Das Berufungsgericht hat ausgeführt, dass weder die Voraussetzungen der Anspruchsnormen nach dem UWG (§ 9 UWG) oder § 242 BGB noch nach dem GeschGehG (§§ 8,10 GeschGehG) erfüllt seien. Daraus lässt sich hinreichend deutlich entnehmen, dass der Anspruch aus § 9 UWG deshalb ausscheidet, weil eine Rechtsverletzung nach § 3 UWG nicht gegeben ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>b) Es verhilft der Revision auch nicht zum Erfolg, dass das Berufungsgericht hinsichtlich der Abweisung der Annexanträge die Rechtslage vor Ablauf der Umsetzungsfrist der Richtlinie (EU) 2016/943 nicht geprüft hat. Voraussetzung für Ansprüche sowohl nach § 8 Abs. 1, § 3 Abs. 1, § 4 Nr. 3 Buchst. c UWG (§ 4 Nr. 9 Buchst. c UWG aF) als auch nach §§ 17, 19 UWG in der bis zum 25. April 2019 geltenden Fassung ist, dass die Beklagte die für eine Nachahmung erforderlichen Kenntnisse und Unterlagen unredlich erlangt hätte. Dies hat das Berufungsgericht nicht feststellen können. Dabei ist ihm - wie bereits ausgeführt - kein Rechtsfehler unterlaufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">RiBGH Dr. Löffler ist wegen<br/>der COVID-19-Pandemie<br/>an der Unterschriftsleistung<br/>verhindert.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Koch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Koch</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">   Schwonke</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Odörfer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">     Wille     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>
+                     <span style="text-decoration:underline">Hinweis:</span>
+                  </strong>
+                  <strong> Das Revisionsverfahren ist durch Zurückweisungsbeschluss vom 11. Mai 2022 erledigt worden.</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE632402022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

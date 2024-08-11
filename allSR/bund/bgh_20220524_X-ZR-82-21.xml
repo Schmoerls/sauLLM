@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301302022</doknr>
+   <ecli>ECLI:DE:BGH:2022:240522UXZR82.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220524</entsch-datum>
+   <aktenzeichen>X ZR 82/21</aktenzeichen>
+   <doktyp>Zwischenurteil</doktyp>
+   <norm>§ 125a Abs 2 PatG, § 125a Abs 3 PatG, § 130a ZPO, § 2 Abs 2a Nr 1 BGH/BPatGERVV, § 4 Abs 2 ERVV, Art 3 Nr 10 EUV 910/2014, Art 3 Nr 11 EUV 910/2014, Art 3 Nr 12 EUV 910/2014, Art 3 Nr 26 EUV 910/2014</norm>
+   <vorinstanz>vorgehend BPatG München, 1. Juli 2021, Az: 2 Ni 32/20 (EP), Beschluss<br/>nachgehend BGH, 7. September 2023, Az: X ZR 82/21, Urteil</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Wirksamkeit einer qualifizierten Signatur in Form der so genannten Container-Signatur; Anwendbarkeit der für den Zivilprozess maßgeblichen Regelung des Verbots der Übermittlung mehrerer elektronischer Dokumente mit einer gemeinsamen qualifizierten elektronischen Signatur - Container-Signatur im Patentnichtigkeitsverfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Container-Signatur im Patentnichtigkeitsverfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Eine qualifizierte Signatur, die sich auf den gesamten Inhalt einer über das elektronische Gerichts- und Verwaltungspostfach eingereichten Nachricht einschließlich der darin enthaltenen Dateien bezieht, genügt den Anforderungen des § 2 Abs. 2a Nr. 1 BGH/BPatGERVV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. § 4 Abs. 2 ERVV ist im Anwendungsbereich der Verordnung über den elektronischen Rechtsverkehr beim Bundesgerichtshof und Bundespatentgericht (BGH/BPatGERVV) nicht anwendbar.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das mit der Nichtigkeitsklage angegriffene Streitpatent für nichtig erklärt. Mit seiner Berufung strebt der Beklagte weiterhin die Abweisung der Klage an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der Prozessbevollmächtigte des Beklagten, ein Patentanwalt, hat die Berufungsschrift und die Berufungsbegründung vor Ablauf der jeweils maßgeblichen Frist als elektronisches Dokument über das elektronische Gerichts- und Verwaltungspostfach (EGVP) eingereicht. Die beiden Nachrichten sind mit einer so genannten Container-Signatur versehen. Die darin enthaltenen PDF-Dateien weisen nur eine einfache elektronische Signatur auf, d.h. die Wiedergabe des Namens am Ende des Textes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hält die Berufung für unzulässig, weil eine Container-Signatur den Formvorgaben aus § 2 Abs. 2a BGH/BPatGERVV nicht genüge. Die Beklagte tritt dem entgegen. Vorsorglich beantragt sie Wiedereinsetzung in den vorigen Stand. Hierzu hat sie die Berufungsschrift und die Berufungsbegründung nochmals eingereicht, und zwar in Form von PDF-Dateien mit integrierter qualifizierter Signatur.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Beide Parteien haben einer Zwischenentscheidung ohne mündliche Verhandlung zugestimmt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Über die Zulässigkeit der Berufung kann vorab durch Zwischenurteil entschieden werden (BGH, Urteil vom 8. Januar 1991 - X ZR 100/90, BGHZ 113, 201 = GRUR 1991, 443 - Schneidwerkzeug).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>II. Aufgrund der Zustimmung beider Parteien kann die Entscheidung gemäß § 118 Abs. 3 Nr. 1 PatG ohne mündliche Verhandlung ergehen. Entsprechend § 310 Abs. 3 ZPO wird die Verkündung des Urteils durch dessen Zustellung ersetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>III. Die Berufungsschrift und die Berufungsbegründung genügen den maßgeblichen Formerfordernissen aus § 125a Abs. 2 Satz 1 PatG und § 2 Abs. 2a Nr. 1 BGH/BPatGERVV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Nach der von der Ermächtigungsgrundlage in § 125a Abs. 3 Nr. 1 PatG getragenen Regelung in § 2 Abs. 2a Nr. 1 BGH/BPatGERVV sind elektronische Dokumente in Verfahren nach dem Patentgesetz mit einer qualifizierten elektronischen Signatur gemäß Art. 3 Nr. 12 der Verordnung (EU) Nr. 910/2014 (eIDAS-VO) zu versehen. Nach der in Bezug genommenen Regelung ist dies eine fortgeschrittene elektronische Signatur, die von einer qualifizierten elektronischen Signaturerstellungseinheit erstellt wurde und auf einem qualifizierten Zertifikat für elektronische Signaturen beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Diesen Anforderungen genügt auch eine qualifizierte Signatur in Form der so genannten Container-Signatur.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Eine elektronische Signatur besteht gemäß Art. 3 Nr. 10 eIDAS-VO aus Daten in elektronischer Form, die anderen elektronischen Daten beigefügt oder logisch mit ihnen verbunden werden und die der Unterzeichner zum Unterzeichnen verwendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Diese Voraussetzung ist, wie auch die Klägerin nicht in Zweifel zieht, auch bei einer Container-Signatur erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Besonderheit einer Container-Signatur besteht darin, dass sich die Signaturdaten nicht auf eine einzelne Datei beziehen, etwa eine PDF-Datei, die eine Berufungsschrift oder Berufungsbegründung enthält, sondern auf ein übergeordnetes Datenobjekt, das eine oder mehrere Dateien zu einer Einheit zusammenfasst und zusätzliche Informationen enthält, etwa eine EGVP-Nachricht mit Angaben zu Absender, Empfänger und Betreff und einem oder mehreren Dateianhängen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Die Regelung in Art. 3 Nr. 10 eIDAS-VO enthält keine Differenzierung zwischen diesen beiden Signaturarten. Nach ihr genügt es, wenn ein Bezug zwischen den Signaturdaten und den zu signierenden Daten besteht. Ein solcher Bezug besteht auch bei einer Container-Signatur.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Eine fortgeschrittene Signatur ist gemäß Art. 3 Nr. 11 und Art. 26 eIDAS-VO eine elektronische Signatur, die</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a) eindeutig dem Unterzeichner zugeordnet ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) die Identifizierung des Unterzeichners ermöglicht,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">c) unter Verwendung elektronischer Signaturerstellungsdaten erstellt wird, die der Unterzeichner mit einem hohen Maß an Vertrauen unter seiner alleinigen Kontrolle verwenden kann, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) so mit den auf diese Weise unterzeichneten Daten verbunden ist, dass eine nachträgliche Veränderung der Daten erkannt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Diese Regelung normiert zusätzliche Anforderungen an die Authentizität und Integrität der Signatur. Sie differenziert nicht danach, auf welche Daten sich die Signaturdaten beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c) Für die qualifizierte Signatur sieht Art. 3 Nr. 12 eIDAS-VO als zusätzliches Erfordernis vor, dass die Signatur von einer qualifizierten elektronischen Signaturerstellungseinheit erstellt wurde und auf einem qualifizierten Zertifikat für elektronische Signaturen beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Diese Regelung differenziert ebenfalls nicht nach dem Bezugsobjekt der Signaturdaten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Klägerin ergibt sich ein Verbot der Container-Signatur nicht aus der in § 2 Abs. 2a BGH/BPatGERVV normierten Anforderung, dass "elektronische Dokumente" mit einer Signatur der genannten Art zu versehen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Dieser Vorschrift ist allerdings zu entnehmen, dass die Signaturdaten eine zuverlässige Prüfung der Authentizität und Integrität nach Maßgabe von Art. 26 eIDAS-VO ermöglichen müssen. Eine solche Prüfung ist indes auch dann möglich, wenn sich die Signaturdaten nicht auf ein einzelnes Dokument, sondern auf eine Gesamtheit von Dokumenten in einem Container beziehen. Ein positives Ergebnis der Signaturprüfung bietet in diesem Fall Gewähr dafür, dass der Inhalt des Containers insgesamt von der ausgewiesenen Person signiert und nach der Signatur nicht verändert worden ist. Damit ist die Authentizität und Integrität auch in Bezug auf jedes einzelne im Container enthaltene Dokument gewährleistet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Dass eine solche Prüfung dauerhaft nur dann möglich ist, wenn der gesamte Container gespeichert und für zukünftige Prüfungen bereitgestellt wird, ist entgegen der Auffassung der Klägerin unerheblich. § 2 Abs. 2a BGH/BPatGERVV normiert Anforderungen lediglich in Bezug auf Authentizität und Integrität, nicht aber in Bezug auf Speichermöglichkeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>e) Aus § 2 Abs. 5 BGH/BPatGERVV ergibt sich keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Nach § 2 Abs. 5 Satz 1 BGH/BPatGERVV darf ein elektronisches Dokument, das einem der vorgeschriebenen Dateiformate entspricht, auch in komprimierter Form als ZIP-Datei eingereicht werden. Gemäß § 2 Abs. 5 Satz 3 BGH/BPatGERVV muss sich die Signatur beim Einsatz von Dokumentensignaturen in diesem Fall auf das Dokument und nicht auf die ZIP-Datei beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Diese Regelung enthält der Sache nach ein Verbot von Container-Signaturen, weil auch eine ZIP-Datei als Container im oben genannten Sinne angesehen werden kann. Dieses Verbot bezieht sich aber auf einen speziellen Anwendungsfall. Es kann deshalb nicht auf den Fall ausgedehnt werden, dass die Signatur nicht an einer ZIP-Datei, sondern an der EGVP-Nachricht angebracht wird. Gegen eine erweiternde Auslegung spricht auch der Umstand, dass § 2 Abs. 5 Satz 3 BGH/BPatGERVV nur den Einsatz von Dokumentensignaturen betrifft, nicht aber die Signatur einer EGVP-Nachricht insgesamt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>f) Dieses Ergebnis steht in Einklang mit der Rechtsprechung des Bundesgerichtshofs zu der bis 31. Dezember 2017 geltenden Fassung von § 130a ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>§ 130a Abs. 1 Satz 2 ZPO aF sah vor, dass die verantwortende Person das Dokument mit einer qualifizierten elektronischen Signatur versehen soll. Hierfür genügte auch eine Container-Signatur, die sich auf die gesamte EGVP-Nachricht bezieht (BGH, Beschluss vom 14. Mai 2013 - VI ZB 7/13, BGHZ 197, 209 = NJW 2013, 2034 Rn. 10 f.). § 2 Abs. 2a BGH/BPatGERVV enthält eine damit vergleichbare Regelung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Klägerin führt der Umstand, dass § 130a ZPO aF lediglich als Soll-Vorschrift ausgestaltet war, während § 2 Abs. 2a BGH/BPatGERVV eine Signatur zwingend vorsieht, nicht zu einer abweichenden Beurteilung. Die Zulässigkeit einer Container-Signatur nach § 130a ZPO aF ergab sich nicht aus der Ausgestaltung der Regelung als Soll-Vorschrift, sondern daraus, dass eine qualifizierte Container-Signatur eine der Einzelsignatur vergleichbare Gewähr bietet für die Urheberschaft und den Willen des Verfassers, die übersandten Dokumente in den Rechtsverkehr zu bringen (BGH, Beschluss vom 14. Mai 2013 - VI ZB 7/13, BGHZ 197, 209 = NJW 2013, 2034 Rn. 10). Dieser Aspekt gibt auch im Zusammenhang mit § 2 Abs. 2a BGH/BPatGERVV den Ausschlag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>2. Die seit 1. Januar 2018 für den Zivilprozess maßgebliche Regelung in § 4 Abs. 2 ERVV, wonach mehrere elektronische Dokumente nicht mit einer gemeinsamen qualifizierten elektronischen Signatur übermittelt werden dürfen (dazu BGH, Beschluss vom 15. Mai 2019 - XII ZB 573/18, BGHZ 222, 105 = NJW 2019, 2230 Rn. 12), ist im Patentnichtigkeitsverfahren nicht anwendbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Nach § 125a Abs. 2 Satz 2 PatG gelten die Vorschriften der Zivilprozessordnung über elektronische Dokumente in Verfahren vor dem Patentgericht und dem Bundesgerichtshof allerdings entsprechend. Ob dies auch für Vorschriften in Verordnungen gilt, die auf einer in der Zivilprozessordnung enthaltenen Ermächtigung beruhen, bedarf keiner abschließenden Entscheidung. Hinsichtlich der technischen Anforderungen an die Signatur enthält § 2 Abs. 2a BGH/BPatGERVV jedenfalls eine Spezialregelung, die die abweichende Regelung in § 4 Abs. 2 ERVV verdrängt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>3. Die Berufungsschrift und die Berufungsbegründung der Beklagten genügen den danach maßgeblichen Anforderungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>a) Aus den von der Beklagten vorgelegten Eingangsbestätigungen ergibt sich, dass die EGVP-Nachricht jeweils mit einer qualifizierten elektronischen Signatur versehen war, als deren Urheber der Prozessbevollmächtigte der Beklagten ausgewiesen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>b) Die Signaturprüfung hat jeweils ein gültiges Ergebnis geliefert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>c) Damit steht fest, dass die Nachricht vom Prozessbevollmächtigten der Beklagten signiert und nach der Signatur nicht verändert worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Crummenerl     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301302022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

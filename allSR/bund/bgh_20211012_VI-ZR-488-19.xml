@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE312832021</doknr>
+   <ecli>ECLI:DE:BGH:2021:121021UVIZR488.19.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20211012</entsch-datum>
+   <aktenzeichen>VI ZR 488/19</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 6 Abs 1 S 1 Buchst f EUV 2016/679, Art 17 Abs 1 EUV 2016/679, Art 21 Abs 1 EUV 2016/679, Art 85 Abs 2 EUV 2016/679, Art 38 Abs 1 DSG BY, Art 11 Abs 1 EUGrdRCh</norm>
+   <vorinstanz>vorgehend OLG Köln, 14. November 2019, Az: I-15 U 89/19, Urteil<br/>vorgehend LG Bonn, 29. März 2019, Az: 9 O 157/18, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Zulässigkeit der Verarbeitung personenbezogener Daten in einem Ärztebewertungsportal: Ungleichbehandlung von für ihr Profil zahlenden und nichtzahlenden Ärzten; Vorliegen des sog. "Medienprivilegs"</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Betreiber eines Ärztebewertungsportals unterliegt keinem strengen Gleichbehandlungsgebot in dem Sinne, dass eine Ungleichbehandlung von Ärzten, die keine (zahlenden) Kunden des Portalbetreibers sind, einerseits und Ärzten, die für ihr Profil bezahlen, andererseits stets zur Unzulässigkeit der Verarbeitung der personenbezogenen Daten von nichtzahlenden Ärzten führt, die der Verarbeitung ihrer personenbezogenen Daten im Portalbetrieb widersprochen haben. Maßgeblich ist vielmehr, welche konkreten Vorteile der Portalbetreiber zahlenden gegenüber nichtzahlenden Ärzten gewährt und ob die sich daraus ergebende Ungleichbehandlung in einer Gesamtschau mit allen anderen Umständen des konkreten Einzelfalls dazu führt, dass die Interessen des gegen seinen Willen in das Portal aufgenommenen Arztes die berechtigten Interessen des Portalbetreibers und vor allem der Portalnutzer überwiegen (Fortführung Senatsurteil vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 18 - Ärztebewertung III).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Zum sogenannten "Medienprivileg" im Sinne des Art. 38 Abs. 1 BayDSG in Verbindung mit Art. 85 Abs. 2 DS-GVO.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision der Klägerin gegen das Urteil des 15. Zivilsenats des Oberlandesgerichts Köln vom 14. November 2019 wird auf ihre Kosten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte betreibt unter der Internetadresse www.jameda.de ein Ärztebewertungsportal. Das Portal wird monatlich von mindestens sechs Millionen Nutzern besucht. Die Beklagte erstellt dabei für alle Ärzte unter Verwendung von Daten aus allgemein zugänglichen Quellen ein sogenanntes Basis-Profil mit Namen, akademischem Grad, Fachrichtung, Praxisanschrift, weiteren Kontaktdaten und Sprechzeiten. Ein Schattenriss dient als Profilbild. Die Nutzer des Portals können die Ärzte nach bestimmten, vorgegebenen Kriterien benoten und in Form von Freitextkommentaren bewerten. Aus den von den Nutzern abgegebenen Einzelbewertungen werden für die unterschiedlichen Kategorien Durchschnittsnoten gebildet, aus den Durchschnittsnoten der verschiedenen Kategorien wiederum eine Gesamtnote für den jeweiligen Arzt, die auf dessen Profil sichtbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte bietet den in ihrem Portal erfassten Ärzten den Erwerb eines "Gold"- oder "Platinpakets" gegen monatliche Zahlungen von 69 € beziehungsweise 139 € an. Die Pakete ermöglichen es unter anderem, die Profilseiten - etwa durch Hinzufügen eines Fotos, Setzen eines Links auf die eigene Internetseite oder die Veröffentlichung von Fachartikeln - ansprechender zu gestalten als das Basis-Profil. Die entsprechenden Profile werden durch ein Symbol mit dem Text "Gold" beziehungsweise "Platin" gekennzeichnet; berührt der Mauszeiger das jeweilige Symbol, erscheint der Text:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>"Herr/Frau </em>[Name des Arztes/der Ärztin]<em> ist zahlender jameda Kunde, um Patienten umfangreich über sich zu informieren (z.B. durch Bilder und Texte). Dies hat keinen Einfluss auf die Bewertungen von Herrn/Frau </em>[Name des Arztes/der Ärztin]<em> oder seinen/ihren Platz in den jameda Ärztelisten."</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist Fachzahnärztin für Parodontologie. Sie hat bei der Beklagten kein kostenpflichtiges Paket gebucht und nicht in die Aufnahme ihrer Daten in das Portal der Beklagten eingewilligt. Dort wird sie ohne Foto mit ihrem Namen, ihrer Fachrichtung, ihrer Praxisanschrift, der Telefonnummer der Praxis und den über sie abgegebenen Bewertungen geführt. Die Klägerin begehrt von der Beklagten in der Hauptsache die vollständige Löschung der ihre Person betreffenden Daten aus der Datenbank des Bewertungsportals (Antrag 1) und Unterlassung der Veröffentlichung eines sie betreffenden Profils, wenn der Portalbetrieb bestimmte, in den einzelnen Teilanträgen näher beschriebene Merkmale aufweist (Antrag 2). So wendet sie sich zuletzt gegen die Veröffentlichung ihres Profils, wenn - wie geschehen –</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil auf eine Liste mit weiteren Ärzten verwiesen wird, während auf den Profilen zahlender Ärzte ein solcher Hinweis unterbleibt (Antrag 2a),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil auf eine Liste mit weiteren Ärzten verwiesen wird, auf der zahlende Ärzte anders als die Klägerin mit Bild dargestellt werden (Antrag 2b),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil Artikel von anderen zahlenden Ärzten veröffentlicht werden, während auf den Profilen sogenannter Platinkunden ein solcher Verweis unterbleibt (Antrag 2c),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil auf eine Liste mit Ärzten für spezielle Behandlungsgebiete verwiesen wird, während auf den Profilen zahlender Ärzte ein solcher Verweis unterbleibt (Antrag 2d),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil auf eine Liste mit Ärzten für spezielle Behandlungsgebiete verwiesen wird, auf der andere Ärzte gegen Entgelt besonders herausgestellt werden (Antrag 2e und 2f),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• auf ihrem Profil Werbung für Drittunternehmen eingeblendet wird, während solche Werbung auf den Profilen zahlender Ärzte unterbleibt (Antrag 2g),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten in größerem Umfang als der Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil von ihnen angebotene Leistungen anzugeben (Antrag 2h),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil ein Portrait-Bild zu hinterlegen (Antrag 2i),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil individuelle Inhalte und Bilder zu präsentieren (Antrag 2j),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil die Adresse ihrer eigenen Praxis-Homepage anzugeben und zu verlinken (Antrag 2k),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, Fachartikel auf ihrem Profil zu veröffentlichen (Antrag 2l),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil ein Video einzustellen (Antrag 2m),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, sich von der Beklagten interviewen zu lassen und das Interview auf ihr Profil einzustellen (Antrag 2n),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, individuelle Bewertungskriterien abzufragen (Antrag 2o),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, ihr Profil von der Beklagten erstellen und pflegen zu lassen (Antrag 2p),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, für die Texte auf ihrem Profil die Dienste professioneller Texter in Anspruch zu nehmen (Antrag 2q),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, Artikel auf der Unterseite "Experten-Ratgeber" zu veröffentlichen (Antrag 2r),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, sich von der Beklagten interviewen zu lassen und das Interview auf der Unterseite "Experten-Ratgeber" zu veröffentlichen (Antrag 2s),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, sich bei Suchanfragen zu speziellen Fachgebieten auffälliger darstellen zu lassen (Antrag 2t),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, sich bei Suchanfragen zu speziellen Suchbegriffen auffälliger darstellen zu lassen (Antrag 2u),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlende Ärzte anders als die Klägerin auf der jameda-Startseite angezeigt werden (Antrag 2v)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin ein persönlicher Ansprechpartner im Unternehmen der Beklagten zur Seite gestellt wird (Antrag 2w)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">• zahlenden Ärzten anders als der Klägerin die Möglichkeit eingeräumt wird, mit der Beklagten über eine kostenlose Hotline in Kontakt zu treten (Antrag 2x).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat der Klage vollumfänglich stattgegeben und die Beklagte - den in erster Instanz zuletzt gestellten Anträgen entsprechend - dazu verurteilt, "sämtliche in der Datenbank der Website www.jameda.de zu der Klägerin gespeicherte Daten - Name, Fachrichtung, Anschrift und Telefonnummer der Praxis sowie die zu der Klägerin abgegebenen Bewertungen - zu löschen" und "es zu unterlassen, jedwede Daten der Klägerin auf ihrer Webseite www.jameda.de zu verwenden und öffentlich zugänglich zu machen". Auf die Berufung der Beklagten hat das Oberlandesgericht das landgerichtliche Urteil abgeändert und die Klage hinsichtlich der Anträge 2e bis 2x voll und hinsichtlich des Antrags 2d teilweise abgewiesen; die vom Landgericht noch zugesprochenen außergerichtlichen Rechtsverfolgungskosten hat es unter Abweisung des weitergehenden Antrags entsprechend, nämlich von 923,38 € auf 415,96 €, reduziert. Die weitergehende Berufung hat das Berufungsgericht unter Anpassung des Tenors an die nunmehrige Fassung des Klageantrags 2 zurückgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Klägerin ihr Klagebegehren, soweit es abgewiesen worden ist, weiter. Im Übrigen ist das Berufungsurteil rechtskräftig.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht, dessen Urteil bei juris und unter BeckRS 2019, 28520 veröffentlicht ist, hat zur Begründung seiner Entscheidung im Wesentlichen ausgeführt, der Klägerin stehe der - neben dem Löschungsanspruch geltend gemachte - Anspruch auf Unterlassung der Verarbeitung ihrer Daten aus § 823 Abs. 2, § 1004 BGB analog in Verbindung mit Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO nur im von den Anträgen 2a, 2b, 2c und - teilweise - 2d erfassten Umfang zu. Denn die nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO vorzunehmende Abwägung ihrer Interessen mit denjenigen der Beklagten falle nur insoweit zu ihren Gunsten aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO sei im Streitfall anwendbar. Die Beklagte könne sich schon deshalb nicht auf das sogenannte Medienprivileg nach Art. 85 Abs. 2 DS-GVO in Verbindung mit Art. 38 BayDSG berufen, weil keine Datenverarbeitung zu "journalistischen Zwecken" im Sinne des Art. 38 BayDSG vorliege. Da sie als juristische Person über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten der Klägerin im Sinne von Art. 4 Nr. 1 DS-GVO entscheide, sei die Beklagte auch "Verantwortliche" im Sinne von Art. 4 Nr. 7 DS-GVO und damit für den streitgegenständlichen Unterlassungsanspruch passivlegitimiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Verarbeitung der personenbezogenen Daten der Klägerin durch die Beklagte genüge nur teilweise den Anforderungen des Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO. Nach dieser Vorschrift setze eine rechtmäßige Datenverarbeitung voraus, dass die Verarbeitung zur Wahrung der berechtigten Interessen der Beklagten und ihrer Nutzer erforderlich sei und die Interessen der Klägerin als betroffener Person nicht überwögen. Im Rahmen der damit gebotenen Einzelfallabwägung könne im Ausgangspunkt weiterhin von den Grundsätzen der zu § 29 BDSG a.F. ergangenen Entscheidung des Bundesgerichtshofs vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340) ausgegangen werden. Danach erfülle das von der Beklagten betriebene Ärztebewertungsportal eine von der Rechtsordnung gebilligte und gesellschaftlich erwünschte Funktion. Der Betreiber eines solchen Portals könne seine auf das Grundrecht der Meinungs- und Medienfreiheit gestützte Rechtsposition gegenüber den Betroffenen aber nur mit geringerem Gewicht geltend machen, soweit er seine Stellung als neutraler Informationsmittler nicht mehr wahre und seinen eigenen Kunden in Gewinnerzielungsabsicht verdeckte Vorteile verschaffe. Die einwilligungslose Speicherung und Verarbeitung personenbezogener Daten eines Betroffenen in Form von Basisdaten, Noten und Freitextkommentaren werde dann unzulässig. Ob die Beklagte mit der Darstellung personenbezogener Daten auf ihrer Plattform ihre grundsätzlich geschützte Position als neutrale Informationsmittlerin verlassen habe, sei aufgrund einer differenzierten Prüfung zu ermitteln. Erforderlich sei, dass Basiskunden auf dem Portal als "Werbeplattform" für Premium-Kunden benutzt würden und dass den Premium-Kunden dadurch ein Vorteil gewährt werde, der schließlich aus Sicht des durchschnittlichen Nutzers verdeckt, mithin für diesen nicht erkennbar, erfolge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich der von der Klägerin mit den Anträgen 2a, 2b und 2c bekämpften Darstellungen seien die zuletzt genannten Voraussetzungen erfüllt. Gleiches gelte hinsichtlich der im Antrag 2d angegriffenen Darstellung, soweit sich der auf dem Profil der Klägerin angebrachte Verweis auf Ärzte des gleichen Tätigkeitsbereichs, nämlich der Behandlungsgebiete "Zahnersatz, Zahnimplantate, Wurzelbehandlung", beziehe. Im Übrigen fehle es an den genannten Voraussetzungen; ein Unterlassungsanspruch stehe der Klägerin deshalb insoweit nicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>B.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision der Klägerin hat in der Sache keinen Erfolg. Das Berufungsgericht hat die mit dem Klageantrag 2d, soweit es diesen abgewiesen hat, und mit den Klageanträgen 2e bis 2x geltend gemachten Unterlassungsansprüche im Ergebnis zu Recht verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>I. Die Voraussetzungen des sich aus Art. 17 Abs. 1 DS-GVO (auch) ergebenden (vgl. Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 20, 23 [zur Auslistung]; BSGE 127, 181 Rn. 13) Unterlassungsanspruchs sind nicht erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Der zeitliche, sachliche und räumliche Anwendungsbereich der Datenschutz-Grundverordnung (vgl. hierzu etwa Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 11 ff.) ist eröffnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Der Anwendbarkeit des Art. 17 DS-GVO steht nicht Art. 38 Abs. 1 BayDSG in Verbindung mit Art. 85 Abs. 2 DS-GVO (sogenanntes "Medienprivileg") entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>a) Nach Art. 85 Abs. 2 DS-GVO sehen die Mitgliedstaaten für die Verarbeitung von Daten, die zu journalistischen Zwecken oder zu wissenschaftlichen, künstlerischen oder literarischen Zwecken erfolgt, Abweichungen oder Ausnahmen von den Kapiteln II bis VII und IX vor, wenn dies erforderlich ist, um das Recht auf Schutz der personenbezogenen Daten mit der Freiheit der Meinungsäußerung und der Informationsfreiheit in Einklang zu bringen. Die Vorschrift beinhaltet mithin eine Öffnungsklausel für den nationalen Gesetzgeber, dem insoweit ein weitreichender Spielraum eingeräumt wird (vgl. nur Gola DS-GVO/Pötters, 2. Aufl. 2018, DS-GVO Art. 85 Rn. 14, 16, mwN; ferner BVerfGE 152, 152 Rn. 39 - Recht auf Vergessen I; siehe auch Erwägungsgrund 153 zur DS-GVO). Mangels Gesetzgebungskompetenz des Bundes für das Medienrecht steht die sich daraus ergebende Befugnis in Deutschland grundsätzlich den Ländern zu (Art. 70 Abs. 1 GG). Der Freistaat Bayern, in dem die Beklagte ihren Sitz hat (vgl. zum örtlichen Anwendungsbereich des BayDSG: HK-BayDSG/Meinhard Schröder, 1. Aufl. 2021, BayDSG Art. 38 Rn. 15), hat von ihr - soweit für den Streitfall von Interesse - in Art. 38 BayDSG Gebrauch gemacht. Nach dieser Vorschrift stehen der betroffenen Person die Rechte nach Art. 17 DS-GVO nicht zu, wenn personenbezogene Daten zu - unter anderem - journalistischen Zwecken verarbeitet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Zutreffend ist das Berufungsgericht zum Ergebnis gelangt, dass die personenbezogenen Daten der Klägerin im Portal der Beklagten nicht zu journalistischen Zwecken im Sinne von Art. 38 Abs. 1 Satz 1 BayDSG verarbeitet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>aa) In seinen bisherigen, noch unter Geltung des alten Datenschutzrechts zu Bewertungsplattformen ergangenen Entscheidungen ist der erkennende Senat davon ausgegangen, das Medienprivileg nach § 57 Abs. 1 Satz 1 Rundfunkstaatsvertrag a.F. beziehungsweise § 41 Abs. 1 BDSG a.F. stehe einer uneingeschränkten Anwendung des Bundesdatenschutzgesetzes in der damaligen Fassung nicht entgegen, weil es an einer hinreichenden journalistisch-redaktionellen Bearbeitung der abgegebenen Bewertungen fehle (Senatsurteile vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 10 - Ärztebewertung III; vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242 Rn. 13 - Ärztebewertung II; vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328 Rn. 19 ff. - spickmich.de). Die bloße automatische Auflistung von redaktionellen Beiträgen stelle noch keine eigene journalistisch-redaktionelle Gestaltung des Portalbetreibers dar (Senatsurteil vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328 Rn. 21 - spickmich.de).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>bb) Entsprechendes gilt im Streitfall. Die Beklagte erfüllt in ihrem Bewertungsportal das für eine Datenverarbeitung zu journalistischen Zwecken im Sinne des Art. 38 Abs. 1 Satz 1 BayDSG erforderliche Maß an inhaltlicher Bearbeitung nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Freilich hat die Regelung des sogenannten Medienprivilegs - worauf die Revisionserwiderung zu Recht hinweist - sowohl auf unionsrechtlicher als auch auf nationaler Ebene im Zuge der Einführung der Datenschutz-Grundverordnung eine Änderung zumindest im Wortlaut erfahren. War nach Art. 9 der Richtlinie 95/46/EG (Datenschutz-RL) die Möglichkeit abweichender Regelungen auf die Verarbeitung personenbezogener Daten beschränkt, die <em>allein</em> zu journalistischen, künstlerischen oder literarischen Zwecken erhoben wurden, sieht der Wortlaut des Art. 85 Abs. 2 DS-GVO - anders als Erwägungsgrund Nr. 153 der DS-GVO - eine solche Beschränkung nicht mehr vor, sondern spricht allgemein von der zu journalistischen, wissenschaftlichen, künstlerischen oder literarischen Zwecken erfolgenden Verarbeitung. Auch § 41 BDSG a.F. beschränkte das Medienprivileg noch auf die Erhebung, Verarbeitung und Nutzung personenbezogener Daten <em>ausschließlich </em>zu eigenen journalistisch-redaktionellen oder literarischen Zwecken, wohingegen dem Wortlaut des Art. 38 BayDSG eine Beschränkung auf "ausschließlich" zu journalistischen, künstlerischen oder literarischen Zwecken verarbeitete Daten nicht mehr entnommen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Dennoch kann jedenfalls nicht davon ausgegangen werden, dass der bayerische Landesgesetzgeber in Art. 38 BayDSG das Medienprivileg in Bezug auf journalistische Tätigkeiten über den bisherigen Rahmen insoweit ausweiten wollte, als er auf das Erfordernis eines Mindestmaßes an eigener inhaltlicher Bearbeitung der bereitgestellten Informationen verzichten wollte. Dies folgt bereits daraus, dass ausweislich der Begründung des entsprechenden Gesetzentwurfs (vgl. LT-Drucks. 17/19628, 52) mit dieser Vorschrift die Situation unter dem bis zum Inkrafttreten der Datenschutz-Grundverordnung geltenden Medienprivileg aufrechterhalten und "Presse, Rundfunk sowie gleichgestellte Medien" auch weiterhin bei der Ausübung ihrer journalistisch-redaktionellen Tätigkeit privilegiert werden sollten (so auch BeckOK InfoMedienR/Söder, 33. Ed. 1.8.2021, BayDSG Art. 38 Rn. 3). Es sollte mithin die bisherige Rechtslage auch unter Geltung der Datenschutz-Grundverordnung fortgeschrieben werden. Konkrete Anhaltspunkte dafür, dass der bayerische Landesgesetzgeber das bisherige Medienprivileg - soweit unionsrechtlich überhaupt möglich - ausweiten und vom Erfordernis eines Mindestmaßes an inhaltlicher Bearbeitung lösen wollte, lassen sich der Begründung des Gesetzentwurfs hingegen nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Dem entspricht - ohne dass es hierauf entscheidend ankäme - im Übrigen, dass im Schrifttum zu Art. 85 Abs. 2 DS-GVO jedenfalls ganz überwiegend davon ausgegangen wird, dass eine journalistische Tätigkeit im Sinne dieser Vorschrift ein Mindestmaß an inhaltlicher Bearbeitung erfordert, das in bloßen Bewertungsportalen nicht erreicht wird (vgl. Kühling/Buchner/Buchner/Tinnefeld, 3. Aufl. 2020, DS-GVO Art. 85 Rn. 17a, 24 ff.; Dix in Simitis/Hornung/Spiecker gen. Döhmann, Datenschutzrecht, 1. Aufl., Art. 85 DS-GVO Rn. 15; Hennemann in: Specht/Mantz, Handbuch Europäisches und deutsches Datenschutzrecht, 2019, § 19 Rn. 34; Michel, ZUM 2018, 836, 840; Soppe, ZUM 2019, 467, 470; Specht/Bienemann in Sydow, Europäische Datenschutzgrundverordnung, 2. Aufl., Art. 85 Rn. 13; Zipfel, MMR 2020, 194).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Das danach für die Annahme journalistischer Tätigkeit im Sinne des Art. 38 BayDSG erforderliche Maß an inhaltlicher Bearbeitung erfüllt die Beklagte in ihrem Bewertungsportal auf der Grundlage der getroffenen Feststellungen nicht. Insbesondere genügt die technische Erfassung von bewertenden Drittbeiträgen, die automatisierte, wenn auch strukturierte, Zusammenstellung von Bewertungen Dritter und das Errechnen von Durchschnitts- und Gesamtnoten hierfür alleine nicht (vgl. Senatsurteil vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 10 - Ärztebewertung III). Anders als die Revisionserwiderung meint, liegt schließlich auch in der - im Einzelnen nicht weiter festgestellten - bloßen Missbrauchskontrolle der eingestellten Beiträge im Rahmen der von der Rechtsprechung geforderten Schutzmechanismen keine für die Annahme journalistischer Tätigkeit hinreichende inhaltliche Bearbeitung der Nutzerbeiträge. Weder hat das Berufungsgericht insoweit eine eigene meinungsbildende Tätigkeit (vgl. Michel, ZUM 2018, 836, 840; siehe weiter Senatsurteil vom 14. Januar 2020 - VI ZR 497/18, ZUM-RD 2020, 186 Rn. 48 ff. [zu www.yelp.de]) der Beklagten festgestellt, noch ergibt sich eine solche aus von der Revisionserwiderung als übergangen gerügtem Vortrag der Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der von der Revisionserwiderung in Bezug genommenen Auffassung der Beklagten handelt es sich bei der von der Klägerin angegriffenen Datenverarbeitung auch nicht deshalb um eine solche zu journalistischen Zwecken im Sinne von Art. 38 BayDSG in Verbindung mit Art. 85 Abs. 2 DS-GVO, weil der Betrieb des Portals der Beklagten der Verbreitung von Bewertungen der Nutzer dient und die einzelnen Bewertungen ihrerseits journalistischen Charakter im Sinne von Art. 38 BayDSG in Verbindung mit Art. 85 Abs. 2 DS-GVO hätten. Dabei kann nach Auffassung des erkennenden Senats schon nicht davon ausgegangen werden, dass der einfache Bewerter "journalistisch" im Sinne von Art. 38 BayDSG tätig ist. Zwar ist der Begriff weit auszulegen (vgl. BeckOK InfoMedienR/Söder, 33. Ed. 1.8.2021, BayDSG Art. 38 Rn. 7 ff.). Die bloße Bewertung eines persönlichen Behandlungskontakts im Einzelfall auf einer Bewertungsplattform im dort vorgegebenen Rahmen genügt hierfür aber grundsätzlich nicht (vgl. auch Begründung des Gesetzentwurfs der Staatsregierung für ein Bayerisches Datenschutzgesetz, wo von "Presse, Rundfunk und diesen gleich gestellte[n] Medien" die Rede ist, LT-Drucks. 17/19628, 52). Dem entspricht es, dass nach der Rechtsprechung des Gerichtshofs der Europäischen Union unter journalistischer Tätigkeit im Sinne von Art. 9 Datenschutz-RL zwar solche Tätigkeiten verstanden werden, die zum Zweck haben, Informationen, Meinungen und Ideen, mit welchem Übertragungsmittel auch immer, in der Öffentlichkeit zu verbreiten (EuGH, NJW 2019, 2451 Rn. 53 - Sergejs Buivids/Datu valsts inspekcija, mwN), und das Medienprivileg nicht nur Medienunternehmen erfasst, sondern jeden, der journalistisch tätig ist (EuGH, EuZW 2009, 108 Rn. 58 - Tietosuojavaltuutettu/Satakunnan Markkinapörssi Oy), hieraus aber nicht zu folgern ist, dass es sich beim Medienprivileg um ein allgemeines Meinungsprivileg handelt (Kühling/Buchner/Buchner/Tinnefeld, 3. Aufl. 2020, DS-GVO Art. 85 Rn. 17a) und deshalb jegliche Verbreitung von Meinungen in der Öffentlichkeit auch zu "journalistischen Zwecken" im Sinne der genannten Vorschrift erfolgt (vgl. BVerwG, ZUM-RD 2016, 206 Rn. 5; ferner EuGH, NJW 2019, 2451 Rn. 58 - Sergejs Buivids/Datu valsts inspekcija).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>3. Indes liegen die materiellen Voraussetzungen für einen Unterlassungsanspruch aus Art. 17 Abs. 1 DS-GVO nicht vor. Keiner der dort genannten Löschungs- beziehungsweise Unterlassungsgründe ist gegeben. Dies gilt insbesondere auch für die Löschungs- beziehungsweise Unterlassungsgründe des Art. 17 Abs. 1 Buchst. c DS-GVO und des Art. 17 Abs. 1 Buchst. d DS-GVO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Der Unterlassungsgrund des Art. 17 Abs. 1 Buchst. d DS-GVO liegt nicht vor, weil die von der Klägerin bekämpfte Datenverarbeitung nicht unrechtmäßig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>aa) Nach Art. 6 Abs. 1 Satz 1 DS-GVO ist die Verarbeitung personenbezogener Daten nur rechtmäßig, wenn mindestens eine der in Art. 6 Abs. 1 Satz 1 Buchst. a bis f DS-GVO genannten Bedingungen erfüllt ist. Im Streitfall hat die Klägerin weder in die Verarbeitung ihrer personenbezogenen Daten auf dem Portal der Beklagten eingewilligt (Buchst. a), noch sind die in Buchstaben b bis e genannten Voraussetzungen gegeben. Rechtmäßig ist die von der Klägerin bekämpfte Verarbeitung ihrer Daten auf dem Portal der Beklagten nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO mithin nur dann, wenn die Verarbeitung zur Wahrung der berechtigten Interessen der Beklagten oder eines Dritten erforderlich ist, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der Klägerin als betroffener Person, die den Schutz personenbezogener Daten erfordern, überwiegen. Die Datenverarbeitung ist danach unter drei kumulativen Voraussetzungen zulässig: erstens muss von der Beklagten oder von einem Dritten, hier also den Portalnutzern, ein berechtigtes Interesse wahrgenommen werden; zweitens muss die Verarbeitung der personenbezogenen Daten zur Verwirklichung des berechtigten Interesses erforderlich sein und drittens dürfen die Interessen oder Grundrechte und Grundfreiheiten der Klägerin (nachfolgend auch zusammenfassend als "Interessen" der Klägerin bezeichnet) nicht überwiegen (EuGH, GRUR 2021, 1067 Rn. 106 - Mircom/Telenet).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Voraussetzungen sind hinsichtlich der von den im Revisionsverfahren noch streitgegenständlichen Unterlassungsansprüchen erfassten Datenverarbeitung erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(1) Akademischer Grad, Name, Fachrichtung und Praxisanschrift der Klägerin stellen ebenso wie die die Klägerin betreffenden Bewertungen "personenbezogene Daten" im Sinne von Art. 4 Nr. 1 DS-GVO dar. Indem die Beklagte die Daten im Rahmen ihres Portalbetriebs erhebt, erfasst, ordnet, speichert und den Nutzern ihres Portals gegenüber offenlegt, "verarbeitet" sie diese Daten im Sinne von Art. 4 Nr. 2 DS-GVO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(2) Mit der vorbezeichneten Datenverarbeitung nimmt die Beklagte sowohl eigene berechtigte Interessen als auch berechtigte Interessen der Nutzer ihres Portals wahr.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(a) Mit dem von ihr betriebenen Bewertungsportal und der (möglichst) vollständigen Aufnahme aller Ärzte verschafft die Beklagte der ihr Portal nutzenden Öffentlichkeit zunächst einen geordneten Überblick darüber, von wem und wo welche ärztlichen Leistungen angeboten werden. Mit der Sammlung, Speicherung und Weitergabe der Bewertungen vermittelt sie der das Portal nutzenden Öffentlichkeit darüber hinaus einen Einblick in persönliche Erfahrungen und subjektive Einschätzungen von Patienten des jeweiligen Arztes, die der jeweilige Leser (im Folgenden "passiver Nutzer" im Gegensatz zum bewertenden "aktiven Nutzer") bei seiner eigenen Arztwahl berücksichtigen kann. Das Interesse der Beklagten an dem Betrieb des Portals fällt damit zunächst in den Schutzbereich von Art. 11 Abs. 1 der - hier maßgebenden (vgl. BVerfGE 152, 216 Rn. 33 ff. - Recht auf Vergessen II; ferner Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 25) - Charta der Grundrechte der Europäischen Union (GRCh), der schon nach seinem Wortlaut nicht nur die Äußerung der eigenen Meinung, sondern auch die Weitergabe fremder Meinungen und Informationen schützt. Darüber hinaus gehört der Portalbetrieb, mit dem die Beklagte eine von der Rechtsordnung grundsätzlich gebilligte und gesellschaftlich erwünschte Funktion erfüllt (vgl. Senatsurteile vom 14. Januar 2020 - VI ZR 497/18, ZUM-RD 2020, 186 Rn. 46 [zu www.yelp.de]; vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 15 - Ärztebewertung III; vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242 Rn. 39 f. - Ärztebewertung II; BGH, Urteil vom 19. März 2015 - I ZR 94/13, GRUR 2015, 1129 Rn. 37 - Hotelbewertungsportal), gerade auch in seiner Ausprägung als Geschäftsmodell zur von Art. 16 GRCh geschützten gewerblichen Tätigkeit der Beklagten. Schon aus diesen Gründen liegt der Betrieb des Portals im berechtigten Interesse der Beklagten; mit der damit verbundenen Verarbeitung der personenbezogenen Daten der Klägerin nimmt sie somit eigene berechtigte Interessen wahr.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(b) Berechtigte Nutzerinteressen nimmt die Beklagte mit dem Betrieb ihres Portals und der damit verbundenen Verarbeitung der personenbezogenen Daten (auch) der Klägerin insoweit wahr, als sie aktiven Nutzern dadurch die von Art. 11 Abs. 1 GRCh geschützte Abgabe und Verbreitung einer Meinung ermöglicht und passiven Nutzern die - ebenfalls von Art. 11 GRCh erfasste - Möglichkeit verschafft, davon Kenntnis zu nehmen (vgl. für Suchmaschinen BVerfGE 152, 216 Rn. 110 - Recht auf Vergessen II; ferner Senatsbeschluss vom 27. Juli 2020 - VI ZR 476/18, NJW 2020, 3444 Rn. 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(3) Auch ist die Verarbeitung der genannten personenbezogenen Daten der Klägerin zur Verwirklichung der berechtigten Interessen der Beklagten und ihrer Nutzer "erforderlich". Zwar ist diese Voraussetzung restriktiv auszulegen; Ausnahmen und Einschränkungen in Bezug auf den Schutz der personenbezogenen Daten müssen sich auf das absolut Notwendige beschränken (EuGH, GRUR 2021, 1067 Rn. 110 - Mircom/Telenet; zu Art. 7 Buchst. f Datenschutz-RL vgl. EuGH, DAR 2017, 698 Rn. 30 - Rigas satiksme, mwN; Schantz in Simitis/Hornung/Spiecker gen. Döhmann, Datenschutzrecht, 1. Aufl., Art. 6 DS-GVO Rn. 100). Vorliegend ist das Merkmal der Erforderlichkeit aber erfüllt. Für den Betrieb des Bewertungsportals ist die von der Beklagten vorgenommene Verarbeitung der personenbezogenen Daten der im Portal - möglichst vollständig - gelisteten Ärzte unabdingbar. Denn ohne deren hinreichende Identifizierbarkeit wäre ein solches Portal weder in der Lage, den Portalnutzern einen Überblick über die für sie und ihr Leiden infrage kommenden Ärzte zu verschaffen, noch, diese von den Nutzern des Portals bewerten zu lassen. Die sich auf Namen, akademische Grade, berufsbezogene Informationen und abgegebene Bewertungen beschränkende Darstellung auf den Basis-Profilen erfüllt diesen Zweck und geht über das insoweit unbedingt Notwendige nicht hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(4) Schließlich überwiegen hinsichtlich der im Revisionsverfahren noch streitgegenständlichen Verhaltensweisen der Beklagten die Interessen oder Grundrechte und Grundfreiheiten der Klägerin die von der Beklagten mit dem Portalbetrieb wahrgenommenen berechtigten Interessen nicht. Die insoweit erforderliche Abwägung der nach den konkreten Umständen des Einzelfalls einander gegenüberstehenden Rechte und Interessen (vgl. Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 24; EuGH, GRUR 2021, 1067 Rn. 111 - Mircom/Telenet; jeweils mwN) fällt nicht zugunsten der Klägerin aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(a) Der erkennende Senat hat sich mit dem von der Beklagten betriebenen Bewertungsportal bereits befasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(aa) In seinem Urteil vom 23. September 2014 (VI ZR 358/13, BGHZ 202, 242 - Ärztebewertung II) ist er auf der Grundlage des vor Inkrafttreten der Datenschutz-Grundverordnung geltenden Rechts zum Ergebnis gelangt, die durch den Portalbetrieb in der für das dortige Verfahren maßgeblichen Ausgestaltung beeinträchtigten berechtigten Interessen des dortigen Klägers - eines Arztes, der unabhängig von konkreten Bewertungen nicht im Portal der Beklagten geführt werden wollte - wögen nicht schwerer als das Recht der Beklagten auf Kommunikationsfreiheit (Senat, aaO Rn. 38 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Zwar sei - so der erkennende Senat - im Ausgangspunkt festzustellen, dass ein Arzt durch seine Aufnahme in das von der Beklagten betriebene Ärztebewertungsportal nicht nur unerheblich belastet werde (Senat aaO, Rn. 31). Denn insbesondere könnten die durch die Aufnahme in das Portal ermöglichten Bewertungen nicht nur ganz erhebliche Auswirkungen auf den sozialen und beruflichen Geltungsanspruch eines Arztes haben, sondern vielmehr die Arztwahl behandlungsbedürftiger Personen beeinflussen, sich dadurch unmittelbar auf den Wettbewerb mit anderen Ärzten auswirken und damit im Falle von negativen Bewertungen sogar seine berufliche Existenz gefährden (Senat aaO, Rn. 32). Auch die Breitenwirkung des Bewertungsportals der Beklagten sei erheblich (Senat aaO, Rn. 33). Schließlich sei nicht ausgeschlossen, dass das Portal der Beklagten dazu missbraucht werde, unwahre, beleidigende oder sonst unzulässige Aussagen bezüglich eines Arztes ins Netz zu stellen (Senat aaO, Rn. 34), auch wenn der jeweilige Arzt dem nicht schutzlos ausgeliefert sei (Senat aaO, Rn. 36). Freilich berührten die von der Beklagten erhobenen und gespeicherten Informationen den dortigen Kläger nur in seiner Sozialsphäre. Sie beträfen mit der beruflichen Tätigkeit des Arztes einen Bereich, in dem sich die persönliche Entfaltung von vornherein im Kontakt mit der Umwelt vollziehe (Senat aaO, Rn. 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Auf der anderen Seite stehe aber das ganz erhebliche Interesse, das die Öffentlichkeit an Informationen über ärztliche Dienstleistungen habe. Das Portal der Beklagten könne dazu beitragen, dem Patienten bei der Ausübung der Arztwahl die aus seiner Sicht erforderlichen Informationen zur Verfügung zu stellen, und sei grundsätzlich geeignet, zu mehr Leistungstransparenz im Gesundheitswesen beizutragen (Senat aaO, Rn. 39 ff.). Diesen Zweck könne es allenfalls noch eingeschränkt erfüllen, wenn es von der Zustimmung der bewerteten Ärzte abhängig wäre, die - etwa im Falle einer schwächeren Bewertung - zurückgenommen werden könnte (Senat aaO, Rn. 42).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(bb) Diese Erwägungen hat der erkennende Senat im Urteil vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340 Rn. 11 ff. - Ärztebewertung III) - ebenfalls auf der Grundlage der vor Inkrafttreten der Datenschutz-Grundverordnung geltenden Rechtslage - bestätigt, zugleich aber darauf hingewiesen, im dem Senatsurteil vom 23. September 2014 zugrundeliegenden Fall sei die beklagte Betreiberin des Bewertungsportals neutrale Informationsmittlerin gewesen. Denn nach den dort maßgeblichen Feststellungen habe sich das Bewertungsportal der Beklagten darauf beschränkt, in Profilen die "Basisdaten" des einzelnen Arztes zusammen mit von Patienten beziehungsweise anderen Internetnutzern vergebenen Noten oder verfassten Freitextkommentaren zu veröffentlichen (Senat aaO, Rn. 16). Der nun zu entscheidende Fall liege - so der Senat (aaO, Rn. 17 ff.) in dieser Entscheidung - anders. Hier wahre die Beklagte ihre Stellung als neutrale Informationsmittlerin nicht. Denn während sie bei dem nichtzahlenden Arzt dem ein Arztprofil aufsuchenden Internetnutzer die "Basisdaten" nebst Bewertungen des betreffenden Arztes anzeige und ihm mittels des eingeblendeten Querbalkens "Anzeige" Informationen zu örtlich konkurrierenden Ärzten biete, lasse sie auf dem Profil ihres zahlenden "Premium-Kunden" - ohne dies dort dem Internetnutzer hinreichend offenzulegen - solche über die örtliche Konkurrenz unterrichtenden werbenden Hinweise nicht zu. Nehme sich die Beklagte aber in dieser Weise zugunsten ihres Werbeangebots in ihrer Rolle als neutrale Informationsmittlerin zurück, dann könne sie ihre auf das Grundrecht der Meinungs- und Medienfreiheit (Art. 5 Abs. 1 Satz 1 GG, Art. 10 EMRK) gestützte Rechtsposition gegenüber dem Recht der (dortigen) Klägerin auf Schutz ihrer personenbezogenen Daten (Recht auf informationelle Selbstbestimmung, Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG, Art. 8 EMRK) auch nur mit geringerem Gewicht geltend machen. Dies führe bei nochmaliger Würdigung der - insbesondere im Senatsurteil vom 23. September 2014 angeführten - Belange der Beklagten hier zu einem Überwiegen der Grundrechtspositionen der klagenden Ärztin, so dass ihr ein "schutzwürdiges Interesse an dem Ausschluss der Speicherung" ihrer Daten (§ 29 Abs. 1 Satz 1 Nr. 1 BDSG a.F.) zuzubilligen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(b) Diese Erwägungen sind im Ausgangspunkt auf den Streitfall übertragbar. Anders als die Revision meint, steht dem nicht entgegen, dass nach § 29 Abs. 1 Satz 1 Nr. 2 BDSG a.F. nur ein "offensichtliches" Überwiegen der schutzwürdigen Interessen des Betroffenen zum Ausschluss der Rechtmäßigkeit der Datenverarbeitung führte, wohingegen nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO hierfür schon ein einfaches Überwiegen ausreicht; denn der erkennende Senat hat in den vorgenannten Entscheidungen den anzulegenden Prüfungsmaßstab - worauf die Revisionserwiderung zu Recht hinweist - nicht § 29 Abs. 1 Satz 1 Nr. 2 BDSG a.F., sondern § 29 Abs. 1 Satz 1 Nr. 1 BDSG a.F. entnommen (vgl. Senatsurteile vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 12 - Ärztebewertung III; vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242 Rn. 23 - Ärztebewertung II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Auch im Rahmen der nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO vorzunehmenden Abwägung sind damit zugunsten der Klägerin außer deren Recht auf Schutz ihrer personenbezogenen Daten gemäß Art. 8 GRCh die dargestellten, nicht unerheblichen Gefahren für ihren sozialen und beruflichen Geltungsanspruch (Art. 7 GRCh) sowie den wirtschaftlichen Erfolg ihrer selbständigen Tätigkeit (Art. 16 GRCh) zu berücksichtigen, die ihre Aufnahme in das von der Beklagten betriebene Portal und die damit verbundene Verarbeitung ihrer - in Bezug auf die sogenannten "Basisdaten" allerdings nicht sonderlich "sensiblen" - personenbezogenen Daten mit sich bringen kann. Auf der anderen Seite steht auch hier - neben dem ebenfalls geschützten Eigeninteresse der Beklagten am Betrieb ihres Portals - unter anderem das ganz erhebliche Interesse, das die Öffentlichkeit an den im Portal der Beklagten angebotenen Informationen und Möglichkeiten hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Schließlich ist bei der Abwägung auch zu berücksichtigen, inwieweit die Beklagte im Portalbetrieb als "neutrale Informationsmittlerin" agiert. Verlässt sie diese Stellung, kann sich dies zu ihrem Nachteil auswirken. Ein strenges Gleichbehandlungsgebot mit der Folge, dass eine Ungleichbehandlung von nichtzahlenden und zahlenden Ärzten stets zur Unzulässigkeit der Datenverarbeitung im Rahmen des Portalbetriebs führt, lässt sich daraus aber nicht ableiten (anders Franz, AfP 2020, 67, 69; wohl auch Büscher, GRUR 2017, 433, 439); ein solcher Automatismus ließe sich schon mit der nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO gebotenen Abwägung unter Berücksichtigung der konkreten Umstände des jeweiligen Einzelfalls (vgl. EuGH, GRUR 2021, 1067 Rn. 111 - Mircom/Telenet) nicht vereinbaren. Anderes ergibt sich auch nicht aus der höchstrichterlichen Rechtsprechung zu Warentests (vgl. etwa Senatsurteil vom 17. Juni 1997 - VI ZR 114/96, NJW 1997, 2593, 2594, juris Rn. 10). Mit der Funktion der Veranstalter von Warentests, die eine eigene Bewertung vornehmen, ist die Funktion der Beklagten, die sich einer eigenen Bewertung enthält, nicht vergleichbar (vgl. Senatsurteil vom 14. Januar 2020 - VI ZR 497/18, ZUM-RD 2020, 186 Rn. 51 [zu www.yelp.de]). Demgegenüber ist hier maßgeblich, welche konkreten Vorteile die Beklagte zahlenden gegenüber nichtzahlenden Ärzten gewährt und ob die sich daraus ergebende Ungleichbehandlung in einer Gesamtschau mit allen anderen Umständen des konkreten Einzelfalls dazu führt, dass die Interessen des gegen seinen Willen in das Portal aufgenommenen Arztes die berechtigten Interessen der beklagten Portalbetreiberin und vor allem der Portalnutzer überwiegen. Dies ist etwa dann der Fall, wenn die Beklagte als Betreiberin des Portals (nur) die Basis-Profile nichtzahlender Ärzte als Werbeplattform für unmittelbar konkurrierende zahlende Ärzte nutzt, um potentielle Patienten von den nichtzahlenden zu den zahlenden Ärzten zu lenken und dadurch nur mit ihren Basisdaten aufgenommene Ärzte gezielt dazu zu bewegen, sich der Gruppe der zahlenden Ärzte anzuschließen (vgl. Senatsurteil vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 18 - Ärztebewertung III). Die Aufnahme des nichtzahlenden Arztes in das Portal gereicht diesem dann nämlich bereits unabhängig von dem mit der Verarbeitung seiner personenbezogenen Daten verbundenen Eingriff in seine Rechte aus Art. 7 GRCh als solchem und der - von ihm grundsätzlich hinzunehmenden - Gefahr negativer Bewertungen zum Nachteil. Denn seine personenbezogenen Daten werden in diesem Fall gleichsam als "Köder" dafür missbraucht, ihm potentielle Patienten, die sich für ihn und sein Profil interessieren, zu entziehen und konkurrierenden, aber zahlenden Ärzten zuzuführen, wohingegen dies umgekehrt nicht der Fall ist; dies haben nichtzahlende Ärzte grundsätzlich nicht hinzunehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Anderes muss im Grundsatz aber dann gelten, wenn dem ohne seine Einwilligung im Portal der Beklagten geführten Arzt durch die konkrete Gestaltung des Bewertungsportals kein Nachteil droht, der über die Verarbeitung seiner für den Portalbetrieb erforderlichen personenbezogenen Daten (Name, akademische Grade, Fachrichtung, Praxisanschrift, weitere Kontaktdaten und Sprechzeiten) als solche und die mit der Bewertungsmöglichkeit verbundenen, von jedem Arzt grundsätzlich hinzunehmenden Gefahren nicht nur unerheblich hinausgeht. Dies ist insbesondere dann der Fall, wenn der nichtzahlende Arzt durch seine Aufnahme in das Bewertungsportal - von dem mit der Verarbeitung seiner personenbezogenen Daten stets verbundenen Eingriff in seine Rechte aus Art. 7 GRCh und den mit der Bewertungsmöglichkeit einhergehenden Beeinträchtigungen abgesehen - nicht entscheidend schlechter steht, als er ohne seine Aufnahme in das Portal stünde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(c) Bei Anwendung dieser Grundsätze sind die von der Klägerin im Revisionsverfahren mit den Anträgen 2d bis 2x noch bekämpften Verhaltensweisen der Beklagten zulässig. Im Einzelnen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(aa) Soweit Gegenstand des Revisionsverfahrens, begehrt die Klägerin mit Klageantrag 2d die Veröffentlichung eines sie betreffenden (Basis-)Profils zu unterlassen, wenn sich auf ihrem Profil anders als auf dem Profil zahlender Ärzte ein Verweis auf eine Liste mit Ärzten für spezielle Behandlungsgebiete befindet, auch wenn es sich dabei um andere Behandlungsgebiete als diejenigen der Klägerin handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Der Antrag ist nicht begründet. Die von der Klägerin damit bekämpfte Art ihrer Darstellung auf ihrem Profil führt nicht dazu, dass ihre Interessen am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten im Portal der Beklagten diejenigen der Beklagten und deren Nutzer am Portalbetrieb und der damit verbundenen Nutzung dieser Daten überwiegen. Zwar wird die Klägerin insoweit gegenüber zahlenden Ärzten benachteiligt, als letztere von einem entsprechenden Verweis "verschont" bleiben; eine solche Ungleichbehandlung allein reicht für die Annahme eines überwiegenden Interesses der Klägerin am Unterbleiben der dargestellten Nutzung ihrer personenbezogenen Daten aber - wie gezeigt - nicht aus. Eine besondere Belastung der Klägerin ist mit dieser Ungleichbehandlung von Inhabern von Basis-Profilen einerseits und (zahlenden) Premium-Kunden der Beklagten andererseits nicht verbunden. Sie lässt schon ihrer Art nach keine Rückschlüsse auf die Qualität der vom jeweiligen Arzt angebotenen Leistungen - auch nicht im Vergleich zu zahlenden Ärzten ohne Verweis - zu. Auch laufen die Inhaber eines Basis-Profils durch diese Gestaltung offensichtlich nicht Gefahr, potentielle, sich im Ausgangspunkt - jedenfalls auch - für sie interessierende Patienten an die in den auf ihrem Profil verlinkten Listen aufgeführten Ärzte aus gänzlich anderen Fachbereichen (hier: Brustvergrößerungen und Haartransplantationen) zu verlieren. Damit ist nicht erkennbar, dass das von der Klägerin hier gerügte Gestaltungselement für die Klägerin zu relevanten Belastungen führt, die über die mit dem Betrieb eines Ärztebewertungsportals zwingend verbundenen und von der Klägerin wie gezeigt grundsätzlich hinzunehmenden Beeinträchtigungen (Verarbeitung der dargestellten personenbezogenen Daten, Bewertungsgefahren) hinausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(bb) Auf der Grundlage der obigen Erwägungen im Ergebnis zu Recht hat das Berufungsgericht auch die von der Klägerin mit den Anträgen 2e und 2f bekämpften Verhaltensweisen für zulässig erachtet. Auch die Aufnahme eines Links auf eine Liste mit Ärzten für spezielle Behandlungsgebiete, die zwar auch nichtzahlende Ärzte enthält, auf der zahlende Ärzte aber besonders herausgestellt werden, beeinträchtigt die Interessen der Klägerin nicht in einem Maße, das im Rahmen der erforderlichen Gesamtabwägung dazu führt, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten die berechtigten Interessen der Beklagten und ihrer Nutzer an der streitgegenständlichen Datenverarbeitung überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Bereits aus dem Wortlaut der Anträge 2e und 2f, die auf den in anderen Anträgen enthaltenen Zusatz "während auf den Profilen zahlender Ärzte ein solcher Verweis unterbleibt" verzichten, ergibt sich, dass sich die Klägerin insoweit anders als bei Antrag 2d nicht dagegen wendet, dass nur die Basis-Profile, nicht aber die Premium-Profile zahlender Ärzte einen entsprechenden Link enthielten; sie begehrt die Unterlassung der Veröffentlichung "ihres" mit dem Link versehenen Profils mit diesen Anträgen vielmehr unabhängig von der Gestaltung der Premium-Profile. Die zur Unzulässigkeit der Veröffentlichung ihres Profils führende Ungleichbehandlung will sie hier allein daraus ableiten, dass zahlende Ärzte (erst) auf der verlinkten Liste - vor allem durch Platzierung (Antrag 2e) und/oder Bild (Antrag 2f) - besonders hervorgehoben werden. Für diese Auslegung spricht auch der Umstand, dass die Anträge jedenfalls als - wie von der Klägerin gestellt - gleichrangige Hauptanträge neben dem Antrag 2d ansonsten keinen Sinn ergäben. Der von der Klägerin damit angesprochene Gesichtspunkt beeinträchtigt sie auf der Grundlage der vom Berufungsgericht insoweit getroffenen Feststellungen letztlich aber ebenfalls nicht in einem Umfang, der die Interessen der Klägerin in der erforderlichen Gesamtabwägung zulasten der berechtigten Interessen der Beklagten und ihrer Nutzer an der Veröffentlichung des Profils der Klägerin und der damit verbundenen Verarbeitung ihrer personenbezogenen Daten überwiegen lässt. Zwar wird das Profil der Klägerin über den dort angebrachten Link insoweit als Ausgangspunkt zu einer Seite mit Werbung für andere Ärzte aus demselben Fachgebiet genutzt. Anders als in der der Senatsentscheidung vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340 - Ärztebewertung III) zugrundeliegenden Fallkonstellation wird die Werbung allerdings weder direkt in das (Basis-) Profil der Klägerin eingebunden, noch werden nichtzahlende Inhaber eines Basis-Profils bei der von der Klägerin mit diesen Anträgen bekämpften Gestaltung - wie dargelegt - dadurch benachteiligt, dass eine entsprechende Verlinkung auf den Profilen der (zahlenden) Premium-Kunden unterbleibt und dadurch der Eindruck entstehen könnte, diese hätten keine Konkurrenten (vgl. Senatsurteil vom 20. Februar 2018 - VI ZR 30/17, BGHZ 217, 340 Rn. 18 - Ärztebewertung III). Zudem ist der Umstand, dass es sich bei den auf den verlinkten Listen durch Platzierung oder/und Bild besonders hervorgehobenen Ärzten um zahlende Premium-Kunden handelt, für den Nutzer schon durch deren farbliche Absetzung und das Wort "Anzeige" in der rechten oberen Ecke ohne weiteres erkennbar. Dass über die sogenannte "Mouse-Over-Funktion" über dem Wort "Anzeige" nochmals ausdrücklich darauf hingewiesen wird, dass es sich bei der Anzeige um einen Teil des kostenpflichtigen Platin-Pakets handelt und sie in keinem Zusammenhang mit abgegebenen Bewertungen steht, kommt hinzu. Schließlich ist hinsichtlich des mit Antrag 2e geltend gemachten Unterlassungsanspruchs zu berücksichtigen, dass es sich bei den durch ihre Platzierung am Beginn der Liste hervorgehobenen Ärzten nach den vom Berufungsgericht getroffenen, von der Revision nicht angegriffenen Feststellungen nicht um in unmittelbarer örtlicher Nähe zur Klägerin praktizierende Ärzte handelt, diese also nicht in einem unmittelbaren Konkurrenzverhältnis zur Klägerin stehen. Damit kann letztlich auch bezüglich der von der Klägerin mit diesen Anträgen bekämpften Gestaltungselemente nicht davon ausgegangen werden, dass sie nicht unerheblich über die mit dem Betrieb eines Bewertungsportals notwendigerweise verbundenen Beeinträchtigungen hinausgehende Belastungen für die Klägerin mit sich bringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(cc) Zu Recht für unbegründet erachtet hat das Berufungsgericht auch Klageantrag 2g. Die von der Klägerin damit bekämpfte, insoweit von der Gestaltung der Profile zahlender Ärzte abweichende Gestaltung "ihres" Basis-Profils, nämlich die Einblendung der Werbung von Drittunternehmen, belastet die Klägerin nur unerheblich. Zwar behandelt die Beklagte auch insoweit nichtzahlende Ärzte schlechter als zahlende Premium-Kunden. Dies allein macht - wie dargelegt - die Verarbeitung der personenbezogenen Daten nichtzahlender Ärzte auf dem Portal der Beklagten aber nicht unzulässig. Besondere Nachteile sind mit der Einblendung der Werbung für Drittunternehmen für die Klägerin nicht verbunden. Weder sind die - als solche erkennbaren - Werbeeinblendungen, hier für ein Lottounternehmen, einen Reiseveranstalter, eine Automarke, einen Domain-Vertrieb, Geldanlagen und den Handel mit Kryptowährungen, geeignet, das Ansehen der Klägerin in fachlicher oder persönlicher Hinsicht zu beeinträchtigen. Noch besteht die Gefahr, dass potentielle Patienten durch die Werbeeinblendungen von der Klägerin weg, hin zu konkurrierenden (zahlenden) Ärzten gelenkt werden. Schließlich nehmen die Einblendungen auch keinen Umfang ein, der die Bewertungen der Klägerin völlig in den Hintergrund treten ließe. Auch die von der Klägerin insoweit angegriffene Gestaltung führt mithin zu keiner weitergehenden, nicht nur unerheblichen Belastung für die Klägerin und damit auch nicht dazu, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer Daten auf dem Portal der Beklagten die berechtigten Interessen der Beklagten und der Portalnutzer überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(dd) Im Ergebnis zutreffend hält das Berufungsgericht die Verarbeitung der personenbezogenen Daten der Klägerin durch die Beklagte im von dieser betriebenen Bewertungsportal auch dann nicht für unzulässig, wenn zahlenden Ärzten in größerem Umfang als der (nichtzahlenden) Klägerin die Möglichkeit eingeräumt wird, auf ihrem Profil von ihnen angebotene Leistungen anzugeben (vgl. Antrag 2h). Auch dieser Umstand führt im Rahmen der erforderlichen Gesamtabwägung nicht dazu, dass die Interessen der Klägerin am Unterbleiben der im Streit stehenden Verarbeitung ihrer personenbezogenen Daten die Interessen der Beklagten und ihrer Nutzer an dieser Datenverarbeitung überwiegen. Auch den Klageantrag 2h hat das Berufungsgericht damit zu Recht abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Da - wie ausgeführt - im Hinblick auf Premium-Profile einerseits und Basis-Profile andererseits kein allgemeines Gleichbehandlungsgebot besteht, überwiegen die Interessen der Klägerin die berechtigten Interessen der Beklagten und der Portalnutzer nicht schon aufgrund der unterschiedlichen Ausgestaltung der Profile als solcher. Auch sind die mit diesem Antrag konkret in Bezug genommenen Nachteile eines Basis-Profils gegenüber einem Premium-Profil nicht so gewichtig, dass sie im Rahmen der vorzunehmenden Gesamtwürdigung zu einem Überwiegen der Interessen der Klägerin führen könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Hierbei ist zunächst zu berücksichtigen, dass die unterschiedlichen Möglichkeiten, die eigenen angebotenen Leistungen anzugeben, nicht dazu führen können, dass das Profil der Klägerin besuchende Portalnutzer auf die Profile von "Premium-Konkurrenten" der Klägerin geleitet werden; denn auf den Basis-Profilen findet sich nach den Feststellungen des Berufungsgerichts kein Hinweis auf die umfangreicheren Leistungsbeschreibungen auf Premium-Profilen. Anders als im mit Senatsurteil vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340 - Ärztebewertung III) entschiedenen Fall werden mit der mit Klageantrag 2h bekämpften Gestaltung die Basis-Profile nichtzahlender Ärzte damit nicht als Werbeplattform für zahlende Ärzte genutzt oder gar als "Köder" zugunsten zahlender Ärzte missbraucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Weiter ist im Rahmen der vorzunehmenden Gesamtabwägung zu berücksichtigen, dass nach den vom Berufungsgericht getroffenen Feststellungen auch Inhaber von Basis-Profilen die Möglichkeit haben, auf ihrem Profil in einem bestimmten, freilich geringeren Umfang als Premium-Kunden Angaben zu ihrem Leistungsspektrum zu machen, was lediglich eine (kostenlose) Registrierung vor-aussetzt. Bereits vor diesem Hintergrund ist auch der vom Berufungsgericht festgestellte Hinweis auf dem Basis-Profil der Klägerin</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>"Noch keine Leistungen von Dr. L</em>[Nachname der Klägerin]<em> hinterlegt. Sind Sie Dr. L</em>[Nachname der Klägerin]<em>? Hinterlegen Sie jetzt ihre Leistungsübersicht."</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>nicht irreführend und schon deshalb für das Ergebnis der Abwägung ohne Bedeutung. Denn die Klägerin hat von einer ihr kostenlos zur Verfügung stehenden Möglichkeit bislang in der Tat keinen Gebrauch gemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Damit bleibt der Umstand übrig, dass ein potentieller Patient, wenn er die Profile von miteinander konkurrierenden zahlenden und nichtzahlenden Ärzten vergleicht, zunächst zum Ergebnis gelangen könnte, die Premium-Kunden der Beklagten seien fachlich breiter aufgestellt, weil die auf ihren Profilen dargestellten Leistungsübersichten ausführlicher als diejenigen auf den Basis-Profilen sind. Dass die unterschiedlichen Darstellungen dem käuflichen Erwerb zusätzlicher Darstellungsmöglichkeiten geschuldet sind, wird für den durchschnittlichen passiven Nutzer aber jedenfalls dadurch erkennbar, dass die Premium-Profile als solche gekennzeichnet sind und im Rahmen der "Mouse-Over-Funktion" näher erklärt wird, was sich dahinter verbirgt. Zwar mag es nun gewiss möglich sein, diesen Hinweis noch deutlicher, insbesondere permanent und unabhängig von der "Mouse-Over-Funktion" auf den Profilen der Premium-Kunden zu verankern; dieser Umstand reicht in der vorzunehmenden Gesamtabwägung aber nicht aus, bei der hier angegriffenen Gestaltung des Portals davon auszugehen, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten im Portal der Beklagten diejenigen der Beklagten und ihrer Nutzer am Betrieb des Portals und an der dafür erforderlichen Verarbeitung der personenbezogenen Daten der Klägerin überwiegen. Denn dass sich auf einer Internetseite hinter einer für sich allein gesehen noch nicht besonders aussagekräftigen Kennzeichnung gegebenenfalls weitere Informationen finden lassen, die durch Anklicken oder aber im Wege der "Mouse-Over-Funktion" sichtbar gemacht werden können, liegt für den durchschnittlichen Internetnutzer ohne Weiteres auf der Hand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Letztlich führt auch das von der Klägerin mit diesem Antrag bekämpfte Gestaltungselement für die Klägerin damit nicht zu Belastungen, die über die mit dem Betrieb eines Bewertungsportals stets verbundenen Beeinträchtigungen nicht nur unerheblich hinausgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(ee) Zu Recht für unbegründet erachtet hat das Berufungsgericht auch den Klageantrag 2i. Die von der Klägerin mit diesem Antrag bekämpfte Gestaltung des Portals, nach der nur auf den Premium-Profilen zahlender Ärzte ein Portraitbild des jeweiligen Arztes hinterlegt werden kann, nicht aber auf den Basis-Profilen nichtzahlender Ärzte, führt im Rahmen der nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO vorzunehmenden Gesamtabwägung nicht dazu, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung der sie betreffenden personenbezogenen Daten die Interessen der Beklagten und ihrer Nutzer am Portalbetrieb und der damit zusammenhängenden Datenverarbeitung überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Auch insoweit ist festzuhalten, dass der bloße Umstand, dass zahlende Ärzte bei der Gestaltung ihres Profils gegenüber der nichtzahlenden Klägerin Vorteile genießen, nicht zu einem Überwiegen der Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten führt. Auch ist das auf den Basis-Profilen fehlende Portraitbild nicht geeignet, einen das Profil des betreffenden Arztes "besuchenden" potentiellen Patienten auf das Profil eines mit diesem konkurrierenden, aber zahlenden Arztes zu leiten. Den diesbezüglichen Unterschied in der Profilgestaltung wird der potentielle Patient erst bemerken, wenn er das Profil eines Premium-Kunden der Beklagten mit demjenigen eines nichtzahlenden Arztes vergleicht. Die sich daraus für den nichtzahlenden Arzt, hier also die Klägerin, ergebende Belastung ist nicht besonders schwerwiegend. Das Fehlen eines Bildes auf dem Basis-Profil lässt schon im Ausgangspunkt keinen Schluss darauf zu, der betreffende Arzt sei weniger qualifiziert als der Inhaber eines Premium-Profils mit Bild. Auch lässt sich der Grund für die unterschiedliche Bebilderung der Profile mittels der dargestellten "Mouse-Over-Funktion" dem Premium-Profil hinreichend deutlich entnehmen. Die "Gefahr", dass sich potentielle Patienten bei einem Vergleich der beiden Profile angesichts des nur auf dem Premium-Profil vorhandenen Bildes eher für eine Behandlung durch den Inhaber eines Premium-Profils entscheiden, erscheint dem erkennenden Senat im Übrigen sehr gering; denn im Vordergrund des Interesses passiver Nutzer stehen schon nach der Konzeption des Portals der Beklagten regelmäßig die jeweiligen, von der Art des Profils unabhängigen Patientenbewertungen, insbesondere die Noten. Mithin entfaltet auch das von der Klägerin mit Antrag 2i gerügte Gestaltungselement keine eigenständige, den auf einem Basis-Profil gelisteten Arzt nicht nur unerheblich beeinträchtigende Wirkung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Soweit das Berufungsgericht den Umstand in den Blick genommen hat, dass der Text auf dem Schattenriss der Basis-Profile</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>"Dieser Arzt hat leider noch kein Portrait hinterlegt"</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>möglicherweise einen negativen Schluss auf die technischen Fähigkeiten beziehungsweise das persönliche Engagement zulassen könnte, hat es in der Sache - ohne dass sich die Revision dagegen wendet - zutreffend erkannt, dass sich die Klägerin mit ihrem Antrag überhaupt nicht gegen diesen Text, sondern allein gegen die ihr anders als zahlenden Ärzten verwehrte Möglichkeit wendet, ein eigenes Profilbild einzustellen. Dessen ungeachtet liegt der vom Berufungsgericht in den Blick genommene Schluss auch fern; der entsprechenden Gefahr käme im Rahmen der Abwägung kein zu einem anderen Abwägungsergebnis führendes Gewicht zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(ff) Nichts Anderes gilt, soweit sich die Klägerin mit Klageantrag 2j gegen die Verarbeitung ihrer personenbezogenen Daten durch die Beklagte wendet, wenn zahlenden Ärzten anders als der Klägerin als nichtzahlender Ärztin die Möglichkeit eingeräumt wird, auf ihrem Profil individuelle Inhalte und Bilder zu präsentieren. Auch der darin liegenden Ungleichbehandlung der Klägerin gegenüber zahlenden Ärzten kommt kein Gewicht zu, das dazu führte, dass in der Gesamtabwägung die Interessen der Klägerin am Unterbleiben der streitgegenständlichen Datenverarbeitung die berechtigten Interessen der Beklagten und ihrer Nutzer überwiegen. Auch hier ist insbesondere in den Blick zu nehmen, dass das Basis-Profil der Klägerin durch die von ihr insoweit beanstandete Gestaltung anders als im dem Senatsurteil vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340 - Ärztebewertung III) zugrundeliegenden Fall nicht als Werbeplattform oder "Köder" für konkurrierende Ärzte missbraucht wird, sondern die weitergehende Informationsmöglichkeit auf den Premium-Profilen erst zum Tragen kommt, wenn ein potentieller Patient von sich aus das Basis-Profil der Klägerin mit Premium-Profilen zahlender Ärzte vergleicht. Zwar mag der potentielle Patient - anders als aus dem Fehlen beziehungsweise Vorhandensein eines Portraitbildes (vgl. zuvor unter (ee)) - bei flüchtigem Blick aus dem unterschiedlichen Informationsgehalt der Seiten Rückschlüsse auf Unterschiede in der fachlichen Qualifikation der jeweiligen Ärzte ziehen. Bei genauerem Hinsehen ist für ihn allerdings auch hier über die "Mouse-Over-Funktion" erkennbar, worauf die unterschiedliche Informationsmenge und -tiefe auf Basis-Profilen einerseits und Premium-Profilen andererseits beruhen (kann). Schließlich gilt auch hier, dass der durchschnittliche passive Nutzer des Ärztebewertungsportals der Beklagten Vergleiche mehrerer Ärzte typischerweise in erster Linie anhand der jeweils vorhandenen Bewertungen vornehmen wird, hinsichtlich derer die zahlenden Ärzte gerade nicht bevorzugt werden. Im Ergebnis entfaltet damit auch dieses Gestaltungselement keine erhebliche eigenständige Beeinträchtigung der Klägerin, so dass auch unter seiner Berücksichtigung die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten nicht überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gilt, soweit sich die Klägerin mit den Klageanträgen 2l, 2m und 2n gegen eine Verarbeitung ihrer personenbezogenen Daten auf dem Portal der Beklagten wendet, wenn die Beklagte zahlenden Ärzten anders als der Klägerin die Möglichkeit einräumt, auf ihren (Premium-) Profilen Fachartikel zu veröffentlichen (Antrag 2l), dort ein Video einzustellen (Antrag 2m) oder sich interviewen zu lassen und das Interview auf ihren Profilen einzustellen (Antrag 2n).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(gg) Eine im Rahmen der vorzunehmenden Gesamtabwägung zum Überwiegen des Interesses der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten im Portal der Beklagten führende Beeinträchtigung folgt auch nicht daraus, dass - was die Klägerin im Rahmen des Klageantrags 2k rügt - nur zahlende Kunden der Beklagten die Möglichkeit haben, auf ihrem (Premium-) Profil die eigene Praxishomepage anzugeben und zu verlinken, wohingegen nichtzahlenden Ärzten diese Option auf den Basis-Profilen nicht zusteht. Die sich daraus ergebende Belastung nichtzahlender Ärzte ist gering. Sie beschränkt sich darauf, dass potentielle Patienten nichtzahlender Ärzte die Praxishomepage, wenn überhaupt vorhanden, erst mit Hilfe einer Internet-Suchmaschine recherchieren müssen, wohingegen dieser Zwischenschritt bei zahlenden Ärzten entfällt. Auch dadurch wird - anders als im dem Senatsurteil vom 20. Februar 2018 (VI ZR 30/17, BGHZ 217, 340 - Ärztebewertung III) zugrundeliegenden Fall - weder das Basis-Profil der Klägerin als Werbeplattform für deren Konkurrenten, geschweige denn als "Köder" zugunsten zahlender Ärzte genutzt, noch entfaltet dieses Gestaltungselement in sonstiger Weise eine eigenständige erhebliche Beeinträchtigung für die Klägerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>(hh) Ohne entscheidungserheblichen Rechtsfehler hat das Berufungsgericht auch Klageantrag 2o für unbegründet erachtet. Mit diesem Antrag wendet sich die Klägerin gegen die Verarbeitung ihrer personenbezogenen Daten im von der Beklagten betriebenen Portal, wenn die Beklagte - wie von ihr angeboten - zahlenden Ärzten anders als nichtzahlenden die Möglichkeit einräumt, individuelle Bewertungskriterien abzufragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Nach den von der Revision nicht angegriffenen Feststellungen des Berufungsgerichts kann weder davon ausgegangen werden, dass Erkenntnisse aus dieser - ausschließlich Premium-Kunden zur Verfügung stehenden - Abfragemöglichkeit für Portalnutzer überhaupt ersichtlich sind, noch, dass sich von aktiven Portalnutzern insoweit abgegebene Bewertungen auf die Gesamtbewertung des jeweiligen Arztes auswirken. Die insoweit gegebene Benachteiligung nichtzahlender Ärzte gegenüber zahlenden Ärzten beschränkt sich damit darauf, dass zahlenden Ärzten anders als nichtzahlenden ein Werkzeug zur Verfügung gestellt wird, mit dem sie - für sich selbst - ein ausdifferenzierteres Feedback als nichtzahlende Ärzte erlangen können. Dies belastet nichtzahlende Ärzte nicht weiter. Auch dieser Vorteil für zahlende Ärzte führt deshalb im Rahmen der durchzuführenden Gesamtabwägung nicht dazu, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten diejenigen der Beklagten und ihrer Nutzer überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>(ii) Mit ihren Klageanträgen 2p und 2q wendet sich die Klägerin gegen die Verarbeitung ihrer personenbezogenen Daten durch die Beklagte in deren Ärztebewertungsportal, wenn zahlenden Ärzten anders als ihr die Möglichkeit eingeräumt wird, ihr Profil von der Beklagten erstellen und pflegen zu lassen (2p) oder die Dienste professioneller Texter in Anspruch zu nehmen (2q).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat diese Anträge im Ergebnis zutreffend für unbegründet erachtet. Auch die darin liegende Bevorzugung zahlender Ärzte gegenüber der Klägerin als nichtzahlender Ärztin führt im Rahmen der gebotenen Gesamtabwägung nicht dazu, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten das daran bestehende berechtigte Interesse der Beklagten und ihrer Nutzer überwiegen. Sie beeinträchtigt die Interessen der Klägerin nur unerheblich. Sie hat keine Auswirkungen auf die Gestaltung der Basis-Profile; auch sie führt schon vor diesem Hintergrund nicht dazu, dass die Basis-Profile nichtzahlender Ärzte wie dasjenige der Klägerin als Werbeplattform oder "Köder" zugunsten zahlender Ärzte missbraucht würden. Die zahlenden Ärzten dadurch gebotene Chance, ihr jeweiliges Premium-Profil durch die besondere Sachkunde professioneller Helfer im Vergleich zu den Basis-Profilen nichtzahlender Ärzte (noch) attraktiver zu gestalten, wirkt sich allenfalls insoweit aus, als potentielle Patienten die jeweiligen Profile vergleichen und daraus nicht ausschließbar Rückschlüsse auf einen - auch fachlichen - Qualitätsvorsprung des zahlenden Arztes ziehen könnten. Auch diese Gefahr ist letztlich aber gering. Denn zum einen dienen schon nach der Struktur des Portals die - von der Art des Profils unabhängigen - Bewertungen als hauptsächlicher Vergleichsmaßstab. Zum anderen sind die Premium-Profile als solche gekennzeichnet; dadurch und durch die zusätzliche "Mouse-Over-Funktion" ist - wie bereits ausgeführt - für Portalnutzer hinreichend erkennbar, dass die aufwändigere Gestaltung der Premium-Profile ihren Grund darin hat, dass der Inhaber eines Premium-Profils zahlender Kunde der Beklagten ist. Auch bezüglich dieses Gestaltungselements kann also nicht davon ausgegangen werden, dass es zu einer eigenständigen Belastung der Klägerin führt, die nicht nur unerheblich über die mit dem Betrieb einer Ärztebewertungsplattform zwangsläufig verbundenen Beeinträchtigungen hinausgeht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Nichts Anderes gilt im Ergebnis für die Klageanträge 2w und 2x, in denen sich die Klägerin gegen die Verarbeitung ihrer personenbezogenen Daten wendet, wenn zahlenden Ärzten - anders als ihr - ein persönlicher Ansprechpartner im Unternehmen der Beklagten zur Seite gestellt (Antrag 2w) oder die Möglichkeit eingeräumt wird, mit der Beklagten über eine Hotline in Kontakt zu treten (Antrag 2x). Nach den Feststellungen des Berufungsgerichts handelt es sich bei diesen Serviceleistungen der Beklagten um reine Interna des Kommunikationsprozesses mit zahlenden Kunden; sie sind schon nicht geeignet, irgendwelche Fehlvorstellungen bei den Portalnutzern auszulösen. Sollten sich die genannten Serviceleistungen der Beklagten im Einzelfall mittelbar auf die Gestaltung eines Premium-Profils positiv auswirken, so liegt auch hierin kein Nachteil für die Inhaber von Basis-Profilen von solchem Gewicht, dass die Interessen der nichtzahlenden Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten im Portal der Beklagten die berechtigten Interessen der Beklagten und ihrer Nutzer am Betrieb des Portals überwiegen. Insbesondere bringt auch diese Ungleichbehandlung von zahlenden und nichtzahlenden Ärzten für die Klägerin keine eigenständige, über die mit den dargestellten Nachteilen einer Ärztebewertungsplattform (Verarbeitung personenbezogener Daten als solche, Bewertungsgefahren) hinausgehende relevante Belastung mit sich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>(jj) Mit den Klageanträgen 2r und 2s wendet sich die Klägerin gegen die Verarbeitung ihrer personenbezogenen Daten, wenn ihr anders als zahlenden Ärzten nicht die Möglichkeit eingeräumt wird, Artikel auf der Unterseite "Experten-Ratgeber" zu veröffentlichen (Antrag 2r) beziehungsweise sich von der Beklagten interviewen zu lassen und das Interview auf dieser Unterseite zu veröffentlichen (Antrag 2s). Nach dem Inhalt dieses Antrags begehrt sie diese Unterlassung unabhängig davon, ob die jeweiligen Beiträge zahlender Ärzte auf ihrem Basis-Profil verlinkt sind oder nicht (zur Verlinkung vgl. Klageantrag 2c).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Auch diese Anträge hat das Berufungsgericht im Ergebnis zutreffend für unbegründet erachtet. Die in der insoweit beanstandeten Gestaltung liegende Benachteiligung der nichtzahlenden Klägerin gegenüber zahlenden Premium-Kunden führt nicht dazu, dass die Interessen der Klägerin am Unterbleiben der Verarbeitung ihrer personenbezogenen Daten die berechtigten Interessen der Beklagten und ihrer Nutzer an der Verarbeitung im Rahmen des Portalbetriebs überwiegen. Ein allgemeines Gleichbehandlungsgebot für die Beklagte als Betreiberin eines Ärztebewertungsportals gibt es - wie gezeigt - nicht. Die Möglichkeit für zahlende Ärzte, außerhalb des Basis-Profils eines nichtzahlenden Arztes Artikel beziehungsweise Interviews zu veröffentlichen, belastet den nichtzahlenden Arzt allenfalls unerheblich. Insbesondere wird alleine dadurch das Basis-Profil nicht zur Werbeplattform zahlender Ärzte und damit zum "Köder" für potentielle Patienten, um diese dann an zahlende Ärzte weiterleiten zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>(kk) Schließlich führen auch die mit den Klageanträgen 2t, 2u und 2v beanstandeten Verhaltensweisen der Beklagten nicht zu einem Überwiegen der Interessen der Klägerin am Unterbleiben der Datenverarbeitung. Zwar stellen auch die Möglichkeit für zahlende Ärzte, sich bei Suchanfragen zu speziellen Fachgebieten oder Suchbegriffen auffälliger darstellen zu lassen (2t bzw. 2u), und die Anzeige dieser Ärzte bereits auf der jameda-Startseite Vorteile dar, die der Klägerin als nichtzahlender Ärztin nicht gewährt werden. Die Beklagte ist aber - wie gezeigt - nicht verpflichtet, zahlende und nichtzahlende Ärzte gleich zu behandeln. Besondere Nachteile entstehen der Klägerin durch die von ihr insoweit gerügte Portalgestaltung nicht. Insbesondere werden auch durch sie das Profil der Klägerin nicht als Werbefläche und damit die personenbezogenen Daten der Klägerin nicht als "Köder" zugunsten konkurrierender, zahlender Ärzte missbraucht. Vielmehr ist dieses Gestaltungselement von der Verarbeitung der personenbezogenen Daten der Klägerin völlig unabhängig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>(ll) Soweit die Klägerin die von ihr beanstandeten Verhaltensweisen - wie sich aus ihrem Antrag ("und/oder") ergibt - jedenfalls in ihrer Kombination für unzulässig erachtet, teilt der erkennende Senat auch diese Einschätzung nicht. Die isoliert wie gezeigt zulässigen Verfahrens- und Gestaltungselemente aus den Anträgen 2d bis 2x führen auch in ihrem Zusammenwirken nicht dazu, dass die Interessen der Klägerin in einem Maße beeinträchtigt wären, dass sie im Rahmen der vom erkennenden Senat vorzunehmenden Gesamtabwägung die berechtigten Interessen der Beklagten und ihrer Nutzer an der Verarbeitung der genannten personenbezogenen Daten der Klägerin im Rahmen des Portalbetriebs überwiegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>b) Auch der Unterlassungsgrund des Art. 17 Abs. 1 Buchst. c DS-GVO ist nicht gegeben. Denn für die von der Klägerin bekämpfte Verarbeitung ihrer personenbezogenen Daten liegen jedenfalls vorrangige berechtigte Gründe im Sinne des Art. 17 Abs. 1 Buchst. c Halbsatz 1 DS-GVO vor. Die auch insoweit gebotene Gesamtabwägung führt zu keinem anderen Ergebnis als die unter a) zu Art. 6 Abs. 1 Satz 1 Buchst. f vorgenommene Abwägung (vgl. Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 24, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>II. Im Hinblick auf den Anwendungsvorrang des vorliegend unionsweit abschließend vereinheitlichten Datenschutzrechts und die bei Prüfung eines Unterlassungsbegehrens nach Art. 17 DS-GVO vorzunehmende umfassende Grundrechtsabwägung kann die Klägerin ihren Anspruch auch nicht auf Vorschriften des nationalen deutschen Rechts stützen (vgl. Senatsurteil vom 27. Juli 2020 - VI ZR 405/18, BGHZ 226, 285 Rn. 64, mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>III. Eines Vorabentscheidungsersuchens an den Gerichtshof der Europäischen Union gemäß Art. 267 AEUV bedarf es nicht. Insbesondere betreffen die Ausführungen zu Art. 38 BayDSG (vgl. hierzu oben unter I. 2.) die Auslegung nationalen Rechts (vgl. auch Peifer, AfP 2020, 462 Rn. 21); ob die Öffnungsklausel des Art. 85 Abs. 2 DS-GVO eine weitergehende Fassung des Medienprivilegs im nationalen Recht zugelassen hätte, ist für den Streitfall ohne Bedeutung. Unter welchen abstrakten Voraussetzungen die Verarbeitung personenbezogener Daten nach Art. 6 Abs. 1 Satz 1 Buchst. f DS-GVO zulässig ist, ist in der Rechtsprechung des Gerichtshofs geklärt (vgl. nur EuGH, GRUR 2021, 1067 Rn. 105 ff. - Mircom/Telenet). Die insoweit erforderliche Abwägung unter Berücksichtigung der konkreten Umstände des Einzelfalls (vgl. hierzu oben unter I. 3.) ist - wie auch die parallele Abwägung nach Art. 17 Abs. 1 Buchst. c, Art. 21 Abs. 1 DS-GVO- Sache der nationalen Gerichte (vgl. EuGH, GRUR 2021, 1067 Rn. 111 - Mircom/Telenet).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>IV. Ohne durchgreifenden Rechtsfehler zum Nachteil der Klägerin hat das Berufungsgericht schließlich auch die ersatzfähigen vorgerichtlichen Rechtsverfolgungskosten auf nur 415,96 € beziffert und den von der Klägerin darüber hinaus geltend gemachten (Freistellungs-) Anspruch abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Seiters     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Offenloch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Müller</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Allgayer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Böhm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE312832021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

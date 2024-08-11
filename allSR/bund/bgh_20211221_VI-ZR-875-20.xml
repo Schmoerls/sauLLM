@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300272022</doknr>
+   <ecli>ECLI:DE:BGH:2021:211221UVIZR875.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20211221</entsch-datum>
+   <aktenzeichen>VI ZR 875/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 31 BGB, § 826 BGB, Art 3 Nr 10 EGV 715/2007, Art 5 Abs 2 EGV 715/2007, § 6 EG-FGV, § 27 EG-FGV</norm>
+   <vorinstanz>vorgehend OLG Köln, 28. Mai 2020, Az: 12 U 89/19<br/>vorgehend LG Aachen, 22. August 2019, Az: 9 O 465/18<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Schadensersatzanspruch des Käufers eines mit einer unzulässigen Abschalteinrichtung versehenen Dieselfahrzeugs: Voraussetzungen der Haftung einer juristischen Person; sekundäre Darlegungslast des Fahrzeugherstellers zu Vorgängen innerhalb seines Unternehmens</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Haftung einer juristischen Person aus § 826 BGB in Verbindung mit § 31 BGB setzt voraus, dass einer ihrer verfassungsmäßig berufenen Vertreter im Sinne des § 31 BGB den objektiven und subjektiven Tatbestand des § 826 BGB verwirklicht hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Eine sekundäre Darlegungslast eines Fahrzeugherstellers zu Vorgängen innerhalb seines Unternehmens, die auf eine Kenntnis seiner verfassungsmäßig berufenen Vertreter von der Verwendung einer unzulässigen Abschalteinrichtung schließen lassen sollen, setzt jedenfalls voraus, dass das Parteivorbringen hinreichende Anhaltspunkte enthält, die einen solchen Schluss nahelegen (Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669, Rn. 28 m.w.N.).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten zu 2 wird das Urteil des 12. Zivilsenats des Oberlandesgerichts Köln vom 28. Mai 2020 im Kostenpunkt und insoweit aufgehoben, als zum Nachteil der Beklagten zu 2 entschieden worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger nimmt die Beklagte zu 2 (im Folgenden: Beklagte) auf Schadensersatz wegen Verwendung einer unzulässigen Abschalteinrichtung für die Abgasrückführung in Anspruch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der Kläger erwarb von der am Revisionsverfahren nicht beteiligten Beklagten zu 1 im Februar 2012 einen von der Beklagten hergestellten, gebrauchten Audi A4 2.0 TDI zum Kaufpreis von 22.400 €. Das Fahrzeug ist mit einem Dieselmotor des Typs EA189 ausgestattet. Die im Zusammenhang mit dem Motor ursprünglich verwendete Software erkannte, ob das Fahrzeug auf einem Prüfstand dem Neuen Europäischen Fahrzyklus (NEFZ) unterzogen wurde und schaltete in diesem Fall vom regulären Abgasrückführungsmodus 0 in einen Stickoxid-optimierten Abgasrückführungsmodus 1. Es ergaben sich dadurch auf dem Prüfstand geringere Stickoxid-Emissionswerte als im normalen Fahrbetrieb.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Im Jahr 2015 gab das Kraftfahrt-Bundesamt (KBA) der Beklagten auf, Maßnahmen zu entwickeln und zu ergreifen, um die betroffenen Dieselfahrzeuge in einen ordnungsgemäßen Zustand zu versetzen. Die Beklagte entwickelte daraufhin ein Software-Update, das auch auf das Fahrzeug des Klägers aufgespielt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Der Kläger hat beantragt, die Beklagte zur Zahlung von 22.400 € nebst Zinsen seit dem 15. Juli 2012 zu verurteilen, Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs, und festzustellen, dass sich die Beklagte mit der Annahme des Fahrzeugs in Verzug befindet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Klage abgewiesen. Auf die Berufung des Klägers hat das Oberlandesgericht das Urteil des Landgerichts dahingehend abgeändert, dass es die Beklagte unter Abweisung der Klage im Übrigen zur Zahlung von 10.260,20 € nebst Rechtshängigkeitszinsen Zug um Zug gegen Übergabe und Übereignung des Fahrzeugs verurteilt hat. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Beklagte das Ziel der vollständigen Klageabweisung weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat seine Entscheidung darauf gestützt, dass dem Kläger ein Schadensersatzanspruch auf Erstattung des Kaufpreises abzüglich einer Nutzungsentschädigung Zug um Zug gegen Übereignung und Übergabe des Fahrzeugs aus §§ 826, 31 BGB zustehe. Die maßgebliche Schädigungshandlung sei das Inverkehrbringen des Fahrzeugs durch die Beklagte, in das sie den mit einer Manipulationssoftware ausgerüsteten Motor EA189 eingebaut habe. Der Kläger habe durch den Abschluss des ungewollten Kaufvertrags über das Fahrzeug einen Schaden erlitten. Die Beklagte habe sittenwidrig gehandelt, weil sie zur Erzielung höherer Gewinne durch Einsparung von Kosten über Jahre hinweg Behörden und Käufer systematisch getäuscht habe; die Manipulationssoftware sei in einer großen Anzahl von Fahrzeugen der Beklagten, wie auch in anderen Marken des VW-Konzerns, verbaut worden. Die subjektiven Voraussetzungen einer Haftung der Beklagten nach §§ 826, 31 BGB lägen ebenfalls vor. Denn nach dem gegebenen Sach- und Streitstand sei davon auszugehen, dass der Vorstand der Beklagten, jedenfalls aber Mitarbeiter des oberen Managements der Beklagten, über umfassende Kenntnisse vom Einsatz der Software zur Motorsteuerung verfügten. Der grundsätzlich darlegungs- und beweisbelastete Kläger habe vorgetragen, dass er keinen Einblick in die inneren Abläufe der Beklagten habe, weshalb er nicht im Detail darlegen könne, in welcher Organisationseinheit der Beklagten die Entscheidung für den Einbau des Motors mit der Manipulationssoftware gefallen und wann und wem diese Entscheidung weiter zur Kenntnis gebracht worden sei. Der Vortrag des Klägers könne nicht anders verstanden werden, als dass die Täuschung ausgehend von der vom Kläger dargestellten Organisationsstruktur der Beklagten nur mit Zustimmung der höchsten Ebene des Unternehmens habe veranlasst werden können. Dieses Klagevorbringen gelte gemäß § 138 Abs. 3 ZPO als zugestanden, weil die Beklagte der ihr obliegenden sekundären Darlegungslast nicht in ausreichendem Maße nachgekommen sei. Der Kläger habe als Außenstehender keine Kenntnis darüber, wie es zu der Entscheidung gekommen sei, Motoren des Typs EA189 in Fahrzeuge der Beklagten einzubauen, und welche Informationen die Beklagte insoweit auch in Bezug auf die in die Motoren installierte Software erhalten oder durch eigene Überprüfung bzw. Kontrolle erlangt habe. Die Beklagte habe sich im Wesentlichen auf den Hinweis zurückgezogen, dass nach dem derzeitigen Ermittlungsstand keine Erkenntnisse dafür vorlägen, dass einzelne Mitglieder des Vorstands die Entwicklung der Software für den Dieselmotor EA189 in Auftrag gegeben oder gebilligt hätten oder dass ihr Vorstand vom Einbau der Software Kenntnis gehabt habe. Dies genüge nicht. Der Umstand, dass die Beklagte die Software nicht selbst entwickelt habe, rechtfertige keine abweichende Bewertung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision der Beklagten ist begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Ansprüche des Klägers gegen die Beklagte wegen sittenwidriger vorsätzlicher Schädigung gemäß §§ 826, 31 BGB können mit der vom Berufungsgericht gegebenen Begründung nicht bejaht werden. Das Berufungsgericht hat nicht rechtsfehlerfrei festgestellt, dass ein verfassungsmäßig berufener Vertreter der Beklagten im Sinne von § 31 BGB die objektiven und subjektiven Tatbestandsvoraussetzungen des § 826 BGB verwirklicht hat. Die bisher getroffenen Feststellungen tragen bereits nicht die Annahme des Berufungsgerichts, ein verfassungsmäßig berufener Vertreter der Beklagten habe durch das Inverkehrbringen des streitgegenständlichen Fahrzeugs mit dem Dieselmotor der Baureihe EA189 sittenwidrig gehandelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Wie der Senat bereits entschieden hat, handelt ein Automobilhersteller gegenüber dem Fahrzeugkäufer sittenwidrig, wenn er entsprechend seiner grundlegenden strategischen Entscheidung im eigenen Kosten- und Gewinninteresse unter bewusster Ausnutzung der Arglosigkeit der Erwerber, die die Einhaltung der gesetzlichen Vorgaben und die ordnungsgemäße Durchführung des Typgenehmigungsverfahrens als selbstverständlich voraussetzen, Fahrzeuge mit einer Motorsteuerung in Verkehr bringt, deren Software bewusst und gewollt so programmiert ist, dass die gesetzlichen Abgasgrenzwerte nur auf dem Prüfstand beachtet, im normalen Fahrbetrieb hingegen überschritten werden, und damit unmittelbar auf die arglistige Täuschung der Typgenehmigungsbehörde abzielt. Ein solches Verhalten steht einer unmittelbaren arglistigen Täuschung der Fahrzeugerwerber in der Bewertung gleich (Senatsurteile vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 19; vom 25. Mai 2020 - VI ZR 252/19, BGHZ 225, 316 Rn. 16 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Das Berufungsgericht hat festgestellt, dass die Beklagte Dieselmotoren vom Typ EA189, die mit der Prüfstanderkennungssoftware ausgerüstet waren, in die von ihr hergestellten Fahrzeuge eingebaut und letztere in den Verkehr gebracht hat. Es hat weiter festgestellt, dass die Beklagte die Prüfstanderkennungssoftware, die in Fahrzeugen verschiedener Marken des VW-Konzerns eingesetzt wurde, nicht selbst entwickelt hat. Wer den fraglichen Motor mit der Software hergestellt und der Beklagten geliefert hat, ist im Berufungsurteil nicht festgestellt. Insoweit fehlt es für die Annahme des Berufungsgerichts, die Beklagte habe sittenwidrig gehandelt, weil sie zur Erzielung höherer Gewinne durch Einsparung von Kosten über Jahre hinweg Behörden und Käufer systematisch getäuscht habe, indem sie die Manipulationssoftware in einer großen Anzahl ihrer Fahrzeuge verbaut habe, an der Feststellung, dass für die Beklagte handelnde Personen die auf arglistige Täuschung der Behörden und Käufer gerichtete Strategieentscheidung selbst getroffen haben oder an einer solchen Entscheidung zumindest beteiligt waren (vgl. Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 20). Entgegen der Ansicht der Revisionserwiderung kommt es nicht darauf an, ob der Mutterkonzern - die Volkswagen AG - mit der Herstellung des Motors und der Programmierung der Motorsteuerungssoftware auch für die Fahrzeugmodelle ihrer Tochtergesellschaften Behörden und Fahrzeugkäufer arglistig getäuscht hat, denn vorliegend geht es, anders als in den von der Revisionserwiderung insoweit zitierten Senatsurteilen vom 20. Juli 2021 - VI ZR 152/20 (NJW-RR 2021, 1464) und vom 11. Mai 2021 - VI ZR 80/20 (ZIP 2021, 2344) nicht um die Haftung der Volkswagen AG, sondern um die Haftung der Tochtergesellschaft Audi.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>c) Allerdings kommt ein sittenwidriges Vorgehen der Beklagten auch dann in Betracht, wenn deren verfassungsmäßig berufene Vertreter zumindest wussten, dass die Motoren des streitgegenständlichen Typs mit einer auf arglistige Täuschung des KBA abzielenden Prüfstanderkennungssoftware ausgestattet waren, und die von der Beklagten hergestellten Fahrzeuge in Kenntnis dieses Umstandes mit diesem Motor versahen und in den Verkehr brachten (Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Ein derartiges Vorstellungsbild hat das Berufungsgericht im Hinblick auf Personen, für deren Verhalten die Beklagte entsprechend § 31 BGB einzustehen hat, aber nicht rechtsfehlerfrei festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht hat die nach seinen Feststellungen von der Beklagten bestrittene Kenntnis ihrer verfassungsmäßig berufenen Vertreter von der Prüfstanderkennungssoftware auf die Erwägung gestützt, das Klagevorbringen gelte gemäß § 138 Abs. 3 ZPO als zugestanden, weil die Beklagte der ihr obliegenden sekundären Darlegungslast nicht in ausreichendem Maße nachgekommen sei. Dies ist aus Rechtsgründen zu beanstanden, weil es an den erforderlichen tatsächlichen Feststellungen zu den Voraussetzungen für die vom Berufungsgericht angenommene sekundäre Darlegungslast der Beklagten fehlt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>bb) Eine sekundäre Darlegungslast der Beklagten zu Vorgängen innerhalb ihres Unternehmens, die auf eine Kenntnis ihrer verfassungsmäßig berufenen Vertreter von der Verwendung der unzulässigen Abschalteinrichtung schließen lassen sollen, setzt jedenfalls voraus, dass das (unstreitige oder nachgewiesene) Parteivorbringen hinreichende Anhaltspunkte enthält, die einen solchen Schluss nahelegen (Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 28 mwN; BGH, Urteil vom 16. September 2021 - VII ZR 192/20, WM 2021, 2056 Rn. 27). Das aus dem Berufungsurteil oder dem Sitzungsprotokoll ersichtliche, also der Beurteilung des Revisionsgerichts nach § 559 Abs. 1 ZPO unterliegende Parteivorbringen bietet keine entsprechenden Anhaltspunkte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>(1) Wie bereits ausgeführt, steht hier - anders als in dem der Senatsentscheidung vom 25. Mai 2020 (VI ZR 252/19, BGHZ 225, 316) zugrundeliegenden Sachverhalt - nicht fest, dass die strategische Entscheidung, die Prüfstanderkennungssoftware zu entwickeln und in den Verkehr zu bringen, bei der Beklagten getroffen worden wäre oder dass verfassungsmäßig berufene Vertreter der Beklagten an einer solchen Entscheidung zumindest beteiligt gewesen wären. Der vom Berufungsgericht festgestellte Umstand, dass die Beklagte den fraglichen Motor serienmäßig und "hunderttausendfach" in ihre Fahrzeuge eingebaut hat, genügt insoweit entgegen der Auffassung der Revisionserwiderung nicht (Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 30; BGH, Urteil vom 16. September 2021 - VII ZR 192/20, WM 2021, 2056 Rn. 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(2) Feststellungen zu sonstigen Anhaltspunkten im Parteivorbringen für eine Kenntnis verfassungsmäßig berufener Vertreter der Beklagten von der Verwendung der Prüfstanderkennungssoftware enthält das Berufungsurteil nicht. Nach den Feststellungen des Berufungsgerichts hat der Kläger lediglich vorgetragen, dass er keinen Einblick in die inneren Abläufe der Beklagten habe, weshalb er nicht im Detail darlegen könne, in welcher Organisationseinheit der Beklagten die Entscheidung für den Einbau des Motors mit der Manipulationssoftware gefallen und wann und wem diese Entscheidung weiter zur Kenntnis gebracht worden sei. Anhaltspunkte dafür, dass verfassungsmäßige Vertreter der Beklagten überhaupt wussten, dass der eingebaute Motor mit einer Manipulationssoftware versehen war, ist dem festgestellten Klägervorbringen nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>2. Die Verurteilung der Beklagten zum Schadensersatz stellt sich nicht aus anderen Gründen als richtig dar (§ 561 ZPO). Ein Anspruch des Klägers aus § 831 Abs. 1 Satz 1 BGB in Verbindung mit § 826 BGB kann ebenfalls nicht bejaht werden, weil das Berufungsgericht eine im Unternehmen der Beklagten vorhandene Kenntnis von der unzulässigen Abschalteinrichtung nicht rechtsfehlerfrei festgestellt hat (vgl. Senatsurteil vom 8. März 2021 - VI ZR 505/19, NJW 2021, 1669 Rn. 33 ff.). Ansprüche gemäß § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV oder Art. 5 VO 715/2007/EG scheiden ebenfalls aus (vgl. Senatsurteil vom 30. Juli 2020 - VI ZR 5/20, NJW 2020, 2798 Rn. 10 ff.; Senatsbeschluss vom 15. Juni 2021 - VI ZR 566/20, juris Rn. 7 ff.; jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>3. Danach hat das angefochtene Urteil keinen Bestand, soweit zum Nachteil der Beklagten entschieden worden ist. Es ist insoweit aufzuheben und die Sache zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen (§ 562 Abs. 1, § 563 Abs. 1 Satz 1 ZPO). Eine Klageabweisung durch den Senat scheidet aus, da der Rechtsstreit nicht zur Endentscheidung reif ist (§ 563 Abs. 3 ZPO). Da die Vorinstanz den Vortrag des Klägers - anders als der Senat - als ausreichend angesehen hat, muss dem Kläger noch Gelegenheit gegeben werden, ergänzend zu einer etwaigen Kenntnis der Beklagten von der unzulässigen Abschalteinrichtung vorzutragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Seiters     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Offenloch     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Oehler</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Müller     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Böhm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300272022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

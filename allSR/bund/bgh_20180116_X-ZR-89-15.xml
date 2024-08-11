@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE620042018</doknr>
+   <ecli>ECLI:DE:BGH:2018:160118UXZR89.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180116</entsch-datum>
+   <aktenzeichen>X ZR 89/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 4 PatG, § 81 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 19. Mai 2015, Az: 6 Ni 28/14 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Rechtsschutzbedürfnis für Patentnichtigkeitsklage nach Ablauf der Schutzfrist; Naheliegen des Gegenstands des Patentanspruchs durch den Stand der Technik</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 6. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 19. Mai 2015 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 812 120 wird mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt, soweit es über folgende Fassung der Patentansprüche hinausgeht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A method for using services offered by a telecommunication network comprising at least one switching apparatus (1) and user cellular mobile phones (3) communicating with it, wherein said switching apparatus (1) comprises a programming interface (9) for programming of new services and is suitable for being arranged to offer said services via said telecommunication network and said user cellular mobile phones (3) include output means (7) for displaying information about said services to the user and input means (8, 8a) for making selections concerning said services, in which method a certain service is created and said switching apparatus (1) is made to operate according to said service, wherein</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- a set of computer program instructions is drawn up which, when loaded in a cellular mobile phone (3), controls a programmable user interface - which is included in said cellular mobile phone as an extension interface of embedded software controlling the operation of the cellular mobile phone - in a manner such that said service can be used via the cellular mobile phone displaying on the output means (7) of the cellular mobile phone information about the service in question in a manner determined by said set of computer program instructions and using the input means (8, 8a) in a manner determined by said set of computer program instructions to make selections concerning the service in question, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- said set of computer program instructions is conveyed to the user and loaded in the cellular mobile phone for producing new menus and options in the phone’s programmable user interface of the embedded software controlling the operation of the cellular mobile phone.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. The method of claim 1, <strong>characterized in that</strong> said set of computer program instructions is delivered to the user by storing it in a separate storage means (6) and delivering said storage means to the user to be loaded in a cellular mobile phone (3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. The method of claim 2, <strong>characterized in that</strong> said storage means (6) is an intelligent card.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. The method of claim 1, <strong>characterized in that</strong> said set of computer program instructions is delivered to the user by means of data transmission via said telecommunication network.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. The method of any one of the preceding claims, <strong>characterized in that</strong> said cellular mobile phone includes pushbuttons (8, 8a) and said set of computer program instructions includes at least computer program instructions</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- on the indication of the pushbuttons (8a) that have a special meaning in relation to the service in question, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- on how the cellular mobile phone is to respond when said indicated pushbuttons are pressed.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. The method of any one of the preceding claims, <strong>characterized in that</strong> said set of computer program instructions is delivered to the user to be automatically loaded in the cellular mobile phone.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. A telecommunication system for offering intelligent network services to users which comprises at least one switching apparatus (1) and user cellular mobile phones (3) communicating with it, said switching apparatus (1) comprising a programming interface (4) for the programming of new services and said cellular mobile phones (3) comprising output means (7) for displaying information about said services to the user and input means (8, 8a) for making selections concerning said services, wherein</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- said cellular mobile phones (3) comprise a programmable user interface as an extension interface of embedded software controlling the operation of the cellular mobile phones, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- the telecommunication system comprises means (2; 6) for delivering to the users sets of computer program instructions concerning new services to be loaded in a cellular mobile phone (3) for producing new menus and options in the phone’s programmable user interface of the embedded software controlling the operation of the cellular mobile phone, said sets of computer program instructions being arranged to control the programmable user interface that is in includes in said cellular mobile phones as an extension interface of embedded software controlling the operation of the cellular mobile phones, wherein controlling said programmable user interface comprises displaying on the output means (7) of the cellular mobile phone information about the service in question in a manner determined by said set of computer program instructions and using the input means (8, 8a) in a manner determined by said set of computer program instructions to make selections concerning the service in question.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">8. A cellular mobile phone (3) for a telecommunication system according to claim 7, wherein said cellular mobile phone (3) comprises output means (7) for displaying to a user information about services offered by said switching apparatus of said telecommunication system and input means (8, 8a) for making selections concerning said services, wherein the cellular mobile phone comprises a programmable user interface as an extension interface of embedded software controlling the operation of the cellular mobile phone, means (9, 10, 11, 12) for loading sets of computer program instructions concerning new services and programming it into the cellular mobile phone for producing new menus and options in the phone’s programmable user interface of the embedded software controlling the operation of the cellular mobile phone, said sets of computer program instructions being arranged to control said programmable user interface, means (7, 9, 10) for displaying information about said new services to the user in a manner determined by said sets of computer program instructions, and means (8, 9, 10) for making user selections concerning said new services in a manner determined by said sets of computer program instructions.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">9. The cellular mobile phone (3) of claim 8, <strong>characterized in that</strong> it comprises means (11) for loading said sets of computer program instructions from a portable storage means (6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung der Klägerin wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Rechtsstreits tragen die Klägerin 2/3 und die Beklagte 1/3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des am 5. Juni 1997 unter Inanspruchnahme einer finnischen Priorität angemeldeten und mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 812 120 (Streitpatents), das ein Verfahren zur Benutzung von Diensten, die von einem Telekommunikationsnetzwerk angeboten werden, ein entsprechendes Telekommunikationssystem und ein Endgerät hierfür betrifft. Die nebengeordneten Patentansprüche 1, 7 und 8, auf die die weiteren Patenansprüche zurückbezogen sind, lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A method for using services offered by a telecommunication network comprising at least one switching apparatus (1) and user terminals (3) communicating with it, wherein said switching apparatus (1) is suitable for being arranged to offer services via said telecommunication network and said user terminals (3) include output means (7) for displaying information about said services to the user and input means (8, 8a) for making selections concerning said services, in which method a certain service is created and said switching apparatus (1) is made to operate according to said service</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a set of instructions is drawn up which, when loaded in a terminal (3), controls a programmable user interface - which is included in said terminal as an extension interface of embedded software controlling the operation of the terminal - in a manner such that said service can be used via the terminal displaying on the output means (7) of the terminal information about the service in question in a manner determined by said set of instructions and using the input means (8, 8a) in a manner determined by said set of instructions to make selections concerning the service in question, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">said set of instructions is conveyed to the user and loaded in the terminal.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. A telecommunication system for offering intelligent network services to users which comprises at least one switching apparatus (1) and user terminals (3) communicating with it, said switching apparatus comprising a programming interface (4) for the programming of new services and said terminals (3) comprising output means (7) for displaying information about said services to the users and input means (8, 8a) for making selections concerning said services,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">said terminals (3) comprise a programmable user interface as an extension interface of embedded software controlling the operation of the terminals, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">the telecommunication system comprises means (2, 6) for delivering to the users sets of instructions concerning new services to be loaded in a terminal (3), said sets of instructions being arranged to control a programmable user interface that is included in said terminals as an extension interface of embedded software controlling the operation of the terminals, wherein controlling said programmable user interface comprises displaying on the output means (7) of the terminal information about the service in question in a manner determined by said set of instructions and using input means (8, 8a) in a manner determined by said set of instructions to make selections concerning the service in question.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">8. A terminal (3) for a telecommunication system which comprises output means (7) for displaying to a user information about services offered by said telecommunication system and input means (8, 8a) for making selections concerning said services,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">the terminal comprises a programmable user interface as an extension interface of embedded software controlling the operation of the terminal, means (9, 10, 11, 12) for loading sets of instructions concerning new services, said sets of instructions being arranged to control said programmable user interface, means (7, 9, 10) for displaying information about said new services to the user in a manner determined by said sets of instructions, and means (8, 9, 10) for making user selections concerning said news services in a manner determined by said sets of instructions.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent insgesamt wegen unzulässiger Erweiterung und fehlender Patentfähigkeit angegriffen. Die Beklagte hat das Streitpatent wie erteilt und hilfsweise mit vier geänderten Anspruchssätzen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit sein Gegenstand über die Fassung nach dem in erster Instanz gestellten Hilfsantrag 2 hinausgeht, und die Klage im Übrigen abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Berufung verfolgt die Klägerin ihr erstinstanzliches Begehren weiter. Die Beklagte hat ebenfalls Berufung eingelegt und in der mündlichen Verhandlung erklärt, das Patent nur noch in der Fassung eines neuen Hilfsantrags zu verteidigen, wie sie aus dem Tenor ersichtlich ist, zudem verteidigt sie das Patent hilfsweise mit mehreren beschränkten Anträgen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung der Beklagten hat Erfolg. Dagegen bleibt die Berufung der Klägerin erfolglos.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Der Ablauf der Schutzfrist für das Streitpatent lässt, wovon die Parteien zu Recht übereinstimmend ausgehen, die Zulässigkeit der Nichtigkeitsklage unberührt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Bundesgerichtshofs besteht ein Rechtsschutzbedürfnis für eine Nichtigkeitsklage auch nach Ablauf der Schutzfrist, wenn der Kläger ein Interesse daran hat, seine Abnehmer vor Angriffen des Beklagten wegen Patentverletzung zu schützen und damit einer Gefährdung oder Beeinträchtigung seines Absatzes entgegenzuwirken (BGH, Urteil vom 1. April 1965 - Ia ZR 218/63, GRUR 1966, 141 - Stahlveredelung; Hall/Nobbe in Benkard, PatG, 11. Aufl., § 81 Rn. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat nach der gütlichen Beilegung von Verletzungsklagen mit zwei Abnehmern der Klägerin auf deren Anfrage erklärt, sie sei nicht bereit, auf mögliche Ansprüche aus dem Streitpatent gegen andere Abnehmer der Klägerin zu verzichten. Damit besteht ein Interesse der Klägerin, ihre Kunden vor den nach ihrer Auffassung unberechtigten Ansprüchen der Beklagten für die Vergangenheit zu schützen und mögliche Regressansprüche auszuschließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>II. 1. Das Streitpatent befasst sich mit der Verwendung von Diensten, die von einem Telekommunikationsnetz angeboten werden. Nach den Ausführungen in der Streitpatentschrift sind intelligente Telekommunikationsnetze nicht mehr auf die bislang im öffentlichen Fernsprechwählnetz üblichen Dienste beschränkt, sondern durch ständigen Wandel gekennzeichnet. Es sei damit zu rechnen, dass das Angebot solcher Dienste, die zum Teil kostenlos, zum Teil zahlungspflichtig seien, weiter ausgeweitet und ein wichtiger Faktor im Wettbewerb der Netzwerkbetreiber sein werde. Daher bestehe ein Bedürfnis nach Verfahren, mit denen dem privaten Anwender die Nutzung dieser Dienste auf einfache Weise ermöglicht werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Herkömmliche Nutzerendgeräte, etwa Telefone, wiesen meist nur einen Wählblock auf, so dass Befehle sich aus Zahlen und einigen wenigen Sonderzeichen zusammensetzen müssten. Bei steigender Anzahl von Diensten führe dies dazu, dass die Steuerungsbefehle unpraktikabel, insbesondere zu lang würden. Zwar wiesen manche Geräte zusätzliche Funktionstasten auf, die mit bestimmten Standardfunktionen belegt seien, doch sei dies angesichts der rasch wachsenden und sich ändernden Dienste unzureichend. Lösungen, die auf der technischen Gestaltung des Telefons beruhten, drohten schnell zu veralten. Es könne nicht erwartet werden, dass die Nutzer bereit seien, öfter ein neues Telefon zu erwerben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die europäische Patentschrift 772 367 (=D3) beschreibe, dass das Netzwerk als Fernsteuerung eingesetzt werden könne, um ansonsten unzugängliche Bereiche des Speichers des mobilen Endgeräts zu öffnen. Dort sei auch beschrieben, wie neue Programmbefehle, die die Nutzung neuer Dienste des Netzwerks ermöglichten, aus dem Netzwerk zu dem mobilen Endgerät übertragen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund besteht das technische Problem darin, die Möglichkeiten, die ein Telekommunikationsnetz durch von diesem angebotene Dienste eröffnet, dem Nutzer eines Endgeräts einfach und effizient zugänglich zu machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Die Lösung dieses Problems sieht das Streitpatent darin, das Konzept des intelligenten Netzwerks auf das Endgerät und dessen Nutzer auszudehnen. Dazu schlägt es in Anspruch 1 in der zuletzt verteidigten Fassung ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Verfahren zum Verwenden von Diensten, die von einem Telekommunikationsnetz angeboten werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Das Telekommunikationsnetz umfasst</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 wenigstens eine Vermittlungseinrichtung (<em>switching apparatus</em>) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 mit dieser kommunizierende Mobiltelefone (<em>user cellular mobile phones</em>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Vermittlungseinrichtung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 umfasst eine Programmierungsschnittstelle für die Programmierung neuer Dienste (<em>comprising a programming interface for programming of new services</em>)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 ist geeignet, für das Anbieten dieser Dienste über das Telekommunikationsnetz konfiguriert zu werden (<em>for being arranged to offer said services via said telecommunication network</em>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die Mobiltelefone umfassen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1 Ausgabemittel, die dem Anwender Informationen über die Dienste anzeigen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2 Eingabemittel, um eine die Dienste betreffende Auswahl vorzunehmen; und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.3 eine programmierbare Anwenderschnittstelle (<em>a programmable user interface</em>) als Erweiterungsschnittstelle von eingebetteter, die Arbeitsweise des Mobiltelefons steuernder Software (<em>as an extension of embedded software</em>, <em>controlling the operation of the cellular mobile phone</em>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Es wird ein bestimmter Dienst geschaffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. Die Vermittlungseinrichtung wird dazu veranlasst, gemäß diesem Dienst zu arbeiten (<em>is made to operate according...</em>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. Es wird ein Satz von Befehlen bereitgestellt (<em>a set of computer program instructions is drawn up</em>),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.1 der dem Anwender übermittelt und in das Mobiltelefon geladen und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7.2 durch den die programmierbare Anwenderschnittstelle des Mobiltelefons so gesteuert wird, dass der Dienst in einer durch den Befehlssatz bestimmten Weise über das Mobiltelefon dazu verwendet werden kann,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">7.2.1 auf den Ausgabemitteln des Mobiltelefons Informationen über den Dienst anzuzeigen und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">7.2.2 die Eingabemittel zu einer dienstbezogenen Auswahl zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>4. Der Anspruch bedarf der Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Das Verfahren befasst sich mit der Verwendung von Diensten, die von einem Telekommunikationsnetz angeboten werden. Der Streitpatentschrift zufolge spricht man von einem intelligenten Telekommunikationsnetzwerk, wenn dieses nicht darauf beschränkt ist, eine Verbindung zwischen zwei Teilnehmern herzustellen, sondern weitere Funktionen bereitstellt, etwa eine Anrufweiterleitung oder abweichende Rechnungsstellung. Nach Merkmal 2.1 umfasst das Telekommunikationsnetz eine Vermittlungseinrichtung, also eine Komponente des Telekommunikationsnetzwerks, die an der Herstellung von Verbindungen zwischen den Nutzern beteiligt ist. Wie sich insbesondere aus Merkmal 2.2 ergibt, wonach die Mobiltelefone mit der Vermittlungseinrichtung kommunizieren, handelt es sich um eine Komponente, die in der Lage ist, solche Vermittlungsleistungen in einem Mobilfunknetz zu erbringen. Eine solche Vermittlungseinrichtung wird in der Beschreibung des Streitpatents als <em>mobile switching centre</em> bezeichnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b)Die Vermittlungseinrichtung umfasst nach Merkmalsgruppe 3 eine Schnittstelle für die Programmierung neuer Dienste und kann so konfiguriert werden, dass sie Dienste über das Telekommunikationsnetz anbietet. Dies ermöglicht, dass der Betreiber des Netzwerks oder von ihm hierzu autorisierte Dritte die Funktionen und Dienste des Netzwerks ändern können (Abs. 2, 3). Ferner besagt Merkmal 6, dass die Vermittlungseinrichtung veranlasst wird, gemäß dem Dienst zu arbeiten, wenn er von dem Nutzer verwendet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c)Entscheidende Bedeutung kommt Merkmal 4.3 in seinem Zusammenhang mit Merkmal 7 zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmal 4.3 enthalten die Mobiltelefone eine programmierbare Anwenderschnittstelle als Erweiterungsschnittstelle der eingebetteten Software.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Nach der Lehre des Streitpatents sollen dem Nutzer die Möglichkeiten, die sich aus der Bereitstellung neuer Dienste ergeben, einfach und effizient zugänglich sein. Beschränkungen können sich dabei durch die technische Ausstattung und Funktion herkömmlicher Telefongeräte ergeben. Ziel des Streitpatents ist es, hier Abhilfe zu schaffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die Arbeitsweise des Mobiltelefons, etwa die Belegung der Tasten und die Darstellung auf dem Display, wird von Software gesteuert. Diese wird in Merkmal 4.3 als eingebettete Software bezeichnet, die die Arbeitsweise des Mobiltelefons steuert. Bei der eingebetteten Software handelt es sich mithin um das Betriebssystem des Mobiltelefons. Das Streitpatent schlägt vor, dieses Betriebssystem mit einer programmierbaren Anwenderschnittstelle zu versehen. Dies schafft die Möglichkeit, mittels eines Satzes von Programmbefehlen (Merkmalsgruppe 7), der in das Mobiltelefon geladen wird, Zugriff auf die eingebettete Software zu erhalten und damit die Arbeitsweise des Mobiltelefons in einer Weise zu beeinflussen, die die Nutzung neuer Dienste ermöglicht oder erleichtert. Dadurch können den Funktionen des Mobiltelefons Leistungsmerkmale hinzugefügt werden, die dem Nutzer sowohl die angebotenen Dienste als auch die für deren Nutzung erforderlichen Aktionen anzeigen, und dafür sorgen, dass die Befehle entsprechend der Auswahl des Nutzers zu der Vermittlungseinrichtung des Netzwerks gesendet werden (Abs. 14). Diese wiederum wird nach Merkmal 6 dazu veranlasst, gemäß diesem Dienst zu arbeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmalen 7 und 7.1 wird dazu ein Satz von Befehlen (<em>a set of computer program instructions</em>) bereitgestellt, dem Anwender übermittelt und in das Mobiltelefon geladen. Wie sich aus dem Zusammenhang mit Merkmal 7.2 ergibt, dient der Satz von Befehlen dazu, die Nutzung des vom Telekommunikationsnetz angebotenen Dienstes zu ermöglichen, indem Informationen über den Dienst angezeigt werden können und mithilfe der Eingabemittel eine Auswahl bezüglich des Dienstes getroffen werden kann. Bei dem Satz von Befehlen handelt es sich mithin um Software, die im Mobiltelefon eingesetzt werden soll, um dem Anwender die Nutzung eines bestimmten Dienstes zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmal 7.2 steuert der Befehlssatz, wenn er in ein Mobiltelefon geladen ist, die programmierbare Anwenderschnittstelle so, dass der Nutzer über die Ausgabemittel Informationen über diesen Dienst erhalten und mit den Eingabemitteln eine Auswahl unter den von diesem angebotenen Optionen treffen kann. Der Befehlssatz steuert mithin die Verwendung der Eingabe- und Ausgabemittel nicht eigenständig, also parallel zur ohnehin im Mobiltelefon vorhandenen eingebetteten Software, sondern ermöglicht einen Zugriff auf dessen Betriebssystem.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>III. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent sei in der erteilten Fassung nicht rechtsbeständig. Zwar gehe der Gegenstand des Streitpatents nicht über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinaus, doch beruhe er gegenüber dem Stand der Technik nach D4 und D7a nicht auf einer erfinderischen Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Die Schrift "Informationsdienste in mobiler Umgebung" (Stefan Gessler, HMD Heft 184 [1995], S. 126 ff. = D4) offenbare den Zugriff mobiler Kleinstrechner (PDA = personal digital assistant) auf das Internet. Dabei diene ein sogenannter Partnerrechner des PDA als Gateway zum Internet, was es dem Anwender ermögliche, Dienste und Informationen aufzurufen und auf dem PDA anzuzeigen. Dem Fachmann sei bekannt, dass die Datenübertragung im Internet über Vermittlungsvorrichtungen (<em>switches</em>) oder Vorrichtungen zur Paketweiterleitung (<em>router</em>) erfolge. Dabei handele es sich aus Sicht des Fachmanns um Vermittlungsvorrichtungen im Sinne des Anspruchs. Zudem sei auch der Partnerrechner, der zusammen mit dem PDA als Client anzusehen sei, als Vermittlungsvorrichtung im Sinne des Streitpatents anzusehen. Der PDA, der als Anwenderendgerät anzusehen sei, weise ein Betriebssystem und damit eingebettete Software im Sinne des Streitpatents auf. D4 lasse allerdings nicht erkennen, ob der Browser, mit dem die im Internet angebotenen HTML-Seiten auf dem PDA dargestellt werden können, als Teil des Betriebssystems implementiert sei, sondern überlasse es dem Fachmann, auf welcher Ebene der Softwarearchitektur des PDA der Browser ausgeführt werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Damit sei der Gegenstand von Patentanspruch 1 in der erteilten Fassung gegenüber der D4 zwar neu. Er beruhe jedoch nicht auf erfinderischer Tätigkeit, denn es sei dem Fachmann geläufig, dass er ein bestimmtes Programm entweder als Teil des Betriebssystems oder als separates Anwendungsprogramm bereitstellen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gelte für das Buch "Using Netscape 2" von Mark R. Brown (= D7a). Dort sei beschrieben, wie die Funktionalität des Browsers Netscape 2 durch Plug-Ins erweitert werden könne, wodurch die Nutzung bestimmter Informations- und Unterhaltungsangebote, die aufgrund der Breite des Begriffes des Dienstes in Anspruch 1 als solche anzusehen seien, ermöglicht werde. Solche Plug-Ins steuerten die Anwenderschnittstelle des Endgeräts, denn sie würden als sichtbare, rechteckige Fenster dargestellt und könnten etwa auf Mausklicks oder Position und Bewegung der Maus ebenso wie auf Tastatureingaben reagieren. Die Software Netscape 2 stelle keine eingebettete Software dar, sondern ein Anwendungsprogramm, das der Anwender auf dem Computer installiere, weshalb der Gegenstand von Patenanspruch 1 in der erteilten Fassung neu sei. Er sei jedoch durch D7a nahegelegt gewesen, weil es bereits zum Prioritätszeitpunkt das Bestreben der Fachwelt gewesen sei, einen WWW-Browser auf einem PDA zu implementieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Fassungen der Ansprüche 1, 7 und 8 nach Hilfsanträgen 0 und 1 seien zwar zulässig, doch sei ihr Gegenstand ebenfalls durch D4 und D7a nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Dagegen sei der Gegenstand der Ansprüche 1, 2 und 3 in der ebenfalls zulässigen Fassung nach Hilfsantrag 2 nicht nahegelegt. Der Einsatz einer Mobilvermittlungsstelle sei weder durch D4 noch durch D7a nahegelegt. Die dort behandelten Internetdienste würden von WWW-Servern, also von Rechnern im Internet, erbracht. Der Fachmann habe keine Veranlassung gehabt, diese Server als Mobilvermittlungsstellen auszugestalten. Ein Stand der Technik, der die Anweisung von Anspruch 1 nach Hilfsantrag 2 vorwegnehme, wonach die von einer Mobilvermittlungsstelle bereitgestellten Dienste durch Laden eines Satzes von Computerprogrammbefehlen über das Telekommunikationsnetz und das Programmieren der Anwenderschnittstelle als Erweiterungsschnittstelle der eingebetteten Software eines Mobiltelefons angezeigt und ausgewählt werden könnten, sei von der Klägerin nicht nachgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Beurteilung hält, soweit sie noch zur Überprüfung steht, den Angriffen der Berufung der Beklagten nicht stand. Der Gegenstand von Patentansprüchen 1, 7 und 8 in der zuletzt verteidigten Fassung ist durch den Stand der Technik weder vorweggenommen noch nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand von Patentanspruch 1 geht nicht über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>a) Nach Merkmal 7.2 steuert der Satz von Befehlen, wenn er in das Mobiltelefon geladen ist, die programmierbare Anwenderschnittstelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Nach Auffassung der Klägerin liegt in der Fassung des Anspruchs eine unzulässige Erweiterung. Wie Anspruch 1 der Anmeldung zeige, sei dort lediglich gesagt, dass der Satz von Befehlen das Endgerät steuere.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Für die Frage, ob der Gegenstand des Patents über den Inhalt der ursprünglichen Anmeldung hinausgeht, kommt es jedoch nicht lediglich auf die dort formulierten Ansprüche an, sondern auf den gesamten Inhalt der Anmeldung. In der Anmeldung, die insoweit wörtlich mit den Absätzen 14 bis 16 der Streitpatentschrift übereinstimmt (S. 3 Z. 34 bis S. 4 Z. 31), wird erläutert, dass eingebettete Software, die die Funktionen des Anwenderendgeräts steuert, eine Anwenderschnittstelle umfasst, durch die der Anwender oder der Service Provider diese Funktionen ergänzen kann. Dies geschieht durch die Übermittlung eines Erweiterungsprogramms, das sowohl für neue Menüs und Optionen sorgt als auch den Verkehr von Steuerungsbefehlen zwischen dem Telefon und der Vermittlungseinrichtung regelt. Die Übermittlung der erforderlichen Informationen soll in der Form eines Programms erfolgen, das in das Speichermedium geladen werden kann, auf das der Prozessor zugreift, der die Funktionen des Telefons steuert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dieser Darstellung entnimmt der Fachmann, bei dem es sich nach den nicht angegriffenen Feststellungen des Patentgerichts um einen Diplom-Ingenieur (FH) der Fachrichtung Nachrichtentechnik mit mehrjähriger Entwicklungserfahrung bei der Bereitstellung von Diensten in Telekommunikationsnetzen handelt, unmittelbar und eindeutig, dass der Satz von Befehlen, also die Software, die in das Telefon geladen wird, über die programmierbare Anwenderschnittstelle auf die eingebettete Software zugreifen kann, die wiederum die Funktionen des Telefons steuert, insbesondere die Funktion der Ein- und Ausgabemittel. Er erkennt, dass es durch diese Vorgehensweise nicht erforderlich ist, den Satz von Befehlen so auszugestalten, dass er in der Lage ist, anstelle der ohnehin bereits im Telefon vorhandenen Software dessen Funktionen zu steuern, sondern dass er auf diese Software zugreifen kann, um diese Funktionen, etwa die Tastenbelegung, so zu verändern, dass dem Anwender die Nutzung des entsprechenden Dienstes ermöglicht wird. Diese Vorgehensweise bezeichnet Merkmal 7.2 als Steuerung der programmierbaren Anwenderschnittstelle durch den Befehlssatz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Für die nebengeordneten Ansprüche 7 und 8 gilt Entsprechendes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>b) Nach Merkmal 4.3 enthält das Mobiltelefon eine programmierbare Anwenderschnittstelle als Erweiterungsschnittstelle von eingebetteter Software.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Dieses Merkmal findet sich zwar nicht in Anspruch 1 der Anmeldung. Bereits in den ursprünglichen Anmeldeunterlagen ist jedoch beschrieben, dass die eingebettete Software, die die Funktionen des Endgeräts steuert, eine Erweiterungsschnittstelle umfasst, wodurch der Anwender oder der Diensteanbieter die Funktionen des Endgeräts erweitern. Eine solche Erweiterungsschnittstelle kann danach als programmierbare Anwenderschnittstelle bezeichnet werden (S. 3 Z. 35 bis S. 4 Z. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>c) Nach Merkmal 7.2.1 und 7.2.2 arbeiten die Ausgabe- und Eingabemittel des Mobiltelefons in einer Weise, die durch den zuvor in das Gerät geladenen Satz von Befehlen bestimmt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat hierzu zu Recht darauf hingewiesen, dass eine solche Ausgestaltung des Endgeräts in Anspruch 8 der Anmeldung beschrieben ist. Zudem wird in der Beschreibung der Anmeldung erläutert, dass durch die geladene Software die Funktionen des Telefons erweitert werden können, so dass dem Nutzer die angebotenen Dienste als auch die entsprechenden Befehle angezeigt werden und dafür gesorgt wird, dass die Befehle, je nach der Auswahl des Nutzers, an die Vermittlungseinrichtung übermittelt werden (S. 3 Z. 35 bis S. 4 Z. 2). Dieser Darstellung entnimmt der Fachmann, dass das Erweiterungsprogramm die Art und Weise beeinflusst, in der die Ein- und Ausgabemittel des Endgeräts arbeiten. Danach beruhen auch Patentansprüche 1 und 7 nicht auf einer unzulässigen Erweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Klägerin ist eine unzulässige Erweiterung schließlich nicht darin zu sehen, dass das Telekommunikationsnetz nach Merkmal 2.2 Mobiltelefone umfasst, Merkmal 3 jedoch allgemein von einer Vermittlungseinrichtung spricht. Wie oben ausgeführt ist Merkmal 3 dahin auszulegen, dass es sich um eine Vermittlungseinrichtung handeln muss, die in der Lage ist, die erforderlichen Vermittlungsleistungen in einem Mobilfunknetz zu erbringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 in der zuletzt verteidigten Fassung ist patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 wird durch den Stand der Technik nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>aa) Die nachveröffentlichte europäische Patentanmeldung 772 367 (D3) betrifft ein Mobilfunksystem mit einer zentralen Servicestation, die über Vermittlungseinrichtungen mit mobilen Funkstationen, etwa Mobiltelefonen, in Verbindung steht und mit diesen Daten in digitaler Form austauscht. D3 schlägt vor, den für Mobilfunknetze bereits bekannten Kurzmitteilungsdienst (SMS = Short Message Service) zu nutzen, um an die Endgeräte Programmcode zu übertragen, mit dem der Inhalt des Steuerprogramms dieser Geräte geändert werden kann. Hierzu sollen per Kurzmitteilung Informationen zur Steuerung der mobilen Funkstation übertragen werden, die von deren Mikroprozessor ausgewertet werden und den Inhalt des im Speicher des Geräts abgelegten Steuerprogramms ändern. Dies soll es etwa ermöglichen, die mobile Funkstation mit technischen Funktionsmerkmalen auszustatten, die zunächst inaktiv geschaltet sind und ohne Freischaltung vom Anwender nicht genutzt werden können. Als Beispiele nennt D3 eine Taschenrechnerfunktion oder ein Spiel, die etwa in gesonderten Speicherbereichen des Mobiltelefons bereits vorhanden sind, aber erst genutzt werden können, wenn sie durch eine Kurzmitteilung freigeschaltet werden. Ferner soll es möglich sein, bestimmte Steuerbefehle zu korrigieren oder sonst zu ändern oder neue Steuerbefehle in das Steuerprogramm des Telefons einzufügen, die beispielsweise die Nutzung eines neuen Dienstes ermöglichen, den der Netzbetreiber anbietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>D3 offenbart damit ein Verfahren zum Verwenden von Diensten, die von einem Telekommunikationsnetz angeboten werden. Das Telekommunikationsnetz umfasst auch Vermittlungseinheiten zwischen der zentralen Servicestation und den mobilen Funkstationen und damit Vermittlungseinrichtungen, ferner Mobiltelefone, die mit diesen kommunizieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Vorweggenommen sein mögen ferner Merkmalsgruppen 4 und 7. Die in D3 beschriebene Möglichkeit, durch Programmcode, der per Kurzmitteilung an das Telefongerät übertragen wird und dort dessen Steuerprogramm ändert, lässt erkennen, dass die Software, die die Arbeitsweise des Mobiltelefons steuert, eine Modifikation durch einen Satz von Programmbefehlen ermöglicht, der dem Anwender übermittelt und in das Mobiltelefon geladen wird. Damit mag das Mobiltelefon eine programmierbare Anwenderschnittstelle als Erweiterungsschnittstelle von eingebetteter Software aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Nicht offenbart sind jedoch Merkmalsgruppe 3 und Merkmal 6. Der Entgegenhaltung sind keine Anhaltspunkte dafür zu entnehmen, dass die Vermittlungseinrichtung in der Weise in die Bereitstellung neuer Dienste eingeschaltet ist, dass sie eine Programmierungsschnittstelle für die Programmierung neuer Dienste umfasst und geeignet ist, für das Anbieten dieser Dienste konfiguriert zu werden. Aus D3 ergibt sich ferner nicht, dass die Vermittlungseinrichtung veranlasst wird, gemäß dem neuen Dienst zu arbeiten. Auch der Beschreibung der Ausführungsbeispiele lässt sich nicht entnehmen, dass etwa zur Nutzung der Taschenrechnerfunktion des Mobiltelefons die Vermittlungseinrichtung eingeschaltet werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) Das US-Patent 5 321 480 (D1), der Aufsatz "Informationsdienste in mobiler Umgebung" (Stefan Gessler, HMD Heft 184 [Juli 1995], S. 126 ff. = D4) sowie das Buch "Using Netscape 2" (Mark R. Brown = D7a) betreffen jeweils kein Telekommunikationsnetz, das Mobiltelefone umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand von Patentanspruch 1 ist durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>aa) Die D1 (deutsche Übersetzung = D1a) setzt sich zum Ziel, ein PC-ähnliches Gerät bereitzustellen, das nicht - wie ein herkömmlicher PC - eine große Tastatur, einen Bildschirm und ein Gehäuse mit Computerplatinen umfasst, sondern äußerlich im Wesentlichen einem herkömmlichen Telefongerät ähnelt (Home-Terminal). Dahinter steht die Vorstellung, dass ein solches Gerät auf den Nutzer weniger "einschüchternd" wirke und damit die Hemmschwelle zu seiner Nutzung, etwa zur Inanspruchnahme von Bankdienstleistungen von zu Hause aus, herabgesetzt werde. Vorzugswürdig sei es, wenn das Gerät zugleich die herkömmlichen Funktionen eines Telefons biete.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Einige Unternehmen, etwa Banken, stellten Home-Banking-Dienste bereit, die von solchen Home-Terminals aus, die mit Rechnern der Bank kommunizieren, genutzt werden können. Voraussetzung hierfür ist nach D1, dass ein Home-Terminal zur Verfügung steht, das sich auch für die Verwendung solcher Dienste eignet. Dies erfordere eine neuartige Architektur des Endgeräts, das in einem dezentralen Computernetzwerk verwendet werde, zu dem sowohl Service-Computer gehören, mit denen computergesteuerte Dienstleistungen an Kunden bereitgestellt werden, die sie zuhause von ihren Endgeräten aus nutzen können, als auch Netzwerk-Host-Computer, die als Schnittstelle zwischen den Service-Computern und den Endgeräten dienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Das Endgerät soll reprogrammierbare Logikmittel umfassen. Dazu gehört nach D1 ein PGA (<em>Programmable Gate Array</em>), das für die Implementierung der logischen Verknüpfungen zwischen den Funktionskomponenten des Endgeräts zuständig ist. Die Logikmittel können rekonfiguriert werden. Der hierfür erforderliche Code kann von einer entfernten Quelle, etwa vom Netzwerk-Host-Computer, bereitgestellt werden. Dort wird auch die Anwendungssoftware gespeichert, die auf das Endgerät heruntergeladen werden kann, wodurch der Anwender in die Lage versetzt wird, mit dem ausgewählten Dienst zu interagieren. Soll auf dem Endgerät ein Dienst bereitgestellt werden, wird die Anwendungssoftware auf das Endgerät heruntergeladen, und, falls erforderlich, auch ein Rekonfigurationscode. Ein Vorteil einer entsprechenden Vorgehensweise ist nach D1 darin zu sehen, dass die Bereitstellung komplizierter Tastaturen, wie sie sonst bei Computern üblich sind, vermieden werden kann. Möchte der Nutzer einen bestimmten Dienst anwenden, wird nach den Erläuterungen der D1 eine HAL (= <em>Home Application Language</em>) - Software heruntergeladen und im Endgerät im Arbeitsspeicher gespeichert. Die BIOS-Software, die im Endgerät gespeichert ist, unterstützt Funktionen der HAL-Software, etwa die Steuerung der Anzeige und die Unterstützung von Tastaturfunktionen. Bei Bedarf kann aktualisierte BIOS-Software vom Netzwerk-Host-Computer heruntergeladen und im Endgerät gespeichert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Damit zeigt D1 - entgegen der Auffassung der Beklagten - die in Merkmal 4.3 beschriebene programmierbare Anwenderschnittstelle. Als eingebettete Software im Sinne von Merkmal 4.3, also als Software, die die Arbeitsweise des Endgeräts steuert, ist nicht allein der "Kernel-Code" anzusehen, der nach dem Bau des Geräts nicht mehr geändert werden kann. Wie sich insbesondere aus den Ausführungen in Spalte 11 unten/Spalte 12 oben der D1a ergibt, wird die Arbeitsweise des Geräts, etwa die Steuerung der Anzeige und die Funktion der Tastatur, vielmehr auch von der BIOS-Software unterstützt. Auch diese rechnet mithin im Sinne von Merkmal 4.3 zur eingebetteten Software, die die Arbeitsweise des Endgeräts steuert. Diese Software kann bei Bedarf geändert werden, insbesondere dann, wenn dies zur Nutzung des Endgeräts für die Verwendung der etwa von Banken bereitgestellten Dienste erforderlich ist. Damit weist die eingebettete Software des Endgeräts eine programmierbare Anwenderschnittstelle i.S. von Merkmal 4.3 auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Die Software, die für die Verwendung solcher Dienste erforderlich ist, kann nach D1 auf dem Netzwerk-Host-Computer gespeichert und von dort auf das Endgerät heruntergeladen werden. Dasselbe gilt für einen Rekonfigurationscode für den Fall, dass eine Neukonfiguration des Endgeräts erforderlich ist, um den gewünschten Dienst von diesem aus zu nutzen (Spalte 5 der D1a). Dies entspricht der Bereitstellung eines Befehlssatzes, der, nachdem er in das Endgerät geladen ist, dessen programmierbare Anwenderschnittstelle steuert, im Sinne von Merkmalsgruppe 7 von Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>D1 lehrt damit bereits, das Betriebssystem des Endgeräts eines Computernetzwerks dergestalt zu öffnen, dass es durch einen an das Gerät übermittelten Befehlssatz in einer Weise modifiziert werden kann, die die Verwendung neuer Dienste durch den Anwender ermöglicht oder erleichtert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>D1 beschreibt jedoch eine solche Möglichkeit zur Änderung des Betriebssystems nur für einen stationären PC, der zugleich die herkömmlichen Funktionen eines Telefons bereitstellen kann, nicht jedoch für ein Mobiltelefon. Die Klägerin hat nicht aufgezeigt, dass sich aus dem Stand der Technik im Prioritätszeitpunkt eine Anregung ergab, diese Vorgehensweise auf Mobiltelefone zu übertragen. Ihr Hinweis auf das generelle Interesse an einer möglichst mobilen Nutzung der Dienste von Banken oder dergleichen genügt insoweit nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Auch aus dem Umstand, dass Mobiltelefone zum Prioritätszeitpunkt bereits ein Betriebssystem enthielten, ergab sich kein hinreichend konkreter Anlass, die in D1 beschriebene Möglichkeit, das Betriebssystem eines Personal-Computers so auszugestalten, dass es durch einen aus der Entfernung übermittelten Befehlssatz modifiziert werden kann, auf Mobiltelefone zu übertragen. Die Verwendung eines Betriebssystems kann für den Prioritätszeitpunkt nicht, wie die Klägerin meint, mit der Verwendung eines über eine Anwenderschnittstelle anpassbaren Systems gleichgesetzt werden. Konkrete Anhaltspunkte dafür, dass der Fachmann bereits im Prioritätszeitpunkt eine Anregung dahin erfuhr, das Betriebssystem eines Mobiltelefons auf solche Weise zu öffnen, hat die Klägerin nicht aufgezeigt. Solche ergeben sich auch nicht aus der als Anlage QE29 vorgelegten Bedienungsanleitung für das Gerät "Simon". Dabei handelte es sich um ein Gerät, das die Funktionen eines Mobiltelefons mit denen eines persönlichen digitalen Assistenten verbindet, der etwa einen Taschenrechner, einen Kalender, ein Adressbuch, sowie Mail- und Faxfunktionen umfasst. Zwar ist davon auszugehen, dass ein solches Gerät ein Betriebssystem aufweist, das seine Arbeitsweise steuert. Aus QE29 ergeben sich jedoch keine Anhaltspunkte dafür, dass dieses Betriebssystem nach der Überlassung des Geräts geändert werden kann, etwa um weitere Anwendungen zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Der Hinweis der Klägerin auf D4 rechtfertigt keine andere Beurteilung. In diesem Aufsatz werden Überlegungen dazu angestellt, wie ein mobiler Zugriff auf das Internet mittels eines persönlichen digitalen Assistenten (PDA) ermöglicht werden kann. D4 schlägt dazu eine Aufgabenteilung zwischen dem PDA und einem mit diesem zusammenwirkenden Partnerrechner vor, der als Gateway zum Internet fungiert. Zweck dieser Aufgabenteilung ist es, den zum Zeitpunkt der Veröffentlichung dieses Aufsatzes (Juli 1995) bestehenden Beschränkungen hinsichtlich der Speicher- und Rechenkapazitäten eines PDA und der Leistungsfähigkeit der Datenverbindung zwischen Partnerrechner und PDA dadurch Rechnung zu tragen, dass die erforderlichen Arbeiten zum Teil auf den Partnerrechner verlagert werden und damit der PDA entlastet wird. Unter anderem ist dafür eine Benutzerschnittstelle vorgesehen, die den damals verbreiteten Browsern nachempfunden ist und die Darstellung von HTML-Seiten auf dem Display des PDA ermöglicht. In D4 wird erwähnt, dass es neben PDA auch weitere Geräte gebe, die als PIC (Personal Intelligent Communicators) bezeichnet würden. Es sei bereits jetzt abzusehen, dass sich diese Klassen mittelfristig nicht mehr unterscheiden werden. Auch daraus ergibt sich jedoch kein hinreichend konkreter Hinweis, die aus D1 bekannte Vorgehensweise auf Mobiltelefone zu übertragen. Es ist bereits nicht ersichtlich, dass mit den in D4 angesprochenen PIC Mobiltelefone gemeint sind. Vielmehr spricht viel dafür, dass mit diesem Begriff mobile Geräte gemeint sind, bei denen zwar die Kommunikation im Vordergrund steht, die also etwa den Austausch von Textnachrichten oder dergleichen ermöglichen, die aber keine Telefonie erlauben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>bb) Eine andere Beurteilung ergibt sich auch dann nicht, wenn als Ausgangspunkt der Überlegungen des Fachmanns die D4 oder D7a zugrunde gelegt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>c) Der Gegenstand der nebengeordneten Ansprüche 7 und 8, die ein Telekommunikationssystem zur Anwendung des Verfahrens nach Anspruch 1 und ein Mobiltelefon, das diesem System entspricht, unter Schutz stellen, ist danach ebenfalls patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 Satz 2 PatG in Verbindung mit §§ 91 Abs. 1, 92 Abs. 1, 97 Abs. 1, 516 Abs. 3 Satz 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>Berichtigungsbeschluss vom 13. Februar 2018</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das Urteil vom 16. Januar 2018 wird wegen offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO wie folgt berichtigt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Tenor wird dahin gefasst, dass es in Patentanspruch 7, zweiter Spiegelstrich, statt "(...) the programmable user interface that is in includes in (...)" richtig heißt: "(...) the programmable user interface that is included in (...)".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE620042018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

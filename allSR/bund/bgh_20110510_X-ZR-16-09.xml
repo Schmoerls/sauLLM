@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE311152011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20110510</entsch-datum>
+   <aktenzeichen>X ZR 16/09</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 69 EuPatÜbk</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 22. Dezember 2008, Az: I-2 U 65/07, Urteil<br/>vorgehend LG Düsseldorf, 31. Juli 2007, Az: 4b O 297/06, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Schutzbereich des Patents: Auslegung des Patentanspruchs bei Widersprüchen zwischen den Patentansprüchen und der Beschreibung – Okklusionsvorrichtung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Okklusionsvorrichtung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Bei Widersprüchen zwischen den Patentansprüchen und der Beschreibung sind solche Bestandteile der Beschreibung, die in den Patentansprüchen keinen Niederschlag gefunden haben, grundsätzlich nicht in den Patentschutz einbezogen. Die Beschreibung darf nur insoweit berücksichtigt werden, als sie sich als Erläuterung des Gegenstands des Patentanspruchs lesen lässt .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Offenbart die Beschreibung mehrere Möglichkeiten, wie eine bestimmte technische Wirkung erzielt werden kann, ist jedoch nur eine dieser Möglichkeiten in den Patentanspruch aufgenommen worden, begründet die Benutzung einer der übrigen Möglichkeiten regelmäßig keine Verletzung des Patents mit äquivalenten Mitteln  .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Rechtsmittel der Beklagten zu 1 werden das am 22. Dezember 2008 verkündete Urteil des 2. Zivilsenats des Oberlandesgerichts Düsseldorf aufgehoben und das am 31. Juli 2007 verkündete Urteil der 4b-Zivilkammer des Landgerichts Düsseldorf abgeändert, soweit zum Nachteil der Beklagten zu 1 erkannt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird - auch im Umfang der Klageerweiterung in der Berufungsinstanz - abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Gerichtskosten und den außergerichtlichen Kosten der Klägerin in erster und zweiter Instanz tragen der Beklagte zu 2 ein Achtel und die Klägerin sieben Achtel. Die Beklagte zu 1 wird von allen Kosten freigestellt. Die Klägerin trägt die Kosten des Revisionsverfahrens sowie die außergerichtlichen Kosten der Beklagten zu 1 in erster und zweiter Instanz. Von den außergerichtlichen Kosten der Beklagten zu 3 und 4 in erster Instanz trägt die Klägerin 15%. Im Übrigen tragen die Parteien ihre außergerichtlichen Kosten selbst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist seit 2006 eingetragene Inhaberin des auch mit Wirkung für die Bundesrepublik Deutschland erteilten, am 10. Juli 1995 international angemeldeten europäischen Patents 808 138 (Klagepatents), das eine Intravaskulär-Okklusionsvorrichtung und ein Verfahren zu deren Herstellung betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die mit der Klage geltend gemachten Patentansprüche 1 und 16 lauten in der Verfahrenssprache Englisch und in der deutschen Übersetzung der Patentschrift:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A collapsible medical device (60) comprising a metal fabric formed of braided strands, the device (60) having a collapsed configuration for delivery through a channel in a patient's, and has a generally dumbbell-shaped expanded configuration with two expanded diameter portions (64) separated by a reduced diameter portion (62) formed between opposed ends of the device, characterized in that clamps (15) are adapted to clamp the strands at the opposed ends of the device.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">16. A method of forming a medical device according to any one of the preceding claims, the method comprising the steps of</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) providing a metal fabric formed of a plurality of braided strands, the strands being formed of a metal which can be heat treated to substantially set a desired shape;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) deforming the metal fabric to generally conform to an internal wall surface of a moulding element;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) heat treating the metal fabric in contact with the surface of the moulding element at an elevated temperature, the temperature and the duration of the heat treatment being sufficient to substantially set the shape of the fabric in its deformed state;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) removing the metal fabric from contact with the moulding element and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(e) clamping the opposite ends of the strands of the device with clamps."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Kollabierbare medizinische Vorrichtung (60), umfassend ein aus geflochtenen Metalllitzen gebildetes Metallgewebe, wobei die Vorrichtung (60) eine kollabierte Konfiguration zur Zuführung durch einen Kanal in einem Patienten hat und eine allgemein hantelförmige entfaltete Konfiguration mit zwei Teilen mit erweitertem Durchmesser (64) hat, die durch einen zwischen entgegengesetzten Enden der Vorrichtung gebildeten Teil mit reduziertem Durchmesser (62) getrennt sind, dadurch gekennzeichnet, dass die Klemmen (15) zum Festklemmen der Litzen an den entgegengesetzten Enden der Vorrichtungen ausgeführt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">16. Verfahren zum Herstellen einer medizinischen Vorrichtung nach einem der vorhergehenden Ansprüche, wobei das Verfahren die folgenden Schritte umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Bereitstellen eines Metallgewebes, das aus einer Mehrzahl von geflochtenen Litzen gebildet ist, wobei die Litzen aus einem Metall hergestellt werden, das wärmebehandelt werden kann, um im Wesentlichen eine gewünschte Form festzulegen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Verformen des Metallgewebes, damit es allgemein einer inneren Wandfläche eines Formelements entspricht;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) Wärmebehandeln des Metallgewebes in Kontakt mit der Oberfläche des Formelements bei einer erhöhten Temperatur, wobei die Temperatur und die Dauer der Wärmebehandlung ausreichen, um die Form des Gewebes in seinem verformten Zustand im Wesentlichen festzulegen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(d) Entfernen des Metallgewebes aus dem Kontakt mit dem Formelement und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(e) Festklemmen der entgegengesetzten Enden der Litzen der Vorrichtung mit Klemmen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 1, deren Geschäfte der Beklagte zu 2 geführt hat, vertreibt unter der Bezeichnung "F. O." ein Verschlussimplantat zur Behandlung von Septumdefekten aus einem Metallgewebe, dessen (in der deutschen Übersetzung des Patentanspruchs als Litzen bezeichnete) Drähte aus einer Nickel-Titan-Legierung (Nitinol) bestehen. Die Drähte werden um etwa 180° umgeschlagen, wodurch die Drahtenden sämtlich am proximalen Ende der fertigen Vorrichtung zu liegen kommen. Nach einer formgebenden Wärmebehandlung wird über das Drahtbündelende eine Nitinolmuffe geschoben. Das Drahtbündel wird am proximalen Ende der Muffe abgeschnitten und ein Endabschnitt mit der Muffe verschweißt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat deswegen die Beklagten zu 1 und 2 sowie die Beklagte zu 3 und deren Geschäftsführer, den Beklagten zu 4, wegen wortlautgemäßer, jedenfalls aber äquivalenter Verletzung des Klagepatents auf Unterlassung, Rechnungslegung, Vernichtung und Feststellung der Schadensersatzpflicht in Anspruch genommen. Das Landgericht hat im Wesentlichen antragsgemäß erkannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Im Berufungsverfahren hat die Klägerin im Weg der Anschlussberufung die Klage gegenüber den Beklagten zu 1 und 2 auf eine weitere Ausführungsform erweitert. Sie hat außerdem die Beklagten zu 1 und 2 auch aus einem deutschen Gebrauchsmuster und einem weiteren europäischen Patents in Anspruch genommen, insoweit die Klage jedoch wieder zurückgenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat die Berufung der Beklagten zurückgewiesen und auch der Anschlussberufung entsprochen (OLG Düsseldorf, InstGE 10, 248).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer vom Senat zugelassenen Revision verfolgt die Beklagte zu 1 (im Folgenden auch: Beklagte) ihr Klageabweisungsbegehren in vollem Umfang weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision führt zur Aufhebung des angefochtenen Urteils und unter Abänderung der erstinstanzlichen Entscheidung zur Abweisung der gegen die Beklagte zu 1 gerichteten Klage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat dem Klagepatent das technische Problem entnommen, eine kollabierbare medizinische Vorrichtung, insbesondere eine solche, mit der Blutgefäße eines Patienten verschlossen werden können (Embolisationsvorrichtung), zur Verfügung zu stellen, die präzise in ein Gefäß eingesetzt und am Ort ihres Einsatzes ohne Schwierigkeiten entfaltet werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat Patentanspruch 1 des Klagepatents wie folgt gegliedert:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Kollabierbare medizinische Vorrichtung, die ein Metallgewebe umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Das Metallgewebe ist aus geflochtenen Metalllitzen (in der Verfahrenssprache: <em>braided metal strands</em>) gebildet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Vorrichtung hat</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) eine kollabierte Konfiguration zur Zuführung durch einen Kanal in einem Patienten und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) eine allgemeine hantelförmige entfaltete Konfiguration.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die allgemein hantelförmige (entfaltete) Konfiguration hat</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) zwei Teile mit erweitertem Durchmesser, die</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) durch einen Teil mit reduziertem Durchmesser getrennt sind, der zwischen entgegengesetzten Enden der Vorrichtung gebildet ist;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Klemmen zum Festklemmen der Litzen (<em>clamps … to clamp the strands</em>) sind an den entgegengesetzten Enden der Vorrichtung ausgeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Eine Ausführungsform zeigt Figur 5A des Klagepatents:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="275px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Die Beklagte zu 1 hat nach den Feststellungen des Berufungsgerichts die angegriffenen Ausführungsformen Figulla PFO (Patent Foramen Ovale)-Occluder und FigullaASD-Occluder, katheterbasierte Verschlussimplantate zur Behandlung von Atriumseptumdefekten (Vorhofscheidewanddefekten), nämlich Perforationen der Herzscheidewand, gefertigt, auf einem Kongress in Frankfurt am Main vorgestellt, im Internet beworben und in den Verkehr gebracht (Abbildungen im Berufungsurteil S. 11 bis 13). Die Litzen bestehen dabei aus einstückigen Nitinoldrähten, die um etwa 180° umgeschlagen werden, wodurch die Litzenenden zusammen mit den in fertigem Zustand ohnehin dort positionierten Litzenenden sämtlich am späteren proximalen Ende der Vorrichtung und nicht an deren entgegengesetzten Enden zu liegen kommen. Diese ersten Ausführungsformen weisen einen Ring aus Nitinol (einer Nickel-Titan-Legierung mit "Formgedächtnis") auf, mit dem ein definierter proximaler Endabschnitt verschweißt oder verschmolzen wird; an dem Nitinolring wird eine Stahlmuffe mit Innengewinde befestigt, um ein Einschrauben eines Führungsdrahts zu ermöglichen. Die zweite Ausführungsform verzichtet auf den Nitinolring, die Stahlmuffe wird unmittelbar auf das zuvor verschweißte Ende des Drahtbündels aufgesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>III. Das Berufungsgericht hat mit dem Landgericht angenommen, die angegriffene Ausführungsform I entspreche wortlautgemäß der technischen Lehre des Patentanspruchs 1. Die Verwirklichung der Merkmale 2 bis 4b des Sachanspruchs werde von den Beklagten mit Recht nicht in Abrede gestellt. Die Vorrichtungen seien auch kollabierbare Vorrichtungen im Sinn des Merkmals 1; auf Embolisationsvorrichtungen sei der Gegenstand des Patentanspruchs 1 nicht beschränkt. Auch aus der Hantelform der geschützten Vorrichtung ergebe sich keine Einschränkung des Einsatzbereichs der Vorrichtung; diese könne auch zur Behandlung von Septumdefekten verwendbar sein. Das Berufungsgericht hat dabei angenommen, dass die erfindungsgemäße Vorrichtung in der kollabierten Form etwa mit Hilfe eines Katheters in ein Gefäß des Patienten eingeführt werden könne; werde sie aus dem distalen Ende des Katheters entlassen, könne sie eine definiert entfaltete Form einnehmen, die es gewährleiste, dass sie sich nicht unbeabsichtigt vom Einsatzort entfernen könne. Die Vorrichtung werde innerhalb des zu verschließenden Gefäßes so positioniert, dass ihre Achse generell mit derjenigen des Blutgefäßes übereinstimme. Die besondere Hantelform der entfalteten Konfiguration begrenze dabei die Möglichkeit, dass sich die Verschlussvorrichtung gegenüber der Gefäßachse im Winkel verdrehe. Dies lässt keinen Rechtsfehler erkennen und wird auch von der Revision nicht beanstandet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Ebenso sei das Merkmal 5 verwirklicht. Mit der erstmals in der Berufungsinstanz aufgestellten Behauptung, zur festen Verbindung der Drähte diene nicht die Nitinolmuffe, die keine Klemmwirkung entfalte, sondern die Plasmaschweißverbindung der Drahtenden mit der Muffe, könnten die Beklagten nicht gehört werden. Erfolglos bleibe schließlich das Vorbringen der Beklagten, dass die angegriffene Vorrichtung die Drähte nur an einem Ende der Vorrichtung zusammenführe. Dies entspreche noch dem technischen Wortsinn des Merkmals 5, denn der in der Patentbeschreibung hervorgehobene, erfindungsgemäß durch das Vorsehen von Klemmen angestrebte Schutz der Litzen gegen ein Ausfasern einzelner Drahtenden und ihr Zurückkehren in die ungeflochtene Position erscheine nur dort notwendig, wo ein abgeschnittenes freies Ende vorliege, das ausfasern könne. Die Klagepatentschrift beschreibe (Abs. 27/28 der Beschreibung), dass auch aus einem flachen Gewebe, wie es in Figur 1B dargestellt sei, erfindungsgemäße Verschlussvorrichtungen durch Umschlagen der vier Enden des Gewebestücks nach oben hergestellt werden könnten. Die sich nach dem Festklemmen bildende leere Tasche brauche dann nur am oberen "Rand" zusammengeklammert zu werden. Zwar lehre das Klagepatent bei philologischer Betrachtung mehrere Klemmen und schreibe darüber hinaus vor, mit diesen Klemmen die Litzen an den entgegengesetzten Enden der Vorrichtung, also sowohl am proximalen als auch am distalen Ende, festzuklemmen. Bei diesem rein sprachlichen Verständnis bleibe der Fachmann jedoch nicht stehen. Er sehe, dass die Klemmen dem Bündeln der Litzen dienten, und zwar unabhängig davon, ob die Litzen in gestrecktem Zustand belassen oder ihre Enden durch Umbiegen übereinander gelegt seien, denn dadurch hörten die beiden Litzenenden nicht auf zu existieren. Der Fachmann werde deshalb davon ausgehen, dass Patentanspruch 1 in seinem technischen Sinngehalt auch Ausführungen umfasse, bei denen beide Litzenenden übereinander gelegt und nur an einem Ende der Vorrichtung gebündelt seien. Aus Absatz 27 der Beschreibung in Verbindung mit Figur 1B ergebe sich, dass die Herstellung eines Okkluders aus einem flachen Gewebestück durch Umschlagen erfasst sein solle, bei der nur eine Klemme erforderlich sei. In dieser Ausführungsvariante ergebe es mit Rücksicht auf die Funktion der Klemmen nur einen technischen Sinn, Klemmen dort anzubringen, wo überhaupt freie Litzenenden vorhanden seien. Der im Patentanspruch verwendete Plural "Klemmen" stehe dem nicht entgegen, denn der Fachmann begreife die Formulierung vor dem Hintergrund des in Absatz 27 erläuterten Ausführungsbeispiels als Gattungsbezeichnung. Dieser Auslegung stehe auch nicht entgegen, dass auch Merkmal 4 auf die entgegengesetzten Enden der Vorrichtung Bezug nehme und dort eindeutig das proximale und das distale Ende der Vorrichtung selbst gemeint seien. Denn in Merkmal 4 gehe es um die Bestimmung der Lage des mittleren Teils der Vorrichtung mit reduziertem Durchmesser. Fehl gehe auch der durch die Entscheidung der Rechtbank Den Haag im niederländischen Verletzungsverfahren untermauerte Einwand der Beklagten, der Anmelder habe im Erteilungsverfahren auf Patentschutz für Ausführungsformen nach Absatz 27 verzichtet, weil die Erteilungsakten grundsätzlich kein zulässiges Auslegungsmaterial seien. Der Fachmann, dem sich aus der Patentschrift nicht erschließe, dass - wie die Beklagten meinten - Teile der Beschreibung hätten gestrichen werden müssen, werde die betreffenden Textstellen als Erläuterung des geschützten Gegenstands verstehen und versuchen, sie in einen sinnvollen Gesamtzusammenhang zu bringen, bei dem sich Widersprüche nicht ergäben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich der mit der Anschlussberufung eingeführten zweiten Ausführungsform gälten dieselben Erwägungen. Ein Unterschied zur Ausführungsform I bestehe lediglich darin, dass die Drahtenden ohne Nitinolring verschweißt seien und auf die verschweißten Enden eine Stahlhülse zur Verbindung mit einem Führungsdraht aufgeschoben werde. Für die Stahlhülse gelte wie für die Nitinolhülse der ersten Ausführungsform, dass sie die Drahtenden aufnehme und schon dadurch zusammenhalte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Ausführungen halten der revisionsrechtlichen Nachprüfung nicht in vollem Umfang stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Dabei kann für die Prüfung einer wortsinngemäßen Patentbenutzung zugunsten der Klägerin unterstellt werden, dass die von der Beklagten vertriebenen Vorrichtungen eine Klemme im Sinn des Merkmals 5 des Patentanspruchs 1 des Klagepatents nach der Gliederung des Berufungsurteils aufweisen, mit der die Drahtenden geklemmt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Merkmal 5 verlangt weiter an den entgegengesetzten Enden der Vorrichtung angebrachte Klemmen (<em>"clamps (15) are adapted to clamp the strands at the opposed ends of the device"</em>). Diesem Erfordernis entspricht eine einzige, an einem Ende der Vorrichtung angebrachte Klemme nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Zwar sagt weder der Begriff "Klemmen" <em>(clamps)</em> noch der Begriff "Enden" <em>(ends)</em> für sich genommen etwas darüber aus, wie viele von ihnen vorhanden sein müssen; grundsätzlich ist auch eine Auslegung dahin denkbar, dass es sich um Gattungsbegriffe handelt, wie dies das Berufungsgericht im Ansatz zutreffend gesehen hat. Das Berufungsgericht hat aber nicht hinreichend berücksichtigt, dass mit der Formulierung "<em>at the opposed ends of the device</em>" eine Festlegung dahin getroffen ist, dass Klemmen an den entgegengesetzten Enden der Vorrichtung angebracht werden sollen, und dass damit notwendigerweise zwei Klemmen vorhanden sein müssen, wie dies auch die englischen (vgl. das Urteil des High Court vom 31. Juli 2009 - [2009] EWHC 2013 (Ch) Rn. 68 ff., 72, 76, 77 und das Urteil des Court of Appeal vom 22. Juni 2010 - [2010] EWCA Civ 702 Rn. 48 ff.) und niederländischen Gerichte (Urteil der Rechtbank Den Haag ('s-Gravenhage) vom 29. Oktober 2008 - 2992367/HA ZA 07-3614 Rn. 4.2, 4.3; Urteil des Gerechtshof Den Haag ('s-Gravenhage) vom 19. Oktober 2010 - 200.020.925/01) gesehen haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die entgegengesetzten Enden der Vorrichtung werden, wie das Berufungsgericht nicht verkennt, bereits in Merkmal 4 b erwähnt und können dort nicht anders als wörtlich verstanden werden. Die Annahme des Berufungsgerichts, die entgegengesetzten Enden seien in Merkmal 4 b anders zu verstehen als in Merkmal 5, findet weder im Patentanspruch noch in der Beschreibung eine Stütze.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat sich insoweit maßgeblich von der Überlegung leiten lassen, dass von Patentanspruch 1 auch Ausführungsformen umfasst seien, bei denen die Drähte durch Umbiegen übereinander gelegt und deshalb nur an einem Ende der Vorrichtung gebündelt seien, weswegen Patentanspruch 16 auch auf ein Festklemmen der entgegengesetzten Enden der Litzen und nicht der Vorrichtung abstelle. Zwar kann sich diese Begründung auf die Erwähnung einer durch Umschlagen herzustellenden "leeren Tasche" ("<em>the fabric can be inverted upon itself to form a recess or depression and the fabric can be clamped about this recess to form an empty pocket ... before the fabric is cut</em>") in Absatz 27 der Beschreibung des Klagepatents (in der maßgeblichen Verfahrenssprache) stützen. Dieser Rückgriff auf die Beschreibung vermag die Auslegung durch das Berufungsgericht jedoch nicht zu tragen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die Erwägung des Berufungsgerichts, einer Klemme bedürfe es erkennbar nur dort, wo Drahtenden zu klemmen seien, geht, wie die Revision mit Recht rügt, daran vorbei, dass sich nach Patentanspruch 1 an beiden Enden der Vorrichtung Drahtenden befinden, die zusammengeklemmt werden können und geklemmt werden müssen, um ein Ausfasern zu vermeiden. Eine Ausführungsform, bei der es auf einer Seite an solchen Drahtenden fehlt, kann daher nicht dazu herangezogen werden, entgegen dem klaren Wortlaut des Patentanspruchs ein Festklemmen sämtlicher Litzen an ein und demselben Ende der Vorrichtung statt an den entgegengesetzten als wortsinngemäße Verwirklichung der erfindungsgemäßen Lehre anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Nach der Vorgabe in Art. 69 Abs. 1 Satz 1 EPÜ wird der Schutzbereich eines Patents durch die Patentansprüche bestimmt. Damit diese Bestimmung so erfolgen kann, dass die Ziele des Artikels 1 des Auslegungsprotokolls erreicht werden, ist zunächst unter Berücksichtigung von Beschreibung und Zeichnungen der technische Sinngehalt zu ermitteln, der dem Wortlaut des Patentanspruchs aus fachmännischer Sicht beizumessen ist. Zwar ist ein buchstäbliches Verständnis der Patentansprüche nicht zur Erfassung des geschützten Gegenstands geeignet, andererseits darf der Schutzgegenstand aber auch nicht durch Verallgemeinerung konkreter, im Anspruch angegebener Lösungsmittel erweitert werden (vgl. Ballhaus/Sikinger, GRUR 1986, 337, 341). Insbesondere darf ein engerer Patentanspruch nicht nach Maßgabe einer weiter gefassten Beschreibung interpretiert werden. Der Patentanspruch hat vielmehr Vorrang gegenüber der Beschreibung (BGH, Urteile vom 7. September 2004 - X ZR 255/01, BGHZ 160, 204, 209 = GRUR 2004, 1023 - bodenseitige Vereinzelungseinrichtung; vom 13. Februar 2007 - X ZR 74/05, BGHZ 171, 120 = GRUR 2007, 410 - Kettenradanordnung I; vom 17. April 2007 - X ZR 72/05, BGHZ 172, 88, 97 = GRUR 2007, 778, 779 - Ziehmaschinenzugeinheit I; vom 4. Februar 2010 - Xa ZR 36/08, GRUR 2010, 602 - Gelenkanordnung). Was in den Patentansprüchen keinen Niederschlag gefunden hat, kann nicht unter den Schutz des Patents fallen. Die Beschreibung und die Zeichnungen sind zwar nach Art. 69 Abs. 1 Satz 2 EPÜ zur Auslegung der Patentansprüche heranzuziehen, da diese der Erläuterung der Patentansprüche dienen. Beschreibung und Zeichnungen sind mithin heranzuziehen, um den Sinngehalt des Patentanspruchs zu ermitteln. Ihre Heranziehung darf aber weder zu einer inhaltlichen Erweiterung noch zu einer sachlichen Einengung des durch den Wortsinn des Patentanspruchs festgelegten Gegenstands führen (BGH, aaO - bodenseitige Vereinzelungseinrichtung; BGH, aaO - Ziehmaschinenzugeinheit I; BGH, aaO - Gelenkanordnung). Lassen sich die technische Lehre der Beschreibung und die technische Lehre des Patentanspruchs nicht in Einklang bringen, ist der Patentanspruch maßgeblich (vgl. schon BGH, Urteile vom 29. November 1988 - X ZR 63/87, BGHZ 106, 84, 93 f. = GRUR 1989, 205, 208 - Schwermetalloxidationskatalysator; vom 16. Juni 1987 - X ZR 51/86, BGHZ 101, 159 = GRUR 1987, 794 - Antivirusmittel). Bei Widersprüchen zwischen Patentansprüchen und Beschreibung sind solche Bestandteile der Beschreibung, die in den Patentansprüchen keinen Niederschlag gefunden haben, grundsätzlich nicht in den Patentschutz einbezogen. Die Beschreibung darf somit nur insoweit berücksichtigt werden, als sie sich als Erläuterung des Gegenstands des Patentanspruchs lesen lässt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Auch die Überlegung, dass die Fachwelt grundsätzlich bestrebt ist, die Patentschrift in einem sinnvollen Zusammenhang zu lesen und ihren Gesamtinhalt im Zweifel so zu verstehen, dass sich Widersprüche nicht ergeben (vgl. BGH, Beschluss vom 8. Juli 2008 - X ZB 13/06, GRUR 2008, 887 - Momentanpol II; Urteil vom 31. März 2009 - X ZR 95/05, BGHZ 180, 215 = GRUR 2009, 653 - Straßenbaumaschine), führt hier nicht zu einer Einbeziehung der insoweit übereinstimmenden angegriffenen Ausführungsformen in den Gegenstand des Patentanspruchs 1 des Klagepatents. Dieser Grundsatz wird nämlich durch den Vorrang des Patentanspruchs eingegrenzt. Kann, wie hier, der Wortlaut des Patentanspruchs mit einer Beschreibungsstelle nicht in Einklang gebracht werden, kann die Beschreibung nicht zur "Korrektur" des Patentanspruchs herangezogen werden; andernfalls würde gegen den Grundsatz des Vorrangs des Patentanspruchs verstoßen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Relevante Widersprüche zwischen Beschreibung und Patentansprüchen sind, was die Lage der Klemmen an den entgegengesetzten Enden betrifft, allerdings zu verneinen. Die Beschreibungsstelle, auf die sich das Berufungsgericht gestützt hat (Abs. 27), lässt sich nicht ohne Weiteres mit Patentanspruch 1 in Verbindung bringen. Sie besagt nämlich lediglich, dass bei Verwendung eines flachen Gewebes entsprechend der Figur 1B des Klagepatents als Ausgangsmaterial dieses umgeklappt und geklammert werden kann, um eine "leere Tasche" (<em>an empty pocket</em>) zu bilden, bevor es zugeschnitten wird (<em>before the fabric is cut</em>). In dieser unklaren Passage wird nicht ausgeführt, ob und inwiefern sich aus der Tasche eine praktisch brauchbare allgemein hantelförmige Konfiguration herstellen lässt, wie sie Gegenstand von Patentanspruch 1 ist (Merkmal 4); das Berufungsgericht hat auch ausdrücklich offen gelassen, ob dies möglich ist. Die Textpassage schließt zudem unmittelbar an Absatz 26 an, in dem nichtpatentgemäße Formen der Fixierung der Drahtenden erörtert werden. Damit betrifft sie ersichtlich schon kein Ausführungsbeispiel der erfindungsgemäßen Vorrichtung, sondern beschreibt nicht mehr als einen möglichen Arbeitsschritt beim Herstellungsvorgang und nicht das fertige patentgemäße Erzeugnis. Damit kann die Beschreibungsstelle, auf die sich das Berufungsgericht gestützt hat, aber nicht die Grundlage für eine den Wortsinn des Patentanspruchs korrigierende Auslegung des Patentanspruchs bilden. Es kann daher auch hier unerörtert bleiben, ob es der Grundsatz, dass nicht auf Vorgänge im Erteilungsverfahren zurückgegriffen werden darf, die im Patent keinen Niederschlag gefunden haben (BGH, Urteil vom 12. März 2002 - X ZR 43/01, BGHZ 150, 161 = GRUR 2002, 511 - Kunststoffrohrteil), auch verbietet, auf Patentveröffentlichungen wie die amtlich veröffentlichte Patentanmeldung oder frühere Fassungen der später etwa im Einspruchsverfahren oder im Beschränkungsverfahren geänderten Patentschrift zurückzugreifen, wenn sich der Gehalt der maßgeblichen Fassung der Patentschrift erst aus einem Vergleich mit diesen erschließt und damit zu einem Niederschlag auch in dieser geführt hat (vgl. hierzu schon BGH, Urteil vom 4. Februar 2010 - Xa ZR 36/08, GRUR 2010, 602 Rn. 33 - Gelenkanordnung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Da es mithin jedenfalls an Klemmen an den entgegengesetzten Enden der Vorrichtung fehlt, ist eine wortsinngemäße Verletzung zu verneinen. Die abweichende Betrachtung des Berufungsgerichts führt zur Einbeziehung einer Unterkombination in den Patentschutz. Dies ist, wie der Senat bereits wiederholt ausgeführt hat, nicht statthaft (BGH, Urteil vom 31. Mai 2007 - X ZR 172/04, BGHZ 172, 298 = GRUR 2007, 1059 - Zerfallszeitmessgerät; BGHZ 180, 215 = GRUR 2009, 653 - Straßenbaumaschine).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>V. Das Berufungsurteil ist mithin aufzuheben. Einer Zurückverweisung der Sache an das Berufungsgericht bedarf es nicht, da der Senat in der Sache selbst entscheiden kann. Die Klage gegen die Beklagte zu 1 erweist sich als unbegründet, da die angegriffenen Ausführungsformen die erfindungsgemäße Lehre auch nicht mit äquivalenten Mitteln verwirklichen und daher nicht in den Schutzbereich des Klagepatents fallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>1. Für die Prüfung der geltend gemachten, vom Berufungsgericht folgerichtig nicht erörterten Patentverletzung mit äquivalenten Mittel kann zugunsten der Klägerin unterstellt werden, dass die Ausgestaltung der angegriffenen Ausführungsformen, bei denen nur eine einzige Klemme vorhanden ist, die sämtliche Drähte an einem (dem proximalen) Ende der Vorrichtung zusammenhält, während das andere Ende der Vorrichtung auf Grund der dort umgeschlagenen Drähte verschlossen ist, mit zwar abgewandelten, aber objektiv gleichwirkenden Mitteln dasselbe Problem löst wie der in Patentanspruch 1 unter Schutz gestellte Gegenstand, bei dem die Klemmen an den entgegengesetzten Enden der Vorrichtung ausgeführt sind, und dass der Fachmann, wie die Klägerin in ihrem Schriftsatz vom 15. April 2011 noch einmal eingehend dargelegt hat, durch seine Fachkenntnisse dazu befähigt ist, die abgewandelten Mittel als gleichwirkend aufzufinden (Senat, Urteil vom 12. März 2002 - X ZR 168/00, BGHZ 150, 149, 154 = GRUR 2002, 515 - Schneidmesser I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>2. Zu verneinen ist dagegen, dass die Überlegungen, die der Fachmann hierzu anstellen muss, am Sinngehalt der im Patentanspruch unter Schutz gestellten technischen Lehre orientiert sind. Die abweichende Ausführung mit ihren abgewandelten Mitteln ist daher aus fachmännischer Sicht nicht als gleichwertig in Betracht zu ziehen (vgl. u.a. Senat, Urteile vom 12. März 2002 - X ZR 168/00, BGHZ 150, 149, 154 - Schneidmesser I und vom 14. Dezember 2010 - X ZR 193/03, GRUR 2011, 313 Rn. 35 - Crimpwerkzeug IV). Zu dieser rechtlichen Beurteilung, zu der der Bundesgerichtshof als Revisionsgericht berufen ist, bedarf es keiner Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Eine Aussage darüber, ob eine vom Wortsinn des Patentanspruchs abweichende Ausführung in den Schutzbereich eines Patents fällt, kann zwar regelmäßig nur dann getroffen werden, wenn sich der Tatrichter mit den betreffenden Fragen befasst hat. Denn bei der Gleichwirkung handelt es sich um eine Frage, deren Beantwortung tatrichterlicher Feststellungen bedarf, die in der Revisionsinstanz nicht nachgeholt werden können (BGH, Urteile vom 22. November 2005 - X ZR 81/01, GRUR 2006, 313 Rn. 22 - Stapeltrockner und vom 17. April 2007, GRUR 2007, 959 Rn. 28 - Pumpeinrichtung). Dies liegt aber daran, dass der Tatrichter gegebenenfalls keinen Anlass hatte, Feststellungen zu einer vom Wortsinn des Patentanspruchs abweichenden, indessen gleichwohl die technische Wirkung der Erfindung erzielenden Ausgestaltung der angegriffenen Ausführungsform zu treffen. Insoweit kann jedoch im Streitfall auf die Feststellungen zur tatsächlichen Beschaffenheit der angegriffenen Ausführungsform zurückgegriffen werden, die das Berufungsgericht als wortsinngemäße Benutzung gewertet hat und auf die auch die Klägerin die von ihr hilfsweise geltend gemachte äquivalente Verletzung stützt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Gleichwertigkeit des abweichenden Mittels ist hingegen eine Rechtsfrage, die der revisionsrechtlichen Prüfung zugänglich ist. Sie hängt zwar in der Regel entscheidend ebenfalls von den in der Tatsacheninstanz zu klärenden tatsächlichen Grundlagen ab (BGH, Urteile vom 22. November 2005, aaO Rn. 23 - Stapeltrockner und vom 14. Dezember 2010, aaO Rn. 36 - Crimpwerkzeug IV). Das schließt jedoch nach § 563 Abs. 3 ZPO nicht aus, dass sie vom Revisionsgericht unmittelbar entschieden werden kann, wenn diejenigen tatsächlichen Feststellungen, die die Annahme einer äquivalenten Verletzung gegebenenfalls tragen könnten, bereits getroffen sind und weitere Feststellungen nicht zu erwarten sind (BGH, Urteile vom 4. Februar 2010 - Xa ZR 36/08, aaO - Gelenkanordnung und vom 14. Dezember 2010, aaO Rn. 34 ff. - Crimpwerkzeug IV). So liegt der Fall hier.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht ist davon ausgegangen, dass die "Litzen" entweder in gestrecktem Zustand belassen werden oder ihre Enden - gleichwirkend - durch Umbiegen übereinander gelegt und dann nur an einem Ende der Vorrichtung gebündelt werden können. Daran schließt sich die weitere Überlegung an, dass es in diesem Fall nicht erforderlich ist, zwei Klemmen zu verwenden, sondern dass beide Enden mit einer einzigen Klemme erfasst und zusammengehalten werden können. Die eine, sämtliche Litzenenden erfassende Klemme wird danach als Ersatzmittel für die zwei Klemmen angesehen, die nach dem Wortlaut des Patentanspruchs die Litzen einerseits am proximalen, andererseits am distalen Ende zusammenklemmen. Auf dieser Grundlage verficht auch die Klägerin eine gleichwertige Benutzung des Klagepatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Diese Überlegung ist schon in ihrem Ausgangspunkt nicht am Patentanspruch orientiert. Das Klagepatent (auch der Patentanspruch, der ein aus geflochtenen Metalllitzen gebildetes Metallgewebe verlangt, Merkmal 2) verknüpft die geschützte Vorrichtung eng mit dem Herstellungsverfahren. Welche Varianten der erfindungsgemäßen Vorrichtung aus fachmännischer Sicht aufgrund von am Patentanspruch orientierten Überlegungen als gleichwertig in Erwägung zu ziehen sind, lässt sich deshalb nicht unabhängig von der Frage beantworten, ob und wie sich eine solche geänderte Ausführungsform einfach und kostengünstig so herstellen lässt, wie dies das Klagepatent für die dem Wortsinn des Patentanspruchs entsprechende Ausführung der Vorrichtung lehrt, nämlich in Form des in Figur 1A gezeigten Flechtschlauchs (wie er im Übrigen auch von der von der Klägerin herangezogenen japanischen Gebrauchsmusterveröffentlichung Hei 04-47415 verwendet wird). Demgegenüber hat die Überlegung, die Litzen könnten auch um 180° umgebogen werden, so dass alle Litzenenden an demselben Ende der Vorrichtung liegen, schon deshalb keine Grundlage im Patentanspruch, weil nicht erkennbar ist, wozu eine derartige Ausgestaltung bei der Bereitstellung eines (schlauchförmigen) Metallgewebes dienen sollte, aus dem sich eine Vorrichtung mit den Merkmalen 3 bis 5, d.h. mit freien, jeweils mit einer Klemme zusammen zu haltenden Drahtenden an beiden Enden der Vorrichtung, formen lässt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Die Funktion der Klemmen an den entgegengesetzten Enden der Vorrichtung erschöpft sich nicht darin, dort die Drahtenden durch Klemmwirkung zusammenzuhalten. Vielmehr soll die Vorrichtung an beiden Enden geschlossen werden, indem das Metallgewebe gehindert wird, sich aufzulösen (Abs. 25 der Beschreibung). Die Erwägung der Klägerin, die technische Lehre des Klagepatents werde nicht verlassen, wenn auf Grund des in der Patentschrift offenbarten Herstellens der patentgemäßen Vorrichtung (scil. aus einem flachen Metallgewebe bzw. einer daraus geformten "leeren Tasche") oder auch nach Umschlagen eines Schlauchgewebes nach dem Vorbild der japanischen Gebrauchsmusterveröffentlichung ein offenes Drahtende nur noch auf einer Seite vorliege und dann auch nur dort eine Klemme zum Einsatz komme, während das andere Ende durch das ausdrücklich beschriebene Umschlagen des Gewebes verschlossen sei, und der Fachmann werde eine abweichende Ausgestaltung, bei der das eine Ende durch Umschlagen und das andere Ende durch Vorsehen von Klemmen geschlossen werde, als an der technischen Lehre des Merkmals 5 orientiert ansehen, greift daher zu kurz. Denn der Patentanspruch begnügt sich weder mit der Anforderung, die offenen Drahtenden klemmend zusammenzuhalten, noch mit der Anforderung, beide offenen Enden der Vorrichtung zu verschließen, sondern verlangt, dass der Verschluss an diesen beiden Enden der Vorrichtung in der Weise ausgeführt wird, dass dort die (Enden der) Drähte mittels Klemmen festgeklemmt werden. Er trifft damit eine Auswahl aus den in Absatz 26 der Beschreibung erwähnten vielfältigen Möglichkeiten, die Enden der gewünschten Gewebelänge "alternativ" (durch Löten, Hartlöten, Schweißen oder auf andere Weise) zu fixieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Bei der Prüfung der Orientierung am Patentanspruch, die Voraussetzung der Einbeziehung einer als gleichwirkend auffindbaren Abwandlung der wortsinngemäßen Lehre in den Schutzbereich des Patents ist, darf dies nicht außer Betracht bleiben. Orientierung am Patentanspruch setzt voraus, dass der Patentanspruch in allen seinen Merkmalen nicht nur den Ausgangspunkt, sondern die maßgebliche Grundlage für die Überlegungen des Fachmanns bildet (BGH, Urteil vom 29. November 1988 - X ZR 63/87, BGHZ 106, 84, 90 f. = GRUR 1989, 205 - Schwermetalloxidationskatalysator; Urteil vom 12. März 2002 - X ZR 168/00, BGHZ 150, 149, 154 = GRUR 2002, 515 - Schneidmesser I). Trifft der Patentanspruch eine Auswahlentscheidung zwischen verschiedenen Möglichkeiten, eine technische Wirkung zu erzielen, müssen die fachmännischen Überlegungen zu möglichen Abwandlungen gerade auch mit dieser Auswahlentscheidung in Einklang stehen. Nur solche fachmännischen Überlegungen sind daher auch im Streitfall an der durch den Patentanspruch geschützten technische Lehre orientiert, die auch der Auswahlentscheidung des Patentanspruchs Rechnung tragen, an beiden Enden der Vorrichtung die Drähte mittels einer Klemme durch eine Klemmverbindung zusammenzuhalten. Ebenso wenig wie das im Patentanspruch vorgesehene Klemmen an beiden Enden der Vorrichtung durch eine Schweiß- oder sonstige Verbindung ersetzt werden darf, die vom Klagepatent zwar offenbart, aber nicht beansprucht wird, darf an einem Ende der Vorrichtung die Klemmverbindung durch eine andere Verbindungsform ersetzt werden. Eine solche andere Verbindungsform stellt es aber - wie auch die Klägerin ihren Überlegungen zur Gleichwertigkeit zugrunde legt - dar, wenn die Verbindung der Drähte am distalen Ende der Vorrichtung durch das Umschlagen des Gewebes erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung des englischen Berufungsgerichts, das gemeint hat, die "Schneidmesser-Fragen" enthielten nichts, was der dritten der in Improver v. Remington ([1990] FSR 181) von J. Hoffmann als Teil seiner Wiedergabe von Lord Diplocks Auslegungsansatz in Catnic gestellten Fragen entspreche (aaO Rn. 28 f.), führt somit die Prüfung der Orientierung am Patentanspruch zum Ausschluss einer Ausführungsform aus dem Schutzbereich des Patents, die zwar offenbart oder für den Fachmann jedenfalls auffindbar sein mag, von der der Leser der Patentschrift aber annehmen muss, dass sie - aus welchen Gründen auch immer - nicht unter Schutz gestellt werden sollte (vgl. BGH, aaO, 159 - Schneidmesser I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>VI. Die Kostenentscheidung beruht auf § 91 Abs. 1, § 100 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                         Keukenschrijver                                        Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                          Grabinski                                                       Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE311152011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

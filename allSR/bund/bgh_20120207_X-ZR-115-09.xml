@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300352012</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20120207</entsch-datum>
+   <aktenzeichen>X ZR 115/09</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, § 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 21. Juli 2009, Az: 3 Ni 21/08 (EU)<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsstreit betreffend ein europäisches Patent: Patentfähigkeit eines Verfahrens zur Herstellung einer Substanz mit Hilfe von Stoffwechselvorgängen in Mikroorganismen - Transhydrogenase</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Transhydrogenase</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Fachmann, der mit der Verbesserung eines Verfahrens zur Herstellung einer Substanz mit Hilfe von Stoffwechselvorgängen in Mikroorganismen betraut ist, hat grundsätzlich nur dann Anlass, die Verstärkung eines bestimmten Teilvorgangs im Rahmen des Stoffwechselnetzwerks in Erwägung zu ziehen, wenn bekannt oder mit hinreichender Wahrscheinlichkeit zu erwarten ist, dass dieser Faktor limitierend wirkt, d.h. bei den bekannten Verfahren nicht in ausreichendem Maße zur Verfügung steht.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 21. Juli 2009 verkündete Urteil des 3. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Klägerinnen zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 733 712 (Streitpatents), das am 26. Oktober 1994 unter Inanspruchnahme der Priorität einer japanischen Anmeldung vom 28. Oktober 1993 angemeldet worden ist. Das Streitpatent betrifft ein Verfahren zur Herstellung einer Substanz durch einen Mikroorganismus und umfasst in der erteilten Fassung 10 Patentansprüche, von denen der erste in der Verfahrenssprache Englisch wie folgt lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"A method for production of a target substance using a microorganism, comprising the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">cultivating a microorganism in a culture medium to allow the target substance to be produced and accumulated in said culture medium; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">collecting the target substance from said culture medium,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein productivity of said microorganism for reduced nicotinamide adenine dinucleotide phosphate is enhanced."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen haben das Streitpatent wegen fehlender Patentfähigkeit in vollem Umfang angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat auf Patentanspruch 10, der einen modifizierten Mikroorganismus betraf, verzichtet, und das Streitpatent im Übrigen in geänderter Fassung mit sieben Patentansprüchen in deutscher Sprache verteidigt. Patentanspruch 1, auf den die übrigen Patentansprüche zurückbezogen sind, lautet in der verteidigten Fassung (Änderungen gegenüber der erteilten Fassung sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Herstellung einer Zielsubstanz <span style="text-decoration:underline">L-Aminosäure, deren Biosynthese reduziertes Nicotinamidadenindinucleotidphosphat erfordert,</span> durch einen Mikroorganismus, welches folgende Stufen umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Kultivierung eines Mikroorganismus in einer Kultur, um die <span style="text-decoration:line-through">Zielsubstanz </span>
+                  <span style="text-decoration:underline">L-Aminosäure</span> zu produzieren und in dem Kulturmedium anzuhäufen, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Gewinnen der Zielsubstanz <span style="text-decoration:underline">L-Aminosäure</span> aus dem Kulturmedium,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wobei der Mikroorganismus so modifiziert worden ist, dass die Fähigkeit des Mikroorganismus, reduziertes Nicotinamidadenindinucleotidphosphat aus reduziertem Nicotinamidadenindinucleotid herzustellen, erhöht ist, wodurch die Produktivität des Mikroorganismus für reduziertes Nicotinamidadenindinucleotidphosphat erhöht ist."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit sein Gegenstand über die verteidigte Fassung hinausgeht, und die Klage im Übrigen abgewiesen. Dagegen wenden sich die Klägerinnen mit ihrer Berufung, mit der sie weiterhin die vollständige Nichtigerklärung des Streitpatents anstreben. Die Beklagte tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Im Auftrag des Senats hat Prof. Dr. rer. nat. habil.      W.                     ein schriftliches Gutachten erstattet, das er in der mündlichen Verhandlung erläutert und ergänzt hat. Die Klägerinnen haben Stellungnahmen von Prof.     B.               , Prof.   R.            und Prof.      J.             vorgelegt, die Beklagte Stellungnahmen von Prof. Dr.   S.              und eine wissenschaftliche Gegendarstellung des eben genannten zusammen mit Prof. Dr.     K.         .</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft in seiner verteidigten Fassung ein Verfahren zur Herstellung einer L-Aminosäure durch einen Mikroorganismus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift waren am Prioritätstag Verfahren zur Herstellung von L-Aminosäuren im Wege der Fermentation unter Einsatz von Mikroorganismen wie zum Beispiel Escherichia coli (nachfolgend E. coli) bekannt. Hierbei seien auch genetisch veränderte Mikroorganismen eingesetzt worden. Bei den herkömmlicherweise eingesetzten Mikroorganismen sei die Inhibition des Endprodukts - also der natürliche Mechanismus, der die Herstellung des Endprodukts bei Erreichen bestimmter Werte verlangsamt oder unterbindet - aufgehoben worden. Die Biosynthesewege seien jedoch identisch mit denjenigen von Wildtypmikroorganismen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft das technische Problem, die Produktivität solcher Herstellungsverfahren zu verbessern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieses Problems schlägt das Streitpatent nach der verteidigten Fassung von Patentanspruch 1 ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (die abweichende Gliederung des Patentgerichts ist in eckigen Klammern wiedergegeben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Verfahren dient der Herstellung einer L-Aminosäure, deren Biosynthese reduziertes Nicotinamidadenindinucleotidphosphat erfordert [1 und 1.1].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Das Verfahren umfasst</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) die Kultivierung des Mikroorganismus in einer Kultur [3],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) um die L-Aminosäure zu produzieren und im Kulturmedium anzuhäufen [3.1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) und das Gewinnen der L-Aminosäure aus dem Kulturmedium [4].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Der Mikroorganismus ist modifiziert worden [2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) so dass dessen Fähigkeit, reduziertes Nicotinamidadenindinucleotidphosphat aus reduziertem Nicotinamidadenindinucleotid herzustellen, erhöht ist [2.1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) wodurch die Produktivität des Mikroorganismus für Nicotinamidadenindinucleotidphosphat erhöht ist [2.2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Entscheidende Bedeutung kommt hierbei dem Einsatz eines modifizierten Mikroorganismus mit den Merkmalen 3 a und 3 b zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Reduziertes Nicotinamidadenindinucleotidphosphat (NADPH) ist ein Koenzym, das für den Stoffwechselvorgang benötigt wird, bei dem die gewünschte L-Aminosäure erzeugt wird. Es kann auf verschiedenen Wegen erzeugt werden, unter anderem durch Umwandlung von Glukose auf dem so genannten Pentosephospat-Weg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Durch die Modifikation des Mikroorganismus gemäß Merkmalsgruppe 3 wird dessen Fähigkeit erhöht, NADPH auf anderem Wege herzustellen, nämlich durch Einsatz von reduziertem Nicotinamidadenindinucleotid (NADH). Dies ist ein Koenzym, dessen Aufbau demjenigen von NADPH ähnlich ist. Es ist in den eingesetzten Mikroorganismen üblicherweise vorhanden, jedoch für andere Stoffwechselvorgänge von Bedeutung. Durch die in Merkmalsgruppe 3 definierte Modifikation kann es eingesetzt werden, um das für die Herstellung der L-Aminosäure benötigte NADPH ohne Einsatz von Glukose zu erzeugen. Damit steht ein höherer Anteil der eingesetzten Glukose für die Umwandlung in das angestrebte Endprodukt zur Verfügung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Zur Erreichung des in Merkmal 3 a vorgegebenen Ziels, die Fähigkeit zur Herstellung von NADPH aus NADH zu erhöhen, gibt Patentanspruch 1 kein konkretes Mittel vor. In E. coli kann das Ziel, wie der gerichtliche Sachverständige bestätigt hat, nur durch Steigerung der Aktivität des Enzyms Nicotinamidnucleotidtranshydrogenase (nachfolgend: Transhydrogenase) erreicht werden. In den in der Streitpatentschrift geschilderten Ausführungsbeispielen geschieht dies durch verstärkte Expression des für dieses Enzym codierenden Gens. Diese spezielle Vorgehensweise ist in den Patentansprüchen 5 bis 7 als zwingendes Merkmal vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der verteidigten Fassung des Streitpatents sei neu. In der Veröffentlichung von Clarke und Bragg (Cloning and Expression of the Transhydrogenase Gene of Escherichia coli, Journal of Bacteriology, Vol. 162 (1985), 367-373, <span style="text-decoration:underline">NK5</span>) werde zwar die gentechnische Herstellung von E.-coli-Zellen offenbart, die das Enzym Transhydrogenase überexprimierten und deshalb über eine erhöhte Fähigkeit zur Herstellung von NADPH aus NADH verfügten. Dabei handle es sich aber nicht um Mikroorganismen, die L-Aminosäuren in einer solchen Menge produzierten, dass diese im Kulturmedium angehäuft und daraus gewonnen werden könnten. NK5 enthalte auch keine Hinweise darauf, dass die Überproduktion von Transhydrogenase mit einer gleichzeitigen Überproduktion von L-Aminosäuren gekoppelt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der verteidigten Fassung des Streitpatents beruhe auch auf erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann, ein in der Industrie tätiger Biochemiker oder Chemiker mit fundiertem biochemischen Wissen und mehrjähriger Erfahrung in der großtechnischen, fermentativen Herstellung von Stoffen, sei am Prioritätstag von dem Grundwissen ausgegangen, wie es etwa in der Veröffentlichung von Tosaka und Takinami (Lysine, in: Aida et al. (Hrsg.), biotechnology of amino acid production, progress in industrial microbiology, Vol. 24 (1986), Ch. 14, 152-172, <span style="text-decoration:underline">NB1</span>) dargestellt sei. Ihm sei folglich bekannt gewesen, dass für eine fermentative Produktion von Aminosäure der natürliche Biosyntheseweg im Mikroorganismus dereguliert werden müsse und dass dies zum Beispiel dadurch geschehen könne, dass die Anzahl bestimmter Gene, die für ein oder mehrere an der Biosynthese beteiligte Enzyme kodierten, mit Hilfe rekombinanter DNA-Techniken erhöht werde. Aus den in NB1 wiedergegebenen Figuren 14-1 und 14-2 habe der Fachmann bei aufmerksamem Studium darüber hinaus entnehmen können, dass NADPH eine wichtige Substanz für die Biosynthese von L-Lysin darstelle. Daraus gehe aber nicht hervor, dass das bei der Biosynthese verbrauchte NADPH über die Transhydrogenase gebildet werde und dass dieses Enzym einen geschwindigkeitsbestimmenden Schritt katalysiere.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Lehre des Streitpatents werde dem Fachmann auch nicht durch eine Zusammenschau von NB1 mit den Entgegenhaltungen NK5 bis NK10 vermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>In der Veröffentlichung von Liang und Houghton (Coregulation of Oxidized Nicotinamide Adenine Dinucleotide (Phosphate) Transhydrogenase and Glutamate Dehydrogenase Activities in Enteric Bacteria During Nitrogen Limitation, Journal of Bacteriology, Vol. 146 (1981), 997-1002, <span style="text-decoration:underline">NK8</span>) werde zwar die Vermutung aufgestellt, dass Transhydrogenase bei der Biosynthese von Glutamat beteiligt sein könnte. Zugleich werde aber die Einschätzung geäußert, es sei nicht möglich, der Transhydrogenase eine Beteiligung bei der generellen Bereitstellung von NADPH in E. coli nachzuweisen. Von anderen Forschungsteams sei eine Beteiligung der Transhydrogenase an der Biosynthese von Aminosäuren sogar ausgeschlossen worden, zum Beispiel in der Veröffentlichung von Csonka und Fraenkel (Pathways of NADPH Formation in Escherichia coli, The Journal of Biological Chemistry, Vol. 252 (1977), 3382-3391, <span style="text-decoration:underline">NB3</span>).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>In der Veröffentlichung von Houghton et al. (Control of NAD(P)+ Transhydrogenase Levels in Escherichia coli, Archives of Biochemistry and Biophysics 176 (1976), 747-752, <span style="text-decoration:underline">NK7</span>) werde darauf hingewiesen, dass die Biosyntheseaktivität von E.-coli-Zellen in enger Verbindung mit der Aktivität der Transhydrogenase stehe. Dies beziehe sich jedoch auf die De-novo-Proteinbiosynthese, die sich grundlegend von der Aminosäurebiosynthese unterscheide. Zudem enthalte NK7 weitere Informationen, die den Fachmann davon abgehalten hätten, für eine fermentative Herstellung von L-Aminosäuren Mikroorganismen mit den Merkmalen 3 a und 3 b [2.1 und 2.2] zu verwenden, insbesondere Hinweise auf einen erhöhten Energieverbrauch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>In der Veröffentlichung von Bragg et al. (Function of Energy-dependent Transhydrogenase in Escherichia coli, Biochemical and Biophysical Research Communications, Vol. 47 (1972), 1248-1255, <span style="text-decoration:underline">NK6</span>) werde die Vermutung geäußert, dass die energieabhängige Transhydrogenaseaktivität bei der Bereitstellung von NADPH für die Biosynthese von Aminosäuren beteiligt sei. Diese Hypothese sei aber auch knapp acht Jahre später in NK8 noch nicht bestätigt worden. Eine Stütze für sie finde sich auch nicht in der Veröffentlichung von Hoek und Rydström (Physiological roles of nicotinamide nucleotide transhydrogenase, Biochemical Journal, Vol. 254 (1988), 1-10, <span style="text-decoration:underline">NK10</span>). Dort werde ähnlich wie in NK8 lediglich festgestellt, dass die Transhydrogenase NADPH in der Zelle nur in Krisensituationen bereitstelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand von Patentanspruch 1 des Streitpatents ist, wie auch die Klägerinnen nicht in Zweifel ziehen, neu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>In der Entgegenhaltung NK5 (Clarke und Bragg) werden Versuche zur Ermittlung grundlegender Eigenschaften von Transhydrogenase in E. coli geschildert. In einem ersten Schritt wurde der Abschnitt im Erbgut der Zellen identifiziert, der das für Transhydrogenase codierende (aus anderen Versuchen bekannte) Gen enthält. Dieser Genabschnitt wurde gentechnisch so verändert, dass er eine höhere Ablesestärke aufweist. Die Zellen, in die der veränderte Genabschnitt eingebracht wurde, zeigten eine bis zu 70fach erhöhte Transhydrogenase-Aktivität. Dieser Effekt wurde genutzt, um das Enzym zu identifizieren. Als Ergebnis wird berichtet, das funktionale Enzym werde aus zwei Polypeptidketten gebildet, die beide für seine Funktion erforderlich seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Damit sind, wie das Patentgericht zutreffend dargelegt hat, zwar Mikroorganismen offenbart, die die in Merkmalsgruppe 3 definierten Modifikationen aufweisen, nicht aber ein Verfahren, bei dem solche Mikroorganismen zur Herstellung einer L-Aminosäure eingesetzt werden. Auch in den anderen Entgegenhaltungen ist ein solches Verfahren nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 des Streitpatents ist durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>a) Der relevante Fachmann verfügte über eine wissenschaftliche Ausbildung in Chemie, Biochemie oder einem verwandten Fachgebiet und über fundierte Erfahrung in der Entwicklung von Verfahren zur fermentativen Herstellung von Stoffen. Ihm waren deshalb die am Prioritätstag bekannten Verfahren zur Herstellung von L-Aminosäuren im Wege der Fermentation geläufig. Er war in erster Linie praktisch orientiert - was der gerichtliche Sachverständige und der Privatgutachter S.  mit der Bezeichnung "metabolischer Ingenieur" zusammengefasst haben -, aber auch in der Lage, auf Erkenntnisse der Grundlagenforschung zurückzugreifen, wie sie in einigen der vorgelegten Entgegenhaltungen offenbart sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Dem mit der Verbesserung von Verfahren zur Herstellung von L-Aminosäuren mit Hilfe von Mikroorganismen befassten Fachmann war am Prioritätstag aus verschiedenen Veröffentlichungen, zu denen auch diejenige von Tosaka und Takinami (NB1) gehört, bekannt, dass NADPH als Hilfsstoff für die Synthese des angestrebten Endprodukts erforderlich ist. Aus anderen Veröffentlichungen wie zum Beispiel derjenigen von Houghton et al. (NK6) war bekannt, dass NADPH auf verschiedenen Wegen bereitgestellt werden kann, zu denen auch der Einsatz von NADH und Transhydrogenase gehört. Entgegen der Auffassung der Klägerinnen und der von ihr beauftragten Privatgutachter gab dies allein indes keine Veranlassung, nach Wegen zu suchen, um die verfügbare Menge von NADPH zu erhöhen oder seine Bereitstellung durch Umwandlung von NADH zu verstärken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Aus dem Umstand, dass NADPH zur Herstellung von L-Aminosäuren unerlässlich ist, folgt nicht, dass eine erhöhte Bereitstellung dieses Koenzyms zu besseren Verfahrensergebnissen führt. Entsprechendes gilt für die am Prioritätstag verfügbare Erkenntnis, dass NADPH unter Einsatz von NADH mittels Transhydrogenase hergestellt werden kann. Dies war nur einer von mehreren Wegen, die für die Bereitstellung von NADPH in Betracht kamen. Es bestand nicht ohne weiteres Grund zu der Annahme, dass eine Verstärkung gerade dieses Bereitstellungsweges zu besseren Ergebnissen führen werde. Wie der gerichtliche Sachverständige überzeugend erläutert hat, sind gute Verfahrensergebnisse grundsätzlich nur dann zu erwarten, wenn alle für die Produktion des angestrebten Endprodukts erforderlichen Bausteine und Hilfsstoffe in ausreichender Menge zur Verfügung stehen. Versuche, die Menge eines einzelnen Ausgangs- oder Hilfsstoffes zu erhöhen, sind wenig erfolgversprechend, weil nicht davon ausgegangen werden kann, dass gerade dieser Stoff bislang in zu geringer Menge zur Verfügung gestanden und deshalb für den Gesamtvorgang limitierend gewirkt hat. Hinzu kommt, dass die einzelnen Stoffwechselvorgänge sich wechselseitig beeinflussen können und nicht absehbar ist, wie sich eine einzelne Veränderung auf den gesamten Wirkungsablauf - den der gerichtliche Sachverständige anschaulich als Stoffwechselnetzwerk bezeichnet hat - im Ergebnis auswirkt. Die theoretische Möglichkeit, in isolierten Versuchen für jeden in Betracht kommenden Stoff zu untersuchen, ob eine Mengenerhöhung zu einer Verbesserung führt, ist angesichts der Vielzahl der in Betracht kommenden Stoffe und der zu erwartenden Wechselwirkungen nicht erfolgversprechend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Der mit einer Verfahrensverbesserung betraute Fachmann hatte deshalb Anlass, sich mit denjenigen Faktoren zu befassen, von denen bekannt oder mit hinreichender Wahrscheinlichkeit zu erwarten war, dass sie limitierend wirken. Er hatte hingegen keine Veranlassung, andere Faktoren in den Blick zu nehmen, die als Ursache für eine Limitierung nicht oder nur mit geringer Wahrscheinlichkeit in Betracht kamen. Er hatte grundsätzlich auch keinen Anlass, die am Prioritätstag verfügbaren Erkenntnisse darüber, welche Faktoren am ehesten als limitierend in Betracht kommen, grundlegend zu hinterfragen und die Suche nach solchen Faktoren völlig von neuem zu beginnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>c) Für den Fachmann ergaben sich am Prioritätstag keine konkreten Hinweise darauf, dass die Bereitstellung von NADPH oder der Weg, auf dem dies geschieht, für die Produktion von Aminosäure limitierend wirken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(1) In der Veröffentlichung von Tosaka und Takinami (NB1) wird ausgeführt, die Regulation der Biosynthese von L-Lysin basiere auf der Hemmung bestimmter Enzyme. Die betroffenen Enzyme und die für ihre Hemmung ursächlichen Stoffe sind für die beiden behandelten Stoffwechselpfade in den Tabellen 14-1 und 14-2 aufgeführt. Danach geht in den meisten Fällen die hemmende Wirkung von Lysin selbst aus (so ausdrücklich NB1 S. 159 unten). Auf der Grundlage dieser Erkenntnisse werden in NB1 verschiedene Möglichkeiten geschildert, diese Hemmungswirkung zu vermindern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Unter anderem wird über Versuche berichtet, durch rekombinante DNA-Technik die Produktion der wichtigsten Enzyme zu erhöhen. Der Erfolg solcher Ansätze hänge davon ab, ob die Reaktion, die das Enzym katalysiere, einer der limitierenden Schritte auf dem Syntheseweg sei. Klare Hinweise auf eine limitierende Wirkung bei der Biosynthese von L-Lysin in E. coli hätten sich für das Enzym Dihydrodipicolinat-Synthase ergeben. Versuche mit einer Amplifizierung von Aspartokinase III und DAP-Decarboxylase hätten hingegen keine signifikanten Verbesserungen ergeben (NB1 S. 166 f.). Eine limitierende Wirkung von Transhydrogenase oder NADPH wird, wie das Patentgericht zutreffend ausgeführt hat, in NB1 nicht erwähnt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(2) In der in demselben Sammelband wie NB1 enthaltenen Veröffentlichung von Komatsubara und Kisumi (Isoleucine, Valine, and Leucine, in: Aida et al. (aaO), Vol. 24 (1986), Ch. 21, 233-246, <span style="text-decoration:underline">NK12.1</span> = NK13.1) werden Rückkopplungshemmung und Repression als wichtigste Regulationsmechanismen für die Biosynthese von Isoleucin, Valin und Leucin bezeichnet (NK12.1 S. 234 unten). Eine vollständige Zerstörung solcher Mechanismen wird als wichtig für die Konstruktion von hyperproduzierenden Stämmen eingestuft (NK12.1 S. 237 unten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Im Zusammenhang mit der Schilderung verschiedener praktischer Beispiele wird die Möglichkeit der "indirekten Suppression" erwähnt. Diese werde eingesetzt, wenn eine sekundäre Mutation einen Stoffwechselweg eröffne, der in Wildtypstämmen nicht in signifikantem Ausmaß funktionell sei (NK12.1 S. 242 unten). Im abschließenden Kapitel wird ferner ausgeführt, es sei wahrscheinlich, dass eine Beschleunigung der Glutamat-Bildung die Synthese von verzweigtkettigen Aminosäuren steigere. Deshalb wird vorgeschlagen, bei der Konstruktion von Stämmen zukünftig auch genetische Modifikationen der zellulären Stoffwechselprozesse für Zucker, Stickstoff und Energie vorzunehmen (NK12.1 S. 244 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Daraus ergab sich für den Fachmann zwar, wie die Klägerinnen unter Bezugnahme auf die von ihr vorgelegten Privatgutachten im Ansatz zutreffend geltend machen, dass neben der Aufhebung von Inhibitionsmechanismen auch die Modifikation der natürlichen Stoffwechselprozesse als Mittel zur Verbesserung des Herstellungsprozesses in Betracht kommt. Konkrete Hinweise darauf, die Bereitstellung von NADPH zu erhöhen oder zu modifizieren, lassen sich den Ausführungen in NK12.1 jedoch nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(3) In der Veröffentlichung von Ishino et al. (C Nuclear Magnetic Resonance Studies of Glucose Metabolism in L-Glutamic Acid and L-Lysine Fermentation by Corynebacterium Glutamicum, Journal of General and Applied Microbiology, Vol. 37 (1991), 157-165, <span style="text-decoration:underline">NK12.4</span> = NK13.5) werden Versuche zur Biosynthese von L-Glutaminsäure und L-Lysin mit Corynebacterium glutamicum geschildert. Als Ergebnis wird unter anderem berichtet, bei der Synthese von Glutaminsäure erfolge der Glukoseabbau zu rund 80% im Wege der Glykolyse (EMP), bei der Synthese von Lysin hingegen zu rund 60% auf dem Pentosephosphat-Weg (hexosemonophosphate pathway, HMP, NK12.4 Tabelle 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Bei der Diskussion der Ergebnisse wird die Vermutung geäußert, der Pentosephosphat-Weg habe einen Nachteil, da er CO<sub>2</sub> freisetze. In Diskrepanz dazu stehe jedoch die Beobachtung, dass ein größerer Anteil dieses Weges bei der Synthese von Lysin zu einer höheren Ausbeute geführt habe (NK12.4 S. 161 f.). Dies könne damit erklärt werden, dass bei der Glykolyse kein NADPH gebildet werde, während auf dem Pentosephosphat-Weg theoretisch 12 NADPH gebildet würden. Bei der Synthese von Glutaminsäure werde kein zusätzliches NADPH benötigt. Deshalb sei zu vermuten, dass der größere Anteil des Pentosephosphat-Wegs bei der Synthese von Lysin auf dem größeren Bedarf an NADPH beruhe. Auch wenn weitere Untersuchungen erforderlich seien, um diese Vermutung zu bestätigen, werde es bei der Verbesserung von Produktionsstämmen nützlich sein, den Bedarf an NADPH zu berücksichtigen (NK12.4 S. 163).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Auch daraus ergaben sich keine Hinweise darauf, dass die Verfügbarkeit von NADPH ein limitierender Faktor sein könnte. Die Beobachtung, dass ein hoher Bedarf an NADPH zu einem höheren Anteil des Pentosephosphat-Weges führt, deutete vielmehr darauf hin, dass die eingesetzten Mikroorganismen in der Lage sind, das benötigte NADPH auch ohne optimierende Eingriffe zu erzeugen. Wie der gerichtliche Sachverständige erläutert hat, legte zudem auch der Umstand, dass der in NK12.4 mitgeteilte Anteil des Pentosephosphat-Wegs mit 60% deutlich unterhalb des theoretischen Maximalwerts liegt, nahe, dass an dieser Stelle keine Limitierung zu befürchten ist. Angesichts dessen ergibt sich aus dem in NK12.4 abstrakt formulierten Vorschlag, bei der Verbesserung von Produktionsstämmen den Bedarf an NADPH zu berücksichtigen, keine konkrete Anregung dahin, die bereitgestellte Menge dieses Stoffs zu erhöhen oder zur Bereitstellung verstärkt die Transhydrogenase zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(4) In der Veröffentlichung von Stephanopoulos und Vallino (Network Rigidity and Metabolic Engineering in Metabolite Overproduction, Science, Vol. 252 (1991), 1675-1681, <span style="text-decoration:underline">NB7</span>) wird ein Versuch geschildert, bei dem die Verfügbarkeit von NADPH bei der Biosynthese von Lysin durch Corynebacterium glutamicum durch Kultivierung auf einer anderen Nährlösung (Gluconat statt Glukose) erhöht wurde. Als Ergebnis des Versuchs wird berichtet, eine Steigerung der NADPH-Menge um 50% habe nicht zu einer erhöhten Lysinausbeute geführt (NB7 S. 1679 reSp Mitte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>In der Veröffentlichung von Vallino und Stephanopoulos (Metabolic Flux Distributions in Corynebacterium glutamicum During Growth and Lysine Overproduction, Biotechnology and Bioengineering, Vol. 41 (1993), 633-646, <span style="text-decoration:underline">NB5</span>) wird auf der Grundlage von eingehenden Versuchen ebenfalls die Vermutung geäußert, dass die Verfügbarkeit von NADPH die Ausbeute von Lysin nicht limitiere (NB5 S. 642 liSp Mitte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Beide Veröffentlichungen gaben dem Fachmann keinen Anlass, Änderungen an der Bereitstellung von NADPH als erfolgversprechenden Weg zur Verbesserung bekannter Biosyntheseverfahren in Betracht zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(5) In der Veröffentlichung von Mascarenhas et al. (Deletion of pgi Alters Tryptophan Biosynthesis in a Genetically Engineered Strain of Escherichia coli, Applied and Environmental Microbiology, Vol. 37 (1991), 2995-2999, <span style="text-decoration:underline">NK12.5</span> = NK13.8) wird über Versuche zur Biosynthese der Aminosäure L-Tryptophan mit E. coli berichtet, bei denen die eingesetzten Bakterienstämme gentechnisch so verändert wurden, dass der Abbau von Glukose mittels Glykolyse versperrt war, und im Wesentlichen nur der Pentosephosphat-Weg (HMP) zur Verfügung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Als Ergebnis wird mitgeteilt, der gentechnisch modifizierte Stamm (D2705) wandle Glukose etwa zweimal so effizient in Tryptophan um wie ein nicht modifizierter Kontrollstamm. Dies stehe in Einklang mit der Beobachtung, dass die Effizienz der Biosynthese von Tryptophan mit nicht modifizierten Stämmen ungefähr auf das Doppelte ansteige, wenn als Ausgangsstoff nicht Glukose, sondern Gluconat verwendet werde (NK12.5 S. 2998). Als Erklärung für das gefundene Ergebnis werden zwei Hypothesen formuliert: Zum einen führe der erhöhte Kohlenstofffluss durch den Pentosephosphat-Weg zur beschleunigten Herstellung von NADPH, das dazu diene, die Biosynthese von aromatischen Zwischenprodukten und Glutamat anzutreiben. Zum anderen könne die verstärkte Synthese von Pentosephosphaten unmittelbar die Bereitstellung der beiden wichtigen Zwischenprodukte 5-Phosphoribosyl-1-pyrophosphat und Erythrose-4-phosphat beeinflussen (NK12.5 S. 2998 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Daraus ergeben sich zwar Hinweise darauf, dass die gesteigerte Verfügbarkeit von NADPH zu einer höheren Effizienz führen könnte. Die in NK12.5 vorgeschlagenen weiteren Versuche in dieser Richtung erschienen aber im Hinblick auf die in NB7 geschilderten Versuche, bei denen eine Steigerung der NADPH-Menge um 50% nicht zu einer erhöhten Ausbeute von Lysin geführt hatte, wenig erfolgversprechend. Darüber hinaus steht im Mittelpunkt der Betrachtungen von NK12.5 nicht die Bereitstellung von NADPH, sondern der Pentosephosphat-Weg, der als besonders geeignet zur Steigerung der Effizienz dargestellt wird. Daraus ergab sich für den Fachmann keine Anregung, nach anderen Wegen zur Bereitstellung von NADPH zu suchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(6) In der Veröffentlichung von Varma et al. (Biochemical Production Capabilities of Escherichia coli, Biotechnology and Bioengineering, Vol. 42 (1993), 59-73, <span style="text-decoration:underline">NK12.8</span>) wird anhand eines mathematischen Modells die theoretisch mögliche Ausbeute bei der Biosynthese von Aminosäuren mit E. coli untersucht. Als Ergebnis wird berichtet, die mögliche Ausbeute hänge vom Energie- und Redoxgehalt des eingesetzten Substrats und von dessen Eintrittspunkt in das metabolische Netzwerk ab. Hieraus wird gefolgert, zur effizienten Herstellung von Biochemikalien sei die Umleitung von metabolischen Flüssen erforderlich (NK12.8 S. 66 liSp und S. 69 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Hieraus ergibt sich zwar, dass dem Redoxgehalt - und damit der Verfügbarkeit von NADPH - entscheidende Bedeutung zukommt. Daraus folgt aber nicht ohne weiteres, dass NADPH bei im Stand der Technik bekannten Verfahren in zu geringer Menge zur Verfügung stand. Der Fachmann hatte deshalb keine Veranlassung, die Menge an NADPH zu erhöhen. Erst recht bestand kein Anlass, nach modifizierten Wegen zur Bereitstellung von NADPH zu suchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>d) Vor diesem Hintergrund kann den Entgegenhaltungen, aus denen sich eine Beteiligung der Transhydrogenase bei der Bereitstellung von NADPH ergibt, ebenfalls keine Anregung entnommen werden, diesen Weg zur Herstellung von L-Aminosäuren zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>(1) In der Veröffentlichung von Csonka und Fraenkel (NB3) werden Versuche zur Ermittlung der Stoffwechselwege beschrieben, auf denen NADPH in E. coli bereitgestellt wird. Bei der Diskussion der Ergebnisse wird ausgeführt, das 4-Wasserstoffatom der Glukose (NADH) leiste einen messbaren, aber unbedeutenden Beitrag zu den biosynthetischen Reduktionsreaktionen. Die Ergebnisse stimmten mit der Vorstellung überein, dass die energieabhängige Transhydrogenase-Aktivität daran beteiligt sei. Diese Schlussfolgerung sei jedoch aufgrund des geringen Wachstums der untersuchten Mutanten als vorläufig anzusehen (NB3 S. 3390 reSp).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Dies gab dem Fachmann zwar keine Veranlassung, die Transhydrogenase-Aktivität als völlig unbedeutend anzusehen, zumal das in NB3 berichtete geringe Zellwachstum, wie die Klägerinnen unter Bezugnahme auf den Privatgutachter R.    vortragen, auf Besonderheiten des bei den Versuchen ver-wendeten Kulturmediums beruhen könnte und nachfolgende Veröffentlichungen die Beteiligung der Transhydrogenase an der Bereitstellung von NADPH bestätigt haben. Auch daraus ergaben sich aber keine hinreichenden Anhaltspunkte dafür, dass dieser Faktor bei der Biosynthese von L-Aminosäuren limitierend wirken könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(2) Die Veröffentlichung von Bragg et al. (NK6) befasst sich mit der Frage, welche Auswirkung die Wachstumsbedingungen auf die energieabhängige Transhydrogenase-Aktivität in E. coli haben. Als Ergebnis wird berichtet, es sei ein klarer Zusammenhang zwischen der energieabhängigen Transhydrogenase und der oxidativen Phosphorylierung beobachtet worden. Dies weise darauf hin, dass der Transhydrogenase eine Funktion bei der Bereitstellung von NADPH für die Biosynthese zukomme (NK6 S. 1249).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Daraus ergeben sich zwar Anhaltspunkte, dass der Transhydrogenase eine gewisse Bedeutung für die Biosynthese zukommt, nicht aber dafür, dass diese limitierend wirkt und eine Verstärkung an dieser Stelle zu verbesserten Ergebnissen führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>(3) In der Veröffentlichung von Houghton et al. (NK7) werden Versuche zur Ermittlung der Aktivität der Transhydrogenase in E. coli geschildert. Als Ergebnis wird mitgeteilt, vom Beginn der Wachstumsphase an, die nach etwa einer Stunde eingesetzt habe, sei die Aktivität der energiegetriebenen und der energieunabhängigen Transhydrogenase angestiegen (NK7 S. 748 reSp). Hieraus wird gefolgert, es gebe einen Zusammenhang zwischen der biosynthetischen Kapazität der E.-coli-Zelle und den Spiegeln des Transhydrogenase-Enzyms (NK7 S. 751 liSp).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Auch daraus ergaben sich zwar Hinweise darauf, dass der Transhydrogenase Bedeutung für die Bereitstellung von NADPH bei der Biosynthese zukommt, aber keine konkreten Anhaltspunkte für eine limitierende Wirkung. Ob der Fachmann von Versuchen in diese Richtung zusätzlich auch wegen des für die Bereitstellung von NADPH durch Transhydrogenase erforderlichen Energieaufwands und wegen der Reversibilität dieses Vorgangs abgehalten worden wäre, ist angesichts dessen unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(4) In der Veröffentlichung von Liang und Houghton (NK8) wird die Frage behandelt, welche Auswirkungen eine Begrenzung der Stickstoffzufuhr auf die Aktivität von Transhydrogenase und drei anderen Enzymen hat. Als Ergebnis der beschriebenen Versuche wird unter anderem mitgeteilt, innerhalb des Bereichs der exogenen NH4Cl-Konzentration (0,5 bis 20 mM) hätten sich die Transhydrogenase- und die Glutamat-Dehydrogenase-Aktivität in einer ähnlichen Weise erhöht. Bei niedrigen NH4Cl-Konzentrationen (0 bis 1 mM) sei die Glutamin-Synthease-Aktivität hoch gewesen. Dies stehe in Einklang mit der Erwartung, dass dies der Hauptweg für die Assimilation von Stickstoff bei niedrigen NH4+-Spiegeln sei (NK8 S. 998 reSp). Aus den Ergebnissen wird gefolgert, es spreche viel dafür, dass Transhydrogenase und Glutamat-Dehydrogenase koreguliert würden und von der Stickstoffquelle abhängig seien. Die festgestellten Veränderungen der Transhydrogenase-Aktivität könnten darauf hindeuten, dass das Enzym an der Bereitstellung von NAPDH im Rahmen der Glutamatsynthese beteiligt sei. Dass eine Bedeutung von Transhydrogenase für die allgemeine Bereitstellung von NADPH in E. coli nicht habe festgestellt werden können, könne damit zusammenhängen, dass dem Enzym eine besondere Funktion bei der Assimilation von NH3 zukomme (NK8 S. 1001 reSp).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn hieraus entgegen der Auffassung des Patentgerichts gefolgert werden könnte, dass Transhydrogenase auch bei normaler und höherer Stickstoffzufuhr von Bedeutung ist und dass die berichtete Korrelation der Aktivität von Transhydrogenase und Glutamat-Dehydrogenase entgegen den hierzu vom gerichtlichen Sachverständigen geäußerten Bedenken auf einen kausalen Zusammenhang hindeutet, ergäben sich auch daraus keine konkreten Anhaltspunkte für eine limitierende Wirkung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(5) In der Veröffentlichung von Varma und Palsson (Metabolic Capabilities of Escherichia coli: I. Synthesis of Biosynthetic Precursors and Cofactors, Journal of theoretical Biology, Vol. 165 (1993), 477-502, <span style="text-decoration:underline">NK13.12</span>) werden Erkenntnisse über den Stoffwechsel von E. coli zusammengestellt. Zu Transhydrogenase wird unter anderen unter Bezugnahme auf NK6 ausgeführt, es bestünden Hinweise darauf, dass das Enzym in E. coli die Funktion habe, NADPH für Zwecke der Biosynthese zu erzeugen (NK13.12 S. 502).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Daraus ergeben sich keine über den Inhalt von NK6 hinausgehenden Anhaltspunkte für eine limitierende Wirkung der Transhydrogenase.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>(6) In der Veröffentlichung von Hanson und Rose (Effects of an Insertion Mutation in a Locus Affecting Pyridine Nucleotide Transhydrogenase (pnt:Tn5) on the Growth of Escherichia coli, Journal of Bacteriology Vol. 141 (1980), 401-404, <span style="text-decoration:underline">NB4</span>) wird über Versuche mit Mutationen von E. coli berichtet, bei denen die Transhydrogenase, die (für den Pentosephosphat-Weg erforderliche) Glukose-6-Phosphat-Dehydrogenase oder beide Enzyme deaktiviert sind. Die in Tabelle 2 (NB4 S. 402) zusammengestellten Ergebnisse lassen bei den Stämmen, bei denen nur eines der beiden Enzyme deaktiviert ist (RH5 und DF2001) keine signifikanten Auswirkungen auf das Zellwachstum erkennen. Bei einem Stamm, bei dem beide Enzyme deaktiviert wurden (DF2001-K), zeigte sich hingegen ein deutlich langsameres Wachstum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich, dass Transhydrogenase ein geeignetes Mittel zur Bereitstellung von NADPH ist. Entgegen der Auffassung der Klägerinnen folgt hieraus aber nicht, dass ihr insoweit eine entscheidende Rolle zukommt. Der Umstand, dass die Aktivierung des Enzyms nicht zu Änderungen des Zellwachstums führt, sofern der Pentosephosphat-Weg zur Verfügung steht, erlaubt vielmehr auch die vom gerichtlichen Sachverständigen gezogene Schlussfolgerung, dass Transhydrogenase für die Bereitstellung von NADPH zwar geeignet, aber nicht zwingend erforderlich ist. Insgesamt konnte der Fachmann damit auch aus NB4 keine hinreichenden Anhaltspunkte dafür entnehmen, dass eine Verstärkung der Transhydrogenase zu Verbesserungen bei der Biosynthese von L-Aminosäuren führen würde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>e) Insgesamt ergaben sich damit aus dem Stand der Technik keine hinreichenden Anregungen, die Herstellung von NADPH unter Einsatz von NADH zu verstärken. Zwar war am Prioritätstag in NK5 bereits ein Werkzeug offenbart, mit dem das Verfahren nach Patentanspruch 1 des Streitpatents durchgeführt werden kann. Der Fachmann hatte aber keinen Anlass, sich dieses Werkzeugs bei der Herstellung von L-Aminosäuren zu bedienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 sowie § 100 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                                 Keukenschrijver                                               Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                                  Hoffmann                                                           Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300352012&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

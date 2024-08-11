@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300132021</doknr>
+   <ecli>ECLI:DE:BGH:2020:141020B5STR229.19.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>5. Strafsenat</spruchkoerper>
+   <entsch-datum>20201014</entsch-datum>
+   <aktenzeichen>5 StR 229/19</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 73 Abs 1 StGB, §§ 73ff StGB, § 100a Abs 1 S 1 StPO, § 261 StPO, § 20a Abs 1 S 1 Nr 2 aF WpHG, § 20a Abs 1 S 1 Nr 3 aF WpHG, § 38 Abs 2 Nr 1 aF WpHG, § 39 Abs 1 Nr 1 aF WpHG, § 39 Abs 1 Nr 2 aF WpHG, § 39 Abs 2 Nr 11 aF WpHG</norm>
+   <vorinstanz>vorgehend LG Hamburg, 14. November 2018, Az: 608 KLs 3/17<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Strafverfahren wegen verbotener Marktmanipulation: Bestimmung des erlangten Etwas bei Einflussnahme auf Aktienpreise; Verwertbarkeit der Erkenntnisse aus einer Telekommunikationsüberwachung unter Einschluss beim Provider gespeicherter, gesendeter E-Mails</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Zur Bestimmung des erlangten Etwas im Sinne von § 73 Abs. 1 StGB in Fällen der Marktmanipulation.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. § 100a Abs. 1 Satz 1 StPO erlaubt den Zugriff auf beim Provider zwischen- oder endgespeicherte („ruhende“) E-Mails.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Revisionen der Angeklagten sowie der Einziehungsbeteiligten I.     B.         UG, B.           und X.   Grundbesitz GmbH gegen das Urteil des Landgerichts Hamburg vom 14. November 2018 werden mit der Maßgabe als unbegründet verworfen, dass die Einziehung des Wertes des Tatertrages gegen den Angeklagten B.          in Höhe von 176.385,07 Euro sowie gegen die Einziehungsbeteiligten I.     B.       UG in Höhe von 154.591,77 Euro, B.       in Höhe von 103.348,05 Euro, N.      B.              mbH in Höhe von 21.793,30 Euro und X.    G.        GmbH in Höhe von 14.604,21 Euro angeordnet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Angeklagte B.         haftet mit sämtlichen Einziehungsbeteiligten, die Einziehungsbeteiligte I.     B.        UG zudem mit den Einziehungsbeteiligten B.         in Höhe von 100.970,18 Euro und X.    G.      GmbH, die Einziehungsbeteiligte N.    B.                mbH zudem mit der Einziehungsbeteiligten B.          in Höhe von 2.377,87 Euro als Gesamtschuldner.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Angeklagten und die Einziehungsbeteiligten I.      B.         UG, B.          und X.    G.        GmbH haben die jeweiligen Kosten ihrer Rechtsmittel zu tragen; jedoch wird die Gebühr hinsichtlich des Angeklagten B.       um ein Zehntel, hinsichtlich der Einziehungsbeteiligten I.      B.         UG um fünf Achtel, hinsichtlich der Einziehungsbeteiligten B.          um drei Fünftel und hinsichtlich der Einziehungsbeteiligten X.   G.        GmbH um zwei Drittel ermäßigt. Von den im Revisionsverfahren entstandenen gerichtlichen Auslagen und notwendigen Auslagen des Angeklagten B.          und der vorbenannten Einziehungsbeteiligten fallen der Staatskasse hinsichtlich dieses Angeklagten ein Zehntel, hinsichtlich der Einziehungsbeteiligten I.     B.         UG fünf Achtel, hinsichtlich der Einziehungsbeteiligten B.          drei Fünftel und hinsichtlich der Einziehungsbeteiligten X.   G.        GmbH zwei Drittel zur Last.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Angeklagten wegen Marktmanipulation in fünf Fällen zu Gesamtfreiheitsstrafen von vier Jahren (B.      ) und drei Jahren (P.    ) verurteilt. Zudem hat es Einziehungsanordnungen gegen den Angeklagten B.         und die Einziehungsbeteiligten getroffen. Die auf die Verletzung formellen und materiellen Rechts gestützte Revision des Angeklagten B.         und die mit der Sachrüge geführten Rechtsmittel der Einziehungsbeteiligten I.      B.         UG, X.    G.         GmbH und B.         führen zu der aus der Beschlussformel ersichtlichen Änderung der Einziehungsentscheidungen. Ihre weitergehenden Revisionen sind ebenso wie die des Angeklagten P.    unbegründet (§ 349 Abs. 2 StPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>1. Die - dem Grunde nach rechtsfehlerfreien - Einziehungsanordnungen nach §§ 73 ff. StGB halten der rechtlichen Nachprüfung nicht in vollem Umfang stand, weil das Landgericht das erlangte Etwas im Sinne des § 73 Abs. 1 StGB bei - wie den hier abgeurteilten - Straftaten der Marktmanipulation nach § 38 Abs. 2 Nr. 1, § 39 Abs. 1 Nr. 1 und 2, Abs. 2 Nr. 11, § 20a Abs. 1 Satz 1 Nr. 1 bis 3 WpHG aF nicht zutreffend bestimmt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>a) Vermögensvorteile sind im Sinne von § 73 Abs. 1 StGB und § 73b Abs. 1 Satz 1 Nr. 1 StGB „durch“ die rechtswidrige Tat erlangt, wenn sie dem Tatbeteiligten (§ 73 Abs. 1 StGB) oder Drittbegünstigten (§ 73b Abs. 1 StGB) aufgrund der Verwirklichung des Tatbestandes in irgendeiner Phase des Tatablaufs zufließen (st. Rspr.; vgl. BGH, Urteil vom 7. März 2019 - 5 StR 569/18, NStZ 2019, 272). Zwischen der Tat und dem Erlangen des einzuziehenden Etwas muss mithin ein Kausalzusammenhang bestehen (BT-Drucks. 18/11640, S. 78). Notwendig, aber auch ausreichend ist, dass die rechtswidrige Tat im materiellen Sinn (§ 11 Abs. 1 Nr. 5 StGB) nicht hinweggedacht werden kann, ohne dass die strafrechtswidrige Bereicherung in Form eines messbaren Vermögensvorteils entfiele (vgl. Bittmann/Köhler/Seeger/Tschakert, Handbuch der Vermögensabschöpfung, Rn. 80). Am erforderlichen Kausalzusammenhang mit der rechtswidrigen Tat fehlt es daher für solche Vermögenswerte, die dem Täter erst durch weitere, nicht tatbestandsmäßige Handlungen oder Rechtsgeschäfte zufließen (vgl. SSW-StGB/Heine, 4. Aufl., § 73 Rn. 45; Rübenstahl in: Leipold/Tsambikakis/Zöller, Anwaltkommentar, StGB, 3. Aufl., § 73 Rn. 23 ff.) oder als Ersatzgegenstände im Sinne von § 73 Abs. 3 StGB (vgl. BT-Drucks., aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>b) Für Fälle strafbarer Marktmanipulationen ist zur Bestimmung des erlangten Etwas im Sinne des § 73 Abs. 1 StGB deshalb - ausgehend von der jeweils verwirklichten Tatbestandsvariante - zu prüfen, ob die Tat ursächlich für einen messbaren Vermögenszufluss bei einem Tatbeteiligten oder Dritten gewesen ist. Danach ist wie folgt zu differenzieren:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>aa) In Fällen informations- und handlungsgestützter Marktmanipulationen (§ 38 Abs. 2 Nr. 1, § 39 Abs. 1 Nr. 2, Abs. 2 Nr. 11, § 20a Abs. 1 Satz 1 Nr. 1 und 3 WpHG aF) ist für die Einziehung nach §§ 73 ff. StGB die infolge der strafbaren Einwirkung auf den Aktienpreis eingetretene Wertsteigerung der gehaltenen Aktien maßgebend. Denn die betreffende Tathandlung ist ursächlich für einen messbaren Vermögenszufluss in Form des infolge der Manipulation höheren Wertes der Aktien bei dem Täter. Hinsichtlich des Erlöses aus dem nachfolgenden Verkauf der Aktien fehlt es hingegen an dem erforderlichen Kausalzusammenhang mit der rechtswidrigen Tat. Denn der Vermögenszufluss wird hier erst durch den insofern nicht tatbestandlichen Aktienverkauf vermittelt (i. E. ebenso Trüg in: Achenbach/Ransiek/Rönnau, Handbuch des Wirtschaftsstrafrechts, 5. Aufl., S. 1454 f.; Rönnau/Wegner in Meyer/Veil/Rönnau, HdB Marktmissbrauchsrecht, § 28 Rn. 160, 162 [anders bei einem tateinheitlichen Zusammentreffen mit einem Insiderdelikt]; vgl. zum früheren Recht BGH, Beschluss vom 25. Februar 2016 - 3 StR 142/15 Rn. 33, BGHR StGB § 73 Erlangtes 20 [Drittgeschäfte]). Die Höhe der Wertsteigerung und damit des Einziehungsumfangs kann regelmäßig nach dem Veräußerungsgewinn bestimmt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>bb) In Fällen handelsgestützter Marktmanipulationen (§ 38 Abs. 2 Nr. 1, § 39 Abs. 1 Nr. 1, § 20a Abs. 1 Satz 1 Nr. 2 WpHG aF) unterliegt der gesamte Erlös aus den Aktienverkäufen durch den Täter der Einziehung nach §§ 73 ff. StGB. Denn der Zufluss des Verkaufserlöses im Vermögen des Tatbeteiligten oder Drittbegünstigten beruht hier ursächlich auf der strafbewehrten Manipulationshandlung in Form eines abgesprochenen Eigenverkaufs, ohne dass es einer weiteren - nicht tatbestandlichen - vermittelnden Handlung bedarf. Die rechtswidrige Tat kann in diesen Fällen mithin nicht hinweggedacht werden, ohne dass die strafrechtswidrige Bereicherung entfiele. Die Erwerbskosten für die - wie hier plangemäß - später verkauften Aktien bleiben außer Betracht, weil sie für Vorbereitung der handelsgestützten Marktmanipulation aufgewendet werden und deshalb dem Abzugsverbot des § 73d Abs. 1 Satz 2 StGB unterfallen (so i. E. schon zum früheren Recht BGH, Urteil vom 27. November 2013 - 3 StR 5/13, BGHSt 59, 80, 92 [Rn. 28 ff.], i. E. ebenso Trüg, aaO, S. 1454; Rönnau/Wegner, aaO, 161; weitergehend möglicherweise SSW-StGB/Heine, aaO; Lohse in Leipziger Kommentar, 13. Aufl., StGB, § 73 Rn. 39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>cc) Einer differenzierenden rechtlichen Bewertung im beschriebenen Sinne steht auch der Wille des Gesetzgebers nicht entgegen. Zwar weist das Landgericht zutreffend darauf hin, dass die Erwerbskosten für Aktien, die Gegenstand einer vorsätzlichen Marktmanipulation sind, dann dem Abzugsverbot des § 73d Abs. 1 Satz 1 StGB unterfallen, wenn es sich hierbei um bewusste Investitionen in Verbotenes handelt. Dies gilt indes nur bei handelsgestützten Marktmanipulationen. Um eine solche handelt es sich bei der in den Gesetzesmaterialien zitierten Entscheidung des Bundesgerichtshofs (BGH, aaO; vgl. BT-Drucks. 18/9525, S. 68).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>c) Gemessen an diesen Maßstäben haben die getroffenen Einziehungsanordnungen nur teilweise Bestand. Denn das Landgericht ist davon ausgegangen, dass bei Straftaten der Marktmanipulation in allen Varianten der gesamte Erlös aus den Aktienverkäufen als Tatertrag im Sinne des § 73 Abs. 1 StGB anzusehen ist. Handelsgestützte Marktmanipulationen in Form von abgesprochenen Eigengeschäften (§ 20a Abs. 1 Satz 1 Nr. 2 WpHG) hat es indes nur in einem Tatkomplex festgestellt. Im Übrigen hat es die Handlungen der Angeklagten rechtlich zutreffend als informations- und handlungsgestützte Marktmanipulationen (§ 20a Abs. 1 Satz 1 Nr. 1 und 3 WpHG) gewertet. Insoweit wäre aber die infolge der strafbaren Einwirkung auf den Aktienpreis eingetretene Wertsteigerung der Aktien maßgebend gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. Der Senat schließt aus, dass in einer neuen Hauptverhandlung weitergehende Feststellungen getroffen werden könnten. Er kann die Taterträge auf Grundlage der auch insoweit sorgfältigen Urteilsfeststellungen zu den Erwerbskosten, Verkaufserlösen sowie zum Gewinn und zur Kursentwicklung selbst bestimmen und ändert die Einziehungsanordnungen in entsprechender Anwendung des § 354 Abs. 1 StPO. Auf die nicht revidierende Einziehungsbeteiligte N.    B.             mbH ist die Entscheidung entsprechend § 357 Satz 1 StPO zu erstrecken (vgl. Schmitt in Meyer-Goßner/Schmitt, StPO, 63. Aufl., § 357 Rn. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>3. Im Übrigen hat die Nachprüfung des Urteils aufgrund der Revisionsrechtfertigungen keinen Rechtsfehler zum Nachteil der Beschwerdeführer ergeben. Ergänzend zur Antragsschrift des Generalbundesanwalts bemerkt der Senat zu den vom Angeklagten B.         erhobenen Verfahrensrügen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Soweit der Beschwerdeführer beanstandet, das Landgericht habe rechtsfehlerhaft Erkenntnisse aus Telekommunikationsmaßnahmen verwertet, obwohl es am Tatverdacht für eine Katalogtat nach § 100a Abs. 2 Nr. 1 lit. n StPO aF gefehlt habe, teilt der Senat die Bedenken des Generalbundesanwalts gegen die Zulässigkeit der Rüge (§ 344 Abs. 2 Satz 2 StPO). Denn der Beschwerdeführer hat außer dem vom Generalbundesanwalt bezeichneten Beschluss vom 9. April 2018 auch die in einem in der Revisionsbegründung mitgeteilten Verteidigungsschriftsatz erwähnten „Fragebögen“ nicht vorgelegt, mit denen die Aktienkäufer von den Strafverfolgungsbehörden befragt wurden. Mit Blick auf die der Anordnung nach § 100a Abs. 1 StPO aF zugrundeliegende Katalogtat eines banden- und gewerbsmäßigen Betruges wäre dies aber für die Überprüfung des Vorliegens der Anordnungsvoraussetzungen erforderlich gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die Rüge ist aber jedenfalls unbegründet. Denn das Landgericht hat sich in mehreren Beschlüssen sorgfältig mit der Frage des Vorliegens eines Anfangsverdachts für die genannte Katalogtat nach § 100a Abs. 2 Nr. 1 lit. n StPO auseinandergesetzt. Insbesondere hat es zutreffend darauf hingewiesen, dass die für die Verwirklichung des Betrugstatbestandes erforderliche Stoffgleichheit im börslichen Aktienhandel dann gegeben sein kann, wenn - wie hier - der Täter kurz vor der Manipulation eine limitierte Order in den Markt legt (vgl. Schröder/Poller in: Schröder, HdB Kapitalmarktstrafrecht, Kap. 3 Rn. 633). Eingedenk des nur eingeschränkten Überprüfungsmaßstabes (vgl. hierzu BGH, Urteil vom 16. Februar 1995 - 4 StR 729/94, BGHSt 41, 30, 34) ist es daher rechtlich nicht zu beanstanden, dass das Landgericht die Erkenntnisse aus der betreffenden Telekommunikationsüberwachung verwertet hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Soweit der Beschwerdeführer rügt, dass Landgericht habe rechtswidrig bei seinem Provider gespeicherte E-Mails verwertet, die bereits vor der Anordnung der Überwachung des betreffenden E-Mails-Accounts nach § 100a Abs. 1 StPO aF versandt worden seien, dringt er nicht durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Es kann dahinstehen, ob die Rüge bereits unzulässig ist, weil der Beschwerdeführer weder den im Eröffnungsbeschluss insofern in Bezug genommenen Beschluss vom 9. April 2018 noch die in dem in der Revisionsbegründungsschrift vorgelegten polizeilichen Vermerk über die „Auswertung älterer E-Mail-Korrespondenz“ genannten „TKÜ-Auswertevermerke“ mitteilt (§ 344 Abs. 2 Satz 2 StPO). Denn sie ist - ungeachtet der vom Beschwerdeführer ausgelösten Löschung der E-Mails - jedenfalls unbegründet, da § 100a Abs. 1 Satz 1 StPO (der § 100a Abs. 1 StPO aF entspricht) eine ausreichende Ermächtigungsgrundlage für den verdeckten Zugriff auf beim Provider gespeicherte („ruhende“) E-Mails darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>aa) Auch bei E-Mails, die nach Kenntnisnahme beim Provider zwischen- oder endgespeichert werden, handelt es sich um Telekommunikation im Sinne von § 100a Abs. 1 Satz 1 StPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Bundesverfassungsgerichts muss sich die nähere Auslegung des Begriffs Telekommunikation im Rahmen des § 100a StPO auch an dem grundrechtlichen Schutz des Betroffenen durch Art. 10 Abs. 1 GG orientieren; denn das Fernmeldegeheimnis ist der verfassungsrechtliche Maßstab für die heimliche Überwachung flüchtiger Daten. Dabei ist zu berücksichtigen, dass Art. 10 Abs. 1 GG nicht dem rein technischen Telekommunikationsbegriff des Telekommunikationsgesetzes folgt, sondern an den Grundrechtsträger und dessen Schutzbedürftigkeit aufgrund der Einschaltung Dritter in den Kommunikationsvorgang anknüpft (vgl. BVerfG, Beschluss vom 6. Juli 2016 - 2 BvR 1454/13, NJW 2016, 3508, 3509 Rn. 32). Die spezifische Gefährdungslage und der Zweck der Freiheitsverbürgung von Art. 10 Abs. 1 GG bestehen aber auch dann weiter, wenn die E-Mails nach Kenntnisnahme durch den Empfänger beim Provider gespeichert bleiben. Durch die Endspeicherung wird der von Art. 10 Abs. 1 GG zuvörderst geschützte Kommunikationsinhalt infolge der Nutzung eines bestimmten Kommunikationsmediums auf einem vom Kommunikationsmittler bereit gestellten Speicherplatz in einer von keinem Kommunikationsteilnehmer beherrschbaren Sphäre abgelegt. Weder bei einer Zwischen- noch bei einer Endspeicherung der E-Mails auf dem Mailserver des Providers ist dessen Tätigkeit beendet; der Provider bleibt vielmehr dauerhaft in die weitere E-Mail-Verwaltung auf seinem Mailserver eingeschaltet. Dies zeigt sich auch daran, dass der Nutzer bei seinem Provider gespeicherte Daten für sich auf einem Bildschirm nur lesbar machen - oder wie hier löschen - kann, indem er eine Internetverbindung zum Mailserver des Providers herstellt (vgl. BVerfG, Beschluss vom 16. Juni 2009 - 2 BvR 902/06; BVerfGE 124, 43, 54 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>bb) Die Telekommunikationsüberwachung nach § 100a Abs. 1 Satz 1 StPO erfasst auch beim Provider zwischen- oder endgespeicherte („ruhende“) E-Mails.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(1) Bei einem verdeckten Zugriff auf beim Provider gespeicherte E-Mails handelt es sich um Überwachung und Aufzeichnung von Telekommunikation im Sinne des § 100a Abs. 1 Satz 1 StPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Überwachung und Aufzeichnung von Telekommunikation sind - regelmäßig ohne Wissen des Betroffenen durchgeführte - Eingriffe der öffentlichen Gewalt in den Schutzbereich des Art. 10 Abs. 1 GG, um zur Aufklärung bestimmter schwerwiegender Straftaten oder Ermittlung des Aufenthaltsortes des Beschuldigten insbesondere Telekommunikationsinhalte zu erfassen (vgl. BGH, Urteil vom 8. Oktober 1993 - 2 StR 400/93, BGHSt 39, 335, 338; Hauck in: Löwe/Rosenberg, StPO, 27. Aufl., § 100a Rn. 14). Die Erfassung von E-Mails, die beim Provider und damit nicht in einer ausschließlich vom betroffenen Kommunikationsteilnehmer beherrschten Sphäre abgelegt sind, stellt einen solchen Eingriff dar (vgl. BVerfG, aaO; Gaede, StV 2009, 96, 100; Störing, CR 2009, 475, 478). Die Telekommunikationsüberwachung nach § 100a Abs. 1 Satz 1 StPO stellt mithin eine ausreichende Ermächtigungsgrundlage für den Zugriff auf beim Provider gespeicherte E-Mails dar (vgl. MüKo-StPO/Günther, § 100a Rn. 135 ff. mwN; KK-StPO/Greven, 8. Aufl., § 94 Rn. 4a; Köhler in Meyer-Goßner/Schmitt, 63. Aufl. § 100a Rn. 6b; HK-StPO-Gercke, 6. Aufl., § 100a Rn. 14; AnwK-StPO/Löffelmann, 2. Aufl., § 100a Rn. 13; Radtke/Hohmann/Röwer, StPO, § 100a Rn. 17; BeckOK-StPO/Graf, 37. Edition, § 100a Rn. 64). Soweit hiergegen eingewandt wird, § 100a StPO „passe“ nicht, weil es der auf eine Kooperation mit den Providern ausgerichteten Befugnisnorm an den für den Zugriff auf bei diesen „ruhenden“ E-Mails typischen Durchsuchungs- und Beschlagnahmeelementen mangele (vgl. Hauck in: Löwe/Rosenberg, aaO Rn. 77; SK-StPO/Wolter/Greco, 5. Aufl., § 100a Rn. 33; wohl auch KK-StPO/Bruns, 8. Aufl., § 100a Rn. 20 f.), stellt dies die Anwendung des § 100a Abs. 1 Satz 1 StPO nicht in Frage. Zum einen wird der Zugriff auf gespeicherte E-Mails durch die Strafverfolgungsbehörden regelmäßig - wie hier - im Wege einer durch den Provider ermöglichten Ausleitung der Nachrichten und damit in Kooperation mit diesem vollzogen werden (vgl. § 100a Abs. 4 Satz 1 StPO). Zum anderen bedarf es für den Zugriff auf gespeicherte E-Mails im Rahmen der Überwachung eines bestimmten E-Mail-Accounts gerade keiner Durchsuchung beim Provider.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>(2) Dem Zugriff nach § 100a Abs. 1 Satz 1 StPO steht nicht entgegen, dass beim Provider gespeicherte E-Mails mit der offenen Maßnahme des § 94 StPO beschlagnahmt werden können (BVerfG, aaO, S. 58 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Ebenso wenig wie § 94 StPO von § 100a StPO verdrängt wird (vgl. BVerfG, aaO, S. 59), wird § 100a StPO von § 94 StPO ausgeschlossen (vgl. AnwK-StPO/Löffelmann, aaO). Vielmehr ergänzen sich die beiden Ermittlungsmaßnahmen. Während die Beschlagnahme (§ 94 StPO) nur als offene Maßnahme zulässig ist (vgl. BGH, Beschluss vom 4. August 2015 - 3 StR 162/15, NStZ 2015, 704, 705), erlaubt § 100a Abs. 1 Satz 1 StPO auch den verdeckten Zugriff auf Telekommunikationsinhalte. Die mit der Heimlichkeit der Maßnahme verbundene gesteigerte Eingriffstiefe korrespondiert mit der im Vergleich zu § 94 StPO deutlich höheren Eingriffsschwelle (vgl. BVerfG, aaO, S. 62 f.; SSW-StPO/Eschelbach, 4. Aufl., § 100a Rn. 7; Köhler in Meyer-Goßner/Schmitt, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>(3) Der Eingriff nach § 100a Abs. 1 Satz 1 StPO ist nicht auf E-Mails beschränkt, die ab dem Zeitpunkt der Anordnung der Maßnahme versandt oder empfangen wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dies folgt schon daraus, dass beim Provider endgespeicherte - von Art. 10 Abs. 1 GG geschützte - E-Mails grundsätzlich ohne Rücksicht auf den Zeitpunkt ihrer Speicherung nach § 94 StPO beschlagnahmt werden dürfen (vgl. BVerfG, aaO, S. 60, 67). Angesichts der im Vergleich zur Beschlagnahme deutlich strengeren Anforderungen muss dieser Zugriff erst recht mit einer Telekommunikationsüberwachung nach § 100a Abs. 1 Satz 1 StPO zulässig sein (vgl. auch Brunst, CR 2009, 591, 592).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich auch im Umkehrschluss aus § 100a Abs. 5 Satz 1 Nr. 1 lit. b StPO, wonach eine solche zeitliche Einschränkung nur für die sogenannte Quellen-TKÜ (§ 100a Abs. 1 Satz 2 und 3 StPO) gilt. Diese Unterscheidung findet ihre materielle Rechtfertigung darin, dass bei der Quellen-TKÜ - anders als bei der herkömmlichen Telekommunikationsüberwachung - informationstechnische Systeme des Betroffenen infiltriert werden, womit die Gefahr einer Ermittlung von Persönlichkeitsprofilen einhergeht (vgl. BVerfG, Urteil vom 27. Februar 2008 - 1 BvR 370, 595/07; BVerfGE 120, 274, 308 f.). Aufgrund dieser Nähe zu einer Online-Durchsuchung hat der Gesetzgeber für die Quellen-TKÜ besondere Zugriffsanforderungen aufgestellt und ein Verbot für rückwirkende Zugriffe festgelegt; für die herkömmliche Telekommunikationsüberwachung nach § 100a Abs. 1 Satz 1 StPO hat er hingegen keine entsprechenden Regelungen getroffen (vgl. BT-Drucks. 18/12785 S. 50, 53; Köhler in Meyer-Goßner/Schmitt, aaO Rn. 6c; aA Grözinger GA 2019, 441, 451, 454).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Das Ergebnis steht schließlich auch im Einklang mit der Rechtsprechung des Bundesgerichtshofs zum Zugriff auf Nachrichten, die (abrufbereit) auf einer Mailbox gespeichert sind. Auch insofern hat der Bundesgerichtshof entschieden, dass es sich bei dem Zugriff auf die Mailbox um eine Überwachung der Telekommunikation handelt (vgl. BGH, Urteil vom 14. März 2003 - 2 StR 341/02, NJW 2003, 2034, 2035; Beschluss vom 31. Juli 1995 - 2 BJs 94/94-6, NJW 1997, 1934, 1935).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(4) Die Erfassung der betroffenen E-Mails war auch nicht unverhältnismäßig. Zwar kann zum Schutz des Fernmeldegeheimnisses eine zeitliche Eingrenzung der Maßnahme (etwa auf den Verdachtszeitraum) geboten sein (vgl. BVerfGE 124, 43, 67 f.). Ausweislich der in Rede stehenden Anordnung der Telekommunikationsüberwachung vom 14. Oktober 2015 bestand der Tatverdacht für Katalogtaten indes bereits seit April 2013, während die betroffenen E-Mails erst aus den der Anordnung unmittelbar vorhergehenden Monaten stammten, nämlich aus dem Zeitraum von Mai bis September 2015.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>c) Soweit der Beschwerdeführer eine Verletzung des § 338 Nr. 8 StPO behauptet, ist die Rüge jedenfalls unbegründet, weil es an einem in der Hauptverhandlung ergangenen, auf Beschränkung der Verteidigung gerichteten Gerichtsbeschluss fehlt (vgl. BGH, Beschluss vom 17. Juli 2008 - 3 StR 250/08, BGHR StPO § 338 Nr. 8 Beschränkung 9; Gericke in KK-StPO, 8. Aufl., § 338 Rn. 102).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>d) Die Rüge einer Verletzung des § 338 Nr. 3 StPO ist jedenfalls unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>4. Die Kostenentscheidung folgt aus § 473 Abs. 1 Satz 1, Abs. 4 Satz 1 StPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gericke   </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Berger   </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">RiBGH Prof. Dr. Mosbacher<br/>ist urlaubsbedingt an der<br/>Unterschrift gehindert.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Ri’inBGH Resch ist<br/>urlaubsbedingt an der   <br/>Unterschrift gehindert.   </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Gericke</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Köhler   </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Gericke</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300132021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

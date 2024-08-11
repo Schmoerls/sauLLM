@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304562018</doknr>
+   <ecli>ECLI:DE:BGH:2018:110118UIXZR295.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>9. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180111</entsch-datum>
+   <aktenzeichen>IX ZR 295/16</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 50 Abs 1  InsO, § 51 Nr 1 InsO, § 108 Abs 1 S 2  InsO, § 166 Abs 1 InsO, § 170 InsO, § 929 BGB, § 930 BGB, § 931 BGB</norm>
+   <vorinstanz>vorgehend OLG Dresden, 23. November 2016, Az: 13 U 1140/16<br/>vorgehend LG Chemnitz, 10. Juni 2016, Az: 6 O 1109/15<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Insolvenzverfahren: Verwertungsrecht des Insolvenzverwalters hinsichtlich einer im mittelbaren Besitz des Schuldners befindlichen beweglichen Sache; Verwertungsrecht beim Finanzierungsleasing</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der mittelbare Besitz des Schuldners an einer beweglichen Sache begründet kein Verwertungsrecht des Insolvenzverwalters, wenn die Sache nach der Art des mittelbaren Besitzes dauerhaft mit der erfolgten Überlassung an den unmittelbaren Besitzer so aus dem Vermögen des Schuldners ausgeschieden ist, dass gegen den Willen des unmittelbaren Besitzers keine weitere Nutzung durch den Schuldner möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Beim Finanzierungsleasing scheidet ein Verwertungsrecht des Insolvenzverwalters aus, wenn der Schuldner die Sache dem Leasingnehmer für eine feste, nicht ordentlich kündbare Grundlaufzeit überlassen hat und bei deren Ablauf eine Vollamortisation erlangt, weil der Leasingnehmer aufgrund der vertraglichen Regelungen - sei es auch erst in Verbindung mit besonderen Vertragsbestimmungen wie einer Abschlusszahlung, einer Restwertgarantie, einer Kaufoption oder einem Andienungsrecht - insgesamt einen Betrag zu zahlen hat, der das vom Schuldner für die Anschaffung der Sache eingesetzte Kapital zuzüglich Verzinsung und Gewinn erreicht oder übersteigt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 13. Zivilsenats des Oberlandesgerichts Dresden vom 23. November 2016 aufgehoben. Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die S.          GmbH (fortan: Schuldnerin) war als Leasinggesellschaft tätig. Sie schloss Leasingverträge über Fahrzeuge ab. Hierzu verwendete sie allgemeine Leasingbedingungen. Diese lauten auszugsweise:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"§ 9 Eigentums- und Besitzverhältnis</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(1) Das Leasingobjekt ist Eigentum von S.   .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">[...]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">§ 11 Abtretung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">S.    ist berechtigt, ihre Rechte und Verpflichtungen aus diesem Vertrag mit unmittelbarer Wirkung gegen den LN und dessen mögliche(n) Bürge(n) an Dritte abzutreten."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte finanzierte den Ankauf der Fahrzeuge. Zwischen der Schuldnerin und der Beklagten bestand ein Rahmenvertrag vom 26. September 2011. Darin erklärte sich die Beklagte bereit, von der - im Rahmenvertrag als Verkäufer bezeichneten - Schuldnerin Leasingforderungen zu erwerben. Auf entsprechenden Antrag der Schuldnerin kaufte die Beklagte die jeweiligen Leasingraten für die gesamte Laufzeit des Leasingvertrags und zahlte der Schuldnerin hierfür einen abgezinsten Gesamtbetrag ("Forfaitierung"). Im Gegenzug trat die Schuldnerin sämtliche Ansprüche aus dem jeweiligen Leasingvertrag an die Beklagte ab (Nr. 3 des Rahmenvertrags). Die Beklagte übernahm im Rahmenvertrag das Risiko der Zahlungsunfähigkeit des Leasingnehmers (Nr. 4 des Rahmenvertrags). Nr. 6 des Rahmenvertrags enthält Regelungen zur Sicherungsübereignung. Darin heißt es unter anderem:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"6.2 Beschaffung des Sicherungsgutes und Eigentumsübertragung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">[...]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">b) Der Verkäufer und die Bank sind sich darüber einig, dass das Eigentum bzw. das Anwartschaftsrecht auf Eigentumserwerb an den Leasinggegenständen mit Abschluss des einzelnen Forderungskaufvertrages oder mit der ganzen oder teilweisen Gutschrift für die angekaufte Leasingforderung sowie mit der Bezahlung des Leasinggegenstandes (Ziffer 6.1) auf die Bank übergehen. Es gilt jeweils der frühere dieser Zeitpunkte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">[...]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">d) Die Übergabe der Leasinggegenstände wird dadurch ersetzt, dass der Verkäufer seine Ansprüche gegenüber dem unmittelbaren Besitzer des Leasinggegenstandes auf Herausgabe der Sachen an die Bank abtritt. Die Bank nimmt die Abtretung hiermit an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Sollte der Verkäufer selbst im Besitz der Leasinggegenstände sein, so verwahrt er diese unentgeltlich für die Bank.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">[...]"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit Beschluss vom 1. Juni 2012 eröffnete das Amtsgericht das Insolvenzverfahren über das Vermögen der Schuldnerin und bestellte den Kläger zum Insolvenzverwalter. Der Kläger verwertete mehrere Fahrzeuge im Einverständnis mit der Beklagten und kehrte den erzielten Erlös an die Beklagte aus. Er macht geltend, ihm stehe für die verwerteten Fahrzeuge eine Feststellungskostenpauschale zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Er hat Klage auf Feststellung erhoben, dass die Beklagte verpflichtet sei, ihm für die erfolgte Verwertung bestimmter Leasingobjekte 6.539,77 € zu bezahlen. Das Landgericht hat die Klage abgewiesen. Auf die Berufung des Klägers hat das Oberlandesgericht der Klage stattgegeben. Mit ihrer vom Berufungsgericht zugelassenen Revision erstrebt die Beklagte die Wiederherstellung des landgerichtlichen Urteils.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Revision ist zulässig; sie führt zur Aufhebung des Berufungsurteils und Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat ausgeführt, die Feststellungsklage sei zulässig, weil davon auszugehen sei, dass die Beklagte bereits auf die Feststellungsklage ihrer Leistungspflicht nachkommen werde. Dem Kläger stehe auch ein Anspruch auf die Feststellungskostenpauschale gemäß § 170 Abs. 1 Satz 1, § 171 Abs. 1 InsO zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Es habe ein Absonderungsrecht der Beklagten an den Fahrzeugen bestanden. Es habe sich um eine Sicherungsübereignung gehandelt. Die Leasinggüter hätten sich im Besitz des Klägers befunden. Die Schuldnerin sei aufgrund der mit den Leasingnehmern abgeschlossenen Leasingverträge mittelbare Besitzerin der Fahrzeuge gewesen. Zugleich habe sie der Beklagten den Besitz gemittelt. Dieser mittelbare Besitz sei ausreichende Grundlage für ein Verwertungsrecht gemäß § 166 Abs. 1 InsO. Dies gelte auch in der Insolvenz eines Leasingunternehmens. Entscheidend sei, dass die Schuldnerin die sicherungsübereigneten Fahrzeuge Dritten gegen Entgelt überlassen habe. Hingegen komme es auf die konkrete Unternehmensstruktur nicht an. Ohne Belang sei weiter, ob der Kläger den Betrieb des schuldnerischen Unternehmens durch Abschluss neuer Leasingverträge fortgeführt habe. Nach Ende der Vertragslaufzeit habe die Schuldnerin und nach Verfahrenseröffnung der Kläger entscheiden müssen, wie weiter verfahren werde. Insoweit sei eine Verlängerung des Leasingvertrags, ein Verkauf der Fahrzeuge oder eine Vermietung der Fahrzeuge in Betracht gekommen. Daher sei der Kläger zur Unternehmensfortführung auf die Leasinggüter angewiesen gewesen. Schließlich könne ein Verwertungsrecht auch daraus folgen, dass der Verwalter die sicherungsübereigneten Gegenstände für eine geordnete Abwicklung benötige. Es liege auch eine Verwertungshandlung des Klägers vor. Der Kläger habe den Substanzwert der Fahrzeuge durch Veräußerung realisiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das hält rechtlicher Überprüfung nicht stand. Die Feststellungen des Berufungsgerichts genügen nicht, um einen Anspruch des Klägers auf eine Feststellungskostenpauschale bejahen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Die Feststellungsklage ist zulässig. Zwar könnte der Kläger Leistungsklage erheben. Jedoch ist im Streitfall gesichert, dass der Rechtsstreit die Meinungsverschiedenheiten der Parteien endgültig bereinigt (vgl. BGH, Urteil vom 24. Januar 2017 - XI ZR 183/15, WM 2017, 766 Rn. 16 mwN), weil ausnahmsweise feststeht, dass die Beklagte als Bank ihrer Leistungspflicht bereits auf ein Feststellungsurteil hin nachkommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Auf der Grundlage der Feststellungen des Berufungsgerichts ist keine abschließende Entscheidung über einen Anspruch auf die Kosten der Feststellung gemäß § 170 Abs. 1 Satz 1 InsO möglich. Dieser Anspruch setzt voraus, dass der Kläger gemäß § 166 Abs. 1 InsO eine bewegliche Sache verwertet, die er in seinem Besitz hat und an der ein Absonderungsrecht besteht. Im Streitfall fehlt es an ausreichenden tatsächlichen Feststellungen zu der Besitzlage an den verwerteten Fahrzeugen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend und von der Revision nicht angegriffen hat das Berufungsgericht angenommen, dass die Beklagte gemäß § 50 Abs. 1 InsO nur zur abgesonderten Befriedigung nach Maßgabe der §§ 166 bis 173 InsO berechtigt ist. Die Schuldnerin hat die Fahrzeuge der Beklagten zur Sicherung eines Anspruchs übereignet (§ 51 Nr. 1 InsO). Die entsprechende Klausel des Rahmenvertrags ist ausdrücklich als "Sicherungsübereignung" überschrieben und enthält in Nr. 6.1 eine Zweckbestimmungserklärung. Nach diesen Regelungen handelt es sich - wie das Berufungsgericht zutreffend festgestellt hat - bei den Fahrzeugen um vom Schuldner dem Gläubiger zur Sicherheit übereignete Sachen. Dabei ist - wie das Berufungsgericht ebenfalls zutreffend annimmt - nicht entscheidend, zur Sicherung welcher Forderungen die Sache dient, solange nur überhaupt eine gesicherte Forderung bestehen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>b) Für § 166 Abs. 1 InsO kommt es darauf an, ob der Schuldner zum Zeitpunkt der Eröffnung des Insolvenzverfahrens die bewegliche Sache in seinem Besitz hat (MünchKomm-InsO/Tetzlaff, 3. Aufl., § 166 Rn. 14; HK-InsO/Landfermann, 8. Aufl., § 166 Rn. 11; vgl. auch BGH, Urteil vom 16. November 2006 - IX ZR 135/05, ZIP 2006, 2390 Rn. 9). Hierzu ist erforderlich, für jede verwertete Sache festzustellen, ob ein ausreichender Besitz des Schuldners an ihr bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>aa) Nach den gesetzgeberischen Wertungen genügt nicht jede Besitzposition des Schuldners, damit dem Insolvenzverwalter auch ein Verwertungsrecht an der Sache zusteht. Welche Arten des Besitzes des Schuldners ein Verwertungsrecht begründen, beurteilt sich anhand der gesetzgeberischen Wertentscheidung. Im Interesse der Rechtssicherheit ist dabei nach Möglichkeit auf eine typisierende Betrachtung abzustellen (BGH, Urteil vom 24. September 2015 - IX ZR 272/13, BGHZ 207, 23 Rn. 22; vgl. Bitter/Alles KTS 2013, 113, 122, 144).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>(1) Die Insolvenzordnung gestaltet die Einbeziehung der Inhaber dinglicher Kreditsicherheiten unterschiedlich aus (BT-Drucks. 12/2443, S. 87). Der Gesetzgeber ging davon aus, dass besitzlose Mobiliarsicherheiten in aller Regel am Umlauf- oder Anlagevermögen des schuldnerischen Unternehmens bestehen. Das Sicherungsgut werde regelmäßig im Betrieb des Schuldners genutzt; es stehe mit dem restlichen Schuldnervermögen in einem technisch-organisatorischen Verbund. Daher spreche eine tatsächliche Vermutung dafür, dass die Insolvenzmasse dann am wirtschaftlichsten verwertet werden könne, wenn dieser Verbund erhalten bleibe. Dies rechtfertige es, für die zur Sicherung übereigneten Gegenstände einen automatischen Verwertungsstopp und ein Verwertungsrecht des Insolvenzverwalters vorzusehen (BT-Drucks. 12/2443, S. 87 f). Das Zugriffs- und Verwertungsrecht eines Pfandgläubigers solle hingegen von der Eröffnung des Insolvenzverfahrens unberührt bleiben (BT-Drucks. 12/2443, S. 87, 178). Die Regelung des § 166 Abs. 1 InsO soll den Gläubigern den Zugriff auf die wirtschaftliche Einheit des Schuldnerunternehmens verwehren. Vorhandene Chancen für eine zeitweilige oder dauernde Fortführung des Unternehmens sollen so erhalten und dem Verwalter darüber hinaus ermöglicht werden, durch eine gemeinsame Verwertung zusammengehöriger, aber für unterschiedliche Gläubiger belasteter Gegenstände einen höheren Verwertungserlös zu erzielen (BT-Drucks. 12/2443, S. 178).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die Vorschrift des § 166 Abs. 1 InsO knüpft für das Verwertungsrecht an den Besitz des Schuldners an. Dieses Tatbestandsmerkmal soll die gesetzgeberische Wertung umsetzen, Sicherungsgut, das sich im technisch-organisatorischen Verbund mit dem übrigen Schuldnervermögen befindet, einem automatischen Verwertungsstopp zu unterwerfen. Deshalb begründet § 166 Abs. 1 InsO ein Verwertungsrecht an allen Sachen, die der Insolvenzverwalter in seinem Besitz hat (BT-Drucks. 12/2443, S. 178). Umgekehrt hat der Gesetzgeber es nicht für angemessen gehalten, das Verwertungsrecht auf Sachen auszudehnen, die sich nicht im Besitz des Schuldners befinden, und sich hierbei insbesondere auf den Fall des Faustpfandrechts bezogen (BT-Drucks. 12/2443, S. 88, 178). Hier fehle es an einem technisch-organisatorischen Verbund des Sicherungsgutes mit dem übrigen Schuldnervermögen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(2) Maßgeblich für die Auslegung der Vorschrift ist vor diesem Hintergrund die Art des Besitzes. Denn das Gesetz knüpft das Verwertungsrecht an den Besitz des Schuldners, mit dem der Gesetzgeber die Fälle erfassen will, in denen die Sache zur wirtschaftlichen Einheit des schuldnerischen Unternehmens gehört (BGH, Urteil vom 24. September 2015 - IX ZR 272/13, BGHZ 207, 23 Rn. 22). In dieser Hinsicht ist der Anwendungsbereich der Norm nach Sinn und Zweck zu begrenzen (BGH, aaO). Entscheidend ist dabei nicht, ob eine konkrete Eingliederung in den technisch-organisatorischen Verbund des schuldnerischen Vermögens tatsächlich erfolgt ist oder nicht. Es kommt vielmehr darauf an, ob der Besitz des Schuldners nach seiner Art geeignet ist, typischerweise den Schluss zu tragen, dass die so im Besitz befindliche Sache regelmäßig in einem technisch-organisatorischen Verbund mit dem übrigen Schuldnervermögen steht (vgl. BT-Drucks. 12/2443, S. 87 f, 178). Der Besitz ist mithin das tatbestandliche Ersatzmerkmal.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Zwar ist die Kommission für Insolvenzrecht - allerdings auf der Grundlage einer Konzeption, die ein umfassendes Verwertungsrecht des Verwalters bei Mobiliarsicherheiten wie Eigentumsvorbehalt, Sicherungseigentum und Sicherungsabtretung vorsah - für die Fälle, in denen ein Absonderungsrecht des Gläubigers Bestand haben sollte, bei ihrem Leitsatz 3.4.8 zum Verwertungsrecht des Insolvenzverwalters davon ausgegangen, dass der mittelbare Besitz des Verwalters an der Sache genüge, sofern nicht der Pfandgläubiger der unmittelbare Besitzer sei (Erster Bericht der Kommission für Insolvenzrecht, 1985, S. 332). Für die Insolvenzordnung hat der Gesetzgeber jedoch für die Abgrenzung in erster Linie Fallgruppen betrachtet, die vom unmittelbaren Besitz ausgehen. Die Wertung knüpft daran an, ob der Schuldner oder der Absonderungsberechtigte unmittelbarer Besitzer der Sache ist. Hingegen ist die weitere Fallgestaltung, in der weder Schuldner noch Absonderungsberechtigter, sondern ein Dritter unmittelbarer Besitzer der Sache ist, nicht bedacht worden (vgl. auch Bork, FS Gaul, 1997, S. 71, 75; Hirte/Knof, WM 2008, 49, 53). Aus der Erwägung des Gesetzgebers zu § 108 Abs. 1 Satz 2 InsO, in die Masse fließe regelmäßig nur der Kostenanteil für die Feststellung und die Verwertung des Leasinggutes (BT-Drucks. 13/4699, S. 6), ergibt sich nur die Möglichkeit eines Verwertungsrechts. Für die Fallgruppe des unmittelbaren Besitzes eines Dritten kommt es daher darauf an, unter welchen Voraussetzungen der verbleibende mittelbare Besitz des Schuldners ausreichende Grundlage für die gesetzgeberische Wertungsgrundlage einer Einbeziehung der Sache in den technisch-organisatorischen Verbund des Schuldnervermögens ist (vgl. auch BGH, Urteil vom 24. September 2015 - IX ZR 272/13, BGHZ 207, 23 Rn. 30).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>bb) Auf dieser Grundlage begründet der unmittelbare Besitz des Schuldners nach allgemeiner Meinung ein Verwertungsrecht (vgl. nur Uhlenbruck/Brinkmann, InsO, 14. Aufl., § 166 Rn. 14; Schmidt/Sinz, InsO, 19. Aufl., § 166 Rn. 8). Für den mittelbaren Besitz des Schuldners ist zu unterscheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>(1) Grundsätzlich fällt unter § 166 Abs. 1 InsO auch der mittelbare Besitz des Schuldners (BGH, Urteil vom 24. September 2015, aaO Rn. 20 mwN). Daher kommt ein Verwertungsrecht des Insolvenzverwalters in Betracht, wenn der Schuldner eine sicherungsübereignete Sache gewerblich vermietet oder verleast (BGH, Urteil vom 16. Februar 2006 - IX ZR 26/05, BGHZ 166, 215 Rn. 24 - Flowtex; vom 16. November 2006 - IX ZR 135/05, ZIP 2006, 2390 Rn. 7 - Kettenbagger). Entscheidend ist, ob nach der Ausgestaltung des mittelbaren Besitzes des Schuldners an der konkreten Sache angenommen werden kann, dass die gesetzliche Vermutung einer Eingliederung der Sache in die wirtschaftliche Einheit des schuldnerischen Unternehmens zutrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Dies hat der Senat zunächst für eine Fallgestaltung entschieden, in welcher der Schuldner Nutzfahrzeuge mit einer nicht marktgängigen Ausstattung anschaffte und dies von einer Bank finanzieren ließ. Zur Sicherheit übereignete der Schuldner die Fahrzeuge der finanzierenden Bank. Einen Teil dieser Fahrzeuge stattete der Schuldner mit einem Horizontalbohrsystem aus und überließ diese zusammengesetzten Sachen anschließend in- und ausländischen Betriebsgesellschaften auf der Grundlage von Miet- und Leasingverträgen gegen Entgelt (BGH, Urteil vom 16. Februar 2006, aaO Rn. 2, 23 f). Für diese konkrete Fallgestaltung hat der Senat ein Verwertungsrecht angenommen, weil in diesem Fall die sicherungsübereigneten Fahrzeuge regelmäßig sowohl für eine Unternehmensfortführung als auch für eine geordnete Abwicklung benötigt würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Weiter hat der Senat einen mittelbaren Besitz des Schuldners an solchen Betriebsgegenständen für ausreichend gehalten, die der Schuldner zunächst zur Eigennutzung erworben und zur Sicherheit übereignet hat, und anschließend einem Dritten überlassen hat, damit dieser die Gegenstände lagere und an Kunden für und im Namen des Schuldners weiter vermiete, weil sie im Betrieb des Schuldners zeitweise nicht benötigt würden (BGH, Urteil vom 16. November 2006, aaO Rn. 8). Auch hier stand der verbleibende mittelbare Besitz des Schuldners einer dauerhaften Ausgliederung aus dem unternehmerischen Betrieb entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>(2) Allerdings ist schon der Gesetzgeber davon ausgegangen, dass es mittelbare Besitzlagen gibt, die kein Verwertungsrecht begründen (vgl. BT-Drucks. 12/2443, S. 178). Insbesondere scheidet ein Verwertungsrecht des Verwalters bei bloß mittelbarem Besitz des Schuldners aus, wenn der Sicherungsnehmer unmittelbarer Besitzer ist (BGH, Urteil vom 5. Mai 2011 - IX ZR 144/10, BGHZ 189, 299 Rn. 31 mwN) oder eine Besitzstellung innehat, die einem unmittelbaren Besitz gleichsteht (vgl. BGH, Urteil vom 24. September 2015 - IX ZR 272/13, BGHZ 207, 23 Rn. 26 zur Besitzlage bei verpfändeten Aktien in Sammelverwahrung). Ist der Sicherungsnehmer unmittelbarer Besitzer der Sache oder befindet er sich in einer vergleichbaren besitzrechtlichen Stellung, so ist eine Nutzung der Sache für das schuldnerische Unternehmen regelmäßig ausgeschlossen. Er hindert daher den Schuldner für die Dauer des Sicherungsrechts an einer Nutzung der jeweiligen Sache. Die Sache steht insoweit nicht mehr im technisch-organisatorischen Verbund des Schuldnervermögens. Deshalb kommt ein Verwertungsrecht des Insolvenzverwalters bei Sachen, die sich zum Zeitpunkt der Insolvenzeröffnung im unmittelbaren Besitz des Sicherungsnehmers befinden, nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>(3) In vergleichbarer Weise scheidet ein Verwertungsrecht des Insolvenzverwalters trotz mittelbarem Besitz des Schuldners aus, wenn sich die Sache im unmittelbaren Besitz eines Dritten befindet und der unmittelbare Besitzer über eine auch im Insolvenzfall besitzrechtlich geschützte Stellung verfügt, die nach ihrer Art keine Einbindung der Sache in einen technisch-organisatorischen Verbund des Schuldnervermögens erwarten lässt. Dies ist für den Zeitpunkt der Eröffnung des Insolvenzverfahrens zu beurteilen (arg. § 166 Abs. 1 InsO). Dabei kommt es auf die besitzrechtlichen Beziehungen, insbesondere zwischen Schuldner und Dritten an. Auf der Grundlage der gesetzgeberischen Wertentscheidung kann dabei berücksichtigt werden, über welche Möglichkeiten der Schuldner verfügt, ohne Besitzstörung des anderen auf die Sache zuzugreifen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Lässt der mittelbare Besitz des Schuldners nach der konkreten Ausgestaltung der Besitzposition des Schuldners eine zukünftige weitere, vom Willen des unmittelbaren Besitzers unabhängige Nutzung der Sache im Rahmen des schuldnerischen Unternehmens zu, erfüllt der mittelbare Besitz des Schuldners regelmäßig die Voraussetzungen des § 166 Abs. 1 InsO (vgl. auch Uhlenbruck/Brinkmann, InsO, 14. Aufl., § 166 Rn. 14). Ist die Sache hingegen nach der Art des mittelbaren Besitzes bereits dauerhaft mit der erfolgten Überlassung an den unmittelbaren Besitzer so aus dem Vermögen des Schuldners ausgeschieden, dass eine weitere Nutzung durch den Schuldner gegen den Willen des unmittelbaren Besitzers nicht möglich ist, fehlt es an der erforderlichen Einbindung der Sache in das Schuldnervermögen. Verfügt der unmittelbare Besitzer in diesem Fall über eine rechtlich geschützte Besitzposition, die den Schuldner dauerhaft daran hindert, gegen den Willen des unmittelbaren Besitzers unmittelbaren Besitz wiederzuerlangen, genügt der verbleibende mittelbare Besitz des Schuldners nicht, um ein Verwertungsrecht zu begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>cc) Dies gilt auch im Rahmen des Finanzierungsleasings. Ob bei unmittelbarem Besitz des Leasingnehmers der mittelbare Besitz des Schuldners als Leasinggeber an einer Sache ein Verwertungsrecht des Insolvenzverwalters begründet, hängt von der Ausgestaltung der Besitzposition des Schuldners im Verhältnis zum Leasingnehmer ab. Ist nach den vertraglichen Absprachen die Leasingsache dauerhaft aus dem Vermögen des Leasinggebers ausgeschieden, besteht kein Verwertungsrecht des Insolvenzverwalters in der Insolvenz des Leasingunternehmens. Ist nach den vertraglichen Absprachen ein weiterer Zugriff des Leasinggebers auf die Leasingsache möglich, führt dies zu einem Verwertungsrecht des Insolvenzverwalters. Unter diesen Umständen besteht aufgrund des (mittelbaren) Besitzes an der zur Sicherheit übereigneten Sache eine schutzwürdige wirtschaftliche Einheit mit dem übrigen Schuldnervermögen; die Sache bleibt in das schuldnerische Unternehmen als funktionale Einheit integriert (vgl. Uhlenbruck/Brinkmann, aaO Rn. 15 f). Hingegen kommt es nicht darauf an, ob der Schuldner tatsächlich im Einzelfall zur Fortführung seines Schuldnerbetriebs auf die Sache angewiesen ist (anders wohl Schmidt/Sinz, InsO, 19. Aufl., § 166 Rn. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>In Fällen des Finanzierungsleasings besteht der schuldrechtliche Vertrag in der Insolvenz des Leasinggebers nach § 108 Abs. 1 Satz 2 InsO mit Wirkung für die Insolvenzmasse fort. Zwar kann auch in diesen Fällen die Fortführung des Unternehmens behindert werden, sofern die Gläubiger des Schuldners ungeachtet dessen auf das Sicherungsgut zugreifen könnten und der Vertragspartner deshalb gemäß § 536 Abs. 3, § 581 Abs. 2 BGB von der Entrichtung des Überlassungsentgeltes befreit wäre (BGH, Urteil vom 16. Februar 2006 - IX ZR 26/05, BGHZ 166, 215 Rn. 24; vom 16. November 2006 - IX ZR 135/05, ZIP 2006, 2390 Rn. 7). Hieraus ergibt sich jedoch nicht, dass deshalb der mittelbare Besitz des Schuldners in Fällen des Finanzierungsleasings stets ein Verwertungsrecht des Insolvenzverwalters begründet (dagegen auch Zahn, ZIP 2007, 365, 370). Soweit der Entscheidung BGH, Urteil vom 16. Februar 2006, aaO Rn. 24 etwas anderes entnommen werden könnte, wird daran nicht festgehalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>c) Diesen rechtlichen Maßstäben hält die Entscheidung des Berufungsgerichts nicht stand. Anders als das Berufungsgericht meint, besteht ein Verwertungsrecht des Insolvenzverwalters bei Leasinggesellschaften im Falle des Finanzierungsleasings nicht schon dann, wenn der Leasinggeber nach dem Ende der Leasingzeit entscheiden muss, wie weiter verfahren wird. Entscheidend ist nach der gesetzlichen Regelung vielmehr, wie der mittelbare Besitz des Schuldners im Falle des Finanzierungsleasings ausgestaltet ist. Im Streitfall fehlt es an ausreichenden Feststellungen zum mittelbaren Besitz des Schuldners. Hierbei kommt es auf die Regelungen des jeweiligen Leasingvertrags im Hinblick auf die bestimmte einzelne Sache an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>aa) Erfolgte die Sicherungsübereignung an die Beklagte im Streitfall nach §§ 929, 930 BGB, blieb die Schuldnerin nach der Sicherungsübereignung mittelbare Fremdbesitzerin erster Stufe; der Sicherungsnehmer wird zum mittelbaren Eigenbesitzer zweiter Stufe. Ob dieser mittelbare Besitz der Schuldnerin genügt, um eine hinreichende Eingliederung der Sache in den technisch-organisatorischen Verbund des Schuldnervermögens annehmen zu können, hängt beim Finanzierungsleasing von der leasingtypischen Vertragsgestaltung ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(1) Ein Verwertungsrecht des Insolvenzverwalters scheidet beim - im Streitfall gegebenen - Finanzierungsleasing aus, wenn der Schuldner die Sache dem Leasingnehmer für eine feste, nicht ordentlich kündbare Grundlaufzeit überlassen hat und bei deren Ablauf eine Vollamortisation erlangt, weil der Leasingnehmer aufgrund der vertraglichen Regelungen - sei es auch erst in Verbindung mit besonderen Vertragsbestimmungen wie einer Abschlusszahlung, einer Restwertgarantie, einer Kaufoption oder einem Andienungsrecht - insgesamt einen Betrag zu zahlen hat, der das vom Schuldner für die Anschaffung der Sache eingesetzte Kapital zuzüglich Verzinsung und Gewinn erreicht oder übersteigt. Tritt diese Vollamortisation bereits nach dem Inhalt der vertraglichen Vereinbarungen mit dem Leasingnehmer ein, fehlt es an einer ausreichenden Grundlage, um allein aufgrund des verbleibenden mittelbaren Besitzes des Schuldners annehmen zu können, die Sache stehe in einem technisch-organisatorischen Verbund mit dem übrigen Schuldnervermögen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Während der festen Grundlaufzeit hat der Schuldner keine Möglichkeit, gegen den Willen des Leasingnehmers den unmittelbaren Besitz an der Sache zu erlangen. Die Wegnahme des Leasinggutes ohne den Willen des Leasingnehmers stellt eine verbotene Eigenmacht im Sinne des § 858 Abs. 1 BGB dar (Klinck in Martinek/Stoffels/Wimmer-Leonhardt, Leasinghandbuch, 2. Aufl., § 49 Rn. 30). Liegen die Voraussetzungen des § 108 Abs. 1 Satz 2 InsO vor, besteht der Vertrag auch mit Wirkung für die Insolvenzmasse fort. Typischerweise erwirbt der Leasinggeber beim Finanzierungsleasing die Sache auf Veranlassung des Leasingnehmers mit dem Ziel, diesem die Sache zur Nutzung zu überlassen. Aufgrund der Vollamortisation besteht beim Finanzierungsleasing regelmäßig kein Interesse des Schuldners, die Sache am Ende der festen Laufzeit zu übernehmen. Damit ergibt die trotz der dauerhaften Einräumung des unmittelbaren Besitzes verbleibende Rückgabepflicht am Ende der Grundlaufzeit in diesem Fall keinen hinreichenden Anhaltspunkt, dass der mittelbare Besitz des Schuldners eine weitere Zuordnung der Sache zum technisch-organisatorischen Verbund des Schuldnervermögens rechtfertigen könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(2) Anders ist dies, wenn der Schuldner beim Finanzierungsleasing auf der Grundlage der vertraglichen Vereinbarungen keine Vollamortisation erreichen kann. Dann besteht regelmäßig ein Interesse des Schuldners, die Sache am Ende der festen Grundlaufzeit zu übernehmen. In diesem Fall eröffnet der mittelbare Besitz des Schuldners noch eine Zuordnungsmöglichkeit zum technisch-organisatorischen Verbund des Schuldnervermögens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(3) Schließlich bleibt es - unabhängig von der Frage der Vollamortisation - in allen Fällen des Finanzierungsleasings, in denen der Schuldner auf die Entscheidung des Leasingnehmers bestimmenden Einfluss nehmen kann, bei einer ausreichenden Zuordnung der Sache zum technisch-organisatorischen Verbund des Schuldnervermögens. Dies ist insbesondere der Fall, wenn es sich beim Leasingnehmer um Tochtergesellschaften des Leasinggebers oder Betriebsgesellschaften im Rahmen einer Betriebsaufspaltung handelt und der Schuldner über einen beherrschenden Einfluss verfügt (vgl. BGH, Urteil vom 16. Februar 2006 - IX ZR 26/05, BGHZ 166, 215). Denn angesichts des beherrschenden Einflusses des Schuldners genügt in diesen Fällen die aus dem mittelbaren Besitz folgende Zugriffsmöglichkeit, um eine Zuordnung der Sache zum technisch-organisatorischen Verbund des Schuldnervermögens zu rechtfertigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>bb) Erfolgte die Sicherungsübereignung an die Beklagte im Streitfall nach §§ 929, 931 BGB, könnte es schon deshalb an einem ausreichenden Besitz der Schuldnerin fehlen. Zwar hat das Berufungsgericht angenommen, dass die Schuldnerin aufgrund der mit den Leasingnehmern abgeschlossenen Leasingverträge mittelbare Besitzerin der geleasten Fahrzeuge gewesen sei und sie zugleich der Beklagten den Besitz an diesen vermittelte. Dabei hat das Berufungsgericht übersehen, dass dieser Annahme die Regelungen in Nr. 6.2, insbesondere lit. d) des Rahmenvertrags entgegenstehen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Beim Finanzierungsleasing fehlt es an einem mittelbaren Besitz des Schuldners, der zu einem Verwertungsrecht des Insolvenzverwalters führen kann, wenn die Sicherungsübereignung auf die finanzierende Bank gemäß §§ 929, 931 BGB erfolgt ist, indem der Schuldner seinen bestehenden Herausgabeanspruch aus dem Leasingvertrag an den Sicherungsnehmer abtrat (vgl. zur Sicherungsübereignung nach §§ 929, 931 BGB durch den Leasinggeber BGH, Urteil vom 10. November 2004 - VIII ZR 186/03, BGHZ 161, 90, 107, 111; Marotzke, ZZP 109 (1996), S. 429, 443 Fn. 66). In diesem Fall verliert der Schuldner seinen mittelbaren Besitz (§§ 868, 870 BGB; vgl. BGH, Urteil vom 19. Januar 1955 - IV ZR 135/54, LM Nr. 6 zu § 868 BGB). Es genügt die Abtretung des Herausgabeanspruchs; nicht notwendig ist es, dass auch die übrigen Ansprüche aus dem Besitzmittlungsverhältnis übertragen werden (BGH, Urteil vom 21. April 1959 - VIII ZR 148/58, NJW 1959, 1536, 1538 unter II.2.b.). Für die Abtretung ist regelmäßig weder die Mitwirkung noch die Kenntnis des unmittelbaren Besitzers erforderlich (Palandt/Herrler, BGB, 77. Aufl., § 870 Rn. 2; Staudinger/Gutzeit, BGB, 2012, § 870 Rn. 5 mwN; MünchKomm-BGB/Oechsler, 7. Aufl., § 931 Rn. 18; Staudinger/Wiegand, BGB, 2017, § 931 Rn. 22). Soweit der Schuldner aufgrund einer solchen Übereignung fortan über keine Besitzposition mehr verfügt, scheidet ein Verwertungsrecht des Insolvenzverwalters gemäß §§ 166, 170 InsO unabhängig von der Ausgestaltung der Leasingverträge aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Die Sache ist nicht zur Endentscheidung reif. Sie ist daher zu neuer Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 ZPO). Das Berufungsgericht wird den Parteien Gelegenheit zur ergänzenden Stellungnahme zum Besitz der Schuldnerin an den einzelnen Fahrzeugen, zur Übereignung der Fahrzeuge an die Beklagte und zum Rahmenvertrag zu geben haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kayser          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Lohmann          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Pape   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schoppmeyer          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meyberg          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304562018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

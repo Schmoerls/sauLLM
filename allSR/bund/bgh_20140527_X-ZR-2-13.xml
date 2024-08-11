@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE305712014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20140527</entsch-datum>
+   <aktenzeichen>X ZR 2/13</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 83 Abs 1 PatG, § 117 PatG, § 531 Abs 2 S 1 Nr 1 ZPO</norm>
+   <vorinstanz>vorgehend BPatG München, 2. Oktober 2012, Az: 5 Ni 41/10 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Vorsorgliche weitere Hilfsanträge des Beklagten in Bezug auf richterlich für erfolglos erklärte Anträge des Klägers - Analog-Digital-Wandler</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Analog-Digital-Wandler</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Greift das Patentgericht in dem nach § 83 Abs. 1 PatG erteilten Hinweis nur einzelne Angriffsmittel des Klägers auf, so hat der Beklagte in der Regel keinen Anlass, zusätzlich zu Hilfsanträgen, die dem erteilten Hinweis Rechnung tragen, vorsorglich weitere Hilfsanträge im Hinblick auf Angriffsmittel zu stellen, auf die das Patentgericht in seinem Hinweis nicht eingegangen ist oder die es als nicht aussichtsreich eingeschätzt hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 2. Oktober 2012 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts insoweit aufgehoben, als das europäische Patent 1 300 951 auch hinsichtlich folgender Fassung von Patentanspruch 1 für nichtig erklärt worden ist, auf die sich die übrigen Patentansprüche rückbeziehen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Delta-Sigma Analog-/Digital-Wandler, dessen analoges Frontend aus einem Eingangswiderstand (1), einem Rückkopplungswiderstand (2) einer Integrator-Kapazität (3) besteht, der ein D-Flip-Flop (4) auf einem Halbleiterchip enthält, dadurch gekennzeichnet, dass ein vor dem D-Eingang des D-Flip-Flops (4) befindlicher erster Buffer (5) (7) und/oder ein hinter dem Ausgang des D-Flip-Flops (4) <span style="text-decoration:underline">im Rückkopplungspfad</span> befindlicher zweiter Buffer (6) (8) betriebsspannungsmäßig getrennt <span style="text-decoration:line-through">von digitalen Schaltungsteilen, die sich auf dem Halbleiterchip befinden</span>, <span style="text-decoration:underline">von dem die digitalen Schaltungsteile beinhaltenden Halbleiterchip</span> versorgt wird, damit eine Entkopplung zwischen Halbleiterchip und analogem Frontend eintritt."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die weitergehende Berufung wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Berufungsverfahrens, an das Patentgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 300 951 (Streitpatents), das am 29. September 2002 unter Inanspruchnahme einer Priorität vom 2. Oktober 2001 angemeldet wurde und einen Delta-Sigma-Analog-Digital-Wandler betrifft. Patentanspruch 1, auf den fünf weitere Patentansprüche zurückbezogen sind, lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Delta-Sigma Analog-/Digital-Wandler, dessen analoges Frontend aus einem Eingangswiderstand (1), einem Rückkopplungswiderstand (2) [und] einer Integrator-Kapazität (3) besteht, der ein D-Flip-Flop (4) auf einem Halbleiterchip enthält, dadurch gekennzeichnet, dass ein vor dem D-Eingang des D-Flip-Flops (4) befindlicher erster Buffer (5) (7) und/oder ein hinter dem Ausgang des D-Flip-Flops (4) befindlicher zweiter Buffer (6) (8) betriebsspannungsmäßig getrennt von digitalen Schaltungsteilen, die sich auf dem Halbleiterchip befinden, versorgt wird, damit eine Entkopplung zwischen Halbleiterchip und analogem Frontend eintritt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und sei nicht patentfähig. Zudem sei die Erfindung nicht so deutlich offenbart, dass ein Fachmann sie ausführen könne. Die Beklagte hat das Streitpatent in der erteilten und hilfsweise in einer geänderten Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent wegen unzulässiger Erweiterung für nichtig erklärt. Dagegen wendet sich die Berufung, mit der die Beklagte das Streitpatent zuletzt mit einem Haupt- und zwei Hilfsanträgen nur noch in geänderter Fassung verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung führt zur teilweisen Aufhebung des angefochtenen Urteils und zur Zurückverweisung der Sache an das Patentgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft einen Delta-Sigma-Analog-Digital-Wandler.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. In der Streitpatentschrift wird ausgeführt, Analog-/Digital-Wandler, mit denen das Eingangssignal mittels Integratoren, Komparatoren und digitalen Filtern in ein digitales Ausgangssignal umgewandelt werde, seien im Stand der Technik bekannt gewesen. Bei sehr einfachen Wandlern dieser Art werde die Versorgungsspannung als Referenzspannung genutzt. Deshalb sei die Auflösung des Wandlers direkt abhängig von der Qualität der Versorgungsspannung. Damit sei ohne weitere Maßnahmen lediglich eine Auflösung von etwa sieben Bit möglich. Für gängige Audio-Codecs werde hingegen eine Auflösung von mindestens dreizehn Bit benötigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, einen Wandler zur Verfügung zu stellen, der bei einfachem Aufbau eine Auflösung von mindestens dreizehn Bit ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung dieses Problems schlägt das Streitpatent in der mit dem Hauptantrag verteidigten Fassung von Patentanspruch 1 einen Wandler vor, dessen Merkmale sich wie folgt gliedern lassen (Änderungen gegenüber der erteilten Fassung sind durch Unterstreichung hervorgehoben, der in der verkündeten Fassung des Urteilstenors versehentlich nicht nur in Merkmal 2 a, sondern auch in Merkmal 1 b eingefügte Zusatz "im Rückkopplungspfad" wurde an dieser Stelle wieder entfernt):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Es handelt sich um einen Delta-Sigma-Analog-Digital-Wandler,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) dessen analoges Frontend aus einem Eingangswiderstand (1), einem Rückkopplungswiderstand (2) und einer Integrator-Kapazität (3) besteht und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) der ein D-Flip-Flop (4) auf einem Halbleiterchip enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Damit eine Entkopplung zwischen dem Halbleiterchip und dem analogen Frontend eintritt, ist die Schaltung wie folgt ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Vor dem D-Eingang und/oder hinter dem Ausgang des D-Flip-Flops (4) <span style="text-decoration:underline">im Rückkopplungskanal</span> befindet sich ein erster (5, 7) bzw. zweiter (6, 8) Buffer,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) der betriebsspannungsmäßig getrennt von digitalen Schaltungsteilen auf dem Halbleiterchip versorgt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der erteilten Fassung von Patentanspruch 1 gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus. Dort sei das Flip-Flop als Bestandteil des analogen Frontends offenbart. Nach dem Streitpatent sei es hingegen eine Komponente des Halbleiterchips. Darin liege eine unzulässige Abweichung. Zwar sei es für die Arbeitsweise des Flip-Flops unerheblich, ob es dem analogen Frontend oder dem Halbleiterchip zugeschlagen werde. Beim Entwurf und bei der technologischen Umsetzung ergäben sich insoweit aber erhebliche Unterschiede. Die in der erteilten Fassung vorgesehene Integration in den Halbleiterchip führe dazu, dass auch das Flip-Flop vom analogen Frontend entkoppelt werde. Nach der ursprünglichen Lehre werde dagegen das Flip-Flop vom Halbleiterchip entkoppelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Eine weitere unzulässige Änderung liege darin, dass ursprünglich nur eine betriebsspannungsmäßige Trennung zwischen den Buffern und dem Halbleiterchip offenbart sei, die erteilte Fassung hingegen auf eine Trennung von digitalen Schaltungsteilen auf dem Halbleiterchip gerichtet sei, was einen analog-digital aufgebauten Halbleiterchip voraussetze.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>In der mit dem erstinstanzlichen Hilfsantrag verteidigten Fassung stimme Patentanspruch 1 zwar hinsichtlich beider Merkmale mit dem Inhalt der ursprünglich eingereichten Unterlagen überein. Diese Fassung sei aber unzulässig, weil sie im Vergleich zur erteilten Fassung auf den Schutz eines Aliud gerichtet sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht in allen Punkten stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand der erteilten Fassung von Patentanspruch 1 über den Inhalt der ursprünglichen Unterlagen hinausgeht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung des Patentgerichts ergibt sich dies allerdings nicht schon daraus, dass das D-Flip-Flop nach der Vorgabe in Merkmal 1 b einen Bestandteil des Halbleiterchips bildet. Diese Ausgestaltung ist schon in den ursprünglich eingereichten Unterlagen als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>aa) In der Beschreibung der ursprünglich eingereichten Unterlagen - deren Inhalt mit demjenigen der veröffentlichten Fassung der Anmeldung übereinstimmt - wird zwar nicht ausdrücklich angesprochen, an welcher Stelle der Schaltung das D-Flip-Flop angeordnet ist. Es wird aber ausgeführt, die im Stand der Technik bekannten Delta-Sigma-Wandler, mit deren Verbesserung sich das Streitpatent befasst, benötigten im analogen Frontend lediglich zwei Widerstände und eine Integrator-Kapazität; darüber hinaus sei nur eine rein digitale integrierte Schaltung erforderlich (Anmeldung Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Hinweise darauf, dass das D-Flip-Flop bei einem erfindungsgemäßen Wandler abweichend hiervon außerhalb des Chips mit der integrierten Schaltung angeordnet werden soll, lassen sich der Beschreibung demgegenüber nicht entnehmen. In allen drei Ausführungsbeispielen, die in den Figuren 1 bis 3 der Anmeldung dargestellt sind, ist das Flip-Flop auf dem Chip angeordnet. Als einziges Bauteil, das wahlweise innerhalb oder außerhalb des Chips angeordnet werden kann, werden die Eingangs- und Ausgangs-Buffer benannt (Abs. 11 und 12). Entsprechende Ausführungsbeispiele sind in den Figuren 2 (chipinterne Buffer) und 3 (chipexterne Buffer) dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>bb) Vor diesem Hintergrund ist die Anmeldung in ihrer Gesamtheit dahin zu verstehen, dass die in den Figuren 2 und 3 dargestellten Ausführungsformen, die ausdrücklich als Ausführungsbeispiele bezeichnet werden (Abs. 9), in der Anmeldung als zur Erfindung gehörend offenbart worden sind. Angesichts dessen kommt dem Wortlaut des in der Anmeldung enthaltenen Anspruchs 1, demzufolge das Flip-Flop zum analogen Frontend gehören soll, keine ausschlaggebende Bedeutung zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob dieser Formulierung ungeachtet der in den Figuren 2 und 3 dargestellten Ausführungsbeispiele zu entnehmen ist, dass auch Ausführungsformen zur Erfindung gehören sollen, bei denen das Flip-Flop außerhalb des Chips angeordnet ist. Selbst wenn dies zu bejahen wäre, führte dies nicht zu einer Einschränkung des Offenbarungsgehalts der Anmeldung. Der Offenbarungsgehalt einer Anmeldung ist nicht auf den Gegenstand der darin formulierten Patentansprüche beschränkt. Entscheidend ist vielmehr, was der Gesamtheit der ursprünglichen Unterlagen als zur angemeldeten Erfindung gehörend zu entnehmen ist (vgl. nur BGH, Urteil vom 8. Juli 2010 - Xa ZR 124/07, GRUR 2010, 910 Rn. 46 - Fälschungssicheres Dokument; Urteil vom 22. Dezember 2009 - X ZR 28/06, GRUR 2010, 513 Rn. 29 - Hubgliedertor II). Dazu gehören jedenfalls auch Ausführungsformen, bei denen das Flip-Flop auf dem Halbleiterchip angeordnet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>cc) Den vom Patentgericht erörterten technischen Unterschieden, die mit einer Anordnung innerhalb oder außerhalb des Chips verbunden sind, kommt angesichts dessen keine Bedeutung zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Diese Unterschiede werden in der Anmeldung nicht behandelt. Insbesondere lassen sich der Anmeldung keine Hinweise dafür entnehmen, dass das Flip-Flop als Bestandteil des analogen Frontends vom Halbleiterchip entkoppelt werden soll. In allen Ausführungsbeispielen sind die Buffer, deren getrennte Spannungsversorgung die angestrebte Entkopplung bewirken soll, vielmehr zwischen dem Flip-Flop und den außerhalb des Chips angeordneten Bestandteilen der Schaltung angeordnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die vom Patentgericht aufgezeigten technischen Aspekte können deshalb keinen Anhaltspunkt dafür geben, was zum Offenbarungsgehalt der Anmeldung gehört. Angesichts dessen kann offenbleiben, ob eine Entkopplung des Flip-Flops vom Halbleiterchip technisch überhaupt möglich und sinnvoll wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht ist das Patentgericht aber zu dem Ergebnis gelangt, dass der Gegenstand der erteilten Fassung von Patentanspruch 1 deshalb über den Inhalt der ursprünglichen Unterlagen hinausgeht, weil die betriebsspannungsmäßige Trennung gemäß Merkmal 2 b zwischen den Buffern und digitalen Schaltungsteilen auf dem Halbleiterchip zu erfolgen hat, während die Trennung nach Anspruch 1 der Anmeldung zwischen den Buffern und dem Halbleiterchip vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die insoweit vorgenommene Umformulierung führt dazu, dass nicht nur solche Ausgestaltungen zum Gegenstand von Patentanspruch 1 gehören, bei denen alle Schaltungsteile des Halbleiterchips betriebsspannungsmäßig von den Buffern getrennt werden, sondern auch solche, bei denen nur digitale Schaltungsteile in der genannten Weise getrennt werden. In der Anmeldung sind demgegenüber lediglich Ausgestaltungen der zuerst genannten Art als zur Erfindung gehörend offenbart. Damit geht der Gegenstand der erteilten Fassung von Patentanspruch 1 über den Inhalt der ursprünglich eingereichten Unterlagen hinaus. Entsprechendes gilt für die mit dem ersten Hilfsantrag verteidigte Fassung, die sich insoweit nicht von der erteilten Fassung unterscheidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand der mit dem zweiten Hilfsantrag verteidigten Fassung von Patentanspruch 1 geht demgegenüber nicht über den Inhalt der ursprünglich eingereichten Unterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) Nach dem zweiten Hilfsantrag werden in Merkmal 2 b die Worte "getrennt von den digitalen Schaltungsteilen auf dem Halbleiterchip" ersetzt durch "getrennt von dem die digitalen Schaltungsteile beinhaltenden Halbleiterchip". Dies entspricht dem Wortlaut der Anmeldung und führt dazu, dass nur noch solche Ausgestaltungen zum Gegenstand von Patentanspruch 1 gehören, bei denen alle Schaltungsteile des Halbleiterchips betriebsspannungsmäßig von den Buffern getrennt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>b) Die Verteidigung des Streitpatents in dieser Fassung führt nicht zu einer Erweiterung des Schutzbereichs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die vorgenommene Änderung in Merkmal 2 b hat zur Folge, dass von zwei möglichen Ausgestaltungen - Trennung aller Schaltungsteile auf dem Chip und Trennung nur von digitalen Schaltungsteilen - nur noch die zuerst genannte in den Schutzbereich von Patentanspruch 1 fällt. Damit wird der Schutzbereich nicht erweitert, sondern eingeschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Ob sich, wie das Patentgericht gemeint hat, eine andere Beurteilung ergäbe, wenn der Gegenstand von Patentanspruch 1 auch hinsichtlich des Merkmals 1 b über den Inhalt der Anmeldung hinausginge, bedarf keiner Entscheidung. Wie bereits oben unter 1 a dargelegt wurde, liegt hinsichtlich Merkmal 1 b keine unzulässige Erweiterung vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>c) Der zweite Hilfsantrag ist auch nicht deshalb unzulässig, weil er - ebenso wie die übrigen in der Berufungsinstanz zuletzt noch gestellten Anträge - in Merkmal 2 a zusätzlich vorsieht, dass der hinter dem Ausgang des D-Flip-Flops (4) befindliche Buffer im Rückkopplungskanal angeordnet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Diese in Reaktion auf einen vom Senat erteilten Hinweis vorgenommene Änderung unterliegt nicht der Zurückweisung gemäß § 117 PatG und § 531 Abs. 2 ZPO. Die Beklagte hatte keinen Anlass, bereits in erster Instanz oder in der Berufungsbegründung einen entsprechenden Hilfsantrag zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat zwar schon in der Klageschrift geltend gemacht, der Gegenstand von Patentanspruch 1 gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus, weil nicht zwingend vorgesehen sei, dass sich der zweite Buffer im Rückkopplungspfad befinden müsse. Das Patentgericht hat diesen Einwand aber nicht aufgegriffen. In seinem gemäß § 83 PatG erteilten Hinweis und in der angefochtenen Entscheidung hat es das Streitpatent lediglich aus zwei anderen Gründen als unzulässig erweitert angesehen. Vor diesem Hintergrund hatte die Beklagte keinen Anlass, neben ihren der Auffassung des Patentgerichts Rechnung tragenden Hilfsanträgen vorsorglich noch weitere Hilfsanträge zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist ein Nichtigkeitskläger grundsätzlich nicht gehalten, den Angriff gegen die Patentfähigkeit des Streitpatents auf alle denkbaren Gesichtspunkte zu stützen, insbesondere mit einer Vielzahl unterschiedlicher Argumentationslinien zu begründen, warum der Gegenstand der Erfindung durch den Stand der Technik vorweggenommen oder nahegelegt sei. Hierdurch würde eine sinnvolle Konzentration des erstinstanzlichen Verfahrens behindert. Der Hinweis, den das Patentgericht nach § 83 Abs. 1 PatG gibt, dient unter anderem dazu, eine sachgerechte Fokussierung der Argumentation zu ermöglichen (BGH, Urteil vom 28. August 2012 - X ZR 99/11, BGHZ 194, 290 = GRUR 2012, 1236 Rn. 38 - Fahrzeugwechselstromgenerator; Urteil vom 28. Mai 2013 - X ZR 21/12, GRUR 2013, 912 Rn. 71 - Walzstraße).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Diese Grundsätze gelten für die Verteidigung des Nichtigkeitsbeklagten entsprechend. Auch dieser ist nicht ohne weiteres gehalten, allen vom Kläger vorgetragenen Angriffsmitteln mit einer Vielzahl von Hilfsanträgen entgegenzutreten. Im Einzelfall mag zwar einzelnen Angriffsmitteln offensichtlich ein so großes Gewicht zukommen, dass eine beschränkte Verteidigung mit Haupt- oder Hilfsantrag schlechterdings unerlässlich erscheint. Greift das Patentgericht in dem nach § 83 Abs. 1 PatG erteilten Hinweis aber nur einzelne Angriffsmittel des Klägers auf, so hat der Beklagte in der Regel jedoch keinen Anlass, zusätzlich zu Hilfsanträgen, die dem erteilten Hinweis Rechnung tragen, vorsorglich weitere Hilfsanträge im Hinblick auf Angriffsmittel zu stellen, auf die das Patentgericht in seinem Hinweis nicht eingegangen ist oder die es als nicht aussichtsreich eingeschätzt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall bestand für die Beklagte mithin erst dann Anlass für die hier in Rede stehende Änderung des Patentanspruchs, als der Senat sie darauf hingewiesen hatte, dass das Fehlen der Worte "im Rückkopplungspfad" zu einer unzulässigen Erweiterung führen könnte. Auf diesen Hinweis hat die Beklagte umgehend reagiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>d) Entgegen der Auffassung der Klägerin fehlt es der verteidigten Anspruchsfassung weder an der erforderlichen Klarheit noch an einer ausführbaren Offenbarung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben unter 1 a dargelegt wurde, ist der Gegenstand des Streitpatents nicht deshalb unklar, weil das Flip-Flop einerseits als analoges Bauteil bezeichnet wird, andererseits aber auf dem Halbleiterchip angeordnet sein kann. Darin liegt zwar eine sprachliche Ungenauigkeit. Aus den oben aufgezeigten Gründen kann der Patentschrift aber mit hinreichender Deutlichkeit entnommen werden, zwischen welchen Bauteilen die erfindungsgemäße Entkopplung zu erfolgen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>e) Der Gegenstand von Patentanspruch 1 in der mit dem zweiten Hilfsantrag verteidigten Fassung geht, wie im Ergebnis auch die Klägerin nicht verkennt, nicht über den Inhalt der ursprünglichen Anmeldung hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin erhebt zwar auch gegenüber dieser Fassung den Einwand der unzulässigen Erweiterung. Sie stützt diesen Einwand aber lediglich auf die nach ihrer Auffassung unzulässigen Änderungen in Merkmal 1 b. Diese Argumentation verfängt aus den oben unter 1 a dargelegten Gründen nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>IV. Gemäß § 119 Abs. 2 und 3 PatG ist die angefochtene Entscheidung, soweit es um die mit Hilfsantrag 2 verteidigte Fassung von Patentanspruch 1 geht, aufzuheben und die Sache zur neuen Verhandlung und Entscheidung an das Patentgericht zurückzuverweisen. Eine Sachentscheidung durch den Senat gemäß § 119 Abs. 5 PatG erscheint nicht zweckmäßig, weil die Sache insoweit nicht entscheidungsreif ist und das Patentgericht - von seinem Rechtsstandpunkt aus folgerichtig - zu den beiden anderen von der Klägerin geltend gemachten Nichtigkeitsgründen keine Feststellungen getroffen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Gröning                       Grabinski                      Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>               Hoffmann                      Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE305712014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

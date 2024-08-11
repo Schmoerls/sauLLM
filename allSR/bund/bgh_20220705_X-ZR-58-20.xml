@@ -1,0 +1,2128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304392022</doknr>
+   <ecli>ECLI:DE:BGH:2022:050722UXZR58.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220705</entsch-datum>
+   <aktenzeichen>X ZR 58/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 113 S 1 PatG, § 13 Abs 1 S 1 EuPAG, § 15 Abs 1 EuPAG, § 15 Abs 4 EuPAG</norm>
+   <vorinstanz>vorgehend BPatG München, 22. Juni 2020, Az: 1 Ni 6/18<br/>nachgehend BGH, 20. Dezember 2022, Az: X ZR 58/20, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Zulässigkeit einer Prozessvertretung vor dem BGH als "dienstleistender europäischer Patentanwalt" - Verkehrsraumüberwachung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Verkehrsraumüberwachung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Patentnichtigkeitsverfahren vor dem Bundesgerichtshof ist eine Prozessvertretung als eines dienstleistenden europäischen Patentanwalts im Sinne von § 13 Abs. 1 Satz 1 EuPAG nicht zulässig, wenn die Patentanwaltskammer die vor Beginn der Tätigkeit gemäß § 15 Abs. 1 EuPAG zu erstattende Meldung als nicht vollständig beurteilt und deshalb eine Eintragung in das Meldeverzeichnis gemäß § 15 Abs. 4 EuPAG bestandskräftig versagt hat.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung und die Anschlussberufung gegen das Urteil des 1. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 22. Juni 2020 werden zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Beklagte trägt die Kosten des Berufungsverfahrens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des deutschen Patents 103 02 541 (Streitpatents), das am 23. Januar 2003 angemeldet worden ist und eine Vorrichtung zur optischen Verkehrsraumüberwachung in einem Fahrzeug betrifft. Patentanspruch 1, auf den sechs weitere Ansprüche zurückbezogen sind, lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Vorrichtung zur optischen Verkehrsraumüberwachung in einem Fahrzeug (1),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- mit einer in einem Optikeinbauraum (13) angeordneten Optikeinheit (3),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- mit einer von dieser räumlich getrennten und mit dieser funktional verbundenen Versorgungseinheit (5) in einem Versorgungseinbauraum (14),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- wobei die mit der Optikeinheit (3) funktional verbundene Versorgungseinheit (5)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">a) zu deren Energieversorgung dient, wobei ein Primärteil (18) eines Netzteils (16) in der Versorgungseinheit (5) und ein Sekundärteil (19) des Netzteils (16) in der Optikeinheit (3) angeordnet ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">b) zur Bereitstellung von Datenverarbeitungskapazitäten für die mit Hilfe der Optikeinheit (3) aufgenommenen Daten dient, wobei in der Versorgungseinheit (5) eine Datenverarbeitung mit höherer Taktfrequenz als in der Optikeinheit (3) vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 8 schützt ein Fahrzeug mit einer solchen Vorrichtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig und der Gegenstand der Patentansprüche 1, 4 und 5 gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus. Die Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in drei geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Hiergegen richtet sich die Berufung der Beklagten, die das Streitpatent mit ihren erstinstanzlichen Anträgen und fünf zusätzlichen Hilfsanträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen. Beide Parteien bestreiten die ordnungsgemäße Bevollmächtigung der Gegenseite. Die Klägerin strebt insoweit im Wege der Anschlussberufung den Ausschluss des gegnerischen Prozessbevollmächtigten an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, aber unbegründet. Die Anschlussberufung hat ebenfalls keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>A. Berufung und Klage sind zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Die Beklagte ist ordnungsgemäß vertreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Gemäß § 113 Satz 1 PatG müssen sich die Parteien eines Patentnichtigkeitsverfahrens vor dem Bundesgerichtshof durch einen Rechtsanwalt oder einen Patentanwalt als Bevollmächtigten vertreten lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Der für die Beklagte auftretende Rechtsanwalt genügt dieser Anforderung. Er ist, wie auch die Klägerin nicht in Zweifel zieht, zur Rechtsanwaltschaft zugelassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Dass die für die Beklagten eingereichten Schriftsätze zusätzlich von einem weiteren Vertreter mit der Berufsbezeichnung "IP Attorney" unterschrieben sind, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>aa) Dieser Mitwirkende ist allerdings nicht gemäß § 113 Satz 1 PatG zur Vertretung berechtigt, da er weder gemäß § 5 Abs. 1 Satz 1 PatAnwO zur Patentanwaltschaft zugelassen noch befugt ist, als dienstleistender europäischer Patentanwalt im Sinne von § 13 Abs. 1 Satz 1 EuPAG die Tätigkeiten eines Patentanwalts in Deutschland vorübergehend und gelegentlich auszuüben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>(1) Nach § 5 Abs. 1 Satz 1 PatAnwO kann zur Patentanwaltschaft nur zugelassen werden, wer nach § 5 Abs. 2 PatAnwO die Befähigung für den Beruf des Patentanwalts erlangt hat oder über eine Bescheinigung nach § 2 Abs. 5 des Gesetzes über die Tätigkeit europäischer Patentanwälte in Deutschland verfügt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Der als "IP Attorney" unterzeichnende weitere Vertreter der Beklagten erfüllt keine der beiden Voraussetzungen. Der Umstand, dass er in einem Register des Nationalen Amtes für Geistiges Eigentum der Republik Malta als "IP Attorney" eingetragen ist, besagt nichts über die für die Zulassung zur Patentanwaltschaft erforderliche Qualifikation und Berufsausbildung (vgl. BGH, Beschluss vom 12. Februar 2014 - X ZR 42/13, GRUR 2014, 508 Rn. 12 - IP-Attorney (Malta)).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>(2) Dienstleistende europäische Patentanwälte im Sinne von § 13 Abs. 1 Satz 1 EuPAG dürfen nach § 15 Abs. 1 Satz 1 EuPAG ihre Tätigkeit erst aufnehmen, nachdem sie eine den Anforderungen dieser Vorschrift genügende Meldung bei der Patentanwaltskammer erstattet haben. Diese Voraussetzung liegt nach dem Vorbringen der Beklagten im Streitfall nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Vertreter hat zwar eine Meldung erstattet. Diese ist von der Patentanwaltskammer aber als nicht vollständig beurteilt worden. Die dagegen eingelegten Rechtsmittel sind erfolglos geblieben (vgl. BGH, Beschluss vom 8. März 2021 - PatAnwZ 1/20). Dementsprechend ist der Vertreter nicht in dem von der Patentanwaltskammer gemäß § 15 Abs. 4 EuPAG geführten Meldeverzeichnis eingetragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Beklagten unterliegen diese Entscheidungen im Streitfall keiner erneuten Überprüfung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Aus Gründen der Rechtssicherheit und Rechtsklarheit muss in einem Rechtsstreit, in dem nur Personen mit bestimmter Qualifikation zur Vertretung berechtigt sind, die Vertretungsberechtigung feststehen, ohne dass die einzelnen Qualifikationsvoraussetzungen einer Prüfung im Einzelfall bedürfen (vgl. BGH, Beschluss vom 12. Februar 2014 - X ZR 42/13, GRUR 2014, 508 Rn. 4 - IP-Attorney (Malta)). An dieser Voraussetzung fehlt es, wenn eine Eintragung in das Meldeverzeichnis gemäß § 15 Abs. 4 EuPAG bestandskräftig versagt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>bb) Die Mitzeichnung der Schriftsätze durch eine nicht zur Vertretung befugte Person ist im Streitfall aber unschädlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Aus den für die Beklagte eingereichten Schriftsätzen ergibt sich - noch - hinreichend deutlich, dass der Rechtsanwalt mit seiner Unterschrift die volle Verantwortung für den Inhalt der Schriftsätze übernommen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>2. Der für die Beklagte auftretende Rechtsanwalt ist wirksam bevollmächtigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Die im Laufe des Berufungsverfahrens vorgelegte, vom deutschen Konsulat in Nikosia beglaubigte Vollmachtsurkunde vom 30. März 2022 ist von der zur gesetzlichen Vertretung berechtigten Direktorin der Beklagten unterschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Ausweislich des Beglaubigungsvermerks hat sich die Konsularbeamtin anhand des deutschen Personalausweises von der Identität der Person überzeugt. Anhaltspunkte dafür, dass diese Bestätigung inhaltlich unrichtig sein könnte, sind nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>b) Der Umstand, dass die Vollmacht erst nach Einlegung der Berufung vorgelegt wurde, steht einer wirksamen Bevollmächtigung nicht entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Der Mangel der Vollmacht bei Einlegung eines Rechtsmittels kann nach § 89 Abs. 2 ZPO durch Genehmigung des Vertretenen, die auch in der Erteilung einer Prozessvollmacht liegen kann, mit rückwirkender Kraft geheilt werden, soweit noch nicht ein das Rechtsmittel als unzulässig verwerfendes Prozessurteil vorliegt. Wegen der Rückwirkung braucht die Genehmigung nicht innerhalb der Frist erklärt zu werden, die für die genehmigte Verfahrenshandlung gilt. Sie ist vielmehr bis zum Schluss der letzten mündlichen Verhandlung in der Tatsacheninstanz möglich (GmSOGB, Beschluss vom 17. April 1984 - GmS-OGB 2/83, BGHZ 91, 111, 114 ff.; BGH, Beschluss vom 10. Januar 1995 - X ZB 11/92, BGHZ 128, 280, 283 - Aluminium-Trihydroxid; Beschluss vom 26. Januar 2006 - III ZB 63/05, BGHZ 166, 117 Rn. 17; Beschluss vom 14. Dezember 2017 - V ZB 35/17, Grundeigentum 2018, 397 Rn. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall ergibt sich aus der Vorlage der Vollmacht vom 30. März 2022 eine vorsorgliche konkludente Genehmigung aller bisher im Namen der Beklagten vorgenommenen Prozesshandlungen. Diese wirkt auf den Zeitpunkt der jeweiligen Vornahme dieser Handlungen zurück.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>II. Damit erweist sich die Anschlussberufung der Klägerin als unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist jedenfalls aufgrund der Vollmacht vom 30. März 2022 und der konkludenten Genehmigung von Beginn an ordnungsgemäß vertreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>III. Die von der Beklagten erhobenen Einwände gegen die ordnungsgemäße Vertretung der Klägerin sind ebenfalls unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung der Beklagten war die Mitwirkung eines gesetzlichen Vertreters bei der Erteilung der Prozessvollmacht nicht erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Die Erteilung durch rechtsgeschäftlich bestellte Vertreter reicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>2. Die von den Prozessbevollmächtigten der Klägerin zu den Akten gereichte Prozessvollmacht ist von zwei ordnungsgemäß bevollmächtigten Vertretern erteilt worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>a) Die Vollmacht ist von zwei Prokuristen der Klägerin unterzeichnet, denen ausweislich des Handelsregisters jeweils Gesamtprokura gemeinsam mit einem Vorstandsmitglied oder einem anderen Prokuristen erteilt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Die Prokura ermächtigt gemäß § 49 Abs. 1 HGB auch zur Erteilung einer Vollmacht zur Prozessführung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>b) Dass die Prokura auf die Hauptniederlassung beschränkt ist, führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Mangels abweichender Angaben in der Klageschrift und sonstigen Schriftsätzen ist die Klage dahin auszulegen, dass sie im Namen der Hauptniederlassung erhoben ist. Deshalb reicht eine auf die Hauptniederlassung beschränkte Vollmacht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>B. Die Berufung ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Vorrichtung zur optischen Verkehrsraumüberwachung in einem Fahrzeug.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift haben bekannte Vorrichtungen dieser Art den Nachteil, dass für ihre Komponenten, etwa Kameras und Laserscheinwerfer, ein nicht unerheblicher Bauraum am oder im Fahrzeug benötigt wird und die Systeme zur Erfassung und Abbildung der Umgebung einen beträchtlichen Energiebedarf haben, der im Bereich der optischen Komponenten eine nicht zu vernachlässigende Eigenerwärmung zur Folge hat (Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, eine Vorrichtung zur optischen Verkehrsraumüberwachung in einem Fahrzeug zur Verfügung zu stellen, deren Optikeinheit einen geringen Raumbedarf hat und eine geringe Eigenerwärmung aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung des Problems schlägt Patentanspruch 1 eine Vorrichtung zur optischen Verkehrsraumüberwachung vor, deren Merkmale sich wie folgt gliedern lassen (abweichende Gliederung des Patentgerichts in eckigen Klammern):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Die Vorrichtung ist geeignet zur optischen Verkehrsraumüberwachung in einem Fahrzeug (1) und weist auf</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a eine in einem Optikeinbauraum (13) angeordnete Optikeinheit (3) [1.1] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b eine in einem Versorgungseinbauraum (14) angeordnete Versorgungseinheit (5) [1.2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die Versorgungseinheit (5) ist von der Optikeinheit (3)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a räumlich getrennt [1.2] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b mit dieser funktional verbunden [1.2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Versorgungseinheit dient</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a zur Energieversorgung der Vorrichtung [1.2a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">a1 wobei ein Primärteil (18) eines Netzteils (16) in der Versorgungseinheit (5) und ein Sekundärteil (19) des Netzteils (16) in der Optikeinheit (3) angeordnet ist [1.2a.1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">und/oder</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b zur Bereitstellung von Datenverarbeitungskapazitäten für die mit Hilfe der Optikeinheit (3) aufgenommenen Daten [1.2b],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">b1 wobei in der Versorgungseinheit (5) eine Datenverarbeitung mit höherer Taktfrequenz als in der Optikeinheit (3) vorgesehen ist [1.2b.1].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>4. Der Gegenstand von Patentanspruch 8 unterliegt keiner abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Das in Patentanspruch 8 geschützte Fahrzeug ist durch die Vorrichtung nach Anspruch 1 charakterisiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>5. Einige Merkmale bedürfen näherer Betrachtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>a) Die nach Merkmal 1 erforderliche Eignung zur Überwachung des Verkehrsraums setzt voraus, dass das System zumindest einen Teil des Raums, in dem sich ein Fahrzeug bewegt, erfassen und in Form von Informationen weitergeben kann, die es dem Fahrzeug oder dem Fahrer ermöglichen, darauf zu reagieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Welcher Art die erfassten Informationen sind, wie sie verarbeitet werden und welche Funktionen mit ihrer Hilfe ausgelöst werden, ist in Patentanspruch 1 nicht festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>b) Besondere Bedeutung kommt dem Aufbau der Vorrichtung gemäß den Merkmalsgruppen 1 und 2 zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>aa) Nach den Ausführungen in der Streitpatentschrift ermöglicht es die Trennung zwischen einer Optikeinheit und einer Versorgungseinheit, die Optikeinheit kompakt aufzubauen und deren Erwärmung zu verringern, weil elektrische und elektronische Komponenten mit relativ hoher Leistung in die Versorgungseinheit ausgelagert werden können (Abs. 10, 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) Patentanspruch 1 enthält nur rudimentäre Vorgaben dazu, welche Bestandteile die beiden Einheiten aufweisen müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>(1) Aus der Bezeichnung "Optikeinheit" und dem Einsatzzweck "optische Verkehrsraumüberwachung" ergibt sich lediglich die Vorgabe, dass mindestens eine Komponente zum Aussenden oder Empfangen von Licht vorhanden sein muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Bei dem in der Beschreibung geschilderten Ausführungsbeispiel weist die Optikeinheit je ein Optiksystem für den Nahbereich und für den Fernbereich auf, die den Verkehrsraum vor dem Fahrzeug überwachen. Beide Optiksysteme sind als Linsensystem ausgebildet, die von der Versorgungseinheit ein Lasersignal empfangen und als Richtstrahlen mit unterschiedlichem Öffnungswinkel abstrahlen (Abs. 20). Innerhalb der Kegel der beiden Strahlen kann die Vorrichtung auch optische Signale empfangen (Abs. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Diese Anforderung hat in Patentanspruch 1 keinen Niederschlag gefunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(2) Aus den Merkmalen 3a1 und 3b1 ergibt sich, dass die Optikeinheit ein Sekundärteil eines Netzteils oder eine Datenverarbeitungseinheit aufweisen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(a) Hinsichtlich der Beschaffenheit des Sekundärteils des Netzteils definiert Patentanspruch 1 keine besonderen Anforderungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>(b) In Bezug auf die Datenverarbeitungseinheit ergibt sich aus Merkmal 3b1 im Umkehrschluss, dass die Taktfrequenz der Datenverarbeitung in der Optikeinheit niedriger sein muss als in der Versorgungseinheit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>(c) Ob die Optikeinheit analoge oder digitale Daten verarbeitet, wird in Merkmal 3b1 zwar nicht explizit angesprochen. Aus dem Zusammenhang ergibt sich aber, dass es sich um digitale Daten handeln muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Dafür spricht schon der Umstand, dass die Beschreibung des Streitpatents im Zusammenhang mit den von der optischen Einheit ausgesendeten und empfangenen Laserstrahlen nicht von Daten spricht, sondern von Signalen (Abs. 11 und 20), und dass der Begriff der Taktfrequenz im Zusammenhang mit der Verarbeitung analoger Signale eher ungewöhnlich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass die Optikeinheit das Lasersignal über eine Lichtleiter-verbindung an eine in der Versorgungseinheit angeordnete optische Zentraleinheit weiterleitet (Abs. 11), führt nicht zu einer abweichenden Beurteilung. Aus diesem kann lediglich entnommen werden, dass bei diesem Beispiel in der Optikeinheit keine Datenverarbeitung stattfindet. Dies steht in Einklang damit, dass die Verwirklichung von Merkmal 3b1 nicht zwingend vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Die niedrigere Taktfrequenz der elektronischen Bauteile in der Optikeinheit wird in der Beschreibung demgegenüber im Zusammenhang mit der Übertragung von Rohdaten erwähnt, deren eigentliche Auswertung in der Versorgungseinheit erfolgt (Abs. 14). Im Zusammenhang mit dem Begriff "Datenverarbeitung" verwendet die Beschreibung auch den Begriff "Mikroprozessoren" (Abs. 20). Auch dies spricht dafür, dass es um die Verarbeitung elektronischer Daten und damit um Ausgestaltungen geht, bei denen das analoge optische Signal schon in der Optikeinheit in ein digitales Signal umgewandelt und einer ersten, wenn auch rudimentären Verarbeitung unterzogen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>(3) Nach den Merkmalen 3a1 und 3b1 ist ferner vorgesehen, dass die Versorgungseinheit ein Primärteil eines Netzteils oder eine Datenverarbeitungseinheit mit höherer Taktfrequenz aufweisen muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Auch insoweit ergeben sich aus Patentanspruch 1 keine näheren Anforderungen an die Ausgestaltung dieser Komponenten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung sollen in der Versorgungseinheit diejenigen elektrischen oder elektronischen Komponenten angeordnet sein, die eine relativ hohe Leistung benötigen. Dadurch soll erreicht werden, dass die thermische Leistung der Versorgungseinheit wesentlich größer ist als die thermische Leistung der Optikeinheit und in die Optikeinheit integrierte elektronische Bauteile nicht oder nur in unbedeutendem Umfang elektromagnetischen Einflüssen durch den Betrieb der Vorrichtung ausgesetzt sind (Abs. 12). Nähere Vorgaben dazu, wie dieses Ziel erreicht werden soll, enthält Patentanspruch 1 nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>cc) Zur Beschaffenheit und Lage der Einbauräume enthält Patentanspruch 1 ebenfalls keine näheren Vorgaben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung befindet sich die Optikeinheit vorzugsweise am so genannten Dachknoten des Fahrzeugs, d.h. am Übergang zwischen Windschutzscheibe und Dach. Möglich sei auch ein Einbau in ein Gehäuse eines Außenspiegels (Abs. 10). Die Versorgungseinheit ist vorzugsweise in einem Bereich innerhalb des Fahrzeugs installiert, der nur in geringem Maße durch Sonneneinstrahlung erhitzt wird (Abs. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Keine dieser Ausgestaltungen ist in Patentanspruch 1 zwingend vorgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>c) Ebenfalls nur rudimentär vorgegeben ist die funktionale Verbindung zwischen den beiden Einheiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Bei dem Ausführungsbeispiel erfolgt die Datenübertragung zwischen der Versorgungseinheit und der Optikeinheit wie bereits erwähnt mit einer Lichtleiterverbindung (Abs. 18). Ferner ist eine elektrische Verbindung zwischen dem Primär- und dem Sekundärteil eines Netzteils vorhanden (Abs. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmalsgruppe 3 reicht es aus, wenn eine dieser beiden Verbindungsarten vorhanden ist. Deren konkrete Ausgestaltung bleibt dem Fachmann überlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents gehe nicht über den Inhalt der ursprünglichen Unterlagen hinaus. Zwar sei in Anspruch 1 der Offenlegungsschrift eine Optikeinheit mit einem Nahbereichs-Optiksystem und einem Fernbereichs-Optiksystem vorgesehen, während die Optikeinheit der mit Anspruch 1 in der erteilten Fassung geschützten Vorrichtung nicht näher definiert sei. Diese Verallgemeinerung sei aber zulässig. In der Offenlegungsschrift werde in Bezug auf die Optikeinheit nicht nur ein kompakter Aufbau angestrebt, dem die Aufteilung in ein Nahbereichs- und ein Fernbereichs-Optiksystem diene, sondern als weiteres Ziel angegeben, dass die Optikeinheit sich durch einen besonders geringen Energieverbrauch und damit auch eine geringe Wärmeerzeugung auszeichnen solle. Dieses Ziel sei zulässigerweise in der erteilten Fassung als weitere Aufgabe übernommen worden. Da insoweit auch in der Offenlegungsschrift nicht vorgesehen sei, dass die Optikeinheit zwingend zwei Bereiche aufweisen müsse, sei die Verallgemeinerung auf weitere Optikeinheiten in Patentanspruch 1 der erteilten Fassung zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 sei nicht patentfähig. Er werde dem Fachmann, einem Diplom-Ingenieur der Fachrichtung Elektrotechnik mit mehreren Jahren Berufserfahrung auf dem Gebiet der Entwicklung und Konstruktion von Verkehrsüberwachungssystemen für Kraftfahrzeuge und Kenntnissen betreffend den Einsatz von Netzteilen zur bedarfsgerechten Stromversorgung von elektrischen Verbrauchern, ausgehend von dem US-amerikanischen Patent 5 880 777 (D4) in Verbindung mit dem Fachwissen nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>D4 offenbare ein Bildgebungssystem mit den Merkmalsgruppen 1 und 2 sowie den Merkmalen 3a und 3b, dessen Komponenten, beispielsweise die aus mehreren Bausteinen bestehende Optikeinheit, die Energieversorgungseinheit und die Datenverarbeitungseinheit, an unterschiedlichen Stellen im Fahrzeug und damit im Sinne von Merkmal 2a räumlich getrennt angeordnet sein könnten. Welche Komponenten der Optikeinheit zuzurechnen und welche Komponenten neben den Baueinheiten zur Bildgenerierung notwendig seien, um die generierten Daten so weit minimal aufzubereiten, dass sie als Rohdaten weitergeleitet werden könnten, sei auch im Streitpatent nicht vorgegeben. Bei der D4 werde der Fachmann hierunter diejenigen Komponenten verstehen, die in der Nähe des Bildgebers (imagers) angeordnet seien. Der für eine Datenverarbeitung vorgesehene Bildprozessor und die Energiequelle wirkten zusammen wie eine Versorgungseinheit für die Optikeinheit, da sie funktional miteinander verbunden seien. Auch beim Streitpatent sei die Versorgungseinheit für die Optikeinheit nicht in einer einzigen Baueinheit zusammengefasst, sondern bestehe aus einem zweigeteilten Netzteil, dessen Sekundärteil nicht in der Versorgungseinheit angeordnet sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Die Merkmale 3a1 und 3b1 seien der D4 zwar nicht unmittelbar zu entnehmen, würden vom Fachmann aufgrund seines Fachwissens aber mitgelesen und seien daher naheliegend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann sehe die Energiequelle des in D4 offenbarten Systems als Netzteil im Sinne von Merkmal 3a1 an, auch wenn diese in der D4 nicht als solches bezeichnet werde. Der der Versorgungseinheit zuzuordnende Prozessor benötige eine von der Bordspannung verschiedene Spannung, die nur von einem der Energiequelle der Versorgungseinheit zumindest funktional zuzuordnenden und damit als Primärteil dienenden Netzteil bereitgestellt werden könne. Die Energiequelle versorge ebenso die unterschiedliche Spannungen benötigenden elektronischen Bausteine der Optikeinheit mittels weiterer inhärent vorhandener Netzteile, die somit als Sekundärteile fungierten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Das Bildgebungssystem nach der D4 weise einen mit 50 MHz getaktet betriebenen leistungsfähigen Prozessor auf. Es sei augenfällig, dass die Rechenleistung dieses Prozessors vom Typ Texas Instruments TMS320C80 um ein Vielfaches höher sein müsse als die eines in der Recheneinheit der Optikeinheit verbauten Prozessors, der die Daten lediglich für die Übertragung von der Optikeinheit zur Versorgungseinheit aufbereiten müsse. Damit werde auch Merkmal 3b1 durch die D4 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Die Verteidigung des Streitpatents in der Fassung des erstinstanzlichen Hilfsantrags 1 (jetzt: Hilfsantrag 1c) sei unzulässig, da das danach vorgesehene zusätzliche Merkmal nicht in den ursprünglichen Unterlagen offenbart sei. Die mit den Hilfsanträgen 2 und 3 (jetzt: Hilfsanträge 2c und 2d) verteidigten Gegenstände seien nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>1. Das Patentgericht hat zu Recht entschieden, dass der Gegenstand des Streitpatents in der erteilten Fassung ausgehend von D4 nahelag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>a) D4 offenbart ein System zur Erzeugung, Verarbeitung und Anzeige digitaler Bilder von Orten, an denen schwache Lichtverhältnisse herrschen (Sp. 1 Z. 11-14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene Figur 1 zeigt ein Blockdiagramm eines erfindungsgemäßen Bildgebungssystems.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Um einen Ort mit schwachen Lichtverhältnissen abzubilden, erzeugt das System eine Folge von Einzelbildern mit einer Rate von mindestens 25 Bildern pro Sekunde. Das System umfasst einen optischen Eingangsanschluss (14), der das Umgebungslicht (12) am abzubildenden Ort aufnimmt und dieses auf einen oder mehrere Bildgeber (16a, 16b, 16n) richtet. Jeder Bildsensor besteht aus einem CCD (charge-coupled device) mit einer hohen Lichtempfindlichkeit, geringem Bildrauschen und einem großen Dynamikumfang, so dass das eingehende Umgebungslicht in Echtzeit-Einzelbildgeschwindigkeit abgebildet werden kann, ohne vorher verstärkt werden zu müssen. Der Bildsensor (16) wird von einer Stromquelle (18) gespeist, die aus einer Batterie bestehen kann. Als Stromquelle kommen auch andere ortsbewegliche oder stationäre Quellen in Betracht. Die Stromquelle versorgt außerdem einen Temperaturregler (20) zur Steuerung der Temperatur des Bildsensors (16) und eine Zeitsteuerung (22), die die Auslösung, Synchronisierung und Geschwindigkeit der verschiedenen Funktionen des Bildgebungssystems steuert, insbesondere der vom Bildsensor (16) durchgeführten Lichtaufnahmen. Die übrigen Komponenten können durch mit der Energieversorgung verbundene Komponenten oder durch die Energieversorgung selbst gespeist werden (Sp. 9 Z. 66 bis Sp. 10 Z. 28).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Sobald das einfallende Licht vom Bildsensor (16) erfasst wird, erzeugt ein mit dessen Ausgang verbundener Analogsignalprozessor (24) ein oder mehrere analoge elektronische Signale, die von einem oder mehreren Analog-Digital-Wandlern (A/D, 26) in entsprechende digitale elektronische Signale umgewandelt und in einem Formatierer zu zweidimensionalen Einzelbildern weiterverarbeitet werden. Ein digitaler Bildprozessor (28) verarbeitet die digitalen elektronischen Signale und bereitet sie so auf, dass sie auf einem Display (33), das über geeignete Displaytreiber (31) mit dem digitalen Bildprozessor (28) verbunden ist, als Bild angezeigt werden. Eine Benutzersteuerung (32) ermöglicht es, verschiedene Betriebsparameter wie die Bildrate, die räumliche Auflösung oder die Helligkeit des Displays zu steuern. Über die Kommunikationsverbindung (35) können erfasste Bilder als Bilddaten (36) an einen entfernten Standort gesendet und lokal anzuzeigende Bilddaten empfangen werden (Sp. 10 Z. 28-57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Das erfindungsgemäße Bildgebungssystem kann je nach den kundenspezifischen Anforderungen in Bezug auf die Komponenten und deren Anordnung unterschiedlich konfiguriert werden. Die Komponenten können je nach Verwendungszweck des Bildgebungssystems so angeordnet sein, dass sie lokal oder im Fernzugriff bedient werden können (Sp. 10 Z. 58-65). So kommt beispielsweise neben der Ausgestaltung als Handgerät eine Befestigung an einem Helm in Betracht (Sp. 10 Z. 66 bis Sp. 11 Z. 22). Das Bildgebungssystem kann auch so konfiguriert werden, dass es für die Montage hinter der Windschutzscheibe eines Fahrzeugs geeignet ist (Sp. 11 Z. 23-28, Fig. 2e). Das System muss dabei so angebracht werden, dass es das Umgebungslicht erfassen kann. Dabei können beispielsweise der optische Eingang, der Bildgeber und die Elektronik in einem Gehäuse untergebracht sein, während das Display und die Kommunikationsverbindung an anderen Stellen im Fahrzeug angeordnet sein können (Sp. 11 Z. 27-36). Alternativ wird eine Montage in einer Gondel auf dem Fahrzeugdach vorgeschlagen (Sp. 11 Z. 49-57, Fig. 2g). Als weiteres Einsatzszenario wird unter anderem ein unbemanntes ferngesteuertes Fahrzeug geschildert (Sp. 12 Z. 16-29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Die verschiedenen Komponenten des Bildgebungssystems können getrennt voneinander angeordnet werden. Das System soll auf diese Weise eine große Flexibilität bei der Konfiguration bieten, um verschiedene Anwendungen zu ermöglichen. Im Allgemeinen müssen sich nur der optische Eingang des Systems und der Bildgeber in einer festen räumlichen Beziehung relativ zueinander befinden. Die übrigen Komponenten können in beliebiger Weise untergebracht werden. Von diesen müssen sich nur die Analogsignalprozessoren und die A/D-Wandler relativ nahe am Bildgeber befinden, um die elektronischen Bilddaten vom Bildgeber empfangen zu können. Alle anderen Komponenten können entfernt voneinander untergebracht werden, solange eine ausreichende Signalintegrität zwischen den Komponenten aufrechterhalten und die Funktionsfähigkeit des Gesamtsystems erhalten bleibt (Sp. 11 Z. 60 bis Sp. 12 Z. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>b) Damit ist Merkmal 1 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ist D4 nicht "gattungsfremd".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Den Ausführungen, wonach das in D4 beschriebene System auch in ein Fahrzeug eingebaut werden kann, ist zu entnehmen, dass dieses System den Raum außerhalb eines Fahrzeugs erfassen und hieraus abgeleitete Bildinformationen weitergeben kann. Dies reicht zur Offenbarung von Merkmal 1 aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>c) Ebenfalls offenbart sind die Merkmale 1a und 1b sowie die Merkmalsgruppe 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend ausgeführt hat, ergibt sich dies aus den ausführlichen Hinweisen in D4, wonach die Anordnung und Aufteilung der einzelnen Komponenten auf vielfältige Weise möglich ist und im Allgemeinen nur der optische Eingang des Systems und der Bildgeber sich in einer festen räumlichen Beziehung relativ zueinander befinden müssen, während alle übrigen Komponenten in beliebiger Weise untergebracht werden können. Zu den damit nahegelegten Ausgestaltungen gehört auch die Verteilung der einzelnen Komponenten auf zwei Einheiten, wie sie nach den Merkmalen 1a und 1b sowie der Merkmalsgruppe 2 bei der erfindungsgemäßen Vorrichtung vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>d) Zu Recht hat das Patentgericht Merkmalsgruppe 3a als ausgehend von D4 zumindest nahegelegt angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Berufung ist die in D4 offenbarte Energiequelle (18) ein Netzteil im Sinne von Merkmal 3a1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Nach den insoweit nicht angegriffenen Feststellungen des Patentgerichts arbeitet der in D4 als geeignet bezeichnete Prozessor des Typs Texas Instruments TMS320C80 mit einer Spannung von 3,3 Volt, während eine Autobatterie üblicherweise eine Spannung von 12 Volt liefert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Diese Feststellungen tragen die vom Patentgericht gezogene Schlussfolgerung, dass es beim Einbau in ein Fahrzeug zumindest nahelag, eine Komponente einzusetzen, die die Bordspannung in eine für den Prozessor geeignete Spannung umwandelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>bb) Ebenfalls zu Recht hat das Patentgericht eine mit der Energiequelle (18) verbundene Komponente als nahegelegt angesehen, die einen weiteren Spannungswert liefert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Nach den insoweit ebenfalls nicht angegriffenen Feststellungen des Patentgerichts benötigen die elektronischen Bausteine (16, 24, 26) der in D4 offenbarten Optikeinheit unterschiedliche Betriebsspannungen, die von derjenigen des Prozessors abweichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Diese Feststellungen und der ergänzende Hinweis in D4, wonach die übrigen Komponenten des Systems durch Komponenten versorgt werden können, die ihrerseits an die Energieversorgung angeschlossen sind, tragen die vom Patentgericht gezogene Schlussfolgerung, dass es nahelag, bei Bedarf eine weitere Komponente einzusetzen, die eine abweichende Spannung liefert. Eine solche Ausgestaltung weist ein Primär- und ein Sekundärteil im Sinne von Merkmal 3a1 auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufung im Ausgangspunkt zu Recht geltend macht, deutet die Darstellung in der oben wiedergegebenen Figur 1 allerdings eher darauf hin, dass das Primärteil im Sinne des Streitpatents in der Optikeinheit und ein eventuell erforderliches Sekundärteil an anderer Stelle untergebracht wird. Auch insoweit ergab sich jedoch aus dem in D4 enthaltenen Hinweis, im Allgemeinen sei eine feste räumliche Beziehung nur zwischen dem optischen Eingang und dem Bildgeber erforderlich, eine hinreichende Anregung, gegebenenfalls andere Anordnungen zu wählen. Hierzu gehört die in Merkmal 3a1 vorgesehene Verteilung von Primär- und Sekundärteil.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>e) Zu Recht hat das Patentgericht auch die Merkmalsgruppe 3b als durch D4 zumindest nahegelegt angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Berufung offenbart D4 eine dem Bildgeber zugeordnete Datenverarbeitungskomponente.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, schlägt D4 als mögliche Ausführungsform vor, die Analog-Digital-Wandler (26) in der Nähe der optischen Komponenten anzuordnen. Diese Wandler umfassen nach Figur 1 auch einen Formatierer, der die digitalen Daten in Rahmen anordnet. Darin liegt eine Verarbeitung von Daten im Sinne von Merkmal 3b1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>bb) Vor diesem Hintergrund hat das Patentgericht zu Recht entschieden, dass eine höhere Taktfrequenz für die Versorgungseinheit zumindest nahelag.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Nach den insoweit nicht angegriffenen Feststellungen des Patentgerichts handelte es sich bei dem in D4 als geeignet bezeichneten Prozessor vom Typ Texas Instruments TMS320C80 um einen leistungsfähigen Prozessor mit einer für damalige Verhältnisse hohen Taktfrequenz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Diese Feststellungen tragen die vom Patentgericht gezogene Schlussfolgerung, dass es nahelag, für die Formatierung der digitalen Bilddaten einen weniger leistungsfähigen Prozessor einzusetzen, der typischerweise eine geringere Taktfrequenz hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>f) Entgegen der Auffassung der Berufung ist unerheblich, dass D4 für den Bildgeber einen Temperaturregler vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>Der Einsatz eines solchen Kühlers mag dazu führen, dass die Optikeinheit eine relativ hohe Verlustleistung aufweist. Patentanspruch 1 enthält in der erteilten Fassung aber keine diesbezüglichen Vorgaben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>2. Ebenfalls zu Recht hat das Patentgericht entschieden, dass das in erster Instanz in Hilfsantrag 1 und in der Berufungsinstanz in den Hilfsanträgen 1a, 1b, 1c und 1d vorgesehene zusätzliche Merkmal in den ursprünglich eingereichten Unterlagen nicht als zur Erfindung gehörend offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>a) Nach den genannten Hilfsanträgen soll Patentanspruch 1 um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3a2 und dass die thermische Leistung der Versorgungseinheit (5) mindestens zweifach größer ist als die thermische Leistung der Optikeinheit (3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>b) Die damit beanspruchte Untergrenze für das Verhältnis der thermischen Leistungen ist in den ursprünglich eingereichten Unterlagen (D0a) nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>In der Anmeldung (D0a) wird zwar - ebenso wie im Streitpatent (Abs. 12) - ausgeführt, die Vorrichtung könne so gestaltet werden, dass die thermische Leistung der Versorgungseinheit wesentlich größer sei als die thermische Leistung der Optikeinheit (Abs. 7). Hieraus ist, wie das Patentgericht zu Recht ausgeführt hat, aber nicht abzuleiten, um welchen Faktor sich die Leistungswerte voneinander unterscheiden. Damit fehlt es an einer hinreichenden Offenbarungsgrundlage für die Beanspruchung einer konkreten Untergrenze. Eine solche lässt sich den Ausführungen in der Anmeldung auch nicht implizit entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>3. Fehlerfrei hat das Patentgericht entschieden, dass das nach den Hilfsanträgen 2a, 2c, 2d und 2e vorgesehene Verhältnis zwischen den beiden Leistungswerten ausgehend von D4 naheliegend war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>a) Nach den genannten Anträgen soll Patentanspruch 1 um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3a2' und dass die thermische Leistung der Versorgungseinheit (5) größer ist als die thermische Leistung der Optikeinheit (3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>b) Nach den Feststellungen des Patentgerichts stellt sich diese Wirkung ein, wenn nur diejenigen Komponenten in der Nähe des Bildgebers (16) angeordnet werden, die eine räumliche Nähe erfordern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Die Berufung zeigt keine konkreten Anhaltspunkte auf, die Zweifel an der Vollständigkeit und Richtigkeit dieser Feststellungen begründen (§ 117 PatG und § 529 Abs. 1 Nr. 1 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Nach dem Vorbringen der Berufung haben die drei Komponenten (16, 24, 26), bezüglich derer D4 eine Anordnung in der Nähe des optischen Eingangs vorschlägt, zusammen eine Leistungsaufnahme von rund 7,4 Watt, während der Prozessor TMS320C80 eine durchschnittliche Leistungsaufnahme von 3,3 Watt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Dies vermag die Richtigkeit der vom Patentgericht getroffenen Feststellungen nicht in Frage zu stellen, weil die Versorgungseinheit neben dem Prozessor zahlreiche weitere Komponenten aufweist, deren Leistungsaufnahme die Berufung nicht aufzeigt. Darüber hinaus gibt das von der Berufung zitierte Datenblatt des Prozessors (D16 S. 139) den maximalen Strombedarf des Prozessors bei einer Taktfrequenz von 50 MHz mit 2,3 A an, was schon für den Prozessor zu einer maximalen Leistungsaufnahme von 7,6 Watt führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>4. Für das nach den Hilfsanträgen 2c und 2d zusätzlich vorgesehene Merkmal gilt im Ergebnis nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>a) Nach den genannten Hilfsanträgen soll Patentanspruch 1 in der Fassung von Hilfsantrag 2a um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3b2 und dadurch nur eine geringe Wärmeerzeugung innerhalb der Optikeinheit (3) auftritt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>b) Dieses Merkmal führt nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob das Merkmal im Vergleich zu den Hilfsanträgen 2a und 2e zu einer Einschränkung des beanspruchten Gegenstands führt. Selbst wenn dies zu bejahen wäre, wäre auch dieses Merkmal aus denselben Gründen nahegelegt wie Merkmal 3a2'.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>Auch nach dem Vortrag der Berufung hängt die Wärmeerzeugung von der thermischen Leistung ab. Die in Merkmal 3a2' vorgesehene und ausgehend von D4 naheliegende Verteilung der thermischen Leistung führt mithin zur Verwirklichung von Merkmal 3b2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG in Verbindung mit § 97 Abs. 1 und § 92 Abs. 2 Nr. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304392022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

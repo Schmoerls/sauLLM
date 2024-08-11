@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE610702017</doknr>
+   <ecli>ECLI:DE:BGH:2016:011216UXZR108.14.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20161201</entsch-datum>
+   <aktenzeichen>X ZR 108/14</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 16. Juli 2014, Az: 5 Ni 1/12 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentfähigkeit: Beruhen der technischen Lehre des Patents auf dem für einen Fachmann erkennbaren Stand der Technik</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 16. Juli 2014 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist eingetragene Inhaberin des am 26. Januar 2006 angemeldeten und mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 693 295 (Streitpatents), das 9 Patentansprüche umfasst. Patentanspruch 1 lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A bicycle gear shifting control apparatus (110) comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a rear derailleur (97r);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a front derailleur (97f) including a movable chain guide (CG) configured to move a bicycle chain (95),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a manually operated shift device (125) configured and arranged to operate the front derailleur (97f) to shift gears between at least a first sprocket (F2) and a second sprocket (F1) with the first and second sprockets (F2, F1) being selectively an initial sprocket and a shifted sprocket depending on a shift direction;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a rear shift position sensors (133r) for detecting the shift positions of the rear derailleur (97r),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a first gear shifting component configured to perform a first gear shifting operation to move the chain guide (CG) of the front derailleur (97f) from an initial sprocket engaged position (HM, HT; LM, LT) to a shifted sprocket engaged position (LP; HP) in response to the operation of the manually operated shift device (125) such that the bicycle chain (95) is shifted from the initial sprocket to the shifted sprocket; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a second gear shifting component configured to perform a second subsequent gear shifting operation to move the chain guide (CG) of the front derailleur (97f) an additional amount from the shifted sprocket engaged position (LP; HP) to a post shift position (LT, LM; HT, HM) that maintains the bicycle chain (95) on the shifted sprocket after pausing at the shifted sprocket engaged position (LP; HP),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <strong>characterized in that </strong>the second gear shifting component is further configured to change the location of the post shift position (LT, LM; HT, HM) of the front derailleur (97f) in accordance with the gear position of the rear derailleur (97r) detected by the rear shift position sensor (133r)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent in vollem Umfang angegriffen und geltend gemacht, sein Gegenstand sei nicht patentfähig; er sei nicht neu, beruhe jedenfalls aber nicht auf einer erfinderischen Tätigkeit. Die Beklagte hat Klageabweisung beantragt und das Streitpatent hilfsweise in beschränkten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Mit ihrer dagegen eingelegten Berufung, deren Zurückweisung die Klägerin beantragt, verfolgt die Beklagte in erster Linie ihren Klageabweisungsantrag weiter, hilfsweise verteidigt sie das Streitpatent in bereits vor dem Patentgericht zur Entscheidung gestellten geänderten Fassungen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>I. 1. Das Streitpatent betrifft die Steuerung von Fahrrad-Kettenschaltungen und dabei speziell den angesteuerten Gangwechsel durch Versetzen der Kette von einem der an der Tretkurbelachse angeordneten Antriebszahnräder (im Folgenden: Kettenräder) auf ein anderes durch Betätigung der dafür üblicherweise am Sitzrohr des Rahmens angebrachten Schaltkomponente ("front derailleur", im Folgenden nur: Umwerfer).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Der Beschreibung des Streitpatents zufolge war im Stand der Technik der Einsatz elektrisch angesteuerter und mit Elektroantrieb versehener Gangschaltungen bekannt. Das Hinauf- und Herunterschalten werde bei diesen herkömmlicherweise durch Betätigung von Tasten für die Gangschaltung ausgelöst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Bei diesen bekannten Schaltungen werde die Kette, wie die Beschreibung weiter ausführt, beim Herunterschalten vom größeren, axial äußeren Kettenrad manchmal zu forciert bewegt ("with excess force") und könne dabei "abspringen" und sich zwischen dem kleineren Kettenrad und dem Tretlagergehäuse einklemmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Außerdem könne es, wie die nachstehend eingefügte Figur 5</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="163px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>veranschaulicht, bei bestimmten Zahnradkombinationen, etwa des inneren Kettenrads F1 mit den Ritzeln R10-R8 (vgl. Beschreibung Abs. 33 Sp. 10 Z. 22 ff.) oder von F2 mit R1-R3, dazu kommen, dass die Kette infolge des daraus resultierenden ausgeprägten Schräglaufs an einem Leitblech der Kettenführung des Umwerfers schleife.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Um diesen Problemen zu begegnen, schlägt das Streitpatent mit Patentanspruch 1 eine Vorrichtung mit Merkmalen vor, die in Anlehnung an das angefochtene Urteil wie folgt gegliedert werden können:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Fahrradgangschaltsteuervorrichtung 110, aufweisend:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>A bicycle gear shifting control apparatus 110 comprising:</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. einen hinteren Umwerfer 97r (im Folgenden nur: Schaltwerk),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>a rear derailleur 97r,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. einen vorderen Umwerfer 97f (im Folgenden nur: Umwerfer), der eine bewegliche Kettenführung CG beinhaltet, die konfiguriert ist, um eine Fahrradkette 95 zu bewegen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>a front derailleur 97f including a movable chain guide CG, configured to move a bicycle chain 95,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. eine manuell betätigte Schaltvorrichtung 125, die konfiguriert und angeordnet ist, um den Umwerfer 97f zu betätigen, um Gänge zwischen zumindest einem ersten Kettenrad F2 und einem zweiten Kettenrad F1 zu schalten, bei der die ersten und zweiten Kettenräder F2, F1 in Abhängigkeit von einer Schaltrichtung jeweils als Ausgangskettenrad und geschaltetes Kettenrad fungieren,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>a manually operated shift device 125 configured and arranged to operate the front derailleur 97f to shift gears between at least a first sprocket F2 and a second sprocket F1 with the first and second sprockets F2, F1 being selectively an initial sprocket and a shifted sprocket depending on a shift direction,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. einen hinteren Schaltpositionssensor 133r, um die Schaltpositionen des Schaltwerks 97r zu erfassen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>a rear shift position sensor[s] 133r for detecting the shift positions of the rear derailleur 97r,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. ein erstes Gangschaltmittel, das konfiguriert ist, um einen ersten Schaltschritt durchzuführen, um die Kettenführung CG des Umwerfers 97f aus einer Eingreifposition HM, HT; LM, LT für das anfängliche Kettenrad in eine Eingreifposition LP; HP für das geschaltete Kettenrad zu bringen, und zwar ansprechend auf die Betätigung der manuell betätigten Schaltvorrichtung 125, derart, dass die Fahrradkette 95 vom anfänglichen Kettenrad zum geschalteten Kettenrad geschaltet wird,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>a first gear shifting component configured to perform a first gear shifting operation to move the chain guide CG of the front derailleur 97f from an initial sprocket engaged position HM, HT; LM, LT to a shifted sprocket engaged position LP; HP in response to the operation of the manually operated shift device 125 such that the bicycle chain 95 is shifted from the initial sprocket to the shifted sprocket,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. und ein zweites Gangschaltmittel, das konfiguriert ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">um einen zweiten anschließenden Schaltschritt durchzuführen, um die Kettenführung CG des Umwerfers 97f aus der Eingreifposition LP; HP für das geschaltete Kettenrad um ein zusätzliches Ausmaß in eine Nachschaltposition LT, LM; HT, HM zu versetzen, welche die Fahrradkette 95 auf dem geschalteten Kettenrad hält, nachdem bei der Eingreifposition LP; HP für das geschaltete Kettenrad angehalten wurde,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>and a second gear shifting component configured to perform a second subsequent gear shifting operation to move the chain guide CG of the front derailleur 97f an additional amount from the shifted sprocket engaged position LP; HP to a post shift position LT, LM; HT, HM that maintains the bicycle chain 95 on the shifted sprocket after pausing at the shifted sprocket engaged position LP; HP,</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">8. und das (Gangschaltmittel) weiter konfiguriert ist, um die Nachschaltposition LT, LM; HT, HM des Umwerfers 97f gemäß der Gangposition des Schaltwerks 97r zu ändern, die durch den hinteren Schaltpositionssensor 133r erfasst wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <em>the second gear shifting component is further configured to change the location of the post shift position LT, LM; HT, HM of the front derailleur 97f in accordance with the gear position of the rear derailleur 97r detected by the rear shift position sensor 133r.</em>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>3. a) Die "manuelle" Betätigung der Schaltvorrichtung in Merkmal 4 ("manually operated") betrifft nur die Auslösung von Schaltbefehlen über Hebel, Tasten oder Knöpfe; im Ausführungsbeispiel sind solche Elemente an den Bremsgriffen und -hebeln angebracht (Figur 2 Bezugszeichen 120f, 120r, 121f, 121r). Die eigentliche Schaltung der Gänge, das Versetzen der Kette auf ein anderes Kettenrad oder Ritzel, erfolgt nach der Lehre des Streitpatents immer in einem automatisiert-maschinisierten Verfahren. Die manuell ausgelösten Steuerbefehle führen eine Positionsveränderung des Umwerfers bzw. des Schaltwerks herbei, die im Ausführungsbeispiel durch Elektromotoren Mf und Mr bewirkt wird. Der im Anspruch (Merkmal 8) erwähnte hintere Schaltpositionssensor 133r sendet einer elektronischen Steuereinheit 130 Signale über die Position der Kette auf einem Ritzel. Ein entsprechender Sensor 133f ist für die Kettenräder vorgesehen. Der automatisierte Schaltvorgang soll aber auch rein mechanisch ablaufen können (Beschreibung Abs. 45).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Die Merkmale 6 bis 8 enthalten den Kern der streitpatentgemäßen Lehre, die in der Streitpatentschrift anhand der nachstehend eingefügten Figur 8</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="170px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>erläutert ist (Beschreibung Abs. 33).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>aa) Die Kettenführung des Umwerfers befindet sich vor Einleitung eines Schaltvorgangs von F2 zu F1 auf einer als erste Schaltposition von F2 bezeichneten Eingreifposition HT oder HM. Ob diese Eingreifposition für die Kette auf F2 bei HT oder HM liegt, hängt der Beschreibung zufolge davon ab, auf welchem Ritzel die Kette vor dem einzuleitenden Schaltvorgang auf der Hinterradachse liegt und welche Schrägstellung der Kette sich daraus ergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>bb) Der Schaltvorgang vom Ausgangskettenrad zum geschalteten Kettenrad (im Ausführungsbeispiel: von F2 zu F1) vollzieht sich nach der streitpatentgemäßen Lehre in zwei Schaltschritten (gear shifting operations), durch die die Kettenführung des Umwerfers in die zweite (Merkmal 6) und dritte Schaltposition (Merkmale 7 und 8) bewegt wird. Dafür sind erste und zweite "gear shifting component[s]" vorhanden, die konfiguriert sind, um die jeweiligen Schritte auszuführen. Wie das Ausführungsbeispiel zeigt, müssen dies keine zusätzlichen gegenständlichen Elemente ("components") sein, sondern der Begriff "components" ist i. S. von "Mittel" zum entsprechenden Bewirken des Schaltvorgangs zu verstehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>cc) Beim Hinunterschalten von F2 auf F1 wird die Kette entsprechend Merkmal 6 zunächst in eine Eingreifposition LP (shifted sprocket engaged position oder: zweite Schaltposition) für das Kettenrad F1 überführt (Beschreibung Abs. 33, Sp. 9 Z. 44 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Merkmal 7 zufolge wird die Kettenführung nach einem kurzen Innehalten auf dieser Eingreifposition LP/HP (<em>"after pausing at the shifted sprocket engaged position LP; HP"</em>) auf ihre endgültige Stellung gesteuert (dritte Schaltposition oder auch: Nachschaltposition, vgl. Beschreibung Abs. 33, Sp. 10 Z. 5 ff.). Diese zweite Positionsänderung erfolgt nach der Lehre des Streitpatents bei jedem Schaltvorgang. Eine Positionsänderung um den Wert "0“ ist keine Positionsänderung im Sinne von Merkmal 7.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>dd) Während die Ansteuerung einer Eingreifposition und das kurze Innehalten auf dieser Position dem sicheren Wechsel der Kette auf das zu schaltende Kettenrad dienten, soll die Einstellung der Kettenführung auf die Nachschaltposition gewährleisten, dass die Kette aus diesem Kettenrad verbleibt; zugleich soll sie verhindern, dass die Kette infolge der durch die neue Zahnradkombination entstandenen Schrägstellung an den Leitblechen der Führung schleift. Für die endgültige Position sind nach den Merkmalen 7 und 8 wahlweise zwei Stellungen vorgesehen, LT (first post downshift position) oder LM (second post downshift position). LT ist eine Fein-Schalteinstellung, die bei extremer Schrägstellung der Kette - etwa bei Kombinationen von Kettenrad F1 mit einem der Ritzel R8, R9 oder R10 - angesteuert wird, um zu verhindern, dass die Kette trotz ihrer ausgeprägten Schrägstellung an der Kettenführung schleift (Beschreibung Sp. 10 Z. 22 ff.). LM wird demgegenüber gleichsam als Standardposition bei Zahnradkombinationen mit geringerer Schrägstellung der Kette eingestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die axiale Lage der Nachschaltpositionen für die Kettenführung ist in Patentanspruch 1 weder absolut definiert - was ersichtlich mit dem unterschiedlichen Design der verschiedenen in Betracht kommenden Schaltungskomponenten und anderen Parametern zusammenhängt - noch relativ im Verhältnis zur Eingreifposition. Insoweit enthalten namentlich die Unteransprüche 2 bis 4 konkretisierende Angaben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 ergebe sich für den Fachmann, einen Maschinenbauingenieur mit in mehrjähriger Berufstätigkeit erworbenen praktischen Kenntnissen auf dem Gebiet maschinisierter Fahrrad-Kettenschaltungen in naheliegender Weise aus der deutschen Übersetzung der europäischen Patentschrift 527 864 (K7) in Verbindung mit einschlägigem, durch die europäische Patentanmeldung 1 359 088 (K2) repräsentiertem Fachwissen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das in K7 gezeigte elektronische Steuersystem für ein Fahrradgetriebe weise die Merkmale 1 bis 3 und 5 und ein entsprechend Merkmal 4 ausgelegtes Getriebesteuersystem mit Datenverarbeitungseinheit auf, bei dem der Umwerfer vom Fahrer in einem manuellen Betriebsmodus durch Betätigen von Schaltern automatisch in hierfür vorbestimmte Stellungen bewegt werde. Aus K7 sei allerdings nicht bekannt, die Nachschaltposition des Umwerfers, in welche dieser im Anschluss an die Bewegung in die Eingreifposition geführt werden solle, in Abhängigkeit von dem zweiten Gangschaltmittel entsprechend der für die Schrägstellung der Kette maßgeblichen Position des hinteren Umwerfers i. S. der Merkmalsgruppe 8 vorzubestimmen. Die Kette könne bei der aus K7 ersichtlichen Schaltsteuervorrichtung nach einer Umschaltung zwischen den vorderen Kettenrädern ohne zeitnahe Schaltung des Schaltwerks durchaus am Umwerfer schleifen. Allerdings schlage K7 vor, die Stellung des vorderen Umwerfers anzupassen, wenn auf ein anderes Ritzel geschaltet werde. Das Problem einer Fehlstellung des Umwerfers habe sich dem Fachmann indes auch bei einer Umschaltung zwischen den vorderen Kettenrädern bei unveränderter Stellung des Schaltwerks gestellt, und die in K7 vorgeschlagene Lösung darauf angepasst zu übertragen habe sich angeboten. Für die Unterbrechung des Schaltvorgangs habe sich eine Anregung aus K2 ergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>III. Gegen diese Beurteilung wendet die Berufung sich im Ergebnis ohne Erfolg. K2 und K7 gaben dem Fachmann vor dem Hintergrund seiner nach den unangefochtenen Feststellungen des Patentgerichts zugrunde zu legenden Ausbildung und Erfahrung hinreichend konkrete Anregungen, zur Problemlösung den vom Streitpatent beschrittenen Weg zu wählen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>1. Dem Fachmann, der das durch ihren Schräglauf bei bestimmten Kettenrad- und Ritzelkombinationen ausgelöste Schleifen der Kette an einem Leitblech der Kettenführung bei maschinisiert angetriebenen Schaltungen vermeiden möchte, ist aus Erfahrung, jedenfalls aber aus K7 (S. 2) bekannt, dass dieses konstruktionsbedingte Problem bei herkömmlichen, rein manuell und mit stufenloser axialer Bewegung des Umwerfers durch Verkürzung oder Verlängerung eines Seilzugs (Bowdenzugs) über einen Schalthebel funktionierenden Schaltungen durch manuelles Nachjustieren der Stellung des Umwerfers nach Abschluss des eigentlichen Schaltvorgangs behoben wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>2. Die Suche nach einer Lösung dieses Problems bei maschinisierten Gangschaltungen, bei denen der Umwerfer oder das Schaltwerk und damit die Kette nach Auslösen eines Schaltbefehls axial automatisch um den notwendigen Abstand zum nächsten Zahnrad versetzt wird, begann bei der vom Fachmann ausbildungsgemäß zu erwartenden systematischen Vorgehensweise mit einer Analyse der für das maschinisierte Schalten im Stand der Technik vorhandenen technischen Lösungen, welche die rein manuelle, stufenlose Betätigung des Umwerfers durch den Fahrer ersetzen. Als Ausgangspunkt dafür stand die Lehre von K2 zur Verfügung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die Wahl eines Ausgangspunkts (oder auch mehrerer Ausgangspunkte) erklärt sich in der Regel aus dem Bemühen des Fachmanns, für einen bestimmten Zweck eine bessere, oder auch nur eine andere Lösung zu finden, als sie der Stand der Technik zur Verfügung stellt. Es bedarf konkreter Umstände, die dem Fachmann im Prioritätszeitpunkt Veranlassung gaben, eine bestimmte Entgegenhaltung oder Vorbenutzung als Ausgangspunkt seiner Überlegungen heranzuziehen (vgl. BGH, Urteil vom 5. Oktober 2016 - X ZR 78/14 Rn. 43 - Opto-Bauelement, juris; Urteil vom 18. Juni 2009 - Xa ZR 138/05, GRUR 2009, 1039 Rn. 20 - Fischbissanzeiger; Urteil vom 16. Dezember 2008 - X ZR 89/07, BGHZ 179, 168 Rn. 51 - Olanzapin).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>K7 enthält zwar - worauf zurückzukommen sein wird - für die vom Streitpatent gesuchte Lösung punktuell Ansätze für technische Lösungselemente. Ihre Lehre als solche wird der mit dem Problem des Streitpatents befasste Fachmann aber deshalb eher nicht als Ausgangspunkt seiner Lösungsbemühungen wählen, weil sie darauf gerichtet ist, die Möglichkeiten elektronisch gesteuerter Fahrrad-Kettenschaltungen für die Gestaltung eines physiologisch optimierten Fahrens dienlich zu machen und dabei die Auslösung von Schaltvorgängen für unsichere Fahrradfahrer zu erleichtern. Sie geht von der Überlegung aus, Radfahren sei am wirkungsvollsten, wenn der Fahrer eine als Kadenz bezeichnete konstante Kurbeldrehzahl pro Minute aufrechterhält, und schlägt Ausführungsformen vor, bei denen das Steuerungssystem die Notwendigkeit eines - automatisierten - Gangwechsels anzeigt oder diesen direkt vornimmt, wenn eine Änderung dieser Kadenz detektiert wird. Sinkt die Trittfrequenz, wird in den nächsttieferen Gang oder, soweit erforderlich, sukzessive weiter heruntergeschaltet, steigt sie, wird in entsprechender Weise höhergeschaltet. Der "nächste" Gang ist im Interesse der Anpassung an die Kadenz die Zahnradkombination mit der geringsten Übersetzungsänderung. Anstatt bestimmte Gangkombinationen einstellen zu müssen, braucht der Fahrer bei K7 nur entweder den Schaltknopf für das Herauf- oder denjenigen für das Herunterschalten zu betätigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Beim Streitpatent geht es demgegenüber um die Verbesserung des mechanischen Gangwechsels als solchen. Den dafür maßgeblichen und sich für eine Weiterentwicklung anbietenden Stand der Technik sieht der Fachmann - wie nachfolgend näher ausgeführt wird - jedenfalls in K2, an die das Streitpatent auch anknüpft (Beschreibung Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. a) K2 offenbart ein Verfahren und eine Steuervorrichtung für eine Fahrrad-Kettenschaltung mit den Merkmalen 1 bis 5. Darüber hinaus ist beschrieben, wie ein Gangwechsel bei einem durch Elektromotor angesteuerten Schaltwerk so durchgeführt werden kann, dass die Kette sicher mittig auf dem geschalteten Ritzel zur Auflage kommt. Dabei werden die von der Konstruktion und Auslegung der Komponenten abhängigen Varianten des "frühen" und "späten" Schaltens ("early shifting", "late shifting") unterschieden. K2 lehrt eine Steuerung, bei der das Schaltwerk axial zunächst auf eine Eingreifposition für die Kette und, in einem anschließenden Schritt, auf die mit dem Zielzahnrad fluchtende Position bewegt wird. Beim "early shifting" liegt diese Eingreifposition axial in Schaltrichtung vor dem geschalteten Ritzel, beim "late shifting" dahinter. Der Schaltvorgang einschließlich der dafür gegebenen Steuerungssignale wird in K2 anhand ihrer nachstehend eingefügten Figur 5</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="266px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>für das "early shifting" von Ritzel 54A auf 54B erläutert (Abs. 16). Dabei greift die Kette vor Erreichen des geschalteten Ritzels, in dem Bereich zwischen den Bezugszeichen 450 und 458/466, in das Ritzel 54B ein. Danach wird die Kettenführung in die für das sichere Aufliegen der Kette erforderliche Endposition 454/470 bewegt, in der Ritzel und Kette fluchten. Steuerungstechnisch wird das Signal "on/off" erzeugt, wenn die Kette die Referenzposition 458/466 erreicht, um sie dann in die Endposition 458/470 zu überführen. Die gesamte Steuerung kann nach K2 entweder so konfiguriert werden, dass Steuerungssignale ("on", "off", "on/off") jeweils sofort bei Erreichen der jeweiligen Referenzposition erzeugt werden, oder mit einer gewissen Verzögerung. Für das Signal "on/off" wird insoweit beispielhaft eine Verzögerung von zweieinhalb Tretkurbelumdrehungen vorgeschlagen (Beschreibung Sp. 6 Z. 52 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>b) In K2 wird diese Lehre für auf den Umwerfer übertragbar erklärt (Beschreibung Abs. 21). Der Fachmann würde, da beide Komponenten in seine fachliche Kompetenz fallen, aber auch unabhängig von diesem Hinweis analysieren, inwieweit die für das Schaltwerk beschriebene Lehre für die Schaltung der Kettenräder von Nutzen sein könnte. Ihm ist zugleich klar, dass die Kette auch bei Schaltung der Kettenräder so überführt werden muss, dass sie sicher in das geschaltete Zahnrad eingreift. Insoweit ergibt sich aus K2 die fachliche Anregung, auch den Schaltvorgang für den Umwerfer so auszurichten, dass die Kettenführung zunächst auf eine Eingreifposition gesteuert und an dieser Position angehalten wird, damit die Kette sicher zum Eingriff mit dem geschalteten Kettenrad kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Diese Anregung aufzugreifen drängt sich im Übrigen auch deshalb auf, weil damit die Handhabung auf die automatisierte Schaltung übertragen wird, die bei den herkömmlich rein mechanischen Schaltungen gepflegt wurde, wo der Fahrer, wie in der mündlichen Verhandlung erörtert, den Umwerfer auch so lange axial auf einer der Eingreifposition entsprechenden Stelle belassen hat, bis die Kette sicher auflag,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>c) Die Beklagte meint, beim "late shifting", für das K2 ebenfalls eine Lösung vorschlägt, sei keine Verzögerung vorgesehen. Abgesehen davon, ob der bei dieser Variante erforderliche Richtungswechsel nicht eine notwendige momentane Verzögerung am Umkehrpunkt darstellt, liegt der im Ausführungsbeispiel des Streitpatents beschriebenen Lösung unstreitig das "early shifting" zugrunde. Dafür liefert K2 ein übertragbares Vorbild.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>d) Wenn das Schaltwerk gemäß der Lehre von K2 nach dem kurzen Anhalten auf der Eingreifposition bis zu der Position weiterbewegt wird, an der seine Kettenführungsrolle und das geschaltete Ritzel fluchten, würde die Kettenführung des Umwerfers bei direkter Übernahme dieser Anweisung auf eine Position eingestellt, bei der die Kette zwar ebenfalls sicher auf dem Kettenrad aufliegt, aber bei bestimmten Kettenrad- und Ritzelkombinationen an den Leitblechen schleift. Hiermit konfrontiert, würde der Fachmann rekapitulieren, dass dieses bekannte Problem bei den herkömmlichen, rein manuell-mechanischen Schaltungen dadurch gelöst wurde, dass die Stellung der Kettenführung CG nach Überführung der Kette auf das geschaltete Kettenrad dem infolge des Schaltvorgangs geänderten Kettenwinkel durch manuelles Nachjustieren angepasst wurde (K7 S. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>aa) Es dürfte schon im fachmännischen Vermögen liegen zu erkennen, dass, wenn der manuelle Schaltvorgang als solcher durch einen automatisierten Ablauf ersetzt wird, das bleibende Problem des Schleifens tunlichst ebenfalls durch eine automatisierte Nachkorrektur gelöst werden sollte. Jedenfalls aber ist in K7 beschrieben, dass die Stellung des Umwerfers jedes Mal automatisch angepasst wird, nachdem auf ein anderes Ritzel geschaltet wurde, um die Änderung des Kettenwinkels auszugleichen (K7 S. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>bb) K7 ist zwar, wie ausgeführt, für die Lösung des Problems, um das es im Streitpatent geht, nicht vorrangig. Die fachmännische Analyse des Offenbarungsgehalts eines Stands der Technik ist aber grundsätzlich nicht auf die dort vorgestellte Lehre in ihrer Gesamtheit fixiert, sondern untersucht ihren Gegenstand aus dem Blickwinkel der eigenen Problemstellung auch in ihren Einzelheiten auf Verwertbarkeit für die Lösung des eigenen Problems. Dies gilt auch für die besagte Nachkorrektur der Kettenführung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>cc) Unerheblich ist auch, dass K7 die Notwendigkeit, die Kettenführung nachzujustieren nur im Zusammenhang mit dem Schalten auf ein anderes Ritzel anspricht. Aufgrund seiner Ausbildung und Erfahrung erkennt der Fachmann, dass das störende Schleifen unabhängig davon auftritt, ob der Kettenwinkel durch Schaltung auf ein anderes Ritzel verändert wurde (K7 S. 23 mittlerer Absatz) oder - gleichsam spiegelbildlich - durch Schaltung auf ein anderes Kettenrad. Das gilt unabhängig davon, ob, wie die Beklagte geltend macht, bei der Lehre von K7 keine isolierte Schaltung nur des Umwerfers in Betracht kommt. Dieser Umstand, der damit zusammenhängt, dass nach K7 die Gangwechsel in Anpassung an die abfallende oder ansteigende Kadenz des Fahrers gesteuert werden, ist nicht geeignet, den Blick des Fachmanns darauf zu verstellen, dass die in K7 im Zusammenhang mit der Betätigung des Schaltwerks beschriebene Nachkorrektur der Kettenführung nach dem Schalten auf ein anderes Kettenrad gleichermaßen hilfreich sein kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>e) Die Beklagte macht geltend, es gebe für Merkmal 7 und 8 jedenfalls insoweit kein Vorbild im Stand der Technik, als dort zwei unterschiedliche Nachschaltpositionen vorgesehen seien. Auch dies vermag die Patentfähigkeit von Patentanspruch 1 nicht zu begründen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Richtig ist zwar, dass etwa K7 nur in allgemeiner Form von der Notwendigkeit einer Anpassung der Kettenführung an den neuen Verlauf der Kette nach einem Schaltvorgang spricht. Der Fachmann, der diese Anregung aufgreift, um sie bei automatisierten Schaltungen umzusetzen, erkennt aber ohne Weiteres, dass er dazu die herkömmliche, manuell herbeigeführte Weiterbewegung des Umwerfers durch (elektronische) Ansteuerung bewirken und dementsprechend so regeln muss, dass die Zielvorgabe, ein Schleifen der Kette an den Führungsblechen der Kettenführung in allen Zahnradkombination erreicht wird. Es liegt ebenfalls im Vermögen des ingenieurmäßig ausgebildeten Fachmanns zu erkennen, würde sich ihm jedenfalls aber nach einfachen Versuchen offenbaren, dass aus konstruktionsbedingten Gründen eine einzige Nachjustierungsposition nicht ausreicht, wenn etwa, wie im Ausführungsbeispiel des Streitpatents, zwei Kettenräder und zehn Ritzel miteinander kombiniert werden können. Der Fachmann hätte daraus die naheliegende Schussfolgerung gezogen, dass dann mehrere Positionen vorgesehen werden müssen und, allgemeinem Streben nach Aufwandsminimierung folgend, gerade so viele festgelegt, wie benötigt, um das Schleifen an den Leitblechen in allen möglichen Kombinationen zu vermeiden, was wiederum durch einfache geometrische Berechnungen oder Versuche leicht zu ermitteln ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>f) Die Beklagte weist darauf hin, dass nach der Lehre des Streitpatents erst im Schaltprozess "entschieden" werde, welche Nachschaltposition benötigt wird. Auch dies vermag die Patentfähigkeit der Lehre nicht entscheidend zu stützen. Aus dem von K2 repräsentierten Stand der Technik ist, ebenso wie schon aus K7, bekannt, der Steuerungseinheit im Rahmen von angesteuerten Schaltungen die Position des Schaltwerks zu signalisieren (K2 Beschreibung Abs. 12). Die Auswahl der adäquaten Nachschaltposition in Reaktion auf den Kettenradwechsel ist vor diesem Hintergrund eine bloße Maßnahme der Steuerung und Regelung mit bekannten Mitteln der elektronischen Datenverarbeitung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>4. Zur Patentfähigkeit verhilft der Lehre von Patentanspruch 1 im Übrigen auch nicht, dass damit zugleich dem Abspringen der Kette bei zu heftiger Betätigung des Schalthebels entgegenwirkt werden soll. Diese Wirkung ergibt sich aus der Aufgliederung des Schaltungsablaufs in zwei Schaltschritte, namentlich aus der Verzögerung ("pausing") zwischen erstem und zweitem Schaltschritt (vgl. Beschreibung Abs. 11 a.E.), die ihrerseits die Patentfähigkeit der Lehre nicht zu begründen vermag. Der verbesserte Schutz gegen das Abspringen stellt einen "Bonuseffekt" dar, der nach der Rechtsprechung des Bundesgerichtshofs die Patentfähigkeit nicht begründet, wenn er sich - wie hier - bei Bewältigung eines zum Aufgabenkreis des Fachmanns gehörenden Problems einstellt und die beanspruchte Erfindung von dem dafür gewählten Ausgangspunkt aus durch den Stand der Technik nahegelegt war (BGH, Urteil vom 13. Januar 2015 - X ZR 41/13, GRUR 2015, 352 - Quetiapin; Urteil vom 1. März 2011 - X ZR 72/08, GRUR 2011, 607 Rn. 19 - Kosmetisches Sonnenschutzmittel III).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>IV. Der Gegenstand von Patentanspruch 1 ist auch in keiner der beschränkten Fassungen patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>1. Nach Hilfsantrag I wird Merkmal 7 eingangs ergänzt und lautet danach insgesamt: "a second gear shifting component configured to perform a second subsequent gear shifting operation <span style="text-decoration:underline">in response to the operation of the manually operated shift device to perform the first gear shifting operation</span> to move the chain guide".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Das mag die geschützte Lehre präziser herausarbeiten, Patentanspruch 1 erhält dadurch, wie das Patentgericht zutreffend ausgeführt hat, aber keinen von der erteilten Fassung abweichenden technischen Sinngehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>2. Nach Hilfsantrag II wird Merkmal 7 am Ende um die Worte "for a predetermined time period (T1, T2)" ergänzt. Damit wird der Gegenstand von Patentanspruch 1 in der erteilten Fassung dahin ergänzt, dass für die als solche bereits vorgesehene Verzögerung eine gewisse Zeitspanne festgelegt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Dem kann kein eigenständiger erfinderischer Gehalt beigemessen werden, zumal aus K2 bekannt ist, für die Verzögerung ein bestimmtes Maß vorzugeben (oben III 3 b a.E.). Damit mag die Verzögerung in Anbetracht der Abhängigkeit von der Trittfrequenz zeitlich zwar nur relativ bestimmt werden. Gleichwohl regt dies fachlich dazu an, eine entsprechende Verzögerung vorzusehen. Nähere Festlegungen für die fragliche Zeitspanne, die Ausdruck erfinderischer Tätigkeit wären, trifft Patentanspruch 1 in der Fassung von Hilfsantrag II ohnehin nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>3. Hilfsantrag III kombiniert die vorherigen Hilfsanträge. Durch die kumulative Ergänzung erhält Patentanspruch 1 indes ebenfalls keinen abweichenden technischen Gehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>4. Nach Hilfsantrag IV soll Merkmal 8 eingangs wie folgt ergänzt werden: "the bicycle gear shifting control apparatus (110) further comprising a shift continuation determining component configured to detect if the first gear shifting operation has been completed when a prescribed amount of time has elapsed, wherein ..."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Diese Ergänzung besteht lediglich in einer messtechnisch präzisierten Steuerung und Überwachung des Schaltvorgangs. In K2 ist beschrieben, dass wenn die Kettenführung die Idealposition 458 erreicht, angenommen wird, dass die Kette in das geschaltete Ritzel eingegriffen hat und, wenn dies nicht der Fall sein sollte, das schrittweise Schalten ("Stepping") ebenfalls einen erfolgreichen Eingriff erlaubt. Die mit Hilfsantrag IV vorgesehene "shift continuation determining component" detektiert, ob dieser Vorgang (beim Kettenradwechsel) ordnungsgemäß vollzogen wurde, und zwar aus fachmännischer Sicht ersichtlich mit bekannten Mitteln der Datenverarbeitung. Dies führt die Lehre von K2 zwar in vorteilhafter Weise weiter, hat aber keinen eigenständigen erfinderischen Gehalt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>5. Hilfsantrag V ergänzt die erteilte Fassung um die Merkmale der Hilfsanträge I und IV. Für eine andere Beurteilung der Patentfähigkeit des beanspruchten Gegenstands in seiner Gesamtheit nur infolge dieser Merkmalskumulation besteht, wie schon das Patentgericht angenommen hat, kein Raum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>6. Zur Patentfähigkeit gereicht Anspruch 1 auch nicht die Fassung gemäß Hilfsantrag VI. Danach wird Merkmal 8 von Patentanspruch 1 in der erteilten Fassung um die Merkmale des erteilten Anspruchs 2 ergänzt ("the second gear shifting component is further configured to selectively move the chain guide (CG) to one of a first post shift location (LT; HT) and a second post shift location (LM; HM) as the post shift position with the second post shift location (LM; HM) being located farther away from the initial sprocket than the first post shift location (LT; HT)"). Das zweite, mit dem Merkmal M1.7 näher definierte Gangschaltbauelement ist demgemäß so konfiguriert, dass es die Kettenführung wahlweise entweder in eine erste Nachschaltposition (LT/HT) oder eine zweite (LM/HM) bewegt, wobei die zweite (LM/HM) vom Ausgangskettenrad weiter entfernt liegt, als die erste.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte meint, es sei für den von K7 ausgehenden Fachmann nicht naheliegend gewesen, mehr als eine Nachschaltposition vorzusehen, weil der Umwerfer nach deren Lehre immer nur in die gleiche Richtung um ein gewisses Maß in Anpassung an die Bewegung des Schaltwerks bewegt werde. Dem kann nicht beigetreten werden. Wie ausgeführt, erkennt der Fachmann, dass der Hinweis in K7 auf die notwendige Anpassung der Kettenführungsposition nach Schaltvorgängen nicht nur für die spezielle Lehre dieses Dokuments Gültigkeit hat, sondern dass damit allgemein aufgezeigt wird, wie die händische Nachkorrektur der Kettenführungsposition bei rein mechanischen Schaltungen im Rahmen automatisierter Lösungen adaptiert werden kann (III 3 d bb). Die Anweisung, die zweite Nachschaltposition (LM/HM) weiter entfernt vom Ausgangskettenrad anzuordnen als die erste, ist Ergebnis einer systematischen Analyse des Anpassungsbedarfs für die Kettenführung an die verschiedenen Kettenwinkel, die sich ergeben können. Dafür bedurfte es aber lediglich eher unaufwändiger geometrischer Berechnungen und nicht des Einsatzes erfinderischer Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>7. Auch in der Fassung von Hilfsantrag VII kann das Streitpatent keinen Bestand haben. Darin ist Patentanspruch 1 um die Merkmale von Unteranspruch 2 und darüber hinaus um diejenigen der Unteransprüche 3 und 4 ergänzt ("the shifted sprocket engaged position (LP; HP) is located between the first post shift location (LT; HT) and the second post shift location (LM; HM) or between the initial sprocket engaged position (HM, HT; LM, LT) and the first post shift location (LT; HT)").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Diese Anweisungen legen die Eingreifposition (LP/HP) für das geschaltete Kettenrad entweder entsprechend Figur 8 in den Bereich zwischen erster Nachschaltposition (LT/HT) und zweiter (LM/HM), oder in den Bereich zwischen der Eingreifposition (HM/HT; LM/LT) für das anfängliche Kettenrad und der ersten Nachschaltposition (LT/HT), wie in Figur 9 gezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Das hinzugefügte Merkmal vermag nach der Auffassung des Patentgerichts die Patentfähigkeit nicht zu begründen, weil eine derartige Vorbestimmung der einstellbaren Stellungen des Umwerfers im konstruktiven Vermögen des über die mit K7 und K2 vermittelten bzw. belegten Kenntnisse verfügenden Fachmanns gelegen habe. Dem ist beizutreten. Die Auffindung der mit Hilfsantrag VII definierten Orte für die Eingreifposition des geschalteten Kettenrads zwischen den beiden Nachschaltpositionen (1. Alt.) bzw. zwischen der Eingreifposition für das Ausgangskettenrad und der ersten Nachschaltposition (2. Alt.) ist, ähnlich wie die Ergänzungen von Patentanspruch 1 durch Hilfsantrag VI, das Ergebnis einer gründlichen konstruktiven Erfassung aller für einen optimalen Schaltablauf benötigten Positionen, die aber nicht als auf erfinderischer Tätigkeit beruhend gelten kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung folgt aus § 122 Abs. 2 Satz 2 PatG i. V. mit § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gröning     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE610702017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

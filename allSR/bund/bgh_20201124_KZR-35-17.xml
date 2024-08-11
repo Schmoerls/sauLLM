@@ -1,0 +1,2287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300532021</doknr>
+   <ecli>ECLI:DE:BGH:2020:241120UKZR35.17.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20201124</entsch-datum>
+   <aktenzeichen>KZR 35/17</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 102 Abs 2 Buchst b AEUV, Art 102 Abs 2 Buchst c AEUV, § 15 Abs 3 PatG, § 242 BGB</norm>
+   <vorinstanz>vorgehend BGH, 17. Juli 2018, Az: KZR 35/17, Beschluss<br/>vorgehend OLG Düsseldorf, 30. März 2017, Az: I-15 U 65/15<br/>vorgehend OLG Düsseldorf, 13. Januar 2016, Az: I-15 U 65/15, Beschluss<br/>vorgehend LG Düsseldorf, 3. November 2015, Az: 4a O 144/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Verletzung eines standardessentiellen Patents: Missbrauch der Marktmacht bei Erhebung einer Patentverletzungsklage; Lizenzwilligkeit des Verletzers und Lizenzierungsbereitschaft des Patentinhabers; Einwand des "Patenthinterhalts" gegen den Einzelrechtsnachfolger des früheren Patentinhabers - FRAND-Einwand II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>FRAND-Einwand II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Inhaber eines standardessentiellen Patents, der eine auf Unterlassung, Rückruf und Vernichtung gerichtete Patentverletzungsklage erhebt, missbraucht seine Marktmacht nicht, wenn der auf die Schutzrechtsverletzung und die Bereitschaft zur Lizenzierung hingewiesene Verletzer nicht unzweideutig zu erkennen gegeben hat, eine Lizenz zu fairen, angemessenen und nichtdiskriminierenden (FRAND) Bedingungen anzustreben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Lizenzwilligkeit des Verletzers darf sich grundsätzlich ebenso wenig wie die Lizenzierungsbereitschaft des Patentinhabers in der einmaligen Bekundung des Lizenzierungsinteresses oder der Vorlage eines (Gegen-) Angebots erschöpfen. Vielmehr sind beide Parteien gehalten, in jeweils situationsangemessener Weise und in Übereinstimmung mit den Geboten von Treu und Glauben dazu beizutragen, dass ein angemessener Ausgleich der widerstreitenden Interessen in Gestalt eines Lizenzvertrages zu FRAND-Bedingungen ausgehandelt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Außerhalb des Anwendungsbereichs des Sukzessionsschutzes nach § 15 Abs. 3 PatG können Einwendungen, die einem Nutzer der Erfindung gegen den früheren Patentinhaber zustanden, dessen Einzelrechtsnachfolger nicht entgegengehalten werden. Dies gilt insbesondere für den Einwand eines "Patenthinterhalts" (patent ambush).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision und unter Zurückweisung der Anschlussrevision wird das Urteil des 15. Zivilsenats des Oberlandesgerichts Düsseldorf vom 30. März 2017 im Kostenpunkt und insoweit aufgehoben, als das Berufungsgericht zum Nachteil der Klägerin erkannt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung der Beklagten gegen das Urteil der 4a-Zivilkammer des Landgerichts Düsseldorf vom 3. November 2015 wird insgesamt zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten der Rechtsmittelverfahren werden den Beklagten auferlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist seit dem 1. Oktober 2012 im Register des Deutschen Patent- und Markenamts eingetragene Inhaberin des deutschen Teils des europäischen Patents 1 264 504 (Klagepatents), das am 23. Februar 2001 unter Inanspruchnahme der Priorität finnischer Anmeldungen vom 24. Februar und 24. März 2000 von der Nokia Oy angemeldet wurde. Die Erteilung des Klage-patents wurde am 12. September 2009 veröffentlicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 17 hat im Einspruchsverfahren folgende Fassung erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">“A communications device of a cellular radio system, comprising means (514, 605) for detecting a failure in a radio connection, said radio connection having a plurality of active radio bearer belonging to a radio resource control connection, characterized in that it comprises</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means (511, 515, 605) for determining a first expiry time for a period during which the re-establishment of the lost radio connection in respect of said radio bearers which are used to provide a service or services of a first category is allowable; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">means (511, 515, 605) for determining a second expiry time for a period during which the re-establishment of the lost radio connection in respect of said radio bearers which are used to provide a service or services of a second category is allowable, said second category of services being different to said first category of services and said second expiry time being different to said first expiry time.”</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die u.a. von den Beklagten gegen das Klagepatent gerichtete Nichtigkeitsklage ist ohne Erfolg geblieben (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagten gehören dem Haier-Konzern an. Erstmals mit Schreiben vom 20. Dezember 2012 informierte die Klägerin die Muttergesellschaften der Beklagten, die Qingdao Haier Telecom Co. Ltd. und die Qingdao Haier Electronics Co. Ltd. (im Folgenden auch: Haier), dass sie die Lizenzierung einer Reihe von Patentfamilien zu fairen, angemessenen und nicht-diskriminierenden (fair, reasonable, and non-discriminatory, im Folgenden: FRAND) Bedingungen anbiete, die für verschiedene Telekommunikationsstandards essentiell seien und von verschiedenen, von Haier hergestellten Mobilfunkgeräten benutzt würden; in der dem Schreiben beigefügten Auflistung war auch das Klagepatent aufgeführt. In der Folgezeit kam es zu Gesprächen zwischen Haier und der Klägerin, jedoch nicht zum Abschluss eines Lizenzvertrags.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 1 vertreibt in Deutschland Mobiltelefone und Tablets, die Beklagte zu 2 ist die europäische Vertriebsgesellschaft des Konzerns. Sie bot im September 2014 auf der Internationalen Funkausstellung in Berlin Mobiltelefone sowie Tablets an. Die von der Klägerin angegriffenen Mobiltelefone und Tablets unterstützen UMTS (Universal Mobile Telecommunications System) und entsprechen dem Standard 3GPP TS 25.331. Dieser Standard wird von dem European Telecommunication Standard Institute (ETSI) verantwortet. Am 10. April 2013 gab die Klägerin gegenüber ETSI die im Einzelnen aus Anlage AR 3 ersichtliche Verpflichtungserklärung ab, wonach sie bereit sei, u.a. das Klagepatent zu FRAND-Bedingungen zu lizenzieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin sieht in dem Angebot der angegriffenen Mobiltelefone und Tablets eine Verletzung ihrer Rechte aus dem Klagepatent. Sie hat die Beklagten auf Unterlassung, Auskunft, Rechnungslegung sowie auf Feststellung ihrer Verpflichtung zum Schadensersatz, die Beklagte zu 1 darüber hinaus auf Vernichtung und Rückruf in Anspruch genommen. Das Landgericht hat die Beklagten antragsgemäß verurteilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Auf die Berufung der Beklagten hat das Berufungsgericht das landgerichtliche Urteil teilweise abgeändert und die Klage hinsichtlich der auf Unterlassung, Vernichtung und Rückruf gerichteten Klageanträge ebenso als derzeit unbegründet abgewiesen wie die auf Auskunft und Rechnungslegung gerichteten Anträge, soweit damit Angaben zu Kosten und Gewinn verlangt wurden. Die weitergehende Berufung hat das Berufungsgericht zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer vom Berufungsgericht zugelassenen Revision begehrt die Klägerin die Wiederherstellung des landgerichtlichen Urteils. Mit ihrer Anschlussrevision streben die Beklagten die vollständige Klageabweisung an.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision der Klägerin führt zur Wiederherstellung des landgerichtlichen Urteils; die Anschlussrevision der Beklagten bleibt ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>I. Rechtsfehlerfrei hat das Berufungsgericht angenommen, mit Angebot und Vertrieb der angegriffenen Mobilfunkgeräte machten die Beklagten von der technischen Lehre des geltend gemachten Patentanspruchs 17 Gebrauch und verletzten damit das Klagepatent.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>1. Das Klagepatent betrifft die Wiederherstellung einer abgebrochenen Funkverbindung zwischen einem Mobilteil und der Basisstation in einem zellulären Kommunikationssystem (Mobilfunknetz).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Nach den Ausführungen im Klagepatent unterstützen solche Funksysteme der zweiten und der dritten Generation Echtzeitdienste und Nicht-Echtzeitdienste (real time [RT] services and non-realtime [NRT] services). Solche Dienste bieten dem Nutzer die Möglichkeit, Informationen einer bestimmten Art, etwa Sprache, Bilder oder sonstige Daten, zu übertragen. Echtzeitdienste werden für Anwendungen eingesetzt, bei denen bereits Unterbrechungen oder Verzögerungen der Verbindung von wenigen Sekunden als störend empfunden würden; Beispiele dafür sind die Übermittlung von Sprache oder Videos. Dagegen setzt man Nicht-Echtzeitdienste für Anwendungen ein, bei denen längere Unterbrechungen hinnehmbar sind, wie etwa bei der Übermittlung von E-Mails oder dem Herunterladen von Dateien (Abs. 3, Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung des Klagepatents war es bei den meisten im Stand der Technik bekannten Systemen vorgesehen, eine unterbrochene Funkverbindung zwischen dem Endgerät und der Basisstation rasch wiederherzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Das Klagepatent erläutert dies am Beispiel der 3GPP-Spezifikationen des ETSI für RRC-Verbindungen (Radio Resource Control, RRC, Funkressourcensteuerung). Diese sehen vor, dass ein Zeitnehmer (re-establishment timer) gestartet wird, wenn das mobile Endgerät den Verlust der Funkverbindung erkannt hat. Der Wert der Ablaufzeit, auf die der Zeitnehmer eingestellt wird, kann zwischen 0 und 4095 Sekunden betragen und wird von der Steuerung des Funknetzwerks (Radio Network Controller, RNC) mit einer bestimmten Steuernachricht an die Mobilstation übermittelt. Stellt das Mobilgerät innerhalb der Ablaufzeit fest, dass es sich in einem Dienstbereich (service area), also in einem Gebiet befindet, in dem die Wiederherstellung der Funkverbindung möglich ist, wird der Zeitnehmer gestoppt und eine Mitteilung versandt, mit der die Wiederherstellung der Funkverbindung eingeleitet wird. Läuft die vorgegebene Zeit dagegen ab, bevor das Mobilgerät sich in einem Dienstbereich befindet, geht es in einen RRC-Ruhezustand (RRC idle mode) über, in dem eine aktive Kommunikation mit der Basisstation nicht möglich ist. Die große Bandbreite möglicher Werte zwischen null Sekunden und mehr als einer Stunde ermöglicht es, den Wert unter Berücksichtigung der Zeitempfindlichkeit des Dienstes einzustellen, für den die Funkträger der aktuellen Funkverbindung genutzt werden (Abs. 5 bis 7, Abs. 37).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Dem Klagepatent zufolge trägt dieser Stand der Technik den Unterschieden der Dienstarten, etwa denjenigen zwischen Echtzeit- und Nicht-Echtzeitdiensten, nur unzureichend Rechnung, wenn zum Zeitpunkt der Störung der Funkverbindung aktive Funkträger sowohl für Echtzeit- wie für Nicht-Echtzeitdienste genutzt werden. In einem solchen Fall sei die eingestellte Ablaufzeit für mindestens einen der Dienste nicht angemessen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b) Dem Klagepatent liegt vor diesem Hintergrund die Aufgabe zugrunde, es für den Fall des Verlusts einer Mobilfunkverbindung zwischen einer Mobilstation und einem Netzknoten zu ermöglichen, den unterschiedlichen Anforderungen verschiedener Dienstarten besser Rechnung zu tragen (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c) Zur Lösung dieses Problems schlägt das Klagepatent in Anspruch 17 eine Vorrichtung vor, deren Merkmale sich wie folgt gliedern lassen (teilweise abweichende Gliederung im Urteil des X. Zivilsenats des Bundesgerichtshofs im Nichtigkeitsverfahren und des Berufungsgerichts [kursiv] in eckigen Klammern):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Kommunikationsvorrichtung für ein zelluläres Funksystem. [17.1]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die Kommunikationsvorrichtung umfasst Mittel zur Feststellung einer Störung einer Funkverbindung, [17.1a]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1. wobei die Funkverbindung mehrere aktive Funkträger aufweist, [17.2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2. die zu einer Funkressourcen-Steuerungsverbindung gehören. [17.2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Kommunikationsvorrichtung umfasst Mittel (511, 515, 605) zur Bestimmung einer ersten Ablaufzeit [17.3]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1. für eine Zeitspanne, [17.3]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2. während der die Wiederherstellung der verlorenen Funkverbindung in Bezug auf die Funkträger, die für Dienste einer ersten Kategorie genutzt werden [<em>3.2</em>], zulässig ist. [17.3, <em>3.1</em>]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die Kommunikationsvorrichtung umfasst Mittel (511, 515, 605) zur Bestimmung einer zweiten, sich von der ersten unterscheidenden Ablaufzeit [17.4, 17.6; <em>5</em>]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1. für eine Zeitspanne, [17.4]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2. während der die Wiederherstellung der verlorenen Funkverbindung in Bezug auf die Funkträger zulässig ist, die für Dienste einer zweiten, sich von der ersten unterscheidenden Kategorie [<em>5</em>] genutzt werden. [17.4, 17.5, <em>4.1</em>; <em>4.2</em>]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die erfindungsgemäße Aufgabe wird damit im Wesentlichen dadurch gelöst, dass zwei unterschiedliche Ablaufzeiten für zwei unterschiedliche Kategorien von Diensten bestimmt werden. Dies ermöglicht es zum Beispiel, eine Wiederherstellung der Funkverbindung für zeitempfindliche Dienste nur innerhalb eines relativ kurzen Zeitraums zuzulassen und für weniger zeitempfindliche Dienste einen längeren Zeitraum zu bestimmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <th colspan="2" rowspan="1" valign="top"/>
+                  </tr>
+                  <tr>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:left">           </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="299px"
+                             src="bild1_0.png"
+                             alt="Abbildung"
+                             title="Abbildung"
+                             style="margin-top: 3px;"/>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="middle">
+                        <p style="text-align:left">Figur 2a zeigt eine Kommunikationssituation, bei der eine Ausführungsform der Erfindung angewandt wird: Während des Zeitraums 201 besteht eine Funkverbindung zwischen der Basisstation (linke Seite) und einer Mobilstation (rechte Seite). Im Zeitpunkt 204 wird der Verlust der Funkverbindung festgestellt. Daraufhin werden in der Mobilstation zwei Zeitnehmer gestartet.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:left">Der erste davon wird auf eine relativ kurze Ablaufzeit eingestellt, die bis zum Zeitpunkt 206 reicht und typischerweise nur einige Sekunden beträgt (Abs. 33). Der zweite Zeitnehmer ist auf eine längere Ablaufzeit eingestellt, die bis zum Zeitpunkt 208 reicht und einige Minuten betragen kann (Abs. 34).</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die Bemühungen um eine Wiederherstellung der Funkverbindung werden in Bezug auf einen Funkträger, der für einen Echtzeitdienst verwendet wird, bereits mit Verstreichen der ersten Ablaufzeit, also mit dem Erreichen des Zeitpunkts 206, eingestellt. In Bezug auf einen Funkträger, der für einen Nicht-Echtzeitdienst verwendet wird, werden solche Versuche dagegen erst mit dem Erreichen des Zeitpunkts 208 aufgegeben. Befindet sich das Mobilgerät bereits vor Erreichen des Zeitpunkts 206 wieder im Dienstbereich, wird die Funkverbindung mit allen ursprünglich aktiven Funkträgern wiederhergestellt. Im Intervall zwischen den Zeitpunkten 206 und 208 wird die Funkverbindung nur noch in Bezug auf Funkträger für einen Nicht-Echtzeitdienst wiederhergestellt (Abs. 46).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>In Figur 2b ist ein weiteres Ausführungsbeispiel dargestellt, bei dem die Zeitnehmer hintereinandergeschaltet sind (Abs. 40: "chaining the timers"). Bei diesem Beispiel wird der zweite Timer erst aktiviert, nachdem der Zeitpunkt 206 verstrichen ist. Er läuft dann bis zum Zeitpunkt 208.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht hat angenommen, die Beklagten nutzten entgegen § 9 PatG diese technische Lehre und hat dies im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Erforderlich sei für die Verwirklichung der Merkmalsgruppe 2 lediglich, dass die Kommunikationsvorrichtung objektiv geeignete Mittel aufweise, mittels deren der Ausfall einer Funkverbindung mit mehreren aktiven Funkträgern festgestellt werden könne. Denn die Benutzung des Vorrichtungsanspruchs sei schon dann zu bejahen, wenn die Merkmale des Patentanspruchs verwirklicht würden und die angegriffene Ausführungsform objektiv geeignet sei, die patentgemäßen Eigenschaften und Wirkungen zu erreichen. Die Klägerin habe für die Geräte Haier W858 dargetan, es sei - ohne Nutzung von VoIP - möglich, bei den von ihr untersuchten angegriffenen Ausführungsformen simultan eine Internetverbindung und ein Telefonat aufrechtzuhalten. Dies setze zwangsläufig voraus, dass die Geräte in der Lage seien, eine Funkverbindung mit zumindest zwei aktiven Funkträgern aufzubauen; andernfalls wären sie nicht in der Lage, zwei Dienste unterschiedlicher Kategorien zur Verfügung zu stellen. Die Beklagten hätten nicht dargetan, dass die Behauptung der Klägerin unzutreffend sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Merkmalsgruppen 3 und 4 verlangten nicht erste Mittel zur Bestimmung einer ersten Ablaufzeit und davon getrennte zweite Mittel zur Bestimmung einer zweiten Ablaufzeit, und die Ablaufzeit müsse nicht zwingend größer 0 sein. Die Klägerin habe mittels ihres Tests anhand des Gerätes Haier W867 belegt, dass die angegriffenen Ausführungsformen unterschiedliche Zeitnehmer erkennten und umsetzten; insofern habe die Klägerin sogar die Existenz von zwei Zeitnehmern T314 und T315 belegt. Diesem tatsächlichen Vorbringen seien die Beklagten trotz richterlichem Hinweis nicht substantiiert entgegengetreten. Dies gelte ungeachtet des Umstandes, dass die Beklagten ihrerseits unwidersprochen vorgetragen hätten, dass Nokia Siemens Networks (NSN) als einer der größten Anbieter von Basisstationen den Wert T314 = 0 fest codiere und die in Deutschland tätigen Internet-Provider schon deshalb keine anderen Werte verwendeten, weil sie den Verfahrensanspruch 20 des Klagepatents nicht verletzen wollten. Zum einen sei NSN nicht der einzige Hersteller entsprechender Basisstationen, und zum anderen sei T314 = 0 eine patentgemäße Ablaufzeit, die die angegriffenen Ausführungsformen unstreitig bestimmen könnten. Wie das Privatgutachten der Beklagten ausführe, würden die Zeitwerte dem Endgerät vom Netzknoten signalisiert. Demnach würden die Ablaufzeiten zwar vom Netzwerk vorgegeben, ohne dass der Hersteller des Endgerätes Einfluss auf die konkrete Ausgestaltung dieser Werte habe. Gleichwohl müssten die Endgeräte objektiv in der Lage sein, die vom Netzwerk vorgegebenen Zeitwerte ihrerseits zu verarbeiten. Diese technischen Gegebenheiten fänden sich im UMTS-Standard bestätigt. Das Vorbringen der Beklagten, wonach die in den angegriffenen Ausführungsformen implementierten Chips in ihren Grundeinstellungen, wie sie von den Beklagten eingebaut, angeboten und vertrieben würden, über keine "Wiederherstellungs-Timer" verfügten, diese nur von außen durch Synchronisation mit einer Basisstation implementiert werden könnten, lasse in rechtlicher Hinsicht außer Acht, dass im Zeitpunkt der Benutzungshandlung lediglich die objektive Eignung vorliegen müsse, eine erste Ablaufzeit im Sinne des Klagepatents zu bestimmen. Die Beklagten vermengten insoweit die erfindungsgemäßen Zeitnehmer und entsprechende Werte für die Ablaufzeiten; allein letztere würden vom Netzwerk übermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Merkmal 4 erfordere, dass die Kommunikationsvorrichtung über Mittel verfüge, die gegebenenfalls vom Netzwerk vorgegebene unterschiedliche Werte für eine erste und eine zweite Ablaufzeit verarbeiten könnten. Es werde nicht verlangt, dass stets und ausnahmslos unterschiedliche Werte durch das Netzwerk gesendet würden. Demzufolge stehe es dem Verletzungsvorwurf nicht entgegen, dass die Mittel auch Zeitablaufwerte verarbeiten könnten, die für beide Zeitnehmer identisch gesetzt würden, und sei es auch jeweils durch den Wert T = 0. Selbst wenn die herangezogenen Passagen des Standards insoweit lediglich optionale Lösungen vorhalten sollten, habe die Klägerin die wortsinngemäße Verwirklichung des Merkmals 4 durch die angegriffenen Geräte belegt. Anhand des Tests mit dem Modell Haier W867 lasse sich feststellen, dass die angegriffenen Ausführungsformen objektiv in der Lage seien, unterschiedliche Werte für die erste und die zweite Ablaufzeit zu verarbeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Diese Beurteilung erweist sich als rechtsfehlerfrei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Die Frage, wie Patentanspruch 17 des Klagepatents auszulegen ist, ist eine Rechtsfrage und kann vom Revisionsgericht in vollem Umfang nachgeprüft werden (vgl. BGH, Urteil vom 7. September 2004 - X ZR 255/01, BGHZ 160, 204, 212 - Bodenseitige Vereinzelungseinrichtung; Urteil vom 20. Mai 2008 - X ZR 180/05, BGHZ 176, 311 Rn. 19 - Tintenpatrone I; Urteil vom 5. Mai 2020 - KZR 36/17, WRP 2020, 1194 Rn. 26 - FRAND-Einwand I). Die Auslegung durch das Berufungsgericht hält dieser Nachprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>aa) Die Vorrichtung nach Patentanspruch 17 dient der Verbesserung der in Merkmalsgruppe 2 beschriebenen Situation, in der eine Funkverbindung unterbrochen wird, die mehrere aktive Funkträger aufweist, die zu einer Funkressourcen-Steuerungsverbindung gehören und für Dienste unterschiedlicher Kategorien verwendet werden (vgl. BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 10). Aus der zeitgleichen Verwendung mehrerer Funkträger ergibt sich die im Klagepatent geschilderte Notwendigkeit, für den Fall des Verlusts der Funkverbindung unterschiedliche Zeiträume für Wiederherstellungsversuche abhängig von der Zeitempfindlichkeit des jeweiligen Dienstes zuzulassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) Merkmalsgruppe 2 verlangt, dass die Kommunikationsvorrichtung Mittel zur Feststellung einer Störung einer Funkverbindung aufweist, die durch die Merkmale 2.1 und 2.2 gekennzeichnet sind. Dies bedeutet, wovon das Berufungsgericht zutreffend und von den Parteien unbeanstandet ausgegangen ist, dass die die Kommunikationsvorrichtung kennzeichnenden Mittel objektiv geeignet sein müssen, die Störung solcher Funkverbindungen festzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>cc) Nach den Merkmalsgruppen 3 und 4 muss die Kommunikationsvorrichtung Mittel zur Bestimmung einer ersten Ablaufzeit (Merkmal 3) und einer zweiten Ablaufzeit (Merkmal 4) umfassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Die erste Ablaufzeit gibt die Zeitspanne (Merkmal 3.1) an, während der die Wiederherstellung der verlorenen Funkverbindung in Bezug auf die Funkträger, die für Dienste einer ersten Kategorie genutzt werden, zulässig ist (Merkmal 3.2), und die zweite Ablaufzeit gibt die Zeitspanne an, während der die Wiederherstellung der verlorenen Funkverbindung in Bezug auf die Funkträger zulässig ist, die für Dienste einer sich von der ersten unterscheidenden zweiten Kategorie genutzt werden (Merkmal 4.2). Eine Zeitnahme, um feststellen zu können, ob die festgelegte Ablaufzeit erreicht ist, und eine Deaktivierung der Wiederherstellungsmöglichkeit nach Erreichen dieses Zeitpunkts werden von Patentanspruch 17 im Unterschied zu den Patenansprüchen 8 und 14 nicht verlangt (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Ohne Erfolg rügt die Anschlussrevision die Auffassung des Berufungsgerichts als rechtsfehlerhaft, die jeweilige Ablaufzeit müsse nicht zwingend größer 0 sein. Wie sich aus Merkmalen 3.2 und 4.2 ergibt, sollen die Zeitspannen angegeben werden, während deren die Wiederherstellung der verlorenen Funkverbindung in Bezug auf die Funkträger der unterschiedlichen Kategorien zulässig sein soll. Bei einem solchen Verständnis kennzeichnet der Wert 0 den Ausschluss der Wiederherstellungsmöglichkeit. Vor dem Hintergrund, dass es die Ausgestaltung des Mobilfunkgeräts nach den Merkmalsgruppen 3 und 4 ermöglichen soll, den Ablaufzeitwert unter Berücksichtigung der Zeitempfindlichkeit des jeweiligen Dienstes einzustellen, für den die Funkträger der aktuellen Funkverbindung genutzt werden, kann es zweckmäßig sein, bei besonders zeitkritischen Diensten Wiederherstellungsversuche von vornherein auszuschließen. Die Beschreibung des Klagepatents bestätigt diese funktionsorientierte Erwägung mit dem Hinweis, es sei möglich, die Wiederherstellungsmöglichkeit für RT-Träger "auszuschalten", also im Falle eines Verlusts der Funkverbindung die RT-Träger sofort freizugeben (Abs. 9 Z. 53). Bestätigt wird dieses Verständnis ferner durch die Schilderung des Stands der Technik in der Klagepatentschrift. Danach können die Werte des Zeitnehmers T314 in den 3GPP-Spezifikationen für RRC-Verbindungen zwischen 0 und 4095 Sekunden betragen (Abs. 7). Wie sich aus der Tabelle 13.1 der zitierten Spezifikation (3GPP TS 25.331version 3.1.0 Release 1999, Anlage NK 3 S. 254) ergibt, handelt es sich bei dem Wert 0 um einen einstellbaren Wert, da im Unterschied zu T313 der Anfangswert nicht mit 1, sondern mit 0 angegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Dies ändert jedoch nichts daran, dass neben dem Wert 0 mindestens ein weiterer Wert für die jeweilige Kategorie eingestellt werden können muss, da andernfalls ein Bestimmen der Ablaufzeiten durch die Mittel nicht erfolgt, sondern vorgegeben ist. Diese Bandbreite möglicher Werte ermöglicht eine flexible Einstellung des Wertes unter Berücksichtigung der Zeitempfindlichkeit des jeweiligen Dienstes (Abs. 5 bis 7, Abs. 37).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(2) Bei den Mitteln zur Bestimmung der Ablaufzeiten kann es sich, wie sich aus der Beschreibung des Klagepatents ergibt (Abs. 49 Z. 18 f.), um einen Schreib-/Lese-Speicher oder ein Register handeln, aus dem die Ablaufzeiten ausgelesen werden. Einer eigenständigen Bestimmung der Ablaufzeiten durch die Kommunikationsvorrichtung bedarf es nicht. Der als Ausführungsform der Erfindung beschriebene Ablaufwertspeicher (expiry value storage) kann vielmehr mit einem Signalisierungsdetektor gekoppelt sein, der Signalisierungsnachrichten mit den aktuell anwendbaren Ablaufwerten vom Netz empfängt. Der Ablaufwertspeicher kann jedoch auch feste Ablaufzeitwerte oder eine Anzahl von festen Ablaufzeitwerten umfassen (Abs. 49 Z. 30 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(3) Wie das Berufungsgericht zutreffend angenommen hat, bedarf es keiner separaten Mittel für die Bestimmung der ersten und der zweiten Ablaufzeit. Diese können vielmehr in einer einzigen Funktionseinheit enthalten sein (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 45). Die Mittel müssen lediglich objektiv geeignet sein, unterschiedliche Ablaufzeiten für unterschiedliche Kategorien von Diensten zu bestimmen. Dass dies tatsächlich erfolgt, ist nicht zwingend vorgesehen (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 25).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Der Schutz eines Erzeugnisses beschränkt sich grundsätzlich nicht auf seine Verwendung zu einem bestimmten Zweck, mag sich dieser auch unmittelbar aus dem Anspruch ergeben. Sind Zweck-, Wirkungs- und Funktionsangaben - wie hier - Bestandteil eines Schutzanspruchs, nehmen sie zwar in der Regel an dessen Aufgabe teil, den geschützten Gegenstand zu bestimmen und damit zugleich zu begrenzen, wenn sie das Vorrichtungselement, auf das sie sich beziehen, als ein solches definieren, das so ausgebildet sein muss, dass es die betreffende Funktion erfüllen kann (vgl. BGH, Urteil vom 20. Mai 2008 - X ZR 180/05, BGHZ 176, 311 Rn. 17 - Tintenpatrone I; BGH, WRP 2020, 1194 Rn. 31 - FRAND-Einwand). Dafür ist im Streitfall ausreichend, wenn die Kommunikationseinrichtung so ausgebildet ist, dass sie die in den Merkmalen 3 und 4 konkretisierten Ablaufzeiten - gegebenenfalls im Zusammenwirken mit dem Netz (vgl. oben Rn. 34) - bestimmen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Zu berücksichtigen ist dabei, dass es um zwei Ablaufzeiten geht, denen in Bezug auf die Zulässigkeit der Wiederherstellung der unterbrochenen Funkverbindung unterschiedliche Bedeutung zukommt. Die Mittel nach den Merkmalsgruppen 3 und 4 müssen deshalb auch die Eignung aufweisen, dieser unterschiedlichen Bedeutung der beiden Ablaufzeiten Rechnung zu tragen - etwa dadurch, dass in einem Register nicht nur die Ablaufzeit gespeichert werden kann, sondern auch die Information, welche Bedeutung das Verstreichen dieser Zeitspanne hat (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 47). Erforderlich ist deshalb, dass die Mobilstation so eingerichtet ist, dass sie im Falle der Übermittlung der Werte erkennen kann, ob es sich um eine erste oder zweite Ablaufzeit im Sinne des Klagepatents handelt, d.h. welche Bedeutung dem gespeicherten Wert zukommt (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 80).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Anschlussrevision hat dies das Berufungsgericht nicht verkannt. Denn es hat insoweit gefordert, dass die Kommunikationsvorrichtung objektiv geeignete Mittel bereitstellt, mittels deren der Ausfall einer Funkverbindung derart festgestellt werden kann, dass Wiederherstellungen dieser Funkverbindung hinsichtlich verschiedener Dienstkategorien mit unterschiedlichen Ablaufzeiten, zu welchen die Funkträger in spezifischer Weise in Beziehung stehen, erfolgen können. Entgegen der Auffassung des Berufungsgerichts und der Anschlussrevision werden dabei eine Zeitnahme und eine Deaktivierung der Wiederherstellungsmöglichkeit nach Erreichen dieses Zeitpunkts in Anspruch 17 nicht verlangt (BGH, Urteil vom 28. April 2020 - X ZR 35/18, juris Rn. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>b) Das Berufungsgericht ist ohne Rechtsfehler zu dem Ergebnis gelangt, dass die angegriffenen Ausführungsformen Anspruch 17 verwirklichen. Die Verwirklichung der Merkmale 1 und 2 ist im Revisionsverfahren zu Recht nicht mehr im Streit. Das Berufungsgericht hat rechtsfehlerfrei angenommen, dass die angegriffenen Ausführungsformen auch Mittel zur Bestimmung einer ersten und zweiten Ablaufzeit im Sinne der Merkmalsgruppen 3 und 4 aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>aa) Hierfür genügt bereits die vom Berufungsgericht getroffene Feststellung, dass zumindest beim Übergang der Steuerung von einer Funkzelle zur nächsten (Handover) die angegriffenen Ausführungsformen vom Netzwerk vorzugebende Standardwerte (T314 = 12 Sekunden; T315 = 180 Sekunden) umsetzen können müssen. Entgegen der Rüge der Anschlussrevision beruht diese Feststellung nicht auf einem Verfahrensfehler. Die Vorgabe der Werte durch das Netzwerk reicht für die Verwirklichung des Merkmals aus den genannten Gründen (Rn. 36) aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>bb) Das Berufungsgericht hat zudem festgestellt, dass die angegriffenen Ausführungsformen bei den von der Klägerin durchgeführten Tests, bei denen eine Funkverbindungsstörung simuliert worden ist und das Netzwerk unterschiedliche Werte für T314 und T315 vorgegeben hat, unterschiedliche Ablaufzeiten erkannt und umgesetzt haben. Dass das Berufungsgericht seiner Beurteilung die Tests der Klägerin zugrunde gelegt hat, rügt die Anschlussrevision ohne Erfolg als verfahrensfehlerhaft; von einer Begründung wird insoweit abgesehen (§ 564 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>cc) Ohne Erfolg bleibt auch die Revisionsrüge, es fehlten Feststellungen des Berufungsgerichts dazu, dass die Mittel auch die Eignung aufwiesen, der unterschiedlichen Bedeutung der beiden Ablaufzeiten Rechnung zu tragen. Aus den Feststellungen des Berufungsgerichts ergibt sich vielmehr, dass die angegriffenen Endgeräte zwei Zeitnehmer T314 und T315 aufweisen und in der Lage sind, die vom Netzwerk vorgegebenen Zeitwerte zu verarbeiten. Dies bedeutet, dass die vom Netzwerk übermittelten Werte diesen Zeitnehmern zugeordnet sind, die ihrerseits den vom Berufungsgericht angesprochenen Diensten (Telefonie und Internet) zugeordnet sind. Nach den Feststellungen des Berufungsgerichts sind die Kommunikationsvorrichtungen zudem, was, wie ausgeführt (Rn. 38), von Patentanspruch 17 nicht einmal verlangt wird, zur Überwachung der Ablaufzeiten geeignet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Dies entspricht auch den Vorgaben des Standards, wie sich aus dem von den Beklagten vorgelegten Gutachten (Anlage G2) ergibt. Danach können im Standard mehrere Verbindungen gleichzeitig aufgebaut werden, und diese werden in verschiedene Kategorien eingeteilt. Der Standard sieht auch die Möglichkeit vor, dass ein Endgerät nur einen einzigen Träger (Radio Access Bearer, RAB) gleichzeitig unterstützt. Die Kategorien werden im Standard mit verbindungsorientierten und paketorientierten Diensten verglichen. Jeder Kategorie wird ein Zeitnehmer zugeordnet (Anlage G2 S. 7). Ohne Erfolg machen die Beklagten geltend, die beschriebene Zuordnung für die Funkträger werde im Standard bereits vom Netzwerk vorgenommen ("use T314"; "use T315"); die Kommunikationsvorrichtung führe daraufhin lediglich den Schritt des Auslesens und damit des Bestimmens dieser Werte aus, ohne in irgendeiner Weise einer Bedeutungsinformation nachzugehen oder zwischen Funktionen dieser Werte zu unterscheiden. Darauf kommt es, wie ausgeführt, nicht an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>II. Die Annahme des Berufungsgerichts, das auf eine Verurteilung der Beklagten zur Unterlassung und Vernichtung sowie zum Rückruf patentverletzender Produkte gerichtete Klagebegehren sei gleichwohl unbegründet, weil insoweit derzeit der kartellrechtliche Zwangslizenzeinwand der Beklagten durchgreife, hält den Angriffen der Revision nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat zur Begründung seiner Entscheidung insoweit im Wesentlichen ausgeführt: Die Klägerin verfüge über eine marktbeherrschende Stellung im Sinne von Art. 102 AEUV. Die Beantwortung der zwischen den Parteien streitigen Frage, ob die Umsetzung des Standards zwingend die Benutzung des Klagepatents erfordere oder ob der Standard die Verwirklichung der technischen Lehre des Klagepatents bloß optional vorsehe, könne auch in diesem Zusammenhang offenbleiben. Die Benutzung des Klagepatents sei faktisch unumgänglich, weil UMTS-fähige Mobiltelefone - um überhaupt marktgängig zu sein - in der Lage sein müssten, mehrere Funkträger zu erfassen. Die gerichtliche Geltendmachung der Ansprüche auf Unterlassung, Vernichtung und Rückruf sei nach den Grundsätzen, die der Gerichtshof der Europäischen Union in der Rechtssache Huawei/ZTE aufgestellt habe, eine missbräuchliche Ausnutzung dieser marktbeherrschenden Stellung. Zwar habe die Klägerin ihre Hinweispflicht erfüllt, sie habe jedoch trotz erklärter und fortbestehender Lizenzbereitschaft der Beklagten diesen kein Angebot unterbreitet, das FRAND-Bedingungen entsprochen habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Allerdings sei die Erklärung der Lizenzwilligkeit erst etwa ein Jahr nach der erstmaligen Verletzungsanzeige der Klägerin vom 20. Dezember 2012 erfolgt. Der nicht fristgerechte Vollzug eines notwendigen Schrittes einer Partei ziehe jedoch keine materielle Präklusion nach sich, der betreffende Schritt könne jedenfalls noch vor Klageerhebung nachgeholt werden. Es seien in der Folgezeit auch keine Umstände zutage getreten, die Anlass zu der Annahme gäben, die Lizenzwilligkeit der Beklagten oder ihres Konzerns sei zwischenzeitlich wieder weggefallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Die von der Klägerin gemachten Angebote stellten eine evidente Diskriminierung der Beklagten dar. Die Klägerin behandele die Beklagten mit ihren Lizenzangeboten gegenüber einem ihrer Lizenznehmer, einem staatlichen chinesischen Unternehmen, im Hinblick auf die Höhe der Lizenzgebühren ohne triftigen sachlichen Grund ungleich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>2. Ohne Erfolg greift die Revision die Bejahung der Normadressateneigenschaft der Klägerin nach Art. 102 AEUV durch das Berufungsgericht an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>a) Die Klägerin ist auf dem hier relevanten Lizenzmarkt marktbeherrschend. Wie der Senat in seinem zwischen den Prozessparteien ergangenen Urteil vom 5. Mai 2020 (KZR 36/17, WRP 2020, 1194 Rn. 54 - FRAND-Einwand) näher ausgeführt hat, bedarf die Annahme eines eigenständigen Lizenzmarkts zunächst der Feststellung, dass es sich um ein standardessentielles Patent handelt, also die Benutzung der patentgeschützten Lehre für die Umsetzung eines (von einer Standardisierungsorganisation normierten oder auf dem Markt durchgesetzten) Standards unerlässlich ist (BGH, Urteil vom 13. Juli 2004 - KZR 40/02, BGHZ 160, 67, 74 - Standard-Spundfass; WRP 2020, 1194 Rn. 58 - FRAND-Einwand), so dass es in der Regel technisch nicht möglich ist, die Erfindung zu umgehen, ohne für den Produktmarkt wichtige Funktionen einzubüßen (BGH, WRP 2020, 1194 Rn. 58 - FRAND-Einwand; vgl. EuGH, Urteil vom 16. Juli 2015 - C-170/13, WRP 2015, 2783 Rn. 49 - Huawei/ZTE; Europäische Kommission, Beschluss vom 29. April 2014 - C (2014) 2892 Rn. 52 - Motorola). Darüber hinaus ist Voraussetzung für einen eigenständigen Lizenzmarkt, dass die dem Patent und dem Standard entsprechende technische Lehre nicht durch eine andere technische Gestaltung des Produkts substituierbar ist (BGH, WRP 2020, 1194 Rn. 58 - FRAND-Einwand; vgl. EuGH, Slg. 2004, I-5039 Rn. 28 - IMS Health; BGHZ 160, 67, 74 - Standard-Spundfass).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>b) Das Berufungsgericht hat zwar offengelassen, ob der hier maßgebliche Standard die Verwirklichung der erfindungsgemäßen Lehre des Klagepatents nur als Option vorsieht und die Verwendung nur eines Funkträgers dem Standard entspricht. Es hat jedoch festgestellt, dass eine solche etwa vorhandene nicht-patentgemäße Option in der Praxis keine Rolle mehr spielt, weshalb die Benutzung des Klagepatents im Rahmen der Umsetzung der Vorgaben des Standards jedenfalls faktisch unumgänglich ist. Dies genügt für die Annahme eines eigenständigen Lizenzmarkts, da ein Mobilfunkgerät, das die technische Lehre des Klagepatents nicht umsetzt, danach nicht wettbewerbsfähig ist (vgl. EuGH, Urteil vom 29. April 2004 - C-418/01, Slg. 2004, I-5039 = WRP 2004, 717 Rn. 29 - IMS Health; BGH, WRP 2020, 1194 Rn. 59 f. - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>c) Das Berufungsgericht hat nicht verkannt, dass trotz der in einem solchen Fall rechtlich vermittelten Zugangssperre außergewöhnliche Gründe vorliegen können, die eine Marktbeherrschung durch den Inhaber des standard-essentiellen Patents ausschließen können (BGH, WRP 2020, 1194 Rn. 61 f. - FRAND-Einwand). Es hat jedoch weder dem Vorbringen der Parteien noch den Umständen des Falles Anhaltspunkte dafür entnehmen können; der revisionsrechtlichen Nachprüfung hält dies stand (BGH, WRP 2020, 1194 Rn. 62 ff. - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>3. Die vom Berufungsgericht getroffenen Feststellungen rechtfertigen indes nicht die Annahme, die Klägerin habe diese marktbeherrschende Stellung missbraucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>a) Wie der Senat in seinem zwischen denselben Parteien ergangenen Urteil vom 5. Mai 2020 (WRP 2020, 1194 - FRAND-Einwand) im Anschluss an die Rechtsprechung des Unionsgerichtshofs (WRP 2015, 1080 Rn. 54 ff. - Huawei/ZTE) näher erläutert hat, kann ein marktbeherrschender Patentinhaber, der sich gegenüber einer Standardisierungsorganisation verpflichtet hat, Lizenzen zu FRAND-Bedingungen zu erteilen, seine Marktmacht nicht nur dadurch missbräuchlich ausnutzen, dass er einem lizenzwilligen Verletzer den Abschluss eines entsprechenden Lizenzvertrages verweigert und ihn mit einer Klage auf Unterlassung, Rückruf und Entfernung von Produkten aus den Vertriebswegen oder auf Vernichtung patentverletzender Erzeugnisse in Anspruch nimmt. Ein Missbrauch kann vielmehr auch dann vorliegen, wenn dem Patentinhaber anzulasten ist, dass er sich nicht hinreichend bemüht hat, seiner mit der markbeherrschenden Stellung verbundenen besonderen Verantwortung gerecht zu werden und einem grundsätzlich lizenzwilligen Verletzer den Abschluss eines Lizenzvertrages zu angemessenen Bedingungen möglich zu machen (BGH, WRP 2020, 1194 Rn. 75 ff. - FRAND-Einwand; vgl. BGH, Beschluss vom 11. Dezember 2012 - KVR 7/12, WuW/E DE-R 3821 Rn. 15 - Fährhafen Puttgarden II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>In beiden Fällen ist die Klage deshalb - und nur deshalb - missbräuchlich, weil dem lizenzwilligen Verletzer ein Anspruch darauf zusteht, dass ihm der Patentinhaber die Benutzung der geschützten technischen Lehre zu FRAND-Bedingungen vertraglich gestattet. Ein Missbrauch der marktbeherrschenden Stellung eines Patentinhabers ergibt sich mithin grundsätzlich noch nicht aus von diesem vor oder zu Beginn von Verhandlungen angebotenen Vertragsbedingungen als solchen, die, würden sie vertraglich vereinbart, den Lizenznehmer unbillig behindern oder diskriminieren könnten. Der Missbrauch der Marktmacht folgt vielmehr - nicht anders als in Fällen der Belieferungsverweigerung oder des verweigerten Zugangs zu einer Infrastruktureinrichtung des Marktbeherrschers - erst aus der Ablehnung eines nachgefragten Zugangs zu der Erfindung schlechthin oder aus unangemessenen Bedingungen für einen nachgefragten Zugang, von denen der Patentinhaber auch am Ende von Verhandlungen nicht abzurücken bereit ist (vgl. BGH, Beschluss vom 24. September 2002, KVR 15/01, BGHZ 152, 84, 94 - Fährhafen Puttgarden I), mithin der Weigerung, dem den Abschluss eines Lizenzvertrages zu FRAND-Bedingungen anstrebenden Lizenznehmer als Ergebnis eines Verhandlungsprozesses diejenigen fairen, angemessenen und nicht-diskriminierenden Vertragsbedingungen anzubieten, die dieser beanspruchen kann und zu denen er seinerseits bereit ist, mit dem Patentinhaber abzuschließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>b) Aus der Verpflichtung, einen solchen Missbrauch zu unterlassen, und der besonderen Verantwortung des marktbeherrschenden Patentinhabers folgt, dass er den Patentverletzer zunächst auf die Verletzung des Klagepatents hinzuweisen hat, wenn dieser sich (möglicherweise) nicht bewusst ist, mit der Implementierung einer vom Standard geforderten technischen Lösung rechtswidrig von der Lehre des standardessentiellen Patents Gebrauch zu machen (EuGH, WRP 2015, 1080 Rn. 60-62 - Huawei/ZTE; BGH, WRP 2020, 1194 Rn. 73 f. - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>c) Da die FRAND-Verpflichtungserklärung im Grundsatz nichts daran ändert, dass derjenige, der von der technischen Lehre eines Patents Gebrauch machen will, hierzu eine Lizenz des Patentinhabers einholen muss (EuGH, WRP 2015, 1080 Rn. 58 - Huawei/ZTE), können sich weitere Verhaltenspflichten des marktbeherrschenden Patentinhabers erst und nur dann ergeben, wenn der Nutzer der geschützten technischen Lehre seinen Willen zum Ausdruck bringt, einen Lizenzvertrag zu FRAND-Bedingungen zu schließen (EuGH, WRP 2015, 1080 Rn. 63 - Huawei/ZTE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>aa) Dafür genügt es regelmäßig nicht, wenn der Verletzer sich auf den Verletzungshinweis lediglich bereit zeigt, den Abschluss eines Lizenzvertrages zu erwägen oder in Verhandlungen darüber einzutreten, ob und unter welchen Voraussetzungen ein Vertragsschluss für ihn in Betracht komme. Vielmehr muss sich der Verletzer seinerseits klar und eindeutig bereit erklären, mit dem Patentinhaber einen Lizenzvertrag zu angemessenen und nicht-diskriminierenden Bedingungen abzuschließen, und muss auch in der Folge zielgerichtet an den Lizenzverhandlungen mitwirken (BGH, WRP 2020, 1194 Rn. 83 - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(1) Nicht anders als in Fällen eines verhandelten Zugangs zu einer Infrastruktureinrichtung kann nur die Bereitschaft des Nutzers der Erfindung, den Zugang zu der geschützten technischen Lösung, den er sich durch die Patentverletzung bereits eigenmächtig verschafft hat, für die Zukunft auf eine lizenzvertragliche Grundlage zu stellen, die Anforderung an den marktbeherrschenden Patentinhaber rechtfertigen, dem Nutzer hierzu ein Angebot zu machen, dieses Angebot in einer den Umständen des Einzelfalls angemessenen Weise und Detailtiefe zu erläutern und sich auf eine Verhandlung über dieses Angebot und gegebenenfalls ein Gegenangebot des Verletzers einzulassen, um auf diese Weise zu einem Lizenzvertrag zu gelangen, der die Nutzung des verletzten und gegebenenfalls weiterer Patente zu fairen, angemessenen und nicht-diskriminierenden Bedingungen regelt. Diese Mitwirkung ist das unerlässliche Gegenstück dazu, dass dem Patentinhaber abverlangt wird, die Verletzung des Klagepatents solange hinzunehmen, wie der Verletzer seinerseits die nach der gegebenen Sachlage gebotenen und ihm möglichen und zumutbaren Bemühungen unternimmt, einen Lizenzvertrag zu FRAND-Bedingungen abzuschließen, um auf dieser Grundlage die patentgemäße Lehre weiterhin benutzen zu können (vgl. High Court von England and Wales [J. Birss], Urteil vom 5. April 2017, [2017] EWHC 711 [Pat] Rn. 562).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>(2) Die (beiderseitige) Lizenzbereitschaft ist aber nicht nur deswegen von grundlegender Bedeutung, weil der Patentinhaber eine FRAND-Lizenz nur an einen hierzu bereiten Nutzer der Erfindung vergeben muss und überhaupt nur vergeben kann. Sie ist auch deswegen unentbehrlich, weil sich ein die gegenläufigen beiderseitigen Interessen ausbalancierendes, angemessenes Ergebnis in der Regel erst als Ergebnis eines Verhandlungsprozesses erfassen lässt, in dem diese Interessen artikuliert und diskutiert werden, um auf diese Weise zu einem beiderseits gewünschten fairen und angemessenen Interessenausgleich zu gelangen. Die Anforderungen an das Verhalten des Patentinhabers und an das Verhalten des Nutzers der Erfindung bedingen sich dabei wechselseitig. Da Maßstab der Prüfung dasjenige ist, was eine vernünftige Partei, die an dem erfolgreichen, beiderseits interessengerechten Abschluss der Verhandlungen interessiert ist, zur Förderung dieses Ziels in einem bestimmten Verhandlungsstadium jeweils tun würde, entziehen sich die im Einzelnen zu stellenden Anforderungen einer generellen Definition.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Hat es eine Seite zunächst an der gebotenen Mitwirkung am Zustandekommen eines Lizenzvertrages zu FRAND-Bedingungen fehlen lassen, geht dies grundsätzlich zu ihren Lasten. Je nach Sachlage kann sie gehalten sein, begangene Versäumnisse so weit wie möglich zu kompensieren. Dies entspricht den üblichen Gepflogenheiten von an einem Vertragsschluss interessierten Personen, welche bei einer verzögerten Reaktion auf ein entsprechendes Verhandlungsangebot normalerweise damit rechnen müssen, dass die Gegenseite kein Interesse an einem Vertragsschluss mehr hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Geringere Anforderungen ergeben sich bei einem standardessentiellen Patent nicht daraus, dass dem Patentinhaber, der eine Lizenzbereitschaftserklärung abgegeben hat, das Druckmittel der notfalls klageweisen Durchsetzung des Schutzrechts nur eingeschränkt zur Verfügung steht (BGH, WRP 2020, 1194 Rn. 64 - FRAND-Einwand) und er zur wirtschaftlichen Verwertung seines Patents auf den Abschluss von Lizenzverträgen angewiesen ist. Diesen strukturellen Nachteil darf der Patentverletzer im Gegenteil nicht zum Zwecke des "patent hold-out" (vgl. BGH, WRP 2020, 1194 Rn. 64 - FRAND-Einwand) ausnutzen, ohne sich selbst dem Vorwurf unredlichen Verhaltens ausgesetzt zu sehen. Andernfalls führte die Beschränkung der klageweisen Durchsetzbarkeit des Patents zwecks Vermeidung eines Marktmachtmissbrauchs zu einer anderen Verfälschung der Wettbewerbsbedingungen dadurch, dass sich der Patentverletzer einen unberechtigten Vorteil gegenüber solchen Wettbewerbern verschaffen könnte, welche sich rechtzeitig um eine Lizenz bemühen und deshalb das angemessene Entgelt für die Nutzung standardessentieller Patente leisten müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>(3) Hat es der auf die Verletzung aufmerksam gemachte Nutzer über einen längeren Zeitraum unterlassen, sein Interesse an einem Lizenzvertrag zu FRAND-Bedingungen zu bekunden, müssen daher von ihm zusätzliche Anstrengungen erwartet werden, um dazu beizutragen, dass ungeachtet dieses Versäumnisses ein entsprechender Lizenzvertrag so bald wie möglich abgeschlossen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Anforderungen an die Lizenzbereitschaft des Patentverletzers stehen entgegen der Auffassung der Beklagten in Einklang mit Art. 102 AEUV und dessen Auslegung in der Rechtsprechung des Unionsgerichtshofs (WRP 2015, 1080 Rn. 71 - Huawei/ZTE); sie erfordern auch keine erneute Vorlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>(1) Wie der Gerichtshof ausgesprochen hat, missbraucht der Patentinhaber, der eine FRAND-Erklärung abgegeben hat, seine marktbeherrschende Stellung durch die Erhebung einer Klage auf Unterlassung oder Rückruf patentverletzender Erzeugnisse grundsätzlich nicht, wenn er vor Erhebung der Klage den gebotenen Verletzungshinweis gegeben hat, dem Patentverletzer - nachdem dieser seinerseits seinen Willen zum Ausdruck gebracht hat, einen Lizenzvertrag zu FRAND-Bedingungen zu schließen - ein konkretes Lizenzangebot zu solchen Bedingungen unterbreitet und hierzu insbesondere die Lizenzgebühr sowie die Art und Weise ihrer Berechnung angegeben hat und der Patentverletzer, obwohl er die geschützte technische Lehre weiterhin benutzt, auf dieses Angebot nicht mit Sorgfalt, gemäß den anerkannten geschäftlichen Gepflogenheiten und in Übereinstimmung mit den Geboten von Treu und Glauben reagiert, was es insbesondere verbietet, dass er bei seiner Reaktion eine Verzögerungstaktik verfolgt (EuGH, WRP 2015, 1080 Rn. 71 - Huawei/ZTE). Ferner hat der Gerichtshof den Verletzer für verpflichtet erachtet, ab dem Zeitpunkt, zu dem der Patentinhaber ein von ihm gemachtes Gegenangebot abgelehnt hat, die Realisierbarkeit der Ansprüche des Patentinhabers aus dem abzuschließenden Lizenzvertrag durch Leistung einer angemessenen Sicherheit zu gewährleisten (EuGH, WRP 2015, 1080 Rn. 67- Huawei/ZTE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>(2) Der Gerichtshof der Europäischen Union betont mithin die beiderseitige Verpflichtung zu einem konstruktiven Austausch, durch den ein gerechter Ausgleich der betroffenen Interessen erreicht werden soll (EuGH, WRP 2015, 1080 Rn. 55 - Huawei/ZTE; vgl. BGHZ 152, 84, 97 - Fährhafen Puttgarden I). Dabei ist den besonderen rechtlichen und tatsächlichen Umständen des konkreten Falles gebührend Rechnung zu tragen (EuGH, WRP 2015, 1080 Rn. 56 - Huawei/ZTE). Dies bedeutet, dass die Einhaltung des vom Unionsgerichtshof skizzierten "Verhandlungsprogramms" regelmäßig ausreichend ist, um einen Verstoß gegen das Missbrauchsverbot und damit die Einwendung einer missbräuchlichen Klageerhebung auszuschließen. Die Antwort des Gerichtshofs auf die Vorlagefragen definiert demgemäß negativ die Voraussetzungen für die Verneinung eines Marktmachtmissbrauchs. Da die Bejahung oder Verneinung eines Missbrauchs aber stets eine Berücksichtigung aller Umstände des Falles und eine Abwägung der beiderseitigen Interessen erfordert, können besondere Umstände auch strengere oder weniger strenge Verhaltenspflichten rechtfertigen (vgl. High Court von England and Wales [J. Birss], Urteil vom 5. April 2017, [2017] EWHC 711 [Pat] Rn. 744; UK Supreme Court [Lords Reed, Hodge, Lady Black, Lords Briggs, Sales], Urteil vom 26. August 2020, [2020] UKSC 37 Rn. 152 ff.; Gerechtshof Den Haag, GRUR Int. 2020, 174, 176 Rn. 4.14). Die Prüfung eines FRAND-Einwands unterscheidet sich insofern nicht von anderen Fällen des Missbrauchs einer marktbeherrschenden Stellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>(3) Ohne Erfolg machen die Beklagten geltend, der Umstand, dass der Unionsgerichtshof ein konkretes schriftliches Lizenzangebot des Patentinhabers verlange, <em>nachdem</em> der Patentverletzer seinen Willen zum Ausdruck gebracht habe, einen Lizenzvertrag zu FRAND-Bedingungen zu schließen (WRP 2015, 1080 Rn. 71 - Huawei/ZTE, Hervorhebung durch den Senat), stehe einem Verständnis der Obliegenheit der Lizenzbereitschaftserklärung als einer Art Dauerzustand oder fortgesetzter Handlung entgegen. Dabei gerät aus dem Blick, dass sich der Missbrauch von Marktmacht in Fällen der vorliegenden Art aus der Weigerung des Marktbeherrschers ergibt, den Anspruch eines Unternehmens der Marktgegenseite auf rechtmäßigen Zugang zu der Erfindung zu erfüllen und hierzu eine Lizenz zu FRAND-Bedingungen zu erteilen (EuGH, WRP 2015, 1080 Rn. 53 - Huawei/ZTE). Es ist der missbräuchliche Charakter dieser Weigerung, der der klageweisen Inanspruchnahme aus dem Patent entgegengehalten werden kann (EuGH, WRP 2015, 1080 Rn. 54 - Huawei/ZTE). Eine missbräuchliche Verweigerung durch den marktbeherrschenden Patentinhaber setzt zwingend ein fortdauerndes Verlangen des Verletzers nach Abschluss eines Vertrages zu FRAND-Bedingungen und dessen Bereitschaft zur Mitwirkung am Zustandekommen eines solchen Vertrages voraus, ohne die eine "Verweigerung" des Patentinhabers ins Leere ginge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Für diese Lizenzbereitschaft reicht es nicht aus, dass eine ernsthafte und endgültige Weigerung des Patentverletzers, eine Benutzungsvereinbarung zu FRAND-Bedingungen abzuschließen, nicht festgestellt werden kann. Denn dies verkennt den auch vom Unionsgerichtshof hervorgehobenen Grundsatz, dass derjenige, der von der technischen Lehre Gebrauch machen will, dazu eine Lizenz einholen muss (EuGH, WRP 2015, 1080 Rn. 58 - Huawei/ZTE). Der Patentverletzer hat sich den Zugang zur Nutzung der Erfindung, für die er ein angemessenes Entgelt schuldet, aber bereits eigenmächtig und damit - jedenfalls zunächst - unentgeltlich verschafft, so dass ein Hinauszögern der Auflösung des Interessenkonflikts durch Abschluss eines zu einer Gegenleistung verpflichtenden Vertrages, anders als bei Ansprüchen auf Belieferung oder Zugang zu einer Infrastruktureinrichtung, nicht den Marktbeherrscher, sondern die Marktgegenseite begünstigt. Die "Verzögerungstaktik", die der Verletzer nicht betreiben darf und die, wie der Unionsgerichtshof ausdrücklich ausgesprochen hat (WRP 2015, 1080 Rn. 71 - Huawei/ZTE), einen Missbrauch der marktbeherrschenden Stellung ausschließt, besteht deshalb typischerweise gerade darin, einen Lizenzvertrag zu FRAND-Bedingungen nicht schlichtweg abzulehnen, sondern ihn vorgeblich anzustreben, aber die Findung einer angemessenen Lösung im Einzelnen zu hintertreiben oder zumindest so lange wie möglich hinauszuschieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>(4) Entgegen der Auffassung der Beklagten handelt es sich damit bei der Lizenzbereitschaftserklärung auch nach der Rechtsprechung des Unionsgerichtshofs nicht um ein "bloßes Einfallstor" für den Beginn der eigentlichen Verhandlungen. Die fortdauernde Lizenzbereitschaft ist vielmehr unabdingbare Voraussetzung einer erfolgreichen Lizenzverhandlung und damit auch für den Vorwurf eines Missbrauchs von Marktmacht gegenüber dem Patentinhaber bei deren Scheitern. Dies wird auch aus dem Kontext der Entscheidung Huawei/ZTE deutlich. Die vom Unionsgerichtshof formulierten Leitlinien beruhen auf einem Vorschlag des Generalanwalts Wathelet. Diesem lag die Annahme zugrunde, dass ein Missbrauch nur gegenüber einem Patentverletzer in Betracht kommt, der objektiv bereit, willens und fähig ist, einen Vertrag über eine FRAND-Lizenz zu schließen (vgl. Schlussanträge des Generalanwalts Wathelet vom 20. November 2014 - C-170/13, juris Rn. 74-75, 80). Der Generalanwalt hat weder eine von ZTE im Anschluss an eine Pressemitteilung der Europäischen Kommission vom 21. Dezember 2012 (IP/12/1448) als ausreichend angesehene bloße Verhandlungsbereitschaft für genügend gehalten, noch zwingend ein unbedingtes Angebot auf Abschluss eines Lizenzvertrages im Sinne der Orange-Book-Entscheidung des Senats (Urteil vom 6. Mai 2009 - KZR 39/06, BGHZ 180, 312 Rn. 29) für erforderlich erachtet (vgl. Schlussanträge des Generalanwalts Wathelet vom 20. November 2014 - C-170/13, juris Fn. 19). Dies entspricht im Übrigen auch der Sichtweise der Kommission in einem der Entscheidung des Unionsgerichtshofs vorangegangenen Beschluss, in dem die Kommission zum Ausdruck bringt, dass der Patentinhaber eine Unterlassungsverfügung gegen einen potenziellen Lizenznehmer anstrengen und durchsetzen darf, wenn dieser nicht gewillt ist, eine FRAND-Vereinbarung zu schließen (Beschluss vom 29. April 2014, COM[2014]2892 final Rn. 427 [c]). Eine solche objektive Bereitschaft zum Abschluss eines FRAND-Lizenzvertrages zeigt sich nach den auch vom Unionsgerichtshof als maßgeblich hervorgehobenen, in allen Bereichen des Wirtschaftslebens anerkannten geschäftlichen Gepflogenheiten regelmäßig in der an dem gemeinsamen Ziel eines erfolgreichen Abschlusses orientierten aktiven Förderung der Verhandlungen. Dabei bauen die Verhandlungsschritte von an einem Vertragsschluss interessierten Parteien aufeinander auf. Eine Förderpflicht besteht deshalb stets, wenn und insoweit nach den geschäftlichen Gepflogenheiten und den Grundsätzen von Treu und Glauben mit dem nächsten Verhandlungsschritt zu rechnen ist (vgl. zu § 203 BGB bei "Einschlafen" der Verhandlungen: BGH, Urteil vom 8. November 2016 - VI ZR 594/15, NJW 2017, 949 Rn. 16 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>cc) Eine so verstandene Lizenzbereitschaft ist nicht etwa entbehrlich, sondern behält auch dann ihre Bedeutung, wenn der Patentinhaber dem Ver-letzer ein Lizenzangebot unterbreitet hat (aA Kühnen, Hdb. Patentverletzung, 13. Aufl., Kap. E Rn. 394 ff.; Landgericht Düsseldorf, Beschluss vom 26. November 2020 - 4c O 17/19, juris Rn. 37).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>(1) Das Angebot, mit dem der Patentinhaber seiner besonderen Verantwortung als Marktbeherrscher nachkommt, dem Nutzer der Erfindung den Abschluss eines Lizenzvertrages zu FRAND-Bedingungen möglich zu machen, stellt nicht den Endpunkt, sondern den Ausgangspunkt der Lizenzverhandlungen dar. Jedenfalls bei einem komplexen Sachverhalt, wie er bei der Lizenzierung standardessentieller Patente typischerweise vorliegt, ist regelmäßig nicht offensichtlich, welche Vertragsbedingungen im konkreten Fall (vgl. Gerechtshof Den Haag, GRUR Int. 2020, 174, 179 Rn. 4.34) den Anforderungen an einen angemessenen Interessenausgleich entsprechen und gleichzeitig das kartellrechtliche Diskriminierungsverbot nicht verletzen. Zudem gibt es in aller Regel nicht den <em>einen</em> FRAND-Bedingungen genügenden Lizenzvertrag, sondern eine Bandbreite möglicher angemessener Lösungen (vgl. High Court von England und Wales [J. Birss], Urteil vom 23. Oktober 2018, [2018] EWCA Civ 2344, GRUR Int. 2019, 357 Rn. 121; OLG Karlsruhe, GRUR 2020, 166 Rn. 95; vgl. zu § 19 Abs. 4 Nr. 4 GWB aF BGHZ 152, 84, 96 - Fährhafen Puttgarden I). Eine Berücksichtigung etwaiger berechtigter Interessen des Nutzers ist dem Patentinhaber regelmäßig erst mit deren Kenntnis möglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Es ist deshalb gerade Aufgabe der Verhandlungen, ein faires und angemessenes Endergebnis hervorzubringen und zu diesem Ziel die beiderseitigen Interessen zu artikulieren und tatsächliche und rechtliche Gesichtspunkte zur Diskussion zu stellen, die aus Sicht wenigstens einer Verhandlungspartei für dieses Ergebnis von Bedeutung sein können (vgl. Mitteilung der Europäischen Kommission vom 29. November 2017 über den Umgang der EU mit standardessentiellen Patenten vom 29. November 2017, COM[2017] 712 final, S. 7). Es obliegt deshalb dem Nutzer der Erfindung, das Angebot des Patentinhabers darauf zu überprüfen, ob es seinem Inhalt nach weitere Informationen des Patentinhabers erforderlich macht und ob und gegebenenfalls inwiefern die Struktur des Angebots oder einzelne seiner Regelungen, insbesondere die Schutzrechte, die der Vertrag umfassen soll, und die Höhe und Berechnungsweise der Lizenzgebühr, aus seiner Sicht FRAND-Bedingungen (möglicherweise) nicht entsprechen. Gegebenenfalls ist er gehalten, ein Gegenangebot zu unterbreiten; wann dies der Fall ist, hängt jedoch ebenfalls vom Einzelfall ab und richtet sich auch insoweit nach den üblichen und anerkannten geschäftlichen Gepflogenheiten und den Geboten von Treu und Glauben. Insbesondere im Falle eines offensichtlich FRAND-Bedingungen nicht entsprechenden Lizenzangebots des Patentinhabers, das sich bei objektiver Wertung als nicht ernst gemeint und damit als Weigerung darstellt, einen Lizenzvertrag zu FRAND-Bedingungen abzuschließen (vgl. BGHZ 152, 84, 92 - Fährhafen Puttgarden I), kann als Reaktion eines ernsthaft um eine Lizenz nachsuchenden Nutzers der Erfindung die Darlegung genügen, aus welchem Grund das Angebot offensichtlich FRAND-Bedingungen nicht entspricht. Maßgeblich ist, von welcher Reaktion der Nutzer der Erfindung annehmen darf, dass mit ihr das Zustandekommen eines Lizenzvertrages zu FRAND-Bedingungen - eine entsprechende Bereitschaft des Patentinhabers vorausgesetzt - sachgerecht gefördert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>(2) Hat der Patentinhaber trotz fehlender Lizenzbereitschaft des Nutzers der Erfindung diesem ein (zumindest im Wesentlichen vollständiges) Vertragsangebot gemacht, muss der Nutzer sich daher mit diesem in einer Weise auseinandersetzen, die erkennen lässt, dass er nunmehr das Ziel verfolgt, alsbald zu einem beiderseits interessengerechten Ergebnis zu gelangen. Dafür kommt es nicht darauf an, ob und inwieweit der Inhalt des Vertragsangebots des Patentinhabers bereits in jeder Hinsicht den Anforderungen des abzuschließenden Vertrages an faire, angemessene und nicht-diskriminierende Bedingungen der Nutzung der Vertragsschutzrechte entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>(a) Wäre der Patentinhaber verpflichtet, stets sogleich ein Angebot vorzulegen, das das angemessene und beiderseits interessengerechte Ergebnis von Lizenzvertragsverhandlungen antizipiert, bedürfte es keiner Verhandlungen und auch keines Gegenangebots des Nutzers mehr, der das Angebot des Patentinhabers nicht annehmen will.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>(b) Schwerer noch wiegt die Erwägung, dass der Inhalt eines komplexen Lizenzvertrages weder außerprozessual noch in einem gerichtlichen Verfahren gleichsam abstrakt daraufhin überprüft werden kann, ob sämtliche Vertragsbedingungen den Anforderungen an eine faire, angemessene und nicht-diskriminierende Ausgestaltung der Nutzung der Vertragsschutzrechte genügen. Vielmehr lässt sich dies regelmäßig nur dann beurteilen, wenn von derjenigen Partei, die eine von der anderen vorgeschlagene Vertragsbedingung nicht oder jedenfalls nicht ohne weiteres akzeptieren will, diejenigen Gesichtspunkte geltend gemacht werden, die aus Sicht dieser Partei gegen die Angemessenheit der Vertragsbedingung sprechen oder diese Angemessenheit zumindest zweifelhaft erscheinen lassen, und wenn sodann die andere Partei diesen Bedenken entweder durch eine Änderung oder Ergänzung ihres Vorschlags Rechnung trägt oder aber erläutert, warum die Bedenken aus ihrer Sicht nicht durchgreifen (vgl. BGHZ 152, 84, 97 - Fährhafen Puttgarden I). Dabei liegt auf der Hand, dass Argumente und Gegenargumente durch die im Ausgangspunkt gegenläufigen Interessen der Parteien bestimmt werden, von denen die eine eine möglichst hohe Vergütung für die Nutzung der Vertragsschutzrechte erzielen und die andere eine möglichst geringe Vergütung hierfür zahlen will. Gerade deswegen bedarf es aber eines Verhandlungsprozesses, an dessen Ende ein von beiden Seiten angestrebter angemessener Interessenausgleich steht. Selbst wenn die Bemühungen der Parteien um eine einvernehmliche Lösung gleichwohl letztlich scheitern, können diese, da sie Anhaltspunkte dafür bieten, welche Interessen im Einzelnen zu berücksichtigen und wie sie zu gewichten sind, die Grundlage einer gegebenenfalls notwendigen gerichtlichen Entscheidung dafür bilden, inwieweit die zu den einzelnen Streitpunkten vertretenen widerstreitenden Auffassungen mit dem Gebot der Verpflichtung zur Lizenzierung zu FRAND-Bedingungen vereinbar sind (vgl. BGHZ 152, 84, 97 - Fährhafen Puttgarden I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>(c) Da regelmäßig erst das Bemühen beider Parteien um einen interessengerechten Ausgleich zu einem Vertrag mit FRAND-Bedingungen führen kann, sind gerade in Fällen, in denen trotz - jedenfalls bis dahin - fehlender Lizenzbereitschaft ein Angebot des Patentinhabers vorliegt, der Wille und die erklärte Bereitschaft des Verletzers nicht entbehrlich, zu einer fairen und angemessenen Konfliktlösung zu gelangen und hierzu beizutragen. Die Erwägung, der Patentinhaber sei "nicht schutzbedürftig", weil es ihm ohne weiteres möglich sei, ein FRAND-konformes Lizenzangebot zu unterbreiten, welches erst - sofern es tatsächlich fair, angemessen und nicht-diskriminierend sei - weitergehende Verhaltensobliegenheiten des Verletzers auslöse (so Kühnen, Hdb. Patentverletzung, Kap. E Rn. 396), geht schon wegen dieser Abhängigkeit der FRAND-Konformität eines bestimmten Vertragsinhalts vom Ergebnis des Verhandlungsprozesses fehl.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Sie verkennt im Übrigen wiederum, dass sich auch aus einem nicht FRAND-Bedingungen entsprechenden Angebot <em>als solchem </em>noch kein Missbrauch der marktbeherrschenden Stellung des Patentinhabers ergibt, dieser vielmehr darin liegt, dem Verletzer die Verhandlung und den Abschluss eines in Ansehung der im Verhandlungsprozess artikulierten Interessen interessengerechten FRAND-Lizenzvertrages zu verweigern oder unmöglich zu machen (und statt dessen das Patent oder eines der zu lizenzierenden Patente klageweise durchzusetzen).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>dd) Auch diese Anforderungen stehen im Einklang mit dem Unionsrecht, wie es der Gerichtshof im Urteil Huawei/ZTE ausgelegt hat, und erfordern keine erneute Vorlage. Dem Verletzer obliegt es danach, auf das Angebot des Patentinhabers mit Sorgfalt, gemäß den in dem Bereich anerkannten geschäftlichen Gepflogenheiten und nach Treu und Glauben zu reagieren, was auf der Grundlage objektiver Gesichtspunkte zu bestimmen ist und unter anderem impliziert, dass keine Verzögerungstaktik verfolgt wird (EuGH, WRP 2015, 1080 Rn. 65 - Huawei/ZTE). Die auf Grundlage objektiver Gesichtspunkte vorzunehmende Beurteilung, ob eine Verzögerungstaktik verfolgt wird, soll damit auch anhand der Reaktion des Verletzers auf das Angebot erfolgen, und beschränkt sich damit nicht nur auf die Erklärung des Lizenzierungswunsches. Dies ist auch sachgerecht. Die Bekundung eines Lizenzierungswunsches oder der Verhandlungsbereitschaft sagt noch nichts darüber aus, ob diese Erklärung ernst gemeint ist. Sie kann vielmehr auch Ausfluss einer Verzögerungstaktik des Patentbenutzers sein (vgl. BGH, WRP 2020, 1194 Rn. 82 - FRAND-Einwand), die zum Schutz des Patentinhabers wie des Wettbewerbs zwischen den Patentbenutzern nicht hingenommen werden darf. Deshalb ist auch nach der Rechtsprechung des Unionsgerichtshofs das weitere Verhalten des Verletzers in den Blick zu nehmen. Eine Verzögerungstaktik kommt danach insbesondere - aber nicht ausschließlich - dann in Betracht, wenn der Patentbenutzer auf die Erklärungen des Patentinhabers nicht in angemessener Frist reagiert, insbesondere wenn er das Angebot des Patentinhabers ablehnt, es gleichwohl jedoch unterlässt (obwohl dies nach den konkreten Umständen des Einzelfalls nach den üblichen Gepflogenheiten und den Geboten von Treu und Glauben erwartet werden kann, vgl. Rn. 71), innerhalb einer kurzen Frist schriftlich ein konkretes Gegenangebot zu machen, das FRAND-Bedingungen entspricht. Dies ist der Grund dafür, dass - wie der Unionsgerichtshof ausdrücklich ausgesprochen hat - der Patentverletzer sich in diesem Fall nicht auf den missbräuchlichen Charakter einer Unterlassungs- oder Rückrufklage berufen kann (EuGH, WRP 2015, 1080 Rn. 66 - Huawei/ZTE) und dass Entsprechendes gilt, wenn der Verletzer trotz Ablehnung seines Gegenangebots das Patent weiter benutzt, es jedoch unterlässt, eine angemessene Sicherheit gemäß den in dem betreffenden Bereich anerkannten Gepflogenheiten zu leisten (EuGH, WRP 2015, 1080 Rn. 67 - Huawei/ZTE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>Unter welchen weiteren vom Unionsgerichtshof nicht genannten Umständen eine fehlende Lizenzbereitschaft des Patentverletzers vorliegt, ist eine Frage des Einzelfalls, deren Beurteilung den nationalen Gerichten obliegt (vgl. EuGH, Urteil vom 20. Mai 2010 - C -160/09, Slg 2010, I-4591 Rn. 24 - Ioannis Katsivardas/Nikolaos Tsitsikas; EuGH, WRP 2015, 1080 Rn. 70 - Huawei/ZTE; Schlussanträge des Generalanwalts Wathelet vom 20. November 2014 - C-170/13, juris Rn. 76; UK Supreme Court, Urteil vom 26. August 2020, [2020] UKSC 37 Rn. 157) und grundsätzlich Aufgabe des Tatrichters ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>ee) Ob nach diesen Maßstäben die Klage des Patentinhabers auf Unterlassung, Rückruf oder Vernichtung missbräuchlich ist, kann für unterschiedliche Zeitpunkte unterschiedlich zu beurteilen sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>(1) Ob die Klageerhebung einen Missbrauch der marktbeherrschenden Stellung des Patentinhabers darstellt, weil sie der Durchsetzung einer Lizenzverweigerung gegenüber einem lizenzwilligen Unternehmen dient, ist nach den tatsächlichen Verhältnissen bei Klageerhebung zu beurteilen. Fehlt es zu diesem Zeitpunkt schon an der Lizenzbereitschaft des Verletzers, kommt es nicht auf die konkreten Bedingungen an, die der Patentinhaber seinerseits zu diesem Zeitpunkt für einen Lizenzvertrag anbietet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>(2) Ist die Klageerhebung nicht missbräuchlich, kann sich gleichwohl die Weiterverfolgung der Klageansprüche und damit auch die Verteidigung eines - wie im Streitfall - bereits erwirkten erstinstanzlichen Urteils gegen die Berufung des Verletzers als missbräuchlich darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Der Anspruch des Nutzers der technischen Lehre der Erfindung gegen den marktbeherrschenden Patentinhaber auf eine Lizenzierung zu FRAND-Bedingungen bleibt jenem - bis zur Grenze der Verwirkung - auch dann erhalten, wenn er ihn zunächst nicht geltend macht, weil er zum Abschluss eines Lizenzvertrags zu FRAND-Bedingungen nicht bereit ist. Er kann ihn daher grundsätzlich auch nachträglich geltend machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Dies bedeutet jedoch nicht notwendigerweise, dass der Verletzer diesen Lizenzierungsanspruch auch dem bereits klageweise geltend gemachten oder bereits erstinstanzlich zuerkannten Unterlassungsanspruch einredeweise entgegenhalten kann. Hierfür ist vielmehr maßgeblich, ob der Patentinhaber im Hinblick auf die nachträglich erklärte Lizenzbereitschaft mit der Weiterverfolgung der Klageansprüche missbräuchlich handelt. Dies bedarf der sorgfältigen Prüfung im Einzelfall. Je länger der Verletzer zunächst mit der Geltendmachung seines Lizenzierungsanspruchs zugewartet hat, desto höhere Anforderungen sind dabei, wie ausgeführt (Rn. 60), an seine Mitwirkung bei der Herbeiführung eines Lizenzvertrages zu FRAND-Bedingungen zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>d) Danach hat das Berufungsgericht rechtsfehlerfrei angenommen, dass der Klägerin nicht deshalb ein Missbrauch ihrer marktbeherrschenden Stellung zur Last fällt, weil sie die Beklagten nicht ausreichend über die Verletzung des Klagepatents und ihre Bereitschaft, dieses zu FRAND-Bedingungen zu lizenzieren, unterrichtet hätte. Wie der Senat in seinem Urteil vom 5. Mai 2020 näher begründet hat, genügten das Schreiben vom 20. Dezember 2012 und zwei weitere Schreiben aus dem Jahr 2013 den an einen Verletzungshinweis zu stellenden Anforderungen (BGH, WRP 2020, 1194 Rn. 86 ff. - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>e) Der revisionsrechtlichen Nachprüfung hält es hingegen nicht stand, dass das Berufungsgericht angenommen hat, die Klägerin missbrauche deshalb ihre marktbeherrschende Stellung, weil sie den Beklagten oder ihren Muttergesellschaften (im Folgenden auch: Haier) trotz vorangegangener Erklärung der Lizenzbereitschaft keinen Lizenzvertrag zu FRAND-Bedingungen angeboten habe, die Haier angebotenen Vertragsbedingungen vielmehr diskriminierend seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>aa) Die Feststellungen des Berufungsgerichts rechtfertigen nicht die Annahme, Haier habe sich zum Abschluss eines Lizenzvertrages zu FRAND-Bedingungen bereit erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>(1) Das Berufungsgericht hat richtig gesehen, dass die E-Mail vom 17. Dezember 2013 (AR 41 S. 3/4), mithin also fast ein Jahr nach dem ersten Verletzungshinweis, schon in zeitlicher Hinsicht den Anforderungen an einen lizenzwilligen Verletzer nicht genügte. Ein Verletzer, der mehrere Monate auf den Verletzungshinweis schweigt, gibt damit regelmäßig zu erkennen, dass ihm an einer Lizenznahme nicht gelegen ist (BGH, WRP 2020, 1194 Rn. 92 - FRAND-Einwand). Ohne Erfolg machen die Beklagten geltend, es fänden sich in der Entscheidung des Unionsgerichtshofs keine klaren Festlegungen dazu, welche zeitlichen Anforderungen an den Austausch der wechselseitigen Erklärungen zu stellen seien. Denn die Reaktion des Verletzers auf das Angebot des Patentinhabers muss mit der nach den in dem betreffenden Bereich anerkannten geschäftlichen Gepflogenheiten gebotenen Sorgfalt und in Übereinstimmung mit den Geboten von Treu und Glauben erfolgen (EuGH, WRP 2015, 1080 Rn. 71 - Huawei/ZTE). Da das Verhalten des Verletzers nicht auf eine Verzögerung der angebotenen Verhandlungen - und damit insbesondere auch deren Beginns - abzielen darf, muss entsprechendes für die Reaktion auf den Verletzungshinweis - und damit die Erklärung der Lizenzbereitschaft durch den Verletzer - gelten (vgl. Gerechtshof Den Haag, GRUR Int. 2020, 174, 176 Rn. 4.14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>(2) Mit Erfolg wendet sich die Revision gegen die Annahme des Berufungsgerichts, die Erklärung vom 17. Dezember 2013 sei gleichwohl inhaltlich eine hinreichende Lizenzbereitschaftserklärung. Wie der Senat bereits in seinem Urteil vom 5. Mai 2020 ausgeführt hat (BGH, WRP 2020, 1194 Rn. 94 ff. - FRAND-Einwand), bringt weder diese noch bringen die weiteren, vom Berufungsgericht festgestellten Äußerungen der Beklagten und ihrer Muttergesellschaften den Willen und die ernsthafte Bereitschaft der Beklagten zum Abschluss eines Lizenzvertrages zum Ausdruck. Der Senat hält hieran nach erneuter Überprüfung fest.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>In dem Schreiben wird lediglich die Hoffnung geäußert, dass man in eine förmliche Verhandlung eintreten werde, und um Information über einen in Aussicht gestellten Rabatt gebeten. Angesichts des monatelangen Schweigens auf die Lizenzbereitschaftserklärung wäre im Falle echter Lizenzwilligkeit jedoch zu erwarten gewesen, dass Haier zu erkennen gab, nunmehr alles tun zu wollen, um die Verhandlungen zu fördern. Dies erforderte, wie ausgeführt (Rn. 60, 83), zusätzliche Anstrengungen, um dazu beizutragen, dass ungeachtet dieses Versäumnisses ein Lizenzvertrag so bald wie möglich abgeschlossen werden konnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Dem weiteren Inhalt des Schreibens lässt sich der Wille Haiers, einen Lizenzierungsanspruch geltend zu machen und die Klärung fairer, angemessener und nicht-diskriminierender Bedingungen einer Lizenzierung voranzutreiben, ebenfalls nicht entnehmen. Das zögerliche - und damit verzögernde - Verhalten wird vielmehr fortgesetzt, indem darauf hingewiesen wird, dass man nicht vor Neujahr die Zeit finden werde, die Sache zu prüfen und eine Entscheidung zu fällen (AR 41 S. 3). Zwar mag im Hinblick auf den anstehenden Jahreswechsel und die angesprochene Befassung des Managements mit den Jahresberichten und den Planungen für das neue Jahr eine erstmalige Prüfung nicht vor dem Jahreswechsel möglich gewesen sein. Eine erstmalige Befassung stand jedoch nicht in Rede. Haier war bereits mit Schreiben vom 20. Dezember 2012, 22. August 2013 und 11. November 2013 über die Lizenzbereitschaft der Klägerin, die Benutzung des Klagepatents und das "Wireless Patent Programm" informiert worden. Angesichts dessen konnte die Klägerin bei der gebotenen objektiven Betrachtung den Hinweis von Haier auf den bevorstehenden Jahreswechsel und die Notwendigkeit der Prüfung nicht im Sinne eines ernsthaften Lizenzierungswunsches und der Bereitschaft verstehen, Verhandlungen über den Inhalt eines Lizenzvertrages zu fördern. Für die Klägerin war vor dem Hintergrund des bisherigen Verhaltens von Haier insbesondere nicht erkennbar, dass eine Prüfung nach dem Jahreswechsel aus anderen Gründen als zur weiteren Verzögerung angekündigt wurde. Nach den unangegriffenen Feststellungen des Berufungsgerichts haben die Beklagten objektive Gründe dafür, dass und warum es Haier nicht möglich oder nicht zumutbar gewesen sein sollte, die Nutzung der Patente des Portfolios durch ihre Mobilfunkgeräte früher zu klären, auch nicht dargelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>(3) Ohne Erfolg machen die Beklagten geltend, im Kontext der übrigen Korrespondenz zwischen den Parteien sei es fernliegend anzunehmen, dass sie oder ihre Muttergesellschaften nicht lizenzwillig gewesen seien. Dass Haier zum damaligen Zeitpunkt bereits Lizenznehmer verschiedener anderer Lizenzpools der Klägerin war, ändert nichts daran, dass die Klägerin nach dem objektiven Empfängerhorizont nicht davon ausgehen konnte, Haier sei bereit, einen die Benutzung der technischen Lehre des Klagepatents rechtfertigenden Lizenzvertrag zu FRAND-Bedingungen abzuschließen. Dass sich das Lizenzprogramm der Klägerin zu diesem Zeitpunkt in der Markteinführungsphase befand, ist für das Verständnis der Erklärungen Haiers nicht relevant.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Dass die Klägerin noch an demselben 17. Dezember 2013 auf die E-Mail des IP-Direktors von Haier unter anderem mitteilte, sie könne diesem weitere Informationen über einen "Frühbucherrabatt" nach Erhalt einer Geheimhaltungsvereinbarung übermitteln (AR 41 S. 2), und dass in der Folge solche Informationen ausgetauscht wurden, rechtfertigt keine andere Sichtweise. Ebenso wenig vermögen das Treffen der Parteien am 17. Februar 2014, in dem Details des Lizenzprogramms besprochen wurden, das jedoch nach den Feststellungen des Berufungsgerichts ergebnislos blieb, und das Lizenzangebot der Klägerin vom 29. August 2014 (AR-B 39) den Schluss zu rechtfertigen, Haier sei klar und unzweideutig zum Abschluss eines Lizenzvertrages zu FRAND-Bedingungen bereit gewesen. Denn auch insoweit lässt sich lediglich eine unspezifizierte Verhandlungsbereitschaft feststellen, die sich im Hinblick auf die Vorgeschichte aus Sicht der Klägerin als Ausdruck einer Verzögerungstaktik von Haier darstellte. In dem Anschreiben zum Angebot vom 29. August 2014 (AR 50) wird von der Klägerin denn auch beklagt, dass seit Februar dieses Jahres kein substantieller Fortschritt festzustellen sei, und das Angebot der Klägerin wurde von Haier nach den Feststellungen des Berufungsgerichts bereits am 1. September 2014 ohne ein Gegenangebot abgelehnt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>(4) Die weiteren Schreiben des IP-Direktors der Muttergesellschaften der Beklagten hat das Berufungsgericht nur unter dem Gesichtspunkt geprüft, ob sie Anlass zu der Annahme gäben, die ursprünglich bestehende Lizenzwilligkeit sei zwischenzeitlich wieder weggefallen. Dem Schreiben vom 16. Januar 2016 (AR 51 S. 8 f.) lässt sich die eindeutige Erklärung zur Bereitschaft, einen Lizenzvertrag zu angemessenen und nicht-diskriminierenden Bedingungen zu schließen, nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>(a) Dies ergibt sich, wie das Berufungsgericht zutreffend ausgeführt hat, bereits daraus, dass es die Erklärung enthielt, Haier sei, wenn deutsche Gerichte endgültig eine Verletzung und den Rechtsbestand des Klagepatents sowie des weiteren, in dem durch das Urteil des Senats vom 5. Mai 2020 entschiedenen Rechtsstreit geltend gemachten europäischen Patents 852 885 festgestellt hätten, bereit, eine FRAND-Lizenz zu nehmen und Lizenzgebühren zu bezahlen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Eine solche bedingte Lizenzbereitschaftserklärung ist unzureichend (BGHZ 180, 312 Rn. 32 - Orange-Book-Standard; BGH, WRP 2020, 1194 Rn. 96 - FRAND-Einwand). Entgegen der Auffassung der Beklagten bedarf es auch insoweit keiner weiteren Klärung durch den Unionsgerichtshof. Der Gerichtshof hat klargestellt, dass es dem Patentverletzer unbenommen bleibt, <em>neben</em> den Verhandlungen über die Erteilung von Lizenzen die Rechtsbeständigkeit der zu lizenzierenden Patente anzufechten oder ihre Benutzung in Abrede zu stellen oder sich dies vorzubehalten (EuGH, WRP 2015, 1080 Rn. 69 - Huawei/ZTE). Dies ändert jedoch nichts daran, dass der Benutzer eines Patents, wenn er nicht ihr Inhaber ist, grundsätzlich vor jeder Benutzung eine Lizenz einholen muss (EuGH, WRP 2015, 1080 Rn. 59 - Huawei/ZTE), und auf eigenes Risiko handelt, wenn er meint, wegen fehlender Rechtsbeständigkeit oder fehlender Verletzung hierauf verzichten zu können. Eine bedingte Lizenzwilligkeit kann nicht zu einem unbedingten Vertragsschluss führen; nur hierzu ist der Patentinhaber jedoch verpflichtet. Damit ist nicht notwendigerweise ausgeschlossen, dass dem Patentverletzer im Lizenzvertrag das Recht vorbehalten bleibt, die Nutzung der Lizenz in Frage zu stellen (vgl. auch Schlussanträge des Generalanwalts Wathelet vom 20. November 2014 - C-170/13 Schlussantrag Nr. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>(b) Die mangelnde Lizenzbereitschaft zeigt sich auch darin, dass das Schreiben vom 16. Januar 2016 die Aufforderung enthält, die Klägerin möge hinsichtlich sämtlicher Patente ihres Portfolios näher spezifizieren, inwiefern diese verletzt sein sollten. Vor dem Hintergrund, dass die Klägerin Haier bereits mit Schreiben vom 20. Dezember 2012 die zum "Wireless Patent Portfolio" gehörenden Patente genannt hatte, Haier damit mehr als drei Jahre Zeit zur Überprüfung der Verletzungsfrage und der Nutzung des Portfolios hatte und die Prüfung unter anderem mit Schreiben vom 17. Dezember 2013 angekündigt worden war, rechtfertigt dies bei Gesamtwürdigung aller Umstände den Schluss, dass Haier - und damit den Beklagten - auch weiterhin nicht an einer Einigung mit der Klägerin gelegen war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Zwar muss der Patentinhaber, wenn er nicht ein einzelnes Patent, sondern ein Portfolio lizenzieren will, dem Patentverletzer hinreichende Informationen zu den zu dem Portfolio gehörenden Patenten zur Verfügung stellen. Diese Verpflichtung geht jedoch nicht über das hinaus, was der Inhaber eines Portfolios standardessentieller Patente in Vertragsverhandlungen über eine Portfoliolizenz redlicherweise darlegen muss, wenn von ihm eine Lizenz begehrt wird, mit der ein Unternehmen die Nutzung derjenigen Schutzrechte, die es für die Implementierung eines Standards benötigt, auf eine sichere rechtliche Grundlage stellen will. Ähnlich wie beim Verletzungshinweis genügt die Darlegung der Art der jeweiligen standardrelevanten Funktionen und ihrer Implementierung. Detaillierter technischer oder rechtlicher Erläuterungen zu den einzelnen Patenten bedarf es nicht; der Nutzer der Erfindung muss auch insoweit nur in die Lage versetzt werden, sich - gegebenenfalls mit sachverständiger Hilfe - ein Bild von der Bedeutung und Reichweite des Patentportfolios in Bezug auf den Standard zu machen. Weiterer Darlegungen bedarf es hierfür schon deshalb nicht, weil der Patentinhaber jedenfalls ohne konkrete Anhaltspunkte hierfür nicht annehmen muss, dass sich der Lizenznehmer bei der künftigen Nutzung der vom Standard erfassten und ermöglichten Funktionalitäten Beschränkungen auferlegen will. Bei insoweit oder in anderer Hinsicht bestehenden Unklarheiten kann von redlichen Verhandlungspartnern erwartet werden, in eine Diskussion einzutreten (vgl. BGH, WRP 2020, 1194 Rn. 98 - FRAND-Einwand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Soweit die Parteien im Termin zur mündlichen Verhandlung vom 17. November 2016 vor dem Oberlandesgericht übereinstimmend erklärt haben, es sei branchenüblich, dass der Patentinhaber zum Einstieg in die Verhandlungen eine Aufstellung der 10 bis 15 wichtigsten Schutzrechte ("Proud List") vorlege, ändert dies nichts an der Obliegenheit des lizenzwilligen Unternehmens, sich selbst ein Bild von der Standardessentialität der Schutzrechte des Portfolios und davon zu machen, in welchem Umfang es für eine rechtmäßige Produktion standardkompatibler Erzeugnisse auf die Nutzung des Portfolios angewiesen ist. Dass die Vorlage einer "Proud List" nicht zwingend ist, ergibt sich schon daraus, dass sie typischerweise nur einen geringen Bruchteil der Patente abdeckt und dem Verletzer deshalb keine umfassende Prüfung des Portfolios ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Ihrer Obliegenheit hatte die Klägerin bereits mit Schreiben vom 20. Dezember 2012 genügt. Diesem hatte sie eine Liste mit etwa 235 zum Patentportfolio gehörenden Patenten beigefügt. Angesichts der Ankündigung Haiers im Schreiben vom 17. Dezember 2013, die Patente zu prüfen, durfte die Klägerin berechtigterweise davon ausgehen, dass Haier eine zumindest überschlägige Prüfung der Patentgegenstände und der Standardessentialität vornahm. Wie sich aus dem Schreiben der Klägerin vom 15. Februar 2013 (AR 41 S. 9) ergibt, war dies der Klägerin auch in einem Telefonat vom selben Tag von dem IP-Direktor Haiers noch einmal mitgeteilt worden. Haier teilte der Klägerin mit E-Mail vom 19. Februar 2013 mit, die Analyse dauere wegen der Vielzahl der Patente an ("Involved large number of patents, still analyzing, thanks"). Dass Haier trotz Einräumung einer ausreichenden Prüfungsfrist durch die Klägerin später auf dem formalen Standpunkt beharrte, die Klägerin sei verpflichtet, "Claim Charts" hinsichtlich aller Patente vorzulegen, sprach insbesondere vor dem Hintergrund, dass Haier auf den Verletzungshinweis und das Angebot einer Portfoliolizenz zunächst gar nicht reagiert hatte, dafür, dass Haier weiterhin weniger an einem erfolgreichen Abschluss der Verhandlungen als an deren weiterer Hinauszögerung gelegen war (BGH, WRP 2020, 1194 Rn. 98 - FRAND-Einwand), zumal die Klägerin Haier mit Schreiben vom 11. Dezember 2015 (AS 9) außerdem auf ihre Internetseiten mit Angaben dazu verwiesen hatte, welche technischen Spezifikationen der dort genannten Standards (unter Angabe der jeweiligen Abschnitte) von den Patentfamilien des Portfolios der Klägerin abgedeckt wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>(5) Soweit das Berufungsgericht dem während des Berufungsverfahrens übermittelten Schreiben vom 23. März 2016 (K 51 S. 2 f.) entnimmt, dass Haier (weiterhin) lizenzwillig gewesen sei, ergibt sich dies nicht aus dem Inhalt des Schreibens. Dort wird zwar die Bereitschaft bekundet, eine FRAND-Lizenz zu nehmen, gleichzeitig wird aber darauf hingewiesen, dass die eigene Position unverändert bleibe ("<em>To make a long story short, we wish to express that our position remains unchanged, namely that we are willing to conclude a FRAND license and we are of the opinion that our offer is FRAND"</em>; Anlage AR 51 S. 3). Dies konnte aus der objektiven Empfängersicht der Klägerin nur dahin verstanden werden, dass es bei der im Schreiben vom 16. Januar 2016 geäußerten unzulässigen Bedingung bleiben sollte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Beklagten widerspricht dieses Verständnis nicht dem Erklärungsgehalt des Schreibens in seiner Gesamtheit. Als Antwort auf ein Schreiben der Klägerin vom 17. März 2016 (AR 51 S. 3 f.) wird diese von Haier gebeten, nicht ständig den Vorwurf der Verhandlungsverzögerung zu wiederholen; die von der Klägerin gelieferten Informationen hinsichtlich der nicht klageweise geltend gemachten Patente des Portfolios reichten nicht aus. Falls die Klägerin Claim Charts vorlege, aus denen zumindest hervorgehe, dass diese Patente standardessentiell sein könnten, könnten sie in Haiers Gegenangebot berücksichtigt werden. Ferner weist Haier darauf hin, dass die Klägerin die Berechnung der von ihr vorgeschlagenen Gebühr nie erläutert habe. Es trifft zwar zu, dass sich das Schreiben nicht ausdrücklich zum Rechtsbestand und der Patentverletzung verhält. Es bietet aber auch keinen Anhalt für die Annahme, Haier halte an der eindeutigen Aussage in dem Schreiben vom 16. Januar 2016 nicht mehr fest; dies gilt umso mehr, als diese noch kurz zuvor mit Schreiben vom 7. März 2016 darauf hingewiesen hatte, Verletzungsfrage und Rechtsbestand des Klagepatents seien noch nicht bestätigt (AR 51 S. 4 ff.). Vielmehr musste die Klägerin dem entnehmen, dass ihr auch zusätzliche Informationen zu den weiteren Patenten des Portfolios, die zu verlangen Haier ohnehin nicht mit einem Informationsdefizit, sondern lediglich mit einer vermeintlichen Verpflichtung der Klägerin nach den Grundsätzen des Urteils Huawei/ZTE begründet hatte, mangels rechtskräftig festgestellter Verletzung und Rechtsbeständigkeit nicht weiterhelfen würden und Haier nicht am Zustandekommen eines Lizenzvertrages, sondern nur daran interessiert war, den vom Landgericht zuerkannten Unterlassungsanspruch mit vermeintlichen Versäumnissen eines marktbeherrschenden Unternehmens beim Angebot einer FRAND-Lizenz zu Fall zu bringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>(6) Auch aus vorangegangenen Lizenzvertragsangeboten der Beklagten zu 1 vom 13. Oktober 2014 (G 4) und beider Beklagter vom 12. August 2015 (G 19, wenige Wochen vor dem Termin zur mündlichen Verhandlung vor dem Landgericht am 29. September 2015) sowie vom 21. September 2015 ergab sich nicht der Wille zum Abschluss eines Lizenzvertrages zu FRAND-Bedingungen. Dabei bedarf es keiner Entscheidung, ob diese Angebote für sich betrachtet FRAND-Kriterien entsprachen. Denn der Wille zu einer ernsthaften Auseinandersetzung mit den Angeboten der Klägerin, insbesondere deren Forderung nach einer Portfoliolizenz, lässt sich diesen Angeboten nicht entnehmen. Lizenzgegenstand sollten lediglich die Patentfamilien sein, zu denen das Klagepatent und das Klagepatent im Parallelverfahren gehören. Im Hinblick darauf, dass Haier seit Zugang des Schreibens der Klägerin vom 20. Dezember 2012 Zeit für die Prüfung des "Wireless Standards" der Klägerin hatte und eine solche Prüfung unter anderem mit Schreiben vom 17. Dezember 2013 angekündigt hatte, durfte die Klägerin zumindest erwarten, dass die Beklagten substantiierte Sachgründe dafür nannten, weshalb sie meinten, einen Anspruch auf die selektive Lizenzierung gerade der beiden Klagepatente, aus denen ihnen die Verurteilung durch das Landgericht drohte, zu haben und diejenige weltweite Portfoliolizenz verweigern zu dürfen, auf die die seit Dezember 2012 andauernden Bemühungen der Klägerin abzielten. Stattdessen stellten sich die Beklagten, wie sich dem Schreiben vom 21. September 2015 (G 15) entnehmen lässt, unter anderem weiterhin auf den formalen Standpunkt, die Klägerin könne nicht die Lizenznahme am gesamten, anscheinend willkürlich zusammengestellten Patentportfolio "Wireless Licensing Program" fordern, ohne vorher für jedes Patent darzulegen, wie und warum es verletzt sein solle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn man in den Vertragsangeboten eine Lizenzbereitschaftserklärung sähe, wäre im Übrigen zu berücksichtigen, dass Haier jedenfalls mit Schreiben vom 16. Januar 2016 die Lizenzbereitschaft nur unter einer Bedingung erklärte und damit eine zwischenzeitlich bekundete Lizenzbereitschaft jedenfalls nicht mehr fortbestanden hätte. Vor diesem Hintergrund ist auch ohne Relevanz, dass zwischen den Parteien allein im Zeitraum November 2015 bis April 2016 eine Vielzahl von weiteren E-Mails ausgetauscht wurden. Denn diese befassen sich überwiegend mit den Forderungen Haiers oder der Beklagten nach einer weiteren Spezifizierung der Patentverletzung durch die Portfoliopatente und der Berechnung der Lizenzgebühr durch die Klägerin. Aus den dargelegten Gründen lässt sich auch diesem Schriftverkehr eine ernsthafte Lizenzbereitschaft Haiers nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>bb) Ein Missbrauch der marktbeherrschenden Stellung der Klägerin durch die Weiterverfolgung der Klageansprüche ergibt sich auch nicht im Hinblick auf das Lizenz(gegen)angebot (G 46), das die Beklagten durch ihre Prozessbevollmächtigten am 20. Januar 2017 - und damit vier Wochen vor dem Schluss der mündlichen Verhandlung im Berufungsverfahren am 16. Februar 2017 - abgegeben haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>(1) Nach den Feststellungen des Berufungsgerichts haben die Beklagten mit diesem Vertragsangebot, das sie mit einer Sicherheitsleistung in Höhe von insgesamt 15.000 € verbunden haben, auf ein Haier mit Schreiben vom 20. Dezember 2016 unterbreitetes konzern- und weltweites Lizenzangebot der Klägerin (AR 63) reagiert, dem ein früheres Angebot vom 9. Dezember 2015 (AR 51 S. 14 f.) vorausgegangen war, das Haier abgelehnt hatte. Das Berufungsgericht hat angenommen, mit dem Gegenangebot vom 20. Januar 2017 hätten die Beklagten ihre Lizenzbereitschaft bekräftigt. Es hat dabei offengelassen, ob das Angebot FRAND-Bedingungen enthielt; hierauf komme es nicht an, da das Angebot der Klägerin diskriminierend gewesen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>(2) Dies hält revisionsrechtlicher Nachprüfung nicht stand. Selbst wenn das Angebot der Klägerin, wie das Berufungsgericht angenommen hat, Haier insbesondere hinsichtlich der Höhe und der Berechnung der Lizenzgebühren ohne sachliche Rechtfertigung schlechter behandelte als eine andere Lizenznehmerin der Klägerin, ergab sich hieraus noch kein Missbrauch ihrer marktbeherrschenden Stellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>(a) Da bis dahin weder die Muttergesellschaften der Beklagten noch diese selbst ihre Bereitschaft bekundet und den unbedingten Willen gezeigt hatten, mit der Klägerin einen Lizenzvertrag zu FRAND-Bedingungen abzuschließen, hat die Klägerin weder durch die Klageerhebung noch durch die Verteidigung des landgerichtlichen Urteils gegen die Berufung der Beklagten ihre marktbeherrschende Stellung missbraucht. Auf die zu diesem Zeitpunkt von ihr angebotenen Lizenzbedingungen kommt es dafür, wie ausgeführt (Rn. 56), nicht an. Erst recht ist der Inhalt späterer Vertragsangebote insoweit unmaßgeblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>(b) Der festgestellte Sachverhalt trägt aber auch nicht die Annahme, nach dem kurz vor Schluss der mündlichen Verhandlung im zweiten Rechtszug unterbreiteten Angebot der Beklagten vom 20. Januar 2017 erweise sich die Weiterverfolgung der vom Landgericht zuerkannten, auf Unterlassung, Vernichtung und Rückruf gerichteten Klageansprüche als missbräuchlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Auch mit diesem Vertragsangebot und den Erklärungen hierzu im Schriftsatz vom gleichen Datum sowie darauf folgenden Schriftsätzen haben die Beklagten keine ernsthafte Lizenzbereitschaft bekundet. Vor dem Hintergrund einer zuvor über mehrere Jahre und auch nach der Verurteilung aus dem Klagepatent durch das Landgericht gezeigten fehlenden Bereitschaft, einen Lizenzvertrag zu FRAND-Bedingungen abzuschließen, hätte es hierzu, wie ausgeführt (Rn. 60, 83), gesteigerter Anstrengungen bedurft, den Geboten von Treu und Glauben entsprechend nach Kräften zum Zustandekommen einer angemessenen Lösung beizutragen. Weder das Vertragsangebot noch seine Erläuterung werden dem gerecht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>(aa) Das - unabhängig von dem von der Klägerin zuletzt vorgeschlagenen Text formulierte - Vertragsangebot der Beklagten sieht als Lizenznehmer nicht die Muttergesellschaften der Beklagten oder den Haier-Konzern, sondern nur die Beklagten selbst vor. Lizenzgebühren sind nach Art. 4.2 nur für von den Lizenznehmern (hergestellte oder) in Staaten, in denen ein lizenziertes Patent erteilt wurde, in den Verkehr gebrachte Erzeugnisse zu zahlen. Als Lizenzschutzrechte werden als NKO-02 bis NKO-45 bezeichnete Patentfamilien aufgeführt. Die Lizenzgebühr soll sich nach der Formel R = A . B . C errechnen, bei der A einer Lizenzrate von 0,012 % für jede Patentfamilie, B der Anzahl der Patentfamilien und C dem Nettoverkaufspreis eines Lizenzprodukts entspricht, wobei nur Patentfamilien berücksichtigt werden, die für die Ausführung der in Art. 1.21 definierten "Wireless-Standards" essentiell sind. Art. 4.4 hält "klarstellend" fest, dass die Lizenznehmer (nur) die Patentfamilien NKO-2, 3 (umfassend das Klagepatent des Verfahrens KZR 36/17), 5 und 30 (umfassend das Klagepatent des vorliegenden Verfahrens) für in diesem Sinne wahrscheinlich essentiell halten ("<em>consider … being likely being essential</em>" [sic!]).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Zur Begründung haben die Beklagten in ihrem Schriftsatz vom 20. Januar 2017 insoweit im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Entgegenzutreten sei der Auffassung des Berufungsgerichts, gegen eine konzern- und weltweite Portfolio-Stücklizenz bestünden grundsätzlich keine Bedenken. Da die Klägerin keine konzernweite Lizenz anbiete, vielmehr einem Konzern angehöre, dessen Gesellschaften verschiedene Lizenzprogramme vermarkteten, könne sie auch keine Lizenzierung durch den Haier-Konzern erwarten. Die Üblichkeit einer konzernweiten Lizenzierung werde bestritten; auf eine solche könne sich die Klägerin jedenfalls nicht berufen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Obwohl die Klägerin Patentschriften und Standarddokumente zu der vorgelegten "Proud List" nicht vorgelegt habe, hätten sie - die Beklagten - sich mit dem Vorbringen auseinandergesetzt, das Portfolio der Klägerin enthalte 33 standardessentielle Patentfamilien. "Claim Charts" seien nur zu den 13 Patentfamilien der "Proud List" der Klägerin (NKO-2, 3, 5, 11, 12, 16, 18, 19, 30, 32, 35, 36 und 44) vorgelegt worden. Von diesen seien die Patentfamilien NKO-3 und 30 (mit dem Klagepatent) im Hinblick auf die Ausführungen des Berufungsgerichts als potentiell standardessentiell eingestuft worden, wobei jeweils Argumente für eine fehlende Standardessentialität vorlägen. Die Prüfung weiterer elf Patentfamilien habe ergeben, dass nur die Familien NKO-2 und 5 möglicherweise ebenfalls standardessentiell seien; dies wird näher ausgeführt. Aus einer von ihnen - den Beklagten - vorgelegten "Humble List" sei zudem ersichtlich, dass die weiteren Patentfamilien NKO-6, 8, 10, 13 und 26 nicht standardessentiell seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Dieses Vorbringen haben die Beklagten mit Schriftsätzen vom 8. Februar 2017 und 9. Februar 2017 vertieft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>(bb) Diese Reaktion und die hierfür gegebene Begründung stellen, wie der Senat nach dem festgestellten Inhalt des Vertragsangebots und in Anbetracht der fehlenden Würdigung durch das Berufungsgericht selbst beurteilen kann, in keiner Beziehung eine Auseinandersetzung mit dem Angebot der Klägerin oder ein eigenes Angebot dar, von dem ein lizenzwilliger Verletzer annehmen durfte, damit einen der Situation und dem Zeitpunkt der Unterbreitung angemessenen Beitrag zur Herbeiführung eines Lizenzvertrages zu FRAND-Bedingungen zu leisten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>i. Dafür genügt bereits, dass ungeachtet des Umstandes, dass die Gespräche spätestens seit Dezember 2013 mit dem Haier-Konzern geführt worden waren und die Klägerin eine weltweite Lizenzierung ihres Patentportfolios anstrebte, Lizenznehmer nur die Beklagten sein sollten. Die Auflistung amerikanischer, chinesischer, japanischer und anderer nicht-europäischer Patente in den Patentfamilien hatte deshalb nur für den fernliegenden Fall Bedeutung, dass die beklagten europäischen Vertriebsgesellschaften des Haier-Konzerns in diese Länder lieferten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin durfte auch aus der objektiven Sicht eines an einem Vertragsschluss interessierten Verhandlungspartners erwarten, dass die Beklagten zumindest Sachgründe dafür anführten, warum sie meinten, eine solche selektive Lizenzierung sei interessengerecht. Es ist nichts dafür festgestellt oder erkennbar, dass die Beklagten ein berechtigtes Interesse an einem Lizenzvertrag haben könnten, der nicht nur, was bei der gegebenen Sachlage bereits fernliegen dürfte, anstelle einer weltweiten Regelung für den Haier-Konzern, um den sich die Klägerin seit Dezember 2012 vergeblich bemühte, nur die europäische Vertriebstätigkeit erfasste, sondern nicht einmal Haier als die für die Lieferung der angegriffenen Erzeugnisse in die Europäische Union jedenfalls mitverantwortliche Herstellerin der von den Beklagten lediglich vertriebenen Erzeugnisse einbezog.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahinstehen, ob den Beklagten als Vertriebsunternehmen neben Haier überhaupt ein eigener Lizenzierungsanspruch zustand. In Anbetracht der fehlenden Lizenzbereitschaft von Haier konnten sie jedenfalls billigerweise keine auf ihre eigene Tätigkeit beschränkte Lizenz beanspruchen, die für die Klägerin mit der nicht fernliegenden Gefahr einer Umgehung der eigenen Vertriebsgesellschaften durch Haier und gegebenenfalls der Notwendigkeit einer kostspieligen Durchsetzung ihrer Schutzrechte "Patent für Patent und Land für Land" (vgl. UK Supreme Court [Lords Reed, Hodge, Lady Black, Lords Briggs, Sales], Urteil vom 26. August 2020, [2020] UKSC 37 Rn. 166) verbunden war und damit nicht nur die von der Klägerin angestrebte weltweite Portfoliolizenz weitgehend verfehlte, sondern die Klägerin nicht einmal zuverlässig vor weiteren Verletzungen des Klagepatents durch Haier schützte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>Die Beklagten konnten auch nicht gleichwohl annehmen, mit der vorgeschlagenen Vertragsgestaltung den angesichts der bis dahin fehlenden Lizenzbereitschaft gebotenen Beitrag zur Herbeiführung eines Lizenzvertrags zu FRAND-Bedingungen zu leisten, den die Klägerin entweder unmittelbar wie angeboten hätte annehmen müssen oder der als Grundlage kurzfristig Erfolg versprechender abschließender Verhandlungen hätte dienen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>Dies wird schon daran deutlich, dass die Beklagten sich zur Begründung für die angestrebte selektive Lizenzierung lediglich darauf berufen haben, die Klägerin lizenziere auch aktiv nicht konzernweit und die Üblichkeit konzernweiter Lizenzierung werde bestritten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>Zu einer Angabe von Gründen bestand aus Sicht der Beklagten umso mehr Anlass, als die Klägerin bereits mit Schreiben vom 24. August 2015 (G 21) - also fast eineinhalb Jahre zuvor - ein (ebenfalls wenige Wochen vor der mündlichen Verhandlung vor dem Landgericht) abgegebenes Lizenzangebot beider Beklagten unter Hinweis auf die Nutzung des Klagepatents durch den gesamten Haier-Konzern u.a. deshalb abgelehnt hatte, weil das Angebot nicht den ganzen Haier-Konzern umfasste, und die Prozessbevollmächtigten der Beklagten nach deren Vortrag in der Berufungsinstanz (Schriftsatz vom 3. Dezember 2015, S. 7, AS 398) dem Mutterkonzern in diesem Zusammenhang empfohlen hatten, das Lizenzvertragsangebot mit zu unterzeichnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>Demgegenüber konnte der Umstand, dass die Klägerin den Beklagten keine anderen Portfolien oder Portfolien verbundener Unternehmen anbot, nach denen die Beklagten aber auch gar nicht verlangt hatten, ersichtlich die Rückkehr zum Verlangen nach einer selektiven Lizenzierung der Beklagten nicht plausibel machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>Auch das Bestreiten der Üblichkeit einer Konzernlizenz kann vor dem Hintergrund, dass der Haier-Konzern, worauf sich die Beklagten selbst berufen haben, mit der Klägerin bereits Konzernlizenzverträge geschlossen hatte (AR 77, 78; BU 9), nicht als konstruktiver Beitrag einer redlichen Verhandlungspartei zu den Lizenzvertragsverhandlungen angesehen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>ii. Dass die Beklagten mit dem Lizenzangebot nicht ihre Bereitschaft zum Ausdruck gebracht haben, den bisherigen Mangel an Lizenzwilligkeit auszugleichen, lässt auch die vorgeschlagene Lizenzgebührenregelung erkennen. Von den in den Angebotstext einbezogenen Patentfamilien erkennt dieser überhaupt nur vier als "wahrscheinlich" standardessentiell und damit als für die Bemessung der Lizenzgebühr relevant an, wobei zugunsten der Beklagten zu unterstellen ist, dass sie sich im Vertragsangebot hinsichtlich dieser Patentfamilien nicht das Recht vorbehalten, die Anwendbarkeit der Lizenzgebührenregelung in Zweifel zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>Insoweit bedarf es keiner Klärung, ob, wie die Klägerin meint und in ihrer Erwiderung auf den Schriftsatz der Beklagten vom 20. Januar 2017 näher ausgeführt hat, auch sämtliche weiteren Patentfamilien standardessentiell sind. Entscheidend ist vielmehr, dass es gerade Sinn und Zweck des Verhandlungsprozesses ist, unter Nutzung des technischen und patentrechtlichen Sachverstands, der den Parteien zur Verfügung steht oder gegebenenfalls hinzugezogen werden kann, zu klären, welche Schutzrechte und Schutzrechtsfamilien in den Vertrag einzubeziehen sachlich geboten oder auch nur - aus Sicht beider Parteien - zweckmäßig ist, weil sie für die Benutzung des Standards essentiell oder jedenfalls eine von mehreren technischen Möglichkeiten für dessen Umsetzung sind. Dies ist im Bereich der Informations- und Telekommunikationstechnik umso bedeutsamer, desto größer die Anzahl der betroffenen Patente ist, da zur Vermeidung unverhältnismäßig hoher Transaktionskosten sowohl bei der Standard-essentialität als auch bei der Validität der Schutzrechte typischerweise Abschätzungen erforderlich sind, die den notwendig verbleibenden Unsicherheiten angemessen Rechnung tragen und daher von vernünftigen Verhandlungspartnern dort vorgenommen werden, wo andernfalls Aufwand und Kosten einer weiteren Klärung in einem offensichtlichen Missverhältnis zum erwarteten Nutzen ständen (vgl. UK Supreme Court, Urteil vom 26. August 2020, [2020] UKSC 37 Rn. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Es kann auch dahinstehen, ob ein Vertragsangebot dieses Inhalts, hätten es die Beklagten oder Haier in einer frühen Phase der Gespräche gemacht, die Bereitschaft zum Abschluss eines Lizenzvertrags zu FRAND-Bedingungen hätte zum Ausdruck bringen können. Denn in eine konkrete Diskussion des sachgerechten Umfangs einer Lizenzierung der von Haier hergestellten Mobilfunkgeräte und der hierfür angemessenen Vergütung mit der Klägerin war Haier nicht eingetreten. Angesichts dessen konnte ein Vorschlag "in letzter Minute", der - ganz entsprechend der vorgeschlagenen Beschränkung der Lizenznahme auf die Beklagten - die nicht diskutierten Fragen nahezu vollständig zu Lasten der Klägerin löste, und der Klägerin allenfalls die künftige Möglichkeit ließ, auf dieser vertraglichen Grundlage gegebenenfalls weitere Ansprüche gerichtlich zu erstreiten, nicht mehr die Bereitschaft der Beklagten zum Ausdruck bringen, den zu diesem Zeitpunkt notwendigen kurzfristigen Abschluss eines Lizenzvertrags zu FRAND-Bedingungen entscheidend fördern zu wollen. Die Klägerin musste ihn vielmehr als den Versuch der Beklagten verstehen, sich mit einem eigenen Lizenzvertragsangebot, dessen Annahme sie nicht ernsthaft erwarten konnten, gegen eine Bestätigung der erstinstanzlichen Verurteilung durch das Berufungsgericht für den Fall abzusichern, dass dieses annehmen würde, aufgrund der Erfüllung der Verpflichtungen der Klägerin seien Haier oder die Beklagten gehalten, der Klägerin ein Gegenangebot zu unterbreiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>III. Die Entscheidung des Berufungsgerichts stellt sich hinsichtlich der Ansprüche auf Unterlassung, Vernichtung und Rückruf auch nicht aus anderen Gründen als richtig dar. Der Durchsetzung dieser Ansprüche steht, wie das Berufungsgericht zu Recht angenommen hat, der Einwand eines "Patenthinterhalts" (patent ambush) nicht entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat zur Begründung seiner Entscheidung insoweit im Wesentlichen ausgeführt: Es könne zugunsten der Beklagten unterstellt werden, dass die frühere Inhaberin das Klagepatent im Standardisierungsprozess hätte offenlegen müssen, dies jedoch vorsätzlich unterlassen habe. Ebenso könne offenbleiben, ob die Klägerin sich dieses Verhalten zurechnen lassen müsste und ob die spätere FRAND-Erklärung der Klägerin den Rechtsverstoß zu heilen vermocht habe. Rechtsfolge eines "Patenthinterhalts" sei lediglich eine Lizenzierungsverpflichtung des Schutzrechtsinhabers. Eine Freilizenz an einem vorsätzlich nicht offengelegten Patent stehe einem Benutzer nur dann zu, wenn im Falle der gebotenen Offenlegung eine Alternative zu der patentierten Lehre des geltend gemachten Patents Eingang in den Standard gefunden hätte. Dies lasse sich nicht mit einer überwiegenden Wahrscheinlichkeit tatrichterlich feststellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>2. Dagegen wendet sich die Anschlussrevision der Beklagten ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>a) Es kann dahinstehen, ob und gegebenenfalls unter welchen weiteren Voraussetzungen es als Missbrauch einer marktbeherrschenden Stellung oder aus sonstigen Gründen von einem Verletzer beanstandet werden kann, wenn ein Unternehmen, welches im Standardisierungsprozess unter Verstoß gegen die Regeln der Standardisierungsorganisation eine für die Anwendung des Standards relevante Patentanmeldung nicht offengelegt hat, ein aus dieser Anmeldung hervorgegangenes oder ihre Priorität in Anspruch nehmendes Patent durchsetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>b) Denn ein Abwehranspruch oder ein Anspruch auf eine Freilizenz, wie ihn die Beklagten in Anspruch nehmen möchten, richtete sich gegen das Unternehmen, dem der "Patenthinterhalt" zur Last fällt und gegebenenfalls dessen Gesamtrechtsnachfolger und mithin im Streitfall nicht gegen die Klägerin. Außerhalb des Anwendungsbereichs des Sukzessionsschutzes nach § 15 Abs. 3 PatG können Einwendungen gegen den früheren Patentinhaber nicht dem neuen Patentinhaber entgegengehalten werden. § 404 BGB findet im Rahmen der Patentübertragung keine Anwendung. Denn das Recht auf das, an dem und aus dem Patent ist ein absolutes Recht, das keinen Schuldner kennt (vgl. RGZ 127, 197, 205; LG Mannheim, Urteil vom 27. Februar 2009 - 7 O 94/08, juris Rn. 106). § 413 BGB sieht zwar die entsprechende Anwendung des § 404 BGB im Falle der Übertragung anderer Rechte vor. § 404 BGB wird aber durch § 15 Abs. 3 PatG verdrängt (Palandt/Grüneberg, BGB, 79. Aufl., § 413 Rn. 2). Da durch die FRAND-Selbstverpflichtungserklärung der Klägerin sichergestellt ist, dass die Geltendmachung des Klagepatents nicht zu einer von der Rechtsordnung nicht mehr hinnehmbaren Wettbewerbsbeschränkung führt, ergeben sich weitergehende Pflichten der Klägerin auch nicht aus ihrer aus der marktbeherrschenden Stellung folgenden besonderen Verantwortung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>c) Darüber hinaus setzt ein "Patenthinterhalt" jedenfalls voraus, dass der Entscheidungsprozess innerhalb des Standardisierungsgremiums durch das Zurückhalten relevanter Informationen verfälscht worden ist (vgl. Europäische Kommission, WuW 2010, 719 Rn. 29). Ist eine für den Standard relevante Patentanmeldung nicht offenbart worden, müssen zumindest Anhaltspunkte dafür vorliegen, dass der Standard anders formuliert worden wäre, wenn der Patentanmelder diese Information nicht zurückgehalten hätte. Solche Anhaltspunkte hat das Berufungsgericht rechtsfehlerfrei verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_133">133</a>
+            </dt>
+            <dd>
+               <p>Ohne Erfolg rügt die Anschlussrevision, das Berufungsgericht habe die Beklagten insoweit zu Unrecht für darlegungsbelastet gehalten. Es besteht kein Anlass, der Klägerin eine sekundäre Darlegungslast aufzuerlegen, weil die vorzutragende Tatsache außerhalb des Wahrnehmungsbereichs der Beklagten liegt. Die Annahme einer sekundären Darlegungslast setzt voraus, dass die nähere Darlegung dem Behauptenden nicht möglich oder nicht zumutbar ist, während der Bestreitende alle wesentlichen Tatsachen kennt und es ihm zumutbar ist, nähere Angaben zu machen (BGH, Urteil vom 4. Dezember 2012 - VI ZR 378/11, DStR 2013, 702 Rn. 16 mwN). In Bezug auf die hier relevanten Vorgänge sind jedoch beide Parteien Außenstehende.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_134">134</a>
+            </dt>
+            <dd>
+               <p>IV. Die Beklagten sind der Klägerin ferner nach § 139 Abs. 2 PatG zum Schadensersatz verpflichtet und haben ihr die erforderlichen, die vom Landgericht zugesprochene Rechnungslegung umfassenden Auskünfte zu erteilen, damit die Klägerin ihren Schadensersatzanspruch beziffern kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_135">135</a>
+            </dt>
+            <dd>
+               <p>1. Ohne Rechtsfehler hat das Berufungsgericht das für den Schadensersatzanspruch erforderliche Verschulden in Form der Fahrlässigkeit auch für den Zeitraum vor dem Zugang des ersten Verletzungshinweises der Klägerin bejaht. Wie der Senat in seinem zwischen den Prozessparteien ergangenen Urteil vom 5. Mai 2020 (KZR 36/17, WRP 2020, 1194 Rn. 109 - FRAND-Einwand) näher ausgeführt hat, ändert die Obliegenheit des Inhabers eines standard-essentiellen Patents, auf die Verletzung hinzuweisen, nichts daran, dass es grundsätzlich Sache des Verletzers ist, sich vor Aufnahme der Herstellung oder des Vertriebs eines technischen Erzeugnisses zu vergewissern, dass hiermit nicht Schutzrechte Dritter verletzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_136">136</a>
+            </dt>
+            <dd>
+               <p>2. Die vom Berufungsgericht angenommene Beschränkung des Schadensersatzanspruchs der Klägerin der Höhe nach auf dasjenige, was sich nach dem Maßstab einer Lizenzanalogie ergäbe, käme nur dann in Betracht, wenn die Beklagten dem Schadensersatzanspruch der Klägerin einen eigenen Schadensersatzanspruch entgegenhalten könnten, der auf die Nichterfüllung eines Anspruchs auf Abschluss eines Lizenzvertrages zu angemessenen und nichtdiskriminierenden Bedingungen gestützt ist. Da ein solcher Anspruch erst entstehen kann, wenn der Verletzer vom Patentinhaber (zunächst durch Bekundung der Lizenzbereitschaft) den Abschluss eines Lizenzvertrages zu FRAND-Bedingungen verlangt und der Patentinhaber hierauf nicht in Einklang mit den ihn wegen seiner marktbeherrschenden Stellung treffenden Verpflichtungen reagiert (BGH, WRP 2020, 1194 Rn. 111 - FRAND-Einwand), scheidet eine Beschränkung des Schadensersatzanspruchs im Streitfall vollständig aus. Die Beklagten haben ihre Bereitschaft, einen Vertrag zu FRAND-Bedingungen abzuschließen, nicht in ausreichendem Maße bekundet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_137">137</a>
+            </dt>
+            <dd>
+               <p>V. Es bedarf keiner Vorlage an den Unionsgerichtshof zur Klärung der von den Beklagten im Schriftsatz vom 26. Oktober 2020 formulierten Fragen. Wie ausgeführt, stehen die Anforderungen des Senats an die Lizenzbereitschaft des Verletzers in Einklang mit Art. 102 AEUV und dessen Auslegung in der Rechtsprechung des Unionsgerichtshofs (Rn. 63 ff., 77 ff., 87). Die in diesem Zusammenhang aufgeworfenen Fragen betreffen die den mitgliedstaatlichen Gerichten obliegende Interessenabwägung im Einzelfall (vgl. nur UK Supreme Court, Urteil vom 26. August 2020, [2020] UKSC 37 Rn. 152).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_138">138</a>
+            </dt>
+            <dd>
+               <p>VI. Das Urteil des Berufungsgerichts ist mithin aufzuheben (§ 562 ZPO). Da weitere Feststellungen weder erforderlich noch zu erwarten sind, kann der Senat in der Sache selbst entscheiden und das landgerichtliche Urteil wiederherstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kirchhoff     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Tolkmitt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Linder     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300532021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

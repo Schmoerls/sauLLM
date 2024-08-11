@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>JURE130011801</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130528</entsch-datum>
+   <aktenzeichen>X ZR 89/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 25. April 2012, Az: 5 Ni 28/10 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Gegenstand des Patents: Abgrenzung einer Erweiterung gegenüber der Anmeldung von einer Änderung der Beschreibung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 25. April 2012 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits werden der Klägerin auferlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left">Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des unter Inanspruchnahme der Priorität einer japanischen Patentanmeldung vom 22. Februar 1994 am 14. Februar 1995 angemeldeten, mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 668 695 (Streitpatents), das ein Verfahren und eine Einrichtung zur Einschränkung der Wiedergabe von Daten zum Gegenstand hat und 17 Ansprüche umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die nebengeordneten Patentansprüche 1, 2 und 4 lauten nach der erteilten Fassung des Streitpatents in der Verfahrenssprache wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">"1. A reproduction protection method comprising</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">attaching medium protection data, which are specific to a data medium, to main data which represent an original signal, and conveying said medium protection data and main data by said data medium;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">supplying said main data and medium protection data via said data medium to a reproduction apparatus; the method being characterised by</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">generating apparatus protection data which are specific to said reproduction apparatus, within said reproduction apparatus;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">determining a protection level by combining the medium protection data and the apparatus protection data; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">controlling said reproduction apparatus to utilize said main data to reproduce said original signal by restricting said reproduction in a predetermined manner with a degree of said restriction being determined in accordance with said protection level, such that said original signal is reproduced in its entirety, partially, or not at all.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. A reproduction apparatus providing reproduction protection, for operating on main data which are conveyed by a data medium and represent an original signal and on medium protection data which are specific to said data medium and are conveyed by said data medium, characterised in that the apparatus comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means for generating apparatus protection data which are specific to said reproduction apparatus;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means for defining a protection level based on said medium protection data and apparatus protection data in combination; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means for executing reproduction of said original signal by utilizing said main data, including means for restricting said reproduction in accordance with said protection level, such that said original signal is reproduced in its entirety, partially, or not at all.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. A reproduction apparatus providing reproduction protection, for operating on main data which are conveyed by a data medium and represent an original signal and on medium protection data which are specific to said data medium and are conveyed by said data medium, the apparatus comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means (10,11) for detecting said medium protection data to obtain a medium protection signal expressing said medium protection level; characterised in that the apparatus further comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means (12) for generating an apparatus protection signal expressing an apparatus protection level which has been assigned to said reproduction apparatus;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means (13) responsive to said medium protection signal and apparatus protection signal for determining a final protection level in accordance with a combination of said medium protection level and apparatus protection level, and generating a final protection level signal expressing said final protection level;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">means (15) for utilizing said main data to execute reproduction of said original signal, including means (14) responsive to said final protection level signal for restricting said reproduction in accordance with said final protection level, such that said original signal is reproduced in its entirety, partially, or not at all."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent insgesamt mit der Nichtigkeitsklage angegriffen und geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der europäischen Patentanmeldung in ihrer ursprünglich eingereichten Fassung hinaus, außerdem sei er gegenüber dem Stand der Technik nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat Klageabweisung beantragt. Hilfsweise hat sie das Streitpatent mit den in der mündlichen Verhandlung vor dem Patentgericht überreichten Hilfsanträgen I und II verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Gegen dieses Urteil richtet sich die Berufung der Beklagten, mit der sie ihren Klageabweisungsantrag weiterverfolgt. Hilfsweise verteidigt sie das Streitpatent mit den Hilfsanträgen I und II aus dem ersten Rechtszug. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Datenwiedergabeschutzverfahren und eine Datenwiedergabeeinrichtung zum Implementieren eines solchen Schutzverfahrens, wodurch die Wiedergabe eines durch digitale Daten repräsentierten Signals selektiv eingeschränkt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Im Stand der Technik gab es nach der Darstellung in der Streitpatentschrift verschiedene Wiedergabeschutzverfahren. Im Bereich der Übertragung von Fernsehen sei es bekannt, Video- oder Tondaten zu verwürfeln und einen Code einzufügen, mittels dessen die Daten in Abschnitte, die frei wiedergegeben werden können, und solche einzuteilen, für deren kenntliche Wiedergabe eine Gebühr gezahlt werden müsse. Im Bereich aufgezeichneter Medien sei ein serielles Kopierverwaltungssystem bekannt, das für das DAT-System (digital audio tape) verwendbar sei. Dabei weise das Abspiel-DAT-Signal eine Zahl auf, die einen Kopier-Sperrcode enthalte, was sicherstelle, dass der Benutzer nur eine Kopie eines vorher aufgezeichneten digitalen Tonbands herstellen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung des Streitpatents besteht der Nachteil der im Stand der Technik bekannten Lösungen darin, dass sie nur zwei Steuerungsmöglichkeiten bieten: Die Wiedergabe der Daten sei entweder möglich oder nicht möglich. Dagegen sei es bislang weder möglich, die Wiedergabe einem variierenden Grad der Einschränkung zu unterwerfen, noch einen unterschiedlichen Grad der Beschränkung der Wiedergabe entsprechend einer Einstellung der Wiedergabeeinrichtung vorzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Das technische Problem besteht mithin darin, ein Verfahren und eine Vorrichtung zur Verfügung zu stellen, die die genannten Beschränkungen des Standes der Technik überwinden und eine erhöhte Flexibilität gewährleisten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieser Aufgabe schlägt Anspruch 1 in der erteilten Fassung nach der deutschen Übersetzung ein Wiedergabeschutzverfahren vor, das folgende Schritte umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. Es werden verbunden</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.1 ein ursprüngliches Signal repräsentierende Hauptdaten mit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.2 für ein Datenmedium spezifischen Medienschutzdaten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. Hauptdaten und Medienschutzdaten werden durch das Datenmedium übertragen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. Hauptdaten und Medienschutzdaten werden über das Datenmedium an eine Wiedergabeeinrichtung übermittelt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. innerhalb der Wiedergabeeinrichtung werden für die Wiedergabeeinrichtung spezifische Einrichtungsschutzdaten erzeugt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. das Schutzniveau wird durch Kombinieren der Medienschutzdaten und der Einrichtungsschutzdaten bestimmt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6. die Wiedergabeeinrichtung wird so gesteuert, dass die Hauptdaten zur Wiedergabe des ursprünglichen Signals genutzt werden;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7. dabei wird die Wiedergabe in einer vorbestimmten Art und Weise eingeschränkt, wobei der Grad der Einschränkung dem Schutzniveau entsprechend bestimmt wird, so dass das ursprüngliche Signal entweder in seiner Gesamtheit, teilweise oder überhaupt nicht wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Nach Anspruch 4 soll eine Vorrichtung geschützt werden, die folgende Merkmale aufweist:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. Wiedergabeeinrichtung zum Arbeiten mit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.1 durch ein Datenmedium übertragenen und ein ursprüngliches Signal repräsentierenden Hauptdaten und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">1.2 für das Datenmedium spezifischen Medienschutzdaten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. Hauptdaten und Medienschutzdaten werden durch das Datenmedium übertragen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. die Wiedergabeeinrichtung weist Mittel (10,11) zum Detektieren der Medienschutzdaten auf, um ein das Medienschutzniveau ausdrückendes Medienschutzsignal zu erhalten;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. die Wiedergabeeinrichtung weist ein Mittel (12) zum Erzeugen eines Einrichtungsschutzsignals auf, das ein der Wiedergabeeinrichtung zugewiesenes Einrichtungsschutzniveau ausdrückt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. die Wiedergabeeinrichtung weist ein auf das Medienschutzsignal und das Einrichtungsschutzsignal ansprechendes Mittel (13) auf, das</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">5.1 der Bestimmung eines endgültigen Schutzniveaus gemäß einer Kombination des Medienschutzniveaus und des Einrichtungsschutzniveaus dient und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:72pt">5.2 ein das endgültige Schutzniveau ausdrückendes Signal erzeugt;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6. die Wiedergabeeinrichtung weist ein Mittel (15) zum Nutzen der Hauptdaten zur Wiedergabe des ursprünglichen Signals auf;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">7. die Wiedergabeeinrichtung weist ein auf das Signal für das endgültige Schutzniveau ansprechendes Mittel (14) auf, wodurch die Wiedergabe gemäß dem endgültigen Schutzniveau eingeschränkt wird, so dass das ursprüngliche Signal entweder in seiner Gesamtheit, teilweise oder überhaupt nicht wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Erfindung ermöglicht es, ein endgültiges Schutzniveau einzurichten, um die Wiedergabe von aufgezeichneten oder übertragenen Signalen, etwa Video- oder Audiosignalen, zu steuern. Das endgültige Schutzniveau wird durch die Kombination von Informationen bestimmt, die durch Medienschutzdaten und durch Einrichtungsschutzdaten bereitgestellt werden. Auf diese Weise kann eine graduelle Einschränkung der Wiedergabe erzielt werden, so dass die Möglichkeit besteht, das ursprüngliche Signal entweder uneingeschränkt, eingeschränkt oder überhaupt nicht wiederzugeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>3. Aus der Abgrenzung gegenüber dem Stand der Technik, der als eine "Alles-oder-Nichts-Methode" verwendend bezeichnet wird, ergibt sich, dass das Verfahren auch eine qualitativ beschränkte Wiedergabe ermöglicht, also nicht nur die Möglichkeit bietet, für bestimmte Zeitausschnitte die Wiedergabe gänzlich zu unterbinden (quantitative Beschränkung), sondern auch eine Wiedergabe, bei der der Nutzer beispielsweise das Bild nur verschwommen sieht. Sofern eine quantitative Beschränkung bewirkt wird, etwa in dem Sinne, dass einzelne Bilder ("frames") nicht gezeigt werden, soll dies lückenlos überbrückt werden, in dem sich an das letzte nicht zensierte Bild sogleich das nächste nicht zensierte Bild anschließt, also weder ein leerer Bildschirm gezeigt noch auf eine andere Quelle umgeschaltet wird. Die jeweils gewünschte Wirkung wird dabei in der Weise erzielt, dass das ursprüngliche Signal entweder in seiner Gesamtheit oder nur teilweise oder aber überhaupt nicht wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht, dessen Urteil in der Sammlung der Entscheidungen des Bundespatentgerichts veröffentlicht ist (BPatGE 53, 40), hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>1. Das Streitpatent sei unzulässig erweitert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Eine unzulässige Erweiterung sei allerdings - entgegen der Auffassung der Klägerin - nicht darin zu sehen, dass Anspruch 1 in der erteilten Fassung die zusätzlichen Angaben "by restricting said reproduction in a predetermined manner with a degree of said restriction being determined" sowie "such that said original signal is reproduced in its entirety, partially, or not at all" enthalte. Denn eine zeitliche oder quantitative Beschränkung des Videosignals sei in den ursprünglichen Unterlagen ausreichend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>b) Das Streitpatent sei aber dadurch unzulässig erweitert, dass der in Spalte 6, Zeile 32 der Anmeldung gebrauchte Begriff "essential" in der Streitpatentschrift (Sp. 7, Z. 7) durch den Begriff "important" ersetzt worden sei. Der Begriff "essential" sei nach seinem Kontext dahin auszulegen, dass er "zwingend" oder "unverzichtbar" bedeute. Werde stattdessen der Begriff "important" verwendet, werde das als unverzichtbar offenbarte Merkmal auf eine zweckmäßige Ausgestaltung reduziert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>2. Die im Patentanspruch 1 unter Schutz gestellte Lehre gelte zudem als nicht mehr neu gegenüber dem Wiedergabeschutzverfahren, das der amerikanischen Patentschrift 5 195 135 (K12 = D5) entnommen werden könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Figur 2 der D5 sei zu entnehmen, dass auf der Senderseite Audio-Video-Signale 36 und Klassifizierungsdaten 18 in einer Codiereinrichtung zusammengeführt würden. Damit sei ein Verfahren offenbart, bei dem Hauptdaten und Medienschutzdaten zunächst als eigenständige Datensätze vorlägen und erst für die Übertragung miteinander verknüpft würden. Die Klassifizierungsdaten seien so strukturiert, dass sie Klassifizierungsniveaus A bis D aufwiesen, aber auch einen Videobild-Bereichscode für jeden Zensurgegenstand. Das so codierte Signal werde an die Wiedergabeeinrichtung übertragen. Dort würden die Signale decodiert und so die Medienschutzdaten (Klassifizierungsdaten) zurückgewonnen. Die Wiedergabeeinrichtung ermögliche die Einstellung unterschiedlicher Schwellwerte eines Klassifizierungsmodus für jeden zu beschränkenden Gegenstand durch den Nutzer. Damit würden nach dem Sprachgebrauch des Streitpatents Einrichtungsschutzdaten durch die Wiedergabeeinrichtung bereitgestellt. Die Medienschutzdaten und die Einrichtungsschutzdaten würden einem Zensurentscheidungsmittel zugeleitet, dass sie miteinander vergleiche. Ergebe dieser Vergleich, dass das Zensurniveau der Medienschutzdaten größer oder gleich dem Schwellwertniveau der Einrichtungsschutzdaten sei, werde ein Sperrsignal generiert, das die durch das Zensurniveau bestimmte Video-Bild-Region umfasse. Entsprechend werde auch bei übertragenen Audiodaten verfahren. Das Sperrsignal bewirke, dass die von der gewünschten Zensur betroffenen Bildbereiche unkenntlich gemacht würden. Da nach der D5 die für die geschilderten Verfahrensschritte erforderlichen Mittel vorgehalten würden, seien auch die Vorrichtungen nach den Patentansprüchen 2 und 4 neuheitsschädlich getroffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>3. Die in der mündlichen Verhandlung eingereichten Hilfsanträge seien gemäß § 83 Abs. 4 PatG als verspätet zurückzuweisen. Zu dem nach dieser Vorschrift potentiell einem Ausschluss unterliegenden Vortrag gehöre auch eine Verteidigung des Beklagten mit einer geänderten Fassung des Patents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht stand. Der Gegenstand des Streitpatents ist weder gegenüber den der Anmeldung zugrunde liegenden Unterlagen unzulässig erweitert noch durch den vom Patentgericht angeführten Stand der Technik neuheitsschädlich getroffen oder nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>1. Die erteilte Fassung des Streitpatents enthält keine unzulässige Erweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat eine unzulässige Erweiterung darin gesehen, dass die Wendung "it is an essential feature of the present invention that the medium protection data can assign the medium protection level in units of frames of the video signal" in der Anmeldung (Sp. 6, Z. 32) in der Patentschrift durch die Formulierung "it is an important feature…" (Sp. 7, Z. 7) ersetzt wurde. Es hat jedoch nicht berücksichtigt, dass insoweit keine Änderung des Patentanspruchs, sondern lediglich eine Änderung der Beschreibung erfolgt ist. Eine unzulässige Erweiterung könnte das nur begründen, wenn die Berücksichtigung dieser Passage bei der Auslegung des Patentanspruchs des erteilten Patents zu einem veränderten Verständnis der darin verwendeten Begriffe und damit des geschützten Gegenstands führte, das über dasjenige hinausgeht, was der Anmeldung in ihrer Gesamtheit als zur Erfindung gehörend zu entnehmen ist (BGH, Urteil vom 22. Dezember 2009 - X ZR 28/06, GRUR 2010, 513 Rn. 50 - Hubgliedertor II). Dafür ist weder dem angefochtenen Urteil noch dem Klagevorbringen etwas zu entnehmen, die sich mit dem Gesamtinhalt der Anmeldung gar nicht befassen, und hierfür ist auch nichts ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>In der entsprechenden Passage der Beschreibung, die der Erläuterung einer bevorzugten Ausführungsform dient, geht es darum, dass nach der Erfindung eine sehr präzise Einflussnahme auf die Wiedergabe des ursprünglichen Signals möglich ist, insbesondere die Beschränkung der Wiedergabe individueller Rahmen (d.h. einzelner Bilder des Videofilms) oder sogar die Beschränkung der Wiedergabe innerhalb eines individuellen Rahmens (d.h. nur eines Bereichs des einzelnen Bildes des Videofilms). Patentanspruch 1 ist jedoch erheblich allgemeiner gefasst und sagt nur, dass die Wiedergabeeinrichtung so gesteuert werden kann, dass die Wiedergabe des ursprünglichen Signals in einer vorbestimmten Art und Weise eingeschränkt wird. Auch wenn in der Beschreibung des Streitpatents weiterhin von einem "essential feature" die Rede wäre, könnte dies nicht zu einer Auslegung des Patentanspruchs 1 (oder der nebengeordneten Ansprüche 2 und 4) dahin führen, dass die Möglichkeit der Beschränkung auf einzelne Videobilder oder Bereiche einzelner Videobilder bestehen muss. Dem stünde sowohl der Wortlaut des Patentanspruchs als auch, wie die Beklagte zu Recht geltend macht, der Umstand entgegen, dass Patentanspruch 1 nicht nur die Verarbeitung von Video-, sondern auch von Audiosignalen umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>2. Ebenso wenig kann die Annahme des Patentgerichts Bestand haben, der Gegenstand des Patentanspruchs 1 werde durch die Entgegenhaltung D5 vorweggenommen. Diese Druckschrift offenbart zwar die Merkmale 1 bis 6, doch kann ihr kein Verfahren entnommen werden, das auch Merkmal 7 aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Die Entgegenhaltung offenbart ein Verfahren und eine Vorrichtung zur automatischen Beschränkung der Wiedergabe von Video- und/oder Audiosignalen. In den Erläuterungen zur Figur 2 wird dargestellt, dass es ein Audio-Video-Programmsignal ("audio-video programming signal", Bezugszeichen 36) gibt, dem unter Einsatz von Codierungsmitteln ("encoder means" 38) Klassifizierungsdaten für die Steuerung der Beschränkung der Wiedergabe ("censorship classification data" 18) im Hinblick auf vier Bereiche A bis D hinzugefügt werden. Das Programmsignal (36) entspricht den Hauptdaten, die ein ursprüngliches Signal im Sinne von Merkmal 1.2 repräsentieren, während die Klassifizierungsdaten (18) den Medienschutzdaten im Sinne von Merkmal 1.1 entsprechen. Durch das Codierungsmittel (38) werden Hauptdaten und Medienschutzdaten miteinander verbunden. Das so codierte Signal ("encoded signal" 20) wird, wie aus Figur 1 der D5 ersichtlich, an eine Wiedergabevorrichtung übermittelt, die in der Lage ist, die Medienschutzdaten zu decodieren, so dass die Klassifizierungsdaten verarbeitet werden können. Damit sind Merkmale 2 und 3 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Wiedergabeeinrichtung umfasst Auswahlmittel ("selector means" 12), mit denen der Nutzer jeweils einen Schwellwert zwischen 0 und 3 für die vier Bereiche A bis D bestimmen kann. Nach dem Sprachgebrauch des Streitpatents handelt es sich dabei um Einrichtungsschutzdaten, die innerhalb der Wiedergabeeinrichtung erzeugt werden und für diese spezifisch sind. Damit ist Merkmal 4 beschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Die Wiedergabeeinrichtung umfasst ferner ein Zensurentscheidungsmittel ("censor decision means" 16), das die Medienschutzdaten und die Einrichtungsschutzdaten abgleicht. Ergibt der Vergleich, dass das Klassifizierungsniveau der Medienschutzdaten größer oder gleich dem Schwellwertniveau der Einrichtungsschutzdaten ist, generiert das Zensurentscheidungsmittel ein Sperrsignal, das den entsprechenden Bereich des Video- und/oder Audio-Signals beeinflusst. Danach wird das Schutzniveau durch eine Kombination von Medienschutzdaten und Einrichtungsschutzdaten bestimmt, so dass auch Merkmal 5 offenbart ist. Die Wiedergabe des ursprünglichen Signals wird entsprechend dem Schutzniveau durch Sperrsignale ("gate signals" 24 und 26) gesteuert, wobei diese Sperrsignale ein Verschleiern des Audio- und/oder Video-Signals bewirken, das durch entsprechende Vorrichtungen der Wiedergabeeinrichtung ("audio obscuring means", "video obscuring means", Bezugszeichen 32 und 34) erzeugt wird (Merkmal 6). Auf diese Weise wird die Wiedergabe des ursprünglichen Signals in einer durch das Schutzniveau bestimmten Art und Weise beeinflusst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>D5 offenbart allerdings nur, dass die Wiedergabe des ursprünglichen Signals uneingeschränkt erfolgt. Ihr lässt sich dagegen nicht entnehmen, dass die Wiedergabe in einer Weise gesteuert wird, dass das ursprüngliche Signal nur teilweise oder überhaupt nicht wiedergegeben wird. In der Entgegenhaltung wird wiederholt betont, dass die Wiedergabe auf zurückhaltende, unaufdringliche Weise beeinflusst werden soll, indem etwa das ursprüngliche Audio- und/oder Video-Signal nur verwischt oder verschleiert, nicht aber entfernt oder ersetzt wird (siehe etwa Sp. 4, Z. 2 bis 8). Diese Form der Beschränkung wird einer aus dem Stand der Technik bekannten weitergehenden Einschränkung gegenübergestellt, bei der dem Nutzer unter Umständen ein leerer Bildschirm oder völlige Stille präsentiert werde, was als unangenehm empfunden werden könne. Demgegenüber wird die vorgeschlagene Verfahrensweise als vorzugswürdig, weil unaufdringlich ("unobtrusive to the viewer", Sp. 2, Z. 24) empfohlen. Auch die Ausführungsbeispiele beziehen sich durchweg auf eine Beeinflussung der Wiedergabe durch Veränderung des Signals, etwa durch ein Verschachteln oder Vertauschen von Videoraster-Abtastzeilen ("In my preferred embodiment, the obscuration is performed by interleaving or cutting and pasting of the video raster scan line", Sp. 4, Z. 13ff.), nicht aber dadurch, dass das Signal nur teilweise wiedergegeben wird. Danach ist Merkmal 7 von Patentanspruch 1, wonach das ursprüngliche Signal in seiner Gesamtheit, teilweise oder überhaupt nicht wiedergegeben wird, nicht offenbart. Da sich dieses Merkmal entsprechend in den Patentansprüchen 2 und 4 findet, sind auch deren Gegenstände durch die D5 nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>3. Auch der übrige in das Verfahren eingeführte Stand der Technik nimmt dem Gegenstand des Streitpatents nicht die Neuheit. Keine der Entgegenhaltungen offenbart die Möglichkeit einer Beschränkung der Wiedergabe dadurch, dass das ursprüngliche Signal nur teilweise wiedergegeben wird. Die dort geschilderten Methoden und Vorrichtungen sehen jeweils vor, dass bei einem Eingreifen der Zensur die Wiedergabe des ursprünglichen Signals gänzlich unterbleibt, so dass der Nutzer entweder nichts sieht oder hört oder aber Signale aus einer anderen Quelle wiedergegeben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>4. Die Entscheidung des Patentgerichts erweist sich auch nicht aus anderen Gründen als zutreffend. Der Gegenstand des Streitpatents ist durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Nach den nicht angegriffenen Feststellungen des Patentgerichts ist als Fachmann ein Diplom-Ingenieur der elektrischen Nachrichtentechnik mit fachlicher Ausrichtung auf die Rundfunk- und Fernsehtechnik anzusehen, der über besondere Kenntnisse auf dem Gebiet der Verschlüsselung von Video- und Fernsehsignalen verfügt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Einem solchen Fachmann waren Wiedergabeschutzverfahren und -vorrichtungen bekannt, bei denen das ursprüngliche Signal entweder uneingeschränkt oder aber - bei Eingreifen des Schutzes - überhaupt nicht wiedergegeben wird. So zeigt etwa die in der Beschreibung des Streitpatents erwähnte amerikanische Patentschrift 4 930 158 (D2) ein Wiedergabegerät für Videobänder, bei welchem durch einen mit dem Videosignal übermittelten Klassifizierungscode unter bestimmten Voraussetzungen die Wiedergabe des Videosignals gestoppt werden kann. Ferner war dem Fachmann aus der in der D5 erwähnten amerikanischen Patentschrift 4 930 160 eine Vorrichtung zur Wiedergabe von Fernseh- oder Videosignalen bekannt, bei der ein Klassifizierungscode unter bestimmten Voraussetzungen bewirkt, dass das Gerät die Wiedergabe des bisherigen Programms beendet und statt dessen ein Signal aus einer alternativen Quelle wiedergibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dem Fachmann war ferner aus der D5 das oben geschilderte Verfahren bekannt, bei dem über eine Kombination von Klassifizierungsdaten, die einerseits mit dem Programmsignal übermittelt und andererseits von der Wiedergabevorrichtung erzeugt werden, die Wiedergabe des ursprünglichen Video- oder Audiosignals in einer Weise beeinflusst werden kann, die von einer unveränderten Wiedergabe bis zu einer weitgehenden Verschleierung sowohl des Bildes und/oder des Tons reicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Aus der Sicht des Fachmanns, der sich am Prioritätstag des Streitpatents vor die Aufgabe gestellt sah, ein Wiedergabeschutzverfahren zu verbessern, mag es nahegelegen haben, das in D5 vorgeschlagene Verfahren dahin zu modifizieren, dass nicht nur eine weitgehende Verschleierung des ursprünglichen Signals erfolgen kann, sondern auch die Möglichkeit besteht, dieses Signal überhaupt nicht wiederzugeben und damit die Variabilität des Verfahrens zu erhöhen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Der Stand der Technik gab dem Fachmann aber keine Anregung, ein Verfahren oder eine Vorrichtung vorzusehen, wonach die Wiedergabe von Bild und/oder Ton auch in der Weise gesteuert werden kann, dass das ursprüngliche Signal teilweise wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die internationale Patentanmeldung WO 90/13118 (D1), das amerikanische Patent 4 930 158 (D2) und das europäische Patent 112 575 (D3) sehen jeweils nur die Möglichkeit vor, das ursprüngliche Signal in seiner Gesamtheit oder - bei Eingreifen des Wiedergabeschutzes - überhaupt nicht wiederzugeben. Nach der in der internationalen Patentanmeldung WO 95/12275 (D6) vorgeschlagenen Lösung gibt es mindestens zwei Versionen des gleichen Programmmaterials, von denen jeweils eine in ihrer Gesamtheit wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die in D5 vorgeschlagene Vorrichtung ermöglicht es, die Wiedergabe des ursprünglichen Signals durch Sperrsignale, die entsprechend dem jeweiligen Schutzniveau generiert werden, so zu beeinflussen, dass der Zuschauer das Bild ganz oder teilweise nur verschwommen sieht oder den Ton nur gedämpft hört. Dies wird jedoch, wie die Beklagte in der mündlichen Verhandlung vor dem Senat dargelegt hat, nicht dadurch bewirkt, dass das ursprüngliche Signal nur teilweise wiedergegeben wird. Das ursprüngliche Signal wird statt dessen in seiner Gesamtheit wiedergegeben und der Effekt einer Verschleierung ("obscuration") dadurch erzielt, dass etwa Videoraster-Abtastzeilen verschachtelt oder ausgeschnitten und an anderer Stelle eingefügt werden (Sp. 4, Z. 13-15) oder andere reversible Algorithmusmittel eingesetzt werden (Sp. 5, Z. 56ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>D5 gab daher keine Anregung, die angestrebte Wirkung dadurch zu erzielen, dass das ursprüngliche Signal nur teilweise wiedergegeben wird, vielmehr wird die dort beschriebene Vorgehensweise der Verschleierung als vorzugswürdige Alternative zu einer "deletion or substitution" dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Aus fachlicher Sicht gab mithin der Stand der Technik am Prioritätstag keine Veranlassung, die Wiedergabe von Bild oder Ton dadurch zu beeinflussen, dass das Signal für das endgültige Schutzniveau steuert, ob das ursprüngliche Signal entweder in seiner Gesamtheit, teilweise oder überhaupt nicht wiedergegeben wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Für die Patentansprüche 2 und 4, die Vorrichtungen zur Umsetzung des in Patentanspruch 1 vorgeschlagenen Verfahrens betreffen, gilt nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>5. Ist der Gegenstand des Streitpatents mithin patentfähig, hat das Rechtsmittel der Beklagten Erfolg, ohne dass es noch darauf ankäme, ob das Patentgericht die Hilfsanträge der Beklagten zu Recht nach § 83 Abs. 4 Satz 1 PatG zurückgewiesen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left">Meier-Beck                             Mühlens                                Gröning</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left">                      Hoffmann                             Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left"/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-JURE130011801&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

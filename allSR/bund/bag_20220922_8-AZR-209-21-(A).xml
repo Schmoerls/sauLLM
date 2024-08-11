@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KARE600065383</doknr>
+   <ecli>ECLI:DE:BAG:2022:220922.B.8AZR209.21A.0</ecli>
+   <gertyp>BAG</gertyp>
+   <gerort/>
+   <spruchkoerper>8. Senat</spruchkoerper>
+   <entsch-datum>20220922</entsch-datum>
+   <aktenzeichen>8 AZR 209/21 (A)</aktenzeichen>
+   <doktyp>EuGH-Vorlage</doktyp>
+   <norm>Art 88 Abs 1 EUV 2016/679, Art 267 AEUV, Art 88 Abs 2 EUV 2016/679, Art 5 EUV 2016/679, Art 6 Abs 1 EUV 2016/679, Art 9 Abs 1 EUV 2016/679, Art 9 Abs 2 EUV 2016/679, § 26 Abs 4 BDSG 2018, Art 82 Abs 1 EUV 2016/679, Art 4 Nr 2 EUV 2016/679, Art 4 Nr 7 EUV 2016/679, Art 4 Nr 1 EUV 2016/679, § 26 Abs 1 BDSG 2018, Art 28 EUGrdRCh, § 74 Abs 2 S 1 BetrVG</norm>
+   <vorinstanz>vorgehend ArbG Ulm, 14. November 2019, Az: 5 Ca 18/18, Urteil<br/>vorgehend Landesarbeitsgericht Baden-Württemberg, 25. Februar 2021, Az: 17 Sa 37/20, Urteil<br/>nachgehend BAG, 25. April 2024, Az: 8 AZR 209/21 (B), Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Datenverarbeitung im Arbeitsverhältnis</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I. Der Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV um Vorabentscheidung über die Fragen ersucht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ist eine nach Art. 88 Abs. 1 der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung; im Folgenden DSGVO) erlassene nationale Rechtsvorschrift - wie etwa § 26 Abs. 4 Bundesdatenschutzgesetz, im Folgenden BDSG -, in der bestimmt ist, dass die Verarbeitung personenbezogener Daten - einschließlich besonderer Kategorien personenbezogener Daten - von Beschäftigten für Zwecke des Beschäftigungsverhältnisses auf der Grundlage von Kollektivvereinbarungen unter Beachtung von Art. 88 Abs. 2 DSGVO zulässig ist, dahin auszulegen, dass stets auch die sonstigen Vorgaben der DSGVO - wie etwa Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO - einzuhalten sind?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Sofern die Frage zu 1. bejaht wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Darf eine nach Art. 88 Abs. 1 DSGVO erlassene nationale Rechtsvorschrift - wie § 26 Abs. 4 BDSG - dahin ausgelegt werden, dass den Parteien einer Kollektivvereinbarung (hier den Parteien einer Betriebsvereinbarung) bei der Beurteilung der Erforderlichkeit der Datenverarbeitung im Sinne der Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO ein Spielraum zusteht, der gerichtlich nur eingeschränkt überprüfbar ist?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Sofern die Frage zu 2. bejaht wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Worauf darf in einem solchen Fall die gerichtliche Kontrolle beschränkt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Ist Art. 82 Abs. 1 DSGVO dahin auszulegen, dass Personen ein Recht auf Ersatz des immateriellen Schadens bereits dann haben, wenn ihre personenbezogenen Daten entgegen den Vorgaben der DSGVO verarbeitet wurden oder setzt der Anspruch auf Ersatz des immateriellen Schadens darüber hinaus voraus, dass die betroffene Person einen von ihr erlittenen immateriellen Schaden - von einigem Gewicht - darlegt?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>5.Hat Art. 82 Abs. 1 DSGVO spezial- bzw. generalpräventiven Charakter und muss dies bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO zulasten des Verantwortlichen bzw. Auftragsverarbeiters berücksichtigt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>6. Kommt es bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO auf den Grad des Verschuldens des Verantwortlichen bzw. Auftragsverarbeiters an? Insbesondere, darf ein nicht vorliegendes oder geringes Verschulden auf Seiten des Verantwortlichen bzw. Auftragsverarbeiters zu dessen Gunsten berücksichtigt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II. Das Revisionsverfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen ausgesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">I. Der Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV um Vorabentscheidung über die Fragen ersucht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. Ist eine nach Art. 88 Abs. 1 der Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung; im Folgenden DSGVO) erlassene nationale Rechtsvorschrift - wie etwa § 26 Abs. 4 Bundesdatenschutzgesetz, im Folgenden BDSG -, in der bestimmt ist, dass die Verarbeitung personenbezogener Daten - einschließlich besonderer Kategorien personenbezogener Daten - von Beschäftigten für Zwecke des Beschäftigungsverhältnisses auf der Grundlage von Kollektivvereinbarungen unter Beachtung von Art. 88 Abs. 2 DSGVO zulässig ist, dahin auszulegen, dass stets auch die sonstigen Vorgaben der DSGVO - wie etwa Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO - einzuhalten sind?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. Sofern die Frage zu 1. bejaht wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">Darf eine nach Art. 88 Abs. 1 DSGVO erlassene nationale Rechtsvorschrift - wie § 26 Abs. 4 BDSG - dahin ausgelegt werden, dass den Parteien einer Kollektivvereinbarung (hier den Parteien einer Betriebsvereinbarung) bei der Beurteilung der Erforderlichkeit der Datenverarbeitung im Sinne der Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO ein Spielraum zusteht, der gerichtlich nur eingeschränkt überprüfbar ist?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. Sofern die Frage zu 2. bejaht wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">Worauf darf in einem solchen Fall die gerichtliche Kontrolle beschränkt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. Ist Art. 82 Abs. 1 DSGVO dahin auszulegen, dass Personen ein Recht auf Ersatz des immateriellen Schadens bereits dann haben, wenn ihre personenbezogenen Daten entgegen den Vorgaben der DSGVO verarbeitet wurden oder setzt der Anspruch auf Ersatz des immateriellen Schadens darüber hinaus voraus, dass die betroffene Person einen von ihr erlittenen immateriellen Schaden - von einigem Gewicht - darlegt?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. Hat Art. 82 Abs. 1 DSGVO spezial- bzw. generalpräventiven Charakter und muss dies bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO zulasten des Verantwortlichen bzw. Auftragsverarbeiters berücksichtigt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">6. Kommt es bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO auf den Grad des Verschuldens des Verantwortlichen bzw. Auftragsverarbeiters an? Insbesondere, darf ein nicht vorliegendes oder geringes Verschulden auf Seiten des Verantwortlichen bzw. Auftragsverarbeiters zu dessen Gunsten berücksichtigt werden?</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">II. Das Revisionsverfahren wird bis zur Entscheidung des Gerichtshofs der Europäischen Union über das Vorabentscheidungsersuchen ausgesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Vorabentscheidungsersuchen betrifft die Auslegung von Art. 88 Abs. 1 und Art. 82 Abs. 1 DSGVO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Vorabentscheidungsersuchen ergeht im Rahmen eines Rechtsstreits zwischen dem Kläger und seiner Arbeitgeberin, einem Unternehmen der Zahnmedizintechnik (im Folgenden Beklagte). Die Parteien streiten darüber, ob die Beklagte verpflichtet ist, dem Kläger wegen Verletzung datenschutzrechtlicher Bestimmungen im Arbeitsverhältnis immateriellen Schadenersatz nach Art. 82 DSGVO zu zahlen. Insofern macht der Kläger zuletzt noch ausschließlich geltend, die Beklagte habe entgegen den Vorgaben der DSGVO im Zeitraum vom 25. Mai 2018 (erster Tag der Geltung der DSGVO) bis zum Ende des ersten Quartals 2019 im cloudbasierten Personal-Informationsmanagementsystem „Workday“ (im Folgenden Workday) unrechtmäßig Daten des Klägers verarbeitet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>A. Das Ausgangsverfahren</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Der Kläger steht seit 1984 im Arbeitsverhältnis mit der Beklagten beziehungsweise (im Folgenden bzw.) ihrer Rechtsvorgängerin. Zuletzt wurde er als Organisationsprogrammierer beschäftigt. Der Kläger ist der Vorsitzende des bei der Beklagten nach dem Betriebsverfassungsgesetz (im Folgenden BetrVG) gebildeten Betriebsrats.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte gehörte ab ungefähr dem Jahre 2006 zum D-Konzern mit Hauptsitz der D Corporation (Konzernmutter, im Folgenden D) in Washington D.C. Zuletzt war die Beklagte nicht mehr im D-Konzern. Nachdem sie zwischenzeitlich zu einem anderen US-Konzern gehörte, ist sie seit dem 1. Januar 2022 Teil eines finnischen Konzerns.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte verarbeitet personenbezogene Daten ihrer Beschäftigten - insbesondere, aber nicht ausschließlich - zu Abrechnungszwecken mittels SAP-Software (im Folgenden SAP). Hierzu wurden zwischen der Beklagten und dem bei ihr gebildeten Betriebsrat mehrere Betriebsvereinbarungen abgeschlossen. Gegenstand von Betriebsvereinbarungen im Sinne des (im Folgenden iSd.) BetrVG können Regelungen betrieblicher und betriebsverfassungsrechtlicher Fragen sowie formeller und materieller Arbeitsbedingungen durch die Betriebsparteien, das heißt (im Folgenden dh.) durch Arbeitgeber und Betriebsrat sein. In SAP speichert die Beklagte unter anderem (im Folgenden ua.) Gehaltsinformationen, die private Wohnanschrift, das Geburtsdatum, das Alter, den Familienstand, die Sozialversicherungsnummer sowie die Steuer-Identifikationsnummer (im Folgenden Steuer-ID) ihrer Beschäftigten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Im Jahr 2017 gab es im D-Konzern Planungen, konzernweit Workday als einheitliches Personal-Informationsmanagementsystem einzuführen. Zwischen dem 24. April und dem 18. Mai 2017 lud die Beklagte personenbezogene Daten des Klägers aus SAP auf eine Sharepoint-Seite der D Corporation mit Server-Standort in den USA zur Befüllung der Software Workday. Neben Informationen wie dem Namen, Vornamen, dienstlicher Telefonnummer und dienstlicher E-Mail-Adresse gehörten zu den übermittelten Daten ua. auch Gehaltsinformationen (Jahres- und Monatsgehalt, der Umfang leistungsabhängiger Vergütung), die private Wohnanschrift, Geburtsdatum, Alter, Familienstand, die Sozialversicherungsnummer und die Steuer-ID des Klägers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Unter dem 3. Juli 2017 unterzeichneten die Beklagte und der bei ihr gebildete Betriebsrat eine „Duldungs-Betriebsvereinbarung über die Einführung von Workday“ inklusive Anlagen (im Folgenden BV Duldung). Darin heißt es auszugsweise:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>§ 2 Vorläufiger Betrieb</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Diese Vereinbarung regelt den vorläufigen Betrieb des Cloudbasierten Personal-Informationsmanagementsystems Workday.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Dieses ist in Anlagen 1 bis 2 abschließend dokumentiert.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Der BR stimmt der vorläufigen Inbetriebnahme des vorstehend beschriebenen Systems für die Zeit während der Dauer dieser Betriebsvereinbarung bis zum Abschluss einer dieses System abschließend regelnden Betriebsvereinbarung, längstens aber bis zum 31. August 2017 zu.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Vor Einführung des Systems als Produktivsystem muss eine Betriebsvereinbarung abgeschlossen werden, die die Einführung und die Anwendung von Workday spezifisch regelt, welche diese Vereinbarung ersetzt.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Vor Abschluss der zu erstellenden Betriebsvereinbarung dürfen Reporte jeglicher Art nur zu Testzwecken erstellt werden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Während des Testzeitraumes darf Workday nicht für HR Standardprozesse wie Leistungsbewertung, Einstellungen, Kündigungen, Entlohnung etc. verwendet werden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>§ 3 Aus- und Verwertungsverbot</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Während der in dieser Betriebsvereinbarung geregelten vorläufigen Nutzung wird mit dem vorstehend beschriebenen System eine Leistungs- und/oder Verhaltenskontrolle einzelner Beschäftigter nicht durchgeführt.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Die - auch mittelbare - Verwendung von Daten, die aufgrund des Betriebs des Systems anfallen, zu arbeitsrechtlichen Zwecken und insbesondere die Verwendung dieser Daten im arbeitsgerichtlichen Urteilsverfahren ist unzulässig, sofern nicht der Betriebsrat dem zuvor zugestimmt hat.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Vereinbart war in der BV Duldung weiter, dass jede Seite die Einigungsstelle anrufen konnte, soweit die Parteien nicht bis zum 31. August 2017 eine neue Betriebsvereinbarung zu Workday als Produktivsystem abschließen sollten. Die Einigungsstelle nach § 76 BetrVG ist eine zur Beilegung von Meinungsverschiedenheiten gebildete Stelle, bestehend aus einer gleichen Anzahl von Beisitzern, die vom Arbeitgeber und vom Betriebsrat bestellt werden, und einem unparteiischen Vorsitzenden, auf dessen Person sich beide Seiten einigen müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>In der Anlage 2 zur BV Duldung wurden die zur Befüllung der Software Workday aus SAP zu übermittelnden Daten als „Datensatz für Duldungs-BV“ tabellarisch mit ihrer englischen und deutschen Bezeichnung wie folgt aufgelistet: D Personalnummer, Nachname, Vorname, Telefonnummer, Eintrittsdatum, Konzern Eintrittsdatum, Arbeitsort, Firma (K/Dental), Arbeitsort, Firma, geschäftliche Telefonnummer und geschäftliche E-Mail-Adresse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Betriebsparteien verlängerten den Geltungs- und Nachwirkungszeitraum der BV Duldung mehrfach, zuletzt bis zum 31. Januar 2019.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Am 24. Mai 2018 - dem Tag vor dem in Art. 99 Abs. 2 DSGVO festgelegten Geltungszeitpunkt der DSGVO - unterzeichneten die Beklagte bzw. deren Rechtsvorgängerin und die D Corporation als Konzernmutter ein Vertragswerk zum Datenschutz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Seit April 2017 forderte der Kläger die Beklagte mehrfach auf - zunächst gestützt auf das BDSG und nach dem 25. Mai 2018 gestützt auf die DSGVO -, ihm über sämtliche über seine Person in Workday gespeicherten Daten Auskunft zu geben. In der folgenden Zeit erteilte die Beklagte nach und nach Auskünfte. Auch andere Beschäftigte machten Auskunftsverlangen geltend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Unter dem 23. Januar 2019 einigten sich die Betriebsparteien im Rahmen eines Einigungsstellenverfahrens nach § 76 BetrVG <em>(Rn. 8)</em> auf die „Rahmenbetriebsvereinbarung zum Betrieb von IT Systemen“ und auf die „Betriebsvereinbarung zur Einführung und Verwendung von Workday“, welche der Kläger für den Betriebsrat und der Geschäftsführer der Beklagten für diese unterzeichneten. Beide Betriebsvereinbarungen traten mit Unterzeichnung in Kraft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Mit seiner am 22. Januar 2018 bei dem örtlichen Arbeitsgericht eingegangenen Klage verfolgte der Kläger zunächst sein Auskunftsverlangen weiter und beantragte daneben stufenweise die Abgabe einer eidesstattlichen Versicherung, die Löschung von Daten und die Verurteilung der Beklagten zur Zahlung von Schadenersatz. Nachdem der Kläger im Laufe des gerichtlichen Verfahrens nach und nach Auskünfte von der Beklagten über die über seine Person in Workday gespeicherten Daten erhalten hatte, nahm er die zunächst mit seiner Klage verfolgten Anträge teilweise zurück. Vor dem Senat ist in der Revisionsinstanz ausschließlich noch der Antrag auf immateriellen Schadenersatz nach Art. 82 DSGVO wegen Verletzung datenschutzrechtlicher Bestimmungen im Arbeitsverhältnis anhängig, dessen Größenordnung der Kläger zuletzt mit 3.000,00 Euro angegeben hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Kläger hat die Auffassung vertreten, ihm stehe nach Art. 82 Abs. 1 DSGVO immaterieller Schadenersatz zu. Der Beklagten sei es nach der DSGVO und den einschlägigen Bestimmungen des BDSG nicht erlaubt gewesen, im Zeitraum vom 25. Mai 2018 bis zum Ende des ersten Quartals 2019 im cloudbasierten Personal-Informationsmanagementsystem Workday Daten des Klägers zu verarbeiten. In diesem Zeitraum sei die im Arbeitsverhältnis der Parteien erforderliche Datenverarbeitung mit SAP erfolgt, weshalb es für das Arbeitsverhältnis unter keinem Gesichtspunkt erforderlich gewesen sei, seine Daten in demselben Zeitraum in ein weiteres System - Workday - zu übertragen und dort zu verarbeiten. Die erfolgte Datenverarbeitung sei auch nicht zu Testzwecken für den späteren Betrieb von Workday als konzernweit einheitliches Personal-Informationsmanagementsystem erforderlich gewesen. Vielmehr hätten für die Testphase sogenannte „Dummy“-Versuchsdaten ausgereicht; es sei nicht notwendig gewesen, Echtdaten zu verwenden und diese in Workday innerhalb des Konzerns zugänglich zu machen. Soweit das Gericht - entgegen seiner, des Klägers Auffassung - Echtdaten als erforderlich ansehe oder die BV Duldung als Rechtsgrundlage für eine Datenverarbeitung unter Verwendung von Echtdaten ausreiche, sei jedenfalls die in der Anlage 2 zur BV Duldung enthaltene Erlaubnis zur Datenverarbeitung überschritten worden. Die Beklagte habe nämlich über die in der BV Duldung und deren Anlagen genannten Datenkategorien hinausgehend auch weitere Daten - wie seine privaten Kontaktdaten, Vertrags- und Vergütungsdetails, seine Sozialversicherungsnummer, seine Steuer-ID, seine Staatsangehörigkeit und seinen Familienstand übermittelt. Hierzu sei sie weder nach der BV Duldung noch ansonsten berechtigt gewesen. Soweit der Kläger zunächst auch beanstandet hatte, es sei überdies nicht rechtmäßig gewesen, seine genannten personenbezogenen Daten auf eine Sharepoint-Seite der Konzernmutter mit Server-Standort in den USA zu übertragen und er insoweit Verstöße gegen Art. 28 und Art. 44 ff. DSGVO behauptet hatte, hat er sich darauf im Revisionsverfahren ausdrücklich nicht mehr berufen. Im Hinblick auf die Darlegungs- und Beweislast geht der Kläger davon aus, diese liege weitgehend bei der Beklagten. Es sei ihre Sache vorzutragen und zu beweisen, dass ihr Vorgehen im Einzelnen mit der DSGVO übereinstimme. Die Verstöße der Beklagten gegen die DSGVO seien auch kausal für den ihm entstandenen immateriellen Schaden. Bereits die in Workday nicht erforderliche Datenverarbeitung, jedenfalls aber der unrechtmäßige Abfluss seiner Daten und deren Zugänglichkeit innerhalb des Konzerns, auch für unbefugte Dritte, führe zu einem immateriellen Schaden. Es bestehe zudem die Gefahr der missbräuchlichen Nutzung seiner Daten durch Dritte, die ihn als Betroffenen in eine Situation der Unsicherheit versetze. Er könne als Arbeitnehmer nicht wissen, ob und gegebenenfalls (im Folgenden ggf.) auf welche Weise und zu welchen Zwecken seine von der Beklagten innerhalb des Konzerns übermittelten Daten von der Beklagten und sogar von Dritten benutzt würden bzw. bereits benutzt worden seien. So sei es angesichts der Möglichkeiten und Zwecke von Workday denkbar, dass seine personenbezogenen Daten zu einem Profiling, dh. zu einer Profilerstellung und/oder -nutzung verwendet würden. Da er als Beschäftigter keinen Einblick in solche internen Umstände der Datenverarbeitung bei der Beklagten habe und demnach dazu nicht substantiiert vortragen könne, müsse auch aus diesem Grunde der Arbeitgeber, also die Beklagte, weitgehend die Darlegungs- und Beweislast tragen. Im Übrigen müsse schon allein die Möglichkeit des Missbrauchs der Daten zur Begründung eines immateriellen Schadens ausreichen. Dass die Datenübermittlung zur Befüllung von Workday bereits vor dem in Art. 99 Abs. 2 DSGVO festgelegten Geltungszeitpunkt der DSGVO erfolgt sei, sei unerheblich, da es sich bei den genannten Umständen um einen Dauertatbestand handele. Insofern sei auch zu berücksichtigen, dass es entgegen den Vorgaben der DSGVO und des BDSG kein Löschkonzept für die in Workday zu (angeblichen) Testzwecken verarbeiteten Daten gegeben habe. Infolge der Verstöße gegen die DSGVO und das BDSG und der damit verbundenen Missbrauchsgefahren sei sein Persönlichkeitsrecht in schwerwiegender Art und Weise verletzt worden. Er müsse einen wirksamen Schadenersatz erhalten, wofür auch der Erwägungsgrund 146 der DSGVO spreche. Erschwerend komme hinzu, dass die Beklagte bzw. ihre Rechtsvorgängerin die Verstöße vorsätzlich, unter bewusster Umgehung von datenschutz- und betriebsverfassungsrechtlichen Vorgaben begangen habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat die Auffassung vertreten, nicht gegen datenschutzrechtliche Bestimmungen verstoßen zu haben. Die Rechtmäßigkeit der Datenverarbeitung ergebe sich aus Art. 6 Abs. 1 DSGVO, § 26 Abs. 1 BDSG bzw. § 26 Abs. 4 BDSG in Verbindung mit der BV Duldung. Dem Kläger stehe kein Schadenersatzanspruch nach Art. 82 DSGVO zu. Er habe weder den haftungsbegründenden noch den haftungsausfüllenden Tatbestand dargetan. Der Kläger, den die Darlegungs- und Beweislast treffe, habe weder einen immateriellen Schaden hinreichend dargetan noch die Kausalität bezogen auf etwaige Verstöße der Beklagten. Soweit der Kläger Anhaltspunkte für einen konkreten Verstoß vortrage, treffe sie, die Beklagte, allenfalls eine sekundäre Behauptungslast. Für einen Schaden reiche nicht schon jede empfundene Unannehmlichkeit oder jeder Bagatellverstoß ohne ernsthafte Beeinträchtigung aus. Statt eines Schadens trage der Kläger lediglich vor, er sehe sich in der Gefahr, einen Schaden zu erleiden. Dies sei kein ersatzfähiger Schaden im Sinne von (im Folgenden iSv.) Art. 82 DSGVO. Dafür sei vielmehr eine schwerwiegende Verletzung des allgemeinen Persönlichkeitsrechts, die nicht auf andere Weise ausgeglichen werde, Voraussetzung. Eine solche lege der Kläger nicht dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>B. Rechtlicher Rahmen</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die DSGVO lautet auszugsweise:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">„<em>Artikel 2</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Sachlicher Anwendungsbereich</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Diese Verordnung gilt für die ganz oder teilweise automatisierte Verarbeitung personenbezogener Daten sowie für die nichtautomatisierte Verarbeitung personenbezogener Daten, die in einem Dateisystem gespeichert sind oder gespeichert werden sollen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">…       </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <em>Artikel 4</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Begriffsbestimmungen</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:justify">Im Sinne dieser Verordnung bezeichnet der Ausdruck:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">1.    </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">‚personenbezogene Daten‘ alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden ‚betroffene Person‘) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">2.    </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">‚Verarbeitung‘ jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">7.    </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">‚Verantwortlicher‘ die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet; sind die Zwecke und Mittel dieser Verarbeitung durch das Unionsrecht oder das Recht der Mitgliedstaaten vorgegeben, so kann der Verantwortliche beziehungsweise können die bestimmten Kriterien seiner Benennung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten vorgesehen werden;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <em>Artikel 5</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Grundsätze für die Verarbeitung personenbezogener Daten</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Personenbezogene Daten müssen</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">a)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">auf rechtmäßige Weise, nach Treu und Glauben und in einer für die betroffene Person nachvollziehbaren Weise verarbeitet werden (‚Rechtmäßigkeit, Verarbeitung nach Treu und Glauben, Transparenz‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">b)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">für festgelegte, eindeutige und legitime Zwecke erhoben werden und dürfen nicht in einer mit diesen Zwecken nicht zu vereinbarenden Weise weiterverarbeitet werden; eine Weiterverarbeitung für im öffentlichen Interesse liegende Archivzwecke, für wissenschaftliche oder historische Forschungszwecke oder für statistische Zwecke gilt gemäß Artikel 89 Absatz 1 nicht als unvereinbar mit den ursprünglichen Zwecken (‚Zweckbindung‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">c)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">dem Zweck angemessen und erheblich sowie auf das für die Zwecke der Verarbeitung notwendige Maß beschränkt sein (‚Datenminimierung‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">d)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">sachlich richtig und erforderlichenfalls auf dem neuesten Stand sein; es sind alle angemessenen Maßnahmen zu treffen, damit personenbezogene Daten, die im Hinblick auf die Zwecke ihrer Verarbeitung unrichtig sind, unverzüglich gelöscht oder berichtigt werden (‚Richtigkeit‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">e)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">in einer Form gespeichert werden, die die Identifizierung der betroffenen Personen nur so lange ermöglicht, wie es für die Zwecke, für die sie verarbeitet werden, erforderlich ist; personenbezogene Daten dürfen länger gespeichert werden, soweit die personenbezogenen Daten vorbehaltlich der Durchführung geeigneter technischer und organisatorischer Maßnahmen, die von dieser Verordnung zum Schutz der Rechte und Freiheiten der betroffenen Person gefordert werden, ausschließlich für im öffentlichen Interesse liegende Archivzwecke oder für wissenschaftliche und historische Forschungszwecke oder für statistische Zwecke gemäß Artikel 89 Absatz 1 verarbeitet werden (‚Speicherbegrenzung‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">f)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">in einer Weise verarbeitet werden, die eine angemessene Sicherheit der personenbezogenen Daten gewährleistet, einschließlich Schutz vor unbefugter oder unrechtmäßiger Verarbeitung und vor unbeabsichtigtem Verlust, unbeabsichtigter Zerstörung oder unbeabsichtigter Schädigung durch geeignete technische und organisatorische Maßnahmen (‚Integrität und Vertraulichkeit‘);</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Der Verantwortliche ist für die Einhaltung des Absatzes 1 verantwortlich und muss dessen Einhaltung nachweisen können (‚Rechenschaftspflicht‘).</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <em>Artikel 6</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Rechtmäßigkeit der Verarbeitung</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Die Verarbeitung ist nur rechtmäßig, wenn mindestens eine der nachstehenden Bedingungen erfüllt ist:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Die betroffene Person hat ihre Einwilligung zu der Verarbeitung der sie betreffenden personenbezogenen Daten für einen oder mehrere bestimmte Zwecke gegeben;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">b)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">c)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">d)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">e)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Verarbeitung ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die dem Verantwortlichen übertragen wurde;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">f)    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen, insbesondere dann, wenn es sich bei der betroffenen Person um ein Kind handelt.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:justify">Unterabsatz 1 Buchstabe f gilt nicht für die von Behörden in Erfüllung ihrer Aufgaben vorgenommene Verarbeitung.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">…       </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <em>Artikel 82</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Haftung und Recht auf Schadenersatz</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Jede Person, der wegen eines Verstoßes gegen diese Verordnung ein materieller oder immaterieller Schaden entstanden ist, hat Anspruch auf Schadenersatz gegen den Verantwortlichen oder gegen den Auftragsverarbeiter.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Jeder an einer Verarbeitung beteiligte Verantwortliche haftet für den Schaden, der durch eine nicht dieser Verordnung entsprechende Verarbeitung verursacht wurde. Ein Auftragsverarbeiter …</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(3)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Der Verantwortliche oder der Auftragsverarbeiter wird von der Haftung gemäß Absatz 2 befreit, wenn er nachweist, dass er in keinerlei Hinsicht für den Umstand, durch den der Schaden eingetreten ist, verantwortlich ist.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">…       </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <em>Artikel 88</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="3" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <strong>Datenverarbeitung im Beschäftigungskontext</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Die Mitgliedstaaten können durch Rechtsvorschriften oder durch Kollektivvereinbarungen spezifischere Vorschriften zur Gewährleistung des Schutzes der Rechte und Freiheiten hinsichtlich der Verarbeitung personenbezogener Beschäftigtendaten im Beschäftigungskontext, insbesondere für Zwecke der Einstellung, der Erfüllung des Arbeitsvertrags einschließlich der Erfüllung von durch Rechtsvorschriften oder durch Kollektivvereinbarungen festgelegten Pflichten, des Managements, der Planung und der Organisation der Arbeit, der Gleichheit und Diversität am Arbeitsplatz, der Gesundheit und Sicherheit am Arbeitsplatz, des Schutzes des Eigentums der Arbeitgeber oder der Kunden sowie für Zwecke der Inanspruchnahme der mit der Beschäftigung zusammenhängenden individuellen oder kollektiven Rechte und Leistungen und für Zwecke der Beendigung des Beschäftigungsverhältnisses vorsehen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2)     </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">Diese Vorschriften umfassen geeignete und besondere Maßnahmen zur Wahrung der menschlichen Würde, der berechtigten Interessen und der Grundrechte der betroffenen Person, insbesondere im Hinblick auf die Transparenz der Verarbeitung, die Übermittlung personenbezogener Daten innerhalb einer Unternehmensgruppe oder einer Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, und die Überwachungssysteme am Arbeitsplatz.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Das BDSG lautet auszugsweise:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>§ 26 Datenverarbeitung für Zwecke des Beschäftigungsverhältnisses</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1)     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Personenbezogene Daten von Beschäftigten dürfen für Zwecke des Beschäftigungsverhältnisses verarbeitet werden, wenn dies für die Entscheidung über die Begründung eines Beschäftigungsverhältnisses oder nach Begründung des Beschäftigungsverhältnisses für dessen Durchführung oder Beendigung oder zur Ausübung oder Erfüllung der sich aus einem Gesetz oder einem Tarifvertrag, einer Betriebs- oder Dienstvereinbarung (Kollektivvereinbarung) ergebenden Rechte und Pflichten der Interessenvertretung der Beschäftigten erforderlich ist. Zur Aufdeckung von Straftaten dürfen personenbezogene Daten von Beschäftigten nur dann verarbeitet werden, wenn zu dokumentierende tatsächliche Anhaltspunkte den Verdacht begründen, dass die betroffene Person im Beschäftigungsverhältnis eine Straftat begangen hat, die Verarbeitung zur Aufdeckung erforderlich ist und das schutzwürdige Interesse der oder des Beschäftigten an dem Ausschluss der Verarbeitung nicht überwiegt, insbesondere Art und Ausmaß im Hinblick auf den Anlass nicht unverhältnismäßig sind.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2)     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Erfolgt die Verarbeitung personenbezogener Daten von Beschäftigten auf der Grundlage einer Einwilligung, so sind für die Beurteilung der Freiwilligkeit der Einwilligung insbesondere die im Beschäftigungsverhältnis bestehende Abhängigkeit der beschäftigten Person sowie die Umstände, unter denen die Einwilligung erteilt worden ist, zu berücksichtigen. Freiwilligkeit kann insbesondere vorliegen, wenn für die beschäftigte Person ein rechtlicher oder wirtschaftlicher Vorteil erreicht wird oder Arbeitgeber und beschäftigte Person gleichgelagerte Interessen verfolgen. …</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(4)     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">Die Verarbeitung personenbezogener Daten, einschließlich besonderer Kategorien personenbezogener Daten von Beschäftigten für Zwecke des Beschäftigungsverhältnisses, ist auf der Grundlage von Kollektivvereinbarungen zulässig. Dabei haben die Verhandlungspartner Artikel 88 Absatz 2 der Verordnung (EU) 2016/679 zu beachten.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>C. Zu den Vorlagefragen</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>1. Vorbemerkungen</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte verarbeitet <em>(Art. 4 Nr. 2 DSGVO) </em>als Verantwortliche <em>(Art. 4 Nr. 7 DSGVO)</em> personenbezogene Daten <em>(Art. 4 Nr. 1 DSGVO)</em> des Klägers im Beschäftigungsverhältnis. Eine solche Verarbeitung fällt in den sachlichen Anwendungsbereich der DSGVO, wie er in ihrem Art. 2 Abs. 1 definiert ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Im Hinblick auf die im Ausgangsverfahren streitgegenständliche Datenverarbeitung im Zeitraum vom 25. Mai 2018 bis zum Ende des ersten Quartals 2019 geht der Senat davon aus, dass es nichts an der diesbezüglichen „Verantwortlichkeit“ der Beklagten iSv. Art. 4 Nr. 7 DSGVO ändert, dass die Handlung des Hochladens bzw. des Übertragens der streitgegenständlichen personenbezogenen Daten des Klägers aus SAP zur Befüllung der Software Workday auf eine Sharepoint-Seite der Konzernmutter vor der am 25. Mai 2018 beginnenden Geltung der DSGVO, nämlich im Zeitraum vom 24. April bis zum 18. Mai 2017 erfolgte. Auch danach war und ist die Beklagte weiterhin Verantwortliche iSv. Art. 4 Nr. 7 DSGVO. Hierfür ist es nämlich nicht erforderlich, dass der Verantwortliche allein über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, dies kann nach Art. 4 Nr. 7 DSGVO auch gemeinsam mit anderen erfolgen. An der Verantwortlichkeit der Beklagten iSv. Art. 4 Nr. 7 DSGVO würde sich nach Auffassung des Senats auch dann nichts ändern, wenn diese sich im fortgesetzten Verfahren darauf berufen sollte, im Konzern nicht, oder nur bedingt mitentscheidungsbefugt über den Fortgang der Nutzung von Daten in Workday gewesen zu sein. Die Beklagte hat sich nämlich ab dem Zeitpunkt der Geltung der DSGVO nicht um eine Rückübertragung oder Löschung der Daten des Klägers in Workday bemüht, eine solche hat auch nicht stattgefunden. Vielmehr hat die Beklagte - im Gegenteil - durch die mehrfache Verlängerung des Geltungs- und Nachwirkungszeitraums der BV Duldung, zuletzt bis zum 31. Januar 2019, zu erkennen gegeben, dass sie fortgesetzt aktiv als Verantwortliche iSv. Art. 4 Nr. 7 DSGVO gehandelt hat, um den vorläufigen Betrieb von Workday - ua. mit den streitgegenständlichen personenbezogenen Daten des Klägers - durch den Abschluss weiterer Betriebsvereinbarungen sicherzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Soweit der Senat diesen und den folgenden Ausführungen eine bestimmte Auslegung der Bestimmungen der DSGVO zugrunde legt, wird der Gerichtshof der Europäischen Union (im Folgenden Gerichtshof), sofern diese Auslegung unzutreffend sein sollte, über die Beantwortung der Vorlagefragen hinaus um einen entsprechenden Hinweis gebeten. Insoweit sind auch fallbezogene Hinweise zur Datenübertragung und -verarbeitung innerhalb eines Konzerns von Bedeutung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>2. Zur ersten Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Mit seiner ersten Vorlagefrage möchte der Senat wissen, ob eine nach Art. 88 Abs. 1 der DSGVO erlassene nationale Rechtsvorschrift - wie etwa § 26 Abs. 4 BDSG -, in der bestimmt ist, dass die Verarbeitung personenbezogener Daten - einschließlich besonderer Kategorien personenbezogener Daten - von Beschäftigten für Zwecke des Beschäftigungsverhältnisses auf der Grundlage von Kollektivvereinbarungen unter Beachtung von Art. 88 Abs. 2 DSGVO zulässig ist, dahin (unionsrechtskonform) auszulegen ist, dass stets auch die sonstigen Vorgaben der DSGVO - wie etwa Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO - einzuhalten sind. Damit untrennbar verbunden ist die Frage, was unter „spezifischeren Vorschriften“ iSv. Art. 88 Abs. 1 DSGVO zu verstehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Eine Antwort des Gerichtshofs auf diese Fragen ist zur Entscheidung im Ausgangsverfahren erforderlich, damit der Senat die Rechtmäßigkeit der durch die Kollektivvereinbarung BV Duldung vorgesehenen und erfolgten Datenverarbeitung beurteilen kann. Dies betrifft konkret die in der Anlage 2 zur BV Duldung genannten Datensätze (D Personalnummer, Nachname, Vorname, Telefonnummer, Eintrittsdatum, Konzern Eintrittsdatum, Arbeitsort, Firma [K/Dental], Arbeitsort, Firma, geschäftliche Telefonnummer und geschäftliche E-Mail-Adresse).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Soweit die Beklagte im Zeitraum zwischen dem 24. April und dem 18. Mai 2017 über die in der Anlage 2 zur BV Duldung genannten Datensätze hinaus weitere personenbezogene Daten des Klägers (Gehaltsinformationen, die private Wohnanschrift, Geburtsdatum, Alter, Familienstand, die Sozialversicherungsnummer und die Steuer-ID des Klägers) zur Befüllung der Software Workday auf eine Sharepoint-Seite der Konzernmutter übermittelt hat, geht der Senat zwar davon aus, dass dies schon nicht von der BV Duldung gedeckt war und deshalb nicht nach § 26 Abs. 4 BDSG, sondern nach § 26 Abs. 1 BDSG zu beurteilen ist. Auch dürfte eine solche überschießende Datenverarbeitung im Ergebnis schon deshalb nicht erforderlich iSv. § 26 Abs. 1 BDSG bzw. Art. 5, Art. 6 Abs. 1 DSGVO gewesen sein, weil davon auszugehen ist, dass in der von der Beklagten (mit)abgeschlossenen BV Duldung bzw. in deren Anlage 2 sämtliche aus ihrer Sicht für die behaupteten Testzwecke erforderlichen Datensätze abschließend aufgeführt sind. Allerdings reicht es aus Sicht des Senats für seine Entscheidung des Ausgangsverfahrens nicht aus, dass damit ein Teil der vom Kläger beanstandeten Datenverarbeitung bereits ohne Vorabentscheidungsersuchen als nicht rechtmäßig zu beurteilen ist. Vielmehr ist es für eine Entscheidung im Ausgangsverfahren erforderlich, die beanstandete Datenverarbeitung insgesamt beurteilen zu können, da damit Folgen im Hinblick auf den Umfang der Verletzung der Schutzvorschriften und die Höhe eines etwaigen Schadenersatzes verbunden sind bzw. sein können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>§ 26 Abs. 4 BDSG, wonach die Verarbeitung personenbezogener Daten, einschließlich besonderer Kategorien personenbezogener Daten von Beschäftigten für Zwecke des Beschäftigungsverhältnisses auf der Grundlage von Kollektivvereinbarungen zulässig ist, wobei Art. 88 Abs. 2 DSGVO zu beachten ist, könnte - nach seinem Wortlaut - dahin verstanden werden, dass außer den Vorgaben in Art. 88 Abs. 2 DSGVO keine weiteren Vorgaben der DSGVO zu beachten sind. In einem solchen Fall könnte eine Datenverarbeitung im Arbeitsverhältnis, die eigentlich unrechtmäßig wäre, weil sie nicht den Vorgaben der Erforderlichkeit von § 26 Abs. 1 BDSG, Art. 5, Art. 6 Abs. 1 bzw. Art. 9 Abs. 1 und Abs. 2 DSGVO entspricht und für die auch keine Einwilligung der betroffenen Person vorliegt, allein wegen des Umstands, dass sie in einer Kollektivvereinbarung - wie hier einer Betriebsvereinbarung - geregelt ist, zulässig sein bzw. gerechtfertigt werden. In einem Fall wie dem des Ausgangsverfahrens würde das bedeuten, dass allein wegen der Regelung der Datenverarbeitung in einer Kollektivvereinbarung - anders als bei Regelung in einer allgemeinen Rechtsvorschrift wie etwa einem Gesetz - die Erforderlichkeit der Datenverarbeitung nicht zu prüfen wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Der Senat geht davon aus, dass das unter Rn. 25 dargestellte Verständnis von § 26 Abs. 4 BDSG nicht mit der DSGVO vereinbar wäre. Zwar ist nicht zu verkennen, dass die Parteien einer Kollektivvereinbarung - hier einer Betriebsvereinbarung - eine größere Sachnähe besitzen und dass zu erwägen sein könnte, dass sie im Regelfall die gegenläufigen Interessen zu einem angemessenen Ausgleich gebracht haben. Allerdings ist in Art. 88 Abs. 1 DSGVO bestimmt, dass die Mitgliedstaaten durch Rechtsvorschriften oder durch Kollektivvereinbarungen „spezifischere Vorschriften“ zur Gewährleistung des Schutzes der Rechte und Freiheiten hinsichtlich der Verarbeitung personenbezogener Beschäftigtendaten im Beschäftigungskontext vorsehen können. Hieraus lässt sich nach Auffassung des Senats gerade nicht ableiten, dass im Fall der Regelung durch eine Kollektivvereinbarung - wie vorliegend durch die BV Duldung - die insbesondere in Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO enthaltenen Vorgaben der Erforderlichkeit ohne Bedeutung sein sollen. Von ihrer Einhaltung kann aus Sicht des Senats nicht durch Kollektivvereinbarung freigestellt werden. Vielmehr dürfte davon auszugehen sein, dass entsprechende „spezifischere Vorschriften“ iSv. Art. 88 Abs. 1 DSGVO - sowohl als Rechtsvorschrift als auch als Kollektivvereinbarung - immer auch die Einhaltung der sonstigen Vorgaben der DSGVO voraussetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Etwas Anderes folgt nach Auffassung des Senats auch nicht aus der Bezugnahme in § 26 Abs. 4 BDSG auf Art. 88 Abs. 2 DSGVO. Art. 88 Abs. 2 DSGVO, wonach diese Vorschriften - gemeint sind Vorschriften iSv. Art. 88 Abs. 1 DSGVO - geeignete und besondere Maßnahmen zur Wahrung der menschlichen Würde, der berechtigten Interessen und der Grundrechte der betroffenen Person umfassen, insbesondere im Hinblick auf die Transparenz der Verarbeitung, die Übermittlung personenbezogener Daten innerhalb einer Unternehmensgruppe oder einer Gruppe von Unternehmen, die eine gemeinsame Wirtschaftstätigkeit ausüben, und die Überwachungssysteme am Arbeitsplatz, stellt aus Sicht des Senats nicht von der Einhaltung der sonstigen Vorgaben der DSGVO frei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Im Ergebnis könnte deshalb einiges dafür sprechen, dass bei nationalen Rechtsvorschriften, die iSv. Art. 88 Abs. 1 DSGVO erlassen wurden, stets auch die sonstigen Vorgaben der DSGVO - wie etwa Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO - einzuhalten sind und dass Regelungen in einer Kollektivvereinbarung - wie der BV Duldung - davon nicht ausgenommen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Dies würde im Ausgangsverfahren bedeuten, dass geprüft werden müsste, ob die Verarbeitung der Daten des Klägers im vorläufigen Betrieb von Workday zu „Testzwecken“ als „erforderlich“ iSv. § 26 Abs. 1 BDSG, Art. 5, Art. 6 Abs. 1 DSGVO angesehen werden kann. Dabei geht der Senat davon aus, dass es nicht von vornherein ausgeschlossen ist, auch im Rahmen des vorläufigen Betriebs von Workday zu „Testzwecken“ Echtdaten zu verarbeiten, sofern sogenannte „Dummy“-Versuchsdaten nicht ausreichen, was allerdings im Einzelnen von der insoweit darlegungs- und beweisbelasteten Partei noch substantiiert vorzutragen wäre. Im Übrigen würde sich die Rechtmäßigkeit der Verarbeitung nach Art. 6 Abs. 1 Buchstabe b DSGVO bestimmen. Soweit der Gerichtshof insoweit - über die Beantwortung der Vorlagefragen hinaus - fallbezogene Hinweise zur Auslegung von Art. 6 Abs. 1 Buchstabe b DSGVO - einschließlich der Verteilung der Darlegungs- und Beweislast - geben sollte, wäre dies zu begrüßen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>3. Zur zweiten Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Sofern die Frage zu 1. bejaht wird, möchte der Senat mit seiner zweiten Vorlagefrage wissen, ob eine nach Art. 88 Abs. 1 DSGVO erlassene nationale Rechtsvorschrift - wie § 26 Abs. 4 BDSG - dahin ausgelegt werden darf, dass den Parteien einer Betriebsvereinbarung bei der Beurteilung der Erforderlichkeit der Datenverarbeitung iSd. Art. 5, Art. 6 Abs. 1 und Art. 9 Abs. 1 und Abs. 2 DSGVO ein Spielraum zusteht, der gerichtlich nur eingeschränkt überprüfbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dafür könnte nicht nur der in Rn. 26 dargestellte Gedanke der Sachnähe der Vertragspartner von Kollektivvereinbarungen sprechen. Auch die - ebenfalls unter Rn. 26 - aufgezeigte Erwägung, dass die Vertragspartner einer Betriebsvereinbarung im Regelfall zu einem angemessenen Interessenausgleich gekommen sind, könnte für die Anerkennung eines - wie auch immer ausgestalteten - Spielraums der Vertragspartner einer Betriebsvereinbarung bei der Beurteilung der Erforderlichkeit der Datenverarbeitung sprechen. Jedoch bestehen aus Sicht des Senats erhebliche Bedenken gegen die Anerkennung eines solchen Spielraums.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Zwar unterscheidet sich nach der Rechtsprechung des Gerichtshofs das Wesen durch Tarifvertrag erlassener Maßnahmen vom Wesen einseitig im Gesetz- oder Verordnungsweg von den Mitgliedstaaten erlassener Maßnahmen dadurch, dass die Sozialpartner bei der Wahrnehmung ihres in Art. 28 der Charta der Grundrechte der Europäischen Union (im Folgenden Charta) anerkannten Grundrechts auf Kollektivverhandlungen darauf geachtet haben, einen Ausgleich zwischen ihren jeweiligen Interessen festzulegen <em>(EuGH 19. September 2018 - C-312/17, EU:C:2018:734 - [Bedi] Rn. 68; 8. September 2011 - C-297/10 und C-298/10, EU:C:2011:560 - [Hennigs und Mai] Rn. 66 mwN)</em>. Es ist allerdings aus Sicht des Senats sehr zweifelhaft, ob diese Erwägungen des Gerichtshofs auch für eine Betriebsvereinbarung wie die des Ausgangsfalls gelten, da den Betriebsparteien nach § 74 Abs. 2 Satz 1 BetrVG Maßnahmen des Arbeitskampfs untersagt sind. Selbst wenn auch Betriebsvereinbarungen als Ausfluss des in Art. 28 der Charta anerkannten Grundrechts auf Kollektivverhandlungen angesehen werden könnten, würde daraus nach Auffassung des Senats kein Gestaltungsspielraum der Betriebspartner folgen, der gerichtlich nur eingeschränkt überprüfbar wäre. Aus der Rechtsprechung des Gerichtshofs ergibt sich nämlich, dass, soweit das in Art. 28 der Charta proklamierte Recht auf Kollektivverhandlungen Bestandteil des Unionsrechts ist, dieses im Rahmen der Anwendung des Unionsrechts im Einklang mit diesem ausgeübt werden muss <em>(EuGH 19. September 2018 - C-312/17, EU:C:2018:734 - [Bedi] Rn. 69; 8. September 2011 - C</em>-<em>297/10 und C</em>-<em>298/10, EU:C:2011:560 - [Hennigs und Mai] Rn. 67 mwN)</em>. Deshalb müssen die Sozialpartner beim Erlass von Maßnahmen, die in den Anwendungsbereich von Bestimmungen des Unionsrechts fallen, das Unionsrecht beachten <em>(vgl. zur Richtlinie 2000/78/EG: EuGH 19. September 2018 - C-312/17, EU:C:2018:734 - [Bedi] Rn. 70; 12. Dezember 2013 - C-267/12, EU:C:2013:823 - [Hay] Rn. 27 mwN; 8. September 2011 - C</em>-<em>297/10 und C</em>-<em>298/10, EU:C:2011:560 - [Hennigs und Mai] Rn. 68 mwN)</em>. Zudem ist nach der Rechtsprechung des Gerichtshofs das nationale Gericht, das im Rahmen seiner Zuständigkeit die Unionsrechtsnormen anzuwenden hat, gehalten, für die volle Wirksamkeit dieser Normen Sorge zu tragen, indem es erforderlichenfalls jede entgegenstehende Bestimmung des nationalen Rechts aus eigener Entscheidungsbefugnis unangewendet lässt, ohne dass es die vorherige Beseitigung dieser Bestimmung auf gesetzgeberischem Wege oder durch irgendein anderes verfassungsrechtliches Verfahren beantragen oder abwarten müsste <em>(vgl. EuGH 20. März 2003 - C-187/00, EU:C:2003:168 - [Kutz-Bauer] Rn. 73 mwN; 7. Februar 1991 - C-184/89, EU:C:1991:50 - [Nimz] Rn. 19 mwN)</em>. Diese Erwägungen gelten nach der Rechtsprechung des Gerichtshofs auch für den Fall, dass sich die dem Unionsrecht entgegenstehende Bestimmung aus einem Tarifvertrag ergibt. Es wäre nämlich mit dem Wesen des Unionsrechts unvereinbar, wenn dem nationalen Gericht die uneingeschränkte Befugnis abgesprochen würde, unmittelbar bei der ihm obliegenden Anwendung des Unionsrechts Bestimmungen eines Tarifvertrags - oder ggf. einer Betriebsvereinbarung - außer Anwendung zu lassen, die die volle Wirksamkeit der unionsrechtlichen Vorschriften möglicherweise behindern <em>(vgl. EuGH 20. März 2003 - C-187/00, EU:C:2003:168 - [Kutz-Bauer] Rn. 74; 7. Februar 1991 - C-184/89, EU:C:1991:50 - [Nimz] Rn. 20)</em>. Nach Auffassung des Senats spricht einiges dafür, dass diese Rechtsprechung des Gerichtshofs, die zu Richtlinien wie der Richtlinie 2000/78/EG ergangen ist, auch im Hinblick auf die Vorgaben der DSGVO Bedeutung hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>4. Zur dritten Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Sofern die Frage zu 2. allerdings bejaht werden sollte und den Parteien einer Kollektivvereinbarung - hier den Parteien einer Betriebsvereinbarung - bei der Beurteilung der Erforderlichkeit der Datenverarbeitung iSv. etwa Art. 5, Art. 6 Abs. 1 bzw. Art. 9 Abs. 1 und Abs. 2 DSGVO ein Spielraum zusteht, der gerichtlich nur eingeschränkt überprüfbar ist, möchte der Senat mit seiner dritten Vorlagefrage wissen, worauf in einem solchen Fall die gerichtliche Kontrolle beschränkt werden darf. Diese Frage betrifft die ggf. aus Sicht des Gerichtshofs unverzichtbaren Beurteilungskriterien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>5. Zur vierten Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Mit seiner vierten Vorlagefrage möchte der Senat wissen, ob Art. 82 Abs. 1 DSGVO dahin auszulegen ist, dass Personen ein Recht auf Ersatz des immateriellen Schadens bereits dann haben, wenn ihre personenbezogenen Daten entgegen den Vorgaben der DSGVO verarbeitet wurden oder ob der Anspruch auf Ersatz des immateriellen Schadens darüber hinaus voraussetzt, dass die betroffene Person einen von ihr erlittenen immateriellen Schaden - von einigem Gewicht - darlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Insoweit geht der Senat in Kenntnis des Vorabentscheidungsersuchens des Obersten Gerichtshofs (Österreich) - C-300/21 - und unter Bezugnahme auf sein eigenes Vorabentscheidungsersuchen - C-667/21 - <em>(BAG 26. August 2021 - 8 AZR 253/20 (A) -) </em>davon aus, dass Art. 82 Abs. 1 DSGVO ein Recht auf Schadenersatz nur für Personen vorsieht, die selbst wegen der Verletzung einer oder mehrerer Bestimmungen der DSGVO bei der Verarbeitung „ihrer“ personenbezogenen Daten <em>(vgl. 2. Erwägungsgrund der DSGVO) </em>in ihren (subjektiven) Rechten verletzt worden, die also selbst Opfer eines Verstoßes bzw. mehrerer Verstöße gegen die DSGVO geworden sind. Ferner geht der Senat davon aus, dass der Rechtsanspruch auf immateriellen Schadenersatz nach Art. 82 Abs. 1 DSGVO über eine solche Verletzung der DSGVO hinaus nicht zusätzlich erfordert, dass die verletzte Person einen (weiteren) von ihr erlittenen immateriellen Schaden darlegt. Sie muss also aus Sicht des Senats keine „Konsequenz oder Folge der Rechtsverletzung von zumindest einigem Gewicht“ <em>(vgl. dazu jedoch die dritte Vorlagefrage des Vorabentscheidungsersuchens des Obersten Gerichtshofs (Österreich) - C-300/21 -)</em> dartun. Nach Auffassung des Senats führt demnach bereits der Umstand, dass eine Person infolge der Verletzung einer oder mehrerer Bestimmungen der DSGVO bei der Verarbeitung „ihrer“ personenbezogenen Daten <em>(vgl. 2. Erwägungsgrund der DSGVO)</em> in ihren (subjektiven) Rechten verletzt wurde, zu einem auszugleichenden immateriellen Schaden <em>(vgl. bereits das Vorabentscheidungsersuchen - C-667/21 - des Senats, BAG 26. August 2021 - 8 AZR 253/20 (A) - Rn. 33)</em>. Insbesondere kann nach Auffassung des Senats nicht den einzelnen mitgliedstaatlichen Gerichten die Prüfung überlassen bleiben, ob ein - nach den unterschiedlichen innerstaatlichen Regeln - ausgleichsfähiger immaterieller Schaden eingetreten ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Soweit der Gerichtshof allerdings der Auffassung sein sollte, dass der Umstand, dass eine Person infolge der Verletzung einer oder mehrerer Bestimmungen der DSGVO bei der Verarbeitung „ihrer“ personenbezogenen Daten <em>(vgl. 2. Erwägungsgrund der DSGVO)</em> in ihren (subjektiven) Rechten verletzt wurde, nicht ausreicht, sondern dass zusätzlich erforderlich ist, dass die verletzte Person einen (weiteren) von ihr erlittenen immateriellen Schaden - ggf. von einigem Gewicht - darzulegen hat, ist es für die Entscheidung des Senats im Ausgangsverfahren erforderlich zu erfahren, welche Kriterien dafür maßgebend sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Der Kläger des Ausgangsverfahrens vertritt insoweit die Auffassung, dass die aus seiner Sicht nicht erforderliche Datenverarbeitung in Workday, jedenfalls aber der unrechtmäßige Abfluss seiner Daten und deren Zugänglichkeit innerhalb des Konzerns - auch für unbefugte Dritte - zu einem immateriellen Schaden geführt haben. Es habe zudem die Gefahr der missbräuchlichen Nutzung seiner Daten durch Dritte bestanden, wodurch er als Betroffener in eine Situation der Unsicherheit versetzt worden sei. So sei es angesichts der Möglichkeiten und Zwecke von Workday denkbar, dass seine personenbezogenen Daten zu einem Profiling, dh. zu einer Profilerstellung und/oder -nutzung verwendet würden bzw. verwendet worden seien. Da er als Arbeitnehmer nicht habe wissen können, ob und ggf. auf welche Weise und zu welchen Zwecken seine von der Beklagten innerhalb des Konzerns übermittelten Daten von der Beklagten und/oder von Dritten benutzt würden bzw. bereits benutzt worden seien, könne im Hinblick auf derartige Umstände die Darlegungs- und Beweislast nicht ihn, sondern müsse die Beklagte treffen. Im Übrigen reiche bereits allein die Möglichkeit des Missbrauchs seiner Daten zur Begründung eines immateriellen Schadens aus, weil er bereits hierdurch entgegen den Vorgaben des Erwägungsgrundes 85 der DSGVO die Kontrolle über seine personenbezogenen Daten verloren habe. Darüber hinaus sei zu berücksichtigen, dass die Beklagte entgegen den Vorgaben der DSGVO und des BDSG kein Löschkonzept für die in Workday verarbeiteten Daten vorhalte. Durch die Verstöße gegen die DSGVO und das BDSG sowie durch die damit verbundenen Missbrauchsgefahren sei sein Persönlichkeitsrecht in schwerwiegender Art und Weise verletzt worden. Er müsse einen wirksamen Schadenersatz erhalten, wofür auch der Erwägungsgrund 146 der DSGVO spreche. Erschwerend komme hinzu, dass die Verstöße der Beklagten vorsätzlich, unter bewusster Umgehung von datenschutz- und betriebsverfassungsrechtlichen Vorgaben begangen worden seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Soweit der Gerichtshof der Auffassung sein sollte, dass die verletzte Person einen (weiteren) von ihr erlittenen immateriellen Schaden darzulegen hat, ist es für die Entscheidung im Ausgangsverfahren insbesondere erforderlich zu wissen, welche Kriterien nach Art. 82 Abs. 1 DSGVO für das Vorliegen eines Schadens, die Kausalität und für die Darlegungs- und Beweislast maßgebend sind. So könnte sich im weiteren Verfahren die Frage stellen, ob bereits in dem Umstand, dass die personenbezogenen Daten des Klägers entgegen den Vorgaben der DSGVO für eine Profilerstellung und/oder -nutzung iSv. Art. 4 Nr. 4 DSGVO verwendet wurden, ein (weiterer) Schaden von einigem Gewicht läge oder ob ein solcher (weiterer Schaden) nur dann angenommen werden könnte, wenn ein solches Profil eine negative Wirkung für den Kläger hätte, indem er beispielsweise in einem Bewerbungsverfahren „wegen“ des Profils erfolglos geblieben wäre. Damit im Zusammenhang steht die Frage, wer - angesichts der tatsächlichen Schwierigkeiten der Beschäftigten, substantiiert einen (weiteren) Schaden darzulegen - für welche Umstände die Darlegungs- und Beweislast hat und wie dieser Darlegungs- und Beweislast im Einzelnen genügt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>6. Zur fünften Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Mit seiner fünften Vorlagefrage, die der vierten Vorlagefrage im Vorabentscheidungsersuchen - C-667/21 - des Senats <em>(BAG 26. August 2021 - 8 AZR 253/20 (A) - Rn. 35 ff.) </em>entspricht, möchte der Senat wissen, ob Art. 82 Abs. 1 DSGVO neben seiner Ausgleichsfunktion auch spezial- bzw. generalpräventiven Charakter hat und ob der Senat dies bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO zulasten des Verantwortlichen (bzw. Auftragsverarbeiters) zu berücksichtigen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Nach dem 146. Erwägungsgrund der DSGVO sollen die betroffenen Personen einen vollständigen und wirksamen Schadenersatz für den erlittenen Schaden erhalten. Dabei geht der Senat davon aus, dass bei der Bemessung des immateriellen Schadenersatzes durch das Gericht alle Umstände des Einzelfalls zu berücksichtigen sind und dass ein tatsächlicher und wirksamer rechtlicher Schutz der aus der DSGVO hergeleiteten Rechte gewährleistet werden soll. Deshalb könnte es darauf ankommen, dass - wie in anderen Bereichen des Unionsrechts - die Höhe eines immateriellen Schadenersatzes der Schwere des mit ihm geahndeten Verstoßes gegen die DSGVO entspricht, wobei vermutlich eine wirklich abschreckende Wirkung - ggf. mit spezial- bzw. generalpräventivem Charakter - zu gewährleisten, zugleich aber der allgemeine Grundsatz der Verhältnismäßigkeit zu wahren wäre <em>(vgl. zu anderen Bereichen des Unionsrechts etwa: EuGH 15. April 2021 - C-30/19, EU:C:2021:269 - [Braathens Regional Aviation] Rn. 38; 25. April 2013 - C-81/12, EU:C:2013:275 - [Asociatia ACCEPT] Rn. 63)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Neben dem damit ua. angesprochenen Grundsatz der Effektivität könnte bei der Höhe eines immateriellen Schadenersatzes zudem der Grundsatz der Äquivalenz zu berücksichtigen sein. Dabei geht der Senat zwar davon aus, dass Art. 82 DSGVO keine Verweisung auf das Recht der Mitgliedstaaten der Europäischen Union enthält und in der gesamten Union eine autonome und einheitliche Auslegung erfahren muss. Gleichwohl könnten angesichts womöglich in der Praxis unterschiedlich hoher Entschädigungsbeträge in den Mitgliedstaaten in vergleichbaren Fällen bei der Höhe eines immateriellen Schadenersatzes Gesichtspunkte der Äquivalenz zu berücksichtigen sein <em>(vgl. insoweit auch zur Befugnis der Mitgliedstaaten, entsprechende Kriterien zur Staatshaftung für Schäden, die Einzelnen durch Verstöße gegen das Unionsrecht verursacht werden, zu bestimmen: ua. EuGH 5. März 1996 - C-46/93 und C-48/93, EU:C:1996:79 - [Brasserie du pêcheur und Factortame] Rn. 67; 19. November 1991 - C-6/90 und C-9/90, EU:C:1991:428 - [Francovich ua.] Rn. 42 f.)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>7. Zur sechsten Frage</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Mit seiner sechsten Vorlagefrage, die der fünften Vorlagefrage im Vorabentscheidungsersuchen - C-667/21 - des Senats <em>(BAG 26. August 2021 - 8 AZR 253/20 (A) - Rn. 38 ff.) </em>entspricht, möchte der Senat wissen, ob es bei der Bemessung der Höhe des zu ersetzenden immateriellen Schadens auf der Grundlage von Art. 82 Abs. 1 DSGVO auf den Grad des Verschuldens des Verantwortlichen (bzw. Auftragsverarbeiters) ankommt. In diesem Zusammenhang ist insbesondere fraglich, ob ein nicht vorliegendes oder geringes Verschulden auf Seiten des Verantwortlichen (bzw. Auftragsverarbeiters) zu dessen Gunsten berücksichtigt werden darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Diese Frage stellt sich für den Senat insbesondere vor dem Hintergrund des deutschen Zivilrechts, in dem es neben verschuldensunabhängigen Haftungstatbeständen auch verschuldensabhängige gibt, wobei das Verschulden im nationalen allgemeinen Schuldrecht mit „Vertretenmüssen“ bezeichnet wird. Insoweit ist in § 276 Abs. 1 Satz 1 BGB geregelt, dass der Schuldner in der Regel Vorsatz und Fahrlässigkeit zu vertreten hat, wenn nicht eine strengere oder mildere Haftung bestimmt ist. Würde für Art. 82 Abs. 1 DSGVO ähnliches gelten, müsste für eine Haftung zu dem bloßen Verstoß gegen die DSGVO etwas Weiteres hinzutreten, nämlich die subjektive Vorwerfbarkeit wegen Vorsatz oder Fahrlässigkeit. Der Senat nimmt allerdings an, dass die Haftung des Verantwortlichen (bzw. Auftragsverarbeiters) nach Art. 82 Abs. 1 DSGVO verschuldensunabhängig ist, also diese Bestimmung die Haftung des Urhebers eines Verstoßes keineswegs vom Vorliegen oder dem Nachweis eines Verschuldens abhängig macht <em>(vgl. zu anderen Bereichen des Unionsrechts etwa: EuGH 22. April 1997 - C-180/95, EU:C:1997:208 - [Draehmpaehl] Rn. 17; 8. November 1990 - C-177/88, EU:C:1990:383 - [Dekker] Rn. 22)</em>. Wie unter Rn. 35 ausgeführt, geht der Senat davon aus, dass bereits die Verletzung der DSGVO als solche für einen Anspruch nach Art. 82 Abs. 1 DSGVO ausreicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Schließlich ist der Senat der Auffassung, dass sich insoweit aus Art. 82 Abs. 3 DSGVO nichts Abweichendes ergibt. Die darin enthaltene Bestimmung, wonach bei Nachweis der Nichtverantwortlichkeit für den Umstand, durch den der Schaden eingetreten ist, eine Befreiung von der Haftung eintritt, betrifft nach Auffassung des Senats nicht das Verschulden im Sinne eines „Vertretenmüssens“. Art. 82 Abs. 3 DSGVO betrifft vielmehr lediglich die Frage nach einer „Beteiligung“ (iSv.: „beteiligt“ oder „nicht beteiligt“) - etwa in von außen schwer durchschaubaren Datenverarbeitungszusammenhängen mit mehreren potentiellen Beteiligten - bzw. die Frage nach der Urheberschaft iSd. Kausalität. Letzteres kann beispielsweise anzunehmen sein, wenn der haftungsbegründende Umstand auf einem unzulässigen Zugriff eines Dritten beruht, der trotz aller gebotenen Sicherheitsmaßnahmen Erfolg hatte <em>(Däubler in Däubler/Wedde/Weichert/Sommer EU-DSGVO und BDSG 2. Aufl. DSGVO Art. 82 Rn. 24 mwN)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Schlewing    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Winter    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Pulz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Leitz     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Felderhoff    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KARE600065383&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

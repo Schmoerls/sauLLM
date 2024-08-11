@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE313332015</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20150226</entsch-datum>
+   <aktenzeichen>X ZR 37/13</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 52 Abs 2 Buchst d EuPatÜbk, Art 56 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 16. Januar 2013, Az: 5 Ni 7/11 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren für ein Europäisches Patent: Patentfähigkeit von Anweisungen betreffend die visuelle Informationswiedergabe - Bildstrom</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Bildstrom</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Anweisungen, die zwar die (visuelle) Informationswiedergabe betreffen, bei denen aber nicht die Vermittlung bestimmter Inhalte oder deren Vermittlung in besonderer Aufmachung im Blickpunkt steht, sondern die Präsentation von Bildinhalten in einer Weise, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung und Aufnahme von Informationen Rücksicht nimmt und darauf gerichtet ist, die Wahrnehmung der gezeigten Informationen durch den Menschen in bestimmter Weise überhaupt erst zu ermöglichen, zu verbessern oder zweckmäßig zu gestalten, dienen der Lösung eines technischen Problems mit technischen Mitteln (Weiterführung von BGH, Urteil vom 26. Oktober 2010, X ZR 47/07, GRUR 2011, 125 - Wiedergabe topografischer Informationen und vom 23. April 2013, X ZR 27/12, GRUR 2013, 909 - Fahrzeugnavigationssystem).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das am 16. Januar 2013 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits trägt die Klägerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 474 927 (Streitpatents), das am 12. Februar 2003 angemeldet wurde und eine Priorität vom 12. Februar 2002 in Anspruch nimmt. Das Streitpatent betrifft ein Verfahren (Patentansprüche 1 bis 6) und ein System (Patentansprüche 7 bis 10) zur Anzeige eines Bildstroms.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die nebengeordneten Patentansprüche 1 und 7 lauten in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A method for displaying an image stream, the method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">receiving images acquired by a swallowable capsule (40), the images forming an original image stream; and displaying simultaneously on a monitor (300) at least two subset image streams, each subset image stream including a separate subset of images from the original image stream.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. A system for displaying an image stream, the system comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">an image storage means (21) for accepting an original image stream; and an image display means (300) for displaying at least two subset image streams, each subset image stream including a separate subset of images from the original image stream, characterized that the at least two subset image streams can be displayed on the image display means (300) simultaneously."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Patentansprüche 2 bis 6 sind unmittelbar oder mittelbar auf Patentanspruch 1, die Patentansprüche 8 bis 10 auf Patentanspruch 7 rückbezogen. Die Klägerin hat geltend gemacht, dem Gegenstand des Streitpatents fehle die Technizität, er sei vom Patentschutz ausgeschlossen und zudem nicht patentfähig. Die Beklagte hat das Streitpatent in der erteilten Fassung und mit fünf Hilfsanträgen beschränkt verteidigt. Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, die weiterhin die Abweisung der Klage erstrebt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung der Beklagten führt unter Abänderung des angefochtenen Urteils zur Abweisung der Nichtigkeitsklage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren und ein System zur Darstellung von Bildströmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Schilderung der Streitpatentschrift ist ein Bildstrom aus einer Folge von starren Bildern (<em>still images</em>) zusammengesetzt. Ein solcher Bildstrom könne aus verschiedenen Quellen stammen und beispielsweise gewonnen werden, wenn eine verschluckbare, mit einer Kamera ausgestattete Kapsel, wie sie aus dem US-Patent 5 604 531 (D2) bekannt sei, Bilder von dem Lumen (oder Hohlraum) eines Organs, wie z.B. dem Magen-Darm-Trakt, aufnehme und an ein externes Aufnahmesystem übertrage, während sich die Kapsel durch den Körper bewege. Dadurch könnten hohe Bilderzahlen zum Betrachten gesammelt und nacheinander angeordnet werden. Ein Bildstrom, der mehrere Tausend Einzelbilder enthalte, könne dem Nutzer zur Überprüfung dargestellt werden. Der Nutzer werde versuchen den Bildstrom schnell und effektiv zu überprüfen, ohne dass wichtige Informationen verlorengingen. Die Rate, bei der ein Nutzer einen Bildstrom effektiv überprüfen könne, werde dabei durch einen physiologischen Mittelungseffekt begrenzt. Der Wert liege bei ungefähr 15 Einzelbildern pro Sekunde, könne jedoch nach der Person des Nutzers und der Art des Bildstroms variieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung des Streitpatents stellt mehrere im Stand der Technik bekannte Videomedien-Steuerungs- und Anzeigesysteme vor. Sie verweist auf die internationale Anmeldung WO 99/40587 (D3), die ein Videomedien-Steuerungssystem zum Senden von Befehlen an eine Videospeichereinrichtung offenbare, um eine gewünschte Position des Videos zu bewirken. Das US-Patent 4 698 664 (D4) offenbare ein audiovisuelles Überwachungssystem, in dem ein analoger Datenstrom als eine Folge von Blöcken überwacht werde. Das US-Patent 5 697 885 (D1) beschreibe ein Endoskop zum Aufnehmen und Anzeigen von zeitlich aufeinanderfolgenden Bildern sowie Mechanismen zur Auswahl von starren Bildern aus den Bildfolgen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund besteht das technische Problem darin, ein System und ein Verfahren für die verbesserte Darstellung eines Bildstroms bereitzustellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieses Problems schlägt das Streitpatent ein Verfahren und ein System mit folgenden Merkmalen vor:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <span style="text-decoration:underline">Patentanspruch 1:</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zum Anzeigen eines Bildstroms, das folgende Schritte aufweist:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M1.1 Empfangen von durch eine verschluckbare Kapsel (40) erfassten Bildern, wobei</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M1.2 die Bilder einen ursprünglichen Bildstrom bilden, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M1.3 gleichzeitiges Anzeigen von zumindest zwei Teilsatz-Bildströmen auf einem Monitor (300), wobei</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M1.4 jeder Teilsatz-Bildstrom einen getrennten Teilsatz von Bildern aus dem ursprünglichen Bildstrom enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">
+                  <span style="text-decoration:underline">Patentanspruch 7:</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">System zum Anzeigen eines Bildstroms, das umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M7.1 ein Bildspeichermittel (21) zum Aufnehmen eines ursprünglichen Bildstroms,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M7.2 ein Bildanzeigemittel (300) zum Anzeigen von zumindest zwei Teilsatz-Bildströmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M7.3 Jeder Teilsatz-Bildstrom enthält einen getrennten Teilsatz von Bildern aus dem ursprünglichen Bildstrom.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">M7.4 Die zumindest zwei Teilsatz-Bildströme können gleichzeitig auf dem Bildanzeigemittel (300) angezeigt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend dargestellte Figur 2 des Streitpatents verdeutlicht beispielhaft die Anzeige des Bildstroms in einem Mehrfachbildstrommodus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="277px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Patentanspruch 1 betrifft ein Verfahren, bei dem Bilder empfangen werden, die von einer verschluckbaren Kapsel (<em>swallowable capsule</em>) erfasst wurden. Die Beschreibung bezieht sich hierzu in Absatz 2 auf D2, die eine solche Vorrichtung beschreibt. Daraus ergibt sich, dass es sich um eine Kapsel handelt, die vom Patienten geschluckt wird und dann selbständig, ohne fortwährende Steuerung durch medizinisches Personal und ohne körperliche Verbindung nach außen, die zu untersuchenden Körperteile durchwandert. Zwar wird in der Beschreibung mehrfach betont, dass die Gewinnung des Bildstroms durch eine verschluckbare Kapsel nur beispielhaft behandelt wird (Abs. 2, Abs. 11, Abs. 22) und die Bilder auch auf andere Weise erfasst werden können, etwa durch ein herkömmliches Endoskop, einen Stent, einen Katheter oder eine Nadel (Abs. 22). Diese Vorrichtungen werden aber in Absatz 22 der Beschreibung ausdrücklich einer Kapsel gegenübergestellt (<em>"…need not be contained in a capsule, but may be contained in any other vehicle suitable for traversing a lumen in a human body, such as an endoscope…"</em>). Patent-anspruch 1 betrifft danach nur ein Verfahren zur Anzeige eines Bildstroms, der durch eine verschluckbare Kapsel im genannten Sinne erfasst worden ist. Demgegenüber enthält Patentanspruch 7 keine derartige Beschränkung, sondern lässt offen, auf welche Weise der ursprüngliche Bildstrom gewonnen wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>b) Mit einem ursprünglichen Bildstrom (<em>original image stream</em>) verbindet der Fachmann, ein Diplomingenieur (FH) der Elektrotechnik, der auf dem Gebiet der Bildverarbeitung, -übertragung und -anzeige tätig ist, eine Bildfolge, bei der die Bilder in einer bestimmten Reihenfolge geordnet sind. Unter einem ursprünglichen Bildstrom ist aus fachlicher Sicht nicht eine beliebige Sammlung einzelner Bilder zu verstehen, sondern eine vorgegebene, insbesondere zeitlich geordnete Abfolge von einzelnen Bildern, wie sie etwa bei Filmaufnahmen entsteht. Die geordnete Abfolge der Bilder bewirkt bei entsprechender Geschwindigkeit der Wiedergabe bei ihrer Anzeige, dass der Betrachter den Bildstrom als sinneinheitlichen Film wahrnimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>c) Aus diesem ursprünglichen Bildstrom werden nach der Lehre des Streitpatents zumindest zwei Teilsatz-Bildströme (<em>subset image streams</em>) gebildet, von denen jeder eine Teilmenge der Bilder des ursprünglichen Bildstroms enthält. Auf welche Weise diese Trennung erfolgt, lässt das Streitpatent im Grundsatz offen (vgl. Abs. 31), doch wird aus der Bezeichnung als Teilsatz-Bildstrom deutlich, dass eine geordnete Abfolge der Bilder des jeweiligen Teilsatzes beibehalten wird. Nach der Trennung können Teilsätze vorliegen, die sich nicht überschneiden. Das ist etwa dann der Fall, wenn die Einzelbilder 1, 3, 5 usw. des ursprünglichen Bildstroms einen Teilsatz, die Einzelbilder 2, 4, 6 usw. den anderen Teilsatz bilden (vgl. Abs. 25). Erfasst werden aber, wie Unteranspruch 2 verdeutlicht, auch Fälle, in denen sich die Teilmengen, aus denen zumindest zwei Teilsätze gebildet werden, überschneiden (vgl. Abs. 31 am Ende).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>d) Unter der Anzeige eines Teilsatz-Bildstroms ist nach der Lehre des Streitpatents die aufeinanderfolgende Anzeige der geordneten Einzelbilder zu verstehen, aus denen sich der Teilsatz-Bildstrom zusammensetzt. Mit der gleichzeitigen Anzeige von zumindest zwei Teilsatz-Bildströmen auf einem Monitor ist gemeint, dass in verschiedenen Bereichen des Monitors gleichzeitig eine mehr oder minder rasche Abfolge der Bilder in der vorgegebenen Ordnung wiedergegeben wird. Das Streitpatent stellt - etwa in Absatz 34 - der Anzeige eines Bildstroms die Anzeige von Einzelbildern neben einem Bildstrom ("<em>… a still image can be displayed adjacent to the image streams</em>") gegenüber. Dabei werden nicht mehrere (Teilsatz-)Bildströme simultan, sondern ein Bildstrom und daneben jeweils fixierte Einzelbilder angezeigt. Der Lehre des Streitpatents liegt demgegenüber die Annahme zugrunde, dass mit der gleichzeitigen Anzeige von Teilsatz-Bildströmen, die jeweils aus einer Teilmenge der Gesamtheit der Bilder des ursprünglichen Bildstroms bestehen, die Effektivität der Auswertung ohne Qualitätseinbuße erhöht wird, auch wenn dies möglicherweise eine gewisse Übung erfordert (Abs. 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Lehre der nebengeordneten Ansprüche 1 und 7 habe technischen Charakter und sei nicht als therapeutisches Behandlungsverfahren gemäß Art. 53c EPÜ von der Patentierbarkeit ausgenommen. Das System nach Patentanspruch 7 sei gegenüber D1 nicht neu und das Verfahren nach Patentanspruch 1 dem Fachmann jedenfalls nahegelegt gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>D1 betreffe ein Endoskop zum Aufnehmen und Anzeigen von zeitlich aufeinanderfolgenden Bildern und damit zum Anzeigen eines Bildstroms. Die durch den Aufnahmekopf des Endoskops gewonnenen Bildsignale würden zu Videosignalen umgewandelt und auf einem Monitor angezeigt. Eine implementierte Aufzeichnungseinrichtung ermögliche es insbesondere, gleichzeitig Bilder zu betrachten, die aus der zeitlichen Abfolge der Bilder separiert worden seien. Mit der dort beschriebenen Vorrichtung könnten mindestens zwei Bildbereiche simultan dargestellt werden. Eine solche Bildwiedergabe setze voraus, dass der Bildstrom in mindestens zwei Teilsatz-Bildströme unterteilt werde, von denen jeder einen getrennten Teilsatz von Bildern aus dem ursprünglichen Bildstrom enthalte. Dies geschehe, wie in Figur 22 dargestellt, dadurch, dass der im Bildspeicher abgelegte Bildstrom Bild für Bild ausgelesen werde und einzelne Bilder herausgelöst und in den Bildanzeigebereichen 367a und 367b dem Nutzer angezeigt würden, während gleichzeitig im Bildanzeigebereich 366 sich fortbewegende Bilder angezeigt würden. Damit entnehme der Fachmann der D1 ein System, das alle Merkmale von Patentanspruch 7 aufweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Vom Gegenstand des Patentanspruchs 1 unterscheide sich das in D1 beschriebene Verfahren nur dadurch, dass die empfangenen Bilder nicht von einer verschluckbaren Kapsel geliefert würden. Der Fachmann entnehme jedoch Absatz 22 der Beschreibung des Streitpatents, dass es nicht entscheidend darauf ankomme, ob der originale Bildstrom von einer endoskopischen Kapsel oder durch eine andere Fahreinrichtung, etwa ein Endoskop, gewonnen werde. Er erkenne, dass für das beanspruchte Verfahren einzig der empfangene Bildstrom maßgeblich sei. Da es bei der Prüfung auf erfinderische Tätigkeit nur auf diejenigen Anweisungen ankomme, die die Lösung des technischen Problems mit technischen Mitteln bestimmten oder zumindest beeinflussten, könne daher die spezielle Ausgestaltung des Bildaufnahmegeräts als verschluckbare Kapsel insoweit unberücksichtigt bleiben, als sie auf den beanspruchten Bildverarbeitungsvorgang keinen Einfluss nehme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon erfülle auch das aus der D2 bekannte In-vivo-Videokamera-System alle Voraussetzungen für die Generierung eines Bildstroms für das beanspruchte Bildverarbeitungsverfahren. Dadurch sei dem Fachmann auch der an sich zu einer erfinderischen Tätigkeit nicht beitragende Aspekt einer verschluckbaren Kapsel als Bildquelle nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug nicht stand. Der Gegenstand von Patentanspruch 1 und Patentanspruch 7 ist durch den Stand der Technik weder vorweggenommen noch nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht angenommen, dass die erfindungsgemäße Lehre nach Patentanspruch 1 auf technischem Gebiet liegt und keinem Patentierungsausschluss unterfällt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Rechtsprechung des Bundesgerichtshofs genügt ein Verfahren, dessen Gegenstand die Abarbeitung von Verfahrensschritten mit Hilfe elektronischer Datenverarbeitung ist, dem Technizitätserfordernis (Art. 52 EPÜ) bereits dann, wenn es der Verarbeitung, Speicherung oder Übermittlung von Daten mittels eines technischen Geräts dient (BGH, Urteil vom 26. Oktober 2010 - X ZR 47/07, GRUR 2011, 125 Rn. 27 - Wiedergabe topografischer Informationen). Für das Technizitätserfordernis ist unerheblich, ob der Gegenstand des Patents neben technischen Merkmalen auch nichttechnische aufweist und welche dieser Merkmale die beanspruchte Lehre prägen. Ob Kombinationen von technischen und nichttechnischen Merkmalen im Einzelfall patentfähig sind, hängt - abgesehen von etwa einschlägigen anderen Ausschlusstatbeständen - allein davon ab, ob sie neu sind und auf einer erfinderischen Tätigkeit beruhen (BGH, Beschluss vom 20. Januar 2009 - X ZB 22/07, GRUR 2009, 479 - Steuerungseinrichtung für Untersuchungsmodalitäten; Beschluss vom 22. April 2010 - Xa ZB 20/08, BGHZ 185, 214 Rn. 15 ff. - Dynamische Dokumentengenerierung, jeweils zu § 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Danach liegt im Streitfall eine technische Lehre vor, die als Erfindung dem Patentschutz zugänglich ist. Patentanspruch 1 betrifft ein Verfahren, bei dem Bilder empfangen, verarbeitet und auf eine näher beschriebene Weise auf einem Monitor angezeigt werden. Ein solches Verfahren lehrt eine bestimmte Nutzung der Komponenten einer Datenverarbeitungsanlage einschließlich Monitor und gibt damit eine Anweisung zum technischen Handeln. Sie kann nur mit einem technischen Gerät ausgeführt werden und ist damit technischer Natur. Dass die technischen Komponenten, mit denen die von der verschluckbaren Kapsel erfassten Bilder empfangen und verarbeitet werden, in Patent-anspruch 1 nicht genannt sind, ist unschädlich, weil für den vom Patentgericht zutreffend bestimmten Fachmann offenkundig ist, dass das Verfahren den Einsatz entsprechender Komponenten bedingt (vgl. BGH, Urteil vom 24. Februar 2011 - X ZR 121/09, GRUR 2011, 610 Rn. 16 - Webseitenanzeige).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Die Technizität des Systems nach Patentanspruch 7 ergibt sich ohne Weiteres daraus, dass die dort beschriebene Vorrichtung technische Geräte umfasst, mittels derer Bilder aufgenommen, verarbeitet und angezeigt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand von Patentanspruch 1 beschränkt sich nicht auf ein Programm für Datenverarbeitungsanlagen und ist deshalb nicht nach Art. 52 Abs. 2 Buchst. c, Abs. 3 EPÜ vom Patentschutz ausgeschlossen. Wegen des Patentierungsausschlusses für Computerprogramme als solche können nach der Rechtsprechung des Bundesgerichtshofs regelmäßig allerdings erst solche Anweisungen die Patentfähigkeit eines Verfahrens begründen, die die Lösung eines konkreten technischen Problems mit technischen Mitteln zum Gegenstand haben (BGHZ 185, 214 Rn. 21 ff. - Dynamische Dokumentengenerierung, zu § 1 Abs. 3, 4 PatG; BGH, GRUR 2011, 125 Rn. 30 f. - Wiedergabe topografischer Informationen). Diesem Erfordernis genügt die Lehre nach Patentanspruch 1; ihr liegt das technische Problem zugrunde, die von einer endoskopischen Kapsel gewonnenen Bilder so zu verarbeiten und auf einem Monitor anzuzeigen, dass der Nutzer sie möglichst effizient auswerten kann (oben I 2). Dies dient der Lösung eines konkreten technischen Problems mit technischen Mitteln (nachstehend III 2 b aa (4)).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>2. Der Gegenstand von Patentanspruch 1 ist patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung der Klägerin nimmt der in der US-Patentschrift 6 198 483 (D7) formulierte Anspruch 22 die Lehre von Patentanspruch 1 nicht vorweg. Dort ist zwar davon die Rede, dass ein erster und ein zweiter Teilsatz einer Vielzahl von Bildern gleichzeitig angezeigt werden. In D7 hat der Begriff "Teilsatz" jedoch einen anderen technischen Sinngehalt als im Streitpatent. In D7 ist damit eine Teilmenge aus der Gesamtheit der Bilder - etwa aus einer Datenbank - gemeint, auf welche die Datenverarbeitungsanlage insgesamt zugreifen kann. D7 lässt jedoch nicht erkennen, dass es sich bei der Gesamtheit dieser Bilder um einen ursprünglichen Bildstrom, also um eine zeitlich geordnete Abfolge von Bildern handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Der Senat vermag nicht die Wertung zu treffen, dass es für den - nach übereinstimmender Ansicht der Beteiligten von D2 ausgehenden - Fachmann eine hinreichend konkrete Anregung gab, zum Gegenstand des Streitpatents zu gelangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Zutreffend hat das Patentgericht bei der Prüfung der Patentfähigkeit sämtliche in Patentanspruch 1 enthaltenen Anweisungen, auch die Merkmale M1.3 und M1.4, berücksichtigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(1) Durch das erfindungsgemäße Verfahren wird der Nutzer, typischerweise ein Arzt, in die Lage versetzt, in der durch die Präsentation von Teilsatz-Bildströmen bedingten Weise die Informationen aufzunehmen und auszuwerten, die in der geordneten Abfolge von Bildern enthalten sind. Die Wiedergabe von Informationen ist als solche dem Patentschutz nicht zugänglich (Art. 52 Abs. 2 Buchst. d, Abs. 3 EPÜ). Das Streitpatent hat mit der Implementierung der Anzeige von Teilsatz-Bildströmen mit technischen Mitteln aber nur bei vordergründiger Betrachtung die Wiedergabe von Informationen zum Gegenstand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(2) Der Patentierungsausschluss nach Art. 52 Abs. 2 Buchst. d EPÜ korrespondiert mit dem zu den Grundrechten gehörenden Recht auf Informations- und Meinungsfreiheit und soll die Monopolisierung von Informationen durch die Gewährung patentrechtlichen Schutzes verhindern (Benkard/Melullis, EPÜ, 2. Aufl., Art. 52 Rn. 207). Danach haben bei der Prüfung der Patentfähigkeit nur solche Anweisungen als nicht technisch außer Betracht zu bleiben, die gerade die Vermittlung bestimmter Inhalte betreffen und damit darauf zielen, auf die menschliche Vorstellung oder Verstandesfähigkeit einzuwirken (Benkard/Bacher/Melullis, PatG, 10. Aufl., § 1 Rn. 148; Schulte/Moufang, PatG, 9. Aufl., § 1 Rn. 126). Anweisungen, die die Informationen betreffen, die nach der Lehre des Patents wiedergegeben werden sollen, können daher auch unter dem Gesichtspunkt der erfinderischen Tätigkeit die Patentfähigkeit der erfindungsgemäßen Lehre nur dann und nur insoweit stützen, als sie die Lösung eines technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen (BGH, Urteil vom 23. April 2013 - X ZR 27/12, GRUR 2013, 909 Rn. 14 mwN - Fahrzeugnavigationssystem).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(3) Entsprechend dieser Unterscheidung hat der Bundesgerichtshof angenommen, dass bei der Prüfung auf erfinderische Tätigkeit Anweisungen nicht zu berücksichtigen sind, wonach die Audiowiedergabe bei einem Fahrzeugnavigationssystem auch Straßennamen umfasst. Zur Begründung hat der Senat darauf verwiesen, dass sich diese Anweisungen in der Vorgabe erschöpfen, dass und unter welchen Bedingungen Straßennamen Bestandteil der Audiowiedergabe von Fahranweisungen sein sollen und damit ausschließlich den Inhalt der dem Nutzer zur Verfügung gestellten Information betreffen (BGH, GRUR 2013, 909 Rn. 17 - Fahrzeugnavigationssystem). Auch die Praxis der Beschwerdekammern des Europäischen Patentamts spiegelt diese Unterscheidung wieder. So hat das Europäische Patentamt etwa entschieden, dass eine Anweisung, wonach bei einer Vorrichtung zur Ermittlung der Erfolgschancen beim Roulettespiel Informationen über die Wetteinsätze eines bestimmten Spielers angezeigt werden, keine Berücksichtigung finden können (EPA, Technische Beschwerdekammer, Entscheidung vom 14. Dezember 2007 - T 1704/06, S. 7/8). Als nichttechnisch wurde auch die Anweisung angesehen, bestimmte Informationen über die Eigenschaften eines Diamanten anzuzeigen (EPA, Technische Beschwerdekammer, Entscheidung vom 28. Februar 2008 - T 619/05, S. 7). Im gleichen Sinne hat der britische High Court die Anweisung, dem Fahrgast bestimmte Informationen über den Status eines Omnibus zu vermitteln, als nicht technisch angesehen (Justice Kitchen, High Court, Chancery Division, Patents Court, Urteil vom 4. November 2005 - [2005] EWHC 2417). Bei der Prüfung auf erfinderische Tätigkeit sind ferner solche Anweisungen nicht zu berücksichtigen, nach denen bestimmte Inhalte durch Abweichungen in der Farbe, der Helligkeit oder dergleichen hervorgehoben werden (EPA, Technische Beschwerdekammer, Entscheidung vom 4. Oktober 1996 - T 599/93; BPatG, Beschluss vom 23. September 2010 - 17 W (pat) 47/06, in Juris; vgl. auch Benkard/Bacher/Melullis, PatG, 10. Aufl., § 1 Rn. 148; Busse/Keukenschrijver, PatG, 7. Aufl., § 1 Rn. 68).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Nicht bei der Prüfung auf erfinderische Tätigkeit zu berücksichtigen sind nach einer weiteren Entscheidung des Bundesgerichtshofs Anweisungen, die die Auswahl einer für Navigationszwecke zweckmäßigen kartografischen Darstellung betreffen (Koordinatentransformation, Sicht aus nach hinten versetzter Vogelperspektive, Bestimmung der Hauptbetrachtungsrichtung in spitzem Winkel im Hinblick auf die Erdoberfläche, Wiedergabe mit einem die momentane Bewegung des Fahrzeugs berücksichtigenden und eine simulierte Ist-Position des Fahrzeugs enthaltenden Raumwinkel). Solche Anweisungen sind nicht Teil der technischen Lösung, sondern gehören zu der dieser vorgelagerten Auswahl einer für Navigationszwecke zweckmäßigen kartografischen Darstellung, die dem Fachmann, sofern er sie nicht bereits selbst als zweckmäßig erkennen kann, von dem hierfür zuständigen Fachmann, einem Kartografen, Geografen oder Geodäten, vorgegeben wird (vgl. im Einzelnen BGH, GRUR 2011, 125 Rn. 39 - Wiedergabe topografischer Informationen).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(4) Die in Patentanspruch 1 beanspruchte Lehre unterfällt nicht dem Patentierungsausschluss nach Art. 52 Abs. 2 Buchst. d, Abs. 3 EPÜ, weil sie nicht auf die Wiedergabe von Informationen als solche beschränkt ist (BGH, Urteil vom 19. Mai 2005 - X ZR 188/01, GRUR 2005, 749, 752 - Aufzeichnungsträger, zu § 1 PatG). Die Merkmale M1.3 und M1.4 beziehen sich auf das Problem, wie eine geordnete Bildfolge - unabhängig von deren Inhalt - so angezeigt werden kann, dass der Nutzer in die Lage versetzt wird, sie schnell und effizient zu erfassen. Solche Anweisungen, die zwar die (visuelle) Informationswiedergabe betreffen, bei denen aber nicht die Vermittlung bestimmter Inhalte oder deren Vermittlung in besonderer Aufmachung im Blickpunkt steht, sondern die Präsentation von Bildinhalten in einer Weise, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung und Aufnahme von Informationen Rücksicht nimmt und dabei darauf gerichtet ist, die Wahrnehmung der gezeigten Informationen durch den Menschen in bestimmter Weise überhaupt erst zu ermöglichen, zu verbessern oder zweckmäßig zu gestalten, dienen der Lösung eines technischen Problems mit technischen Mitteln und sind bei der Prüfung auf erfinderische Tätigkeit zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>bb) Das Patentgericht hat angenommen, die Lehre aus Patentanspruch 1 sei dem Fachmann nahegelegt und beruhe damit nicht auf einer erfinderischen Tätigkeit. Dem vermag der Senat nicht beizutreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(1) D2 offenbart ein System, das eine verschluckbare Kapsel zur Aufnahme von Bildern und Vorrichtungen außerhalb des Körpers zum Empfang dieser Bilder und ihrer Umwandlung in einen Bildstrom umfasst. Mit der Anzeige der so gewonnenen Bilder befasst sich die D2 nur am Rande. Ihr ist zu entnehmen, dass die von der in der endoskopischen Kapsel angebrachten Kamera gewonnenen Bilder in Videodaten umgewandelt werden können. Figur 6 zeigt eine Vorrichtung mit zwei Monitoren, wobei auf einem dargestellt wird, welche Teile des Verdauungstrakts die endoskopische Kapsel durchwandert, und auf dem anderen ein von der Kapsel aufgenommenes Bild angezeigt wird. Die von der Klägerin vorgelegten Entgegenhaltungen geben keine Anregung, von D2 aus zu der in Patentanspruch 1 unter Schutz gestellten technischen Lehre zu gelangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(2) Die Entgegenhaltung D1 betrifft eine Vorrichtung - etwa ein Endoskop - zum Aufzeichnen und Anzeigen von Zeitserienbildern. Die Vorrichtung soll es ermöglichen, Zeitserienbilder, zum Beispiel Videoaufnahmen wie sie bei einer endoskopischen Untersuchung gewonnen werden, aufzuzeichnen und mithilfe solcher Bilder Veränderungen eines Objekts über einen Zeitablauf zu beobachten. Das so gewonnene Bildmaterial kann als Video angezeigt werden, zugleich soll es aber auch möglich sein, Standbilder zu erzeugen und zu speichern. Beispielhaft beschäftigt sich D1 mit der Aufzeichnung der Veränderungen eines Tumors im menschlichen Körper bei Gabe eines fluoreszierenden Mittels, das von diesem anders aufgenommen wird als vom umgebenden Gewebe. Die Aufzeichnung mehrerer Bilder, die eine Beobachtung der Veränderung über eine gewisse Zeit ermöglichen, ist nach der Darstellung in D1 mit Schwierigkeiten verbunden, weil sowohl das beobachtete Objekt als auch das Endoskop sich bewegen und ihre Position zueinander verändern können. Vor diesem Hintergrund sei es wünschenswert, einen Vergleich von Standbildern mit Zeitserienbildern - im Sprachgebrauch des Streitpatents: mit einem Bildstrom - vornehmen zu können (Sp. 1, 2). Daher soll der Nutzer die Möglichkeit haben, Bilder, die in zeitlichem Abstand voneinander aufgenommen worden sind, gleichzeitig anzusehen (Sp. 3, Z. 18 bis 20). Die Vorrichtung umfasst ein Endoskop, in dessen Kopf eine Kamera angebracht ist, eine bildverarbeitende Einrichtung, die die von der Kamera aufgenommenen Bilder in entsprechende elektronische Signale umwandelt, und einen Monitor, auf dem das Signal als Video - als Bildstrom - angezeigt werden kann (Sp. 6 Z. 1 bis 8 und Z. 30 bis 44).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Figuren 6 und 22 der D1 lassen erkennen, dass jeweils vier Bilder aus dem durch das Endoskop gewonnenen Bildmaterial gleichzeitig angezeigt werden. Die Entgegenhaltung offenbart jedoch - anders als das Patentgericht angenommen hat - nicht, dass die dort beschriebene Vorrichtung in der Lage ist, gleichzeitig zwei Teilsatz-Bildströme anzuzeigen. Dies gilt auch für die Beschreibung des dritten Ausführungsbeispiels, die in Spalte 19, Zeile 6 der D1 beginnt und durch die Figuren 17 bis 23 erläutert wird. Figur 22 zeigt eine Anzeige mit vier Bereichen 364, 367a, 367b und 366. Wie sich aus der Beschreibung ergibt, werden zunächst im Bereich 364 Bilddaten sequenziell Rahmen für Rahmen angezeigt (Sp. 21, Z. 41 bis 46). Sodann wird ein Bild aus diesem Bildstrom ausgewählt, das als Standbild angezeigt wird (Sp. 21, Z. 47 bis 51). Anschließend wird lediglich in Bereich 366 ein Bildstrom angezeigt (Sp. 21, Z. 52 bis 54). Aus diesem können durch "Einfrieren" einzelne Bilder gewonnen werden, die in die Bereiche 367a oder 367b verschoben werden (Sp. 21, Z. 63 bis Sp. 22 Z. 9). Während also zunächst nur in Bereich 364 ein Bildstrom angezeigt wird, wird zeitlich später nur in Bereich 366 ein Bildstrom angezeigt, währenddessen die drei anderen Bereiche nur Standbilder - und damit keinen Bildstrom - zeigen. Damit ist eine gleichzeitige Anzeige von zumindest zwei Bildströmen auf einem Monitor durch D1 nicht offenbart. Entsprechend wird in D1 beschrieben (Sp. 22, Z. 43 ff.), dass es einen Bezugsbild-Anzeigeteil (<em>reference image displaying part</em>) 364 und zwei Anzeigeteile für zeitweilig ausgewählte Bilder (<em>temporarily selected image displaying parts</em>) 367a und 367b gebe, denen - nur - ein Anzeigeteil für bewegte Bilder (<em>moving picture displaying part</em>) 366 gegenübergestellt wird. Selbst wenn die in den Bereichen 367a und 367b angezeigten Standbilder gelegentlich dadurch ausgetauscht werden, dass der Nutzer ein anderes Einzelbild aus dem in Bereich 366 angezeigten Bildstrom auswählt, liegt darin nicht die Anzeige eines Teilsatz-Bildstroms im oben erläuterten Sinne. Damit kann nicht angenommen werden, dass D1 eine Anregung zu der in Patentanspruch 1 unter Schutz gestellten Lehre gibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(3) Eine solche Anregung erhält der Fachmann auch nicht aus der US-Patentschrift 6 198 483 (D7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Während die Navigation durch einen am Bildschirm angezeigten Datenbestand - so D7 - herkömmlich mit baumähnlichen Strukturen erfolge, durch die sich der Nutzer durch Scrollen, Blättern oder dergleichen bewege, wird in dem Dokument vorgeschlagen, dem Nutzer den Inhalt der Datenbank durch die bewegte Wiedergabe von Informationen zu vermitteln. Es sei erkannt worden, dass mehrere Kategorien von Informationen, die gleichzeitig angezeigt werden, vom Nutzer gut erfasst werden können, wenn die Information in Bewegung versetzt wird. Die gleichzeitige Wahrnehmung von zwei oder mehr Sätzen von Informationen erhöhe die Geschwindigkeit, mit der sich der Nutzer ihren Inhalt aneignen könne (Sp. 2, Z. 7 bis 9). D7 stellt zwei Grund-Modi vor: Bi- und Quad-Mode. Beim Bi-Mode für Anfänger werden zwei Quadranten perspektivisch für den Betrachter dargestellt. Der Richtungsfluss der Informationen kann entsprechend der nachfolgend eingefügten Figur 4 von D7</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="371px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>in vier Hauptkonfigurationen eingestellt werden. In Konfiguration 1 strömen die Inhalte im linken Quadranten von links nach rechts und in dem rechten von rechts nach links; in Konfiguration 2 strömen die Bildinhalte jeweils von der Mitte aus nach links bzw. rechts außen; in den Konfigurationen 3 und 4 strömen die linken und rechten Bildinhalte entweder von oben nach unten und von unten nach oben oder umgekehrt (Figur 4 i. V. mit Spalte 6 Zeile 30 ff.). Dies führt dazu, dass der Benutzer zwei Anzeigen oder zwei Eingabekanäle erkennt. Als "falsche" Konfigurationen bezeichnet die Entgegenhaltung es, wenn die Strömungsrichtungen jeweils richtungsgleich sind, also der linke und rechte Quadrant nach oben oder unten, von links nach rechts oder von rechts nach links strömen (Figur 6 i. V. mit Spalte 6 Zeile 49 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Darin und in den sonstigen Ausführungsbeispielen eine Anregung für die Vorschläge des Streitpatents zu sehen, wäre das Ergebnis einer rückschauenden Betrachtung in Kenntnis des Streitpatents. Denn es ist nicht ersichtlich, dass es sich bei den gleichzeitig angezeigten Bildströmen jeweils um Teilsatz-Bildströme handelt, die einen getrennten Teilsatz von Bildern aus einem ursprünglichen Bildstrom beinhalten. Auch wenn eine Datenbank eine Vielzahl einzelner Bilder oder Bildfolgen umfasst, kann darin kein ursprünglicher Bildstrom im Sinne des Streitpatents gesehen werden, der in Teilsatz-Bildströme aufgeteilt würde, weil die einzelnen Bilder hier nicht in einer bestimmten Reihenfolge geordnet sind, so dass insbesondere auch bei einer rasch aufeinanderfolgenden Wiedergabe der Bilder beim Betrachter nicht der Eindruck eines Films entstünde. Das gilt auch, soweit D7 als eine Anwendungsmöglichkeit schildert, Videoclips über chirurgische Verfahren mit Bildern betreffend das jeweilige Fallszenario in verschiedenen Quadranten laufen zu lassen. Ein Student könne auf diese Weise in wenigen Minuten tausend Bilder visuell überfliegen. In diesem Anwendungsbeispiel hat D7 zwar mit dem Streitpatent die Auswertung heilkundebezogener Bildinhalte gemein. Das ändert aber nichts daran, dass es bei D7 um einen anderen visuellen Verwertungsansatz geht als beim Streitpatent, nämlich um die rasche (Grob-)Sichtung großer Datenmassen. Auch wenn das wie die Lehre des Streitpatents die menschliche visuelle Aufnahmefähigkeit tangiert, gibt D7 keine hinreichend konkrete Anregung dafür, die technische Lehre des Streitpatents aufzufinden, einheitliches Bildmaterial in Gestalt eines ursprünglichen Bildstroms im Interesse gesteigerten visueller Auswertbarkeit im Detail in mehrere Teilsatz-Bildströme zu teilen und gleichzeitig anzuzeigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Auf die übrigen erstinstanzlich in das Verfahren eingeführten Entgegenhaltungen ist die Klägerin nicht mehr zurückgekommen, nachdem der Senat in seinen einführenden Ausführungen zum Ausdruck gebracht hat, dass er die eingehende Erörterung von D7 in der Berufungserwiderung so versteht, dass darin der dem Streitpatent zumindest nächstkommende Stand der Technik gesehen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>3. Aus den vorstehenden Ausführungen ergibt sich zugleich, dass die Auffassung des Patentgerichts, der Gegenstand von Patentanspruch 7 sei nicht patentfähig, nicht zutrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>IV. Danach hat das angefochtene Urteil keinen Bestand. Der Senat hat in der Sache zu entscheiden, weil diese entscheidungsreif ist (§ 119 Abs. 5 Satz 2 PatG). Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Gröning                        Bacher                              Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                Deichfuß                      Kober-Dehm</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE313332015&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

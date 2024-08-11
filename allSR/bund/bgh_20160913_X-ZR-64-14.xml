@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE314542016</doknr>
+   <ecli>ECLI:DE:BGH:2016:130916UXZR64.14.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20160913</entsch-datum>
+   <aktenzeichen>X ZR 64/14</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 64 Abs 1 PatG, § 83 Abs 4 PatG, § 116 Abs 2 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 23. Januar 2014, Az: 2 Ni 19/12, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Verteidigung des Streitpatents nur mit bestimmten Anspruchssätzen; Ermittlung des tatsächlich Gewollten - Datengenerator</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Datengenerator</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Verteidigt der Patentinhaber das Streitpatent im Nichtigkeitsverfahren nur mit bestimmten Anspruchssätzen, rechtfertigt es die vollständige Nichtigerklärung des Patents, wenn es sich in keiner verteidigten Fassung als insgesamt rechtsbeständig erweist. Bei der Prüfung des Begehrens des Patentinhabers darf jedoch nicht am Wortlaut seiner Anträge gehaftet werden, sondern ist vom Gericht das tatsächlich Gewollte zu ermitteln und hierbei das gesamte Vorbringen des Patentinhabers zu berücksichtigen (im Anschluss an BGH, Beschluss vom 27. Juni 2007, X ZB 6/05, BGHZ 173, 47 - Informationsübermittlungsverfahren II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Stellt der Patentinhaber einen Anspruchssatz zur Entscheidung, der nebengeordnete Ansprüche enthält, die nicht nur wegen unterschiedlicher Anspruchskategorien in einem Nebenordnungsverhältnis stehen, sondern sachlich unterschiedliche Lösungen enthalten, liegt die Annahme regelmäßig fern, der Patentinhaber wolle auch die übrigen Patentansprüche nicht verteidigen, falls sich der Gegenstand nur eines dieser Ansprüche als nicht patentfähig oder ein Anspruch aus anderen Gründen als nicht zulässig oder nicht rechtsbeständig erweise.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten und unter Zurückweisung der weitergehenden Rechtsmittel der Parteien wird das Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 23. Januar 2014 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das deutsche Patent 41 03 173 wird im Umfang der Patentansprüche 1, 5 und 8 bis 13 dadurch teilweise für nichtig erklärt, dass Patentanspruch 1 und in den Patentansprüchen 5 und 8 bis 13 der unmittelbare oder mittelbare Rückbezug auf Patentanspruch 1 entfallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten des Rechtsstreits werden zu zwei Dritteln der Klägerin und zu einem Drittel der Beklagten auferlegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist eingetragene Inhaberin des durch Zeitablauf erloschenen deutschen Patents 41 03 173 (Streitpatents), das am 2. Februar 1991 angemeldet wurde. Die Patentansprüche 1, 3, 4 und 5 haben im Einspruchsverfahren folgende Fassung erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Vorrichtung zum Schutz gegen unautorisierte Benutzung von Software, bei der mindestens ein mit einem Signaleingang eines Rechensystems (10) verbindbarer externer Datengenerator (11) Daten erzeugt, wobei die vom Datengenerator (11) ausgegebenen Daten von empfangenen Daten aus dem Rechensystem (10) abhängig sind und das Rechensystem in einen Fehlerzustand gebracht wird oder die Software im Rechensystem nicht zweckmäßig arbeitet, wenn das Rechensystem keine oder fehlerhafte Daten über den Signaleingang (13) empfängt, dadurch gekennzeichnet, dass der Datengenerator (11) nicht vorgesehene Daten oder Datenfolgen und/oder zeitlich nicht vorgesehene Daten oder Datenfolgen als Manipulationsversuche erkennt und bei erkanntem Manipulationsversuch den Inhalt eines Speichers im Datengenerator ändert und infolgedessen beim Empfang weiterer Daten keine oder fehlerhafte Daten ausgibt und/oder eine Benutzerautorisierung verändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Vorrichtung nach dem Oberbegriff des Anspruchs 1, insbesondere in Verbindung mit dem Kennzeichen des Anspruchs 1 und/oder 2, dadurch gekennzeichnet, dass die vom Datengenerator (11) generierten Daten eine nicht-deterministisch erzeugte Redundanz aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Vorrichtung nach dem Oberbegriff des Anspruchs 1, insbesondere in Verbindung mit dem Kennzeichen des Anspruchs 1, 2 und/oder 3, dadurch gekennzeichnet, dass der Datengenerator (11) zwei Zustände A und B besitzt, von deren Annahme die vom Datengenerator ausgegebenen Daten abhängen, der Datengenerator aus dem Zustand A in den Zustand B nur durch mindestens fünf aufeinanderfolgende weitere Zustände C gebracht werden kann, die aufgrund empfangener Daten angenommen werden, und die vom Datengenerator ausgegebenen Daten nicht von den Zuständen C abhängen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Vorrichtung nach einem der Ansprüche 1 bis 4 dadurch gekennzeichnet, dass im Datengenerator (11) Daten über die Autorisierung zur Benutzung der Software gespeichert sind und die Autorisierungsdaten den Zugriff auf bestimmte Programme und/oder Programmteile steuern und/oder den Typ des Rechensystems (10) festlegen oder mindestens einen Typ ausschließen und/oder den Zugriff zeitlich begrenzen und/oder den Zugriff quantitativ steuern."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die aus dem Streitpatent in Anspruch genommene Klägerin hat mit der Nichtigkeitsklage das Streitpatent im Umfang der Patentansprüche 1, 3 bis 5 sowie 8 bis 13 angegriffen. Sie hat geltend gemacht, der Gegenstand des Streitpatents sei insoweit nicht patentfähig. Zudem offenbare das Streitpatent die Erfindung nicht so deutlich und vollständig, dass ein Fachmann sie ausführen könne. Der Gegenstand des Streitpatents gehe über den Inhalt der Patentanmeldung in der ursprünglich eingereichten Fassung hinaus. Schließlich sei im Einspruchsverfahren der Schutzbereich des Streitpatents erweitert worden. Die Beklagte hat das Streitpatent in der geltenden Fassung sowie auf der Grundlage von fünf Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent unter Abweisung der weitergehenden Klage dadurch teilweise für nichtig erklärt, dass es der Gesamtheit der angegriffenen Patentansprüche entsprechend dem fünften Hilfsantrag der Beklagten folgende Fassung gegeben hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Vorrichtung zum Schutz gegen unautorisierte Benutzung von Software, bei der mindestens ein mit einem Signaleingang eines Rechensystems (10) verbindbarer externer Datengenerator (11) Daten erzeugt, wobei die vom Datengenerator (11) ausgegebenen Daten von empfangenen Daten aus dem Rechensystem (10) abhängig sind und das Rechensystem in einen Fehlerzustand gebracht wird oder die Software im Rechensystem nicht zweckmäßig arbeitet, wenn das Rechensystem keine oder fehlerhafte Daten über den Signaleingang (13) empfängt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dadurch gekennzeichnet, dass der Datengenerator (11) Manipulationsversuche an den empfangenen Daten erkennt, wobei</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">der Datengenerator (11) nicht vorgesehene Daten oder Datenfolgen und/oder zeitlich nicht vorgesehene Daten oder Datenfolgen als Manipulationsversuche erkennt und bei erkanntem Manipulationsversuch den Inhalt eines Speichers im Datengenerator ändert und infolgedessen beim Empfang weiterer Daten zeitlich begrenzt nur fehlerhafte Daten ausgibt, wobei die vom Datengenerator (11) generierten Daten eine nicht-deterministisch erzeugte Redundanz aufweisen, wobei der Datengenerator (11) zwei Zustände A und B besitzt, von deren Annahme die vom Datengenerator ausgegebenen Daten abhängen, der Datengenerator aus dem Zustand A in den Zustand B nur durch mindestens fünf aufeinanderfolgende weitere Zustände C gebracht werden kann, die aufgrund empfangener Daten angenommen werden, und die vom Datengenerator ausgegebenen Daten nicht von den Zuständen C abhängen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Hiergegen richtet sich die Berufung der Beklagten, mit der sie das Streitpatent zuletzt im Hauptantrag in der geltenden Fassung, jedoch unter Wegfall des Patentanspruchs 1 sowie mit einem Hilfsantrag verteidigt. Die Klägerin verfolgt mit ihrer Berufung den erstinstanzlichen Klageantrag weiter, soweit er abgewiesen worden ist.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft Vorrichtungen zum Schutz von Computerprogrammen gegen eine unbefugte Nutzung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. Damit Software nur von einem Berechtigten genutzt werden kann, waren nach der Beschreibung im Stand der Technik Bauteile wie beispielsweise Stecker bekannt, die mit dem Rechner verbunden werden müssen, damit das Programm verwendet werden kann. Im einfachsten Fall fragt der Rechner das Vorhandensein des Bauteils ab; fehlt es, wird der Programmablauf gestört.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Als ein solches externes Bauteil ist auch ein Datengenerator beschrieben. Er empfängt Signale des Rechners und gibt definierte Antwortsignale zurück. Nur wenn die Antwortsignale mit den erwarteten Signalen übereinstimmen, kann das Programm genutzt werden. Als nachteilig sieht das Streitpatent jedoch an, dass dieser Schutz durch eine Analyse der Ein- und Ausgabedaten des Datengenerators umgangen werden kann, indem das Ein- und Ausgabeverhalten mit Hilfe von Logik-Minimierungsverfahren auf einfache Logikfunktionen reduziert oder ein Modell des Datengenerators entwickelt wird, mit dem dieser simuliert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung bezeichnet es als Aufgabe der Erfindung, eine verbesserte Vorrichtung zum Schutz von Software gegen eine nicht autorisierte Nutzung zu schaffen, die eine Analyse der Funktionsweise des Datengenerators anhand seiner Ein- und Ausgaben "äußerst" erschwert (Sp. 2 Z. 36 bis 40).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. In der geltenden sowie in der von der Beklagten zuletzt verteidigten Fassung des Streitpatents werden hierzu drei nebengeordnete Lösungen vorgeschlagen, die auch miteinander kombiniert werden können. Da die Kombination aber nur fakultativ ist, kann sie, wie das Patentgericht zu Recht angenommen hat, für die Prüfung der Patentfähigkeit außer Betracht bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Patentansprüche 3 bis 5 in der zuletzt verteidigten Fassung schützen dabei eine Vorrichtung zum Schutz gegen unautorisierte Benutzung von Software [M1, in eckigen Klammern die Gliederung des Patentgerichts] mit den nachfolgenden Merkmalen 1 und 2, zu denen jeweils eines der weiteren Merkmale 3 (Patentanspruch 3), 4 (Patentanspruch 4) oder 5 (Rückbezug auf den als solchen nicht mehr verteidigten Patentanspruch 1 in Patentanspruch 5 sowie kennzeichnendes Merkmal dieses Anspruchs) hinzutritt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1    Es ist mindestens ein externer Datengenerator (11) vorgesehen [M3], der</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 mit einem Signaleingang (13) eines Rechensystems (10) verbindbar ist [M2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 Daten aus dem Rechensystem empfängt und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.3 Daten ausgibt, die von empfangenen Daten aus dem Rechensystem abhängig sind [M4].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2    Das Rechensystem wird in einen Fehlerzustand gebracht (oder die Software arbeitet nicht zweckmäßig), wenn das Rechensystem keine oder fehlerhafte Daten über den Signaleingang (13) empfängt [M5].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3    Der Datengenerator (11) generiert Daten, die eine nicht-deterministisch erzeugte Redundanz aufweisen [M6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4    Der Datengenerator (11)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1 besitzt zwei Zustände A und B [M7a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2 kann aus dem Zustand A in den Zustand B nur durch mindestens fünf aufeinander folgende weitere Zustände C gebracht werden, die aufgrund empfangener Daten angenommen werden [M7b] und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.3 gibt Daten aus, die von der Annahme der Zustände A und B, aber nicht von den Zuständen C abhängen [M7a/c].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5    Der Datengenerator (11)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.1 erkennt (zeitlich) nicht vorgesehene Daten(folgen) als Manipulationsversuche [M5a],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.2 ändert bei erkanntem Manipulationsversuch den Inhalt eines seiner Speicher [M5b],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.3 gibt infolgedessen beim Empfang weiterer Daten keine oder fehlerhafte Daten aus oder ändert eine Benutzerautorisierung [M5c],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5.4 hat Daten über die Autorisierung zur Benutzung der Software gespeichert, die den Zugriff auf bestimmte Programme oder Programmteile steuern, den Typ des Rechensystems festlegen, mindestens einen Typ ausschließen oder den Zugriff zeitlich begrenzen oder quantitativ steuern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Die technische Lehre der Erfindung bedarf in einigen Punkten näherer Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Der erfindungsgemäße Datengenerator ist eine externe Einrichtung, die sich außerhalb des Rechensystems befindet, mit dem sie über einen Signaleingang des Rechensystems verbunden werden kann. Ob sich beide Einrichtungen in einem gemeinsamen Gehäuse befinden oder getrennt untergebracht sind, ist damit nicht festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die in den Merkmalen 3 bis 5 enthaltenen Anweisungen sollen das Ziel der Erfindung erreichen, das Ausgabeverhalten des Datengenerators möglichst schwer analysierbar zu machen und damit den unbefugten Zugriff auf ein geschütztes Programm zu verhindern. Nur Merkmal 5 verlangt hierzu, dass der Datengenerator "Manipulationsversuche" erkennt. Der Datengenerator vollzieht dies, indem er eine nicht vorgesehene Eingabe als "Manipulationsversuch an den empfangenen Daten" interpretiert (Merkmal 5.1) und abspeichert, dass er einen Manipulationsversuch erkannt hat (Merkmal 5.2). Nach Merkmal 5.3 hat dies zur Folge, dass weitere, auch zutreffende Eingaben nicht zur Freigabe der Programmnutzung führen. Die Patentansprüche 3 und 4 befassen sich hingegen in den Merkmalen 3 und 4 nicht mit der Erkennung von "Manipulationsversuchen" durch nicht ordnungsgemäße Eingaben, sondern geben Maßnahmen an, die es - unabhängig davon, ob ein Manipulationsversuch vorliegt oder nicht - durch eine bestimmte Struktur der Datengenerierung und -ausgabe erschweren sollen, aus den ausgegebenen Daten die für eine Eröffnung des Zugriffs auf das geschützte Programm erforderliche Dateneingabe zu ermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Nach Merkmal 3 weisen dazu die vom Datengenerator erzeugten Daten Redundanz auf, indem der Informationsgehalt der ausgegebenen Daten mehrfach übertragen wird. Dies entspricht der allgemeinen fachspezifischen Bedeutung des Begriffs "Redundanz" in der Informationstheorie und -technik. Dass bei der erfindungsgemäßen Lehre der Gedanke nicht im Vordergrund stehen mag, durch die Redundanz eine Überprüfbarkeit der Zuverlässigkeit der Datenübertragung zwischen Datengenerator und Rechensystem zu ermöglichen, rechtfertigt es - entgegen der Auffassung der Klägerin - nicht, die von Merkmal 3 geforderte Redundanz auf die Hinzufügung zufällig erzeugter Daten zu reduzieren. Weder die Beschreibung, die den Begriff der Redundanz nicht erläutert, noch die Definition in der englischsprachigen Wikipedia, auf die sich die Klägerin bezogen hat, tragen eine solche Lesart. Insbesondere bringt auch die die Definition als "<em>number of bits used to transmit a message minus the number of bits of actual information in the message</em>", wie die weiteren Erläuterungen zeigen, nur den Grundgedanken der Mehrfachübermittlung der "eigentlichen Information" zum Ausdruck.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die Redundanz ist nicht-deterministisch erzeugt, indem zumindest ein Teil der ausgegebenen Daten mit einem Zufallswert, der durch die Abfrage eines gesonderten Hardwareelements innerhalb oder außerhalb der Datenverarbeitungsanlage gewonnen wurde, verknüpft wurde. Bei diesem Hardwareelement kann es sich insbesondere um einen hardwaretechnisch gesonderten Zufallszahlengenerator oder die nicht ausschließlich durch einen vorgegebenen Programmablauf bestimmte Abfrage eines gesonderten Timers handeln (Sp. 3 Z. 18 bis 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Nach der Merkmalsgruppe 4 nimmt der Datengenerator (mindestens) zwei "Zustände" A und B ein, in denen die ausgegebenen Daten aufgrund der empfangenen Daten unterschiedlich generiert werden. Um die Analysierbarkeit dieses Zusammenhangs zu erschweren, gibt es zwischen den Zuständen A und B fünf weitere Zustände, die Zustände C1 bis Cn≥5, in denen es keine Abhängigkeit zwischen "dem Zustand" des Datengenerators und den generierten Daten gibt. Der "Zustand" des Datengenerators bezeichnet einen definierten Zusammenhang zwischen Datenempfang und Datengenerierung an einem bestimmten Punkt des Datenempfangs. In den Zuständen A und B bestimmen die empfangenen (fehlerfreien oder fehlerhaften) Daten die Datengenerierung, in den Zuständen C1 bis Cn tun sie dies nicht. Gleichwohl werden auch in den Zuständen C1 bis Cn Daten generiert. Die Werte dieser Daten sind jedoch nicht aus den Zuständen A, B oder C1 bis Cn abgeleitet, sondern haben einen zufälligen, gegebenenfalls pseudozufälligen Ursprung. Damit dienen die Zustände C1 bis Cn der Verschleierung der in den Zuständen A und B generierten Daten, weil sämtliche Daten in allen Zuständen äußerlich gleich erscheinen. Für den Wechsel in einen der Zustände C1 bis Cn muss es gleichwohl eine Kausalbeziehung zu dem Datenempfang vom Rechensystem geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Merkmale 2 und 5.1 lassen offen, ob ein Manipulationsversuch und der darauf bewirkte Fehlerzustand im Rechensystem vom Datengenerator bereits beim ersten nicht vorgesehenen Datum angenommen wird oder erst bei einer Mehrzahl solcher Daten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die in den Merkmalen 3 bis 5 bezeichneten Maßnahmen bewirken gleichermaßen - mit unterschiedlichen und miteinander kombinierbaren Mitteln -, dass der Datengenerator Daten erzeugt, die eine Struktur aufweisen, die Rückschlüsse auf die für eine Eröffnung des Programmzugriffs erforderliche Dateneingabe ausschließen oder diese zumindest erheblich erschweren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit für das Berufungsverfahren von Bedeutung, wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Weder gehe - mit einer für das Berufungsverfahren nicht mehr interessierenden Ausnahme - der Gegenstand der Erfindung über den Inhalt der ursprünglichen Anmeldung hinaus, noch sei der Schutzbereich des Streitpatents gegenüber der erteilten Fassung des Patentanspruchs erweitert. Die Erfindung sei so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen könne. Dies gelte auch für die Frage, wie der Datengenerator Manipulationsversuche erkenne. Dem Fachmann, bei dem es sich um einen Diplomingenieur oder Informatiker mit Erfahrungen in der Entwicklung von Autorisierungsverfahren für Software handele, sei klar, dass es für die vom Rechensystem empfangenen Daten Gültigkeitsregeln geben müsse, deren Nichteinhaltung vom Datengenerator als Manipulationsversuch gewertet werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent habe weder in der Fassung des Hauptantrags noch der Hilfsanträge I bis IV Bestand, weil der Gegenstand des hierin jeweils enthaltenen Patentanspruchs 4 durch den Stand der Technik nahegelegt gewesen sei. Dem Fachmann sei aus der US-amerikanischen Patentschrift 4 747 139 (NK13) eine Vorrichtung mit den Merkmalen 1 und 2 bekannt gewesen. Die NK13 zeige eine Vorrichtung zum Schutz von Software gegen eine unautorisierte Benutzung, die hierfür einen mit dem Rechensystem verbundenen, externen Datengenerator verwende und an dieses System Daten ausgebe, die von den empfangenen Daten abhingen. Ausgehend von dieser Vorrichtung habe die Verwendung eines Zustandsautomaten nahegelegen, der in Abhängigkeit der empfangenen Daten Zustandswechsel entsprechend der Merkmalsgruppe 4 durchführe, bei denen je nach Zustand richtige oder zufällige Daten ausgegeben würden. Da der Zustandsautomat der NK13 nur als beispielhafte Ausführung beschrieben sei, verließen Änderungen insbesondere im Hinblick auf Anzahl der möglichen Zustände und die Zustandsübergänge nicht den Rahmen fachmännischen Handelns. Die Festlegung, dass der Datengenerator nur durch mindestens fünf Zustände C in den Zustand B gebracht werden könne, stelle nicht mehr als eine fachmännische Maßnahme dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand gemäß Hilfsantrag V (die Kombination der Merkmale 1 bis 5.3, letzteres beschränkt auf die zweite Alternative und ergänzt um den Zusatz "zeitlich begrenzt") sei demgegenüber neu und beruhe auf erfinderischer Tätigkeit. Die NK13 offenbare nicht die Merkmale 5.2 und 5.3. Auch wenn es als naheliegend angesehen werden könnte, nach dem Empfang unzulässiger Eingabedaten für die Ausgabe zufälliger Daten eigene Zustände im Sinne der Merkmalsgruppe 4 vorzusehen, folge daraus noch keine Änderung des Inhalts eines Speichers im Datengenerator gemäß Merkmal 5.2. Vor allem aber sei der NK13 kein Hinweis zu entnehmen, auf den Empfang unzulässiger Daten, mithin auf das Erkennen eines Manipulationsversuchs, beim Empfang weiterer Daten zeitlich begrenzt nur fehlerhafte Daten auszugeben (beschränktes Merkmal 5.3). Für den Fall eines Manipulationsversuchs enthalte die NK13 lediglich die Lehre, genau einmal mit zufälligen, mithin fehlerhaften Daten zu reagieren, nach dem Empfang weiterer, zulässiger Eingabedaten aber wieder richtige Daten auszugeben. Um zu einer Weiterentwicklung mit dem Merkmal 5.3 zu gelangen, seien für den Fachmann mehrere Schritte notwendig gewesen, für die die NK13 weder Hinweise noch Anregungen geboten habe; insbesondere enthalte die Entgegenhaltung keine Hinweise für eine Zeitvorgabe zur Ausgabe fehlerhafter Daten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die weiteren Entgegenhaltungen lägen noch weiter ab vom Gegenstand des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>III. Dies hält der Berufung der Beklagten im Wesentlichen nicht stand; die Berufung der Klägerin erweist sich als unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>1. Zu Unrecht hat das Patentgericht den Gegenstand von Patentanspruch 4 als nicht patentfähig angesehen und mit dieser Begründung das Streitpatent auch im Umfang der in den erstinstanzlichen Hilfsanträgen I bis IV enthaltenen Patentansprüche 1 und 3 für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>a) Dies ist, wie die Berufung der Beklagten zu Recht rügt, schon deshalb rechtsfehlerhaft, weil der angenommene Mangel der Patentfähigkeit des Gegenstands des Patentanspruchs 4 es nicht rechtfertigte, das Streitpatent auch im Umfang der Patentansprüche 1 und 3 für nichtig zu erklären. Anders als das Patentgericht meint, bietet hierfür insbesondere der zum Einspruchsverfahren ergangene Beschluss des Senats vom 27. Juni 2007 (X ZB 6/05, BGHZ 173, 47 - Informationsübermittlungsverfahren II) keine Grundlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>aa) Allerdings hat das Patentgericht zu Recht angenommen, dass die in dieser Entscheidung entwickelten Maßstäbe auch im Patentnichtigkeitsverfahren anwendbar sind. Beantragt der Patentinhaber im Einspruchsverfahren, das Patent in beschränktem Umfang mit einem bestimmten Anspruchssatz oder bestimmten Anspruchssätzen aufrechtzuerhalten, ist dieser Antrag des Patentinhabers maßgeblich und rechtfertigt grundsätzlich den Widerruf des Patents, wenn sich auch nur der Gegenstand eines Patentanspruchs aus dem vom Patentinhaber verteidigten Anspruchssatz als nicht patentfähig erweist (BGHZ 173, 47 Rn. 22 - Informationsübermittlungsverfahren II). Im Patentnichtigkeitsverfahren gilt Entsprechendes. Der Patentinhaber kann nach § 64 Abs. 1 PatG das Patent durch (zulässige) Änderungen der Patentansprüche beliebig beschränken, und er kann auch den vollständigen Widerruf des Patents erwirken, ohne dass es auf einen Widerrufsgrund im Sinne des § 21 Abs. 1 PatG ankäme. Die Befugnisse, die ihm § 64 Abs. 1 PatG einräumt, kann er auch im Patentnichtigkeitsverfahren wahrnehmen; die Bestimmungen des § 83 Abs. 4 und des § 116 Abs. 2 PatG legen dies zugrunde. Entspricht eine teilweise oder vollständige Nichtigerklärung des Streitpatents dem Antrag des Patentinhabers, kommt es mithin nicht mehr darauf an, ob ein Nichtigkeitsgrund vorliegt oder nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Der Senat hat zugleich aber auch darauf hingewiesen, dass bei der Prüfung des Begehrens des Patentinhabers - wie stets - nicht am Wortlaut seiner Anträge gehaftet werden darf, sondern das tatsächlich Gewollte zu ermitteln und zu dessen Ermittlung das gesamte Vorbringen des Patentinhabers zu berücksichtigen ist (BGHZ 173, 47 Rn. 23 - Informationsübermittlungsverfahren II). Insbesondere wenn der Patentinhaber einen Anspruchssatz verteidigt, der nebengeordnete Ansprüche enthält, die nicht nur wegen unterschiedlicher Anspruchskategorien in einem Nebenordnungsverhältnis stehen, sondern sachlich unterschiedliche Lösungen enthalten, liegt die Annahme regelmäßig fern, der Patentinhaber wolle, erweise sich der Gegenstand nur eines dieser Ansprüche als nicht patentfähig oder ein Anspruch aus anderen Gründen als nicht zulässig oder nicht rechtsbeständig, auch die übrigen Patentansprüche nicht verteidigen. Denn im Allgemeinen widerspräche dies dem Interesse des Patentinhabers, von seinem Schutzrecht nicht mehr aufzugeben, als nach der Sach- und Rechtslage geboten. Hat der Patentinhaber - wie im Streitfall - hilfsweise weitere beschränkte Anspruchssätze zur Entscheidung gestellt, ist regelmäßig - etwa durch Erörterung in der mündlichen Verhandlung - aufzuklären, in welchem Verhältnis diese Hilfsanträge zu einem nicht ausdrücklich formulierten Petitum stehen sollen, einem formal vorrangigen Antrag nur teilweise zu entsprechen. Dies hat das Patentgericht verfahrensfehlerhaft unterlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>b) Dem Patentgericht kann aber auch nicht in der Annahme beigetreten werden, der Gegenstand von Patentanspruch 4 sei nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Klägerin sind bei der Prüfung der erfinderischen Tätigkeit sämtliche Merkmale des Patentanspruchs 4 zu berücksichtigen. Der Einwand, die Merkmale 4.2 und 4.3 seien nicht-technisch und lösten kein technisches Problem, geht schon im Ansatz fehl. Nach gefestigter Rechtsprechung sowohl des Bundesgerichtshofs als auch der Beschwerdekammern des Europäischen Patentamts steht es weder der Patentierbarkeit überhaupt noch der Berücksichtigung bei der Prüfung der erfinderischen Tätigkeit entgegen, dass ein Patentanspruch Merkmale enthält, die die Ausgestaltung eines Datenverarbeitungsprogramms, die Wiedergabe von Informationen oder die Anwendung mathematischer Methoden betreffen. Für die Überwindung der Ausschlusstatbestände reicht es vielmehr aus, dass die Erfindung überhaupt die Lösung eines technischen Problems mit technischen Mitteln lehrt, und auch bei der Prüfung der erfinderischen Tätigkeit ist jedes Merkmal zu berücksichtigen, das die Lösung des technischen Problems bestimmt oder jedenfalls beeinflusst (BGH, Urteile vom 25. August 2015 - X ZR 110/13, GRUR 2015, 1184 Rn. 18 - Entsperrbild; vom 26. Februar 2015 - X ZR 37/13, GRUR 2015, 660 Rn. 35 - Bildstrom, jeweils mwN). Es kommt mithin nicht darauf an, ob die Merkmale 4.2 und 4.3 für sich genommen technisch sind und ein technisches Problem lösen, sondern ob sie im Kontext der erfindungsgemäßen Lehre zur Lösung des dieser zugrundeliegenden Problems beitragen, die Analysierbarkeit der Datenausgabe des Datengenerators zu erschweren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die Lösung dieses Problems besteht, wie ausgeführt, darin, den vom Datengenerator ausgegebenen Daten eine bestimmte Struktur zu geben, die die Analyse des Zusammenhangs mit der Dateneingabe erschwert und in den Merkmalen 3 bis 5 unterschiedlich ausgestaltet wird. Diese Struktur wird gerade durch die Merkmale 3 bis 5 bestimmt. Hierin liegt mithin ein technisches Lösungsmittel; dass die Einzelheiten jeweils (allein) durch bestimmte Algorithmen definiert werden, ist ohne Belang.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>bb) Die Annahme des Patentgerichts, der Gegenstand von Patentanspruch 4 werde durch die NK13 nahegelegt, wird, wie die Berufung der Beklagten zu Recht rügt, durch den Offenbarungsgehalt der Entgegenhaltung nicht getragen. Unstreitig und vom Patentgericht zutreffend festgestellt, zeigt die NK13 die Merkmalsgruppe 1 und das Merkmal 2. Gleichwohl werden aber jedenfalls die Anweisungen der Merkmale 4.2 und 4.3 weder in der NK13 offenbart noch durch diese nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Bei dem vom Patentgericht herangezogenen Ausführungsbeispiel nach Figur 2 mag es zwar mehrere, mithin auch fünf weitere Zustände geben können, über die der Datengenerator von Zustand A (6) nach Zustand B (9) gelangen kann. Jedoch ist auch der direkte Übergang von A nach B möglich, wenn die zutreffende Eingabe erfolgt. Merkmal 4.2 ist mithin nicht gezeigt; die Sicherheitsmaßnahme, dass zwischen den Zuständen A und B stets mindestens fünf weitere Zustände zu durchlaufen sind, ist nicht verwirklicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Das Gleiche gilt für Merkmal 4.3. In den "C-Zuständen" (2 und 3) werden zwar Zufallszahlen generiert (<em>the finite state machine would sense on improper input and would generate some random output</em>). Die Datengenerierung ist aber, wie sich bereits aus dem vorstehenden Zitat ergibt, nicht unabhängig von der Eingabe und mithin vom jeweiligen Zustand C. Nichts anderes gilt für die Initialisierungsphase, auf die sich die Klägerin im Berufungsverfahren weiterhin berufen hat. Auch diese Sicherheitsmaßnahme ist folglich nicht verwirklicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Es ist auch nicht aufgezeigt, inwiefern die Entgegenhaltung diese beiden Maßnahmen und ihre Kombination nahelegen könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>2. Das angefochtene Urteil erweist sich, soweit Patentanspruch 4 in Rede steht, auch nicht aus anderen Gründen als im Ergebnis zutreffend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand des Patentanspruchs 4 wird auch durch den weiteren, von der Klägerin angeführten Stand der Technik weder für sich genommen noch in Kombination mit der NK13 nahegelegt. Weder die US-Patentschrift 4 791 565 (NK12) noch die deutsche Patentschrift 35 26 130 (NK14) offenbaren die Merkmalsgruppe 4. Gegenteiliges macht auch die Klägerin nicht geltend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand des Patentanspruchs 4 geht nicht über den Inhalt der ursprünglichen Anmeldeunterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>aa) Eine unzulässige Erweiterung liegt nicht darin, dass gemäß Merkmal 4.3 die Datenausgabe in den Zuständen A und B von diesen Zuständen abhängt. Die Abhängigkeit der ausgegebenen Daten vom Zustand des Datengenerators in einer deterministischen Weise ist der Normalfall gemäß Merkmal 1.3. Soweit die Anmeldung (Offenlegungsschrift Sp. 2 Z. 52 bis 59) erwähnt, dass es diese zwei Zustände sowie einen dritten Zustand C gibt, in dem die ausgegebenen Daten nicht von diesem Zustand abhängen sollen, liest der Fachmann deshalb im Umkehrschluss mit, dass in den Zuständen A und B die ausgegebenen Daten sehr wohl vom jeweiligen Zustand abhängen sollen. Dies nunmehr ausdrücklich im Patentanspruch (Merkmal 4.3) zu erwähnen, begründet keine unzulässige Erweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>bb) Gleiches gilt für Merkmal 4.2, soweit dort zu den Zuständen C angegeben wird, dass diese aufgrund empfangener Daten angenommen werden. Entsprechend dem Normalfall gemäß Merkmal 1.3 arbeitet der Datengenerator grundsätzlich aufgrund der vom Rechensystem empfangenen Daten. In diesem Kontext versteht der Fachmann auch einen Wechsel in einen der Zustände A, B und C dahin, dass dieser jeweils kausal auf dem Datenempfang beruht. Dies bedurfte keiner ausdrücklichen Erwähnung in den ursprünglichen Anmeldeunterlagen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>3. Ebenfalls rechtsbeständig ist Patentanspruch 3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>a) Sein Gegenstand wird dem Fachmann durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>aa) Die NK13 offenbart zwar, dass die auszugebenden Daten mit pseudo-zufälligen Werten ergänzt werden, um eine Analyse des Zusammenhangs zwischen empfangenen und ausgegebenen Daten zu erschweren (Sp. 3 Z. 8 bis 13). Dies führt indessen nicht zu einer nicht-deterministischen Redundanz im Sinne des Streitpatents. Weder werden die Pseudo-Zufallswerte nicht-deterministisch erzeugt, denn sie werden ausschließlich aufgrund einer Programmroutine gewonnen, noch werden diese Zufallswerte mit den auszugebenden Daten verknüpft, um so den Informationsgehalt dieser Daten mehrfach zu übertragen und damit diese Übertragung überprüfen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>bb) Die weiteren Entgegenhaltungen offenbaren ebenfalls keine Redundanz im Sinne von Merkmal 3. Weiterhin sind aus dem allgemeinen Fachwissen des Fachmanns, den das Patentgericht zutreffend definiert hat, keine Hinweise, Anregungen oder sonstige Gesichtspunkte ersichtlich, die einen Anlass dafür erkennen ließen, die Datenausgabe eines der NK13 entsprechenden Datengenerators hin zu einer Redundanz gemäß Merkmal 3 weiter zu entwickeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>b) Die Lehre des Patentanspruchs 3 ist auch ausführbar offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend ausgeführt hat, war dem Fachmann geläufig, einen Datengenerator mit den Merkmalen 1 und 2 zu konstruieren. Insbesondere war ihm dies aus der NK13 bekannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Zudem war dem Fachmann bekannt, einen nicht-deterministischen Zufallswert mit Hilfe eines gesonderten Zufallsgenerators zu erzeugen. Die Verwendung solcher Generatoren gehörte zum allgemeinen Fachwissen des Fachmanns.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>4. Demgegenüber hat das Streitpatent im Umfang der Patentansprüche 5 und 8 bis 13, soweit diese unmittelbar oder mittelbar auf Patentanspruch 1 rückbezogen sind, keinen Bestand. Denn der Gegenstand des von der Beklagten als solchen zuletzt nicht mehr verteidigten Patentanspruchs 1 ist nicht patentfähig; soweit die Patentansprüche 5 und 8 bis 13 diesen Gegenstand weiter konkretisieren, führt auch dies nicht zu einer patentfähigen Lehre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 ist nicht neu; er ist bereits in der NK12 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Die Schrift beschreibt ein Programmschutzgerät (<em>software protection device</em> 10), das mittels einer Datenleitung zwischen einem Endgerät (<em>computer terminal </em>14) und einem Zentralrechner (<em>central processor</em> 16) eines Computersystems geschaltet sein kann (NK12, Sp. 2 Z. 31 bis 38, Sp. 3 Z. 49 bis 53). Auf eine zulässige Anfrage an das Programmschutzgerät wird eine den weiteren Programmablauf autorisierende Antwort an den Zentralrechner gesendet (Sp. 5 Z. 12 bis 17). Bei einer größeren Anzahl unautorisierter Anfragen, die durch Überschreitung eines Schwellwerts festgestellt wird, ist vorgesehen, dass das geschützte Programm im Zentralrechner gesperrt wird und zur Nutzung erst wieder in bestimmter Weise freigegeben werden muss (Sp. 5 Z. 19 bis 37; Sp. 6 Z. 33 bis 57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend erkannt hat, entspricht dies der Merkmalsgruppe 1. Dem steht nicht entgegen, dass die NK12 sich insbesondere für die Beschreibung der Ausführungsbeispiele auf ein Rechensystem mit einem Großrechner und daran angeschlossenen Terminals bezieht. Der Gegenstand des Streitpatents enthält weder Beschränkungen auf Rechenanlagen bestimmten Typs, noch beschränkt es die Verbindungen zwischen dem Rechensystem und dem Datengenerator auf bestimmte Konstellationen, unter die ein System mit einem Großrechner und daran angeschlossenen Terminaleinheiten nicht fiele.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Darüber hinaus offenbart die NK12 auch das Merkmal 2 und die Merkmalsgruppe 5. Es entspricht, wie ausgeführt, dem Gegenstand des Streitpatents, wenn die Reaktion auf das Erkennen fehlerhafter Daten erst nach einer bestimmten Anzahl solcher Daten erfolgt und das Rechensystem erst dann in einen Fehlerzustand gebracht wird. Mit dem Sperren des Programms im Zentralrechner nach einer bestimmten Anzahl von unzulässigen Anfragen und dem Abwarten auf eine Freigabe, bevor erneut wieder den Programmablauf zulassende Antworten ausgegeben werden, offenbart die NK12 die Merkmale 5.1 und 5.3. Das Warten auf eine gesonderte Freigabe ist - für den Fachmann erkennbar - zwangsläufig mit einem Abspeichern des erkannten Manipulationsversuchs und somit einer Änderung des Inhalts des Speichers im Datengenerator verbunden (Merkmal 5.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>b) Dafür, dass sich aus der Kombination mit Merkmal 5.4 oder den kennzeichnenden Merkmalen der Patentansprüche 8 bis 13 ein patentfähiger Gegenstand ergäbe, ist weder etwas geltend gemacht noch für den Senat ersichtlich. Die Patentansprüche 5 und 8 bis 13 haben daher, soweit sie auf Patentanspruch 1 unmittelbar oder mittelbar rückbezogen sind, mangels Patentfähigkeit ihres Gegenstands keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>5. Dies rechtfertigt die Nichtigerklärung des Streitpatents im Umfang der Patentansprüche 1, 5 und 8 bis 13 insoweit, als Patentanspruch 1 und in den Patentansprüchen 5 und 8 bis 13 der unmittelbare oder mittelbare Rückbezug auf Patentanspruch 1 entfallen, und die Abweisung der Klage im Übrigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>a) Die Beklagte hat zwar sowohl in den Anträgen, die sie in der Berufungsbegründung formuliert hat als auch in der Anträgen, die sie zuletzt in der mündlichen Verhandlung gestellt hat, daran festgehalten, jeweils in vollständigen Anspruchssätzen bestimmte Fassungen der nebengeordneten Patentansprüche miteinander zu verknüpfen. Auch daraus kann aber nach den vorstehend dargestellten Grundsätzen der Antragsauslegung jedenfalls nicht pauschal geschlossen werden, die Beklagte wolle unter allen Umständen nur den vollständigen Anspruchssatz zur Entscheidung stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>b) Mit dem zuletzt nach Erörterung einer zweckmäßigen Antragsfassung gestellten Hauptantrag hat die Beklagte Patentanspruch 1 als solchen nicht mehr verteidigt, die Rückbeziehung auf Patentanspruch 1 in Patentanspruch 5 (und den weiteren angegriffenen Unteransprüchen) jedoch aufrechterhalten. Sie hat damit und mit Hilfsantrag VI, den sie zuletzt noch zur Entscheidung gestellt hat, zum Ausdruck gebracht, dass sie vornehmlich auf die Abweisung der Klage im Umfang der Patentansprüche 3 und 4 und ganz besonders im Umfang des Patentanspruchs 4 Wert legt; in der Fassung des Hilfsantrags VI wird lediglich der Gegenstand des Patentanspruchs 4 weiter konkretisiert und eingeschränkt, während die weiteren Patentansprüche fallengelassen werden. Mit diesem erkennbaren Rechtsschutzziel wäre es unvereinbar, wenn der Senat nicht im Umfang der Patentansprüche 3 und 4, die sich als rechtsbeständig erweisen, nach dem Hauptantrag der Beklagten erkennte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG, § 92 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                           Grabinski                           Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                      Schuster                              Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE314542016&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

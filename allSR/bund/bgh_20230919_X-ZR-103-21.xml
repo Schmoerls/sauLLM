@@ -1,0 +1,2596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE631582023</doknr>
+   <ecli>ECLI:DE:BGH:2023:190923UXZR103.21.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230919</entsch-datum>
+   <aktenzeichen>X ZR 103/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BGH, 27. September 2022, Az: X ZR 103/21, Beschluss<br/>vorgehend BPatG München, 17. August 2021, Az: 6 Ni 41/19 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Klägerinnen zu 2, 4 und 5 wird das Urteil des 6. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 17. August 2021 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 1 671 505 wird dadurch teilweise für nichtig erklärt, dass die Patentansprüche 16 bis 19 die nachfolgende Fassung erhalten, wobei sich die Rückbeziehung in den Ansprüchen 20 bis 23 weiterhin auf die erteilte Fassung bezieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">16. A terminal device for applying a redundancy strategy in WCDMA to an automatic repeat request function (100) for uplink transmissions, wherein said terminal device (10) comprises:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- receiving means for receiving strategy information indicating a selected sequence of first and second redundancy parameters (s, r), each first and second parameter indicating a respective redundancy version for said automatic repeat request function (100), wherein each respective first parameter defines whether or not said respective redundancy version prioritizes systematic bits, and wherein each respective second parameter defines which bits are to be punctured for said respective redundancy version;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- parameter generating means (102), operably connected to said receiving means, for generating said selected sequence of said first and second redundancy parameters controlling said automatic repeat request function (100) in response to receipt of said strategy information;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein said strategy information is an index or pointer to said selected sequence, and wherein said selected sequence of redundancy parameters relates to Chase Combining, Partial Incremental Redundancy or Full Incremental Redundancy.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">17. The terminal device according to claim 16, further comprising a mobile terminal (10) of a cellular communication network, operably connected to said receiving means.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">18. The terminal device according to claim 16 or 17, wherein said receiving means is configured to receive said strategy information via Radio Resource Control signaling.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">19. The terminal device according to any one of claims 16 to 18, wherein said terminal device (10) is configured to notify about redundancy parameters used from said selected at least one sequence by using an outband signaling.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die weitergehende Berufung und die Klage gegen die erteilte Fassung von Patentanspruch 21 werden zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Kosten der ersten Instanz werden wie folgt verteilt: Von den Gerichtskosten tragen die Klägerin zu 3 ein Drittel und die Klägerinnen zu 1 und 2 sowie die Beklagte jeweils zwei Neuntel. Von den außergerichtlichen Kosten der Beklagten tragen die Klägerinnen zu 1 und 2 jeweils zwei Neuntel und die Beklagte fünf Neuntel. Von den außergerichtlichen Kosten der Klägerinnen zu 1 und 2 trägt die Beklagte jeweils ein Drittel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Berufungsverfahrens tragen die Beklagte ein Sechstel und die Klägerinnen zu 2, 4 und 5 jeweils fünf Achtzehntel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 671 505 (Streitpatents), das am 9. September 2004 unter Inanspruchnahme zweier Prioritäten vom 7. Oktober und 11. Dezember 2003 angemeldet wurde und die Auswahl einer Redundanzstrategie für die automatische Anforderung von Wiederholungen in einem Kommunikationsnetz betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 16, auf den drei weitere Patentansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A terminal device for applying a redundancy strategy to an automatic repeat request function (100), said terminal device (10) comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">receiving means for receiving information indicating a selected sequence of redundancy parameters each parameter indicating a redundancy version for said automatic repeat request function (100); and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">parameter generating means (102), operably connected to said receiving means, for generating said selected sequence of redundancy parameters for said automatic repeat request function (100) in response to receipt of said information;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein said information is an index or pointer to the selected at least one sequence.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zu 1 und 2 haben das Streitpatent im Umfang der Patentansprüche 16 bis 19 angegriffen. Die Klägerin zu 3 hat das Schutzrecht insgesamt angegriffen, ihre Klage aber bereits in erster Instanz wieder zurückgenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zu 1 und 2 haben geltend gemacht, das Streitpatent sei im angegriffenen Umfang nicht patentfähig. Die Klägerin zu 1 hat darüber hinaus geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat das Streitpatent in der erteilten Fassung und hilfsweise in 61 geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent insoweit für nichtig erklärt, als der Gegenstand der angegriffenen Ansprüche über die mit dem Hilfsantrag Vc neu verteidigte Fassung hinausgeht. Die weitergehende Klage hat es abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Dagegen richtet sich die Berufung der Klägerin zu 2, die ihr erstinstanzliches Klageziel weiterverfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zu 4 und 5 sind dem Nichtigkeitsverfahren in zweiter Instanz auf Klägerseite beigetreten. Sie verfolgen dasselbe Ziel wie die Klägerin zu 2. Die Klägerin zu 5 beantragt zusätzlich, das Streitpatent auch im Umfang des Patentanspruchs 21 für nichtig zu erklären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte tritt der Berufung und der Klageerweiterung entgegen und verteidigt das Streitpatent hilfsweise nach Maßgabe ihrer schon in erster Instanz gestellten Hilfsanträge. Für den Fall der Zulässigkeit der Klageerweiterung stellt sie ihre Anträge in geänderter Reihenfolge; in erster Linie verteidigt sie danach die Patentansprüche 16 bis 19 in der Fassung des Hilfsantrags 5c neu, in Kombination mit dem erteilten Patentanspruch 21.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat in der Sache keinen Erfolg. Das Streitpatent ist deshalb nur insoweit für nichtig zu erklären, als die Beklagte es nicht mehr verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft die Auswahl einer Redundanzstrategie für die automatische Anforderung von Wiederholungen in einem Kommunikationsnetz (Abs. 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>1. Nach den Ausführungen in der Streitpatentschrift wird in leitungsgebundenen Kommunikationsnetzen die Zuverlässigkeit der Datenübertragung herkömmlich dadurch sichergestellt, dass ein Paket erneut übertragen wird, wenn der vorherige Übertragungsversuch nicht erfolgreich war. Ein solcher Mechanismus wird automatische Wiederholungsanforderung (Automatic Repeat Request, ARQ) genannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Bei drahtloser Kommunikation bedürften Pakete außerdem Schutz vor Kanalrauschen, Fading und Interferenzen. Dazu diene die Vorwärtsfehlerkodierung (forward error coding, FEC), bei der beispielsweise zusätzliche (redundante) Bits in dem zu übertragenden Datenpaket integriert werden. Um unnötige Ineffizienzen durch hierbei entstehende Overheads zu vermeiden, sei im Stand der Technik das sogenannte hybride ARQ (H-ARQ) angewandt worden, eine Kombination von ARQ und FEC (Abs. 2). Dabei werde die Redundanz sukzessive gesteigert (inkrementelle Redundanz, incremental redundancy scheme). Hierzu würden die Daten zunächst mit hoher Codier- oder Übertragungsrate (also mit geringer Redundanz) gesendet. Falls weitere Übertragungen nötig seien, könnten diese mit höherer Redundanz erfolgen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Ein schnelles H-ARQ-Konzept für die Anwendung im Downlink sei im Rahmen der Standardisierung des High Speed Downlink Packet Access (HSDPA) für die Spezifikation der Third Generation Partnership Project (3GPP) bekannt geworden. Dieser Standard spezifiziere mögliche Redundanzversionen (redundancy versions, RV) in Richtung eines Nutzers (in Downlink-Richtung), überlasse es aber dem Netzwerkknoten (Node B), die Redundanzversionen und deren Reihenfolge auszuwählen und an das Endgerät (UE) zu signalisieren. Für die Signalisierung von Redundanzversionen auf dem High-Speed Shared Control Channel (HS-SSCH) würden drei Bits zugewiesen, so dass acht mögliche Redundanzversionen angegeben werden könnten (Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die naheliegende Lösung, die Auswahl der Redundanzversion im Uplink dem Endgerät zu überlassen, könne zu Problemen führen, wenn unterschiedliche Netzwerkknoten unterschiedliche Fähigkeiten aufwiesen. Darüber hinaus könne ein Netz auf unterschiedliche Weise betrieben werden, zum Beispiel mit dem Ziel einer hohen oder niedrigen Blockfehlerrate (Block Error Rate, BLER), was unterschiedliche Strategien erfordere, um eine optimale Leistungsfähigkeit erreichen zu können (Abs. 5). Eine Signalisierung vom Endgerät zum Netzwerkknoten führe zudem zu einem Overhead aller Endgeräte, die in dem verbesserten DCH-Modus betrieben würden. Es sei es sehr wichtig, dass die Codierinformation bezüglich der Redundanzversion korrekt empfangen werde, weil ein fehlerhafter Empfang dieser Werte zur Verwendung fehlerhafter Punktierungsmuster und damit zu einem fehlerhaften Empfang der Pakete führe (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein verbessertes Auswahlverfahren für Redundanzstrategien bereitzustellen (Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in Anspruch 16 in der Fassung der Hilfsanträge Vc neu und 5c neu eine Vorrichtung vor, deren Merkmale sich wie folgt gliedern lassen (Änderungen gegenüber der erteilten Fassung sind einfach unterstrichen, zusätzliche Änderungen nach Hilfsantrag 5c neu sind doppelt unterstrichen):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">0       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A terminal device for applying a redundancy strategy <span style="text-decoration:underline">in </span>
+                           <span style="text-decoration:underline">WCDMA</span> to an automatic repeat request function (100) <span style="text-decoration:underline">for uplink transmissions</span>, <span style="text-decoration:underline">wherein</span> said terminal device (10) <span style="text-decoration:underline">comprises </span>
+                           <span style="text-decoration:line-through">comprising</span>:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Endgerät zum Anwenden einer Redundanzstrategie <span style="text-decoration:underline">in WCDMA</span> auf eine automatische Wiederholungsanforderungs-funktion (100) <span style="text-decoration:underline">für Übertragungen im Uplink</span>, umfassend:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">receiving means</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Empfangseinrichtung</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">for receiving <span style="text-decoration:underline">strategy</span> information indicating a selected sequence of <span style="text-decoration:underline">first and second</span> redundancy parameters <span style="text-decoration:underline">(r, s)</span>/<span style="text-decoration:underline">(s, r).</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">zum Empfangen von <span style="text-decoration:underline">Strategie-</span>Informationen, die eine ausgewählte Sequenz <span style="text-decoration:underline">von ersten und zweiten</span> Redundanzparametern <span style="text-decoration:underline">(r, s)</span>/<span style="text-decoration:underline">(s, r)</span> angeben.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Each <span style="text-decoration:underline">first and second</span> parameter indicating a <span style="text-decoration:underline">respective</span> redundancy version for said automatic repeat request function (100).</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Jeder <span style="text-decoration:underline">der ersten und zweiten</span> Parameter gibt eine <span style="text-decoration:underline">entsprechende</span> Redundanzversion für die automatische Wiederholungsanforderungsfunktion (100) an.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">1.3</span>     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Each respective first parameter defines whether or not said respective redundancy version prioritizes systematic bits</span>;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Jeder entsprechende erste Parameter definiert, ob die entsprechende Redundanzversion Systembits priorisiert</span>.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">1.4</span>     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Each respective second parameter defines which bits are to be punctured for said respective redundancy version</span>;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Jeder entsprechende zweite Parameter definiert, welche Bits für die entsprechende Redundanzversion punktiert werden sollen</span>.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Parameter generating means (102), operably connected to said receiving means;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Einrichtung (102) zum Erzeugen von Parametern, die operativ mit der Empfangseinrichtung verbunden ist,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2.1     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">for generating said selected sequence of <span style="text-decoration:underline">said first and second</span> redundancy parameters <span style="text-decoration:underline">(s, r) </span>
+                           <span style="text-decoration:line-through">for </span>
+                           <span style="text-decoration:underline">controlling</span> said automatic repeat request function (100) in response to receipt of said information.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">um in Reaktion auf den Empfang der genannten Informationen die ausgewählte Sequenz von <span style="text-decoration:underline">ersten und zweiten</span> Redundanzparametern <span style="text-decoration:underline">(s, r)</span> zu erzeugen, <span style="text-decoration:line-through">für </span>
+                           <span style="text-decoration:underline">die</span> die automatische Wiederholungsanforderungsfunktion (100) <span style="text-decoration:underline">steuern</span>.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Said <span style="text-decoration:underline">strategy</span> information is an index or pointer to <span style="text-decoration:line-through">the </span>
+                           <span style="text-decoration:underline">said</span> selected <span style="text-decoration:line-through">at least </span>
+                           <span style="text-decoration:line-through">one</span> sequence.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Diese <span style="text-decoration:underline">Strategie-</span>Informationen sind ein Index oder Zeiger auf die <span style="text-decoration:underline">diese</span> ausgewählte <span style="text-decoration:line-through">zumindest eine</span> Sequenz</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Said selected sequence of redundancy parameters relates to Chase Combining, Partial Incremental Redundancy or Full Incremental Redundancy.</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Diese ausgewählte Sequenz von Redundanzparametern bezieht sich auf Chase Combining, Partial Incremental Redundancy oder Full Incremental Redundancy.</span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>a) Aus der Zweckangabe in Merkmal 0 ergibt sich, dass das Endgerät für den angegebenen Zweck geeignet sein muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Redundanzversionen legen fest, wie die zu übertragenden Daten zu kodieren sind (vgl. Abs. 2). Eine Redundanzstrategie bestimmt, welche Redundanzversionen bei aufeinander folgenden Übertragungen eines Datenpakets eingesetzt werden sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Das Endgerät muss mithin über eine Funktion verfügen, die bei Bedarf automatisch für die wiederholte Übertragung eines Datenpakets sorgt und für die einzelnen Übertragungsvorgänge die in der angewendeten Strategie vorgegebenen Redundanzversionen einsetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>b) Die Strategie-Informationen geben gemäß Merkmal 1.1 eine Sequenz von (jeweils) zwei Parametern (s, r) an. Diese Parameter geben gemäß Merkmal 1.2 die jeweils einzusetzende Redundanzversion an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Diese Vorgehensweise ermöglicht es, unterschiedliche Strategien festzulegen und dem Endgerät die jeweils ausgewählte Strategie auf einfache Weise zu signalisieren (Abs. 43 Z. 35-38).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>aa) Bei dem in der Streitpatentschrift geschilderten Ausführungsbeispiel, das auf dem Entwurf der Spezifikation 3GPP TS 25.212, Version 5.5.0 Release 5 (D9) beruht, wird mit Hilfe von zwei Parametern (s, r) festgelegt, ob das übermittelte Datenpaket selbst-dekodierbar ist, d.h. ob vorrangig Paritätsbits vor Systembits punktiert werden, und welche Bits punktiert werden (Abs. 29 Z. 28-32).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Punktierte Bits werden im Interesse einer höheren Geschwindigkeit von der Übertragung ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Selbst-dekodierbare Pakete können bei hinreichender Übertragungsqualität ohne Rückgriff auf andere Pakete dekodiert werden. Um dies zu gewährleisten, werden lediglich Paritätsbits punktiert (Abs. 29 Z. 30 f.), also Zusatzinformationen, die bei fehlerhafter Übertragung die Rekonstruktion von Nutzdaten ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Aus Paketen, die nicht selbst-dekodierbar sind, können die Nutzdaten nur durch Kombination mit Paketen aus vorangegangenen oder nachfolgenden Übertragungsvorgängen gewonnen werden. Dies eröffnet die Möglichkeit, auch Systembits zu punktieren, also Bits, die Nutzdaten repräsentieren, begründet aber das Erfordernis, Systembits aus mehreren Vorgängen miteinander zu kombinieren, um die Nutzdaten vollständig rekonstruieren zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Berufungsklägerinnen ergibt sich aus Merkmal 1.2 nicht, dass abweichend von dem dargestellten Ausführungsbeispiel jeder der beiden Parameter (s, r) schon für sich gesehen eine Redundanzversion angibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Für das zuletzt genannte Verständnis mag der Wortlaut von Merkmal 1.2 sprechen. Aus dem Zusammenhang mit den anderen Merkmalen ergibt sich jedoch hinreichend deutlich, dass die Bezeichnung "each first and second parameter" sich auf jedes Paar solcher Parameter bezieht, wie dies in der Beschreibung geschildert ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich insbesondere daraus, dass sich die empfangene Information gemäß Merkmal 1.1 stets auf eine Sequenz von jeweils zwei Parametern bezieht und dass die Steuerung gemäß Merkmal 2.1 jeweils mittels beider Parameter erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>cc) Wie das Patentgericht zu Recht angenommen hat, besteht eine Sequenz aus mindestens zwei aufeinanderfolgenden Parameter-Paaren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich daraus, dass eine Strategie durch die Abfolge von mindestens zwei Redundanzversionen definiert ist und jedes Parameter-Paar jeweils eine Redundanzversion repräsentiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>dd) Der Parameter s gibt in dem geschilderten Ausführungsbeispiel an, ob vorrangig Paritätsbits punktiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dies ist in Merkmal 1.3 dahin umschrieben, dass jeder erste Parameter definiert, ob Systembits priorisiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Ob es danach zulässig bleibt, auch Systembits zu punktieren und damit eine Selbst-Dekodierung auszuschließen, bedarf keiner abschließenden Entscheidung. Wie das Patentgericht zutreffend angenommen hat, reicht es zur Verwirklichung von Merkmal 1.3 jedenfalls aus, wenn jeder erste Parameter definiert, ob das übertragene Paket selbst-dekodierbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>ee) Der Parameter r gibt in dem Ausführungsbeispiel an, welche Bits punktiert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Das damit korrespondierende Merkmal 1.4 ist nach Hilfsantrag Vc neu nicht vorgesehen, wohl aber nach Hilfsantrag 5c neu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>ff) Der Parameter s kann entsprechend seiner Funktion nur die Werte 0 (nicht selbst-dekodierbar) oder 1 (selbst-dekodierbar) aufweisen. Für den Parameter r sieht das Ausführungsbeispiel der Streitpatentschrift vier unterschiedliche Werte (0, 1, 2, 3) vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Insgesamt sind damit acht verschiedene Parameterpaare möglich. Diese werden durch einen Parameter X<sub>rv</sub> gekennzeichnet, der acht verschiedene Werte aufweisen kann, wie dies in der nachfolgend wiedergegebenen Tabelle (Abs. 29 Z. 34-47) dargestellt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:90pt">
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">X<sub>rv</sub> (value)</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">s</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">r</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">2</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">3</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">4</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">2</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">5</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">2</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">6</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">3</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">7</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">3</p>
+                                </td>
+                            </tr>
+                        </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Nach Patentanspruch 16 ist die zuerst genannte Festlegung insoweit zwingend, als der erste Parameter anzeigen muss, ob Systembits priorisiert werden, und für diese Angabe nur zwei Werte (ja oder nein) in Frage kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Wie viele unterschiedliche Werte für den zweiten Parameter möglich sind, gibt Patentanspruch 16 hingegen in keiner der beiden oben wiedergegebenen Fassungen vor. Dies lässt die Möglichkeit offen, für diesen Parameter nur einen zulässigen Wert zu definieren, denn schon durch Variation des ersten Parameters können zwei unterschiedliche Redundanzversionen und damit eine Vielzahl von unterschiedlichen Strategien angegeben werden. Diese Möglichkeit reicht nach der Beschreibung des Streitpatents aus, um die Erfindung zu verwirklichen (Abs. 44).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>gg) Die unterschiedlichen Strategien bestehen bei dem Ausführungsbeispiel aus definierten Folgen von Werten des Parameters X<sub>rv</sub>. Diese Folgen geben an, welches Wertepaar (s, r) und damit welche Redundanzversionen bei aufeinanderfolgenden Übertragungen eines Datenpakets zur Anwendung gelangen sollen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Als Beispiel werden folgende unterschiedliche Strategien angeführt (Abs. 32 f.):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">CC: 0, 0, 0, 0, 0, 0, 0, 0</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">PIR: 0, 2, 4, 6, 0, 2, 4, 6</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">FIR: 0, 1, 2, 3, 4, 5, 6, 7, 8</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Bei der ersten Strategie, die als Chase Combining bezeichnet wird, kommt bei allen Übertragungsvorgängen dieselbe (selbst-dekodierbare) Redundanzversion (X<sub>rv</sub> = 0, d.h. s = 1 und r = 0) zur Anwendung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Bei der zweiten Strategie, die als Partial Incremental Redundancy bezeichnet wird, kommen nacheinander vier unterschiedliche Redundanzversionen X<sub>rv</sub> (0, 2, 4, 6) zur Anwendung. Diese haben gemeinsam, dass sie selbst-dekodierbar sind (d.h. s = 1), also nur Paritätsbits punktiert werden, und unterscheiden sich hinsichtlich des Parameters r, also der Angabe, welche Bits punktiert werden sollen (0, 1, 2, 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Bei der dritten Strategie, die als Full Incremental Redundancy bezeichnet wird, kommen nacheinander alle acht Redundanzversionen zum Einsatz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>hh) Nach Merkmal 4 muss sich die ausgewählte Sequenz zwingend auf eine dieser drei Strategien beziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>(1) Zu Recht hat das Patentgericht angenommen, dass das Endgerät in der Lage sein muss, alle drei genannte Strategien zu verarbeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Merkmal 4 ist zwar nicht zwingend zu entnehmen, dass alle drei Strategien während eines Übertragungsvorgangs eingesetzt werden. Der Vorgabe, dass sich die ausgewählte Sequenz auf Chase Combining, Partial Incremental Redundancy oder Full Incremental Redundancy bezieht, ist aber zu entnehmen, dass jede dieser Strategien Gegenstand der übermittelten Auswahl sein kann. Da das Netz auf unterschiedliche Weise betrieben werden kann, zum Beispiel mit hohem oder niedrigem BLER-Ziel, verbessert die Auswahlmöglichkeit der für jede Betriebsart optimalen Strategie eine optimale Netzleistungsfähigkeit (Abs. 5). Folglich muss das Endgerät in der Lage sein, jede dieser Strategien anzuwenden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>(2) Ebenfalls zu Recht hat das Patentgericht entschieden, dass eine Sequenz sich nicht auf eine Mischung mehrerer unterschiedlicher Strategien beziehen darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Aus der Beschreibung der drei in Merkmal 4 vorgesehenen Strategien ergibt sich allerdings, dass diese einige Ähnlichkeiten aufweisen. Insbesondere wird bei allen Strategien mindestens zweimal dasselbe Datenpaket übertragen. Dennoch sind die drei Strategien anhand von abstrakten Unterscheidungskriterien so definiert, dass sie sich gegenseitig ausschließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Die Strategie CC unterscheidet sich von den beiden anderen dadurch, dass nicht nur gelegentlich, sondern stets dasselbe Paket übertragen wird. Die Strategie FIR ist die einzige, bei der auch nicht selbst-dekodierbare Pakete übertragen werden. Die Strategie PIR hebt sich dadurch ab, dass zwar unterschiedliche Pakete übertragen werden, diese aber alle selbst-kodierbar sind. Eine Mischform dieser drei Strategien ist mit dieser Definition, die für die Auslegung von Merkmal 4 maßgeblich ist, ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>ii) Den so definierten Strategien werden in dem Ausführungsbeispiel der Patentschrift wiederum numerische Werte zugeordnet (Abs. 34), etwa nach folgendem Schema:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:90pt">
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">Nummer</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">Strategie</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">0</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">CC</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">1</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">PIR</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">2</p>
+                                </td>
+                                <td colspan="1" rowspan="1" valign="top">
+                                    <p style="text-align:center">FIR</p>
+                                </td>
+                            </tr>
+                        </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Diese Nummer wird zu Beginn einer Verbindung an das Endgerät übermittelt. Auf diese Weise können mit nur zwei Bits bis zu vier unterschiedliche Strategien signalisiert werden (Abs. 34 Z. 48-53).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Merkmal 3 sieht die Signalisierung der Sequenz durch einen Index oder Zeiger dieser Art zwingend vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Damit sind insbesondere Gestaltungsformen ausgeschlossen, bei denen eine Sequenz der oben dargestellten Art als solche übermittelt wird, wie dies in der Beschreibung (Abs. 27 Z. 55-59) als mögliche Alternative angeführt ist, also zum Beispiel die Zahlenfolge 0, 0, 0, 0, 0, 0, 0, 0 zum Signalisieren von Chase Combining.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Dieser Index oder Zeiger muss sich entgegen der Auffassung der Berufungsklägerinnen auf eine vorbestimmte Sequenz beziehen. Dies ergibt sich daraus, dass gemäß Merkmal 2.1 die ausgewählte Sequenz von ersten und zweiten Parametern erzeugt werden muss, die gemäß Merkmal 1.1 empfangen worden ist. Diese ausgewählte Sequenz wird durch den Zeiger oder Index im Sinne von Merkmal 3 repräsentiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Wie viele Bits der Index oder Zeiger umfasst und wie viele unterschiedliche Werte er mithin annehmen kann, ist in Patentanspruch 1 hingegen nicht zwingend vorgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>c) Zu Recht hat das Patentgericht entschieden, dass das Streitpatent die Begriffe "Strategie" und "Sequenz" nicht als Synonyme verwendet, eine Strategie also auch durch unterschiedliche Sequenzen realisiert werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>aa) Wie bereits oben dargelegt wurde, bezeichnet die Beschreibung des Streitpatents als Strategie eine nach abstrakten Kriterien definierte Vorgehensweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Diese Vorgaben können, wie das Patentgericht zutreffend angenommen hat und die Berufungserwiderung ergänzend erläutert, durch unterschiedliche Sequenzen erfüllt werden. So kann die Strategie CC nicht nur durch die in der Beschreibung aufgeführte Sequenz 0, 0, 0, 0, 0, 0, 0, 0 angewendet werden, sondern auch durch die Sequenz 2, 2, 2, 2, 2, 2, 2, 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Der in Merkmal 3 vorgesehene Index oder Zeiger bezeichnet, wie auch die Berufung insoweit zutreffend ausführt, eine Sequenz. Folglich können unterschiedliche Indexwerte, die sich auf unterschiedliche Sequenzen beziehen, dieselbe Strategie betreffen, die allerdings jeweils auf unterschiedliche Weise angewendet wird. Darüber hinaus ist nicht ausgeschlossen, dass mehrere Indexwerte auf dieselbe Sequenz verweisen. Zwingend erforderlich ist nur, dass jedem Indexwert eindeutig eine Sequenz zugeordnet ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>bb) Aus den bereits erwähnten Ausführungen in der Beschreibung, wonach es ausreicht, wenn zwei unterschiedliche Redundanzversionen definiert sind, so dass zum Beispiel die Strategien/Sequenzen 0, 0, 0, 0 oder 0, 1, 0, 1 möglich sind (Abs. 44), ergibt sich keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich lediglich, dass es ausreicht, wenn jede vorgesehene Strategie durch genau eine Sequenz angewendet werden kann, nicht aber, das Verbot, mehrere Sequenzen für die Anwendung einer Strategie vorzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit für das Berufungsverfahren von Interesse, im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent in der erteilten Fassung erweise sich im angegriffenen Umfang als nicht patentfähig. Der angegriffene Gegenstand sei dem Fachmann, der über einen Hochschulabschluss der Fachrichtung Nachrichtentechnik, Elektrotechnik oder Informationstechnik und über eine mehrjährige Berufserfahrung sowie einschlägige Kenntnisse im Gebiet der Nachrichtentechnik, insbesondere im Bereich der mobilen Kommunikation und der digitalen Signalverarbeitung verfüge und mit den relevanten Mobilfunkstandards vertraut sei, ausgehend von den technischen Spezifikationen 3GPP TS 04.60 V8.18.0 (D1a), 3GPP TS 05.03 V8.7.0 (D1b) und 3GPP TS 03.64 V8.11.0 (D1c), die jeweils Bestandteil der GSM/EDGE-Spezifikation für den General Packet Radio Service (GPRS) seien, nahegelegt gewesen. Diese Spezifikation unterscheide sich nur darin vom Gegenstand des Patentanspruchs 16, dass die empfangene Information auf das ausgewählte Modulations- und Codierungsschema (Modulation and Coding Scheme/MCS) und nicht direkt auf die darin referenzierte Sequenz von Redundanzparametern verweise. Das Fehlen eines direkten Verweises auf die Sequenz von Redundanzparametern durch einen Zeiger oder Index könne eine erfinderische Tätigkeit nicht begründen. Im Standardfall einer "präventiven" Übertragung bestehe eine eindeutige Zuordnung zwischen dem ausgewählten Modulations- und Codierschema, auf das die empfangene Information mittels eines Indexes verweise, und der jeweiligen Folge von Punktierungsmustern. Damit bedeute jede Auswahl eines solchen Modulations- und Codierungsschemas gleichzeitig die Auswahl einer Sequenz von Redundanzparametern. Es liege im Rahmen des fachmännischen Handelns, zu beurteilen, ob für den konkreten Anwendungsfall alle Parameter der aus den genannten Entgegenhaltungen bekannten Datenstruktur des Modulations- und Codierschemas erforderlich seien oder ob ein direkter Verweis auf die Sequenz von Redundanzparametern (mittels Index nach dem Vorbild der Signalisierung des Modulations- und Codierungsschemas) sinnvoll sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Die beschränkte Verteidigung der Ansprüche 16 bis 19 nach Hilfsantrag Vc neu sei zulässig. Anspruch 16 werde nicht mit Merkmalen eines nicht angegriffenen Unteranspruchs verteidigt. Sein Gegenstand sei hinreichend klar und in den ursprünglichen Anmeldeunterlagen offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Anspruchs 16 gemäß Hilfsantrag Vc neu sei neu. D1a kenne nur die Angabe von Punktierungsmustern als Redundanzparameter. Es werde nicht zwischen ersten und zweiten Parametern unterschieden, die jeweils gemeinsam eine Redundanzversion bildeten. Ebenso sei die Priorisierung von systematischen Bits durch einen Parameter der Redundanzversion nicht offenbart. Es fehle auch an einem Verweis auf eine ausgewählte Sequenz von ersten und zweiten Redundanzparametern durch einen Index oder Zeiger. Ferner werde keine Sequenz ausgewählt, die einer von drei verschiedenen Redundanzstrategien zugeordnet sei. Der Entgegenhaltung seien nur Parameter-Sequenzen für eine Strategie (incremental reduncancy) zu entnehmen. Eine Wiederholung der Übertragung eines unveränderten Datenpakets werde nicht durch die Punktierungsmuster realisiert, sondern durch einen anderen Betriebsmodus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Die US-Patentanmeldung 2003/0135811 (D3) sehe zwar das Anfordern einer Wiederholungsanforderung vor. Deren Ausgestaltung sei aber nicht näher beschrieben. Da die Reaktion dieser Anforderung nur eine Wiederholungsübertragung zur Folge habe, beziehe sich eine solche Anfrage immer nur auf eine einzige Wiederholung und deren Parameter. Die Anforderung diene daher nicht der Angabe der Auswahl einer Sequenz von Redundanzparametern. Eine Verwendung eines Index oder Zeigers, der auf eine solche ausgewählte Sequenz und nicht die als nächstes zu verwendende Redundanzversion verweise, sei der Entgegenhaltung daher nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Weiterhin unterscheide D3 zwar zwischen der Behandlung von systematischen Bits und Paritätsbits. Eine Angabe der Redundanzversion in Form von Paaren aus einem ersten und einem zweiten Parameter und eine Priorisierung der systematischen Bits durch den ersten Parameter könnten der Entgegenhaltung jedoch nicht entnommen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>1. Als in erster Linie verteidigte Fassung des Streitpatents ist diejenige nach Hilfsantrag 5c neu anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Die insoweit - zulässigerweise - definierte innerprozessuale Bedingung liegt vor. Die Klageerweiterung ist gemäß § 116 Abs. 2 PatG zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>a) Die Erweiterung der Klage auf Patentanspruch 21 ist sachdienlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 21 ist in der mit Hilfsantrag 5c neu verteidigten Fassung auf die erteilte Fassung der Patentansprüche 16 bis 20 zurückbezogen und sieht als ergänzende Merkmale vor, dass ein erster von der Erzeugungseinheit (102) erzeugter Parameter eine selbst-dekodierbare Redundanzversion definiert und ein zweiter Parameter die zu punktierenden Bits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Dies deckt sich weitgehend mit den Merkmalen 1.3 und 1.4, die schon in den erstinstanzlichen Hilfsanträgen der Beklagten vorgesehen sind. Es entspricht deshalb der Prozessökonomie, diesen Gegenstand in die Beurteilung einzubeziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>b) Der Angriff gegen Patentanspruch 21 ist auf Tatsachen gestützt, die der Senat der Verhandlung und Entscheidung über die Berufung nach § 117 PatG ohnehin zugrunde zu legen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Wie bereits dargelegt wurde, sind die zusätzlichen Merkmale aus Patentanspruch 21 bereits in verschiedenen erstinstanzlichen Hilfsanträgen der Beklagten vorgesehen. Für die Beurteilung dieser Merkmale kann deshalb auf den erstinstanzlichen Prozessstoff und das zulässige Berufungsvorbringen zur ursprünglichen Klage zurückgegriffen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>2. Die Verteidigung des Streitpatents in der Fassung des Hilfsantrags 5c neu ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>a) In diesem Zusammenhang bedarf es keiner abschließenden Entscheidung der Frage, ob Patentanspruch 16 mit der Aufnahme der Merkmale 1.3 und 1.4 alle zusätzlichen Merkmale aus Patentanspruch 21 umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist es allerdings unzulässig, einen mit einer Teilnichtigkeitsklage angegriffenen Patentanspruch in der Weise beschränkt zu verteidigen, dass er mit sämtlichen Merkmalen eines nicht angegriffenen Unteranspruchs kombiniert wird (BGH, Urteil vom 1. März 2017 - X ZR 10/15, GRUR 2017, 604 Rn. 27 ff. - Ankopplungssystem; BGH, Urteil vom 13. Juni 2023 - X ZR 47/21, GRUR 2023, 1274 Rn. 150 - Anschlussklemme).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn diese Frage zu bejahen wäre, ist die Aufnahme dieser Merkmale nicht zu beanstanden, weil Patentanspruch 21 nunmehr ebenfalls angegriffen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>b) Ebenfalls offenbleiben kann, ob die Änderung der Reihenfolge der verteidigten Hilfsanträge den formellen Anforderungen an eine Anschlussberufung genügt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>Einer Anschlussberufung bedurfte es schon deshalb nicht, weil der mit Hilfsantrag 5c neu verteidigte Gegenstand enger ist als der mit Hilfsantrag Vc neu verteidigte Gegenstand. Mit dem Wechsel zu Hilfsantrag 5c neu begehrt die Beklagte folglich nicht mehr oder etwas anderes, als ihr das Patentgericht zugebilligt hat. Vielmehr tritt sie dem mit der Berufung weiterverfolgten Klagebegehren nur noch eingeschränkt entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Soweit die Beklagte das Patent danach nicht mehr in dem vollen Umfang verteidigt, in dem es vom Patentgericht als rechtsbeständig angesehen wird, ist das Schutzrecht auf die Berufungen ohne Sachprüfung für nichtig zu erklären.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>c) Wie das Patentgericht zutreffend angenommen hat und sich auch aus den Ausführungen des Senats zur Auslegung der einzelnen Merkmale ergibt, ist der Gegenstand des Anspruchs 16 gemäß Hilfsantrag 5c neu hinreichend klar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Ob mangelnde Klarheit ein zureichender Grund für die Zurückweisung dieses Antrags wäre, bedarf mithin keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Unzulässig ist der Einwand mangelnder Klarheit jedenfalls hinsichtlich von Merkmalen, die bereits in der erteilten Fassung vorgesehen sind (BGH, Urteil vom 27. Oktober 2015 - X ZR 11/13, GRUR 2016, 361 Rn. 31 - Fugenband; Urteil vom 19. Januar 2016 - X ZR 141/13, GRUR 2016, 475 Rn. 39 - Rezeptortyrosinkinase I; Urteil vom 15. Dezember 2020 - X ZR 180/18 Rn. 41 - Scheibenbremse I).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>So verhält es sich im Streitfall hinsichtlich der von den Klägerinnen beanstandeten Merkmale aus den erteilten Ansprüchen 16, 19 und 21.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>d) Der mit Hilfsantrag 5c neu verteidigte Gegenstand ist in den ursprünglich eingereichten Unterlagen als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Berufungsklägerinnen führt die Festlegung auf WCDMA (Wideband Code Division Multiple Access) ohne Beschränkung auf die dritte Mobilfunkgeneration nicht zu einer unzulässigen Verallgemeinerung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Die ursprünglichen Unterlagen, deren Inhalt mit der Offenlegungsschrift (WO 2005/036908, MN2) übereinstimmt, beziehen sich einleitend auf Endgeräte in einem nicht näher spezifizierten Kommunikationsnetzwerk und insbesondere auf die Uplink-Übertragung in einem Kommunikationsnetzwerk der dritten Generation (S. 1 Z. 5 f.). Wie auch die Berufungsklägerinnen nicht in Zweifel ziehen, wird daraus hinreichend deutlich, dass sich die Erfindung auf WCDMA-Systeme bezieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Eine zwingende Beschränkung auf die dritte Generation des Mobilfunks lässt sich der Anmeldung hingegen nicht entnehmen. Die Anmeldung nimmt zwar Bezug auf aktuelle Entwicklungen bei WCDMA-Systemen (S. 1 Z. 27 f.), was auf die dritte Generation hindeutet. Dem lässt sich ein Ausschluss nachfolgender Generationen aber schon deshalb nicht entnehmen, weil nicht auszuschließen ist, dass diese ähnliche Merkmale vorsehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>bb) Aus Merkmal 1.2 ergibt sich schon deshalb keine unzulässige Erweiterung, weil es zur Verwirklichung dieses Merkmals erforderlich ist, dass jede Redundanzversion durch eine Kombination der beiden Parameter (s, r) spezifiziert wird, wie dies schon in der Anmeldung anhand des auch in der Patentschrift geschilderten Ausführungsbeispiels beschrieben ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>cc) Ob die Anmeldung die Möglichkeit offenbart, als ersten Parameter die Priorisierung von Systembits und als zweiten Parameter ein beliebiges anderes Kriterium heranzuziehen, bedarf keiner abschließenden Entscheidung. Nach Hilfsantrag 5c neu muss der zweite Parameter die zu punktierenden Bits angeben, wie dies bei dem schon in der Anmeldung offenbarten Ausführungsbeispiel geschieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>dd) Ebenfalls offenbleiben kann, ob der Offenbarungsgehalt der Anmeldung auf ein Endgerät beschränkt ist, das nach Empfang der Informationen eigene Sequenzen von Parametern erzeugt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, muss gemäß Merkmal 2.1 in dem Endgerät diejenige Sequenz erzeugt werden, die in den Informationen gemäß Merkmal 1.1 angegeben ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>ee) Offenbleiben kann schließlich, ob die Anmeldung offenbart, dass innerhalb einer Sequenz verschiedene Strategien zur Anwendung kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, sind solche Ausgestaltungen durch Merkmal 4 ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>3. Der mit Hilfsantrag 5c neu verteidigte Gegenstand ist patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>a) D3 nimmt diesen Gegenstand nicht vollständig vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>aa) D3 betrifft ein Kommunikationssystem, das ein HARQ-Schema anwendet (Abs. 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>(1) In der Beschreibung von D3 wird ausgeführt, Turbo-Codes hätten in Kommunikationssystemen weite Verbreitung gefunden. In entsprechenden Codierern werde jedes Eingangsbit als ein entsprechendes systematisches Bit ausgegeben. Für jedes dieser Bits würden mit einem Verschachteler (interleaver 21) und zwei Faltungscodierern (convolutional encoders 23, 25) ferner zwei Paritätsbits P1 und P2 ausgegeben, was zu einer Codierrate von 1/3 führe (Abs. 3). Alternativ könnten eine Codierrate von 1/4 zum Einsatz gelangen, etwa durch Einsatz eines weiteren Verschachtelers und eines weiteren Faltungscodierers, durch wiederholtes Übertragen von Bits aus einem Code mit der Rate 1/3 oder durch Punktieren von Bits in einem Code mit der Rate 1/5 (Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Zum Implementieren von HARQ gebe es zwei hauptsächliche Methoden: Chase Combining und Incremental Redundancy. Bei Chase Combining werde ein codiertes Datenpaket bei Bedarf erneut in gleicher Form übertragen. Der Decodierer am Empfänger kombiniere die einzelnen Kopien und gewichte sie hierbei anhand des Signal-Rausch-Verhältnisses (signal noise ratio, SNR). Bei Incremental Reduncancy würden anstelle einer Wiederholung des gesamten codierten Pakets zusätzliche redundante Informationen inkrementell übertragen (Abs. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>Durch Incremental Redundancy ergebe sich ein signifikanter Gewinn nur bei hoher Codierrate und einer Modulation hoher Ordnung. Zudem seien die Anforderungen an Speicherung, Verarbeitung und Signalisierung komplexer (Abs. 10). Insbesondere ein von Motorola vorgeschlagenes IR-Verfahren sei sehr komplex und liefere gegenüber Chase Combining nur einen geringen Gewinn. Ein von Ericson vorgeschlagenes Verfahren sei einfach, liefere aber keinen signifikanten Gewinn. Ein von Siemens vorgeschlagenes Verfahren könne etwas Gewinn bereitstellen, sei aber ebenfalls komplex (Abs. 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>(2) Zur Verbesserung schlägt D3 vor, mehrere IR-Signale aus einem einzelnen codierten Signal abzuleiten, und zwar durch Permutieren des Signals und Verändern von dessen Rate. Dieses System erreiche eine bessere Leistungsfähigkeit als die oben beschriebenen Techniken und sei in der Implementierung einfacher (Abs. 14).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>D3 bezeichnet es als vorteilhaft, wenn die zweite Codierrate höher ist als die erste. Bei einer Turbo-Codierung enthielten die codierten Daten systematische Bits und Paritätsbits. In diesem Fall enthalte das erste übertragene Signal vorzugsweise die systematischen Bits, während die Paritätsbits punktiert würden (Abs. 22).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>D3 weist ferner darauf hin, es sei nicht notwendig, IR für alle Übertragungsformate zu verwenden. Bei einigen Formaten könne stattdessen das erste übertragene Signal erneut übertragen werden (Abs. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>(3) Als erste Ausführungsform der Erfindung beschreibt D3 ein WCDMA-Kommunikationssystem, das Turbo-Codes mit einer Codierrate von 1/3 verwendet. Das System unterstützt fünf Modulations- und Codierungsformate (MCS), die sich durch die Art der Modulation und durch die Codierrate unterscheiden. Die Anpassung der Codierraten erfolgt durch Punktierung oder Wiederholung von Paritätsbits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Bei dem in D3 geschilderten Ausführungsbeispiel werden mit einer Permutationseinheit drei zusätzliche Redundanzversionen (Versionen 2, 3 und 4) erzeugt (Abs. 47). Diese werden, sofern im Empfänger gewünscht (desired in the receiver) bei einer zweiten, dritten oder vierten Übertragung anstelle des ursprünglichen Pakets übertragen (Abs. 49 f.). Bei Version 2 werden alle ersten Paritätsbits (P1) übertragen und die Paritätsbits P2 sowie die systematischen Bits S punktiert oder wiederholt (Abs. 45). Bei Version 3 werden alle zweiten Paritätsbits (P2) übertragen und die systematischen Bits S sowie die Paritätsbits P1 punktiert oder wiederholt. Bei Version 4 werden beide Paritätsbits (P1, P2) punktiert (Abs. 47).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Auch in diesem Zusammenhang bezeichnet es D3 als vorteilhaft, Incremental Redundancy nur bei hohen Codierraten und bei Modulationen hoher Ordnung einzusetzen und ansonsten auf Chase Combining zurückzugreifen. Als niedrigste Werte, bei denen Incremental Redundancy noch signifikante Vorteile bringt, werden die Modulationsart WPSK und eine Codierrate von ½ angegeben (Abs. 55 mit Figur 2 und Tabelle 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>(4) Bei einer zweiten in D3 beschriebenen Ausführungsform ist die maximale Anzahl von Übertragungsversuchen auf drei beschränkt. Dementsprechend gibt es für jedes Datenpaket nur drei unterschiedliche Redundanzversionen (Versionen 1, 2 und 3). Die übrige Vorgehensweise stimmt mit derjenigen der ersten Ausführungsform überein (Abs. 57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>(5) Der in D3 formulierte, auf den Schutz eines Verfahrens gerichtete Anspruch 4 sieht einen vorgelagerten Schritt vor, bei dem eine Auswahl eines Übertragungsformats aus einer vordefinierten Vielzahl von Formaten mit zugeordneten Codierraten empfangen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Korrespondierend dazu sieht der auf den Schutz eines Senders gerichtete Anspruch 9 Mittel zum Registrieren einer solchen Auswahl vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>(6) Der in D3 formulierte Anspruch 5, der auf Anspruch 4 zurückbezogen ist, sieht für den Fall, dass das ausgewählte Format zu einer vorbestimmten Teilmenge von Formaten gehört, als Reaktion auf die Anforderung einer erneuten Übertragung abweichend von der üblichen Vorgehensweise die erneute Übertragung des ersten Signals vor. Dies entspricht der Vorgehensweise bei Chase Combining.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind, wie auch das Patentgericht im Zusammenhang mit Hilfsantrag Vc neu zutreffend ausgeführt hat, nicht alle Merkmale der verteidigten Fassung von Patentanspruch 16 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>(1) Offenbart sind die Merkmale 0, 1 und 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>(2) Wie das Patentgericht zutreffend ausgeführt hat, sind die Merkmale 1.1, 2.1, 3 und 4 demgegenüber nicht vollständig vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>Den bereits erwähnten Ansprüchen 4 und 9 ist allerdings zu entnehmen, dass dem sendenden Gerät eine Auswahl eines Übertragungsformats übermittelt werden kann. Wie sich unter anderem Anspruch 5 entnehmen lässt, ermöglicht diese Auswahl einen Hinweis auf die vom Endgerät anzuwendende Redundanzversion. Dafür sprechen auch die Ausführungen in der Beschreibung, wonach die Version des bei einer erneuten Übertragung eingesetzten Signals davon abhängt, ob Chase Combining oder Incremental Redundancy im Empfänger gewünscht ist (is desired in the receiver, Abs. 49 und 50).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>Weder den genannten Ansprüchen noch dem sonstigen Inhalt von D3 ist jedoch unmittelbar und eindeutig zu entnehmen, dass die übermittelte Information einen Index oder Zeiger auf eine Sequenz der Parameter s und r enthält und dass das Endgerät diese Parameter erzeugt, um die Version der übertragenen Signale zu steuern. Auf welche Weise der Wunsch nach einer bestimmten Strategie oder die hierzu eingesetzte Auswahl aus einer vorbestimmten Vielzahl von Formaten übermittelt wird, bleibt in D3 vielmehr offen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>b) Der mit Hilfsantrag 5c neu verteidigte Gegenstand ist durch den Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>aa) Aus D3 ergeben sich keine Anregungen in Richtung auf die verteidigte Lehre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>Ausgehend von D3 stellte sich allerdings die Frage, auf welche Weise die Auswahl und die Reihenfolge der einzelnen Übertragungsformate erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>Die Ausführungen in der Beschreibung von D3, wonach Incremental Redundancy nur bei hohen Codierraten und Modulationen hoher Ordnung signifikante Vorteile habe (Abs. 10), deuten jedoch darauf hin, diese Parameter auch zur Signalisierung der gewünschten Übertragungsformate zu nutzen oder für die einzelnen Codierraten und Modulationsarten bestimmte Formate vorzusehen und diese mit einer eindeutigen Nummerierung zu versehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Eine Anregung, die Signalisierung mit Hilfe von Sequenzen aus Parameterpaaren mit der in den Merkmalen 1.3 und 1.4 vorgesehenen Bedeutung vorzunehmen und diese Sequenzen im Endgerät zu erzeugen und zur Steuerung einzusetzen, ergab sich vor diesem Hintergrund nicht. Diese Lösung ermöglicht eine flexible Festlegung und Signalisierung von Redundanzstrategien ohne feste Bindung an Codierraten und Modulationsarten. Ausgehend von D3 bestand hierfür kein erkennbares Bedürfnis. Die Festlegung auf diese Art der Signalisierung stünde zudem in gewissem Widerspruch zu dem in D3 (Abs. 52) herausgestellten Vorteil, dass sich das dort offenbarte Schema einfach implementieren lasse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>bb) Aus dem auch im Streitpatent angeführten Spezifikationsentwurf D9 ergab sich zwar die Anregung, erste und zweite Redundanzparameter an das Endgerät zu übermitteln, nicht aber die Anregung, Sequenzen solcher Parameter zu definieren und die Auswahl einer solchen Sequenz mit Hilfe eines Zeigers oder Index zu signalisieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>(1) D9 definiert Vorgaben für das Multiplexen und die Kanalcodierung in Mobilfunksystemen der dritten Generation. Zu den vorgesehenen Funktionen gehört hybrides ARQ (S. 59 ff.). Zur Signalisierung der ausgewählten Vorgehensweise werden zwei Parameter (s, r) eingesetzt, denen die auch im Streitpatent erläuterte Bedeutung zukommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>Die möglichen Kombinationen für das Wertepaar (s, r) werden mit einem Parameter X<sub>rv</sub> bezeichnet. Als Beispiel schlägt D9 in Tabelle 13 (S. 64) dieselbe Zuweisung vor wie die Beschreibung des Streitpatents (Abs. 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>(2) Auch D9 gibt indes weder unmittelbare Hinweise noch Anregungen dazu, nicht nur einzelne Redundanzversionen vorzugeben, sondern ausgewählte Sequenzen, und eine solche Auswahl mit einem Index oder Zeiger zu signalisieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>Die in D9 anhand der Parameter (s, r) beschriebene Vorgehensweise, Kombinationen aus mehreren Einzelwerten mit einem gemeinsamen Bezeichner (X<sub>rv</sub>) zu versehen, mag sich allerdings auch in anderem Zusammenhang angeboten haben, um die Auswahl bestimmter Kombinationen auf möglichst sparsame Weise zu signalisieren. Hieraus ergab sich jedoch nicht die Anregung, nicht nur die Parameter für einzelne Redundanzversionen in dieser Weise zu definieren und mit Index- oder Zeigerwerten zu versehen, sondern auch Sequenzen von solchen Parametern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>4. Aus D1a, D1b und D1c ergeben sich keine weitergehenden Anregungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_133">133</a>
+            </dt>
+            <dd>
+               <p>Nach den nicht angegriffenen Ausführungen des Patentgerichts offenbart D1a als Redundanzparameter nur die Angabe von Punktierungsmustern, nicht aber die Angabe, ob systematische Bits priorisiert werden sollen. Eine fehlerhafte Beurteilung ist insoweit nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_134">134</a>
+            </dt>
+            <dd>
+               <p>Damit bleibt D1a, was die Signalisierung von Redundanzversionen angeht, hinter dem Offenbarungsgehalt von D3 und D9 zurück und kann erst recht keine Anregung zu einer Signalisierung mit den Merkmalen 1.1, 2.1, 3 und 4 geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_135">135</a>
+            </dt>
+            <dd>
+               <p>5. Die übrigen Entgegenhaltungen liegen noch weiter ab und führen deshalb nicht zu einer anderen Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_136">136</a>
+            </dt>
+            <dd>
+               <p>6. Hinsichtlich der erteilten Fassung von Patentanspruch 21 ergibt sich keine andere Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_137">137</a>
+            </dt>
+            <dd>
+               <p>a) Wie bereits oben dargelegt wurde, sieht Patentanspruch 21 zusätzlich zu den Merkmalen des erteilten Patentanspruchs 16 vor, dass ein erster von der Erzeugungseinheit (102) erzeugter Parameter eine selbst-dekodierbare Redundanzversion definiert und ein zweiter Parameter die zu punktierenden Bits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_138">138</a>
+            </dt>
+            <dd>
+               <p>Dies deckt sich weitgehend mit den Merkmalen 1.3 und 1.4, wobei ausdrücklich vorgegeben ist, dass der erste Parameter die Möglichkeit der Selbst-Dekodierung betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_139">139</a>
+            </dt>
+            <dd>
+               <p>b) Eine solche Ausgestaltung ist aus den zu Patentanspruch 16 dargelegten Gründen im Stand der Technik weder offenbart noch nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_140">140</a>
+            </dt>
+            <dd>
+               <p>Dass Patentanspruch 21 nicht auf WCDMA und Übertragungen im Uplink beschränkt ist und nicht zwingend eine Auswahl zwischen Chase Combining, Partial Incremental Redundancy und Full Incremental Redundancy vorgibt, führt nicht zu einer abweichenden Beurteilung. Auch ohne diese Einschränkungen ergab sich aus dem Stand der Technik nicht die Anregung, Sequenzen von Redundanzparametern durch Übermittlung eines Index- oder Zeigerwerts vorzugeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_141">141</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie § 97 Abs. 1, § 100 Abs. 1, § 101, § 92 Abs. 1 und 2 und § 269 Abs. 3 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">     Rombach</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Richter am Bundesgerichtshof<br/>Dr. Crummenerl ist in Urlaub und kann<br/>deshalb nicht unterschreiben</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">Bacher</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE631582023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

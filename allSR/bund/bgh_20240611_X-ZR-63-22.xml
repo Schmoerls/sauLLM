@@ -1,0 +1,1884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE620082024</doknr>
+   <ecli>ECLI:DE:BGH:2024:110624UXZR63.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240611</entsch-datum>
+   <aktenzeichen>X ZR 63/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BPatG München, 3. Februar 2022, Az: 2 Ni 6/20 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 3. Februar 2022 wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 809 029 (Streitpatents), das am 21. September 2006 unter Inanspruchnahme zweier US-amerikanischer Prioritäten vom 12. Januar 2006 und 18. Mai 2006 angemeldet worden ist und eine parallele fernsehbasierte Videosuche betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den sechs Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A control device (103, 203, 303, 403, 503, 603, 703, 1001) for use in connection with a television (223, 323, 421, 521, 621), the television having a first screen (225, 324, 523, 623), the control device comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a second screen (105, 204, 305, 405, 505, 605, 705, 1003);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a user input interface (111, 209, 311,717, 1005) adapted to present a video browsing interface to a user on the second screen and receive a video selection;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">a communication interface (115, 213, 315, 713); and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">at least one module (107, 205, 307, 711) adapted to:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">search for a first video element and a second video element in a plurality of media sources (141, 271, 331, 431, 433, 435, 541, 551, 561, 641, 661, 671, 741), the first video element and the second video element corresponding to the video selection; and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">direct display of the first video element on the first screen and display of the second video element on the second screen if the at least one module locates the first video element and the second video element,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein the communication interface is adapted to support communications between the control device and the plurality of media sources.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, der Gegenstand des Streitpatents sei nicht patentfähig. Die Beklagte hat das Streitpatent in der erteilten Fassung und mit drei Hilfsanträgen in geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen richtet sich die Berufung der Beklagten, die das Patent weiterhin mit ihren erstinstanzlichen Anträgen verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, jedoch unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft eine Steuereinrichtung zur Interaktion mit einem Fernsehsystem und einer Medienquelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents interagieren herkömmliche Fernbedienungen mit einem Fernsehgerät, indem sie ein Steuersignal an das Gerät senden (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Medienquellen in Form von Fernsehkanälen sowie alternativen oder zusätzlichen Videos würden durch direkte Interaktion mit dem Fernsehgerät oder über eine Fernbedienung gesteuert. Hierzu würden dem Zuschauer beispielsweise eine Liste von Kanälen eines Fernseh- oder Rundfunkanbieters oder ein Medienkatalog eines DVD-Spielers zur Verfügung gestellt. Ein Benutzer könne mittels der Fernbedienung auch nach einem Video oder Audio in Internet-Medienservern suchen und die auf dem Bildschirm dargestellte visuelle Information mit Hilfe mehrerer vordefinierter Tasten auswählen. Hierzu müsse der Benutzer in der Regel zwischen der Fernbedienung und dem Bildschirm hin- und herschauen, um die Tasten zu finden und die Funktionsweise der Fernbedienung zu verstehen (Abs. 3-5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. Dem Streitpatent liegt vor diesem Hintergrund das technische Problem zugrunde, die Bedienung eines Fernsehgerätes mittels einer separaten Fernbedienung zu verbessern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in Patentanspruch 1 eine Steuereinrichtung vor, deren Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A control device (103, 203, 303, 403, 503, 603, 703, 1001) for use in connection with a television (223, 323, 421, 521, 621), the television having a first screen (225, 324, 523, 623), the control device comprising:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Steuereinrichtung (103, 203, 303, 403, 503, 603, 703, 1001) zur Verwendung in Verbindung mit einem Fernsehgerät (223, 323, 421, 521, 621), das einen ersten Bildschirm (225, 324, 523, 623) aufweist, umfassend:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a second screen (105, 204, 305, 405, 505, 605, 705, 1003);</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen zweiten Bildschirm (105, 204, 305, 405, 505, 605, 705, 1003),</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a user input interface (111, 209, 311,717, 1005) adapted to present a video browsing interface to a user on the second screen and receive a video selection;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Benutzereingabeschnittstelle (111, 209, 311, 717, 1005), die dafür ausgelegt ist, auf dem zweiten Bildschirm einem Benutzer eine Video-Browsing-Schnittstelle zu präsentieren und eine Video-Auswahl zu empfangen,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a communication interface (115, 213, 315, 713)</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Kommunikationsschnittstelle (115, 213, 315, 713),</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">adapted to support communications between the control device and a plurality of media sources;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die dafür ausgelegt ist, Kommunikationsvorgänge zwischen der Steuereinrichtung und einer Mehrzahl von Medienquellen zu unterstützen,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">at least one module (107, 205, 307, 711) adapted</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">mindestens ein Modul (107, 205, 307, 711), das dafür ausgelegt ist,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">to search for a first video element and a second video element in the plurality of media sources (141, 271, 331, 431, 433, 435, 541, 551, 561, 641, 661, 671, 741), the first video element and the second video element corresponding to the video selection;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">in der Mehrzahl von Medienquellen (141, 271, 331, 431, 433, 435, 541, 551, 561, 641, 661, 671, 741) nach einem ersten Video-Element und einem zweiten Video-Element zu suchen, wobei das erste Video-Element und das zweite Video-Element der Video-Auswahl entsprechen,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4.2       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">to direct display of the first video element on the first screen and display of the second video element on the second screen if the at least one module locates the first video element and the second video element.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Anzeige des ersten Video-Elements auf den ersten Bildschirm und die Anzeige des zweiten Video-Elements auf den zweiten Bildschirm zu lenken, wenn das mindestens eine Modul das erste Video-Element und das zweite Video-Element findet.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Betrachtung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend und von den Parteien nicht beanstandet hat das Patentgericht angenommen, dass der nur in den Merkmalen 1.4.1 und 1.4.2, nicht aber in der Beschreibung verwendete Begriff "Video-Element" den anzeigbaren Teil eines Medien- oder Multimedia-Elements bezeichnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Ebenfalls unbeanstandet hat das Patentgericht angenommen, dass als Medienquelle im Sinne der Merkmale 1.4.1 und 1.5 jede Einrichtung in Betracht kommt, die Video-Elemente zur Anzeige bereitstellen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung führt insoweit beispielhaft einen Fernsehsender, ein DVD-System, eine Videokamera (Abs. 28 Z. 19-22) oder persönliche Videoaufnahmesysteme (Abs. 31 Z. 21-24) an, aber auch im Internet adressierbare Medienserver, etwa für Musik oder Videos (Abs. 35 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>c) Zu Recht hat das Patentgericht entschieden, dass eine Video-Auswahl im Sinne von Merkmal 1.2 erfordert, dass der Benutzer mindestens ein Video-Element auswählen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung gibt Merkmal 1.2 nicht vor, dass hierbei nur ein einziger Auswahlakt erfolgen darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>aa) Dem Wortlaut von Merkmal 1.2 ist die von der Berufung postulierte Einschränkung nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Wie auch die Berufung nicht verkennt, ist dem den Wörtern "video selection" vorangestellten Wort "a" für sich gesehen nicht zu entnehmen, ob es als Zahlwort oder als unbestimmter Artikel verwendet wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon ließe der Wortlaut auch bei einer Auslegung als Zahlwort die Möglichkeit offen, dass zwar nur eine einzige Auswahl stattfindet, diese aber aus mehreren Einzelschritten bestehen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>bb) Aus dem Zusammenhang mit den übrigen Merkmalen ergeben sich keine weitergehenden Schlussfolgerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die in Merkmal 1.2 vorgesehene Video-Auswahl ist nach Merkmal 1.4.1 maßgeblich dafür, welche beiden Video-Elemente gesucht und im Falle einer erfolgreichen Suche gemäß Merkmal 1.4.2 auf den beiden Bildschirmen angezeigt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich, dass mit dem Auswahlvorgang zwei Video-Elemente identifiziert werden müssen, die den genannten weiteren Schritten unterzogen werden. In welcher Weise diese Identifikation erfolgt, ist indes auch damit nicht vorgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>cc) Der Umstand, dass in Merkmal 1.4.1 der bestimmte Artikel verwendet wird ("the video selection"), mag für sich gesehen darauf hindeuten, dass nur eine einzige Auswahl maßgeblich ist. Auch damit ist aber nicht festgelegt, dass dieser Auswahlvorgang nur aus einem einzigen Schritt bestehen darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ergibt sich aus der genannten Formulierung auch nicht, dass die in Merkmal 1.4.1 vorgesehene Suche nach Video-Elementen erst dann erfolgen darf, wenn zwei solcher Elemente ausgewählt worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Merkmal 1.4.1 schreibt insoweit lediglich vor, dass die gesuchten Video-Elemente der vom Benutzer getroffenen Auswahl entsprechen müssen. Diese Vorgabe ist auch dann erfüllt, wenn die Suche nach dem ersten ausgewählten Video-Element bereits zu einem Zeitpunkt erfolgt, in dem das zweite noch nicht ausgewählt worden ist. Die Verwendung des bestimmten Artikels steht mit diesem Verständnis in Einklang, weil für jede Suche nach einem einzelnen Video-Element nur jeweils eine Auswahl von Bedeutung ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>dd) Dieses weite Verständnis steht in Einklang mit der Beschreibung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Im Zusammenhang mit mehreren Ausführungsbeispielen ist zwar davon die Rede, dass der Benutzer zum Beispiel ein Video auswählt (etwa Abs. 22 und Abs. 30-34). Daraus geht aber nicht hervor, dass weitere Auswahlvorgänge ausgeschlossen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>An anderer Stelle wird ausgeführt, die Auswahl durch den Benutzer könne zum Beispiel zwei oder jede andere Anzahl an Medienelementen identifizieren (Abs. 23 Z. 34-37), zum Beispiel ein erstes Medienelement für das Fernsehgerät und ein zweites Medienelement für die Steuereinrichtung (Abs. 37 Z. 50-52). Damit ist die gemeinsame Auswahl von mindestens zwei Elementen nicht zwingend vorgegeben, sondern nur als Beispiel genannt. Unabhängig davon bleibt auch in diesem Zusammenhang offen, wie viele Schritte erforderlich oder zulässig sind, um die Auswahl vorzunehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Ähnliche Ausführungen finden sich im Zusammenhang mit dem Flussdiagramm aus der nachfolgend wiedergegebenen Figur 8.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Zu Schritt (807) wird erläutert, die von der Steuereinrichtung empfangene Medien-Auswahl durch den Benutzer könne ein Medien-Element identifizieren, das auf dem ersten oder dem zweiten Bildschirm oder auf beiden Bildschirmen angezeigt werde, alternativ aber auch zwei Medien-Elemente, von denen eines für den Bildschirm der Steuereinrichtung und das andere für den Bildschirm des Fernsehgeräts bestimmt sei (Abs. 62 Z. 16-23). Damit bleibt die Möglichkeit offen, dass mit einer einzelnen Auswahl nur ein Medien-Element identifiziert wird. Unabhängig davon bleibt auch für den Fall der Identifizierung von Elementen offen, wie viele Schritte zur Identifizierung dafür erforderlich oder zulässig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>ee) Dass die Beschreibung das Wort "selection" an drei Stellen im Plural verwendet ("selections", Abs. 5, 37, 41), führt vor diesem Hintergrund nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>An allen diesen Stellen werden die Funktionen der Steuereinrichtung in eher allgemeiner Form beschrieben. An zwei dieser Stellen bezieht sich das Wort "selection" nicht speziell auf die Auswahl von Video-Elementen, sondern allgemein auf die Auswahl einer Eingabe an den lokalen Prozessor (Abs. 5) bzw. auf eine Vielzahl unterschiedlicher Auswahl-Arten wie etwa Wiedergabe, Medienwechsel und Speichern (Abs. 37). An der dritten Stelle geht es um die Auswahl von Medien-Elementen bei der Verwendung eines Werkzeugs zum Browsen im Internet (Abs. 41).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Diesen Ausführungen lässt sich nicht entnehmen, dass die Verwendung des Singulars zwingend einen einzigen oder gar einen nur aus einem Akt bestehenden Auswahlvorgang vorgibt. Die Verwendung des Plurals deutet vielmehr auf eine Vielzahl denkbarer Auswahlmöglichkeiten hin. Die Verwendung des Singulars beschreibt demgegenüber eher eine konkrete Auswahl von Elementen, ohne dass sich daraus Beschränkungen im Hinblick auf die Zahl der Auswahlvorgänge oder -schritte ergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>d) Ob die beiden Video-Elemente im Sinne der Merkmale 1.4.1 und 1.4.2 unterschiedliche Inhalte haben müssen oder ob es zum Beispiel genügt, wenn derselbe Inhalt in unterschiedlichen Formaten oder Codierungen übertragen wird, wie dies im Zusammenhang mit Ausführungsbeispielen geschildert wird (etwa Abs. 32 Z. 42 ff.; Abs. 33), bedarf keiner abschließenden Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>e) Eine Suche im Sinne von Merkmal 1.4.1 kann sich auf das Identifizieren einer Quelle beschränken, die das jeweils ausgewählte Video-Element zur Verfügung stellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>aa) Die Beschreibung zeigt zwei unterschiedliche Methoden zur Video-Auswahl auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die Auswahl kann mit Hilfe eines Medienführers (media guide) erfolgen, der die verfügbaren Medien-Elemente zusammenstellt und dem Nutzer zur Auswahl anzeigt (Abs. 61 Sp. 17 Z. 5-14). In diesem Fall identifiziert die Steuereinrichtung die Quelle anhand des Medienführers (Abs. 62 Z. 25-29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Wenn die Auswahl nicht auf einem Medienführer beruht, führt die Steuereinrichtung eine Suche durch und lokalisiert damit die Quelle, die das ausgewählte Medien-Element zur Verfügung stellt, wie dies in Figur 8 in Schritt (809) dargestellt ist (Abs. 62 Z. 30-35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>bb) Zu Recht hat das Patentgericht entschieden, dass beide Vorgehensweisen zum Gegenstand von Patentanspruch 1 gehören.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(1) Die Wörter "search" und "locate" werden an der oben wiedergegebenen Stelle der Beschreibung allerdings nur im Zusammenhang mit einer Auswahl ohne Medienführer verwendet, während die Quelle beim Einsatz eines solchen Führers lediglich identifiziert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Dies spricht dafür, dass sich die Worte "if necessary" in Schritt (809) der Figur 8 entgegen der Auffassung der Berufungserwiderung nicht nur auf den Einsatz eines Suchprogramms beziehen, sondern auf das Lokalisieren der Quelle mit Hilfe eines solchen Suchprogramms.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(2) Entgegen der Auffassung der Berufung ergibt sich jedoch auch hieraus nicht die Schlussfolgerung, dass Merkmal 1.4.1 die für den Einsatz eines Medienführers beschriebene Vorgehensweise ausschließt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, lässt Merkmal 1.2 offen, auf welche Weise die Video-Auswahl erfolgt. Dies spricht dafür, dass auch der Einsatz eines Medienführers in Betracht kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund kann dem Umstand, dass Merkmal 1.4.1 eine Suche vorsieht, nicht entnommen werden, dass nur eine Video-Auswahl ohne Medienführer zulässig sein soll. Wie das Patentgericht zutreffend ausgeführt hat, bedarf es auch beim Einsatz eines Medienführers der Bestimmung einer Quelle, die das jeweils ausgewählte Video-Element zur Verfügung stellt. Dieser in der Beschreibung als Identifizierung bezeichnete Vorgang kann als Suche im Sinne von Merkmal 1.4.1 angesehen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Für dieses weite Verständnis spricht auch der Umstand, dass die Beschreibung des Streitpatents die Begriffe "search", "locate" und "identify" nicht scharf voneinander abgrenzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(3) Vor diesem Hintergrund ergibt sich auch aus Patentanspruch 4 kein engeres Verständnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 4 sieht vor, dass das in Merkmal 1.4 vorgesehene Modul auf einem der beiden Bildschirme einen Hinweis anzeigen kann, wenn es zumindest eines der beiden ausgewählten Video-Elemente nicht lokalisieren kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufung im Ansatz zutreffend geltend macht, wird zwar das Wort "locate" in der oben wiedergegebenen Passage der Beschreibung nur im Zusammenhang mit einer Video-Auswahl ohne Medienführer verwendet. Auch daraus ergibt sich aber nicht die Schlussfolgerung, dass eine bloße Identifikation der Quelle eines mit Hilfe eines Medienführers ausgewählten Video-Elements zur Verwirklichung dieses Merkmals nicht genügen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufungserwiderung zu Recht geltend macht, kann der Zugriff auf eine Quelle jedenfalls dann scheitern, wenn der Medienführer anhand einer Internet-Suchmaschine erstellt worden ist. Die Anzeige eines Treffers deutet zwar darauf hin, dass die Suchmaschine das betreffende Video-Element in einer bestimmten Quelle gefunden hat. Dies bietet aber nicht die vollständige Gewähr dafür, dass die Trefferanzeige inhaltlich zutreffend und aktuell ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufungserwiderung ebenfalls zu Recht geltend macht, kommt dieser Möglichkeit im Zusammenhang mit dem Streitpatent wesentliche Bedeutung zu, weil die Beschreibung als Beispiel für eine Browsing-Schnittstelle, wie sie Merkmal 1.2 vorsieht, übliche Internet-Suchmaschinen wie Google oder Yahoo anführt (Abs. 41, Abs. 51, Abs. 71).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents sei durch das US-amerikanische Patent 6 097 441 (D1) vorweggenommen. D1 beschreibe ein handgehaltenes Steuergerät zur Steuerung der Anzeige von TV- und Internet-Content mit einem eigenen zweiten Bildschirm. Dieses Gerät weise alle Merkmale der erteilten Fassung von Patentanspruch 1 auf. Merkmal 1.4.1 sei in D1 zwar nicht konkret beschrieben. Der Fachmann, ein Ingenieur oder Master der Fachrichtung Elektrotechnik, Nachrichtentechnik oder Informationstechnik mit Hochschulabschluss oder einem vergleichbaren akademischen Grad und mehrjähriger Erfahrung auf dem Gebiet der digitalen Signalverarbeitung zur Anzeige von Video-Elementen, insbesondere der Übertragung von Datensignalen über Kommunikationsnetzwerke, und der Gestaltung von dafür geeigneten Benutzerschnittstellen, lese aber zumindest ein Lokalisieren ausgewählter Medien-Dateien oder -Streams als Voraussetzung für die Wiedergabe mit. Jedenfalls sei der Gegenstand von Patentanspruch 1 jedoch durch D1 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Hilfsantrag 1 sei unzulässig, da das neu hinzugekommene Merkmal nicht ursprünglich offenbart sei. Zudem beruhe der mit diesem Antrag verteidigte Gegenstand gegenüber D1 nicht auf einer erfinderischen Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Der mit den Hilfsanträgen 2 und 3 verteidigte Gegenstand sei zwar ursprünglich offenbart, aber durch D1 ebenfalls nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Nachprüfung im Berufungsverfahren stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht entschieden, dass der Gegenstand von Patentanspruch 1 durch D1 vollständig vorweggenommen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>a) D1 betrifft Systeme und Verfahren zur Verwendung von zwei oder mehr zusammenwirkenden, aber physisch unabhängigen Displays (Sp. 1 Z. 34-39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>aa) Die Beschreibung von D1 führt aus, bekannte Systeme mit mehreren Displays würden unter anderem dafür eingesetzt, unabhängig voneinander zwei unterschiedliche Fernsehprogramme oder sonstige Informationen zu zeigen. Mehrere Fernsehgeräte könnten auch so zusammengeschaltet werden, dass sie alle dasselbe Programm zeigen oder dass sie wie ein großes Einzeldisplay wirken. Andere Systeme zeigten separate Teile eines einzigen Bildes oder verschiedene Datenströme auf demselben Bildschirm, beispielsweise in Fenstern auf einem Computerbildschirm oder als Bild-in-Bild-Anordnung (Picture in Picture, PiP) (Sp. 1 Z. 49 bis Sp. 3 Z. 39).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund bezeichnet es D1 als erstrebenswert, Systeme und Verfahren mit zwei oder mehr Displays zur Verfügung zu stellen, die zusammenarbeiten, aber physisch unabhängig voneinander sind (Sp. 3 Z. 41-45).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Hierzu schlägt D1 eine tragbare Handfernbedienung mit einem integrierten Video-Display und mit der Möglichkeit zur Interaktion mit einem Fernsehgerät oder einem anderen Hauptdisplay vor (Sp. 3 Z. 52-57).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>bb) Die Komponenten eines hierfür geeigneten Ausführungsbeispiels sind schematisch in der nachfolgend wiedergegebenen Figur 2 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Die Fernbedienung (10) kann mit einem Fernsehgerät (80) und einer Basisstation (75) kommunizieren. Letztere ist bevorzugt als physisch getrennte Komponente ausgeführt. Sie kann aber auch ein integrierter Teil der Fernbedienung (10) oder des Fernsehgeräts (80) sein (Sp. 9 Z. 19-23; Sp. 12 Z. 45-55).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>In die Basisstation (75) gelangen Datenströme (85) aus unterschiedlichen Quellen. Dazu können externe Datenquellen wie das Internet gehören. Die Basisstation (75) kann die empfangenen Datenströme oder Teile davon an das Fernsehgerät (80), an die Fernbedienung (10) oder an beide Komponenten weiterleiten (Sp. 9 Z. 46-58).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Als Datenstrom kommt grundsätzlich jede übertragene Information in Frage. Ein Datenstrom kann mehrere Datenströme enthalten. Er kann aus HTML-Daten bestehen, die aus dem Internet übertragen werden, oder aus einem analogen oder digitalen Rundfunksignal (Sp. 1 Z. 17-26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Internet-Daten können auch in die Austastlücke (vertical blanking interval, VBI) eines analogen Fernsehsignals eingebettet werden. Solche Daten können typischerweise als Text oder Grafik unabhängig vom Bild aus dem normalen Videosignal angezeigt werden (Sp. 2 Z. 33-52).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>cc) Ein Ausführungsbeispiel für eine Fernbedienung (10) ist in der nachfolgend wiedergegebenen Figur 1 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Mittels entsprechender Anfragen kann die Fernbedienung (10) die Basisstation (75) zum Beispiel veranlassen, einen neuen Kanal auf dem Display (15) der Fernbedienung anzuzeigen (channel surfing), die angezeigten Programme auf dem Display (15) und dem Fernsehgerät (80) zu tauschen oder auf neue Daten aus dem Internet oder einer anderen externen Datenquelle zuzugreifen (Sp. 10 Z. 36-54).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Das Display (15) ist vorzugsweise berührungsempfindlich. In seiner Umgebung sind physische Betätigungsknöpfe angeordnet (Sp. 6 Z. 8-20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Mit der Fernbedienung kann der Benutzer beispielsweise durch Video-, Audio- und andere Aufnahmen eines DVD-Spielers browsen und den gewünschten Titel zum Abspielen auswählen (Sp. 5 Z. 16-22). Er kann auch in Internetseiten auf dem Display (15) der Fernbedienung browsen, ohne das Fernsehdisplay zu beeinflussen oder zu stören (Sp. 7 Z. 45-49).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>b) Wie auch die Berufung nicht in Zweifel zieht, ist damit eine Steuereinrichtung mit den Merkmalen 1, 1.1, 1.3, 1.4 und 1.5 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Berufung ist auch das Merkmal 1.2 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, ist es zur Verwirklichung von Merkmal 1.2 nicht erforderlich, dass zwei Video-Elemente in einem einzigen Schritt ausgewählt werden. Die in D1 beschriebene Möglichkeit, Video-Elemente zur Anzeige auf dem Fernsehgerät und der Fernbedienung konsekutiv auszuwählen, reicht deshalb zur Offenbarung dieses Merkmals aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>d) Die Merkmale 1.4.1 und 1.4.2 sind ebenfalls offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>aa) Wie oben dargelegt wurde, genügt es zur Verwirklichung von Merkmal 1.4.1, wenn eine Quelle identifiziert wird, die das jeweils ausgewählte Video-Element zur Verfügung stellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Eine solche Identifikation muss, wie das Patentgericht zu Recht ausgeführt hat, auch bei dem in D1 offenbarten System stattfinden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Dieser Schritt wird in D1 zwar nicht ausdrücklich erwähnt. Aus der Angabe, dass die Basisstation (75) Datenströme aus unterschiedlichen Quellen zur Verfügung stellen kann, ergibt sich aber, dass sie in der Lage ist, diese Quellen zu identifizieren und die von diesen gelieferten Datenströme entsprechend der getätigten Auswahl abzurufen und auf das gewünschte Display weiterzuleiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>bb) Merkmal 1.4.1 ist insbesondere auch durch die in D1 geschilderte Möglichkeit des Browsens durch Internet-Seiten offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, ist der Zugriff auf Video-Elemente, die anhand der Trefferliste einer Suchmaschine ausgewählt worden sind, notwendig mit einer Suche im Sinne von Merkmal 1.4.1 verbunden, weil nicht sicher davon ausgegangen werden kann, dass ein angezeigter Hyperlink tatsächlich zu einem Video-Element führt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Eine Auswahlmöglichkeit anhand von Hyperlinks ist in D1 in Gestalt des Browsens durch Internetseiten offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>cc) Ob D1 zu entnehmen ist, dass die Eingabe eines Suchbegriffs in einem Internet-Browser ohne weitere Zwischenschritte zur Wiedergabe eines Video-Elements führen kann, ist unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufungserwiderung zutreffend ausführt, ist eine solche Funktion in Patentanspruch 1 nicht zwingend vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent erweist sich auch in der Fassung von Hilfsantrag 1 nicht als rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 1 soll Patentanspruch 1 um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4.1a       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein the searching comprises finding out in which of the media sources the first video element is present and in which of the media sources the second video element is present;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei das Suchen umfasst, herauszufinden, in welcher der Medienquellen das erste Video-Element vorhanden ist und in welcher der Medienquellen das zweite Video-Element vorhanden ist;</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>b) Auch danach kann sich die Suche nach dem jeweiligen Video-Element darauf beschränken, eine geeignete Quelle zu identifizieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung des Patentgerichts enthält Merkmal 1.4.1a keine Festlegung auf Ausgestaltungen, bei denen die Liste von verfügbaren Video-Elementen ohne einen Medienführer erstellt worden ist und die Steuereinrichtung deshalb im Zeitpunkt der Auswahl noch nicht über Informationen dazu verfügt, welche Quelle ein ausgewähltes Element zur Verfügung stellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Merkmal 1.4.1a schränkt den geschützten Gegenstand lediglich dahin ein, dass für jedes Video-Element eine separate Suche durchgeführt wird. Ebenso wenig wie Merkmal 1.4.1 gibt es hingegen vor, in welcher Weise die Suche stattfindet und welche Informationen zur Medienquelle bereits im Zeitpunkt der Auswahl vorliegen dürfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>c) Der damit verteidigte Gegenstand ist in den ursprünglich offenbarten Unterlagen als zur Erfindung gehörend offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung der ursprünglich eingereichten Anmeldung (NK4) wird - ebenso wie in der Beschreibung des Streitpatents (Abs. 62 und 65) - ausgeführt, dass die Steuereinrichtung ein ausgewähltes (erstes) Medien-Element identifiziert und es bei Bedarf in den verfügbaren Medienquellen sucht (Abs. 66). Eine entsprechende Identifikation und Suche ist auch für ein zweites anzuzeigendes Medien-Element offenbart (Abs. 69).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>d) Der mit Hilfsantrag 1 verteidigte Gegenstand ist ebenfalls durch D1 vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, offenbart D1 eine zweistufige Auswahl von zwei Video-Elementen und die Identifikation der jeweils zugehörigen Quelle. Damit ist auch eine getrennte Identifikation für die einzelnen Video-Elemente offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>3. Das Streitpatent ist auch in der Fassung des Hilfsantrags 2 nicht rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 2 soll die erteilte Fassung von Patentanspruch 1 um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein the video selection is identified by a user input received by the user input interface;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei die Video-Auswahl durch eine Benutzereingabe identifiziert wird, die an der Benutzereingabeschnittstelle empfangen wird,</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht hat das Patentgericht entschieden, dass auch Merkmal 1.2.1 nicht zwingend vorschreibt, dass beide Video-Elemente in einem einstufigen Prozess ausgewählt werden müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Merkmal 1.2.1 knüpft die Auswahl an eine Benutzereingabe, lässt aber offen, woraus diese Benutzereingabe besteht. Insbesondere lässt sich dem Merkmal nicht entnehmen, dass die Eingabe nur aus einem einzigen Tastendruck bestehen darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>c) Der damit verteidigte Gegenstand ist folglich aus denselben Gründen durch D1 offenbart wie der Gegenstand der erteilten Fassung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>4. Das Streitpatent erweist sich auch in der Fassung des Hilfsantrags 3 nicht als rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 3 soll Patentanspruch 1 um folgendes Merkmal ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.4.1a'       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein each of the plurality of media sources is an internet media server;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei jede Medienquelle ein Internetmedienserver ist;</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>b) Zu Recht hat das Patentgericht den damit verteidigten Gegenstand ausgehend von D1 als nahegelegt angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Nach den Feststellungen des Patentgerichts war das Abrufen von Videos aus dem Internet zwar am Anmeldetag von D1 noch nicht allgemein üblich, vor dem Prioritätstag des Streitpatents aber längst keine Besonderheit mehr.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund lag es ausgehend von D1 jedenfalls nahe, das dort offenbarte Browsen in Internetseiten auch zum Abrufen von Video-Elementen zu nutzen und auf eine entsprechende Auswahl des Benutzers hin beide Bildschirme zur Wiedergabe solcher Elemente zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pückler     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE620082024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300232010</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10a. Zivilsenat</spruchkoerper>
+   <entsch-datum>20100422</entsch-datum>
+   <aktenzeichen>Xa ZB 20/08</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 1 Abs 1 PatG, § 1 Abs 3 Nr 3 PatG, § 1 Abs 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 17. Januar 2008, Az: 17 W (pat) 71/04, Beschluss<br/>nachgehend BPatG München, 28. Juli 2011, Az: 17 W (pat) 71/04, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patenschutz für ein Verfahren zur dynamischen Generierung strukturierter Dokumente - Dynamische Dokumentengenerierung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Dynamische Dokumentengenerierung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Ein Verfahren, das das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems (hier: eines Servers mit einem Client zur dynamischen Generierung strukturierter Dokumente) betrifft, ist stets technischer Natur, ohne dass es darauf ankäme, ob es in der Ausgestaltung, in der es zum Patent angemeldet wird, durch technische Anweisungen geprägt ist  .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein solches Verfahren ist nicht als Programm für Datenverarbeitungsanlagen vom Patentschutz ausgeschlossen, wenn es ein konkretes technisches Problem mit technischen Mitteln löst. Eine Lösung mit technischen Mitteln liegt nicht nur dann vor, wenn Systemkomponenten modifiziert oder in neuartiger Weise adressiert werden. Es reicht vielmehr aus, wenn der Ablauf eines Datenverarbeitungsprogramms, das zur Lösung des Problems eingesetzt wird, durch technische Gegebenheiten außerhalb der Datenverarbeitungsanlage bestimmt wird oder wenn die Lösung gerade darin besteht, ein Datenverarbeitungsprogramm so auszugestalten, dass es auf die technischen Gegebenheiten der Datenverarbeitungsanlage Rücksicht nimmt   .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Rechtsbeschwerde der Anmelderin wird der Beschluss des 17. Senats (Technischen Beschwerdesenats) des Bundespatentgerichts vom 17. Januar 2008 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zu anderweiter Verhandlung und Entscheidung, auch über die Kosten der Rechtsbeschwerde, an das Bundespatentgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Wert des Gegenstands des Rechtsbeschwerdeverfahrens wird auf 25.000 EUR festgesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>I. Das Deutsche Patent- und Markenamt hat die zehn Patentansprüche umfassende, im Jahr 2002 eingereichte Patentanmeldung 102 32 674 mit der Bezeichnung "Verfahren zur dynamischen Generierung strukturierter Dokumente" wegen Fehlens erfinderischer Tätigkeit zurückgewiesen. Hiergegen hat die Anmelderin Beschwerde eingelegt, mit der sie Patentanspruch 1 in der nachfolgend wiedergegebenen, geänderten Fassung und die Patentansprüche 2 bis 9 unverändert, aber in Rückbeziehung auf den geänderten Patentanspruch 1, weiterverfolgt hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Verfahren zur dynamischen Generierung strukturierter Dokumente (SD) an mindestens einem mit einem Client (CL) kommunizierenden, in seinen Ressourcen limitierten, mikrocontrollerbasierten Leitrechner (SRV), umfassend die Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Empfang von Anforderungsdaten (REQ) des Clients (CL) am Leitrechner (SRV),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Extraktion von Anfrageparametern aus den Anforderungsdaten (REQ),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Abbildung der Anfrageparameter durch ein Kontrollmodul (CRT) auf einen Befehlssatz eines softwarearchitekturspezifischen Schnittstellenmoduls (IF) des Leitrechners (SRV),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dynamische Generierung des strukturierten Dokuments (SD) unter Verwendung mindestens eines Vorlagedokuments (TD) mit enthaltenen Aufrufen von Dienstnehmern (JB), wobei Anweisungen der Dienstnehmer (JB) durch das Schnittstellenmodul (IF) extrahiert und auf einen korrespondierenden, auf einen Ausschnitt der Dienstnehmer beschränkten Befehlssatz des Schnittstellenmoduls (IF) abgebildet werden,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">welche unter Hinzuziehung der abgebildeten Anfrageparameter in einer Laufzeitumgebung des Kontrollmoduls (CRT) ausgeführt werden und nach erfolgter Ausführung Inhalte und/oder Struktur des strukturierten Dokuments (SD) definieren,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Übermittlung des dynamisch generierten strukturierten Dokuments (SD) an den Client (CL)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 10 hat sie in folgender Fassung weiterverfolgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"10. System zur Durchführung des Verfahrens nach einem der vorstehenden Ansprüche."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Beschwerde zurückgewiesen; seine Entscheidung ist in CR 2008, 626 veröffentlicht. Es hat die Rechtsbeschwerde zugelassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>II. Die Rechtsbeschwerde ist kraft Zulassung statthaft und wirksam eingelegt. In der Sache führt sie zur Aufhebung der angefochtenen Entscheidung und zur Zurückverweisung der Sache an das Patentgericht (§ 108 Abs. 1 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>1. Die der Rechtsbeschwerde zugrunde liegende Patentanmeldung betrifft nach ihrem Patentanspruch 1 ein Verfahren zur dynamischen Generierung strukturierter Dokumente,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(1) das an mindestens einem mikrocontrollerbasierten Leitrechner durchgeführt wird,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(1.1) der in seinen Ressourcen limitiert ist und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(1.2) mit einem Client kommuniziert,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">(2) mit folgenden Verfahrensschritten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.1) Anforderungsdaten des Clients werden am Leitrechner empfangen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.2) aus den Anforderungsdaten werden Anfrageparameter extrahiert,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.3) die Anfrageparameter werden durch ein Kontrollmodul auf einen Befehlssatz eines Schnittstellenmoduls des Leitrechners abgebildet,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2.3.1) wobei das Schnittstellenmodul softwarearchitekturspezifisch ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.4) das strukturierte Dokument wird dynamisch generiert</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2.4.1) unter Verwendung mindestens eines Vorlagedokuments mit enthaltenen Aufrufen von Dienstnehmern,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.5) dabei werden Anweisungen der Dienstnehmer durch das Schnittstellenmodul extrahiert und auf einen korrespondierenden Befehlssatz des Schnittstellenmoduls abgebildet,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2.5.1) wobei der Befehlssatz auf einen Ausschnitt der Dienstnehmer beschränkt ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.6) die Anweisungen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2.6.1) werden unter Hinzuziehung der abgebildeten Anfrageparameter in einer Laufzeitumgebung des Kontrollmoduls ausgeführt und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">(2.6.2) definieren nach erfolgter Ausführung Inhalte und/oder Struktur des strukturierten Dokuments,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(2.7) das dynamisch generierte strukturierte Dokument wird an den Client übermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>2. Das Patentgericht hat ausgeführt, mit der Anmeldung solle ein Verfahren angegeben werden, das eine Generierung strukturierter Dokumente mit dynamischem Inhalt und/oder dynamischer Struktur ermögliche, wobei eine Portierung der Vorlagedokumente zwischen ressourcenbegrenzten Leitrechnern bzw. Servern und Leitrechnern mit ausreichend Ressourcen in einfacher Weise möglich sein solle. Es solle mithin eine Möglichkeit geschaffen werden, strukturierte Dokumente (d.h. Dokumente, die neben der darzustellenden Information auch rechnerlesbare Instruktionen über Struktur und Darstellung enthielten, wie Dokumente im HTML-Format) aus Vorlagedokumenten, die in einer Script- oder scriptähnlichen Sprache wie Java Server Pages abgefasst seien, auch auf solchen Leitrechnern dynamisch zu generieren, deren zu geringe Leistungsfähigkeit die Installation einer vollständigen Scriptsprachen-Laufzeitumgebung nicht zulasse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems lehre Patentanspruch 1, dass der Leitrechner (Server) aus den Anforderungsdaten für ein Dokument die Anfrageparameter extrahiere und diese durch ein Kontrollmodul auf den Befehlssatz des Leitrechners abbilde. Unter der Abbildung sei zu verstehen, dass die Parameter in für das Schnittstellenmodul des Leitrechners verständliche Befehle umgesetzt oder auch ignoriert würden. Mit den (restlichen) Anforderungsdaten werde im Leitrechner auf ein entsprechendes Vorlagedokument samt der in diesem enthaltenen Aufrufe von Dienstnehmern zugegriffen. Die von den Dienstnehmern enthaltenen Anweisungen sollten ebenfalls extrahiert, auf den beschränkten spezifischen Befehlssatz des Schnittstellenmoduls des Leitrechners abgebildet und unter Hinzuziehung der abgebildeten Anfrageparameter in der Laufzeitumgebung des Kontrollmoduls, d.h. ohne Zwischenschaltung einer vollständigen Scriptsprachen-Laufzeitumgebung, ausgeführt werden. Auf diese Weise könne das angeforderte Dokument dynamisch generiert und an den Client übermittelt werden, ohne dass auf dem Leitrechner eine komplexe, umfassende Laufzeitumgebung für eine Scriptsprache wie "Java Virtual Machine" installiert sein müsse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das - ausführbar offenbarte - Verfahren nach Patentanspruch 1 liege nicht auf technischem Gebiet. Die Lehre des Streitpatents gehe dahin, in einer Scriptsprache abgefasste Dokumente auf einem Leitrechner geringer Leistungsfähigkeit dadurch verarbeitbar zu machen, dass ein beschränkter Ausschnitt von Anweisungen der Scriptsprache ohne eine Scriptsprachen-Laufzeitumgebung direkt in den Befehlssatz des Schnittstellenmoduls des Leitrechners umgesetzt werde. Dies betreffe zwar keine konkrete Folge von Arbeitsschritten, die für die Ausführung durch eine Datenverarbeitungsanlage bestimmt seien, sondern das grundsätzliche Konzept für die Generierung dynamischer Dokumente und sei daher wohl nicht als Programm für eine Datenverarbeitungsanlage "als solches" vom Patentschutz ausgeschlossen. Ein Verfahren, das sich zur Herbeiführung des angestrebten Erfolgs eines Programms bediene, sei aber nach der Rechtsprechung des Bundesgerichtshofs nicht schon wegen der elektronischen Datenverarbeitung dem Patentschutz zugänglich; die beanspruchte Lehre müsse vielmehr Anweisungen enthalten, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienten. Zwar möge die beanspruchte Lehre der Lösung eines (grundsätzlich) technischen Problems dienen, soweit sie versuche, durch eine bestimmte Weise der Erzeugung von Dokumenten die unterschiedliche Leistungsfähigkeit von Leitrechnern zu kompensieren. Dies werde aber nicht durch den Einsatz technischer Mittel bewirkt, sondern beruhe auf konzeptionellen Überlegungen. Der dabei vorausgesetzte Einsatz von Datenverarbeitungsmitteln führe nach höchstrichterlicher Rechtsprechung noch nicht dazu, dass die Lehre dem Patentschutz zugänglich sei. Um zu dem Vorschlag der Patentanmeldung zu gelangen, seien nach herkömmlichem Technikverständnis auch keine konkreten technischen Kenntnisse erforderlich, da eine bestimmte interne Arbeitsweise des Leitrechners als gegeben angenommen werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Hinsichtlich des Patentanspruchs 10 ergebe sich keine andere Bewertung. Mit diesem Anspruch, der auf die Verfahrensmerkmale Bezug nehme, betone die Anmelderin lediglich den gegenständlichen Charakter des zur Ausführung des Verfahrens verwendeten Datenverarbeitungssystems, dessen gegenständliche Merkmale jedoch bereits der Lehre des Patentanspruchs 1 unterlegt worden seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>3. Die Rechtsbeschwerde macht geltend, Computer und deren Programmierung gehörten zum Gebiet der Technik. Die Verneinung der Technizität von Computerprogrammen sei eine von der Wirklichkeit nicht gedeckte Fiktion. Art. 27 Abs. 1 des TRIPS-Übereinkommens gebiete die Erteilung von Patenten für Erfindungen auf allen Gebieten der Technik. Der im Patentgesetz vorgesehene Ausschluss für "Computerprogramme als solche" könne nur dann mit Art. 27 des TRIPS-Übereinkommens im Einklang stehen, wenn darunter ein nichttechnischer Gegenstand zu verstehen sei. Da Computerprogramme aber per se technisch seien, ließe sich ein Widerspruch zum TRIPS-Übereinkommen nur dann vermeiden, wenn es nichttechnische "Computerprogramme als solche" gäbe. Dem stehe indessen entgegen, dass Computerprogramme dem Grunde nach technisch seien. Ein Ausweg lasse sich nur finden, wenn allen Computerprogrammen ein "Doppelcharakter" mit technischen und nichttechnischen Eigenschaften zugesprochen werde. Die technischen Eigenschaften seien hier in der Steuerung des Computers wie in allen sonstigen technischen Effekten zu sehen, die durch programmgesteuerte Computer bei der Ausführung der Programme bewirkt würden, die nichttechnischen in den textuellen Aspekten. Die bisherige Rechtsprechung des Bundesgerichtshofs habe zwei Arten von offensichtlich technischen Anweisungen zur Computersteuerung nicht erfasst, nämlich computergerechte Anweisungen, die zwar ein technisches Problem lösten, den Patentanspruch aber nicht prägten, sowie computergerechte Anweisungen, die für den Patentanspruch prägend seien, aber kein technisches Problem lösten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>4. Der Lehre, für die die Patentanmeldung Schutz beansprucht, betrifft eine Erfindung im Sinne des § 1 Abs. 1 PatG (in der seit dem 13.12.2007 anzuwendenden Fassung) und ist nicht nach § 1 Abs. 3 Nr. 3 PatG vom Patentschutz ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>a) Die Lehre, für die die Anmelderin Schutz beansprucht, betrifft das unmittelbare Zusammenwirken mehrerer Elemente einer Datenverarbeitungsanlage, nämlich eines - beispielsweise durch beschränkte Arbeitsspeicherkapazität (Beschr. Abs. 6, 7) - in seiner Leistungsfähigkeit beschränkten Leitrechners (Server; SRV), der ein Schnittstellenmodul (Interface, IF) aufweist, mit einem Client (CL), der Anforderungen an den Leitrechner sendet und vom Leitrechner anforderungsgemäß dynamisch generierte strukturierte Dokumente empfängt. Damit stellt das in Patentanspruch 1 vorausgesetzte und mit Patentanspruch 10 beanspruchte "System" aus Leitrechner und Client insgesamt eine (komplexe) Datenverarbeitungsanlage dar, deren Funktionsfähigkeit durch die beschränkten Ressourcen des Leitrechners beeinträchtigt sein kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Beeinträchtigung ergibt sich das der Anmeldung zugrunde liegende Problem (vgl. Beschr. Abs. 16), ein Verfahren bereitzustellen, das es ermöglicht, auch auf Leitrechnern mit beschränkten Ressourcen ein vom Client angefordertes strukturiertes Dokument dynamisch zu generieren (und das so generierte Dokument sodann an den Client zu übermitteln).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Dazu werden aus den vom Client empfangenen Anforderungsdaten Anfrageparameter extrahiert (Merkmal 2.2) und durch ein "Kontrollmodul" des Servers auf einen Befehlssatz eines softwarearchitekturspezifischen Schnittstellenmoduls abgebildet (Merkmale 2.3, 2.3.1). Darunter ist, wie die Beschreibung erläutert (Abs. 18), zu verstehen, dass die Anforderungsparameter durch für das Schnittstellenmodul verständliche Befehle ersetzt - oder auch ignoriert - werden. Unter Verwendung mindestens eines Vorlagedokuments wird sodann ein den Anforderungsdaten entsprechendes strukturiertes Dokument erzeugt (Merkmal 2.4). Das Vorlagedokument enthält einen oder mehrere Dienstnehmer (Merkmal 2.4.1), d.h. dynamische Aufrufe von Objekten oder Java-Komponenten ("Java Beans"), die zusammen mit statischen Bestandteilen wie beispielsweise HTML-Ausdrücken in ein gemeinsames Dokument eingebunden sind, das beispielsweise die Struktur einer Java-Serverseite (Java Server Pages) aufweist. Die im Vorlagedokument enthaltenen Anweisungen können mittels einer auf dem Leitrechner installierten Laufzeitumgebung - im Fall von Java Server Pages die so genannte Servlet Engine zur Umsetzung der Serverseiten und die so genannte Java Virtual Machine (JVM) zur Ausführung des Java-Codes - verarbeitet werden. Hierbei entsteht ein dynamisch erzeugtes strukturiertes Dokument, beispielsweise ein HTML-Dokument mit dem angeforderten Inhalt, das an den Client übermittelt wird (vgl. Beschr. Abs. 12 zu 2). Nach der Lehre der Patentanmeldung werden die Anweisungen der Dienstnehmer ("Java Beans") durch ein auf dem Leitrechner vorhandenes Schnittstellenmodul extrahiert, auf einen korrespondierenden - beschränkten (Merkmal 2.5.1) - Befehlssatz abgebildet (Merkmal 2.5) und in einer Laufzeitumgebung des ebenfalls auf einem Leitrechner angeordneten Kontrollmoduls ausgeführt (Merkmal 2.6.1). Die Abbildung kann, wie die Beschreibung erläutert, sehr vereinfacht gestaltet sein, indem sie sich beispielsweise auf einen kleinen Ausschnitt der Java-Beans-Syntax beschränkt (Abs. 43). Dies ermöglicht es, Java-Serverseiten auch auf einem Rechner umzusetzen, auf dem keine Java Virtual Machine installiert ist, sondern eine angepasste Laufzeitumgebung, die weniger Rechenkapazität oder Speicherplatz benötigt. Als Vorteil dieses Verfahrens wird in der Patentanmeldung angegeben, dass ein beispielsweise in Form einer Java-Serverseite vorliegendes Vorlagedokument sowohl in einem Leitrechner mit begrenzten Ressourcen als auch in einem besser ausgestatteten Leitrechner zur dynamischen Generierung strukturierter Dokumente herangezogen werden kann, also keine unterschiedlichen Vorlagedokumente für die beiden Rechnertypen entwickelt werden müssen (Abs. 19). Einschränkungen können sich daraus ergeben, dass das Schnittstellenmodul des in seinen Ressourcen begrenzten Leitrechners nur einen beschränkten Befehlssatz aufweist und deshalb nicht ohne weiteres alle in dem Vorlagedokument enthaltenen Anweisungen in gleicher Weise umsetzen kann wie ein besser ausgestatteter Leitrechner.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Damit liegt nach der Rechtsprechung des Bundesgerichtshofs eine technische Lehre vor, die als Erfindung grundsätzlich dem Patentschutz zugänglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Der Bundesgerichtshof hat bereits 1991 entschieden, dass eine programmbezogene Lehre technisch ist, wenn sie die Funktionsfähigkeit einer Datenverarbeitungsanlage als solche betrifft und damit das unmittelbare Zusammenwirken ihrer Elemente ermöglicht (BGHZ 115, 11 - Seitenpuffer). Die Funktionsfähigkeit der Datenverarbeitungsanlage hat er im damaligen Streitfall insofern als betroffen angesehen, als es die erfindungsgemäße Lehre ermögliche, die Datenverarbeitungsanlage unter besserer Ausnutzung des Arbeitsspeichers und mit kürzeren Speicherzugriffszeiten zu betreiben (BGHZ 115, 11, 21). Er hat dies damit begründet, dass die angemeldete Lehre ein Verfahren betreffe, das in der Erfassung und Speicherung der Information über den aktuellen Speicherbereich eines in einer Datenverarbeitungsanlage ablaufenden Rechenprozesses und in einer bestimmten Ladestrategie für einen dem bevorzugten Zugriff unterliegenden, aber nur eine Auswahl von Speicherseiten fassenden Speicher (Seitenpuffer) bestehe. Dieses Verfahren betreffe die Funktionsfähigkeit der Datenverarbeitungsanlage als solche, denn es enthalte die Anweisung, die Elemente einer Datenverarbeitungsanlage beim Betrieb unmittelbar auf bestimmte Art und Weise zu benutzen (BGHZ 115, 11, 22).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat in der Begründung, die es für die Zulassung der Rechtsbeschwerde gegeben hat, den Unterschied zum Streitfall darin gesehen, dass sich die Erfindung im Fall "Seitenpuffer" mit der internen Arbeitsweise einer Datenverarbeitungsanlage befasse, die für sich als technische Vorrichtung im Mittelpunkt der Betrachtung stehe. Entsprechend seien (prinzipielle) Abwandlungen dieser Arbeitsweise in technischer Hinsicht als dem Patentschutz zugänglich bewertet worden, auch wenn sie ohne Änderung der Hardwarestruktur allein durch eine Programmmodifikation bewirkt worden seien. Um jedoch zur beanspruchten Lehre zu gelangen, seien technisches Fachwissen und eine Auseinandersetzung mit den konkreten Baugruppen und Funktionsabläufen in der Datenverarbeitungsanlage erforderlich gewesen, während im Streitfall die Arbeitsweise des Servers als gegeben hingenommen und auf Grund konzeptioneller Überlegungen zur Verarbeitung von Daten der Einsatz bestimmter Softwaremodule vorgeschlagen werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Diese Unterscheidung lehnt sich an die Entscheidung "Chinesische Schriftzeichen" (BGHZ 115, 23) an. In dieser hat der Bundesgerichtshof das zum Patent angemeldete Verfahren zur Eingabe chinesischer Zeichen in Textsysteme, das zur Einsparung von Speicherplatz, zur Verringerung der Zugriffszeit und zur Erhöhung der Geschwindigkeit des Verarbeitungsvorgangs insgesamt eine bestimmte Speicheradressierung vorsah, nicht als technische Lehre angesehen, weil das Verfahren im Gegensatz zum Fall "Seitenpuffer" nicht die Funktionsfähigkeit der Datenverarbeitungsanlage als solche betreffe; die gegenständlichen Merkmale der Datenverarbeitungsanlage gäben der beanspruchten Lehre nicht das entscheidende Gepräge, die mit den gedanklichen Maßnahmen des Ordnens der verarbeiteten Daten stehe und falle (BGHZ 115, 23, 31).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Für das Technizitätserfordernis ist es jedoch, wie der X. Zivilsenat des Bundesgerichtshofs in der Entscheidung "Steuerungseinrichtung für Untersuchungsmodalitäten" (Beschl. v. 20.1.2009 - X ZB 22/07, GRUR 2009, 479) klargestellt hat, unerheblich, ob der Gegenstand einer Anmeldung neben technischen Merkmalen auch nichttechnische aufweist und welche dieser Merkmale die beanspruchte Lehre prägen. Ob Kombinationen von technischen und nichttechnischen bzw. vom Patentschutz ausgeschlossenen Merkmalen im Einzelfall patentfähig sind, hängt vielmehr - abgesehen von etwa einschlägigen Ausschlusstatbeständen des § 1 Abs. 3 PatG - allein davon ab, ob sie neu sind und auf einer erfinderischen Tätigkeit beruhen (BGH GRUR 2009, 479 Tz. 10 m.w.N.). Einer Vorrichtung (Datenverarbeitungsanlage), die in bestimmter Weise programmtechnisch eingerichtet ist, kommt deshalb ohne weiteres technischer Charakter zu, auch wenn die Vorrichtung erfindungsgemäß der Textbearbeitung dient (BGHZ 144, 282 - Sprachanalyseeinrichtung). Nichts anderes kann im Streitfall für das mit Patentanspruch 10 beanspruchte System gelten, das aus Rechnern besteht, auf denen das mit Patentanspruch 1 beanspruchte Verfahren zur dynamischen Generierung strukturierter Dokumente ausgeführt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Da unerheblich ist, welche Merkmale die zum Patentschutz angemeldete Lehre prägen, kommt es indessen auch bei einem Verfahrensanspruch für das Technizitätserfordernis nicht darauf an, ob die Erfindung (prinzipielle) Abwandlungen der Arbeitsweise der Komponenten einer Datenverarbeitungsanlage lehrt. Es genügt vielmehr, dass sie die Nutzung solcher Komponenten lehrt und damit eine Anweisung zum technischen Handeln gibt (BGH GRUR 2009, 479 Tz. 8 - Steuerungseinrichtung für Untersuchungsmodalitäten; Sen.Urt. v. 4.2.2010 - Xa ZR 4/07 Tz. 20 - Glasflaschenanalysesystem, zur Veröffentlichung vorgesehen). Auch Patentanspruch 1 enthält damit eine grundsätzlich dem Patentschutz zugängliche technische Lehre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>c) Die zum Patent angemeldete technische Lehre ist auch nicht als Programm für Datenverarbeitungsanlagen vom Patentschutz ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der gefestigten Rechtsprechung des Bundesgerichtshofs muss eine Anmeldung, die ein Computerprogramm oder ein durch ein Datenverarbeitungsprogramm verwirklichtes Verfahren zum Gegenstand hat, über die für die Patentfähigkeit unabdingbare Technizität hinaus verfahrensbestimmende Anweisungen enthalten, die die Lösung eines konkreten technischen Problems mit technischen Mitteln zum Gegenstand haben (BGHZ 149, 68, 74 - Suche fehlerhafter Zeichenketten; BGHZ 159, 197, 204 - elektronischer Zahlungsverkehr; BGHZ 166, 305 Tz. 17 - vorausbezahlte Telefongespräche; BGH GRUR 2009, 479 Tz. 11 - Steuerungseinrichtung für Untersuchungsmodalitäten). Wegen des Patentierungsausschlusses für Computerprogramme als solche (§ 1 Abs. 3 Nr. 3, Abs. 4 PatG) vermögen regelmäßig erst solche Anweisungen die Patentfähigkeit eines Verfahrens zu begründen, die eine Problemlösung mit derartigen Mitteln zum Gegenstand haben. Nicht der Einsatz eines Computerprogramms selbst, sondern die Lösung eines technischen Problems mit Hilfe eines (programmierten) Rechners kann vor dem Hintergrund des Patentierungsverbotes eine Patentfähigkeit zur Folge haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Dies hat zur weiteren Folge, dass auch bei der Prüfung von Neuheit und erfinderischer Tätigkeit die Lösung des technischen Problems in den Blick zu nehmen ist. Schutzfähig ist eine programmbezogene Lehre nur dann, wenn die Lösung des konkreten technischen Problems neu ist und auf erfinderischer Tätigkeit beruht. Außerhalb der Technik liegende Anweisungen genügen in diesem Zusammenhang grundsätzlich nicht; sie sind nur in dem Umfang von Bedeutung, in dem sie auf die Lösung des technischen Problems mit technischen Mitteln Einfluss nehmen (BGHZ 159, 197, 205 f. - elektronischer Zahlungsverkehr; BGH, Beschl. v. 19.10.2004 - X ZB 34/03, GRUR 2005, 143, 144 - Rentabilitätsermittlung; BGH GRUR 2009, 479 Tz. 11 - Steuerungseinrichtung für Untersuchungsmodalitäten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Nur im Hinblick auf diese Prüfung der erfinderischen Tätigkeit kann, wie der Bundesgerichtshof bereits klargestellt hat (BGHZ 159 aaO), die Frage Bedeutung gewinnen, inwiefern die technischen Lösungselemente die Erfindung "prägen". Hingegen kann - entgegen der Auffassung der Rechtsbeschwerde - aus der Entscheidung "Suche fehlerhafter Zeichenketten" (BGHZ 149, 68) nicht abgeleitet werden, nur einen Patentanspruch prägende technische Anweisungen seien geeignet, den Patentierungsausschluss zu überwinden (vgl. auch BGH, Beschl. v. 19.10.2004 - X ZB 33/03, GRUR 2005, 141, 142 - Anbieten interaktiver Hilfe; EPA, Entsch. v. 21.4.2004 - T 258/03 - 3.5.1, ABl. EPA 2004, 575 = GRUR Int. 2005, 332, 333 - Auktionsverfahren/HITACHI).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>bb) Das Patentgericht hat zutreffend ausgeführt, dass der Erfindung ein technisches Problem zugrunde liegt, da es durch sie ermöglicht werde, vom Client angeforderte strukturierte Dokumente auch auf Leitrechnern dynamisch zu generieren, die nicht über die für den Einsatz einer eher anspruchsvollen Laufzeitumgebung wie beispielsweise einer Java Virtual Machine erforderliche oder wünschenswerte Rechenkapazität verfügen. Damit ist mit der besseren Ausnutzung begrenzter Ressourcen eines Servers bei der dynamischen Generierung strukturierter Dokumente die Funktionalität eines Kommunikationssystems betroffen und infolgedessen ein konkretes technisches Problem und nicht etwa ein außerhalb der Technik liegendes Ziel (vgl. hierzu BGHZ 159, 197, 206 - elektronischer Zahlungsverkehr; BGH GRUR 2005, 141, 142 - Anbieten interaktiver Hilfe; BGH GRUR 2005, 143, 144 - Rentabilitätsermittlung; Sen.Urt. v. 30.7.2009 - Xa ZR 22/06, GRUR 2010, 44 - Dreinahtschlauchfolienbeutel) angesprochen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>cc) Das Patentgericht hat gemeint, der erfindungsgemäße Erfolg werde nicht mit technischen Mitteln herbeigeführt, weil er auf konzeptionellen Überlegungen beruhe, die in den Vorschlag mündeten, ein bestimmtes Softwaremodul vorzusehen und auf diese Weise die systemnahe Software zu optimieren. Dieser Beurteilung kann nicht beigetreten werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Ein technisches Mittel zur Lösung eines technischen Problems liegt nicht nur dann vor, wenn Gerätekomponenten modifiziert oder grundsätzlich abweichend adressiert werden. Es reicht vielmehr aus, wenn der Ablauf eines Datenverarbeitungsprogramms, das zur Lösung des Problems eingesetzt wird, durch technische Gegebenheiten außerhalb der Datenverarbeitungsanlage bestimmt wird oder wenn die Lösung gerade darin besteht, ein Datenverarbeitungsprogramm so auszugestalten, dass es auf die technischen Gegebenheiten der Datenverarbeitungsanlage Rücksicht nimmt. Die zuletzt genannte Voraussetzung ist im vorliegenden Fall erfüllt. Die erfindungsgemäße Lehre betrifft, wie das Patentgericht rechtsfehlerfrei festgestellt hat, das grundsätzliche Konzept für die Generierung dynamischer Dokumente. Sie richtet sich deshalb nicht an den Programmierer, sondern an den Systemdesigner, der die Gesamtarchitektur des Datenverarbeitungssystems im Auge hat und die unterschiedlichen Eigenschaften und die Leistungsfähigkeit von Hard- und Softwarekomponenten berücksichtigt. Gerade deshalb betrifft sie den Einsatz technischer Mittel zur Lösung des zu Grunde liegenden technischen Problems. Dass die Lehre nicht auf konkrete Maßnahmen zur Abbildung der Anfrageparameter auf einen begrenzten Befehlssatz beschränkt, sondern eher abstrakt formuliert ist, wird bei der noch vorzunehmenden Prüfung von Neuheit und erfinderischer Tätigkeit zu berücksichtigen sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>5. Die Sache ist somit zur Prüfung der weiteren Anforderungen an die Patentfähigkeit einer Erfindung an das Patentgericht zurückzuverweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>III. Eine mündliche Verhandlung hat der Senat nicht als erforderlich angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                     Keukenschrijver                                        Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                           Bacher                                                     Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300232010&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

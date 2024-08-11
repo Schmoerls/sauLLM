@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304372012</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20121009</entsch-datum>
+   <aktenzeichen>EnVR 88/10</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 11 Abs 2 S 1 Nr 13 ARegV vom 21.08.2009, § 13 Abs 3 ARegV, § 15 Abs 1 ARegV</norm>
+   <vorinstanz>vorgehend OLG Düsseldorf, 21. Juli 2010, Az: VI-3 Kart 184/09<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Festlegung der Erlösobergrenze im Rahmen der Regulierung des Entgelts für den Stromnetzzugang: Einordnung der Netzanschlusskosten als dauerhaft nicht beeinflussbare Kostenanteile; Vergleichsparameter bei der Ermittlung des Effizienzwerts; Umfang der Darlegungslast des Netzbetreibers bei Geltendmachung von Mehrkosten aufgrund der Erbringung von Leistungen in überdurchschnittlich hohem Maße - SWM Infrastruktur GmbH</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>SWM Infrastruktur GmbH</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Netzanschlusskostenbeiträge sind auch nach der bis zum 8. September 2010 geltenden Fassung von § 11 Abs. 2 Satz 1 Nr. 13 ARegV (in entsprechender Anwendung der Vorschrift) als dauerhaft nicht beeinflussbare Kostenanteile anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Entscheidung der Bundesnetzagentur, beim Effizienzvergleich Einrichtungen im Bereich der Höchstspannung und das Verhältnis zwischen der Anzahl von Zählpunkten und der Anzahl von Anschlusspunkten nicht als Vergleichsparameter heranzuziehen, ist nicht ermessensfehlerhaft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Macht der Netzbetreiber Mehrkosten geltend, weil er eine bestimmte Leistung - zum Beispiel Einrichtung und Betrieb von Zählpunkten - in überdurchschnittlich hohem Maße erbringen müsse, genügt es zum Nachweis dieser Kosten nicht, diese allein anhand der Zahl der Leistungseinheiten und der für eine Leistungseinheit durchschnittlich anfallenden Kosten zu berechnen. Der Netzbetreiber muss vielmehr darlegen und unter Beweis stellen, in welchem Umfang die Kosten gerade dadurch angestiegen sind, dass die Leistung in höherem Maße zu erbringen ist, als dies dem Durchschnitt entspricht.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Rechtsbeschwerde der Betroffenen wird der am 21. Juli 2010 verkündete Beschluss des 3. Kartellsenats des Oberlandesgerichts Düsseldorf aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Beschwerde der Betroffenen wird der Beschluss der Bundesnetzagentur vom 3. Februar 2009 aufgehoben. Die Bundesnetzagentur wird verpflichtet, die Betroffene unter Beachtung der Rechtsauffassung des Senats neu zu bescheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die weitergehenden Rechtsmittel werden zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten und Auslagen des Beschwerde- und Rechtsbeschwerdeverfahrens tragen die Betroffene fünf Sechstel und die Bundesnetzagentur ein Sechstel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Der Wert des Rechtsbeschwerdeverfahrens wird auf 89 Millionen Euro festgesetzt.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>I. Die Betroffene betreibt ein Elektrizitätsverteilernetz. Mit Schreiben vom 2. September 2008 eröffnete die Bundesnetzagentur gegen sie von Amts wegen das Verfahren zur Festlegung der Erlösobergrenzen für die Jahre 2009 bis 2013. Die Betroffene beantragte unter anderem die Einbeziehung eines pauschalierten Investitionszuschlags und eines Erweiterungsfaktors sowie die Anpassung der Erlösobergrenze wegen Vorliegens einer nicht zumutbaren Härte im Hinblick auf gestiegene Kosten für die Beschaffung von Verlustenergie.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Mit Beschluss vom 3. Februar 2009 legte die Bundesnetzagentur die Erlösobergrenzen niedriger als von der Betroffenen begehrt fest. Sie legte hierbei einen Effizienzwert von 92,3 % zugrunde. Bei der Ermittlung des Ausgangsniveaus nach § 6 ARegV nahm sie Kürzungen bei den Kosten für Verlustenergie, beim Zinssatz für Fremdkapital, beim zu berücksichtigenden Eigenkapital, bei den für die Abschreibungen herangezogenen Indexreihen und bei der kalkulatorischen Gewerbesteuer vor. Bei den dauerhaft nicht beeinflussbaren Kosten ließ sie Netzanschlusskostenbeiträge und Kosten für Verlustenergie außer Betracht. Einen pauschalierten Investitionszuschlag gemäß § 25 ARegV gewährte sie nur in geringerer Höhe als beantragt. Abweichend vom Begehren der Betroffenen stellte sie in die Berechnung ferner den generellen sektoralen Produktivitätsfaktor nach § 9 ARegV ein. Die Anträge auf Berücksichtigung eines Erweiterungsfaktors im Sinne von § 10 ARegV und auf Anerkennung eines Härtefalls im Sinne von § 4 Abs. 4 Satz 1 Nr. 2 ARegV lehnte sie ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die hiergegen gerichtete Beschwerde der Betroffenen hat das Beschwerdegericht zurückgewiesen. Dagegen wendet sich die Betroffene mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde, mit der sie ihr Begehren aus der Beschwerdeinstanz in vollem Umfang weiterverfolgt. Die Bundesnetzagentur tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>II. Die zulässige Rechtsbeschwerde hat nur zu einem Teil Erfolg. Im Übrigen ist sie unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">1. Bestimmung des Ausgangsniveaus</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Teilweise begründet ist die Rechtsbeschwerde, soweit sie sich gegen die Bestimmung des Ausgangsniveaus für die Bestimmung der Erlösobergrenzen gemäß § 6 ARegV wendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>a) Das Beschwerdegericht hat ausgeführt, nach § 6 Abs. 2 ARegV sei für die erste Regulierungsperiode das Ergebnis der Kostenprüfung der letzten Genehmigung der Netzentgelte heranzuziehen. Für eine Anpassung an spätere Entwicklungen sei kein Raum. Deshalb könnten weder die tatsächlichen Beschaffungskosten für Verlustenergie für das Jahr 2007 noch Plankosten für die Jahre 2008 oder 2009 berücksichtigt werden. Eine Anpassung an die Rechtsprechung des Bundesgerichtshofs, nach der weitere Kostenpositionen hätten berücksichtigt werden müssen, und die Heranziehung anderer Preisindizes seien ebenfalls nicht möglich. Die Bundesnetzagentur sei auch nicht verpflichtet gewesen, die kalkulatorische Gewerbesteuer mit Blick auf die von ihr zu Gunsten der Betroffenen vorgenommene Anpassung der Eigenkapitalverzinsung zu aktualisieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>b) Diese Beurteilung hält der rechtlichen Überprüfung nur teilweise stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist bei der Ermittlung des Ausgangsniveaus nach § 6 Abs. 2 ARegV - entgegen der Auffassung des Beschwerdegerichts - die höchstrichterliche Rechtsprechung zur Auslegung und Anwendung der Stromnetzentgeltverordnung zu berücksichtigen (BGH, Beschluss vom 28. Juni 2010 - EnVR 48/10, RdE 2011, 308 Rn. 7 ff. - EnBW Regional AG). Das Ergebnis der letzten Kostenprüfung darf nicht übernommen werden, soweit es zu dieser Rechtsprechung in Widerspruch steht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Ein Widerspruch in diesem Sinne setzt allerdings voraus, dass der Netzbetreiber im Entgeltgenehmigungsverfahren Kostenpositionen geltend gemacht hat, deren Anerkennung die Regulierungsbehörde zu Unrecht abgelehnt hat. Soweit der Netzbetreiber bestimmte Kostenpositionen im Entgeltgenehmigungsverfahren nicht geltend gemacht hat, muss er sich daran auch im Zusammenhang mit § 6 Abs. 2 ARegV festhalten lassen (BGH, Beschluss vom 31. Januar 2012 - EnVR 16/10, RdE 2012, 203 Rn. 13 - Gemeindewerke Schutterwald).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Möglichkeit, das nach § 6 Abs. 2 ARegV heranzuziehende Ergebnis der letzten Kostenprüfung in einzelnen Punkten an nachträglich ergangene Rechtsprechung anzupassen, führt nicht dazu, dass der Netzbetreiber seine der letzten Entgeltgenehmigung zugrunde gelegte Kalkulation an beliebigen Stellen nachträglich korrigieren darf. Die Anpassung an die höchstrichterliche Rechtsprechung dient lediglich dazu, für die Festlegung der Erlösobergrenzen von denjenigen Kosten auszugehen, die sich bei Berücksichtigung dieser Rechtsprechung auf der Grundlage des für die Entgeltgenehmigung maßgeblichen Sachverhalts ergeben hätten. Hierbei können Kosten, die der Netzbetreiber damals nicht geltend gemacht hat, keine Berücksichtigung finden. Aus welchen Gründen von der Geltendmachung der Kosten abgesehen wurde, ist unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>aa) Demnach ist es im Ergebnis nicht zu beanstanden, dass die Bundesnetzagentur keine Plankosten für Verlustenergie berücksichtigt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Zwar konnten nach der Rechtsprechung des Senats bei der Genehmigung der Netzentgelte auf der Grundlage von § 23a EnWG die Kosten für die Beschaffung von Verlustenergie bei gesicherten Erkenntnissen auch mit Planwerten im Sinne von § 3 Abs. 1 Satz 5 Halbsatz 2 StromNEV in Ansatz gebracht werden (BGH, Beschluss vom 14. August 2008 - KVR 36/07, RdE 2008, 337 Rn. 9 ff. - Stadtwerke Trier). Die Betroffene hat im letzten Entgeltgenehmigungsverfahren aber keine Plankosten für Verlustenergie geltend gemacht. Deshalb ist es ihr auch im vorliegenden Zusammenhang verwehrt, die Berücksichtigung solcher Kosten zu verlangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>bb) Entsprechendes gilt für den Risikozuschlag bei den Fremdkapitalzinsen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Ein solcher Zuschlag hätte zwar berücksichtigt werden müssen (hierzu BGH, Beschluss vom 14. August 2008 - KVR 42/07, WuW/E DE-R 2395 Rn. 54 ff. - Rheinhessische Energie). Die Betroffene hat diese Kostenposition im Entgeltgenehmigungsverfahren jedoch nicht geltend gemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>cc) Hinsichtlich der geleisteten Anzahlungen und Kosten für Anlagen im Bau (hierzu BGH, Beschluss vom 14. August 2008 - KVR 39/07, RdE 2008, 323 Rn. 32 ff. - Vattenfall) wird die Bundesnetzagentur nach der Zurückverweisung den Sachverhalt weiter aufzuklären haben. Auf der Grundlage der bisher getroffenen tatsächlichen Feststellungen kann nicht abschließend beurteilt werden, ob die Betroffene diese Kostenposition im Entgeltgenehmigungsverfahren in hinreichender Weise geltend gemacht hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Berücksichtigung solcher Kosten ist nicht schon deshalb ausgeschlossen, weil die Betroffene im Entgeltgenehmigungsverfahren in der Aufstellung des kalkulatorischen Eigenkapitals entsprechend den damaligen Vorgaben der Bundesnetzagentur keine entsprechende Position ausgewiesen hat. Es würde vielmehr ausreichen, wenn die Betroffene in ihrer zusammen mit dem Antrag auf Genehmigung der Netzentgelte eingereichten Bilanz zum 31. Dezember 2006 für geleistete Anzahlungen und Anlagen im Bau einen entsprechenden Betrag ausgewiesen hätte. Aus diesem Umstand hätte die Bundesnetzagentur bei zutreffender rechtlicher Beurteilung folgern können und müssen, dass diese Position auch beim kalkulatorischen Eigenkapital zu berücksichtigen ist. Die Betroffene war nicht gehalten, den Betrag in weitere Formulare, Aufstellungen oder sonstige Anlagen zum Entgeltgenehmigungsantrag zu übernehmen, weil dort ohnehin keine entsprechende Rubrik vorgesehen war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Ob die Betroffene die Kostenposition im Entgeltgenehmigungsverfahren in der genannten Weise geltend gemacht hat, ist weder den Feststellungen des Beschwerdegerichts noch den vorliegenden Verfahrensakten zu entnehmen. Die Bundesnetzagentur hat nach der Zurückverweisung Gelegenheit, die erforderliche Aufklärung des Sachverhalts nachzuholen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>dd) Anzupassen ist die kalkulatorische Gewerbesteuer im Hinblick auf die von der Bundesnetzagentur vorgenommenen Änderungen bei der Eigenkapitalverzinsung wegen der Neufestlegung der Zinssätze vom 7. Juli 2008.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat bereits entschieden hat, folgt aus der in § 8 StromNEV vorgeschriebenen Anbindung der kalkulatorischen Gewerbesteuer an die Bemessungsgrundlage der kalkulatorischen Eigenkapitalverzinsung, dass bei einer Veränderung der Bemessungsgrundlage auch die Gewerbesteuer anzupassen ist. Aus § 7 Abs. 6 StromNEV ergibt sich entgegen der Auffassung der Bundesnetzagentur nichts anderes (BGH RdE 2012, 203 Rn. 10 - Gemeindewerke Schutterwald).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Ob die Betroffene eine entsprechende Anpassung bereits im - vor der Neufestlegung der Zinssätze abgeschlossenen - Entgeltgenehmigungsverfahren beantragt hat, ist unerheblich. Die Anpassung der kalkulatorischen Gewerbesteuer ergibt sich als rechnerische Folge aus der Änderung der Bemessungsgrundlage und bedarf, anders als die oben behandelten Kostenpositionen, keines zusätzlichen tatsächlichen Vorbringens seitens des Netzbetreibers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>ee) Soweit die Betroffene geltend macht, die bei der Berechnung der Tagesneuwerte zugrunde gelegten Preisindizes seien fehlerhaft, wird die Bundesnetzagentur Gelegenheit haben, dieses Vorbringen bei der ohnehin gebotenen Neubescheidung zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">2. Netzanschlusskostenbeiträge</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Ohne Erfolg wendet sich die Rechtsbeschwerde gegen die Einordnung der Erlöse aus Netzanschlusskostenbeiträgen als dauerhaft nicht beeinflussbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Das Beschwerdegericht hat ausgeführt, die Regelung in § 11 Abs. 2 Satz 1 Nr. 13 ARegV in der bis 8. September 2010 geltenden Fassung, nach deren Wortlaut nur Erlöse aus der Auflösung von Baukostenzuschüssen nach § 9 Abs. 1 Satz 1 Nr. 4 StromNEV, nicht aber Erlöse aus der Auflösung von Netzanschlusskostenbeiträgen nach § 9 Abs. 1 Satz 1 Nr. 3 StromNEV als dauerhaft nicht beeinflussbar gelten, weise eine planwidrige Lücke auf. Der Verordnungsgeber habe versehentlich nicht berücksichtigt, dass die Erwägungen, die zur Einfügung von § 11 Abs. 2 Satz 1 Nr. 13 ARegV geführt hätten, für Baukostenzuschüsse und Netzanschlusskostenbeiträge gleichermaßen gälten. Die dadurch entstandene Regelungslücke sei durch entsprechende Anwendung der Vorschrift auf Netzanschlusskostenbeiträge zu schließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>b) Dies hält der rechtlichen Überprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Eine unmittelbare Anwendung des § 11 Abs. 2 Satz 1 Nr. 13 ARegV a.F. auf Netzanschlusskostenbeiträge ist zwar angesichts des klaren Wortlauts der Vorschrift ausgeschlossen. Aus der Entstehungsgeschichte und aus dem Sinn und Zweck der Vorschrift ergibt sich aber, dass eine planwidrige Regelungslücke besteht, die durch entsprechende Anwendung der Vorschrift auf Netzanschlusskostenbeiträge zu schließen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die auf Vorschlag des Bundesrats eingefügte Vorschrift in § 11 Abs. 2 Satz 1 Nr. 13 ARegV dient dem Zweck, Verzerrungen im Effizienzvergleich auszuschließen (BR-Drucks. 417/07 (Beschluss), S. 5). Solche Verzerrungen würden entstehen, wenn die Erlöse, die ein Netzbetreiber aus Baukostenzuschüssen erhält, zu einer Reduzierung der in den Effizienzvergleich einbezogenen Netzkosten führen würden. Dann würden sich für einen Netzbetreiber, der Baukostenzuschüsse erhebt, geringere Kosten und damit ein höherer Effizienzwert ergeben als für einen Netzbetreiber, der unter ansonsten gleichen Rahmenbedingungen keine oder geringere Zuschüsse erhebt. Dies erschiene inkonsequent. In beiden Konstellationen entstehen die gleichen Kosten. Unterschiede bestehen nur hinsichtlich der Art und Weise, in der die Kosten auf die Nutzer umgelegt werden. Diese Unterschiede begründen keinen erkennbaren Effizienzvorteil.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Wie das Beschwerdegericht zutreffend ausgeführt hat, ist die vom Verordnungsgeber erlassene Regelung lückenhaft, weil dieselbe Erwägung auch für Netzkostenanschlussbeiträge greift. Solche Beiträge, die gemäß § 9 der Niederspannungsanschlussverordnung (NAV) für die Herstellung eines Netzanschlusses verlangt werden können, unterscheiden sich von den nach § 11 NAV zulässigen Zuschüssen zu den Baukosten für örtliche Verteileranlagen nur insoweit, als sie unmittelbar einem einzelnen Anschluss zugeordnet werden können. Schon im Anwendungsbereich der Niederspannungsanschlussverordnung wird dieser Unterschied dadurch teilweise eingeebnet, dass gemäß § 9 Abs. 1 Satz 2 NAV auch die Kosten des Netzanschlusses pauschal berechnet werden dürfen. Die danach verbleibenden Unterschiede sind für den Effizienzvergleich nach § 12 ff. ARegV unerheblich. In beiden Fällen werden Kosten für bestimmte Netzeinrichtungen nicht reduziert, sondern lediglich in besonderer Weise auf die Nutzer umgelegt. Angesichts dessen ist das vom Verordnungsgeber mit § 11 Abs. 2 Satz 1 Nr. 13 ARegV verfolgte Ziel, eine Verzerrung des Effizienzvergleichs zu vermeiden, durch die alleinige Einbeziehung der Baukostenzuschüsse nicht zu erreichen. Darin hat das Beschwerdegericht zu Recht eine planwidrige Regelungslücke gesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Diese Lücke ist durch entsprechende Anwendung des § 11 Abs. 2 Satz 1 Nr. 13 ARegV zu schließen. Werden beide Erlösarten als nicht dauerhaft beeinflussbar behandelt, so kann das vom Verordnungsgeber angestrebte Ziel erreicht werden. Dann ist es für den Effizienzvergleich nämlich unerheblich, ob und in welchem Umfang ein Netzbetreiber solche Zuschüsse erhoben hat. Dies entspricht dem Sinn und Zweck der Vorschrift.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dieses Ergebnis wird bestätigt durch den Umstand, dass in der seit dem 9. September 2010 geltenden Fassung von § 11 Abs. 2 Satz 1 Nr. 13 ARegV Netzkostenanschlussbeiträge ausdrücklich mit aufgeführt sind. In den Materialien zu der einschlägigen Änderungsverordnung wird ausgeführt, sowohl bei Netzanschlusskostenbeiträgen als auch bei Baukostenzuschüssen handle es sich um Kostenbeiträge von Netzkunden zum Netzbetrieb, so dass nur eine Gleichbehandlung dieser beiden Erlöspositionen sinnvoll sei (BR-Drucks. 312/10 (Beschluss), S. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">3. Effizienzwert</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Teilweise begründet ist die Rechtsbeschwerde, soweit die Betroffene sich gegen die Ermittlung des Effizienzwerts wendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung der Rechtsbeschwerde war die Bundesnetzagentur allerdings nicht gehalten, bei der Ermittlung des Effizienzwerts weitere Vergleichsparameter heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>aa) Das Beschwerdegericht hat ausgeführt, die Länge von Kabeln und Freileitungen, die mit Höchstspannung betrieben würden, könne keine Berücksichtigung finden. Die Betroffene sei Verteilernetzbetreiberin. Die Elektrizitätsverteilung umfasse nach der Definition in § 3 Nr. 37 EnWG nur die Spannungsebenen der Nieder-, Mittel- und Hochspannung. Die Höchstspannungsebene diene alleine der Übertragung im Sinne von § 3 Nr. 32 EnWG. Für die Betreiber von Übertragungsnetzen sei in § 22 Abs. 1 ARegV ein gesonderter Effizienzvergleich vorgesehen. Zudem sei der Betroffenen durch die Vorgehensweise der Bundesnetzagentur, die die auf die Kostenstellen "Höchstspannung" und "Umspannung Höchstspannung/Hochspannung" entfallenden Kostenanteile im Effizienzvergleich nicht berücksichtigt, gleichwohl aber den Erlösgrenzen hinzugerechnet habe, kein Nachteil, sondern sogar ein Vorteil durch einen verbesserten Effizienzwert entstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Das Verhältnis zwischen der Anzahl der Anschlusspunkte und der Anzahl der nachgelagerten Zählpunkte dürfe schon nach § 13 Abs. 3 Satz 2 und 3 ARegV nicht als Vergleichsparameter herangezogen werden. Die Anzahl der Zählpunkte werde durch den vom Verordnungsgeber zwingend vorgegebenen Vergleichsparameter "Anschlusspunkte" zumindest teilweise abgebildet. Die zusätzliche Berücksichtigung des Verhältnisses zwischen Zähl- und Anschlusspunkten würde diesen Parameter in seiner Wirkung zumindest teilweise wiederholen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Beurteilung hält der rechtlichen Überprüfung im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(1) Bei der Auswahl der relevanten Vergleichsparameter sind die Vorgaben der Anreizregulierungsverordnung zu berücksichtigen. Nach § 13 Abs. 4 ARegV hat die Regulierungsbehörde in der ersten und zweiten Regulierungsperiode die dort genannten vier Vergleichsparameter zwingend zu verwenden. Dazu gehören die von der Betroffenen verlangten Parameter nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(2) Darüber hinaus können weitere Parameter nach Maßgabe des § 13 Abs. 3 ARegV verwendet werden. Entsprechend § 13 Abs. 3 Satz 4 ARegV gehören dazu die Jahresarbeit und die dezentralen Erzeugungsanlagen in Stromversorgungsnetzen, insbesondere die Anzahl und Leistung von Anlagen zur Erzeugung von Strom aus Wind- und solarer Strahlungsenergie. Auch dazu zählen die von der Betroffenen geforderten Parameter nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(3) Die Bundesnetzagentur hat in Ausübung des ihr nach § 13 Abs. 4 Satz 2 ARegV zustehenden Ermessens für die erste Regulierungsperiode insgesamt elf Vergleichsparameter festgelegt. Dabei musste sie im Vorfeld aus einer großen Anzahl theoretisch möglicher Kombinationen diejenigen Vergleichsparameter ermitteln, die in Kombination zur Erreichung der in § 13 Abs. 3 ARegV bestimmten Ziele sinnvoll sind (vgl. hierzu Bericht der Bundesnetzagentur zur Einführung der Anreizregulierung, S. 64 f., 204 ff.). Danach müssen die Parameter geeignet sein, die Belastbarkeit des Effizienzvergleichs zu stützen. Dies ist insbesondere dann anzunehmen, wenn sie messbar oder mengenmäßig erfassbar, nicht durch Entscheidungen des Netzbetreibers bestimmbar und nicht in ihrer Wirkung ganz oder teilweise wiederholend sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Zur Ermittlung der Vergleichsparameter hat die Bundesnetzagentur bei den Stromverteilernetzbetreibern auf Grundlage der Festlegung vom 20. November 2007 (ABl. Bundesnetzagentur Nr. 23/2007, S. 4645 ff.) eine Strukturdatenabfrage durchgeführt. Am 16. Juni 2008 wurden die Wirtschafts- und Verbrauchervertreter gemäß § 12 Abs. 1 Satz 2 ARegV zur Ausgestaltung der in Anlage 3 zu § 12 ARegV aufgeführten Methoden zur Effizienzwertermittlung angehört. Des Weiteren wurden gemäß § 13 Abs. 3 Satz 10 ARegV die Parameter für die Effizienzvergleiche der Verteilernetzbetreiber Strom bzw. Gas nach § 12 Abs. 1 sowie § 13 Abs. 3 und 4 ARegV dargestellt und die Wirtschafts- und Verbrauchervertreter hierzu angehört. Darüber hinaus sind bei der Bundesnetzagentur insgesamt 21 Stellungnahmen eingegangen. Die Ergebnisse wurden in dem von der Bundesnetzagentur in Auftrag gegebenen Gutachten "Verteilernetzbetreiber (Strom) - Ergebnisdokumentation zur Bestimmung der Effizienzwerte" vom 14. November 2008 (abrufbar unter http://www.bundesnetzagentur.de) zusammengefasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Nach diesen Maßgaben hat die Bundesnetzagentur ermessensfehlerfrei davon abgesehen, die von der Betroffenen geforderten weiteren Parameter zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(a) Dies gilt zum einen für Leitungen und sonstige Einrichtungen im Bereich der Höchstspannung - dem die Beteiligten übereinstimmend Nennspannungen oberhalb des für die Hochspannung gebräuchlichen Werts von 110 Kilovolt zuordnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob aus dem Zusammenspiel der Definitionen in § 3 Nr. 37 EnWG, wonach als Verteilung nur der Transport von Elektrizität mit hoher, mittlerer oder niederer Spannung anzusehen ist, und in § 3 Nr. 32 EnWG, wonach der Transport von Elektrizität über ein Höchstspannungs- oder Hochspannungsverbundnetz als Übertragung anzusehen ist, zu folgern ist, dass Höchstspannungsnetze auch dann als Übertragungsnetze anzusehen sind, wenn sie nicht Teil eines Verbundnetzes sind, oder ob insoweit eine Regelungslücke vorliegt. Die Bundesnetzagentur durfte von der Berücksichtigung von Einrichtungen aus dem Bereich der Höchstspannung beim Effizienzvergleich für die Betreiber von Verteilernetzen jedenfalls ohne Ermessensfehler im Hinblick darauf absehen, dass dieser Parameter allenfalls in geringem Maß geeignet wäre, die strukturelle Vergleichbarkeit zu gewährleisten, wie dies § 13 Abs. 3 Satz 8 ARegV vorgibt, der auch im Rahmen der Ermessensausübung nach § 13 Abs. 4 Satz 2 ARegV zu berücksichtigen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Der Betrieb von Einrichtungen aus dem Bereich der Höchstspannung in einem Verteilernetz stellt nach den Feststellungen des Beschwerdegerichts, die auch die Betroffene nicht in Zweifel zieht, eine Ausnahme dar. Die Kosten für Höchstspannungsnetze, die bezogen auf die Leitungslänge nach dem Vorbringen der Betroffenen erheblich über denjenigen für Hochspannungsnetze liegen, stellen für die Betreiber von Verteilernetzen üblicherweise vorgelagerte Netzkosten dar. Diese gelten gemäß § 11 Abs. 2 Nr. 4 ARegV als dauerhaft nicht beeinflussbar und bleiben deshalb gemäß § 14 Abs. 1 Nr. 2 ARegV bei der Durchführung des Effizienzvergleichs unberücksichtigt. Mit der Einbeziehung von Einrichtungen aus dem Bereich der Höchstspannung in den Effizienzvergleich würde mithin ein Vergleichsparameter berücksichtigt, der nur in Ausnahmefällen Bedeutung erlangt. Damit würde das in § 13 Abs. 3 Satz 8 ARegV vorgegebene Ziel, die strukturelle Vergleichbarkeit möglichst weitgehend zu gewährleisten, allenfalls rudimentär erreicht. Vor diesem Hintergrund ist es nicht ermessensfehlerhaft, wenn die Bundesnetzagentur von der Berücksichtigung dieses Parameters abgesehen und die Kosten für Einrichtungen aus dem Bereich der Höchstspannung beim Effizienzvergleich unberücksichtigt gelassen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Der Umstand, dass die Leitungslänge nach § 13 Abs. 4 Nr. 2a ARegV in der ersten und der zweiten Regulierungsperiode zwingend als Vergleichsparameter heranzuziehen ist, führt nicht zu einer abweichenden Beurteilung. Dieser Regelung ist zwar zu entnehmen, dass die Leitungslänge zu berücksichtigen ist, nicht aber, in welcher Weise dies zu geschehen hat und wie die für den Vergleich relevante Länge zu ermitteln und zu bewerten ist. Sie lässt Raum dafür, zwischen unterschiedlichen Arten von Leitungen zu differenzieren, wenn sich die dafür erforderlichen Kosten typischerweise erheblich unterscheiden. Deshalb ist nicht zu beanstanden, dass die Bundesnetzagentur mehrere Unterkategorien bildet und, wie das Beschwerdegericht näher dargelegt hat, zwischen mehreren Spannungsbereichen (Nieder-, Mittel- und Hochspannung) sowie zwischen Freileitungen und (zur Erdverlegung geeigneten) Kabeln differenziert. Im Hinblick auf die Vorgabe, die strukturelle Vergleichbarkeit möglichst weitgehend zu gewährleisten, ist es auch unter diesem Gesichtspunkt nicht ermessensfehlerhaft, Leitungen, die mit Höchstspannung betrieben werden, beim Effizienzvergleich unberücksichtigt zu lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(b) Die Bundesnetzagentur hat auch ohne Ermessensfehler davon abgesehen, das Verhältnis zwischen der Anzahl von Zählpunkten und der Anzahl von Anschlusspunkten als Vergleichsparameter heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Im Rahmen der Strukturdatenabfrage gemäß der Festlegung vom 20. November 2007 wurde - neben der Anzahl der Anschlusspunkte - auch die Anzahl der Zählpunkte abgefragt. In dem oben genannten Gutachten ist hierzu ausgeführt, durch das Hinzufügen von Zählpunkten trete keine systematische Verbesserung derjenigen Unternehmen ein, die einen besonders hohen Wert bei der Kennzahl "Zählpunkte pro Anschlusspunkt" aufwiesen. Zur Begründung wird unter anderem auf den sinkenden Durchschnitt der Effizienz hingewiesen (S. 88 ff. des Gutachtens).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Auf der Grundlage des Gutachtens und unter Berücksichtigung der Vorgaben des § 13 Abs. 3 Sätze 2 und 3 ARegV hat die Bundesnetzagentur den von der Betroffenen präferierten Parameter "Verhältnis zwischen Anzahl der Zählpunkte und Anzahl der Anschlusspunkte" als Vergleichsparameter nicht herangezogen. Dies ist frei von Ermessensfehlern. Die Bundesnetzagentur durfte von einer Einbeziehung dieses Parameters bereits deshalb absehen, weil er zumindest teilweise wiederholend ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Der in § 13 Abs. 4 Satz 1 AregV zwingend vorgegebene Parameter "Anzahl der Anschlusspunkte" und der von der Betroffenen geforderte weitere Parameter "Verhältnis zwischen Anzahl der Zählpunkte und Anzahl der Anschlusspunkte" haben eine teilweise wiederholende Wirkung. Die beiden Parameter bilden Leistungen ab, die eng miteinander zusammenhängen. Mit zunehmender Anzahl der Anschlusspunkte steigt in der Regel auch die Anzahl der Zählpunkte. Die zusätzliche Berücksichtigung des Verhältnisses zwischen der Anzahl der Zählpunkte und der Anzahl der Anschlusspunkte wäre zwar geeignet, besonderen Anforderungen, wie sie häufig in städtisch geprägten Gebieten auftreten, ergänzend Rechnung zu tragen. Dennoch wäre mit ihr wegen des engen sachlichen Zusammenhangs beider Parameter jedenfalls eine teilweise wiederholende Wirkung verbunden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Dies hat allerdings nicht zwingend zur Folge, dass die Berücksichtigung solcher Parameter unzulässig ist. So wird mit der Fläche des versorgten Gebiets häufig auch die Leitungslänge ansteigen. Dennoch hat sich der Verordnungsgeber - auf Anregung des Bundesrats - dafür entschieden, beide Parameter zu berücksichtigen, weil auch die Leitungslänge häufig durch exogene Faktoren bestimmt wird (vgl. BR-Drucks. 417/07 (Beschluss), S. 10) und eine größere Leitungslänge bei gleicher Fläche in der Regel mit höheren Kosten verbunden ist. Angesichts dessen erscheint es nicht schlechthin ausgeschlossen, neben der Anzahl der Anschlusspunkte auch die Anzahl der Zählpunkte oder das Verhältnis zwischen Zähl- und Anschlusspunkten zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Der Verordnungsgeber hat sich in § 13 Abs. 4 Satz 1 Nr. 1 AregV jedoch dazu entschlossen, lediglich die Anzahl der Anschlusspunkte als zwingend zu verwendenden Vergleichsparameter vorzugeben. Angesichts dieser Grundentscheidung ist es nicht ermessenfehlerhaft, das Verhältnis zwischen Zähl- und Anschlusspunkten im Hinblick auf die teilweise wiederholende Wirkung dieses Parameters nicht in den Effizienzvergleich einzubeziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Die Betroffene hat nicht dargelegt, dass - entgegen den Ergebnissen des von der Bundesnetzagentur eingeholten Gutachtens und insbesondere unter Berücksichtigung der zumindest teilweise wiederholenden Wirkung des von ihr geforderten Parameters - durch das Hinzufügen der Zählpunkte eine systematische Verbesserung derjenigen Unternehmen eintritt, die einen besonders hohen Wert bei der Kennzahl Zählpunkte pro Anschlusspunkte aufweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>b) Nur teilweise zutreffend sind die Ausführungen des Beschwerdegerichts hinsichtlich der Verpflichtung der Bundesnetzagentur zur Bereinigung des Effizienzwerts gemäß § 15 Abs. 1 Satz 1 AregV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>aa) Das Beschwerdegericht hat offengelassen, ob die von der Betroffenen angeführten Gesichtspunkte eine Besonderheit im Sinne der genannten Vorschrift darstellen. Eine Bereinigung des Effizienzwerts sei jedenfalls deshalb ausgeschlossen, weil die Betroffene nicht nachgewiesen habe, dass diese Umstände zu einer Erhöhung der relevanten Kosten um mindestens drei Prozent geführt hätten. Zur Führung des in § 15 Abs. 1 Satz 1 AregV vorgeschriebenen Nachweises sei erforderlich, dass die Mehrkosten nach den gleichen Maßstäben berechnet würden wie die Ausgangskostenbasis. Dem sei die Betroffene nicht nachgekommen. Insbesondere habe sie keine Berechnung der kalkulatorischen Abschreibungen gemäß § 6 StromNEV und der kalkulatorischen Eigenkapitalverzinsung gemäß § 7 StromNEV vorgenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Ausführungen halten der rechtlichen Nachprüfung in einem entscheidungserheblichen Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>(1) Entgegen der Auffassung des Beschwerdegerichts sind die im Netz der Betroffenen vorhandenen Leitungen und sonstigen Einrichtungen im Bereich der Höchstspannung im Zusammenhang mit § 15 Abs. 1 Satz 1 ARegV zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>(a) Der Betrieb dieser Einrichtungen gehört nach dem der rechtlichen Beurteilung im Rechtsbeschwerdeverfahren zugrunde zu legenden Sachverhalt zur Versorgungsaufgabe im Sinne von § 15 Abs. 1 Satz 1 ARegV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Zur Versorgungsaufgabe im Sinne der genannten Vorschrift gehören alle Anforderungen, die an den Netzbetreiber von außen herangetragen werden und denen er sich nicht oder nur mit unzumutbarem Aufwand entziehen kann. Dies sind nicht nur die in § 10 Abs. 2 Satz 2 Nr. 1 bis 3 ARegV ausdrücklich aufgeführten Parameter, also die Fläche des versorgten Gebiets, die Anzahl der Anschlusspunkte und die Jahreshöchstlast, sondern auch alle anderen Rahmenbedingungen, mit denen sich der Netzbetreiber beim Betrieb des Netzes konfrontiert sieht und auf die er keinen unmittelbaren Einfluss hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Bundesnetzagentur kann aus Wortlaut und Systematik der Anreizregulierungsverordnung kein engeres Verständnis hergeleitet werden. Zwar können nach § 15 Abs. 1 Satz 1 ARegV nur Besonderheiten der Versorgungsaufgabe zu einer Bereinigung des Effizienzwerts führen, während die für den Effizienzvergleich relevanten Vergleichsparameter sich nach § 13 Abs. 3 Satz 1 ARegV neben der Versorgungsaufgabe auch auf Gebietseigenschaften beziehen können. Daraus ergibt sich jedoch keine strenge begriffliche Trennung zwischen gebietsbezogenen und sonstigen Anforderungen. Auch nach der Definition in § 10 Abs. 2 ARegV stellt die Fläche des versorgten Gebiets einen Teil der Versorgungsaufgabe dar. Die Aufzählung in § 10 Abs. 2 Satz 2 ARegV betrifft nicht die Frage, was zur Versorgungsaufgabe gehört, sondern nur die Frage, wann eine nachhaltige Änderung der Versorgungsaufgabe anzunehmen ist, die nach § 10 Abs. 1 ARegV zur Anwendung eines Erweiterungsfaktors führt. Diese Aufzählung ist ohnehin nicht abschließend, sondern kann gemäß § 10 Abs. 2 Satz 2 Nr. 4 ARegV von der Regulierungsbehörde ergänzt werden. Schließlich ist auch der Verordnungsgeber davon ausgegangen, dass eine Bereinigung des Effizienzwerts auch bei Besonderheiten des Versorgungsgebiets möglich ist (BR-Drucks. 417/07, S. 59).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Danach kann auch der Betrieb von Einrichtungen aus dem Bereich der Höchstspannung einen Teil der Versorgungsaufgabe im Sinne von § 15 Abs. 1 Satz 1 ARegV darstellen. Voraussetzung dafür ist, dass der Netzbetreiber aufgrund von Vorgaben des Betreibers des vorgelagerten Netzes gezwungen ist, solche Einrichtungen zu betreiben. Einen solchen Sachverhalt hat die Betroffene in der Beschwerdeinstanz hinsichtlich der von ihr betriebenen Einrichtungen - einer 69,61 km langen Freileitung sowie einer installierten dezentralen Erzeugungsleistung aus der Umspannung von Höchst- in Hochspannung in Höhe von 400.000 kVA - vorgetragen. Dieses Vorbringen ist mangels abweichender Feststellungen des Beschwerdegerichts im vorliegenden Verfahrensstadium als zutreffend zu unterstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>(b) Aus dem Vorbringen der Betroffenen ergibt sich ferner, wie oben bereits näher aufgezeigt wurde, dass es sich insoweit um eine für Verteilernetze untypische Besonderheit handelt, die in den für den Effizienzvergleich herangezogenen Vergleichsparametern nicht berücksichtigt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>(c) Entgegen der Auffassung des Beschwerdegerichts hat die Betroffene hinreichend dargelegt, dass der Betrieb dieser Einrichtungen zu Mehrkosten führt, die die nach § 14 Abs. 1 Nr. 1 und 2 ARegV ermittelten Kosten um mindestens drei Prozent erhöhen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob die Ausführungen in dem Schreiben der Betroffenen vom 14. November 2008 (Anlage Bf 11), auf das die Betroffene in ihrer Beschwerdebegründung Bezug genommen hat und in dem die Mehrkosten ohne nähere Erläuterung mit 6,364 Millionen Euro angegeben werden, ausreichend sind. Die Betroffene hat in der Beschwerdebegründung ergänzend geltend gemacht, die relevanten Kosten seien der Bundesnetzagentur aus dem letzten Netzentgeltgenehmigungsverfahren ohnehin bekannt. Dieses Vorbringen wird bestätigt durch die auf den Ausführungen der Bundesnetzagentur beruhenden Feststellungen des Beschwerdegerichts, wonach die Bundesnetzagentur die Kostenbasis für den Effizienzvergleich um die auf die Kostenstellen "Höchstspannung" und "Umspannung Höchstspannung/Hochspannung" entfallenden Kostenanteile bereinigt und diese Kostenanteile mit 29.705.963 Euro beziffert hat. Beide Werte liegen oberhalb der Schwelle von drei Prozent der relevanten Gesamtkosten, die nach den nicht angegriffenen Feststellungen des Beschwerdegerichts bei 5.015.599 Euro liegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist die Betroffene nicht gehalten, weitere Einzelheiten zu den Mehrkosten für Einrichtungen im Bereich der Höchstspannung vorzutragen. Die Bundesnetzagentur ist vielmehr gehalten, die von ihr ohnehin ermittelten Kosten für diese Einrichtungen den fiktiven Kosten gegenüberzustellen, die ohne die in Rede stehende Besonderheit der Versorgungsaufgabe entstehen würden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>(d) Entgegen der Auffassung der Bundesnetzagentur reicht es zur Bereinigung des Effizienzwerts gemäß § 15 Abs. 1 Satz 1 ARegV nicht aus, die Kosten für Einrichtungen im Bereich der Höchstspannung beim Effizienzvergleich unberücksichtigt zu lassen. Diese Korrektur führt zwar dazu, dass der Effizienzwert höher ist, als er bei Berücksichtigung dieser Kosten wäre. Diese Berechnungsmethode trägt den nach § 15 Abs. 1 Satz 1 ARegV zu berücksichtigenden Besonderheiten jedoch nicht in dem gebotenen Umfang Rechnung. Sie hat zur Folge, dass die aufgrund der übrigen Kosten ermittelte Effizienzvorgabe auch für Einrichtungen im Bereich der Höchstspannung maßgeblich ist. Dies wird den Anforderungen aus § 15 Abs. 1 Satz 1 ARegV nicht gerecht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Nach § 15 Abs. 1 Satz 1 ARegV ist den dort genannten Besonderheiten der Versorgungsaufgabe durch einen Aufschlag auf den nach allgemeinen Vorschriften ermittelten Effizienzwert Rechnung zu tragen. Daraus ergibt sich zwar keine bestimmte Berechnungsmethode. Nach dem Sinn und Zweck der Vorschrift muss der Aufschlag jedoch angemessen sein (BR-Drucks. 417/07, S. 59), also den Besonderheiten der Versorgungsaufgabe hinsichtlich aller wesentlichen Gesichtspunkte angemessen Rechnung tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Zu den danach zu berücksichtigenden Gesichtspunkten gehören nicht nur die aufgrund der Besonderheiten entstehenden Mehrkosten, sondern auch die Effizienz, mit der die zusätzlichen Aufgaben erledigt werden. Hierbei kann schon im Hinblick darauf, dass es sich um Aufgaben handelt, die nur ausnahmsweise zu bewältigen sind, nicht ohne weiteres davon ausgegangen werden, dass auch hinsichtlich dieser Aufgaben dasselbe Potential zur Effizienzsteigerung besteht, das bei der Betrachtung der übrigen Aufgaben zutage getreten ist. Effizienzvorgaben für diesen Bereich sind vielmehr nur dann angemessen, wenn sich im Einzelfall aus konkreten, von der Bundesnetzagentur festzustellenden Tatsachen ergibt, dass der Netzbetreiber auch insoweit ineffizient arbeitet. Sofern dies nicht festgestellt werden kann, ist hinsichtlich der Mehrkosten für nach § 15 Abs. 1 Satz 1 ARegV zu berücksichtigende Besonderheiten der Versorgungsaufgabe ein Effizienzwert von 100 Prozent anzusetzen. Letzteres würde im Ergebnis dazu führen, dass die Kosten für Einrichtungen im Bereich der Höchstspannung wie dauerhaft nicht beeinflussbare Kosten behandelt würden und damit den Kosten für vorgelagerte Netze gleichgestellt wären - was schon im Hinblick darauf folgerichtig erscheint, dass Einrichtungen im Bereich der Höchstspannung typischerweise nur in Übertragungsnetzen zum Einsatz kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>(2) Das von der Betroffenen geltend gemachte Verhältnis zwischen der Anzahl der Zählpunkte und der Anzahl der Anschlusspunkte führt hingegen nicht zu einer Bereinigung des Effizienzwerts.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>(a) Die Anzahl der Zählpunkte beeinflusst allerdings, wie auch die Bundesnetzagentur nicht verkennt, den Umfang der Versorgungsaufgabe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Sie ist ähnlich wie die in § 10 Abs. 2 Satz 2 Nr. 2 ARegV ausdrücklich genannte Anzahl der Anschlusspunkte in der Regel durch Kundenanforderungen vorgegeben und vom Netzbetreiber allenfalls in begrenztem Umfang beeinflussbar. Dass nach § 10 Abs. 2 Satz 2 ARegV nur eine Änderung der Anzahl der Anschlusspunkte, nicht aber eine Änderung der Anzahl der Zählpunkte zur Anwendung eines Erweiterungsfaktors führen kann, führt im vorliegenden Zusammenhang zu keiner abweichenden Beurteilung. Nach § 15 Abs. 1 Satz 1 ARegV kann jede Besonderheit der Versorgungsaufgabe zu einer Bereinigung des Effizienzwerts führen, sofern auch die anderen in dieser Vorschrift aufgestellten Voraussetzungen gegeben sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>(b) Eine über dem Durchschnitt liegende Anzahl von Zählpunkten kann auch eine nach § 15 Abs. 1 Satz 1 ARegV relevante Besonderheit darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Bundesnetzagentur können weder aus dem Wortlaut der Vorschrift noch aus deren Charakter als Ausnahmevorschrift qualitative Anforderungen an die Art der Abweichung hergeleitet werden. Zwar entspricht es dem Willen des Verordnungsgebers, dass § 15 Abs. 1 Satz 1 ARegV nur in Ausnahmefällen zur Anwendung kommt (vgl. BR-Drucks. 417/07, S. 60; BR-Drucks. 417/07 (Beschluss), S. 11 f.). Dies wird aber schon durch die Anforderung sichergestellt, dass die Besonderheit zu einer Erhöhung der relevanten Kosten um mindestens drei Prozent führt. Liegt ein solcher Umstand vor, entspricht es der Zielsetzung der §§ 13 bis 15 ARegV, den Effizienzwert zu bereinigen und dem Netzbetreiber damit die Möglichkeit zu geben, die ihm auferlegten Effizienzvorgaben einzuhalten und zu übertreffen - unabhängig davon, ob die Ursachen der Kostenerhöhung schon ihrer Art nach nur bei einzelnen Netzbetreibern auftreten - wie zum Beispiel die in den Materialien zu § 15 ARegV erwähnten Fälle des Wegfalls von Großabnehmern oder der Notwendigkeit von Stadtumbaumaßnahmen wegen Bevölkerungsrückgangs (BR-Drucks. 417/07, S. 59) - oder ob es - wie bei der Einrichtung und dem Betrieb von Zählpunkten - um eine Aufgabe geht, die sich grundsätzlich jedem Netzbetreiber stellt, mit der einzelne Netzbetreiber aber in außergewöhnlich großem Umfang konfrontiert sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>(c) Rechtsfehlerfrei ist das Beschwerdegericht jedoch zu dem Ergebnis gelangt, dass die Betroffene eine Erhöhung der relevanten Kosten um mindestens drei Prozent nicht dargelegt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Durch das Erfordernis einer Erhöhung der nach § 14 Abs. 1 Nr. 1 und 2 ARegV ermittelten Kosten um mindestens drei Prozent soll gewährleistet werden, dass die Prüfung struktureller Besonderheiten grundsätzlich nur in wirtschaftlich bedeutsamen Einzelfällen den allgemeinen Effizienzvergleich nach den §§ 12 bis 14 ARegV ergänzt (BR-Drucks. 417/07, S. 60). Um dem Ausnahmecharakter der Vorschrift Rechnung zu tragen, wurde der dafür maßgebliche Schwellenwert im Laufe des Normsetzungsverfahrens von einem auf drei Prozent erhöht. Ausschlaggebend dafür war die Erwägung, dass grundsätzlich bei jedem Netzbetreiber mit Besonderheiten der Versorgungsaufgabe zu rechnen ist, die teils kostenerhöhend, teils kostenreduzierend wirken und sich deshalb häufig ausgleichen werden. Eine Bereinigung soll nur in Ausnahmefällen erfolgen, d.h. wenn Besonderheiten bestehen, die deutlich höhere Kosten zur Folge haben (BR-Drucks. 417/07 (Beschluss), S. 11 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich, dass Mehrkosten nur insoweit berücksichtigt werden können, als sie durch die in Rede stehende Besonderheit der Versorgungsaufgabe verursacht werden. Besteht die Besonderheit darin, dass eine mit Kosten verbundene Leistung - hier die Einrichtung und der Betrieb von Zählpunkten - überdurchschnittlich häufig erbracht werden muss, genügt es deshalb nicht, die Mehrkosten allein anhand der Zahl der Leistungseinheiten und der für eine Leistungseinheit durchschnittlich anfallenden Kosten zu berechnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Das Vorbringen der Betroffenen, die lediglich die Differenz zwischen der Anzahl der in ihrem Netz vorhandenen Zählpunkte und der theoretischen Anzahl, die sich bei einem durchschnittlichen Verhältnis zwischen Anschluss- und Zählpunkten ergäbe, ermittelt und mit dem im letzten Entgeltgenehmigungsverfahren genehmigten Preis für Messung, Messstellenbetrieb und Abrechnung multipliziert hat, genügt deshalb zum Nachweis der in § 15 Abs. 1 Satz 1 ARegV normierten Voraussetzungen nicht. Die Betroffene hätte vielmehr darlegen und unter Beweis stellen müssen, in welchem Umfang die Kosten für die Zählpunkte gerade dadurch angestiegen sind, dass pro Anschlusspunkt mehr Zählpunkte vorhanden sind, als dies dem Durchschnitt entspricht. Der Ansatz der genehmigten Preise ist dafür selbst dann ungeeignet, wenn diese die durchschnittlichen Kosten eines Zählpunktes widerspiegeln. Aus dieser Berechnungsweise ergibt sich nämlich nicht, ob die Kosten eines Zählpunktes an einem Anschlusspunkt, dem weitere Zählpunkte zugeordnet sind, diesen durchschnittlichen Kosten entsprechen oder ob sie - zum Beispiel im Hinblick auf die mit der Zuordnung zu einem gemeinsamen Anschlusspunkt zu erwartende räumliche Nähe der Zählpunkte oder wegen anderer Besonderheiten - deutlich geringer sind. Erforderlich wäre daher ein Nachweis der Mehrkosten, die gerade dadurch entstehen, dass die Anzahl von Zählpunkten pro Anschlusspunkt über dem Durchschnitt liegt. Dies hat das Beschwerdegericht zutreffend erkannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>(d) Die Bundesnetzagentur war nicht gehalten, die entstandenen Mehrkosten von Amts wegen zu ermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Nach § 15 Abs. 1 Satz 1 ARegV kommt eine Bereinigung des Effizienzwerts nur dann in Betracht, wenn der Netzbetreiber nachweist, dass die dort genannten Voraussetzungen vorliegen. Die der Regulierungsbehörde grundsätzlich obliegende Pflicht zur Ermittlung von Amts wegen, die sich gemäß § 27 Abs. 1 Satz 3 Nr. 3 ARegV auch auf die erforderlichen Tatsachen zur Ermittlung der bereinigten Effizienzwerte bezieht, ist insoweit eingeschränkt. Die Regulierungsbehörde ist deshalb grundsätzlich nicht gehalten, den Sachverhalt nach Besonderheiten zu erforschen, die zur Bereinigung des Effizienzwerts führen können. Vielmehr obliegt es dem Netzbetreiber, solche Besonderheiten aufzuzeigen und erforderlichenfalls nachzuweisen. Die Regulierungsbehörde hat aber relevantes Vorbingen des Netzbetreibers zu berücksichtigen, diesen bei Bedarf zu Ergänzungen desselben zu veranlassen und für die Beurteilung zusätzlich erforderliche Tatsachen - zum Beispiel Daten anderer Netzbetreiber, soweit diese für die Beurteilung relevant sind - gegebenenfalls von Amts wegen zu ermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Im Streitfall lag es damit an der Betroffenen, die relevanten Kosten darzulegen und unter Beweis zu stellen. Dies ist auch nach dem vom Beschwerdegericht erteilten Hinweis nicht geschehen. Das Beschwerdegericht hat das Rechtsmittel insoweit deshalb zu Recht als unbegründet angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>(e) Entgegen der Auffassung der Rechtsbeschwerde liegt insoweit auch keine Verletzung von Art. 103 Abs. 1 GG vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob sich aus dem Hinweis des Beschwerdegerichts vom 9. März 2010, wonach die Betroffene eine Kostenerhöhung um mindestens drei Prozent nicht nachgewiesen habe, hinreichend deutlich ergab, dass anstelle von durchschnittlichen Kosten die aufgrund der Besonderheit der Versorgungsaufgabe entstandenen Mehrkosten darzulegen sind. Die Rechtsbeschwerde zeigt jedenfalls nicht auf, dass die Betroffene diese Mehrkosten dargelegt hätte, wenn das Berufungsgericht einen Hinweis dieses Inhalts erteilt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>(3) Die erhöhten Tiefbaukosten, die nach dem Vorbringen der Betroffenen daraus resultieren, dass ein Teil der Trassen mehr als 20 Kabel enthält und dass der Aushub aufgrund einer entsprechenden Vorgabe der Stadt während der Bauarbeiten vorübergehend auszulagern ist, können nicht zu einer Bereinigung des Effizienzwerts führen, weil die Erhöhung weniger als drei Prozent der nach § 15 Abs. 1 Satz 1 ARegV relevanten Kosten ausmacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Dass der Erhöhungsbetrag zusammen mit den Mehrkosten, die sich aus anderen Besonderheiten der Versorgungsaufgabe ergeben, oberhalb der maßgeblichen Schwelle liegt, führt nicht zu einer abweichenden Beurteilung. Wie bereits dargelegt beruht § 15 Abs. 1 Satz 1 ARegV auf der Erwägung, dass nicht jede Besonderheit zu einer Bereinigung des Effizienzwerts führen soll, zumal es neben Besonderheiten, die zu einer Kostenerhöhung führen, regelmäßig auch besondere Umstände geben wird, die eine Kostenverringerung zur Folge haben. Deshalb sollen nur solche Besonderheiten Berücksichtigung finden, die deutlich höhere Kosten zur Folge haben (BR-Drucks. 417/07 (Beschluss), S. 12). Mit dieser Zielsetzung ist es nicht vereinbar, die Auswirkungen einzelner Abweichungen, die zu einer unterhalb des Schwellenwerts liegenden Kostenerhöhung führen, aufzusummieren und eine Bereinigung bereits dann vorzunehmen, wenn die Summe dieser Erhöhungsbeträge oberhalb des Schwellenwertes liegt. Bei dieser Vorgehensweise blieben die - nach der nicht zu beanstandenden Einschätzung des Verordnungsgebers regelmäßig zu erwartenden - Besonderheiten, die zu einer Verringerung der relevanten Kosten führen, außer Betracht. Dies stünde in Widerspruch zu Sinn und Zweck des § 15 Abs. 1 Satz 1 ARegV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">4. Pauschalierter Investitionszuschlag</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Soweit die Betroffene die Berechnung des pauschalierten Investitionszuschlags gemäß § 25 ARegV beanstandet, hat die Rechtsbeschwerde nur hinsichtlich des angesetzten Zinssatzes für die Verzinsung des Eigenkapitals Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>a) Das Beschwerdegericht hat ausgeführt, bei der Ermittlung der Kapitalkosten gemäß § 25 Abs. 2 ARegV sei der Eigenkapitalzinssatz für Neuanlagen nach den bis zum 6. Juli 2008 geltenden Vorschriften zu bemessen. Dies ergebe sich aus der Verweisung auf § 14 Abs. 2 Satz 5 ARegV. Entgegen der Auffassung der Betroffenen sei der pauschalierte Investitionszuschlag nicht jährlich zu kumulieren. Schon aus dem Wortlaut der Verordnung ergebe sich, dass der Zuschlag in jedem Kalenderjahr nur ein Prozent der maßgeblichen Kapitalkosten betrage. Aus Sinn und Zweck der Vorschrift sei nichts Gegenteiliges herzuleiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>b) Dies hält der rechtlichen Nachprüfung nur teilweise stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>aa) Als Eigenkapitalzinssatz für Neuanlagen ist entgegen der Auffassung des Beschwerdegerichts der in der Festlegung der Bundesnetzagentur vom 7. Juli 2008 bestimmte (höhere) Wert von 9,29 % heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat bereits entschieden und näher begründet hat, ist der maßgebliche Zinssatz nach der zum Zeitpunkt des Erlasses des angefochtenen Beschlusses der Regulierungsbehörde geltenden Rechtslage zu bemessen (BGH, RdE 2011, 308 Rn. 27 ff. - EnBW Regional AG). Dies ist hier die Festlegung vom 7. Juli 2008.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>bb) Zu Recht hat das Beschwerdegericht hingegen eine jährliche Kumulierung des Zuschlags (mit der Folge, dass er im zweiten Jahr der Regulierungsperiode auf 2 % der maßgeblichen Kapitalkosten, im dritten Jahr auf 3 % usw. festzulegen wäre) abgelehnt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist eine Kumulierung dieser Art weder mit dem Wortlaut noch mit dem Sinn und Zweck von § 25 ARegV vereinbar (BGH, RdE 2011, 308 Rn. 30 ff. - EnBW Regional AG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">5. Genereller sektoraler Produktivitätsfaktor</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Im Ergebnis zu Recht hat das Beschwerdegericht den Ansatz des generellen sektoralen Produktivitätsfaktors nach § 9 ARegV als rechtmäßig angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>a) Entgegen der Auffassung des Beschwerdegerichts ist allerdings die Regelung in § 9 Abs. 1 ARegV von der Ermächtigungsgrundlage in § 21a EnWG in der ursprünglichen, bis zum 29. Dezember 2011 geltenden Gesetzesfassung nicht vollständig gedeckt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat in seiner Entscheidung vom 28. Juni 2011 (RdE 2011, 308 Rn. 36 ff. - EnBW Regional AG) näher ausgeführt hat, ermächtigt § 21a Abs. 6 Satz 1 Nr. 2 EnWG in Verbindung mit § 21a Abs. 6 Satz 2 Nr. 5 EnWG in dieser Fassung nur dazu, eine von der Entwicklung der Verbraucherpreise abweichende Entwicklung der netzwirtschaftlichen Einstandspreise, nicht aber einen generellen gesamtwirtschaftlichen oder netzwirtschaftlichen Produktivitätsfortschritt zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>b) Diesen Mangel hat der Gesetzgeber jedoch, wie der Senat ebenfalls bereits entschieden und näher begründet hat, durch die am 30. Dezember 2011 in Kraft getretene Änderung von § 21a Abs. 4 Satz 7 und Abs. 6 Satz 2 Nr. 5 EnWG sowie den Neuerlass von § 9 ARegV behoben. Diese Neuregelung gilt rückwirkend zum 1. Januar 2009 und damit für die gesamte erste Regulierungsperiode (BGH, RdE 2012, 203 Rn. 17 ff. - Gemeindewerke Schutterwald).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Die von der Betroffenen gegen eine rückwirkende Anwendung vorgebrachten Argumente führen nicht zu einer abweichenden Beurteilung. Der Senat verkennt nicht, dass einzelne Gesichtspunkte dafür sprechen könnten, die geänderten Regelungen erst für den Zeitraum nach Verkündung der Änderungsregelung anzuwenden. Auch vor diesem Hintergrund ist die Neuregelung jedoch aus den vom Senat in seiner Entscheidung vom 31. Januar 2012 angeführten Gründen im Ergebnis dahin auszulegen, dass sie rückwirkend gilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">6. Erweiterungsfaktor</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>Erfolg hat die Rechtsbeschwerde, soweit die Betroffene die Berücksichtigung eines Erweiterungsfaktors für das erste Jahr der Regulierungsperiode begehrt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>a) Das Beschwerdegericht hat ausgeführt, für das erste Jahr der Regulierungsperiode komme die Berücksichtigung eines Erweiterungsfaktors nach Wortlaut, Systematik sowie Sinn und Zweck der Regelung in § 10 ARegV nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>b) Dies hält der rechtlichen Überprüfung im Ergebnis nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist § 10 Abs. 1 ARegV in der zu beurteilenden Konstellation zwar nicht unmittelbar, wohl aber entsprechend anzuwenden (BGH, RdE 2011, 308 Rn. 52 ff. - EnBW Regional AG). Die Bundesnetzagentur hätte deshalb dem Vorbringen der Betroffenen, wonach die Tatbestandsvoraussetzungen dieser Vorschrift für das Jahr 2009 erfüllt sind, nachgehen müssen. Dies wird sie nachzuholen haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>
+                  <span style="text-decoration:underline">7. Kosten für Verlustenergie</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Ohne Erfolg bleibt die Rechtsbeschwerde, soweit sie sich gegen die Behandlung der Kosten für Verlustenergie wendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>a) Das Beschwerdegericht hat ausgeführt, bei den Kosten für Verlustenergie handle es sich nicht um dauerhaft nicht beeinflussbare Kosten im Sinne von § 11 Abs. 2 Satz 1 ARegV. Sie unterlägen deshalb den Effizienzvorgaben und seien nicht nach § 4 Abs. 3 Satz 1 Nr. 2 und Satz 3 ARegV anzupassen. Die Kosten für Verlustenergie gälten auch nicht aufgrund einer Verfahrensregulierung gemäß § 11 Abs. 2 Satz 2 ARegV als dauerhaft nicht beeinflussbar. Hierzu fehle es bereits an einer entsprechenden förmlichen Festlegung. Unabhängig davon genüge die freiwillige Selbstverpflichtung der Betroffenen nicht den inhaltlichen Anforderungen an eine wirksame Verfahrensregulierung. Bei dem vorgeschlagenen Verfahrensmodell könnten die Kosten in verschiedener Hinsicht noch beeinflusst werden. Die Betroffene wende sich schließlich ohne Erfolg dagegen, dass die Beschlusskammer die gestiegenen Kosten für die Beschaffung von Verlustenergie nicht als Härtefall anerkannt habe. Die Betroffene müsse zunächst die Anpassung der individuellen Effizienzvorgabe gemäß § 16 Abs. 2 ARegV anstreben. Nur wenn und soweit dies nicht ausreiche, komme nachrangig eine Anpassung nach § 4 Abs. 4 Satz 1 Nr. 2 ARegV in Betracht. Für ein Begehren nach § 16 Abs. 2 ARegV habe die Betroffene noch nichts vorgetragen. Die Bundesnetzagentur sei deshalb nicht gehalten gewesen, die Voraussetzungen dieser Vorschrift im Einzelnen zu prüfen. Dass aus dem gestellten Härtefallantrag ersichtlich gewesen sei, dass eine Kostendeckung mit den festgelegten Erlösobergrenzen unmöglich sei, lasse sich dem Vorbringen der Betroffenen nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>b) Dies hält der rechtlichen Nachprüfung im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht hat das Beschwerdegericht die Kosten für Verlustenergie nicht den dauerhaft nicht beeinflussbaren Kostenanteilen zugeordnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats handelt es sich bei den Kosten für die Beschaffung von Verlustenergie nicht schon ihrer Natur nach um dauerhaft nicht beeinflussbare Kostenanteile (BGH, RdE 2011, 308 Rn. 77 - EnBW Regional AG). Entgegen der Auffassung der Rechtsbeschwerde gelten diese Kosten im vorliegenden Fall auch nicht gemäß § 11 Abs. 2 Satz 2 ARegV aufgrund einer Verfahrensregulierung als dauerhaft nicht beeinflussbar. Wie der Senat bereits entschieden hat, stellt die von der Betroffenen übernommene freiwillige Selbstverpflichtung keine wirksame Verfahrensregulierung dar, weil sie von zwingenden Vorgaben der Festlegung der Bundesnetzagentur vom 21. Oktober 2008 (BK6-08-006) abweicht (BGH, Beschluss vom 24. Mai 2011 - EnVR 27/10, RdE 2011, 420 Rn. 24 ff. - Freiwillige Selbstverpflichtung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>bb) Im Ergebnis zu Recht hat das Beschwerdegericht den Antrag der Betroffenen auf Anpassung der Erlösobergrenze gemäß § 4 Abs. 4 Satz 1 Nr. 2 ARegV wegen einer nicht zumutbaren Härte als unbegründet angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>(1) Entgegen der Auffassung des Beschwerdegerichts ist die Anwendung von § 4 Abs. 4 Satz 1 Nr. 2 ARegV allerdings nicht schon deshalb ausgeschlossen, weil die Betroffene nicht auf eine individuelle Anpassung der Effizienzvorgabe gemäß § 16 Abs. 2 ARegV hingewirkt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Wie der Senat bereits entschieden hat, kommt die Anwendung der allgemeinen Regelung in § 4 Abs. 4 Satz 1 Nr. 2 ARegV stets in Betracht, wenn eine unzumutbare Härte auf Ursachen beruht, die von anderen Regelungen, die wie § 16 ARegV nur einzelne Teilaspekte betreffen, nicht erfasst werden. Zwar darf die Anwendung der Härtefallregelung nicht zu einer allgemeinen Billigkeitskontrolle der sich aus den einzelnen Vorschriften der Anreizregulierungsverordnung ergebenden Erlösobergrenzen führen. Der Eintritt eines unvorhersehbaren Ereignisses ist deshalb zu verneinen, wenn der betreffende Umstand durch speziellere Anpassungs- und Korrekturregelungen abschließend geregelt oder dem Risikobereich des Netzbetreibers zugewiesen ist. Letzteres ist bei einem unvorhergesehenen Anstieg der Kosten für die Beschaffung von Verlustenergie indes nicht der Fall (BGH, RdE 2011, 308 Rn. 70 ff. - EnBW Regional AG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>(2) Mangels abweichender tatrichterlicher Feststellungen ist der Vortrag der Betroffenen, die Kosten für die Beschaffung von Verlustenergie seien innerhalb eines Jahres um rund 40% gestiegen, in der Rechtsbeschwerdeinstanz als zutreffend zu unterstellen. Entgegen der Auffassung der Bundesnetzagentur kann eine Kostensteigerung dieses Umfangs ein unvorhersehbares Ereignis im Sinne von § 4 Abs. 4 Satz 1 Nr. 2 ARegV darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat bereits mehrfach Kostensteigerungen in der Größenordnung von 50% oder 100% als unvorhersehbares Ereignis angesehen (BGH, RdE 2011, 308 Rn. 75 - EnBW Regional AG; Beschluss vom 18. Oktober 2011 - EnVR 13/10, N&amp;R 2012, 94 Rn. 35 - PVU Energienetze GmbH; BGH, RdE 2012, 203 Rn. 41 - Gemeindewerke Schutterwald). Die hier vorgetragene Steigerung liegt mit rund 40% zwar niedriger. Dennoch liegt sie auffällig über den Steigerungsraten, die nach dem gewöhnlichen Lauf der Dinge, insbesondere der allgemeinen Teuerung zu erwarten wären. In der Rechtsbeschwerdeinstanz ist deshalb zugunsten der Betroffenen zu unterstellen, dass es sich um ein unvorhersehbares Ereignis handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>(3) Das Beschwerdegericht hat jedoch das Begehren der Betroffenen im Ergebnis zu Recht als unbegründet angesehen, weil die Betroffene nicht dargelegt hat, dass der Anstieg der Kosten für sie zu einer unzumutbaren Härte geführt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats darf zur Beantwortung der Frage, ob für den Netzbetreiber durch den Eintritt des unvorhersehbaren Ereignisses eine nicht zumutbare Härte entstanden ist, nicht nur die gestiegene einzelne Kostenposition in den Blick genommen werden. Vielmehr ist eine Gesamtbetrachtung der Kosten- und Vermögenssituation des Netzbetreibers anzustellen Die Unzumutbarkeit setzt voraus, dass die Entgeltbildung nach den Maßgaben der Anreizregulierungsverordnung zu einem für den Netzbetreiber wirtschaftlich untragbaren Ergebnis führt. Insbesondere muss dem Netzbetreiber eine angemessene und wettbewerbsfähige Verzinsung seines Eigenkapitals verbleiben. Eine "gesetzlich garantierte" Eigenkapitalverzinsung in einer bestimmten Höhe wird damit nicht gefordert. Treten die Kostensteigerungen von vornherein nur für einen begrenzten Zeitraum auf, ist dem Netzbetreiber eher zuzumuten, vorübergehend eine geringere Verzinsung seines Eigenkapitals hinzunehmen, als dies bei dauerhaften, für einen erheblichen Teil der Regulierungsperiode zu erwartenden Kostensteigerungen der Fall ist. Dabei ist auch zu berücksichtigen, ob der Netzbetreiber die durch eine einzelne Kostensteigerung verursachte Gesamtbelastung seiner Kosten- und Vermögenssituation durch wirtschaftlich vertretbare Rationalisierungsmaßnahmen zumindest teilweise auffangen kann. Der Netzbetreiber hat daher - bezogen auf das gesamte Netz - darzulegen, wie sich die gestiegenen Kosten unter Berücksichtigung aller sonstiger Veränderungen in der Kosten- und Vermögenssituation auf die kalkulatorische Eigenkapitalverzinsung auswirken. Insoweit wird die Amtsaufklärungspflicht der Regulierungsbehörde (§ 68 Abs. 1 EnWG, § 27 Abs. 1 Satz 3 Nr. 1 ARegV) durch die Mitwirkungslast des Netzbetreibers begrenzt, dem es obliegt, bei der Ermittlung des Sachverhalts mitzuhelfen und insbesondere die ihm bekannten Tatsachen und Beweismittel anzugeben (BGH, RdE 2011, 308 Rn. 86 ff. - EnBW Regional AG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Im vorliegenden Verfahren hat die Betroffene lediglich einen Anstieg der Kosten für die Beschaffung von Verlustenergie in den Jahren 2007 und 2008 geltend gemacht. Zu ihrer sonstigen Kosten- und Vermögenssituation hat sie nicht vorgetragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Die angefochtenen Entscheidungen bedürfen auch nicht deshalb der Aufhebung, um der Betroffenen insoweit Gelegenheit zu ergänzendem Vortrag zu geben. Die Betroffene hatte spätestens nach dem vom Beschwerdegericht mit Beschluss vom 9. März 2010 erteilten Hinweis Anlass zu einer entsprechenden Ergänzung ihres Vortrags. Das Beschwerdegericht hat zwar auch in dem Hinweisbeschluss § 4 Abs. 4 Satz 1 Nr. 2 ARegV schon deshalb für nicht anwendbar bezeichnet, weil die Möglichkeit einer Anpassung der Effizienzvorgabe nach § 16 Abs. 2 ARegV vorrangig sei. Auch nach dieser Vorschrift ist aber erforderlich, dass die Betroffene umfassend zu ihrer Kosten- und Vermögenssituation vorträgt. Die Rechtsbeschwerde zeigt nicht auf, dass die Betroffene ihren Vortrag im Hinblick darauf ergänzt hat. Sie erhebt auch keine Verfahrensrüge, mit der eine Verletzung des Untersuchungsgrundsatzes durch das Beschwerdegericht geltend gemacht und aufgezeigt wird, welche konkreten Ermittlungen das Beschwerdegericht unterlassen haben soll und zu welchem Ergebnis diese geführt hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>III. Der Senat verweist die Sache nicht an das Beschwerdegericht zurück. Die noch offenen Fragen können durch die Bundesnetzagentur in dem neu eröffneten Verwaltungsverfahren entschieden werden. Für die Neubescheidung ist der rechtliche Rahmen durch die Entscheidung des Senats vorgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 90 Satz 1 EnWG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Tolksdorf                                                 Raum                                              Strohn</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                              Grüneberg                                              Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304372012&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

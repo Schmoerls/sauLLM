@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE302792021</doknr>
+   <ecli>ECLI:DE:BGH:2021:210921UKZR88.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>Kartellsenat</spruchkoerper>
+   <entsch-datum>20210921</entsch-datum>
+   <aktenzeichen>KZR 88/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 102 Abs 1  AEUV, § 33 Abs 3 GWB 2005, § 14 Abs 1 S 1 AEG, § 14 Abs 4 S 2 AEG, Art 4 Abs 5 EGRL 14/2001, Art 7 Abs 3 EGRL 14/2001, Art 8 Abs 1 EGRL 14/2001, § 286 ZPO</norm>
+   <vorinstanz>vorgehend OLG Frankfurt, 17. November 2020, Az: 11 U 60/18 (Kart), Teilurteil<br/>vorgehend LG Frankfurt, 9. Mai 2018, Az: 2-06 O 38/17, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Missbrauch einer marktbeherrschenden Stellung durch ein Eisenbahninfrastrukturunternehmen: Anwendung eines intransparenten Preisbildungssystems; Indizwirkung des Verstoßes gegen regulierungsrechtliche Preisbildungsvorschriften - Trassenentgelte II</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Trassenentgelte II</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Wendet ein marktbeherrschendes Unternehmen, das über eine wesentliche Infrastruktureinrichtung verfügt und damit in der Lage ist, die Bedingungen des Wettbewerbs auf den nachgelagerten Märkten maßgeblich zu definieren, ein intransparentes Preisbildungssystem an, das sich einer rationalen Begründung in weiten Teilen entzieht, nicht der gesetzlichen Preisbildungssystematik entspricht und daher rechtswidrig ist, kann die von Art. 102 Abs. 1 AEUV vorausgesetzte Eignung zur Behinderung darin liegen, dass es auf diese Weise die Funktionsbedingungen des Wettbewerbs auf den nachgelagerten Märkten insgesamt verfälscht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Tatrichter kann einem solchen Verstoß gegen grundlegende - weil den Wettbewerbsprozess eröffnende - regulierungsrechtliche Preisbildungsvorschriften erhebliche Indizwirkung beimessen und sich bereits aufgrund des intransparenten Preissetzungsverhaltens des marktbeherrschenden Unternehmens die Überzeugung bilden, dass ein missbräuchliches Verhalten vorliegt. Es kann sodann Sache des Infrastrukturbetreibers sein, nachteilige wettbewerbliche Wirkungen dieses Preissystems auszuschließen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision wird das Urteil des 1. Kartellsenats des Oberlandesgerichts Frankfurt am Main vom 17. November 2020 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zu neuer Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte, eine Tochtergesellschaft der Deutsche Bahn AG, ist ein Eisenbahninfrastrukturunternehmen im Sinne des § 2 Abs. 1 Allgemeines Eisenbahngesetz (AEG). Die Klägerin, ein Eisenbahnverkehrsunternehmen, nutzt dieses Netz für die Erbringung von Dienstleistungen im Bereich des schienengebundenen Personenfernverkehrs. Sie bietet ausschließlich Charter- oder Gelegenheitsverkehre an, wie etwa Sonderfahrten für Betriebsausflüge, Messe- und Sportveranstaltungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte schließt mit zugangsberechtigten Unternehmen jeweils Rahmenverträge über die Nutzung der Eisenbahninfrastruktur ab. Darin ist geregelt, dass sich die Entgelte für die Trassennutzung nach den von der Beklagten jeweils aufgestellten Trassenpreislisten (TPS) richten. Die Beklagte bildete dabei für unterschiedliche Streckenkategorien ein streckenspezifisches Basisentgelt. Dieses Basisentgelt wurde mit einem Produktfaktor multipliziert, der produktabhängig zwischen 1 und 1,8 schwankte. Seit der Netzfahrplanperiode 2017/2018 berechnet die Beklagte die Trassenpreise auf der Grundlage von marktsegmentspezifischen Grenzkosten und einem marktsegmentspezifischen Aufschlag zur Deckung der nach Abzug öffentlicher Zuwendungen noch ungedeckten Kosten. Das TPS 2018 sah erstmals ein eigenes Marktsegment "Charterverkehr/Nostalgie" vor, für das die Bundesnetzagentur mit Bescheid vom 6. Februar 2017 ein Trassenentgelt von 2,05 € pro Trassenkilometer genehmigte. Der Bescheid der Bundesnetzagentur ist nicht bestandskräftig. Ein Revisionsverfahren ist beim Bundesverwaltungsgericht anhängig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, die für den Nutzungszeitraum von Dezember 2012 bis Februar 2016 von ihr gezahlten Entgelte seien überhöht. Sie begehrt daher Rückzahlung von Teilentgelten und hat beantragt, die Beklagte zur Zahlung von 174.291,72 € nebst Zinsen zu verurteilen. Mit der Widerklage begehrt die Beklagte Zahlung noch ausstehender, von der Klägerin gekürzter Teilentgelte für den Zeitraum von Juni 2016 bis Februar 2017. Sie hat beantragt, die Klägerin zur Zahlung von 50.541,63 € nebst Zinsen zu verurteilen. Das Landgericht hat die Klage abgewiesen und die Klägerin auf die Widerklage antragsgemäß verurteilt. Auf die Berufung der Klägerin hat das Berufungsgericht unter Abänderung des erstinstanzlichen Urteils durch Teilgrund- und Teilurteil festgestellt, dass der Klägerin der mit der Klage geltend gemachte Anspruch auf teilweise Rückzahlung entrichteter Entgelte für die Trassennutzungen im Zeitraum von Dezember 2012 bis Februar 2016 dem Grunde nach zusteht. Die Widerklage hat es im Umfang von 835,35 € unter Zurückweisung der Berufung im Hinblick auf die Positionen 1a, 3a, 6a bis 9a, 11a bis 17a abgewiesen. Mit der vom Berufungsgericht zugelassenen Revision verfolgt die Beklagte ihr auf Abweisung der Klage gerichtetes Begehren weiter. Im Hinblick auf die Widerklage begehrt sie nur noch die Verurteilung der Beklagten zur Zahlung von 42.694,62 € (Positionen 1b bis 10b).</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision ist begründet. Sie führt zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat den von der Klägerin geltend gemachten Anspruch auf Rückzahlung überhöhter Trassenentgelte dem Grunde nach zuerkannt und zur Begründung seiner Entscheidung - soweit für das Revisionsverfahren noch von Interesse - Folgendes ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Der Klägerin habe gemäß § 33 Abs. 3 GWB in der bis zum 26. Dezember 2016 geltenden Fassung (im Folgenden: aF), Art. 102 AEUV dem Grunde nach Ansprüche auf Rückzahlung bereits entrichteter Trassenentgelte. Der Anwendung dieser Vorschriften stünden die Richtlinie 2001/14/EG des Europäischen Parlaments und des Rates vom 26. Februar 2001 über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung von Entgelten für die Nutzung von Eisenbahninfrastruktur und die Sicherheitsbescheinigung (im Folgenden: Richtlinie 2001/14/EG), insbesondere deren Art. 4 Abs. 5 und Art. 30 Abs. 1, 3, 5 und 6, nicht entgegen. Eine ausdrückliche materiell-rechtliche Billigung der von der Beklagten erhobenen Entgelte von Seiten der Bundesnetzagentur liege nicht vor. Vielmehr ergebe sich aus den zur Akte gelangten Beschlüssen und Stellungnahmen der Bundesnetzagentur, dass formelle und materielle Bedenken hinsichtlich der Rechtmäßigkeit des TPS 2011 und der darauffolgenden, im Wesentlichen bis zur Geltung des TPS 2018 unveränderten Entgeltberechnung bestanden hätten. Die Klägerin habe es nicht vorwerfbar unterlassen, zeitnah eine Entscheidung der Bundesnetzagentur herbeizuführen und gegebenenfalls verwaltungsgerichtlichen Rechtsschutz in Anspruch zu nehmen. Nach damaliger gefestigter Rechtsprechung habe ihr eine Überprüfung der Trassenentgelte im Rahmen der Billigkeitskontrolle gemäß § 315 BGB durch die Zivilgerichte offengestanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte verfüge auf dem bundesweiten Markt für die Nutzungsüberlassung von Eisenbahninfrastruktureinrichtungen zur Durchführung von Eisenbahnverkehren über eine beherrschende Stellung. Ihr Preissetzungsverhalten beruhe auf einer zurechenbaren selbständigen Entscheidung. Die in Rede stehende Ausgestaltung des Trassenpreissystems verstoße gegen das Diskriminierungsverbot nach Art. 102 Abs. 2 Buchst. c AEUV. Dieses finde auch dann Anwendung, wenn gleiche Bedingungen bei ungleichwertigen Leistungen angewandt würden. Dafür sprächen auch die sektorspezifischen Wertungen aus Art. 4 Abs. 5 Richtlinie 2001/14/EG, § 14 Abs. 1 AEG in der bis zum 1. September 2016 geltenden Fassung (im Folgenden: aF), § 21 EIBV, die bei der kartellrechtlichen Prüfung zu berücksichtigen seien. Das Trassenpreissystem der Beklagten habe zu einer sachwidrigen Gleichbehandlung der Klägerin mit anderen Eisenbahnverkehrsunternehmen geführt, insbesondere mit solchen, die Dienstleistungen im Fahrplanverkehr anböten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Entgeltberechnung, die den in Rede stehenden Trassenpreissystemen zugrunde lag, habe in Widerspruch zu § 14 Abs. 4 Satz 2 AEG aF gestanden. Danach hätten zunächst die unmittelbar durch den jeweiligen Zugbetrieb anfallenden Kosten in Ansatz gebracht werden müssen. Auf diese Grenzkosten habe ein nach unterschiedlichen Marktsegmenten differenzierender Vollkostenaufschlag erhoben werden können. Diesen Grundsätzen entspreche die von der Beklagten bis zur Geltung des TPS 2018 gewählte Preisbildung nicht. Einen solchen Standpunkt habe auch die Bundesnetzagentur in verschiedenen Stellungnahmen deutlich gemacht. Die Beklagte habe nicht nachvollziehbar dargelegt, dass die Festlegung von zwölf Streckenkategorien und der darauf bezogenen unterschiedlichen Produktfaktoren der gesetzlichen Preisbildungssystematik entspreche. Vielmehr habe sie vorgetragen, dass zunächst die Kosten für die Erbringung von Pflichtleistungen ebenso wie das eingesetzte Kapital prognostiziert worden seien. Auf Basis dieser Prognose seien unter Heranziehung der angenommenen Mengengerüste und der Markttragfähigkeit der einzelnen Verkehrsarten (Schienenpersonenfernverkehr, Schienenpersonennahverkehr, Schienengüterverkehr) die konkreten Preise festgelegt worden. Dies lasse keine Zuordnung zu den nach § 14 Abs. 4 AEG geforderten Entgeltgrundsätzen erkennen. Auch die Bundesnetzagentur habe in der Vergangenheit darauf hingewiesen, dass ein nachvollziehbares Zahlenwerk für die Berechnung der Entgelte nicht vorliege und dass unklar sei, wie die einzelnen Preisbildungskomponenten zustande gekommen seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Aufgrund dieser in Widerspruch zu den eisenbahnrechtlichen Bestimmungen ermittelten Entgelte habe die Beklagte eine Gleichbehandlung der Eisenbahnverkehrsunternehmen im Personenfernverkehr vorgenommen, ohne dass gleichwertige Leistungen erbracht würden. Diese Preissetzung wirke diskriminierend, weil die Nutzung des Schienennetzes durch die Klägerin im Vergleich zu anderen Anbietern im Schienenpersonenfernverkehr unstreitig geringere Kosten verursacht habe. Die Klägerin habe, da sie als Anbieterin von Gelegenheitsverkehren keine Fahrplananmeldungen vorgenommen habe, Tras-sen aus dem Bestand von Restkapazitäten erhalten, die zu suboptimalen Trassenkonstruktionen geführt hätten. Zudem seien die mit ihrem Zugbetrieb verbundenen Kosten, insbesondere die Abnutzung der Schienen, wegen der niedrigeren Geschwindigkeit und des geringeren Gewichts der Züge geringer als im fahrplanmäßigen Personenfernverkehr. Dementsprechend habe die Beklagte im TPS 2018 nunmehr auch ein eigenständiges Segment für Charter- und Nostalgieverkehre gebildet, was sich auch als sachgerecht erweise. Im Rahmen des verwaltungsbehördlichen Verfahrens betreffend das TPS 2018 habe die Beklagte berechnet, dass die unmittelbaren Kosten des Zugbetriebs im Segment "Charterverkehr/Nostalgie" zwischen 0,48 und 0,58 € pro Trassenkilometer unter denen des fahrplanmäßigen Personenfernverkehrs lägen. Eine Rechtfertigung dafür, dass die Beklagte die Klägerin trotz ungleichwertiger Leistungen mit gleichwertigen Entgelten belege, sei nicht erkennbar. Diese Gleichbehandlung mit den Anbietern fahrplanmäßiger Personenfernverkehre, insbesondere mit der DB Fernverkehr AG, habe die Klägerin im Wettbewerb benachteiligt, weil sie auf den gebuchten Trassen nur geringere Erlöse habe erzielen können, als wenn die Trassenentgelte auf der Basis der mit ihrem Zugbetrieb verbundenen Kosten ermittelt worden wären. Dadurch sei ihr die Möglichkeit genommen worden, ihren Kunden unter Berücksichtigung der qualitativ geringwertigeren Leistungen (geringere Geschwindigkeit und Zielorientierung der überlassenen Trassen) attraktivere (d.h. preisgünstigere) Angebote zu unterbreiten. Die Klägerin konkurriere jedenfalls insoweit mit den Anbietern des regulären Schienenpersonenfernverkehrs, als die Gelegenheitsverkehre überwiegend ziel- und weniger erlebnisorientiert seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Aufgrund der diskriminierenden Gleichbehandlung sei der Klägerin jedenfalls irgendein Schaden entstanden. Dies folge aus den Trassenentgelten für das Segment "Charterverkehr/Nostalgie", wie sie sich aus dem TPS 2018 ergäben. Unter Berücksichtigung einer jährlichen Preissteigerung von 2,4 Prozent ergebe eine Rückrechnung des von der Bundesnetzagentur für die Fahrplanperiode 2018 genehmigten Trassenpreises von 2,05 € pro Trassenkilometer für die in Rede stehenden Fahrplanperioden ein um ein Drittel niedrigeres Entgelt als das gezahlte. Auch bei Ansatz des von der Beklagten zur Genehmigung beantragten Trassenpreises von 2,46 € pro Trassenkilometer sei eine Überzahlung seitens der Klägerin festzustellen. Da der von der Bundesnetzagentur genehmigte Trassenpreis noch Gegenstand eines verwaltungsgerichtlichen Verfahrens sei und die endgültige Höhe des Entgelts noch nicht feststehe, sei der Rechtsstreit im Hinblick auf den Umfang des Schadensersatzanspruchs noch nicht entscheidungsreif.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Auch die Widerklage sei insoweit noch nicht zur Entscheidung reif, als die Beklagte mit den Positionen 1b bis 10b Zahlung derjenigen Beträge fordere, um die die Klägerin die von ihr zu zahlenden Trassenentgelte für den Zeitraum von Juni 2016 bis Februar 2017 im Hinblick auf eine geltend gemachte missbräuchliche Entgelthöhe gekürzt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Diese Erwägungen halten der rechtlichen Überprüfung in einem entscheidenden Punkt nicht stand. Der Erlass des Teilgrundurteils war unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>1. Ein Teilzwischenurteil über den Anspruchsgrund der Klage kann bei objektiver Klagehäufung, grundsätzlicher Teilbarkeit des Streitgegenstandes oder erhobener Widerklage (§ 301 Abs. 1 Satz 1 ZPO) nur ergehen, wenn die Gefahr einander widersprechender Entscheidungen - auch infolge abweichender Beurteilung durch das Rechtsmittelgericht - ausgeschlossen ist. Eine Gefahr sich widersprechender Entscheidungen ist nach ständiger Rechtsprechung des Bundesgerichtshofs immer dann gegeben, wenn in einem Teilurteil eine Frage entschieden wird, die sich dem Gericht im weiteren Verfahren über andere Ansprüche oder Anspruchsteile noch einmal stellt oder stellen kann. Das gilt auch insoweit, als es um die Möglichkeit einer unterschiedlichen Beurteilung von bloßen Urteilselementen geht, die weder in Rechtskraft erwachsen noch das Gericht nach § 318 ZPO für das weitere Verfahren binden. Eine solche Gefahr besteht bei einer Mehrheit selbständiger prozessualer Ansprüche, wenn zwischen ihnen eine materiell-rechtliche Verzahnung besteht oder die Ansprüche prozessual in ein Abhängigkeitsverhältnis gestellt sind (st. Rspr., vgl. nur BGH, Urteil vom 20. Mai 2021 - VII ZR 14/20, NJW 2021, 2438 Rn. 17 f., mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>2. Nach diesen Voraussetzungen durfte das Berufungsgericht ein Teilgrundurteil betreffend den Klageanspruch nicht erlassen, weil dieser mit dem noch nicht entschiedenen Teil der Widerklage materiell-rechtlich verzahnt ist. Die Frage, ob das Preisverhalten der Beklagten den Tatbestand des Missbrauchs einer marktbeherrschenden Stellung nach Art. 102 AEUV erfüllt, ist als anspruchsbegründendes Element für die Prüfung des Klageanspruchs ebenso relevant wie sie als Element des von der Klägerin geltend gemachten anspruchsvernichtenden oder -vermindernden Einwands für die Prüfung des der Widerklage zugrunde liegenden Zahlungsanspruchs erheblich ist. Die Frage hätte das Berufungsgericht daher einheitlich für Klage und Widerklage beantworten müssen, um die Gefahr eines grundsätzlich möglichen Widerspruchs zwischen einer Entscheidung über den Grund des Klageanspruchs und der Berechtigung des Einwandes gegen den Zahlungsanspruch der Widerklage auszuräumen. Dies gilt - da ein im Kern identisches Verhalten zu beurteilen ist - ungeachtet des Umstandes, dass sich Klage und Widerklage auf unterschiedliche Zeiträume erstrecken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Ein solche Gefahr war im Streitfall auch nicht deshalb ausgeschlossen, weil sich das Berufungsgericht im Hinblick auf die für die Entscheidung über die Widerklage relevante Frage nach dem Missbrauch einer marktbeherrschenden Stellung ebenso gebunden hätte, wie es das durch Erlass des Grundurteils in Bezug auf den Klageanspruch für das Betragsverfahren getan hat. Das Berufungsgericht hätte eine solche Bindung in der gegebenen prozessualen Situation allein dadurch erreichen können, dass es nach § 256 Abs. 2 ZPO ein Zwischenfeststellungsurteil in Bezug auf die Widerklage erlassen hätte, wonach die Beklagte durch das beanstandete Preisverhalten ihre marktbeherrschende Stellung im Sinne des Art. 102 AEUV missbraucht hat. Ob zumindest den Urteilsgründen entnommen werden kann, dass das Berufungsgericht ein solches Zwischenfeststellungsurteil erlassen hat, kann auf sich beruhen, weil jedenfalls nicht ersichtlich ist, dass eine der Parteien den für ein solches Zwischenfeststellungsurteil erforderlichen Antrag gestellt hat, der zwingend vor Schluss der mündlichen Verhandlung anzubringen ist (vgl. BGH, Urteil vom 16. Dezember 2004 - VII ZR 174/03, MDR 2005, 645 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>III. Danach kann das Berufungsurteil keinen Bestand haben. Es ist aufzuheben (§ 562 ZPO) und die Sache an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 ZPO). Für das weitere Verfahren weist der Senat auf Folgendes hin:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat mit Recht angenommen, dass die Klage zulässig ist. Anders als die Revision meint, fehlt der Klägerin nicht das erforderliche Rechtsschutzbedürfnis (vgl. BGH, Urteil vom 8. Dezember 2020 - KZR 60/16, WRP 2021, 1184 Rn. 14 - Stornierungsentgelt II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht hat zudem rechtsfehlerfrei angenommen, dass der Klägerin dem Grunde nach ein Schadensersatzanspruch gemäß § 33 Abs. 3 GWB aF, Art. 102 AEUV zusteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Dabei ist das Berufungsgericht davon ausgegangen, dass die bis zum 31. Dezember 2014 entstandenen Schadensersatzansprüche nicht aufgrund des Vergleichsvertrags vom 22. Januar 2015 ausgeschlossen sind, weil dieser sich nicht auf die im Streitfall in Rede stehenden Ansprüche auf Rückzahlung missbräuchlich überhöhter Trassenentgelte beziehe. Diese tatrichterliche Würdigung ist aus Rechtsgründen nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Das Berufungsgericht hat weiterhin zutreffend angenommen, dass die Vorschriften der § 33 Abs. 3 GWB aF, Art. 102 AEUV im Zivilprozess anwendbar sind. Weder in materiell-rechtlicher noch in verfahrensrechtlicher Hinsicht ergibt sich in Folge der Anwendung von Art. 102 AEUV sowie der darauf bezogenen Normen des nationalen Rechts durch die Zivilgerichte ein Konflikt mit der Richtlinie 2001/14/EG. Das gilt auch dann, wenn die beanstandeten Entgelte - wie hier - noch nicht Gegenstand einer regulierungsbehördlichen Entscheidung waren (näher: BGH, Urteile vom 29. Oktober 2019 - KZR 39/19, WuW 2020, 209 Rn. 28 ff. - Trassenentgelte; vom 1. September 2020 - KZR 12/15, N&amp;R 2021, 56 Rn. 18 f. - Stationspreissystem II; vom 22. Juni 2021 - KZR 72/15, juris Rn. 11 ff. - Stationspreissystem III). Die Zuerkennung von kartellzivilrechtlichen Schadensersatzansprüchen dient in materiell-rechtlicher Hinsicht vielmehr der zumindest teilweisen Herstellung eines primärrechts- und richtlinienkonformen Zustands. Dies beruht darauf, dass die Bundesnetzagentur zu einer substantiellen Kontrolle der Stationsnutzungsentgelte auf ihre Kostenorientierung und ihre nicht diskriminierende Ausgestaltung nicht in der Lage war (BGH, N&amp;R 2021, 56 Rn. 36, 41 - Stationspreissystem II) und sich selbst auch dazu nicht in der Lage sah. Das belegen die vorgelegten internen Vermerke bezüglich des von der Bundesnetzagentur im Jahr 2011 eingeleiteten Verfahrens zur Überprüfung des im Streitfall maßgeblichen Trassenpreissystems der Beklagten. Aus ihnen ergibt sich, dass sich die Bundesnetzagentur - obwohl sie nach langjähriger Prüfung im Jahr 2014 zu der Einschätzung gelangt war, dass sich das Trassenpreissystem als rechtswidrig darstellt, und zudem mögliche Rückzahlungsansprüche benachteiligter Zugangsberechtigter in den Blick genommen hatte - zu einer regulierungsbehördlichen Entscheidung über die Höhe der einzelnen Kategoriepreise nicht entschließen konnte (vgl. Anlage K 111, S. 7). Lediglich über die Summe der von der Beklagten insgesamt in Ansatz gebrachten Entgelte hat die Bundesnetz-agentur mit Bescheid vom 20. August 2015 (10.050-F-07-607) entschieden und diese für rechtmäßig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht wird im wiedereröffneten Berufungsrechtszug auch nicht gehalten sein, das weitere Verfahren in entsprechender Anwendung der Vorschrift des § 148 ZPO im Hinblick auf das Vorabentscheidungsersuchen des Kammergerichts an den Gerichtshof der Europäischen Union vom 10. Dezember 2020 (WuW 2021, 178 ff.) auszusetzen. Anders als die Revision meint, stellt sich in diesem Zusammenhang nicht die vom Kammergericht dem Gerichtshof der Europäischen Union vorgelegte Frage, ob es mit der Richtlinie 2001/14/EG vereinbar ist, wenn ein Zivilgericht "unabhängig von der Überwachung durch die Regulierungsstelle die Höhe der verlangten Entgelte nach den Maßstäben von Art. 102 AEUV und/oder des nationalen Kartellrechts überprüf(t)" (näher: BGH, Urteil vom 22. Juni 2021 - KZR 72/15, juris Rn. 11 ff. - Stationspreissystem III).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>c) Das Berufungsgericht hat ferner mit Recht angenommen, dass die Beklagte durch ihr Preisverhalten im maßgeblichen Zeitraum ihre marktbeherrschende Stellung auf dem Markt für die Erbringung von Infrastrukturleistungen für den Schienenverkehr im Sinne des Art. 102 Abs. 1 AEUV missbraucht hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>aa) Zutreffend ist das Berufungsgericht davon ausgegangen, dass die Beklagte als Eigentümerin nahezu des gesamten bundesdeutschen Schienennetzes Normadressatin des aus Art. 102 Abs. 1 AEUV folgenden Missbrauchsverbots ist und dass das Preisverhalten der Beklagten den Handel zwischen den Mitgliedstaaten beeinträchtigt, weil die Beklagte in einem wesentlichen Teil des Binnenmarktes über eine marktbeherrschende Stellung verfügt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Das Berufungsgericht hat mit Recht angenommen, die Anwendung des in Rede stehenden Trassenpreissystems verstoße gegen das Missbrauchsverbot des Art. 102 Abs. 1 AEUV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(1) Nach Art. 102 Abs. 1 AEUV kann die Weigerung eines marktbeherrschenden Unternehmens, einem anderen Unternehmen zu angemessenen, nichtdiskriminierenden Bedingungen Zugang zu einer wesentlichen Einrichtung zu gewähren, der für die Ausübung der Tätigkeit des anderen Unternehmens unerlässlich ist, einen Missbrauch einer marktbeherrschenden Stellung im Sinne von Art. 102 AEUV darstellen (vgl. EuGH, Urteil vom 26. November 1998 - C-7798, WRP 1999, 167 Rn. 47 - Oscar Bronner/Mediaprint; zu § 19 GWB vgl. BGH, Beschlüsse vom 24. September 2002 - KVR 15/01, BGHZ 152, 84 juris Rn. 35 - Fährhafen Puttgarden I; vom 11. Dezember 2012 - KVR 7/12, WuW 2013, 505 Rn. 15 - Fährhafen Puttgarden II). Daraus folgt, dass auch eine - wie im Streitfall - erfolgte Gewährung des Zugangs missbräuchlich sein kann, wenn die geforderten Bedingungen unangemessen oder diskriminierend sind. Insofern ist auf allgemeine Grundsätze zurückzugreifen (BGH, N&amp;R 2021, 56 Rn. 51- Stationspreissystem II; EuGH, Urteil vom 25. März 2021 - C-152/19, NZKart 2021, 296 Rn. 53 - Deutsche Telekom AG/Kommission). Dabei sind die Wertungen der sektorspezifischen Regulierungsvorschriften zu berücksichtigen (BGH, N&amp;R 2021, 56 Rn. 26 - Stationspreissystem II; EuGH, NZKart 2021, 296 Rn. 57 - Deutsche Telekom AG/Kommission).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(2) Die Beklagte hat Entgelte gefordert, die den grundlegenden gesetzlichen Anforderungen an die Entgeltbemessung nicht entsprechen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(a) Das Preisverhalten eines marktbeherrschenden Unternehmens kann unter verschiedenen Gesichtspunkten missbräuchlich sein, wobei nicht ausgeschlossen ist, dass ein bestimmtes Verhalten sowohl behindernde als auch ausbeuterische Wirkungen entfaltet und sich aufgrund seiner besonderen Eigenart einer Zuordnung zu den Fallgruppen des Art. 102 Abs. 2 AEUV entzieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Nach Art. 102 Abs. 2 Buchst. a AEUV ist ein Preis missbräuchlich überhöht, wenn der Inhaber einer marktbeherrschenden Stellung die sich daraus ergebenden Möglichkeiten genutzt hat, um geschäftliche Vorteile zu erhalten, die er bei hinreichend wirksamem Wettbewerb nicht erhalten hätte, und daher Preise hat durchsetzen können, die in keinem angemessenen Verhältnis zu dem wirtschaftlichen Wert der erbrachten Leistung stehen (vgl. EuGH, Urteile vom 14. Februar 1978 - Rs. 27/76, Slg. 1978, 207 Rn. 248/257 - United Brands; vom 11. November 1986 - C-226/84, Slg. 1986, 3263 Rn. 27 - British Leyland; vom 16. Juli 2009, Rs. C-385/07 P, Slg. 2009 I 6155 Rn. 142 - Duales System Deutschland/Kommission; BGH, N&amp;R 2021, 56 Rn. 66 - Stationspreissystem II), was im Streitfall jedenfalls dann naheliegt, wenn die von der Bundesnetzagentur genehmigten Entgelte für das Segment "Charter/Nostalgie" des TPS 2017/2018 nach Abschluss des verwaltungsgerichtlichen Verfahrens Bestand hätten und damit die für die Klägerin gültigen Trassenentgelte nunmehr um ein Drittel niedriger lägen als bislang.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Ein Preisverhalten ist darüber hinaus dann missbräuchlich, wenn das marktbeherrschende Unternehmen unterschiedliche Preise bei gleichwertigen Leistungen anwendet und dadurch Handelspartner im Wettbewerb ohne sachliche Rechtfertigung benachteiligt (Regelbeispiel nach Art. 102 Abs. 2 Buchst. c AEUV, vgl. BGH, N&amp;R 2021, 56 Rn. 52 - Stationspreissystem II). Eine missbräuchliche Diskriminierung setzt nach der Rechtsprechung des Gerichtshofs der Europäischen Union voraus, dass das beanstandete Verhalten unter Berücksichtigung sämtlicher Umstände des Einzelfalls darauf gerichtet ist, die Wettbewerbsbeziehung der Handelspartner des marktbeherrschenden Unternehmens auf dem vor- oder nachgelagerten Markt zu beeinträchtigen (EuGH, Urteile vom 15. März 2007 - C-95/04 P, EuZW 2007, 306 Rn. 144 - British Airways/Kommission; vom 19. April 2018 - C-525/16, WuW 2018, 320 Rn. 24 f. - Meo mwN; vgl. auch BGH, Urteil vom 3. Dezember 2019 - KZR 29/17, WuW 2020, 327 Rn. 37 - NetCologne II, zu § 20 Abs. 1 Alt. 2 GWB aF).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Weiterhin kann ein Preisverhalten den Tatbestand der missbräuchlichen Behinderung erfüllen, wenn es darauf gerichtet ist, die Margen des auf dem nachgelagerten Markt tätigen Unternehmens so zu beschneiden, dass es ihm langfristig nicht mehr oder nur unter erschwerten Bedingungen möglich ist, seine Dienstleistungen auf dem nachgelagerten Markt rentabel anzubieten ("Kosten-Preis-Schere", vgl. zum Telekommunikationssektor EuGH, Urteile vom 14. Oktober 2010, C-280/08 P, WuW 2010, 1291 Rn. 177 f., 253 - Deutsche Telekom; vom 17. Februar 2011, C-52/09, EuZW 2011, 339 Rn. 39 ff., 69 ff. - TeliaSonera Sverige; vgl. zum Eisenbahnsektor: Monopolkommission, 7. Sektorgutachten "Mehr Qualität und Wettbewerb auf der Schiene" Rn. 171). Die mit einem derartigen Preissetzungsverhalten einhergehende Margenbeschneidung kann angesichts ihrer möglichen Verdrängungswirkung gegenüber Wettbewerbern des marktbeherrschenden und vertikal integrierten Unternehmens bereits für sich allein einen Missbrauch im Sinne von Art. 102 AEUV darstellen, wenn für das Preisverhalten eine sachliche Rechtfertigung nicht gegeben ist; dies gilt insbesondere dann, wenn der Zugang zum Vorleistungsprodukt für das Angebot der Dienstleistung auf dem nachgelagerten Markt - wie hier - unentbehrlich ist (vgl. EuGH, WuW 2010, 1291 Rn. 183 - Deutsche Telekom; EuZW 2011, 339 Rn. 31, 69 ff. - TeliaSonera Sverige; BGH, WRP 2021, 1184 Rn. 36 - Stornierungsentgelt II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>(b) Weitere Anforderungen an das Preisverhalten eines marktbeherrschenden Unternehmens ergeben sich, wie das Berufungsgericht mit Recht angenommen hat, aus den Vorschriften der sektorspezifischen Preisregulierung, im Streitfall den eisenbahnrechtlichen Entgeltvorschriften, die bei der Beantwortung der Frage zu berücksichtigen sind, ob ein marktbeherrschendes Eisenbahninfrastrukturunternehmen durch sein Preisverhalten missbräuchlich im Sinne des Art. 102 Abs. 1 AEUV handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(aa) Nach § 14 Abs. 1 Satz 1 AEG aF haben Eisenbahninfrastrukturunternehmen die diskriminierungsfreie Benutzung der Eisenbahninfrastruktur zu gewährleisten. Zu diesem Zweck haben sie ihre Entgelte gemäß § 14 Abs. 4 Satz 1 AEG aF so zu bemessen, dass die ihnen insgesamt für die Erbringung der Pflichtleistungen entstehenden Kosten zuzüglich einer Rendite, die auf dem Markt erzielt werden kann, ausgeglichen werden. Damit hat sich der Gesetzgeber für das Prinzip des Vollkostenansatzes als Maßstab für die Ermittlung der Entgelthöhe entschieden (vgl. Kühling/Hermeier/Heimeshoff, Entgeltregulierung im Eisenbahnrecht, 2007, S. 92; Gerstner in Hermes/Sellner, AEG, 2. Aufl., § 14 Rn. 181 ff.). Dieser Maßstab bestimmt die Höhe sämtlicher Entgelte, die das Eisenbahninfrastrukturunternehmen von den Eisenbahnverkehrsunternehmen insgesamt verlangen kann. Wie die für die einzelnen Verkehrsleistungen zu fordernden Entgelte zu berechnen sind, bestimmen die in § 14 Abs. 4 Satz 2 ff. aF geregelten Entgeltgrundsätze. Danach sind zunächst die unmittelbaren Kosten des Zugbetriebs zu ermitteln. Auf diese Grenzkosten, die lediglich einen kleinen Teil der dem Eisenbahninfrastrukturunternehmen entstehenden Kosten ausmachen (vgl. Krick in Ronellenfitsch/Schweinsberg/Henseler-Unger, Aktuelle Probleme des Eisenbahnrechts XVII, 2012, S. 111, 112), können Aufschläge erhoben werden. Sinn und Zweck dieser Aufschläge ist es, dem Eisenbahninfrastrukturunternehmen im Hinblick auf die Erbringung der Pflichtleistungen die Deckung der beim Betrieb des Netzes entstehenden Fix- und Gemeinkosten zu ermöglichen. Dabei kann das Eisenbahninfrastrukturunternehmen zwischen unterschiedlichen Verkehrsleistungen (Schienenpersonenfernverkehr, Schienenpersonennahverkehr, Schienengüterverkehr) und innerhalb dieser Verkehrsleistungen nach unterschiedlichen Marktsegmenten differenzieren. Bei der Bemessung der Aufschläge ist die Wettbewerbsfähigkeit, insbesondere die des internationalen Schienengüterverkehrs, zu gewährleisten. Die nähere Ausgestaltung erfolgt gemäß den Entgeltregelungen der Eisenbahninfrastrukturbenutzungsverordnung. § 21 Abs. 3 EIBV aF sieht unter anderem vor, dass das Wegeentgelt einen Entgeltbestandteil umfassen kann, der die Knappheit der Schienenwege auf bestimmten Abschnitten in Zeiten der Überlastung widerspiegelt. Soweit eine Verkehrsleistung höhere Kosten als eine andere Verkehrsleistung verursacht, dürfen diese erhöhten Kosten nur für diese Verkehrsleistung berücksichtigt werden. § 23 EIBV aF regelt die Voraussetzungen für die Gewährung von Entgeltnachlässen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>(bb) Mit diesen Regelungen wird den Vorgaben der im Klagezeitraum maßgeblichen Richtlinie 2001/14/EG Rechnung getragen. Nach dessen Art. 7 Abs. 3 der Richtlinie ist das Entgelt für das Mindestzugangspaket grundsätzlich in Höhe der Kosten festzulegen, die unmittelbar aufgrund des Zugbetriebs anfallen. Nach Art. 8 Abs. 1 Richtlinie 2001/14/EG kann ein Mitgliedstaat, sofern der Markt dies tragen kann, Aufschläge auf der Grundlage effizienter, transparenter und nichtdiskriminierender Grundsätze erheben, um eine volle Deckung der dem Betreiber der Infrastruktur entstehenden Kosten zu erhalten, wobei die bestmögliche Wettbewerbsfähigkeit insbesondere des grenzüberschreitenden Schienengüterverkehrs zu gewährleisten ist. Daraus folgt, dass sich ein Wegeentgelt nach der Richtlinie 2001/14/EG zwischen der in Art. 7 Abs. 3 der Richtlinie vorgesehenen Untergrenze (Grenzkosten) und der in Art. 8 Abs. 1 benannten Obergrenze (Vollkosten) bewegen kann. Nähere Vorgaben zu den Modalitäten, wie die Entgeltberechnung für die einzelnen Verkehrsleistungen und Marktsegmente vorzunehmen ist, enthält die Richtlinie nicht. Die Mitgliedstaaten sind daher auch nicht verpflichtet, den Eisenbahninfrastrukturunternehmen Vorgaben in dieser Hinsicht zu machen (vgl. EuGH, Urteil vom 28. Februar 2013 - C-556/10, EuZW 2013, 666 Rn. 89 - Kommission/Bundesrepublik).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(cc) Auch wenn Art. 8 Abs. 1 - ebenso wie § 14 Abs. 4 Satz 2 AEG aF - keine Pflicht der Eisenbahninfrastrukturunternehmen zur Differenzierung zwischen einzelnen Marktsegmenten entnommen werden kann, ergibt sich daraus - anders als die Revision meint - nicht, dass ein Eisenbahninfrastrukturunternehmen, wenn es sich - wie die Beklagte - für eine Differenzierung nach unterschiedlichen Schienenverkehrsleistungen und etwaiger weiterer Marktsegmente entscheidet, keinen weiteren Bindungen unterliegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Solche Bindungen ergeben sich zum einen unmittelbar aus dem Diskriminierungsvorbot gemäß § 14 Abs. 1 Satz 1 AEG aF unter Berücksichtigung der Vorgaben der Richtlinie 2001/14/EG, die der Gewährleistung eines diskriminierungsfreien Zugangs zur Schieneninfrastruktur und der Sicherung eines fairen Wettbewerbs bei der Erbringung von Eisenbahnverkehrsleistungen (ErwG Nr. 16) dienen. Danach haben die zur Deckung der Vollkosten möglichen Aufschläge gemäß Art. 8 Abs. 1 Richtlinie 2001/14/EG, § 14 Abs. 4 Satz 2 AEG aF auf Grundlage effizienter, transparenter und nichtdiskriminierender Grundsätze zu erfolgen. Daraus ergibt sich, dass die Zuschlüsselung von berücksichtigungsfähigen Fix- und Gemeinkosten des Netzbetriebs, welche angesichts der Kostenstruktur einer Schieneninfrastruktur den ganz überwiegenden Anteil der durch die Entgelte zu deckenden Kosten ausmachen, auf die einzelnen Schienenverkehrsleistungen und die gebildeten weiteren Marktsegmente transparent und für die Netznutzer in nachvollziehbarer Weise erfolgen muss. Nach der Rechtsprechung des Gerichtshofs der Europäischen Union setzt zudem die Erhebung eines Vollkostenaufschlags bei Vornahme einer Entgeltdifferenzierung nach einzelnen Marktsegmenten voraus, dass der Betreiber der Schieneninfrastruktur Markttragfähigkeitstests durchführt (EuGH, EuZW 2013, 666 Rn. 87, 89 - Kommission/Bundesrepublik).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Darüber hinaus trägt das marktbeherrschende Unternehmen, das über eine wesentliche Infrastruktureinrichtung verfügt, bereits aus Art. 102 Abs. 1 AEUV eine besondere Verantwortung dafür, dass es durch sein Verhalten einen wirksamen und unverfälschten Wettbewerb in der Union nicht beeinträchtigt (vgl. nur EuGH, Urteil vom 6. Dezember 2012 - C-457/10 P, WuW 2013, 427 Rn. 98 - AstraZeneca/Kommission; BGH, Urteil vom 5. Mai 2020 - KZR 36/17, BGHZ 225, 269 Rn. 72 - FRAND-Einwand I; BGH, Beschluss vom 23. Juni 2020 - KVR 69/19, BGHZ 226, 67 Rn. 74 - Facebook I). Damit ist nicht nur eine Verantwortung für die Bedingungen auf dem beherrschten Markt, sondern auch für die der nachgelagerten Märkte in Bezug genommen (vgl. EuGH, Urteile vom 6. März 1974, verb. Rs. 6/73 und 7/73, Slg. 1974, 223 Rn. 22, 25 - Commercial Solvents; vom 14. November 1996, Rs. C-333/94 P, Slg. 1996, I-5951 Rn. 24 ff. - Tetra Pak II; BGH, Urteil vom 4. November 2003 - KZR 16/02, BGHZ 156, 379, 383 - Strom und Telefon; WRP 2021, 1184 Rn. 35 - Stornierungsentgelt II). Zu dieser Verantwortung zählt für den Inhaber einer wesentlichen Einrichtung insbesondere die Gewährung des Zugangs zur Infrastruktur zu nichtdiskriminierenden und angemessenen Bedingungen. Die durch das Eisenbahnrecht eröffneten, aber vom Wettbewerb nicht kontrollierten Handlungsspielräume unterliegen danach der Kontrolle durch das Missbrauchsverbot. Das erweist sich im Streitfall deshalb als bedeutsam, weil die Preissystematik innerhalb des Trassenpreissystems des Beklagten und damit die Vollkostenaufschläge für die unterschiedlichen Verkehrsleistungen und Marktsegmente in dem hier maßgeblichen Zeitraum keiner wirksamen Überprüfung durch die Bundesnetzagentur unterzogen worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(c) Wie das Berufungsgericht zutreffend festgestellt hat, entspricht das Trassenpreissystem der Beklagten diesen Anforderungen nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(aa) Das Berufungsgericht hat angenommen, dass sich die Entgeltberechnung am Maßstab der von der Beklagten gewählten Kategorien, der in Ansatz gebrachten Kategoriepreise und der darauf bezogenen Produktfaktoren mit den gesetzlichen Berechnungsgrundsätzen nicht in Übereinstimmung bringen lasse. Dies sei auch verschiedenen Verlautbarungen der Bundesnetzagentur zu entnehmen. Die Beklagte habe zur Berechnung der Trassenpreise in der Klageerwiderung vorgetragen, dass zunächst die Kosten für die Erbringung der Pflichtleistungen prognostiziert worden seien und sodann unter Berücksichtigung der angenommenen Mengengerüste und der Markttragfähigkeiten der einzelnen Verkehrsarten die einzelnen Preise festgelegt worden seien. Das lasse jedoch eine den gesetzlichen Anforderungen genügende Preisbildung nicht erkennen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(bb) Gegen diese Annahme wendet sich die Revision ohne Erfolg. Sie macht geltend, das Berufungsgericht habe sich bei seiner Beurteilung des Trassenpreissystems nicht auf Aktennotizen der Bundesnetzagentur stützen dürfen. Mit diesem Einwand vermag die Revision nicht durchzudringen. Ungeachtet der Frage, welche Rechtsqualität den in Bezug genommenen Verlautbarungen der Bundesnetzagentur beizumessen ist und ob der Beklagten insoweit verwaltungsgerichtlicher Rechtschutz zur Verfügung stand, zeigt die Revision jedenfalls nicht auf, dass die Einschätzungen der Bundesnetzagentur, das Trassenpreissystem der Beklagten verstoße gegen die in § 14 Abs. 4 AEG aF niedergelegten Entgeltgrundsätze, in tatsächlicher oder rechtlicher Hinsicht unzutreffend waren. Insbesondere vermag sie den von der Klägerin vorgelegten Ausführungen der Bundesnetzagentur nichts entgegenzusetzen, wonach die Beklagte weder die Kosten des unmittelbaren Zugbetriebs noch die Bildung marktsegmentspezifischer Aufschläge und zudem keiner Berechnungsmethodik für die einzelnen Entgelte habe darlegen können (Anlage K 111, S. 2). Die Revision beschränkt sich zur weiteren Erläuterung darauf, die einzelnen Streckenkategorien nach ihren unterschiedlichen Ausstattungsmerkmalen darzustellen. Im Hinblick auf den als zusätzliches Preisbildungselement fungierenden Produktfaktor trägt sie vor, dass mit diesem Faktor die unterschiedlichen Tragfähigkeiten von Verkehren abgebildet würden. Sie seien nicht allein das Ergebnis einer Kostenbetrachtung, sondern einer gesamthaften Optimierung unter Berücksichtigung der Marktverträglichkeit. Auch dieses allgemein gehaltene Vorbringen lässt nicht erkennen, nach welchen konkreten Maßstäben sich die Beklagte bei der Bemessung der Produktfaktoren hat leiten lassen, wie sie die Markttragfähigkeit der einzelnen Segmente bestimmt hat und welche Kriterien sie dabei in Ansatz gebracht hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Im Übrigen deckt sich das Ergebnis der Würdigung des Trassenpreissystems durch das Berufungsgericht mit der Einschätzung der Monopolkommission. Diese hat in ihren Sondergutachten nach § 36 AEG aF stets darauf hingewiesen, dass die Preisbildung innerhalb des bis zur Fahrplanperiode 2016/2017 geltenden Trassenpreissystems intransparent sei und der gesetzlichen Systematik nicht entspreche. Es sei insbesondere nicht klar, inwieweit einzelne Komponenten auf Grundlage der Kosten, der Nachfragesteuerung oder der Tragfähigkeit gebildet würden. Zudem sei eine Entgeltbildung aus Grenzkosten zuzüglich systematisch und konsistent aufgeteilter Kostenzuschläge nicht erkennbar (vgl. nur Monopolkommission, Sondergutachten 69, Bahn 2015: Wettbewerbspolitik aus der Spur?, Rn. 43 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(cc) Vor diesem Hintergrund erschließt sich ohne Weiteres, dass dem Umstand, dass die Bundesnetzagentur im Rahmen der Vorabprüfung der in Rede stehenden Entgelte nach § 14e AEG aF keinen Widerspruch erhoben hat, keine indizielle Bedeutung für die Rechtmäßigkeit der geforderten Trassenentgelte beizumessen ist (vgl. BGH, WRP 2021, 1184 Rn. 31 - Stornierungsentgelt II). Wie die Bundesnetzagentur in ihrem Bescheid vom 6. Februar 2017 über die Genehmigung der Entgelte für das Mindestzugangspaket der Netzfahrplanperiode 2017/2018 (Az. BK10-16-0008<span style="text-decoration:underline"> </span>E, S. 7) ausgeführt hat, hing die Ausübung des Widerspruchrechts von dem behördlichen Ermessen ab und war der Verzicht auf die Ausübung des Rechts keiner Anerkennung der Rechtmäßigkeit gleichzusetzen (S. 7: aufgrund der mit vier Wochen "relativ kurz" bemessenen Prüfpflicht habe die Behörde von ihrem Widerspruchsrecht nur in Bezug auf einzelne Entgeltkomponenten Gebrauch gemacht).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(d) Das Berufungsgericht ist im Ergebnis auch mit Recht davon ausgegangen, dass das beanstandete Verhalten geeignet ist, die Klägerin auf dem nachgelagerten Markt für das Angebot von Dienstleistungen im Schienenpersonenfernverkehr zu behindern. Anders als das Berufungsgericht angenommen hat, kann allerdings die fehlende Übereinstimmung des in Rede stehenden Trassenpreissystems mit den Entgeltgrundsätzen nach § 14 Abs. 4 Satz 2 ff. AEG ff. einen Verstoß gegen das aus Art. 102 Abs. 1 AEUV folgende Missbrauchsverbot begründen, ohne dass es im Streitfall näherer Feststellungen im Hinblick auf die Wirkungen der Einzelpreise des Trassenpreissystems bedarf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(aa) Nach der Rechtsprechung des Gerichtshofs der Europäischen Union kann eine Beeinträchtigung des Handels zwischen den Mitgliedstaaten zwar nur dann vorliegen, wenn sich aufgrund einer Gesamtheit objektiver rechtlicher und tatsächlicher Umstände mit hinreichender Wahrscheinlichkeit voraussehen lässt, dass das in Frage stehende Verhalten unmittelbar oder mittelbar, tatsächlich oder potenziell den Handel zwischen Mitgliedstaaten in einer Weise beeinflussen kann, die der Verwirklichung der Ziele eines einheitlichen zwischenstaatlichen Marktes nachteilig sein kann (EuGH, Urteil vom 1. Juli 2008 - C-49/07, EuZW 2008, 605 Rn. 39 - MOTOE). Rein hypothetische oder spekulative Auswirkungen, die das Verhalten des Unternehmens in einer beherrschenden Stellung haben kann, erfüllen die Voraussetzungen des Missbrauchstatbestands nicht (EuGH, Urteil vom 21. Januar 1999 - C-215/96, Slg. 1999, I-135 Rn. 60 - Bagnasco; EnZW 2008, 605 Rn. 39 - MOTOE). Nicht erforderlich ist es aber, dass eine behindernde Wirkung konkret eintritt oder dass eine tatsächliche und quantifizierbare Verschlechterung der Wettbewerbsstellung einzelner Handelspartner nachgewiesen wird. Vielmehr genügt der Nachweis einer potenziellen wettbewerbswidrigen Wirkung (EuGH, WuW 2013, 427 Rn. 112 - AstraZeneca/Kommission; EuZW 2007, 306 Rn. 145 - British Airways/Kommission; WuW 2018, 320 Rn. 27 - Meo). Eine Spürbarkeits- oder Bagatellschwelle gilt wegen der ernsten Gefahr weitergehender Schwächung eines ohnehin durch die gegebene Marktbeherrschung bereits geschwächten Wettbewerbs bei der Feststellung möglicher nachteiliger Wirkungen nicht (EuGH, Urteile vom 13. Februar 1979 - C-85/76, Slg. 1979, 461 Rn. 123 - Hoffmann-La Roche/Kommission; vom 6. Oktober 2015 - C-23/14, NZKart 2015, 476 Rn. 73 - Post Danmark; WuW 2018, 320 Rn. 29 - Meo; s.a. Mestmäcker/Schweitzer, Europäisches Wettbewerbsrecht, 3. Aufl. § 16 Rn. 46).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(bb) Nach diesen Voraussetzungen wird das Berufungsgericht auf Grundlage der bislang getroffenen Feststellungen auch im wiederöffneten Berufungsrechtszug eine hinreichend konkrete Behinderungswirkung annehmen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Grundlage für einen funktionsfähigen und unverfälschten Wettbewerb zwischen den Anbietern von Eisenbahnverkehrsleistungen, die auf die Nutzung der von der Beklagten beherrschten Schieneninfrastruktur angewiesen sind, ist ein transparentes, widerspruchsfreies und nachvollziehbares Preissystem. Dem entspricht es, dass die Richtlinie 2001/14/EG davon ausgeht, dass die Betreiber der Schieneninfrastruktur dafür Sorge tragen, dass die Anwendung der Entgeltregelungen zu gleichwertigen und nichtdiskriminierenden Entgelten für unterschiedliche Eisenbahnunternehmen führen, die gleichartige Leistungen erbringen (vgl. Art. 4 Abs. 5 Richtlinie 2001/14/EG). Ebenso fordert Art. 8 Abs. 1 Richtlinie 2001/14/EG, dass unterschiedliche Vollkostenaufschläge für unterschiedliche Verkehrsleistungen nach effizienten, transparenten und nichtdiskriminierenden Grundsätzen erfolgen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Dies trägt zum einen dem Umstand Rechnung, dass die unternehmerischen Entscheidungen der zugangsberechtigten Eisenverkehrsunternehmen über den Markteintritt und das Angebot neben der konkreten Ausgestaltung des Zugangs maßgeblich von dem Preissystem des Infrastrukturbetreibers abhängt. Insofern hebt Erwägungsgrund 35 der Richtlinie 2001/14/EG hervor, dass jede Entgeltregelung wirtschaftliche Signale setzt und die Signale daher widerspruchsfrei sein und die Nutzer zu rationalen Entscheidungen veranlassen soll. Insofern hat der marktbeherrschende Infrastrukturbetreiber, der mit der Ausgestaltung der Zugangsbedingungen, insbesondere der Entgelte, die Parameter für den Wettbewerb setzt, eine besondere Verantwortung für den von ihm beherrschten Markt sowie mittelbar für die Märkte, auf denen die Zugangsberechtigten ihre Dienstleistungen anbieten und auf Vorleistungen des Inhabers der Infrastruktur angewiesen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Zum anderen ist ein transparentes und nachvollziehbares Entgeltsystem unabdingbare Voraussetzung dafür, dass sowohl die Zugangsberechtigten als auch die zuständige Regulierungsbehörde sachwidrige Behinderungen, Quersubventionierungen, versteckte Diskriminierungen oder Ausbeutungssachverhalte erkennen können (vgl. Monopolkommission, Sondergutachten 69, Rn. 44; Säcker in Festschrift Kühne, 2009, S. 297, 302 f.). In diesem Sinn hat auch die Bundesnetzagentur darauf hingewiesen, dass das hier maßgebliche, keiner erkennbaren Logik folgende Preissystem der Beklagten abstrakte Vergleichsbetrachtungen ausschließe und sich die Auswirkungen auf den Wettbewerb erst durch Vergleich mit einem nach gesetzlichen Vorgaben gebildeten Preissystem feststellen ließen (Anlage K 111, S. 2). Die danach geforderte Transparenz der Preisbildung gewinnt angesichts der erheblichen Missbrauchspotentiale, die mit dem Grad der Marktbeherrschung durch den Betreiber einer wesentlichen Infrastruktureinrichtung sowie einer möglichen vertikalen Integration von Netzinfrastruktur und nachgelagerten Dienstleistungen innerhalb eines Konzern einhergehen (Mestmäcker/Schweitzer, Europäisches Wettbewerbsrecht, 3. Aufl. § 19 Rn. 98), besondere Bedeutung. Ihr kommt für die hier in Rede stehenden Vollkostenaufschläge durch Zuschlüsselung von Fix- und Gemeinkosten auf unterschiedliche Verkehrsleistungen und Marktsegmente auch deswegen besonderes Gewicht zu, weil es sich dabei um einen wesentlichen und wettbewerblich besonders relevanten Preisbestandteil handelt, für dessen Berechnung sich dem Regulierungsrecht - sowohl der Richtlinie 2001/14/EG als auch § 14 Abs. 4 AEG aF - nur sehr allgemein gehaltene Vorgaben entnehmen lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Wendet vor diesem Hintergrund ein marktbeherrschendes Unternehmen - das über eine wesentliche Infrastruktureinrichtung verfügt und damit in der Lage ist, die Bedingungen des Wettbewerbs auf den nachgelagerten Märkten maßgeblich zu definieren - ein intransparentes Preisbildungssystem an, das sich einer rationalen Begründung in weiten Teilen entzieht und nicht der gesetzlichen Preisbildungssystematik entspricht, kann die von Art. 102 Abs. 1 AEUV vorausgesetzte Eignung zur Behinderung bereits darin liegen, dass es auf diese Weise die Funktionsbedingungen des Wettbewerbs auf den nachgelagerten Märkten insgesamt verfälscht. Da sich das beanstandete Verhalten in diesem Fall unmittelbar auf die Kosten einer wesentlichen Vorleistung und damit auf einen kritischen Wettbewerbsparameter für die Funktionsfähigkeit der nachgelagerten Märkte bezieht, kann angesichts der vorstehend genannten (oben Rn. 47) erheblichen Missbrauchspotenziale bereits von einer hinreichend konkreten Gefahr ausgegangen werden, dass dieses Verhalten die Bedingungen für einzelne Marktteilnehmer nachteilig beeinflusst oder den Zugang zum Markt verhindert oder erschwert. Hinzu kommt, dass die Unsicherheiten, die mit der Feststellung der wettbewerblichen Wirkungen eines bestimmten Verhaltens im Allgemeinen und eines intransparenten Preissystems im Besonderen verbunden sind, nicht zu Lasten der zugangsberechtigten Nutzer der Infrastruktur gehen dürfen, sondern im Verantwortungsbereich des Betreibers der Infrastruktur liegen, der ein in Widerspruch zum Regulierungsrecht stehendes und damit rechtswidriges System anwendet (vgl. in diesem Sinne bereits BGH, Urteil vom 10. Februar 2021 - KZR 63/18, BGHZ 229, 120 Rn. 41 - Schienenkartell VI). Es ist daher keineswegs ausgeschlossen, dass der Tatrichter einem solchen Verstoß gegen grundlegende - weil den Wettbewerbsprozess eröffnende - regulierungsrechtliche Preisbildungsvorschriften im Rahmen der nach § 286 ZPO vorzunehmenden Tatsachenfeststellung eine erhebliche Indizwirkung beimisst, sich bereits aufgrund des intransparenten Preissetzungsverhaltens des marktbeherrschenden Unternehmens eine Überzeugung vom Vorliegen eines missbräuchlichen Verhaltens bildet und es sodann Sache des Infrastrukturbetreibers sein kann, nachteilige wettbewerbliche Wirkungen dieses Preissystems auszuschließen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Für eine solche Wettbewerbsneutralität des Preissystems des Beklagten ist im Streitfall jedoch nichts ersichtlich. Das Berufungsgericht ist vielmehr zutreffend davon ausgegangen, dass die Klägerin bei der Erbringung von Charterverkehren mit einem Schwesterunternehmen der Beklagten, der DB Fernverkehr AG, im Wettbewerb steht, das Dienstleistungen des fahrplanmäßigen Schienenpersonenfernverkehrs anbietet. Insbesondere für diejenigen Fahrgäste, die zielorientierte Angebote nachfragen, kann sich das Angebot des Regelverkehrs als Substitut für die von der Klägerin angebotenen Charterverkehre darstellen. Soweit die Beklagte darauf verweist, dass die Klägerin von den günstigeren Preisen der Kategorie "Personenverkehrs-Economy-Trassen (PE)" profitiert habe und eine Benachteiligung deshalb ausgeschlossen sei, wird ihr die Rechtfertigung ihres Preisverhaltens damit nicht gelingen können, weil auch dieser vermeintlich günstigere Kategoriepreis Teil des insgesamt intransparenten, sich einer inneren Logik entziehenden Preissystems ist und daher keinen geeigneten Vergleichsmaßstab bildet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>d) Das Berufungsgericht hat schließlich - für die Zwecke des Erlasses eines Grundurteils - folgerichtig festgestellt, dass der Beklagten zumindest irgendein Schaden entstanden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>aa) Die Feststellung des für die Schadensberechnung maßgeblichen Preises, den die Klägerin ohne das missbräuchliche Verhalten der Beklagten gezahlt hätte, kann nur aufgrund von Indizien getroffen werden, weil der missbrauchsfreie hypothetische Wettbewerbspreis ebenso wie der kartellfreie hypothetische Wettbewerbspreis (vgl. BGH, Urteil vom 28. Januar 2020 - KZR 24/17, BGHZ 224, 281 Rn. 34 - Schienenkartell II) nicht beobachtet werden kann. Weitere Schwierigkeiten ergeben sich bei der Schadensfeststellung daraus, dass die Preise, die auf monopolartigen Infrastrukturmärkten gefordert werden und die - wie im Streitfall - keiner wirksamen Regulierung unterliegen, im Allgemeinen nur äußerst unvollkommene Anhaltspunkte für den Wettbewerbspreis bieten. Insofern sind in erster Linie und soweit verfügbar solche Marktergebnisse als Vergleichsmaßstab heranzuziehen, die das Ergebnis einer wirksamen behördlichen Preisregulierung bilden. Denn Ziel einer solchen Preisregulierung ist typischerweise die Annäherung der zulässigen Entgelte an einen wettbewerbsanalogen Preis. Insofern kann auch auf Regulierungsergebnisse in Zeitabschnitten zurückgegriffen werden, die dem Missbrauch nachfolgen (BGH, WRP 2021, 1184 Rn. 24 - Stornierungsentgelte II). Dies gilt jedenfalls dann, wenn die maßgeblichen gesetzlichen Entgeltbestimmungen, die in den unterschiedlichen Zeiträumen gelten, im Wesentlichen übereinstimmende Regulierungsziele verfolgen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>bb) Vor diesem Hintergrund begegnet es keinen Bedenken, dass sich das Berufungsgericht im Ausgangspunkt auf das von der Bundesnetzagentur geprüfte und genehmigte TPS 2017/2018 gestützt hat, das ein gesondertes Marktsegment "Charterverkehr/Nostalgie" ausweist. Die der Regulierung nach § 34 ERegG zugrunde liegenden Entgeltbestimmungen unterscheiden sich nicht wesentlich von denen des § 14 Abs. 4 AEG aF, die für die Preisbildung der Beklagten in dem hier maßgeblichen Zeitpunkt galten (näher: dazu Otte/Kirchhartz in Kühling/Otte, AEG/ERegG, § 34 ERegG Rn. 27 ff. mwN). Auch die unionsrechtlichen Vorgaben an die Entgeltberechnung sind im Wesentlichen unverändert geblieben (ebd. Rn. 28; vgl. Art. 32 Richtlinie 2012/34/EU des Europäischen Parlaments und des Rates vom 21. November 2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Nicht zu beanstanden ist auch die Annahme des Berufungsgerichts, dass sowohl das von der Beklagten in diesem Marktsegment zur Genehmigung be-antragte Entgelt von 2,46 € pro Trassenkilometer als auch das von der Bundesnetzagentur - allerdings noch nicht bestandskräftig - genehmigte Entgelt von 2,05 € pro Trassenkilometer unter Berücksichtigung einer inflationsbedingten Preissteigerung im Vergleich zu dem im Streitfall in Rede stehenden Zeitraum günstiger ausfielen, wobei das von der Bundesnetzagentur genehmigte Entgelt rückgerechnet um rund ein Drittel unter dem tatsächlich gezahlten Entgelt liege.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>cc) Die vom Berufungsgericht nach Wiedereröffnung des Berufungsverfahrens vorzunehmende Bemessung der Schadenshöhe wird sich nach den Maßstäben des § 287 ZPO zu richten haben, in dessen Anwendungsbereich der Tatrichter besonders freigestellt (vgl. näher BGH, BGHZ 224, 281 Rn. 35 ff. - Schienenkartell II) und bei dessen Anwendung - ähnlich wie bei der Feststellung der näheren wettbewerblichen Wirkungen des intransparenten Preisverhaltens (vgl. oben Rn. 48) - zu berücksichtigen ist, dass die Unsicherheiten, die mit der Schadensermittlung verbunden sind, in den Risikobereich des missbräuchlich agierenden marktbeherrschenden Unternehmens fallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht wird in diesem Zusammenhang zu erwägen haben, inwieweit es dem von der Regulierungsbehörde für das TPS 2017/18 genehmigten Entgelt in Höhe von 2,05 € pro Trassenkilometer für das Segment "Charterverkehr/Nostalgie" bereits eine hinreichende Indizwirkung beimisst oder ob es den weiteren Fortgang des verwaltungsgerichtlichen Verfahrens abwartet. Eine Pflicht zur Aussetzung des zivilrechtlichen Verfahrens bis zur endgültigen Bestandskraft der regulierungsbehördlichen Entgeltgenehmigung besteht jedenfalls dann nicht, wenn aufgrund der in Rechnung zu stellenden verwaltungsgerichtlichen Verfahrensdauer die Ausübung der durch das Unionsrecht verliehenen Rechte - im Widerspruch zur Rechtsprechung des Unionsgerichtshofs - praktisch unmöglich gemacht oder zumindest übermäßig erschwert würde (BGH, WuW 2020, 209 Rn. 47 - Trassenentgelte).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>dd) Soweit die Revision geltend macht, die Klägerin habe einen Schaden deshalb nicht schlüssig vorgetragen, weil sie eingeräumt habe, die Trassenpreise vollständig in ihre eigenen Angebote eingepreist zu haben, und aus diesem Grund ein etwaiger Schaden für die Klägerin nur ein durchlaufender Posten sei, vermag sie damit nicht durchzudringen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Der Einwand der Schadensabwälzung kann zwar nach den Grundsätzen der Vorteilsausgleichung zu berücksichtigen sein (vgl. BGH, Urteil vom 23. September 2020 - KZR 4/19, WuW 2021, 37 Rn. 35 ff. - Schienenkartell V). Eine vollständige Weitergabe der überhöhten Trassenentgelte ist - anders als die Revision meint - zwischen den Parteien allerdings nicht unstreitig. Derartiges hat die Klägerin nicht eingeräumt. Sie hat lediglich vorgetragen, dass das beanstandete Verhalten Einfluss auf ihre Kosten und Gewinne habe und sich unmittelbar auf die Preiskalkulation gegenüber den Endkunden und ihre Ertragsmargen auswirke.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Ungeachtet dessen wird das Berufungsgericht im wiedereröffneten Berufungsverfahren gegebenenfalls zu erwägen haben, ob der Einwand der Schadenswälzung deshalb ausgeschlossen ist, weil die Anrechnung etwaiger Mehrerlöse, die der Klägerin möglicherweise zugeflossen sind, zu einer unbilligen Entlastung der Beklagten führen würde (vgl. BGH, WuW 2021, 37 Rn. 54 ff. - Schienenkartell V).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kirchhoff     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Tolkmitt</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Picker     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE302792021&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

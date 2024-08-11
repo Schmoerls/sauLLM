@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301112017</doknr>
+   <ecli>ECLI:DE:BGH:2016:241116UIZR220.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>1. Zivilsenat</spruchkoerper>
+   <entsch-datum>20161124</entsch-datum>
+   <aktenzeichen>I ZR 220/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 97 Abs 1 S 1 UrhG, § 97a  UrhG vom 07.07.2008</norm>
+   <vorinstanz>vorgehend LG Hamburg, 29. September 2015, Az: 310 S 3/15, Urteil<br/>vorgehend AG Hamburg, 9. Januar 2015, Az: 36a C 40/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Haftung des Inhabers eines Internetanschlusses mit WLAN-Funktion für Urheberrechtsverletzungen Dritter: Pflicht zur Überprüfung der Sicherheit des verwendeten Routers; Anforderungen an die Passwortsicherheit; sekundäre Darlegungslast des Anschlussinhabers zu den getroffenen Sicherheitsvorkehrungen - WLAN-Schlüssel</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>WLAN-Schlüssel</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Inhaber eines Internetanschlusses mit WLAN-Funktion ist nach den Grundsätzen der Störerhaftung zur Prüfung verpflichtet, ob der verwendete Router über die im Zeitpunkt seines Kaufs für den privaten Bereich marktüblichen Sicherungen verfügt. Hierzu zählt der im Kaufzeitpunkt aktuelle Verschlüsselungsstandard sowie die Verwendung eines individuellen, ausreichend langen und sicheren Passworts (Festhaltung an BGH, Urteil vom 12. Mai 2010, I ZR 121/08, BGHZ 185, 330 Rn. 34 - Sommer unseres Lebens).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein aus einer zufälligen 16-stelligen Ziffernfolge bestehendes, werkseitig für das Gerät individuell voreingestelltes Passwort genügt den Anforderungen an die Passwortsicherheit. Sofern keine Anhaltspunkte dafür bestehen, dass das Gerät schon im Kaufzeitpunkt eine Sicherheitslücke aufwies, liegt in der Beibehaltung eines solchen werkseitig eingestellten Passworts kein Verstoß gegen die den Anschlussinhaber treffende Prüfungspflicht (Fortführung von BGH, 12. Mai 2010, I ZR 121/08, BGHZ 185, 330 Rn. 34 - Sommer unseres Lebens).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Dem vom Urheberrechtsinhaber gerichtlich in Anspruch genommenen Anschlussinhaber obliegt eine sekundäre Darlegungslast zu den von ihm bei der Inbetriebnahme des Routers getroffenen Sicherheitsvorkehrungen, der er durch Angabe des Routertyps und des Passworts genügt. Für die Behauptung, es habe sich um ein für eine Vielzahl von Geräten voreingestelltes Passwort gehandelt, ist der Kläger darlegungs- und beweispflichtig.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision gegen das Urteil des Landesgerichts Hamburg - Zivilkammer 10 - vom 29. September 2015 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist Inhaberin von Verwertungsrechten an dem Film "T. E.      ". Die Beklagte wohnte in einem Mehrfamilienhaus und betrieb mithilfe eines Routers des Typs "Alice Modem WLAN 1421" einen Internetzugang mittels WLAN (Wireless Local Area Network). Dieser war zu einem Zeitpunkt zwischen Februar und Mai 2012 eingerichtet worden. Der Router war mit einem vom Hersteller vergebenen, auf der Rückseite der Verpackung des Routers aufgedruckten WPA2-Schlüssel gesichert, der aus 16 Ziffern bestand. Diesen Schlüssel hatte die Beklagte bei der Einrichtung des Routers nicht geändert. Den Namen des Routers, mit dem ihr Netz angezeigt wurde, hatte sie auf "O.  " ändern lassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Eine den Film "T. E.      " enthaltende Datei wurde im November und Dezember 2012 an drei Tagen zu fünf verschiedenen Zeitpunkten über den Internetanschluss der Beklagten in einer Internettauschbörse zum Download angeboten. Zwischen den Parteien ist unstreitig, dass dieses Angebot durch einen unbekannten Dritten vorgenommen wurde, der sich unberechtigten Zugang zum WLAN der Beklagten verschafft hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ließ die Beklagte am 7. Juni 2013 anwaltlich abmahnen und verlangte Schadensersatz und Kostenerstattung. Die Beklagte gab daraufhin eine Unterlassungsverpflichtung ab, leistete aber keine Zahlung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat erstinstanzlich Abmahnkosten in Höhe von 755,80 € sowie Schadensersatz in Höhe von 400 € verlangt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Amtsgericht hat die Klage abgewiesen (AG Hamburg, CR 2015, 335). Mit ihrer Berufung, die das Landgericht zurückgewiesen hat (LG Hamburg, Urteil vom 29. September 2015 - 310 S 3/15, juris), hat die Klägerin allein den Anspruch auf Erstattung der Abmahnkosten weiterverfolgt. Mit ihrer vom Berufungsgericht zugelassenen Revision, deren Zurückweisung die Beklagte beantragt, verfolgt die Klägerin den Anspruch auf Zahlung von Abmahnkosten weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Berufungsgericht hat angenommen, der Klägerin stehe der geltend gemachte Anspruch auf Abmahnkostenerstattung nach § 97a Abs. 1 UrhG aF nicht zu. Zur Begründung hat es ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Voraussetzungen einer Haftung der Beklagten als Störerin lägen nicht vor. Die Beklagte habe keine Prüfungspflichten verletzt. Ein Verstoß gegen Prüfungspflichten liege weder darin, dass die Beklagte den werkseitig vergebenen WLAN-Schlüssel für die WPA2-Verschlüsselung beibehalten habe, noch darin, dass sie diesen nicht selbst geändert habe. Ein 16-stelliger WLAN-Schlüssel sei generell hinreichend sicher. Anhaltspunkte dafür, dass der voreingestellte Code unsicher gewesen sei, hätten für die Beklagten im Zeitpunkt der behaupteten Verletzungshandlung nicht bestanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Die hiergegen gerichtete Revision der Klägerin ist unbegründet. Das Berufungsgericht hat rechtsfehlerfrei angenommen, dass die Voraussetzungen eines Anspruchs gemäß § 97a Abs. 1 UrhG aF nicht vorliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Auf den mit der Klage geltend gemachten Anspruch auf Erstattung von Abmahnkosten ist § 97a UrhG in der bis zum 8. Oktober 2013 geltenden Fassung anzuwenden. Die durch das Gesetz über unseriöse Geschäftspraktiken vom 1. Oktober 2013 (BGBl I, S. 3714) mit Wirkung ab dem 9. Oktober 2013 eingeführten Neuregelungen zur Wirksamkeit der Abmahnung und zur Begrenzung der erstattungsfähigen Kosten nach § 97a Abs. 2 und 3 Satz 2 und 3 UrhG nF gelten erst für Abmahnungen, die nach Inkrafttreten des Gesetzes über unseriöse Geschäftspraktiken ausgesprochen worden sind. Für den Anspruch auf Erstattung von Abmahnkosten kommt es auf die Rechtslage zum Zeitpunkt der Abmahnung an (vgl. zu § 97a Abs. 1 Satz 2 UrhG aF BGH, Urteil vom 28. September 2011 - I ZR 145/10, ZUM 2012, 34 Rn. 8, mwN; Urteil vom 8. Januar 2014 - I ZR 169/12, BGHZ 200, 76 Rn. 11 - BearShare; Urteil vom 11. Juni 2015 - I ZR 75/14, GRUR 2016, 191 Rn. 58 = WRP 2016, 73 - Tauschbörse III; Urteil vom 12. Mai 2016 - I ZR 1/15, GRUR 2016, 1275 Rn. 19 = WRP 2016, 1525 - Tannöd).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Nach § 97a Abs. 1 Satz 1 UrhG aF soll der Verletzte den Verletzer vor Einleitung eines gerichtlichen Verfahrens auf Unterlassung abmahnen und ihm Gelegenheit geben, den Streit durch Abgabe einer mit einer angemessenen Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen. Soweit die Abmahnung berechtigt ist, kann der Ersatz der erforderlichen Aufwendungen verlangt werden. Danach besteht ein Anspruch auf Abmahnkostenersatz, wenn die Abmahnung begründet gewesen ist, ihr also ein materieller Unterlassungsanspruch zugrunde gelegen hat. Darüber hinaus muss die Abmahnung wirksam und erforderlich sein, um dem Unterlassungsschuldner einen Weg zu weisen, den Unterlassungsgläubiger ohne Inanspruchnahme der Gerichte klaglos zu stellen (BGH, Urteil vom 21. Januar 2010 - I ZR 47/09, GRUR 2010, 354 Rn. 8 = WRP 2010, 525 - Kräutertee; Urteil vom 19. Mai 2010 - I ZR 140/08, GRUR 2010, 1120 Rn. 16 = WRP 2010, 1495 - Vollmachtsnachweis; Urteil vom 11. Juni 2015 - I ZR 7/14, GRUR 2016, 184 Rn. 55 ff. = WRP 2016, 66 - Tauschbörse II; Kefferpütz in Wandtke/Bullinger, Urheberrecht, 4. Aufl., § 97a UrhG Rn. 50; Dreier/Specht in Dreier/Schulze, UrhG, 5. Aufl., § 97a Rn. 8). Im Streitfall steht der Klägerin kein Unterlassungsanspruch gegen die Beklagte zu, weil die Voraussetzungen der Störerhaftung - eine täterschaftliche Haftung steht nicht in Rede - nicht vorliegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>a) Als Störer kann bei der Verletzung absoluter Rechte auf Unterlassung in Anspruch genommen werden, wer - ohne Täter oder Teilnehmer zu sein - in irgendeiner Weise willentlich und adäquat-kausal zur Verletzung des geschützten Rechts beiträgt. Dabei kann als Beitrag auch die Unterstützung oder Ausnutzung der Handlung eines eigenverantwortlich handelnden Dritten genügen, sofern der in Anspruch Genommene die rechtliche und tatsächliche Möglichkeit zur Verhinderung dieser Handlung hatte. Da die Störerhaftung nicht über Gebühr auf Dritte erstreckt werden darf, die weder als Täter noch als Teilnehmer für die begangene Urheberrechtsverletzung in Anspruch genommen werden können, setzt die Haftung als Störer nach der Rechtsprechung des Senats die Verletzung zumutbarer Verhaltenspflichten, insbesondere von Prüfpflichten voraus. Ob und inwieweit dem als Störer in Anspruch Genommenen eine Verhinderung der Verletzungshandlung des Dritten zuzumuten ist, richtet sich nach den jeweiligen Umständen des Einzelfalls unter Berücksichtigung seiner Funktion und Aufgabenstellung sowie mit Blick auf die Eigenverantwortung desjenigen, der die rechtswidrige Beeinträchtigung selbst unmittelbar vorgenommen hat (BGH, Urteil vom 12. Mai 2010 - I ZR 121/08, BGHZ 185, 330 Rn. 19 - Sommer unseres Lebens; BGHZ 200, 76 Rn. 22 - BearShare; BGH, Urteil vom 26. November 2015 - I ZR 174/14, GRUR 2016, 268 Rn. 21 = WRP 2016, 341 - Störerhaftung des Access-Providers; Urteil vom 12. Mai 2016 - I ZR 86/15, GRUR 2016, 1289 Rn. 11 = WRP 2016, 1522 - Silver Linings Playbook).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>b) Das Berufungsgericht hat angenommen, die Beklagte habe keine Prüfungspflichten verletzt. Ihr Router habe über den zur Abwehr unberechtigter Zugriffe generell geeigneten Sicherungsstandard WPA2 verfügt. Die Beklagte habe nicht deshalb gegen Prüfungspflichten verstoßen, weil sie den werkseitig vergebenen, aus 16 Ziffern bestehenden WLAN-Schlüssel beibehalten habe. Es sei nicht festzustellen, dass es sich um einen nicht individualisierten WLAN-Schlüssel gehandelt habe, der werkseitig auch für andere Geräte desselben Herstellers vergeben worden sei. Die Beklagte sei der ihr insoweit obliegenden sekundären Darlegungslast zu den von ihr ergriffenen Sicherungsmaßnahmen nachgekommen, indem sie den Hersteller, Typ und verwendeten WLAN-Schlüssel ihres Routers benannt habe. Die Klägerin habe keinen Beweis dafür angeboten, dass es sich bei diesem Schlüssel um ein nicht allein für dieses Gerät, sondern auch für andere Geräte vergebenes Passwort gehandelt habe. Die Beklagte habe ferner keine Prüfungspflicht verletzt, weil sie den vom Hersteller voreingestellten WLAN-Schlüssel nicht selbst geändert habe. Die Klägerin mache nicht geltend, dass ein Dritter den auf der Rückseite der Verpackung aufgedruckten WLAN-Schlüssel ausgespäht habe. Die von einem Dritten durch Ausnutzung einer Sicherheitslücke vorgenommene Entschlüsselung des WLAN-Codes sei der Beklagten nicht zurechenbar. Die Beklagte sei nicht verpflichtet gewesen, das Entschlüsseln des Codes durch die Einfügung von Buchstaben oder Sonderzeichen zu erschweren. Ein 16-stelliger WLAN-Schlüssel habe im Zeitpunkt der Inbetriebnahme des Routers als generell hinreichend sicher angesehen werden dürfen. Anhaltspunkte dafür, dass der voreingestellte Code unsicher gewesen sei, hätten für die Beklagten nicht bestanden. Weder sei er einem für Laien erkennbaren Muster gefolgt noch habe er einen Bezug zu persönlichen Daten der Beklagten aufgewiesen. Zudem habe die Beklagte die Netzwerkbezeichnung ihres Routers geändert, so dass ein Rückschluss auf den Routertyp und einen etwa verwendeten reinen Zahlencode nicht möglich gewesen sei. Der Hersteller habe in der Betriebsanleitung nicht zu einer Änderung des WLAN-Schlüssels aufgefordert. Hinweise darauf, dass der voreingestellte WLAN-Code des betroffenen Routertyps unbefugt entschlüsselt werden könne, seien erst im März 2014 veröffentlicht worden. Diese Beurteilung hält der rechtlichen Nachprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>c) Die Revision wendet sich ohne Erfolg gegen die Beurteilung des Berufungsgerichts, durch die Beibehaltung des werkseitig voreingestellten WLAN-Schlüssels habe die Beklagte nicht gegen die ihr obliegenden Prüfpflichten verstoßen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Rechtsprechung des Bundesgerichtshofs ist der Inhaber eines Internetanschlusses mit WLAN-Funktion verpflichtet zu prüfen, ob der verwendete Router über die im Zeitpunkt seines Kaufs für den privaten Bereich marktüblichen Sicherungen verfügt. Hierzu zählt der im Kaufzeitpunkt aktuelle Verschlüsselungsstandard sowie die Verwendung eines individuellen, ausreichend langen und sicheren Passworts (vgl. BGHZ 185, 330 Rn. 34 - Sommer unseres Lebens). In der Beibehaltung einer werkseitigen Standardsicherheitseinstellung kann somit ein Verstoß gegen die Prüfungspflicht liegen, wenn die vorgenannten Anforderungen an die Passwortsicherheit nicht erfüllt sind. Mit diesen Grundsätzen wird dem auf Seiten des Inhabers des Urheberrechts zu berücksichtigenden Grundrecht auf geistiges Eigentum gemäß Art. 17 Abs. 2 EU-Grundrechtecharta und Art. 14 Abs. 1 GG angemessen Rechnung getragen (vgl. EuGH, Urteil vom 15. September 2016 - C-484/14, GRUR 2016, 1146 Rn. 98 = WRP 2016, 1486 - Sony Music/Mc Fadden; BGH, Urteil vom 6. Oktober 2016 - I ZR 154/15, GRUR 2017, 386 Rn. 22 ff. = WRP 2017, 448 - Afterlife).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>(1) Am Erfordernis der Individualität des Passworts fehlt es, wenn der Hersteller eine Mehrzahl von Geräten auf ein identisches Passwort voreingestellt hat. In einem solchen Fall steht Dritten schon bei Kenntnis vom Typ des verwendeten Routers potentiell der Zugriff auf das WLAN offen. Hat der Hersteller hingegen jedes einzelne Gerät mit einem individuellen Passwort versehen, ist das Erfordernis der Individualität grundsätzlich gewahrt (vgl. AG Frankfurt am Main, MMR 2013, 605 mit zust. Anm. Mantz, MMR 2013, 605 und Koch, jurisPR-ITR 1/2014 Anm. 4; AG Hamburg, CR 2015, 335 mit zust. Anm. Rössel, ITRB 2015, 90, 91 und Rathsack, jurisPR-ITR 12/2015 Anm. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(2) Ein aus einer zufälligen 16-stelligen Ziffernfolge bestehendes, werkseitig individuell voreingestelltes Passwort ist im Ausgangspunkt nicht weniger sicher als ein vom Nutzer persönlich eingestelltes Passwort (vgl. AG Frankfurt am Main, MMR 2013, 605, 607; Mantz, MMR 2010, 568, 569 und MMR 2013, 605, 607). Fehlt es im Zeitpunkt des Kaufs des Routers an Anhaltspunkten, dass Dritte den werkseitig voreingestellten Code entschlüsseln konnten, weil dieser vom Hersteller fehlerhaft oder in einer Art und Weise berechnet worden ist, dass eine Sicherheitslücke bestand, verstößt der Nutzer, der die Voreinstellung übernimmt, nicht gegen die ihm obliegenden Prüfungspflichten. Dasselbe gilt, wenn keine Anhaltspunkte dafür bestehen, dass Dritte den Code aufgrund seiner Anbringung auf der Produktverpackung oder dem Produkt selbst haben ausspähen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>bb) Nach diesen Maßstäben ist das Berufungsgericht zu Recht davon ausgegangen, dass die Beklagte nicht gegen die ihr obliegenden Sicherungsmaßnahmen verstoßen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(1) Die Revision wendet sich nicht gegen die Feststellung des Berufungsgerichts, der Router der Beklagten habe über den Verschlüsselungsstandard WPA2 verfügt. Der WPA2-Standard ist als hinreichend sicher anerkannt (vgl. BGHZ 185, 330 Rn. 33 - Sommer unseres Lebens; Schmidt in: Auer-Reinsdorff/Conrad, Handbuch IT- und Datenschutzrecht, 2. Aufl., § 3 Rn. 261).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>(2) Die Revision macht ohne Erfolg geltend, nicht die Klägerin, sondern die Beklagte trage die Darlegungs- und Beweislast dafür, dass es sich um einen individuellen WLAN-Schlüssel gehandelt habe. Das Berufungsgericht hat zutreffend ausgeführt, dass der Anspruchsteller für sämtliche Voraussetzungen des geltend gemachten Anspruchs auf Abmahnkostenerstattung die Darlegungs- und Beweislast trägt (st. Rspr.; vgl. nur BGH, Urteil vom 15. November 2012 - I ZR 74/12, GRUR 2013, 511 Rn. 32 = WRP 2013, 799 - Morpheus; Urteil vom 12. Mai 2016 - I ZR 48/15, GRUR 2016, 1280 Rn. 32 = WRP 2017, 79 - Everytime we touch). Hierzu zählt im Falle der Störerhaftung auch die Verletzung der Prüfungspflicht durch den Anspruchsgegner. Da die Frage, welche Sicherheitsvorkehrungen der Anschlussinhaber bei Inbetriebnahme seines Routers getroffen hat, außerhalb des Wahrnehmungsbereichs des Anspruchstellers liegt, ist das Berufungsgericht ebenfalls zutreffend davon ausgegangen, dass dem Anschlussinhaber insoweit eine sekundäre Darlegungslast obliegt (vgl. - zur Überlassung des Internetanschlusses zur Nutzung durch Dritte - BGHZ 200, 76 Rn. 15 ff. - BearShare; BGH, GRUR 2016, 191 Rn. 37 - Tauschbörse III; GRUR 2016, 1280 Rn. 33 - Everytime we touch). Die Beurteilung des Berufungsgerichts, die Beklagte habe durch Angabe des Routertyps und des Passworts ihrer sekundären Darlegungslast genügt, ist revisionsrechtlich nicht zu beanstanden. Dasselbe gilt für die Beurteilung des Berufungsgerichts, die Klägerin sei für die Behauptung, es habe sich um einen für eine Vielzahl von Routern vergebenes Passwort gehandelt, beweisfällig geblieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>(3) Entgegen der Ansicht der Revision ist nicht schon deshalb von einer Pflichtverletzung der Beklagten auszugehen, weil nicht feststeht, dass die Beklagte die Sicherheit der Verschlüsselung und die Individualität des WLAN-Schlüssels überhaupt geprüft hat. Gesonderter Feststellungen hierzu bedurfte es nicht, um die Verletzung von Prüfungspflichten zu verneinen, weil bereits das vom Berufungsgericht festgestellte Verhalten der Beklagten - die Übernahme des werkseitig eingestellten Codes - den anzuwendenden Prüfungspflichten genügte. Das Berufungsgericht hat angenommen, im Zeitpunkt der Inbetriebnahme des Routers habe nicht davon ausgegangen werden können, der voreingestellte Code sei nicht sicher gewesen. Das Berufungsgericht hat hierzu ausgeführt, es hätten im Zeitpunkt der Inbetriebnahme des Routers keine Anhaltspunkte dafür bestanden, dass ein 16-stelliger Zahlenschlüssel generell oder im konkreten Fall ausspähbar gewesen wäre. Die Bedienungsanleitung habe zudem keinen Hinweis darauf enthalten, das voreingestellte Passwort zu ändern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Gegen diese tatrichterliche Würdigung wendet sich die Revision ohne Erfolg. Ihr Hinweis, die Klägerin habe erstinstanzlich bestritten, dass durch die Verwendung der werkseitigen Verschlüsselung ein hohes Schutzniveau erreicht werden könne, welches den Zugriff unbefugter Dritter ausschließe, stellt die Würdigung des Berufungsgerichts nicht mit Erfolg in Frage. Die Revision vermag nicht aufzuzeigen, dass die Klägerin in erster oder zweiter Instanz substantiiert dargelegt hätte, das voreingestellte Passwort habe im Zeitpunkt des Kaufs des Routers nicht marktüblichen Sicherheitsstandards entsprochen. Mit ihrer Beanstandung, schon im Jahr 2007 habe instanzgerichtliche Rechtsprechung die Vergabe eines ausreichend langen Passworts aus einer losen Kombination von Buchstaben, Ziffern und Sonderzeichen für erforderlich und zumutbar gehalten, greift die Revision lediglich in revisionsrechtlich unbehelflicher Weise die tatrichterliche Würdigung an, für die Beklagte habe mangels besonderer Anhaltspunkte für die Unsicherheit des voreingestellten Passworts kein Anlass bestanden, das Passwort zu ändern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Welche Anforderungen an die Prüfungspflicht des Inhabers eines Internetanschlusses mit WLAN-Funktion zu stellen sind, wenn nachträglich Anhaltspunkte für eine bereits im Kaufzeitpunkt bestehende Sicherheitslücke auftreten, kann offenbleiben, weil im Streitfall solche Anhaltspunkte im Zeitpunkt der behaupteten Verletzungshandlung nicht bestanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Rüge, das Berufungsgericht habe zu Unrecht dem Umstand Bedeutung beigemessen, dass die Beklagte die Netzwerkbezeichnung des Routers in "O.  " geändert habe, dringt die Revision ebenfalls nicht durch. Zwar trifft es zu, dass diese Umbenennung in erster Linie der Individualisierung und leichteren Erkennbarkeit des Netzwerks durch den berechtigten Nutzer dienen soll. Die tatrichterliche Würdigung des Berufungsgerichts, dass die Umbenennung zugleich Dritten die Möglichkeit nimmt, den Routertyp zu erkennen und darauf abgestimmte Ausspähmechanismen anzuwenden, ist jedoch aus revisionsrechtlicher Sicht nicht zu beanstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>III. Hiernach ist die Revision der Klägerin mit der Kostenfolge aus § 97 Abs. 1 ZPO zurückzuweisen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Büscher      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schaffert      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Koch   </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schwonke      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Feddersen      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301112017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

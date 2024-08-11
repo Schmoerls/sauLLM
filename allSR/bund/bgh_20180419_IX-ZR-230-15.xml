@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304842018</doknr>
+   <ecli>ECLI:DE:BGH:2018:190418UIXZR230.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>9. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180419</entsch-datum>
+   <aktenzeichen>IX ZR 230/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 21 Abs 2 S 1 Nr 2 InsO, § 24 Abs 1 InsO, § 81 Abs 1 S 1 InsO, § 81 Abs 1 S 2 InsO, § 82 S 1 InsO, § 812 Abs 1 S 1 BGB, § 892 BGB, § 893 BGB</norm>
+   <vorinstanz>vorgehend OLG Hamm, 12. November 2015, Az: I-27 U 52/15<br/>vorgehend LG Münster, 31. März 2015, Az: 102 O 79/14<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Insolvenzverfahren: Kondizierung einer Sicherungsgrundschuld durch den Insolvenzverwalter nach Abtretung der Grundschuld an einen neuen Sicherungsnehmer; Stellung einer Grundschuld zur Absicherung eines Darlehensrückzahlungsanspruchs durch den Schuldner im Eröffnungsverfahren; Verlust der Einrede der fehlenden Valutierung der Grundschuld durch Auszahlung des Darlehens; Erweiterung des Haftungsumfangs der Grundschuld; gutgläubiger Erwerb des Grundpfandgläubigers</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Tritt ein Sicherungsnehmer eine zur Sicherung bestellte Grundschuld im Rahmen einer Umschuldung an einen neuen Sicherungsnehmer ab, kann der Verwalter im Insolvenzverfahren über das Vermögen des Sicherungsgebers die Grundschuld auch dann nicht gegenüber dem neuen Sicherungsnehmer kondizieren, wenn der Schuldner sich mit der Abtretung einverstanden erklärt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2a. Der Schuldner kann sich im Eröffnungsverfahren auch nach Anordnung eines Zustimmungsvorbehaltes im Wege eines Sicherungsvertrages wirksam verpflichten, eine Grundschuld zur Absicherung eines Darlehensrückzahlungsanspruches zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2b. Verliert der Schuldner durch die Auszahlung eines Darlehens die Einrede der fehlenden Valutierung einer Grundschuld, liegt darin keine Verfügung des Schuldners, sondern nur ein sonstiger Rechtserwerb des Gläubigers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2c. Erweitert der Schuldner nach Eintritt der Verfügungsbeschränkungen den bisherigen Haftungsumfang einer Grundschuld durch eine neue oder geänderte Sicherungsvereinbarung und ermöglicht so eine Neuvalutierung oder eine weitergehende Valutierung der Grundschuld, die nicht durch die frühere Sicherungsvereinbarung gedeckt war, liegt eine unwirksame Verfügung über einen Gegenstand der Insolvenzmasse vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Sind der Abschluss oder die Änderung eines Sicherungsvertrags als Verfügung des Schuldners unwirksam, kann sich der Gläubiger eines Grundpfandrechts nicht auf einen gutgläubigen Erwerb berufen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 27. Zivilsenats des Oberlandesgerichts Hamm vom 12. November 2015 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger ist Verwalter in dem aufgrund eines Fremdantrages vom 27. Juli 2011 am 23. Februar 2012 eröffneten Insolvenzverfahren über das Vermögen der   J.     (im Folgenden: Schuldnerin). Die Schuldnerin war Alleineigentümerin eines mit einem Wohnhaus bebauten Grundstücks. Im Grundbuch war zugunsten der   Bank         eG (im Folgenden:   Bank) eine erstrangige Buchgrundschuld in Höhe von zuletzt 123.387,56 € eingetragen. Diese sicherte am 24. November 2011 noch einen Darlehensanspruch der   Bank in Höhe von 45.220,82 €.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Am 21. Oktober 2011 schlossen die Schuldnerin und ihr Ehemann mit der Beklagten einen Darlehensvertrag über 120.000 €. Darin verpflichtete sich die Schuldnerin, der Beklagten als Sicherheit eine erstrangige Grundschuld an dem vorgenannten Grundstück zu verschaffen. Die Schuldnerin erteilte der Beklagten am 17. November 2011 eine Auskunftsvollmacht hinsichtlich der bei der  Bank bestehenden Verbindlichkeiten. Diese umfasste auch eine Ablösung der Verbindlichkeiten und die Übertragung der dafür von der Schuldnerin gestellten Sicherheiten. Am 17. November 2011 zeigte die Beklagte der  Bank unter Vorlage dieser Auskunftsvollmacht an, dass sie mit der Ablösung des Restdarlehens beauftragt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Am 24. November 2011 bestellte das Insolvenzgericht den Kläger zum vorläufigen Verwalter und ordnete zugleich an, dass Verfügungen der Schuldnerin nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind (§ 21 Abs. 2 Satz 1 Nr. 2 Fall 2 InsO). Dieser Beschluss wurde am 25. November 2011 durch Einstellung in das Internet bekanntgemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Am 7. Dezember 2011 gaben die Schuldnerin und ihr Ehemann gegenüber der Beklagten eine die erstrangige Buchgrundschuld über 123.387,56 € betreffende "Zweckerklärung (enge Fassung) mit Abtretung der Rückgewähransprüche sowie Übernahme der persönlichen Haftung" ab. Am 9. Dezember 2011 zahlte die Beklagte 45.220,82 € an die    Bank, woraufhin diese mit notariell beglaubigter Erklärung vom 15. Dezember 2011 die Grundschuld in Höhe von 123.387,56 € an die Beklagte abtrat. Am 19. Januar 2012 zahlte die Beklagte die weiteren Darlehensvaluta von 74.779,18 € in zwei Teilbeträgen aus. Aufgrund ihres Antrags vom 30. Dezember 2011 wurde die Beklagte am 20. Januar 2012 als neue Grundschuldgläubigerin in das Grundbuch eingetragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Am 24. Januar 2012 erlangte die Beklagte Kenntnis von der Anordnung der vorläufigen Insolvenzverwaltung und der Verfügungsbeschränkung gegenüber der Schuldnerin. Daraufhin kündigte sie die Darlehensvereinbarung und betrieb aus der Grundschuld die Zwangsversteigerung des Grundstücks, welche im September 2013 erfolgte. Aus dem Versteigerungserlös in Höhe von 192.247,44 € befriedigte die Beklagte ihre Ansprüche, den Überschuss in Höhe von 50.221,25 € leitete sie an nachrangige Grundpfandgläubiger weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Der Kläger verlangt von der Beklagten Zahlung des unter Anrechnung der abgelösten Darlehensverbindlichkeit gegenüber der  Bank und nach Abzug des an die nachrangigen Grundpfandgläubiger ausgekehrten Betrages verbleibenden Erlöses in Höhe von 96.805,37 € nebst Zinsen aus ungerechtfertigter Bereicherung. Das Landgericht hat die Klage abgewiesen, auf die Berufung des Klägers hat das Oberlandesgericht die Beklagte antragsgemäß verurteilt. Mit ihrer vom Senat zugelassenen Revision erstrebt die Beklagte die Wiederherstellung des klageabweisenden Ersturteils.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Revision führt zur Aufhebung des Berufungsurteils und Zurückverweisung der Sache an das Berufungsgericht zur neuen Verhandlung und Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat ausgeführt, dass dem Kläger ein Zahlungsanspruch aus ungerechtfertigter Bereicherung (§ 812 Abs. 1 Satz 1 Fall 2 BGB) zustehe, weil die Beklagte den Verwertungserlös aus der Zwangsversteigerung des Grundstückes ohne Rechtsgrund erlangt habe. Zwar habe sie die Grundschuld durch Abtretung von der    Bank am 15. Dezember 2011 spätestens mit Eintragung des Rechtserwerbs in das Grundbuch am 20. Januar 2012 wirksam erworben. Es fehle aber an einem Rechtsgrund für diesen Erwerb.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Zum einen habe die Beklagte die Grundschuld durch eine unwirksame Handlung der Schuldnerin erlangt. Entweder habe die Schuldnerin ihren Rückgewähranspruch gegenüber der   Bank durch die Grundschuld-Zweckerklärung vom 7. Dezember 2011 an die Beklagte abgetreten und hierdurch die Beklagte in die Lage versetzt, die Grundschuld auf sich überzuleiten, oder die Beklagte habe die Überleitung der Grundschuld aufgrund der "Auskunftsvollmacht" zur Ablösung von Verbindlichkeiten vom 17. November 2011 erreicht. Letzteres entspreche anfechtungsrechtlich einer Abtretung der Grundschuld durch die   Bank an die Beklagte auf Anweisung der Schuldnerin. Die Erteilung einer entsprechenden Anweisung durch die insoweit von der Beklagten vertretene Schuldnerin stelle eine unbeachtliche Verkürzung des Leistungsweges dar. Wirtschaftlich und anfechtungsrechtlich habe die Schuldnerin, der alleine ein Rückgewähranspruch gegen die  Bank zugestanden hätte, die entstehende Eigentümergrundschuld durch die Abtretung an die Beklagte zur Fremdgrundschuld werden lassen. Durch eine dieser Handlungen der Schuldnerin sei der Beklagten die Überleitung der Grundschuld ermöglicht worden, weil anderenfalls die  Bank der Schuldnerin weiterhin vertraglich verpflichtet gewesen sei. Diese Handlungen der Schuldnerin seien unwirksam, weil sie hierdurch ohne Zustimmung des vorläufigen Verwalters den der Masse zustehenden Rückgewähranspruch eingezogen habe. Die rechtlichen Wirkungen seien erst nach Anordnung des Zustimmungsvorbehalts wirksam geworden. Auf die Wirksamkeit eines etwaigen Sicherungsvertrags zwischen der Schuldnerin und der Beklagten komme es hingegen nicht an, weil diese nur zu einem schuldrechtlichen Verschaffungsanspruch führe. Dieser habe wegen der angeordneten Verfügungsbeschränkungen aber nicht mehr zu einem insolvenzfesten Sicherungsrecht führen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Zum anderen stehe der Annahme eines wirksamen Rechtsgrundes auch entgegen, dass die Auszahlung des streitgegenständlichen Teils der Darlehensvaluta an die Schuldnerin erst nach Anordnung des Zustimmungsvorbehalts erfolgt sei. Die Auszahlung am 19. Januar 2012 beruhe auf einer Verfügung der Schuldnerin, weil sie auf deren "Abruf" hin erfolgt sei. Hierdurch sei die Einrede der Nichtvalutierung beseitigt worden, so dass der Anwendungsbereich der §§ 81, 91 InsO eröffnet sei. Es komme nicht darauf an, dass § 91 InsO im Eröffnungsverfahren nicht anwendbar sei, weil eine Verfügung der Schuldnerin im Sinne des § 81 Abs. 1 InsO vorgelegen habe. Aus der Vorschrift des § 82 InsO ergebe sich nichts anderes, weil die Norm nur den guten Glauben in den Fortbestand einer Empfangszuständigkeit schütze und nicht anwendbar sei, wenn durch eine vom Schuldner getroffene Verfügung die Einziehungsbefugnis vorbehaltlich des grundbuchmäßigen Gutglaubensschutzes begründet worden sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Auf einen Schutz nach § 892 BGB könne sich die Beklagte nicht berufen, weil die rechtsgeschäftliche Erlangung der Grundschuld und die Auszahlung der Darlehensvaluta dieser Regelung weder direkt noch in entsprechender Anwendung unterfielen. § 21 Abs. 2 Satz 1 Nr. 2 InsO stelle ab dem Zeitpunkt der Bekanntmachung eine gemäß § 24 Abs. 1, § 81 Abs. 1 Satz 1 InsO absolut wirkende Verfügungsbeschränkung auf. Der Gutglaubensschutz hinsichtlich des Grundbuchs in § 81 Abs. 1 Satz 2 InsO erstrecke sich nicht auf Sicherungsgrundschulden, weil die Sicherungsabrede als Rechtsgrund für die Grundschuldbestellung nicht eintragungsfähig sei. Die Beklagte könne sich auch nicht auf die Einrede der Entreicherung (§ 818 Abs. 3 BGB) berufen, weil sie ihren Darlehensrückzahlungsanspruch gegen die Schuldnerin und deren Ehemann nicht durch Erfüllung aufgrund der Verwertung des Grundstücks verloren habe. Da sie den Erlös aufgrund einer unwirksamen Verfügung gemäß § 81 InsO rechtsgrundlos erlangt habe, gelte die ursprüngliche Forderung als fortbestehend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>B.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Dies hält rechtlicher Überprüfung in wesentlichen Punkten nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat die Grundschuld wirksam erworben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Zutreffend ist die Annahme des Berufungsgerichts, die Beklagte habe die Grundschuld sachenrechtlich wirksam erworben. Zum Erwerb einer bestehenden Buchgrundschuld ist eine Einigung zwischen dem alten und dem neuen Grundschuldgläubiger über die Abtretung der Grundschuld und die Eintragung der Rechtsänderung im Grundbuch erforderlich (§§ 1192, 1154 Abs. 3, § 873 Abs. 1 BGB; Epp in Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl., § 94 Rn. 135). Die Neuregelung des § 1192 Abs. 1a BGB hat hieran nichts geändert. Diese Voraussetzungen sind nach den Feststellungen des Berufungsgerichts erfüllt, weil die   Bank als ursprüngliche Gläubigerin der Grundschuld diese durch die notariell beglaubigte Abtretungserklärung vom 15. Dezember 2011 an die Beklagte abgetreten hat und diese Rechtsänderung in das Grundbuch eingetragen worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>2. Der Erwerb der Grundschuld ist nicht aus anderen Gründen unwirksam. Es kann insoweit dahinstehen, ob die Schuldnerin der Beklagten ihre Rückgewähransprüche gegen die  Bank abgetreten oder die  Bank die Grundschuld auf Anweisung der Schuldnerin an die Beklagte übertragen hat. Der dingliche Rechtserwerb der Beklagten ist hiervon unabhängig, weil die  Bank materiell-rechtlich Inhaberin der Grundschuld und uneingeschränkt verfügungsbefugt war. Sie konnte die Grundschuld daher sachenrechtlich wirksam auf Dritte übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die Abtretung der Grundschuld durch die  Bank an die Beklagte löst keine Bereicherungsansprüche der Masse aus. Soweit das Berufungsgericht meint, dass ein Bereicherungsanspruch der Schuldnerin gegen die Beklagte bestünde, weil die Schuldnerin entweder der Beklagten die gegen die  Bank bestehenden Rückgewähransprüche abgetreten oder die  Bank angewiesen habe, die Grundschuld an die Beklagte abzutreten, hält dies rechtlicher Überprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Die Abtretung einer Grundschuld, die der Schuldner einem Dritten vor dem Eintritt von Verfügungsbeschränkungen bestellt hat, ist insolvenzrechtlich wirksam (vgl. BGH, Urteil vom 20. Dezember 2001 - IX ZR 419/98, WM 2002, 337, 338 unter B.II.1.b. zu § 15 KO). Die Übertragung eines bereits bestehenden Rechts beeinträchtigt die Rechtsstellung der Insolvenzgläubiger regelmäßig nicht und unterfällt daher auch nicht § 91 InsO (BGH, Urteil vom 21. Februar 2008 - IX ZR 255/06, WM 2008, 602 Rn. 10). Gleiches gilt, soweit bei einer Sicherungsgrundschuld eine treuhänderische Bindung des Sicherungsnehmers (vgl. BGH, Urteil vom 8. Dezember 1988 - III ZR 107/87, WM 1989, 210, 211 unter II.2.) besteht. Verfügungen eines Treuhänders unterliegen auch dann nicht der Vorschrift des § 81 InsO, wenn der Verfügungsgegenstand wirtschaftlich zur Masse gehört. Entscheidend ist dabei, dass der Treuhänder die Rechte an dem Treugut als Vollrechtsinhaber ausübt (BGH, Beschluss vom 12. Juli 2012 - IX ZR 213/11, WM 2012, 1496 Rn. 10 mwN). Dies ist bei einer Sicherungsgrundschuld der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Ob bei einer Übertragung einer Grundschuld von einem Gläubiger auf einen anderen schuldrechtliche Ansprüche der Masse bestehen, hängt davon ab, inwieweit der Schuldner an der Abtretung der Grundschuld mitwirkt. Beschränken sich die Vereinbarungen auf einen bloßen Tausch des Rechtsinhabers, entstehen regelmäßig keine Bereicherungsansprüche der Masse. Vielmehr richtet sich der Ausgleich in diesen Fällen nach den vertraglichen Ansprüchen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Allerdings können bei Leistungen im Dreipersonenverhältnis grundsätzlich Bereicherungsansprüche zugunsten der Masse entstehen. Die hierzu ergangene Rechtsprechung des Bundesgerichtshofs betrifft Fallgestaltungen, in denen der Schuldner Leistungspflichten zu erfüllen hatte, die zu einer endgültigen Vermögensübertragung führen. So steht der Insolvenzmasse im Dreipersonenverhältnis ein Bereicherungsanspruch gegen den Empfänger einer Leistung zu, wenn es sich dabei zwar aufgrund einer wirksamen Anweisung um eine Leistung des Schuldners handelt, diese der Masse gegenüber jedoch nach § 81 InsO mangels einer wirksamen Erfüllungszweckbestimmung unwirksam ist und darum an einem Mangel im Valutaverhältnis leidet (BGH, Urteil vom 21. November 2013 - IX ZR 52/13, WM 2014, 21 Rn. 21). Fehlt es im Dreipersonenverhältnis an einer gültigen Tilgungsbestimmung, entbehrt die in der Überweisung liegende Leistung eines Rechtsgrundes und kann darum von dem Insolvenzverwalter gemäß § 812 Abs. 1 Satz 1 Fall 1 BGB kondiziert werden (BGH, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Gleiches gilt, sofern der Drittschuldner an einen Dritten leistet, dessen Einziehungsbefugnis auf einer vom Schuldner nach Eröffnung des Insolvenzverfahrens oder nach Erlass eines vorläufigen Verfügungsverbots vorgenommenen Forderungsabtretung oder erteilten Einziehungsermächtigung beruht (vgl. BGH, Beschluss vom 12. Juli 2012 - IX ZR 210/11, WM 2012, 1553 Rn. 6). Infolge des Vorrangs von § 81 InsO kommt einer Leistung eines gutgläubigen Drittschuldners an den von dem Schuldner zum Empfang Ermächtigten nach Verfahrenseröffnung keine schuldbefreiende Wirkung zu (BGH, aaO Rn. 7). Damit wird der Drittschuldner in diesen Fällen regelmäßig nicht von seiner Leistungspflicht frei (BGH, aaO Rn. 8). Der Insolvenzverwalter ist jedoch befugt, eine unwirksame Leistung des Drittschuldners an den Schuldner oder an einen von diesem Ermächtigten zu genehmigen (BGH, Beschluss vom 12. Juli 2012 - IX ZR 213/11, WM 2012, 1496 Rn. 16 mwN). In der Klageerhebung kann regelmäßig die Genehmigung der Leistung an einen Nichtberechtigten gesehen werden (BGH, Beschluss vom 12. Juli 2012 - IX ZR 213/11, aaO; vom 26. Juni 2014 - IX ZR 216/13, ZInsO 2014, 1662 Rn. 3). Dies begründet ebenfalls einen Bereicherungsanspruch gegen den Empfänger der Leistung (BGH, Beschluss vom 12. Juli 2012 - IX ZR 213/11, aaO Rn. 13, 17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Die Fälle, in denen der bisherige Grundpfandrechtsgläubiger die zu seinen Gunsten bestellte Grundschuld auf einen neuen Gläubiger überträgt, sind mit diesen Fallgestaltungen regelmäßig nicht vergleichbar. Tritt der bisherige Sicherungsnehmer die Grundschuld an den neuen Gläubiger ab, handelt es sich im Allgemeinen um eine zwischen den Sicherungsnehmern getroffene Vereinbarung. Die Feststellungen des Berufungsgerichts sind nicht geeignet, seine Annahme zu tragen, die Abtretung der Grundschuld sei aufgrund einer - insolvenzrechtlich unwirksamen - Handlung der Schuldnerin erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Ob - wie das Berufungsgericht angenommen hat - der Masse Bereicherungsansprüche zustehen, wenn der Schuldner im Rahmen einer Umschuldung die bestehenden Rückgewähransprüche an den neuen Sicherungsnehmer abtritt, erscheint zweifelhaft. Dies kann jedoch offen bleiben. Im Streitfall fehlen taugliche Anhaltspunkte für eine solche Abtretung. Das Berufungsgericht hat weder Feststellungen getroffen, die den Tatbestand einer Abtretung erfüllen könnten, noch entsprechenden Tatsachenvortrag der Parteien festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Der Grundschuldzweckerklärung vom 7. Dezember 2011 kann keine Abtretung der Rückgewähransprüche bezüglich der Grundschuld der   Bankentnommen werden. Die unter Nr. 2 der Grundschuldzweckerklärung enthaltene formularmäßige Abtretung von Rückgewähransprüchen bezieht sich nicht auf die Grundschuld der  Bank, sondern allein auf Grundschulden, die dieser Grundschuld im Rang vorgehen oder gleichstehen. Solche Grundschulden bestanden nicht. Die Auskunftsvollmacht vom 17. November 2011 enthält keine ausdrückliche Abtretungserklärung; die formularmäßige Erklärung, die Vollmacht umfasse auch eine Ablösung sämtlicher Verbindlichkeiten und schließe "die Übertragung dafür […] gestellter Sicherheiten auf die Bank ein", lässt eine Abtretung von Rückgewähransprüchen nicht hinreichend eindeutig erkennen. Dies kann jedoch dahinstehen, nachdem die Vollmacht nach den Feststellungen des Berufungsgerichts der Beklagten vor Eintritt der Verfügungsbeschränkungen zugegangen ist. Die Beklagte hätte die etwaige Abtretung stillschweigend angenommen (§ 151 BGB), so dass eine Abtretung der Rückgewähransprüche durch die in der Vollmacht enthaltenen Erklärungen daher insolvenzrechtlich wirksam wäre. Weitere Sachverhalte, die eine Abtretung der Rückgewähransprüche erfüllen könnten, sind nicht ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Anders als das Berufungsgericht meint, folgen Bereicherungsansprüche der Masse auch nicht aus einer Weisung der Schuldnerin an die  Bank, die Grundschuld an die Beklagte abzutreten. Das Berufungsgericht hat keine Feststellungen zu einer entsprechenden Weisung der Schuldnerin getroffen. Die Auskunftsvollmacht vom 17. November 2011 enthält keine solche Weisung. Ob - wie das Berufungsgericht meint - die Beklagte aufgrund der Auskunftsvollmacht auch dazu berechtigt war, die  Bank im Namen und mit Vollmacht der Schuldnerin zu einer Abtretung der Grundschuld an die Beklagte anzuweisen, erscheint zweifelhaft. Dies kann jedoch dahinstehen. Denn es ist nicht ersichtlich, dass die Beklagte der  Bank eine solche Weisung im Namen der Schuldnerin erteilt hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>cc) Bereicherungsansprüche der Masse aufgrund einer Abtretung einer Grundschuld scheiden in Fällen einer Umschuldung zudem aus, weil - was das Berufungsgericht übersieht - dies weder eine Weisung des Sicherungsgebers noch eine Abtretung der Rückgewähransprüche durch den Sicherungsgeber erfordert. Die Interessen der Vertragsparteien sprechen vielmehr gegen eine solche Beteiligung des Sicherungsgebers an der Grundschuldabtretung. Der neue Gläubiger will die Sicherheit rechtssicher vom bisherigen Gläubiger erwerben, ohne dass der Sicherungsgeber darauf zugreifen könnte; der bisherige Gläubiger hat allein ein Interesse daran, im Hinblick auf die bestehende Sicherungsvereinbarung nicht erneut in Anspruch genommen zu werden. Insoweit ist die Abtretung der dem bisherigen Sicherungsnehmer bestellten Grundschuld Teil umfassender Vereinbarungen über die Umschuldung, regelmäßig aber keine davon getrennt zu behandelnde, in ihrer Rechtsbeständigkeit für den neuen Sicherungsnehmer von einer sie bedingenden Rechtshandlung des Schuldners abhängige Leistung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(1) Die Erklärungen des Sicherungsgebers zielen bei einer Umschuldung regelmäßig darauf, dem bisherigen Sicherungsnehmer die Abtretung der Grundschuld zu gestatten (vgl. Staudinger/Wolfsteiner, BGB, 2015, Vorbem. §§ 1191 ff Rn. 251; Gaberdiel/Gladenbeck, Kreditsicherung durch Grundschulden, 9. Aufl., Rn. 972). Ebenso möglich ist, dass der neue Sicherungsnehmer im Rahmen der Grundschuldabtretung mit dem bisherigen Sicherungsnehmer eine (befreiende) Schuldübernahme hinsichtlich der Rückgewähransprüche vereinbart (vgl. Staudinger/Wolfsteiner, aaO Rn. 257; Gaberdiel/Gladenbeck, aaO Rn. 973 ff). Auch in diesem Fall dient die Zustimmung des Sicherungsgebers dazu, den bisherigen Sicherungsnehmer aus seinen Pflichten zu entlassen. Denkbar ist weiter, eine dreiseitige Vereinbarung anlässlich der Übertragung der Grundschuld auf den neuen Darlehensgeber zu treffen (vgl. auch BGH, Urteil vom 11. Mai 2012 - V ZR 237/11, WM 2012, 1331 Rn. 7 ff). Die Interessen des Sicherungsgebers, sich gegen eine Erweiterung der Haftung zu schützen, werden in Umschuldungsfällen bereits dadurch gewahrt, dass der neue Gläubiger den Sicherungscharakter und den Umfang der gesicherten Verbindlichkeiten kennt, ein gutgläubiger einredefreier Erwerb also schon deshalb ausgeschlossen ist. Unabhängig davon bleiben bei einem Grundschulderwerb nach dem 19. August 2008 (Art. 229 § 18 Abs. 2 EGBGB) gemäß § 1192 Abs. 1a BGB die Einreden, die dem Eigentümer auf Grund eines Sicherungsvertrags mit dem bisherigen Gläubiger gegen die Grundschuld zustehen oder sich aus dem Sicherungsvertrag ergeben, auch jedem Erwerber der Grundschuld gegenüber bestehen. Der neue Sicherungsnehmer hat kein Interesse daran, den Erwerb der Grundschuld durch weitere Risiken aus der Sphäre des Sicherungsgebers zu belasten. Vielmehr regelt der gegebenenfalls neu abzuschließende Sicherungsvertrag das Verhältnis zwischen neuem Sicherungsnehmer und Sicherungsgeber, mithin zwischen der Beklagten und der Schuldnerin (vgl. Gaberdiel/Gladenbeck, aaO Rn. 983).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(2) Auch soweit der Sicherungsgeber den bisherigen Sicherungsnehmer (zusätzlich) anweist, die Sicherheit auf den neuen Sicherungsnehmer zu übertragen, begründet dies im Falle einer Umschuldung keinen Bereicherungsanspruch der Masse. Dies käme nur in Betracht, wenn es sich bei der Abtretung der Grundschuld durch den bisherigen Gläubiger an den neuen Gläubiger um eine insolvenzrechtlich wirksame Leistung des Schuldners handelte, die der Masse gegenüber jedoch nach § 81 InsO mangels einer wirksamen Erfüllungszweckbestimmung unwirksam ist und darum an einem Mangel im Valutaverhältnis leidet (BGH, Urteil vom 21. November 2013 - IX ZR 52/13, WM 2014, 21 Rn. 21). Tritt ein Sicherungsnehmer die Grundschuld im Rahmen einer Umschuldung an den neuen Sicherungsnehmer ab, handelt es sich entgegen der Auffassung des Berufungsgerichts nicht um eine Anweisung in einem Leistungsverhältnis. Die Rechtsbeziehungen richten sich nach der angestrebten Umschuldung. Es geht dabei nicht darum, dem neuen Sicherungsnehmer einen Gegenstand aus der Masse zu verschaffen, sondern lediglich um den Wechsel in der Person des Sicherungsnehmers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Angesichts der Interessenlage erfolgt die Abtretung aufgrund einer Vereinbarung zwischen den Sicherungsnehmern, nach der der Ablösende nur gegen Abtretung der Grundschuld zahlungspflichtig ist (vgl. BGH, Urteil vom 3. Dezember 1996 - XI ZR 255/95, ZIP 1997, 195, 196 unter II.1. mwN; Gaberdiel/Gladenbeck, aaO Rn. 980 f). Dieser Wechsel ist insolvenzrechtlich grundsätzlich wirksam. Die Rechte des Schuldners werden hierdurch nicht berührt. Der Schuldner verliert die ihm zustehenden Ansprüche auf Rückgewähr der Sicherheiten nicht allein durch den Tausch der Gläubiger.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Nicht zutreffend ist schließlich die Auffassung des Berufungsgerichts, es fehle an einem Rechtsgrund für das Behalten des Erlöses, weil die im Eröffnungsverfahren erfolgte Valutierung der Grundschuld durch die Auszahlung des Darlehens an die Schuldnerin gemäß § 81 InsO unwirksam gewesen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>1. Die Reichweite des Verfügungsbegriffs des § 81 Abs. 1 InsO ist nicht abschließend geklärt. Hierzu zählen neben Verfügungen im Sinn des allgemeinen Zivilrechts (vgl. BGH, Urteil vom 10. Dezember 2009 - IX ZR 1/09, WM 2010, 222 Rn. 26) auch Rechtshandlungen, die auf das Vermögen des Schuldners unmittelbar einwirken (BGH, Urteil vom 25. Oktober 2007 - IX ZR 217/06, BGHZ 174, 84 Rn. 19; vom 13. März 2014 - IX ZR 147/11, WM 2014, 1002 Rn. 21). Unwirksam sind damit auch verfügungsgleiche Handlungen, wie etwa die Erteilung von Überweisungsaufträgen (BGH, Urteil vom 15. Dezember 2005 - IX ZR 227/04, WM 2006, 194, 195), die Genehmigung von Lastschriften (BGH, Urteil vom 25. Oktober 2007, aaO) und vom Schuldner vorgenommene Leistungsbestimmungen gemäß § 267 Abs. 1 BGB (BGH, Urteil vom 13. März 2014, aaO). Die Behandlung anderer schuldrechtlicher Erklärungen, wie Fristsetzungen, Mahnungen, Androhungen, Aufforderungen und Weigerungen, ist hingegen umstritten (vgl. FK-InsO/Wimmer-Amend, 9. Aufl., § 81 Rn. 3 f; HK-InsO/Kayser, 9. Aufl., § 81 Rn. 8 f mwN; HmbKomm-InsO/Kuleisa, 6. Aufl., § 81 Rn. 6; Jaeger/Windel, InsO, § 81 Rn. 5 ff, 8; Lüke in Kübler/Prütting/Bork, InsO, 2009, § 81 Rn. 5 ff; MünchKomm-InsO/Ott/Vuia, 3. Aufl., § 81 Rn. 5; Piekenbrock in Ahrens/Gehrlein/Ringstmeier, InsO, 3. Aufl., § 81 Rn. 12; Schmidt/Sternal, InsO, 19. Aufl., § 81 Rn. 5 f; Uhlenbruck/Mock, InsO, 14. Aufl., § 81 Rn. 5; Fritsche, Vermögensbezogene Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 59 f).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>2. Die Valutierung einer Grundschuld stellt für sich genommen keine verfügungsgleiche Handlung des Schuldners dar. Insbesondere ist es - anders als das Berufungsgericht meint - unerheblich, ob der Schuldner das Darlehen abruft und so die Valutierung der Grundschuld veranlasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>a) Ein nach Eröffnung des Verfahrens eintretender Verlust der Einrede der Nichtvalutierung fällt stets in den durch § 91 Abs. 1 InsO geschützten Bereich. Wird durch die Zession einer Grundschuld die der Masse zuvor zustehende Einrede der mangelnden Valutierung abgeschnitten, führt dies zu einer Vertiefung der Belastung des Grundstücks durch die Grundschuld (BGH, Urteil vom 21. Februar 2008 - IX ZR 255/06, WM 2008, 602 Rn. 13 mwN). Die Einrede der fehlenden Valutierung des zur Verfügung gestellten Sicherungsgegenstandes ist eine nach § 91 InsO beachtliche Rechtsposition (BGH, Urteil vom 13. März 2008 - IX ZR 14/07, WM 2008, 803 Rn. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>b) Umstritten ist, ob in dem durch die Entgegennahme der Valuta bewirkten Wegfall der Einrede der Nichtvalutierung auch eine Verfügung des Schuldners (§ 81 Abs. 1 InsO) oder nur ein sonstiger Rechtsverlust zum Nachteil der Masse (§ 91 Abs. 1 InsO) liegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>aa) Im Schrifttum ist die Auffassung verbreitet, der Wegfall der Einrede der Nichtvalutierung einer Sicherungsgrundschuld stelle jedenfalls dann eine Verfügung des Schuldners im Sinne von § 81 Abs. 1 Satz 1 InsO dar, wenn der Darlehensgeber die Darlehensvaluta nach Verfahrenseröffnung an den Schuldner selbst auszahle (Piekenbrock in Ahrens/Gehrlein/Ringstmeier, InsO, 3. Aufl., § 91 Rn. 29; HK-InsO/Kayser, 9. Aufl., § 91 Rn. 27; Jaeger/Windel, InsO, § 91 Rn. 31, 41; MünchKomm-InsO/Breuer, 3. Aufl., § 91 Rn. 28; Schmidt/Sternal, InsO, 19. Aufl., § 91 Rn. 19, 34; Uhlenbruck/Mock, InsO, 14. Aufl., § 91 Rn. 46; Ampferl in Cranshaw/Paulus/Michel, Bankenkommentar zum Insolvenzrecht, 3. Aufl., § 91 Rn. 18; Clemente, Recht der Sicherungsgrundschuld, 4. Aufl., Rn. 1023; Gottwald/Eickmann, Insolvenzrechts-Handbuch, 5. Aufl., § 31 Rn. 52; Muthorst, ZIP 2009, 1794, 1798; krit. für Fahrnispfandrechte: HK-InsO/Lohmann, aaO, § 50 Rn. 12). Erfolge die Auszahlung an einen vom Grundstückseigentümer verschiedenen Dritten, soll dies nur nach § 91 Abs. 1 InsO zu beurteilen sein (Piekenbrock in Ahrens/Gehrlein/Ringstmeier, aaO; Ampferl in Cranshaw/Paulus/Michel, aaO; HK-InsO/Kayser, aaO; HmbKomm-InsO/Kuleisa, InsO, 6. Aufl., § 91 Rn. 17; Jaeger/Windel, aaO Rn. 31, 41; MünchKomm-InsO/Breuer, aaO; Clemente, aaO; Gottwald/Eickmann, aaO; Muthorst, aaO S. 1798). Im bankrechtlichen Schrifttum wird ohne weitere Differenzierung vertreten, dass eine Neuvalutierung ohne Mitwirkung des Verwalters nicht in Betracht komme (Gaberdiel/Gladenbeck, Kreditsicherung durch Grundschulden, 9. Aufl., Rn. 617, 859; Ganter in Schimansky/Bunte/Lwowski, Bankrechts-Handbuch, 5. Aufl., § 90 Rn. 121).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Zur Begründung verweist diese Ansicht auf eine Vergleichbarkeit der Sicherungsgrundschuld mit der Fremdhypothek. Dort sei die Entgegennahme der Valuta durch den Schuldner unmittelbar darauf gerichtet, hinsichtlich des vorläufigen Eigentumsrechts (Eigentümergrundschuld, § 1163 BGB) eine sachenrechtliche Zuordnungsänderung zu bewirken, weil erst durch die Valutierung der Rückgewähranspruch des Darlehensgebers aus § 488 Abs. 1 Satz 2 Fall 2 BGB entstehe (MünchKomm-InsO/Breuer, 3. Aufl., § 91 Rn. 27). Diese Lage sei mit derjenigen der Valutierung einer Sicherungsgrundschuld vergleichbar. Zwar entstehe das Grundpfandrecht forderungsunabhängig durch seine Eintragung, dem Eigentümer stehe aber gegen die Geltendmachung der Rechte aus der Grundschuld bis zur Auszahlung des Darlehensbetrags die Einrede der Nichtvalutierung zu (MünchKomm-InsO/Breuer, aaO Rn. 28; jedenfalls im Ergebnis ebenso: Ampferl in Cranshaw/Paulus/Michel, Bankenkommentar zum Insolvenzrecht, 3. Aufl., § 91 Rn. 18; Gottwald/Eickmann, Insolvenzrechts-Hand-buch, 5. Aufl., § 31 Rn. 52).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>bb) Nach der Gegenansicht beurteilt sich die insolvenzrechtliche Wirksamkeit der Entgegennahme der Darlehensvaluta durch den Schuldner ausschließlich nach § 91 InsO. Die Einrede, die der Masse bei Valutierung der Sicherungsgrundschuld nach Verfahrenseröffnung entgehe, führe zur Entstehung eines Absonderungsrechts, dies sei eine Folge, die § 91 InsO gerade verhindern solle (Lüke in Kübler/Prütting/Bork, InsO, 2011, § 91 Rn. 40; Pape/Uhländer/Engels, § 91 Rn. 30; Kuszlik, Sicherheiten für künftige Forderungen in der Insolvenz, S. 45, 56 f; Eickmann in Festschrift für Uhlenbruck, 2000, S. 149, 154; widersprüchlich Jaeger/Windel, InsO, § 81 Rn. 8: ausschließliche Anwendbarkeit von § 91 InsO; dagegen Jaeger/Windel, aaO, § 91 Rn. 31, 41: Valutierung an Darlehensnehmer unterfällt § 81 Abs. 1 InsO; unklar FK-InsO/Wimmer-Amend, 9. Aufl. § 91 Rn. 7 f, 28).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>cc) Schließlich wird vertreten, es bedürfe keines Rückgriffs auf die §§ 81, 91 InsO, weil die Darlehensrückzahlungsforderung nicht mehr entstehen könne, wenn an den Schuldner nach § 82 InsO nicht mehr wirksam geleistet oder valutiert werden könne (Eichel, Künftige Forderungen, S. 230, 233, 249 für Hypotheken und Fahrnispfandrechte). Nach anderer Auffassung soll eine erst nach Verfahrenseröffnung erfolgende Valutierung eines nicht-akzessorischen Sicherungsmittels unter Umständen eine anfechtbare Rechtshandlung im Sinne der §§ 129 ff InsO sein (vgl. Kreuzberg, Die Insolvenzfestigkeit von Drittsicherheiten, S. 77 f, 81 f, 89).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>c) Richtigerweise stellt die Valutierung einer Grundschuld im Rahmen des bereits bestehenden Sicherungsvertrags regelmäßig nur einen sonstigen Rechtserwerb im Sinne von § 91 Abs. 1 InsO und keine Verfügung des Schuldners dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>aa) Die Auffassung, wonach sich die Wirksamkeit der Valutierung ausschließlich nach § 82 Satz 1 InsO richte, überzeugt nicht. § 82 InsO stellt eine Sonderregelung für Leistungen des Drittschuldners an den Schuldner dar, die in Unkenntnis der Verfahrenseröffnung oder der Anordnung von Verfügungsbeschränkungen erfolgen. Liegen die Voraussetzungen der Norm vor, entstehen auch bei unbesicherten Darlehen Nachteile für die Masse, weil diese den Auszahlungsanspruch aus § 488 Abs. 1 Satz 1 BGB verliert und zugleich der Rückzahlungsanspruch des § 488 Abs. 1 Satz 2 Halbsatz 2 BGB entsteht. Hatte der Schuldner zugunsten des Darlehensgebers zur Absicherung seines Rückzahlungsanspruches jedoch zusätzlich Sicherheiten gestellt, liegt in dem durch die Valutierung herbeigeführten Wegfall der Einrede der Nichtvalutierung ein weitergehender Nachteil.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>bb) § 81 Abs. 1 InsO erfasst die Valutierung einer Grundschuld nicht. Maßgeblich ist die gesetzgeberische Wertentscheidung und die den §§ 80 ff, 91 InsO zugrunde liegende gesetzgeberische Interessenbewertung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(1) Bereits der von § 81 Abs. 1 InsO verwendete Wortlaut der "Verfügung", der sich von dem in der Insolvenzordnung weiterhin gebrauchten Begriff der Rechtshandlung (§§ 129 ff InsO) unterscheidet, spricht gegen eine Einbeziehung von Fernwirkungen des Schuldnerhandelns. Jedoch kommt eine entsprechende Anwendung des § 81 InsO auf solche Rechtshandlungen des Schuldners in Betracht, die verfügungsgleich wirken (vgl. Jaeger/Windel, InsO, § 81 Rn. 5 ff, 8; MünchKomm-InsO/Ott/Vuia, 3. Aufl., § 81 Rn. 5). Inwieweit dieses Erfordernis die Anwendung des § 81 Abs. 1 InsO begrenzt (in diese Richtung Jaeger/Windel, aaO; MünchKomm-InsO/Ott/Vuia, aaO; Uhlenbruck/Mock, InsO, 14. Aufl., § 81 Rn. 5; Fritsche, Vermögensbezogene Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 59 f) oder ob § 81 InsO entgegen dem Wortlaut auf jede Rechtshandlung des Schuldners mit Ausnahme von Verpflichtungsgeschäften und Realakten anwendbar ist (so FK-InsO/Wimmer-Amend, 9. Aufl., § 81 Rn. 3 f; HK-InsO/Kayser, 9. Aufl., § 81 Rn. 8 ff; Lüke in Kübler/Prütting/Bork, InsO, 2009, § 81 Rn. 7; Piekenbrock in Ahrens/Gehrlein/Ringstmeier, InsO, 3. Aufl., § 81 Rn. 11 ff; Schmidt/Sternal, InsO, 19. Aufl., § 81 Rn. 5 f; offengelassen von HmbKomm-InsO/Kuleisa, 6. Aufl., § 81 Rn. 6), kann dahinstehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Die Handlung des Schuldners muss jedenfalls unmittelbare rechtliche Wirkungen herbeigeführt haben (vgl. BGH, Urteil vom 13. März 2014 - IX ZR 147/11, WM 2014, 1002 Rn. 21). Hieran fehlt es bei dem durch bloße Entgegennahme der Darlehensvaluta bewirkten Wegfall der Einrede der Nichtvalutierung, weil kein Wille des Empfängers erforderlich ist, die Leistung als Erfüllung entgegenzunehmen. Die Valutierung von Sicherungsgrundschulden zu Lasten der Masse stellt sich nur als mittelbare Folge des Verpflichtungsgeschäfts dar (Jaeger/Windel, InsO, § 81 Rn. 8), weil die Belastung des schuldnerischen Vermögens bereits bei Bestellung des Grundpfandrechts eingetreten ist. Der Wegfall der Einrede der Nichtvalutierung ist daher bei Begründung des Sicherungsrechts bereits angelegt und vollzieht sich mit der Valutierung ohne weitere Handlung des Schuldners (vgl. Kuszlik, Sicherheiten für künftige Forderungen in der Insolvenz, S. 44 f; Eickmann in Festschrift für Uhlenbruck, 2000, S. 149, 154 f). Dass sich die Masseschmälerung bei der Höchstbetragshypothek als Rechtserwerb im technischen Sinne, bei der nicht akzessorischen Grundschuld dagegen als Verlust einer Einrede darstellt, steht einer einheitlichen insolvenzrechtlichen Betrachtung beider wirtschaftlich gleichwertiger Fälle nicht entgegen (Jaeger/Windel, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(2) Der Entstehungsgeschichte der Norm lassen sich keine Anhaltspunkte für eine weite Auslegung auf die Valutierung einer Grundschuld entnehmen. Der Gesetzgeber der Insolvenzordnung hat den Begriff der "Rechtshandlung" des § 7 Abs. 1 KO bewusst durch denjenigen der "Verfügung" des § 81 Abs. 1 InsO ersetzt und die neue Vorschrift auf Verfügungen beschränkt (BT-Drucks. 12/2443, S. 135 f). Soweit in der Begründung zu § 81 InsO weiter ausgeführt wird, dass die neue Vorschrift im Grundsatz § 7 KO entspreche (BT-Drucks. 12/2443, S. 135 zu § 92 RegE), bedeutet dies nicht, dass damit keine Rechtsänderung einhergeht (vgl. v. Olshausen, ZIP 1998, 1093, 1096; Eickmann, aaO S. 149, 155; aA HK-InsO/Kayser, 9. Aufl., § 81 Rn. 5; HmbKomm-InsO/Kuleisa, 6. Aufl., § 81 Rn. 6; Lüke in Kübler/Prütting/Bork, InsO, 2009, § 81 Rn. 7; Schmidt/Sternal, InsO, 19. Aufl., § 81 Rn. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(a) In der Rechtsprechung zur Konkursordnung war der Anwendungsbereich des § 7 KO auf die Valutierung von Sicherungsmitteln nicht abschließend geklärt. Das Reichsgericht hat die Umwandlung einer Eigentümergrundschuld in eine Fremdhypothek durch Auszahlung der Darlehensvaluta als Erwerb eines Rechts, und zwar des Hypothekenrechts, angesehen, welcher gemäß § 15 KO den Konkursgläubigern gegenüber unwirksam sei. Die Unwirksamkeit eines Rechtserwerbs, der auf einer Rechtshandlung des Gemeinschuldners beruhe, ergebe sich aber aus § 7 KO (vgl. RG LZ 1912, 398). Der Bundesgerichtshof hat den Erwerb eines Absonderungsrechts aus einer Sicherungsgrundschuld als sonstigen Rechtserwerb am Maßstab des § 15 KO gemessen, wenn der Sicherungsnehmer die durch sie gesicherten Forderungen erst nach der Insolvenz erworben hatte (vgl. BGH, Urteil vom 30. Oktober 1974 - VIII ZR 81/73, WM 1974, 1218; vom 25. September 1972 - VIII ZR 216/71, BGHZ 59, 230, 234 f). § 15 KO sei auch anwendbar, wenn Grundschulden erst nach Konkurseröffnung mit einer Forderung unterlegt wurden (BGH, Urteil vom 20. Dezember 2001 - IX ZR 419/98, WM 2002, 337, 338).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>(b) Im konkursrechtlichen Schrifttum war die Auffassung verbreitet, die Annahme der Valuta durch den Gemeinschuldner sei eine gegenüber der Masse gemäß § 7 Abs. 1 Halbsatz 1 KO unwirksame Rechtshandlung (Jaeger/Henckel, KO, 9. Aufl., § 7 Rn. 6, § 15 Rn. 33; Kuhn/Uhlenbruck, KO, 11. Aufl., § 7 Rn. 2 a und § 15 KO Rn. 9; Schönke/Baur/Stürner, Zwangsvollstreckungs-, Konkurs- und Vergleichsrecht, 11. Aufl., § 55 Rn. 989; Schellewald, Die Sicherung künftiger Ansprüche im Vermögen des Schuldners, S. 217 f, 224, 231 f; Schumacher, Die Sicherung der Konkursmasse gegen Rechtsverluste, die nicht auf einer Rechtshandlung des Gemeinschuldners beruhen (§ 15 KO), S. 147 f; Wörbelauer, DNotZ 1965, 580, 583 unter 3. a; aA Uhlenbruck in Uhlenbruck, InsO, 12. Aufl., § 91 Rn. 12 mwN zum damaligen Streitstand).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>(c) Die hierzu gegebenen Begründungen können für die Auslegung des Verfügungsbegriffs in § 81 Abs. 1 InsO jedoch keine Geltung mehr beanspruchen. Der Begriff der Rechtshandlung des § 7 KO umfasste jede rechtlich erhebliche Handlung des Gemeinschuldners nach Konkurseröffnung zu Lasten der Konkursmasse, nicht bloß jede Verfügung desselben (RGZ 59, 53, 57; Kuhn/Uhlenbruck, aaO, § 7 Rn. 2). Die Reichweite wurde nur durch den nach § 7 KO erforderlichen Bezug der Schuldnerhandlung auf die Konkursmasse begrenzt (vgl. Schönke/Baur/Stürner, aaO § 55 Rn. 983). Daher konnte der Gemeinschuldner auch nach Verfahrenseröffnung zwar noch Verpflichtungsgeschäfte eingehen, die hierdurch entstandenen Neuschulden waren aber keine Konkursforderungen im Sinne des § 3 KO (Kuhn/Uhlenbruck, aaO § 7 Rn. 3 mwN; Lenenbach, Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 162). Hieran hat sich nach Inkrafttreten der Insolvenzordnung nichts geändert, weil die Entstehung einer Insolvenzforderung gemäß § 38 InsO zur Zeit der Eröffnung des Insolvenzverfahrens begründete Vermögensansprüche gegen den Schuldner voraussetzt (BT-Drucks. 12/2443, S. 135). Konnte der Wegfall der Einrede der Nichtvalutierung noch unter den weiteren Begriff der Rechtshandlung des § 7 Abs. 1 Halbsatz 1 KO gefasst werden, kann dies für den engeren Verfügungsbegriff des § 81 Abs. 1 InsO nicht mehr gelten (Eickmann in Festschrift für Uhlenbruck, S. 149, 155; grundlegend zur Begriffsänderung: v. Olshausen, ZIP 1998, 1093 ff).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(3) Angesichts der unterschiedlichen gesetzlichen Regelungen für das Eröffnungsverfahren und für das eröffnete Verfahren ist es nicht nach Sinn und Zweck des § 81 Abs. 1 InsO geboten, die durch Auszahlung eines Darlehens an den Schuldner erfolgende Valutierung einer bereits bestellten Grundschuld in den Verfügungsbegriff des § 81 Abs. 1 InsO einzubeziehen. Der Masseschutz wird im eröffneten Verfahren durch die Regelung des § 80 Abs. 1 InsO sowie ergänzend durch § 91 InsO gewährleistet. Gemäß § 80 Abs. 1 InsO geht die Verwaltungs- und Verfügungsbefugnis mit Insolvenzeröffnung auf den Verwalter über. Danach verliert der Schuldner mit der Verfahrenseröffnung alle Einwirkungsmöglichkeiten auf das von der Insolvenz betroffene Vermögen (vgl. HK-InsO/Kayser, 9. Aufl., § 80 Rn. 1). § 81 InsO und der nachfolgende § 82 InsO enthalten insoweit besondere Regelungen. § 91 InsO ergänzt diese Regelungen um einen weiteren Masseschutz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Für das Eröffnungsverfahren hat der Gesetzgeber den Masseschutz anders gewichtet. Die Regelung, nach der das Recht des Schuldners, das zur Insolvenzmasse gehörende Vermögen zu verwalten und über es zu verfügen, auf den Insolvenzverwalter übergeht (§ 80 Abs. 1 InsO), gilt im Eröffnungsverfahren nur entsprechend, wenn dem Schuldner ein allgemeines Verfügungsverbot auferlegt ist (§ 21 Abs. 2 Satz 1 Nr. 2 Fall 1 InsO in Verbindung mit § 22 Abs. 1 Satz 1 InsO). Anders ist dies, wenn - wie im Streitfall - lediglich angeordnet wird, dass Verfügungen des Schuldners nur mit Zustimmung des vorläufigen Insolvenzverwalters wirksam sind (§ 21 Abs. 2 Satz 1 Nr. 2 Fall 2, § 22 Abs. 2 InsO). Nur soweit Verfügungsbeschränkungen nach § 21 Abs. 2 Satz 1 Nr. 2 InsO vorgesehen sind, gelten die §§ 81, 82 InsO entsprechend (§ 24 Abs. 1 InsO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Hingegen ist § 91 InsO nach der ständigen Rechtsprechung des Bundesgerichtshofs im Eröffnungsverfahren weder unmittelbar noch entsprechend anwendbar. Der Gesetzgeber hat in Kenntnis der Problematik in § 24 InsO von einer Verweisung auf § 91 InsO abgesehen. Die Insolvenzordnung enthält keine Regelung, welche einen sonstigen, nicht auf Verfügungen des Schuldners oder Vollstreckungsmaßnahmen für einen Gläubiger beruhenden Rechtserwerb im Eröffnungsverfahren ausschließt (BGH, Urteil vom 14. Dezember 2006 - IX ZR 102/03, BGHZ 170, 196 Rn. 8; vgl. auch Urteil vom 22. Oktober 2009 - IX ZR 90/08, WM 2009, 2391 Rn. 15; vom 10. Dezember 2009 - IX ZR 1/09, WM 2010, 222 Rn. 27; vom 26. April 2012 - IX ZR 136/11, WM 2012, 1129 Rn. 6). Dies gilt auch für die Valutierung von Grundschulden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>d) Anders als das Berufungsgericht meint, kommt es nicht darauf an, ob der Schuldner die Darlehensvaluta ausdrücklich abgerufen hat und ob die Auszahlung der Darlehensvaluta einen solchen Abruf voraussetzte. Soweit hierdurch die Valutierung der Grundschuld erreicht wurde, handelt es sich dabei um keine einer Verfügung vergleichbare Einwirkung auf das Grundpfandrecht. Daran ändert sich nichts, wenn der Schuldner die Darlehensvaluta erst auf seinen ausdrücklichen Wunsch entgegennimmt. Zudem enthielt der Darlehensvertrag im Streitfall keine Regelung, wonach der Darlehensgeber die Leistung gemäß § 488 Abs. 1 Satz 1 BGB nicht ohne vorigen ausdrücklichen "Abruf" des Darlehensnehmers erbringen darf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>C.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Die Entscheidung des Berufungsgerichts erweist sich nicht aus anderen Gründen als richtig (§ 561 ZPO). Dem Kläger steht nicht deshalb ein Bereicherungsanspruch zu, weil es an einem wirksamen Sicherungsvertrag zugunsten der Beklagten oder einer insolvenzfesten Auszahlung des Darlehens fehlt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte hat die Grundschuld mit Rechtsgrund erworben. Dies richtet sich nach der - vom Berufungsgericht zu Unrecht offen gelassenen - Wirksamkeit des zwischen Schuldnerin und Beklagter geschlossenen Sicherungsvertrags.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Rechtsgrund der Bestellung oder Abtretung einer Sicherungsgrundschuld ist die Sicherungsvereinbarung (BGH, Urteil vom 8. Dezember 1988 - III ZR 107/87, WM 1989, 210, 211; Beschluss vom 20. März 2013 - XII ZB 81/11, NJW 2013, 1676 Rn. 13). Die in der Grundschuld-Zweckerklärung vom 7. Dezember 2011 enthaltene schuldrechtliche Verpflichtung der Schuldnerin ist insolvenzrechtlich wirksam. Ist - wie im Streitfall - lediglich ein Zustimmungsvorbehalt angeordnet, kann der Schuldner auch nach Anordnung des Zustimmungsvorbehalts uneingeschränkt Verpflichtungsgeschäfte eingehen (BGH, Urteil vom 10. Dezember 2009 - IX ZR 1/09, WM 2010, 222 Rn. 26; FK-InsO/Wimmer-Amend, 9. Aufl., § 81 Rn. 1, 4; HK-InsO/Kayser, 9. Aufl., § 81 Rn. 6; HmbKomm-InsO/Kuleisa, 6. Aufl., § 81 Rn. 5; Lüke in Kübler/Prütting/Bork,InsO, 2009, § 81 Rn. 2, 5 und 7; MünchKomm-InsO/Ott/Vuia, 3. Aufl., § 81 Rn. 5; Schmidt/Sternal, InsO, 19. Aufl., § 81 Rn. 3; Uhlenbruck/Mock, InsO, 14. Aufl., § 81 Rn. 1, 3). Zwar gelten bei einem Verstoß gegen eine der in § 21 Abs. 2 Satz 1 Nr. 2 InsO vorgesehenen Verfügungsbeschränkungen die §§ 81, 82 InsO entsprechend (§ 24 Abs. 1 InsO). Bereits ihrem Wortlaut nach regeln die vorgenannten Vorschriften nur "Verfügungen". Im allgemeinen Zivilrecht werden darunter solche Rechtsgeschäfte verstanden, durch die unmittelbar ein Recht begründet, übertragen, belastet, aufgehoben oder sonst wie in seinem Inhalt verändert wird. § 21 Abs. 2 Satz 1 Nr. 2 Fall 2 InsO verwendet den Verfügungsbegriff des allgemeinen Zivilrechts. Verpflichtungsgeschäfte zählen nicht hierzu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Auf der Grundlage der getroffenen Feststellungen ist durch die Auszahlung der Darlehensvaluta an die Schuldnerin ein Darlehensrückzahlungsanspruch der Beklagten entstanden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>1. Gemäß § 488 Abs. 1 Satz 2 Fall 2 BGB ist der Darlehensnehmer verpflichtet, bei Fälligkeit das zur Verfügung gestellte Darlehen zurückzuzahlen. Dies setzt voraus, dass der Darlehensgegenstand aus dem Vermögen des Darlehensgebers ausgeschieden und dem Vermögen des Darlehensnehmers in der vereinbarten Weise zugeführt worden ist (BGH, Urteil vom 12. Juni 1997- IX ZR 110/96, WM 1997, 1658, 1659; Erman/Saenger, BGB, 15. Aufl., § 488 Rn. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>2. Die Erfüllung nach § 362 BGB tritt regelmäßig als objektive Folge der Leistungsbewirkung ein, ohne dass es weiterer Umstände, insbesondere einer dahingehenden Vereinbarung, bedürfte (BGH, Urteil vom 20. Juli 2010 - XI ZR 236/07, BGHZ 186, 269 Rn. 25; vom 21. November 2013 - IX ZR 52/13, WM 2014, 21 Rn. 21; vom 21. April 2015 - XI ZR 234/14, BGHZ 205, 90 Rn. 13; MünchKomm-BGB/Fetzer, 7. Aufl., § 362 Rn. 7). Die Erfüllung und damit die Befreiung des Drittschuldners von seiner Leistungspflicht treten aber nur ein, wenn an den Empfangszuständigen geleistet worden ist (vgl. BGH, Urteil vom 21. April 2015, aaO Rn. 14 f). Die Empfangszuständigkeit des Gläubigers fehlt, wenn ihm die Verfügungsmacht über die Forderung entzogen worden ist (vgl. BGH, Urteil vom 21. April 2015, aaO Rn. 15; Erman/Buck-Heeb, BGB, 15. Aufl., § 362 Rn. 14; MünchKomm-BGB/Fetzer, 7. Aufl., § 362 Rn. 12; Palandt/Grüneberg, BGB, 77. Aufl., § 362 Rn. 4; Pfeiffer in Prütting/Wegen/Weinreich, BGB, 12. Aufl., § 362 Rn. 9; Soergel/Schreiber, BGB, 2009, Vor § 362 Rn. 7; Staudinger/Olzen, BGB, Neubearbeitung 2016, § 362 Rn. 38).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>3. Aufgrund des angeordneten Zustimmungsvorbehalts (§ 21 Abs. 2 Satz 1 Nr. 2 Fall 2 InsO) war die Schuldnerin im Eröffnungsverfahren nicht mehr berechtigt, die Darlehensvaluta ohne Zustimmung des vorläufigen Verwalters zu empfangen. Allerdings gelten bei einem Verstoß gegen die in § 21 Abs. 2 Satz 1 Nr. 2 InsO vorgesehenen Verfügungsbeschränkungen gemäß § 24 Abs. 1 InsO die §§ 81, 82 InsO entsprechend. Nach § 82 Satz 1 InsO wird der Leistende befreit, wenn nach der Eröffnung des Insolvenzverfahrens zur Erfüllung einer Verbindlichkeit an den Schuldner geleistet worden ist, obwohl die Verbindlichkeit zur Insolvenzmasse zu erfüllen war, wenn er zur Zeit der Leistung die Eröffnung des Verfahrens nicht kannte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>a) Im insolvenzrechtlichen Schrifttum ist umstritten, ob die bloße Entgegennahme oder Annahme einer geschuldeten Leistung durch den Schuldner als Verfügung im Sinne des § 81 Abs. 1 Satz 1 InsO anzusehen ist (so FK-InsO/Wimmer-Amend, 9. Aufl., § 81 Rn. 10; HK-InsO/Kayser, 9. Aufl., § 82 Rn. 1, 6; HmbKomm-InsO/Kuleisa, 6. Aufl., § 82 Rn. 1; Pape/Uhländer/Engels, InsO, § 82 Rn. 1, 3; Lenenbach, Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 155 Fn. 69; Schäfer, ZInsO 2008, 16, 17 f; ablehnend: Jaeger/Windel, InsO, § 81 Rn. 6; Fritsche, Vermögensbezogene Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 107 f; vgl. auch MünchKomm-BGB/Fetzer, aaO Rn. 8; Harder, JuS 1977, 149, 150).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>b) Diese Frage bedarf keiner Entscheidung, weil nach übereinstimmender Auffassung die Vorschrift des § 82 InsO auf Leistungen von Drittschuldnern an den Schuldner vorrangig anzuwenden ist. Nach der Rechtsprechung des Bundesgerichthofs stellt sich der durch § 82 InsO den Drittschuldnern aus Billigkeitsgründen eingeräumte Gutglaubensschutz, wie schon die Vorgängervorschrift des § 8 Abs. 2 und 3 KO, als besondere, abschließende Vergünstigung dar, die zugleich dem öffentlichen Interesse an einem effektiven Insolvenzverfahren dient (BGH, Urteil vom 16. Juli 2009 - IX ZR 118/08, BGHZ 182, 85 Rn. 13, Beschluss vom 12. Juli 2012 - IX ZR 210/11, WM 2012, 1553 Rn. 10). Sie schützt den Leistenden in seinem Vertrauen auf die Empfangszuständigkeit seines Gläubigers, wenn ihm die Eröffnung des Insolvenzverfahrens über dessen Vermögen so lange unbekannt geblieben ist, wie er den Leistungserfolg noch zu verhindern vermag (BGH, Urteil vom 16. Juli 2009, aaO Rn. 9). Dieser Schutz beschränkt sich auf den guten Glauben des Leistenden in den Fortbestand der zum Zeitpunkt des Entstehens der Verbindlichkeit noch gegebenen, durch die Eröffnung des Insolvenzverfahrens oder den Erlass eines vorläufigen Verfügungsverbots nachträglich entfallenden Empfangszuständigkeit des Schuldners (BGH, Beschluss vom 12. Juli 2012, aaO Rn. 6). Das Schrifttum stimmt dem im Ergebnis insoweit zu, als § 82 InsO eine Sonderregelung für Leistungen an den nicht (mehr) empfangszuständigen Schuldner darstellt (vgl. FK-InsO/Wimmer-Amend, 9. Aufl., § 82 Rn. 24; HK-InsO/Kayser, 9. Aufl., § 82 Rn. 13; HmbKomm-InsO/Kuleisa, 6. Aufl., § 82 Rn. 1; Lüke in Kübler/Prütting/Bork, InsO, 2009, § 82 Rn. 4; Pape/Uhländer/Engels, InsO, § 82 Rn. 3; Piekenbrock in Ahrens/Gehrlein/Ringstmeier, InsO, 3. Aufl., § 82 Rn. 1; Schmidt/Sternal, InsO, 19. Aufl., § 82 Rn. 1, § 91 Rn. 48; Uhlenbruck/Mock, InsO, 14. Aufl., § 82 Rn. 1; Fritsche, Vermögensbezogene Sicherungsmaßnahmen im Insolvenzeröffnungsverfahren, S. 55, 108, 254; Schäfer, ZInsO 2008, 16, 17 f; Kayser in Festschrift für Wellensiek, 2011, S. 211, 214).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>c) Der Darlehensrückzahlungsanspruch der Beklagten entstand mit Entgegennahme der Valuta durch die Schuldnerin am 19. Januar 2012, weil die Beklagte nach den Feststellungen des Berufungsgerichts an diesem Tag noch keine Kenntnis von der bereits am 24. November 2011 erfolgten Anordnung des Zustimmungsvorbehalts und der Veröffentlichung am 25. November 2011 hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat als unstreitige Tatsache festgestellt, dass die Beklagte erst am 24. Januar 2012, also nach Auszahlung der Valuta an die Schuldnerin, von der Anordnung der vorläufigen Insolvenzverwaltung und des Zustimmungsvorbehaltes positive Kenntnis erlangt habe. Abweichende Feststellungen, wonach der Kläger eine frühere positive Kenntnis der Beklagten behauptet hätte, hat es nicht getroffen. Damit steht aber zugleich fest, dass die Beklagte am Tag der Auszahlung der Valuta an die Schuldnerin von der Anordnung keine Kenntnis hatte. Auf eine etwaige fahrlässige Unkenntnis der Beklagten ab dem übernächsten Tag nach der Veröffentlichung (vgl. § 9 Abs. 1 Satz 3 InsO), hier also ab dem 28. November 2011, käme es nicht an. § 82 Satz 1 InsO versagt den Gutglaubensschutz nur bei positiver Kenntnis (vgl. HmbKomm-InsO/Kuleisa, 6. Aufl., § 82 Rn. 28, Kayser in Festschrift für Wellensiek, 2011, S. 211, 218). Insoweit bestand auch keine diesbezügliche Informationsbeschaffungspflicht der Beklagten (BGH, Urteil vom 15. April 2010 - IX ZR 62/09, WM 2010, 940 Rn. 14; Kayser, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>D.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Die Sache ist nicht zur Endentscheidung reif (§ 563 Abs. 3 ZPO). Ein Bereicherungsanspruch des Klägers kann auf der Grundlage des derzeitigen Sach- und Streitstandes nicht ausgeschlossen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>1. Aufgrund des dem Schuldner zustehenden Rückgewähranspruchs hinsichtlich der Grundschuld kann in einer nach Eintritt der Verfügungsbeschränkungen getroffenen neuen Sicherungsvereinbarung eine verfügungsgleiche und daher nach § 81 Abs. 1 InsO unwirksame Handlung der Schuldnerin liegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>a) Bei der Sicherungsvereinbarung handelt es sich um eine formfreie (BGH, Urteil vom 21. Februar 2008 - IX ZR 255/06, WM 2008, 602 Rn. 16), schuldrechtliche Abrede (Schoppmeyer in Lwowski/Fischer/Gehrlein, Das Recht der Kreditsicherung, 10. Aufl., § 15 Rn. 198). Sie bestimmt, für welche Forderungen und in welchem Umfang die Grundschuld dem Sicherungsnehmer haftet (Schoppmeyer, aaO Rn. 202). Ist sie nicht zustande gekommen oder fällt sie nachträglich weg, ist der Gläubiger um das dingliche Recht rechtsgrundlos bereichert (MünchKomm-BGB/Lieder, 7. Aufl., § 1191 BGB Rn. 22 mwN). Erhält der Grundschuldgläubiger auf das dingliche Recht mehr als den Betrag der gesicherten Forderungen, so ist der Mehrbetrag an den Rückgewährberechtigten herauszugeben. Diesem gebührt der Übererlös, der aus der über den Sicherungszweck hinausgehenden dinglichen Belastung des Grundstücks entsteht (BGH, Urteil vom 19. Oktober 2017 - IX ZR 79/16, WM 2017, 2299 Rn. 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Dem Sicherungsgeber einer Grundschuld steht ein aufschiebend bedingter Rückgewähranspruch gegen den Sicherungsnehmer zu (BGH, Urteil vom 25. März 1986 - IX ZR 104/85, WM 1986, 763, 765, insoweit nicht abgedruckt in BGHZ 97, 280; vom 18. Juli 2014 - V ZR 178/13, WM 2014, 1719 Rn. 28). Der Sicherungsvertrag bestimmt, wann und unter welchen Voraussetzungen der Sicherungsnehmer die Grundschuld dem Sicherungsgeber zurückgewähren muss (BGH, Urteil vom 19. April 2013 - V ZR 47/12, BGHZ 197, 155 Rn. 12). Ist ein enger Sicherungszweck vereinbart, bei dem die Grundschuld nur der Sicherung einer bestimmten Verbindlichkeit dient, tritt die aufschiebende Bedingung schon mit der Tilgung der Anlassverbindlichkeit ein. Ist dagegen ein weiter Sicherungszweck vereinbart, der eine Revalutierung der Grundschuld erlaubt, kann die Rückgewähr erst dann verlangt werden, wenn eine solche Revalutierung endgültig nicht mehr in Betracht kommt; das ist der Fall, wenn die Geschäftsbeziehung endet (BGH, Urteil vom 10. November 2011 - IX ZR 142/10, BGHZ 191, 277 Rn. 13 ff.; vom 19. April 2013, aaO Rn. 12). Wenn sich aus der Sicherungsvereinbarung nichts anderes ergibt, muss die Grundschuld auf Verlangen des Sicherungsgebers auch in Teilen zurückgewährt werden; dies setzt voraus, dass insoweit eine endgültige Übersicherung eingetreten ist, mit der der Sicherungszweck entfallen ist (BGH, Urteil vom 8. Dezember 1989 - V ZR 53/88, WM 1990, 423, 424; vom 10. November 2011, aaO Rn. 16; vom 19. April 2013, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>b) Erweitert der Schuldner nach Eintritt der Verfügungsbeschränkungen den bisherigen Haftungsumfang der Grundschuld durch eine neue oder geänderte Sicherungsvereinbarung und ermöglicht er so eine Neuvalutierung oder eine weitergehende Valutierung der Grundschuld, die nicht durch die frühere Sicherungsvereinbarung gedeckt war, greift er in verfügungsgleicher Weise in den Haftungsbestand seines Vermögens ein. Soweit die neue Sicherungsvereinbarung eine gegenüber der bisherigen Sicherungsvereinbarung erweiterte Haftung der Grundschuld ermöglicht, ist sie daher nach Eintritt von Verfügungsbeschränkungen gemäß § 81 Abs. 1 InsO unwirksam.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>aa) Die Sicherungsvereinbarung entscheidet darüber, in welchem Umfang das Grundstück belastet ist. Schließt der Schuldner eine neue Sicherungsvereinbarung ab, greift diese dann unmittelbar in den Haftungsbestand ein, wenn die Grundschuld dadurch in einem weitergehenden Umfang als zuvor als Sicherheit dient. Es handelt sich um eine verfügungsgleiche Handlung des Schuldners, weil der Schuldner mit einer Änderung der Sicherungsvereinbarung die ihm zustehenden Rückgewähransprüche in ihrem Umfang und inhaltlichen Bestand ändert. Bestand ein bedingter Rückgewähranspruch zugunsten der Schuldnerin, stellt die Änderung eine verfügungsgleiche Handlung dar. Die Erweiterung des Sicherungszwecks gegenüber der bisherigen Sicherungsvereinbarung wirkt zugleich wie ein Verzicht auf den bestehenden bedingten Rückgewähranspruch. Mithin handelt es sich bei der Erweiterung einer Sicherungsvereinbarung um eine einer Verfügung im Sinne des § 81 Abs. 1 InsO gleichstehende Handlung des Schuldners.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>bb) Hierfür spricht, dass eine bereits bestellte Grundschuld nach der Rechtsprechung des Bundesgerichtshofs nach Abtretung des Rückgewähranspruchs aus dem Vermögen und der Insolvenzmasse des Sicherungsgebers nur insoweit einen Sicherungswert behält, als der Sicherungsnehmer allein oder im Einvernehmen mit dem Sicherungsgeber selbst oder dem Insolvenzverwalter über dessen Vermögen, etwa zur Besicherung eines Massekredits, die Grundschuld revalutieren kann, ohne dadurch den Inhalt des Rückgewähranspruchs zu verändern (BGH, Urteil vom 10. November 2011 - IX ZR 142/10, BGHZ 191, 277 Rn. 9). Der Abtretungsempfänger des Anspruchs auf Rückgewähr einer Sicherungsgrundschuld ist deshalb in seiner Rechtsposition gegenüber dem Schuldner erst dann gesichert, wenn der abgetretene Anspruch durch Wegfall des Sicherungszwecks entstanden war (BGH, Urteil vom 10. November 2011, aaO Rn. 12; vgl. BGH, Urteil vom 25. März 1986 - IX ZR 104/85, WM 1986, 763, 765 unter I.2.). Dies hängt insbesondere davon ab, ob eine weite oder enge Sicherungsvereinbarung getroffen wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Ebenso ist für die Frage, unter welchen Voraussetzungen eine Handlung des Schuldners im Hinblick auf den Sicherungsumfang der Grundschuld eine verfügungsgleiche Handlung im Sinne des § 81 Abs. 1 InsO darstellt, auf die Valutierungsmöglichkeiten vor Änderung der Sicherungsvereinbarung abzustellen. Bei einer zu Sicherungszwecken verschafften Grundschuld ergibt sich die tatsächliche Belastung des schuldnerischen Vermögens erst aus dem Inhalt der Sicherungsvereinbarung. In welchem Umfang und aus welchem Anlass die bestellte Grundschuld als Sicherheit in Betracht kommt, folgt aus der Sicherungsabrede. Diese beeinflusst somit unmittelbar die dem Schuldner zu einer Verteidigung gegen die Inanspruchnahme aus der Grundschuld zustehenden Rechte. Dies rechtfertigt es, den Abschluss der Sicherungsvereinbarung bei einer Grundschuld als verfügungsgleiche Handlung anzusehen, soweit dadurch der Haftungsumfang der Grundschuld festgelegt wird. Der Bundesgerichtshof hat die Erweiterung einer Sicherungsvereinbarung daher bereits am Maßstab der "§§ 81, 91 InsO" gemessen (vgl. BGH, Urteil vom 21. Februar 2008 - IX ZR 255/06, WM 2008, 602 Rn. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>c) Im Streitfall ist mithin entscheidend, ob die Schuldnerin den Sicherungsumfang der Grundschuld durch den Abschluss einer neuen Sicherungsvereinbarung mit der Beklagten erweitert hat. Dies ist der Fall, wenn und soweit der Schuldnerin vor Abschluss der neuen Sicherungsvereinbarung bereits ein fälliger und durchsetzbarer Rückgewähranspruch gegen die  Bank zustand. Gleiches gilt, wenn eine Revalutierung der Grundschuld über die zuletzt noch gesicherte Verbindlichkeit in Höhe von 45.220,82 € hinaus nach dem Inhalt der mit der   Bank bestehenden Sicherungsvereinbarung ausgeschlossen war. Abzustellen ist insoweit auf die gesicherte Hauptforderung. Umgekehrt fehlt es an einer verfügungsgleichen Handlung der Schuldnerin, wenn eine Revalutierung in Höhe des von der Beklagten gewährten Darlehens bereits nach der mit der  Bank bestehenden Sicherungsvereinbarung möglich war. Dann führt die neue Sicherungsvereinbarung zu keiner erweiterten Haftung der Grundschuld (vgl. Gaberdiel/Gladenbeck, Kreditsicherung durch Grundschulden, 9. Aufl., Rn. 985.2 und 985.3). Dies hängt entscheidend vom Inhalt der Sicherungsvereinbarung mit der  Bank ab. Diesen wird das Berufungsgericht aufzuklären haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>2. Die Beklagte kann sich hinsichtlich einer Erweiterung des Sicherungszwecks durch eine unwirksame verfügungsgleiche Handlung der Schuldnerin nicht auf einen Gutglaubensschutz gemäß §§ 892, 893 BGB berufen. Zwar bleiben die §§ 892, 893 BGB gemäß § 81 Abs. 1 Satz 2 InsO unberührt. Ein Insolvenzvermerk ist im Streitfall erst nach Abschluss der Sicherungsvereinbarung im Grundbuch eingetragen worden. Der Gutglaubensschutz erfasst jedoch weder Änderung noch Abschluss der Sicherungsvereinbarung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>a) §§ 892, 893 BGB betreffen den Erwerb von Rechten an einem Grundstück oder von Rechten an einem solchen Recht sowie Rechtsgeschäfte in Ansehung eines im Grundbuch eingetragenen Rechts mit demjenigen, für welchen dieses Recht im Grundbuch eingetragen ist. Die Vorschriften schützen über § 81 Abs. 1 Satz 2 InsO auch den guten Glauben an die Richtigkeit und Vollständigkeit des Grundbuchs im Hinblick auf die uneingeschränkte Verfügungsbefugnis des Schuldners hinsichtlich dieser Rechte (vgl. HK-InsO/Kayser, 9. Aufl., § 81 Rn. 39). Insoweit wird vertreten, dass für denjenigen, der in Unkenntnis der insolvenzrechtlichen Verfügungsbeschränkungen die Grundschuld valutiert, der Schutz der §§ 892, 893 BGB jedenfalls entsprechend heranzuziehen sei (Jaeger/Windel, InsO, § 91 Rn. 123; Gottwald/Eickmann, Insolvenzrechts-Handbuch, 5. Aufl., § 31 Rn. 53; Uhlenbruck, InsO, 13. Aufl., § 91 Rn. 15). Darauf kommt es im Streitfall nicht an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>b) Die §§ 892, 893 BGB gelten weder für den Abschluss noch für eine Änderung des Sicherungsvertrags. Die Sicherungsvereinbarung begründet stets nur Einreden, die der Grundschuld entgegengehalten werden können (vgl. Staudinger/Wolfsteiner, BGB, 2015, § 1191 Rn. 4 f). Sie stellt eine schuldrechtliche Vereinbarung zwischen dem Sicherungsgeber und dem Sicherungsnehmer dar (MünchKomm-BGB/Lieder, 7. Aufl., § 1191 Rn. 20 f); dies steht einer Anwendung von §§ 892, 893 BGB auf rechtsgeschäftliche Vereinbarungen entgegen, welche die Befugnisse des Sicherungsnehmers aus dem Sicherungsvertrag erweitern. Maßgeblich für die Frage, wer Sicherungsgeber und Sicherungsnehmer ist, sind nicht sachenrechtliche Gesichtspunkte, sondern eine Auslegung der Sicherungsvereinbarung (BGH, Urteil vom 20. November 2009 - V ZR 68/09, WM 2010, 210 Rn. 14; Clemente, ZIP 1990, 969, 970). Insbesondere muss der Sicherungsgeber nicht mit dem Eigentümer des Grundstücks identisch sein (BGH, Urteil vom 8. Dezember 1988 - III ZR 107/87, WM 1989, 210, 211; vom 20. November 2009, aaO). Im Grundbuch eingetragen sind der Inhaber der Grundschuld und der Eigentümer des Grundstücks, nicht aber Sicherungsgeber und Sicherungsnehmer.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>E.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Die Entscheidung des Berufungsgerichts ist aufzuheben. Die Sache ist gemäß § 563 Abs. 1 Satz 1 ZPO zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen, nachdem die Parteien zum Umfang der mit der  Bank bestehenden Sicherungsvereinbarung, insbesondere zum Recht zur Revalutierung keinen Vortrag gehalten haben. Insoweit ist den Parteien Gelegenheit zur ergänzenden Stellungnahme zu geben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kayser     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gehrlein     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grupp </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schoppmeyer     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meyberg     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304842018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

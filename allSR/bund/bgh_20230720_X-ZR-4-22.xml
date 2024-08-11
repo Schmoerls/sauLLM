@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE633112023</doknr>
+   <ecli>ECLI:DE:BGH:2023:200723UXZR4.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20230720</entsch-datum>
+   <aktenzeichen>X ZR 4/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BPatG München, 6. August 2021, Az: 7 Ni 36/19 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 7. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 6. August 2021 wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 171 836 (Streitpatents), das am 2. September 1999 unter Inanspruchnahme der Priorität einer norwegischen Patentanmeldung vom 3. September 1998 und einer US-amerikanischen Voranmeldung vom 10. November 1998 angemeldet worden ist und eine Funktionstaste zur Computer-Datenbearbeitung betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den zwölf weitere Patentansprüche zurückbezogen sind, hat im Einspruchsverfahren in der Verfahrenssprache folgende Fassung erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Method of providing a function item within a word processor, tied to a user operation in said word processor, said user operation initiating retrieval of a name, address and/or other person or company related information from outside said word processor, comprising a single activation of said function item leading to an analysis of what a user has previously typed in said document to identify only a name and/or address, being used as search terms, wherein said analysis determines whether the analyzed text represents a name and/or address or not, wherein said analysis is performed by a computer program, and, after the analysis, to a search, using said search terms, in a database or file containing the name, address and/or other person or company related information available on or through the computer and to a display of said retrieved information found in said database or said file.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 14 schützt ein Computerprogramm zur Durchführung eines solchen Verfahrens, Patentanspruch 15 ein computerlesbares Medium, auf dem ein solches Programm gespeichert ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin zu 1 und die Streithelferin zu 1 haben das Streitpatent im Umfang der Ansprüche 1, 14 und 15, die Klägerin zu 2 und die Streithelferin zu 2 haben es in vollem Umfang angegriffen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen und die Streithelferinnen, die aus dem Streitpatent gerichtlich in Anspruch genommen werden, haben geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig, die Erfindung sei nicht so offenbart, dass der Fachmann sie ausführen könne, und der Gegenstand des Schutzrechts gehe über den Inhalt der ursprünglichen Anmeldung hinaus, schließlich sei sein Schutzbereich erweitert. Die Beklagte hat das Streitpatent wie erteilt und hilfsweise in sieben geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Mit ihrer dagegen gerichteten Berufung verteidigt die Beklagte das Streitpatent mit einem neuen Hauptantrag, der dem früheren Hilfsantrag 4 entspricht, und einem neuen Hilfsantrag. Die Klägerinnen und ihre Streithelferinnen treten dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Berufung ist zulässig, jedoch nicht begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren zum Zugriff auf eine zweite Information, die einer in einem Nutzerdaten enthaltenden Anwendungsprogramm befindlichen ersten Information zugeordnet ist, in einer Informationsquelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung sind in den vergangenen Jahren Anwendungen wie Textverarbeitung oder Tabellenkalkulation und ähnliches aufgekommen, die unter dem Begriff Textverarbeitungsprogramme (word processors) zusammengefasst sind. Wenn dort Informationen, wie Name und Adresse in einen Text eingefügt werden sollen, könne es erforderlich sein, die entsprechenden Informationen aufzufinden. Solche Informationen befänden sich typischerweise in externen Quellen, etwa einer Datenbank, oder im Textverarbeitungsprogramm selbst. Dies erfordere eine ständige Aktualisierung der Datenbank durch den Nutzer, auch müsse dieser lernen, wie er auf die Datenbank zugreife und diese nutze. Erfolge etwa eine Adressenänderung, müsse dies entweder vom Nutzer des Textverarbeitungsprogramms oder zentral vom Administrator der Datenbank in diese eingegeben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das US-amerikanische Patent 5 761 656 offenbare eine Schnittstelle zwischen einem Anwendungsprogramm und einer Datenbank, bei der der Nutzer des Anwendungsprogramms Objekte per "drag and drop" in ein anderes, als Verbindungsverwalter (link manager) bezeichnetes Programm überführen könne, von wo aus das Objekt in die Datenbank eingefügt werden könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund besteht das technische Problem - von Lösungselementen bereinigt - darin, den Austausch von Informationen zwischen einem Textverarbeitungsprogramm und einer Datenbank, die solche Informationen bereithält, für den Nutzer zu verbessern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in Patentanspruch 1 in der Fassung, die es im Einspruchsverfahren erhalten hat, ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Method of providing a function item within a word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren zum Bereitstellen eines Funktionselements innerhalb eines Textverarbeitungsprogramms;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">tied to a user operation in said word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei das Funktionselement mit einer Benutzeroperation in dem Textverarbeitungsprogramm verknüpft ist;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">said user operation initiating retrieval of a name, address and/or other person or company related information from outside said word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Benutzeroperation leitet ein Wiederauffinden eines Namens, einer Adresse und/oder einer anderen personen- oder unternehmensbezogenen Information von einer Stelle außerhalb des Textverarbeitungsprogramms ein;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">comprising a single activation of said function item</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">das Verfahren umfasst eine einzelne Aktivierung eines Funktionselements,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">leading to an analysis of what a user has previously typed in said document</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die zu einer Analyse dessen führt, was ein Benutzer zuvor in das Dokument eingegeben hat,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">to identify only a name and/or address</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">zur Identifizierung nur eines Namens und/oder einer Adresse,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">being used as search terms</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die als Suchbegriffe verwendet werden;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein said analysis determines whether the analyzed text represents a name and/or address or not</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Analyse bestimmt, ob der analysierte Text einen Namen und/oder Adresse darstellt oder nicht,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein said analysis is performed by a computer program and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei die Analyse von einem Computerprogramm durchgeführt wird, und,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">after the analysis, to a search, using said search terms</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die nach dieser Analyse zu einem Suchvorgang unter Verwendung der Suchbegriffe führt,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">in a database or file containing the name, address and/or or other person or company related information available on or through the computer</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">in einer Datenbank oder Datei, die den Namen, Adresse und/oder eine andere personen- oder unternehmensbezogene Information enthält, die auf oder durch den Computer verfügbar ist, und</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">and a display of said retrieved information found in said database or said file</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die zu einer Anzeige der erhaltenen Information, die in der Datenbank oder Datei aufgefunden wird, führt.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Ein Ausführungsbeispiel ist im Streitpatent anhand der nachfolgend wiedergegebenen Figur 1 erläutert:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="561px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Nach der Eingabe einer Adresse in einem Textverarbeitungsprogramm betätigt der Nutzer eine Taste (Schritt 2). Dies führt zu einer Analyse des eingegebenen Texts (Schritt 4). Der weitere Ablauf hängt davon ab, ob bei dieser Analyse nur ein Name oder ein Name mit Adresse oder aber ein anderes Element, etwa eine Telefonnummer, aufgefunden wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Wird nur ein Name aufgefunden, sucht das Programm in der externen Datenbank nach diesem Namen (Schritt 12). Wird dort dieser Name mit genau einer Adresse gefunden, werden diese Informationen in den Text eingefügt (Schritt 22). Werden in der Datenbank mehrere Adressen zu diesem Namen gefunden, werden diese dem Nutzer angezeigt, so dass er wählen kann, welche Adresse in den Text übernommen werden soll (Schritt 20). Wird der Name in der Datenbank nicht gefunden, wird der Nutzer aufgefordert, die zugehörige Adresse und gegebenenfalls weitere Informationen wie Telefon- oder Telefaxnummer, E-Mail-Adresse oder dergleichen einzugeben (Schritt 24, Abs. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Führt die Analyse dazu, dass im eingegebenen Text Name und Adresse aufgefunden werden, wird wiederum der Name in der Datenbank gesucht (Schritt 14). Ist der Name nicht in der Datenbank enthalten, werden Name und Adresse in die Datenbank eingefügt (Schritt 28). Werden Name und Adresse in der Datenbank gefunden, erfolgt entweder keine Aktion oder die Daten werden dem Nutzer zum Editieren angezeigt (Schritt 32). Enthält die Datenbank den Namen, nicht aber die im Text aufgefundene Adresse werden dem Nutzer verschiedene Möglichkeiten vorgeschlagen: Handelt es sich um einen anderen Kontakt mit gleichem Namen, können Name und Adresse in die Datenbank eingefügt werden (Schritt 28). Alternativ kann der Nutzer entscheiden, dass nichts unternommen wird, dass die bislang vorhandene Adresse durch die jetzt im Text aufgefundene ersetzt wird (Schritt 34) oder dass diese Adresse zusätzlich in die Datenbank aufgenommen wird (Schritt 36).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Wird bei der Analyse des eingegebenen Textes ein anderes Element, etwa eine Telefonnummer aufgefunden, führt dies nicht zur Suche in der Datenbank, sondern zu einer "entsprechenden Aktion" (appropriate action, Schritt 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das Verfahren erleichtert damit dem Nutzer eines Textverarbeitungsprogramms den Zugriff auf die Datenbank. Je nach den Umständen werden ergänzende Informationen aus der Datenbank angeboten, in den eingegebenen Text eingefügt oder die Informationen in der Datenbank aktualisiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der Erläuterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>a) Die Gestaltung des Funktionselements (function item), durch dessen Betätigung die in den folgenden Merkmalen näher beschriebene Benutzeroperation (user operation) bewirkt wird, ist in Merkmal 1 nicht vorgegeben. Wie sich aus der Beschreibung ergibt, kommen etwa eine Schaltfläche auf einem berührungsempfindlichen Bildschirm, ein Icon, ein Menüpunkt, eine Vorrichtung, die auf eine Spracheingabe reagiert oder eine körperlich-gegenständliche Taste in Betracht (Abs. 9, Abs. 13, Patentanspruch 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>b) Das Funktionselement wird anspruchsgemäß innerhalb eines Textverarbeitungsprogramms bereitgestellt. Dies erfordert, dass der Nutzer bei Anwendung eines solchen Programms unmittelbar auf das Funktionselement zugreifen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>c) Die Benutzeroperation umfasst nach Merkmal 3 die Analyse dessen, was der Nutzer zuvor in das Dokument eingegeben hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Wird in dem eingegebenen Text ein Name oder eine Adresse identifiziert, werden diese als Suchbegriffe in einer Datenbank oder Datei verwendet, die sich nach Merkmal 1.2 außerhalb des Textverarbeitungsprogramms befindet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>d) Das Patentgericht vertritt im angefochtenen Urteil die Auffassung, die Merkmale 3.1 bis 3.3 seien dahin zu verstehen, dass die durch die Aktivierung des Funktionselements ausgelöste Analyse des eingegebenen Texts ausschließlich auf die Identifizierung von Namen und/oder Adressen ausgerichtet sei. Eine auf die Identifizierung anderer Elemente, etwa einer Telefonnummer oder einer E-Mail-Adresse, zielende Analyse sei nicht nur für eine nachfolgende Verwendung als Suchbegriff, sondern generell ausgeschlossen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Ob dieses Verständnis von Patentanspruch 1 zutrifft oder ob der Anspruch lediglich vorgibt, dass die Beschränkung der Analyse auf die Identifizierung von Namen und Adressen insoweit erfolgt, als es um die spätere Verwendung dieser Textteile als Suchbegriffe geht, bedarf hier keiner abschließenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit im Berufungsverfahren noch von Interesse, im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Die Klagen der Klägerinnen zu 1 und 2 seien auch nach dem Erlöschen des Streitpatents durch Zeitablauf zulässig, weil die Klägerinnen wegen Verletzung des Streitpatents in Anspruch genommen werden. Aus dem gleichen Grund sei der Beitritt der Streithelferinnen zu 1 und 2 zum Verfahren zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 gehe nicht über den Inhalt der ursprünglichen Anmeldung hinaus. Wie die Beschwerdekammer des Europäischen Patentamts im Einspruchsverfahren zutreffend angenommen habe, sei die Beschränkung auf die Identifizierung von Namen und/oder Adressen zwar nicht ursprünglich offenbart. Dies sei jedoch unschädlich, weil diese Fassung nicht zu einem aliud, sondern lediglich zu einer Beschränkung des Schutzgegenstands führe. Merkmal 3.1 leiste keinen technischen Beitrag und sei bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>In der erteilten Fassung sei der Gegenstand von Patentanspruch 1 jedoch nicht patentfähig. Ausgehend von dem US-amerikanischen Patent 5 579 467 (HLNK8) beruhe diese Lehre zumindest nicht auf erfinderischer Tätigkeit. Von der dort offenbarten Lehre unterscheide sich der Gegenstand von Patentanspruch 1 allenfalls dadurch, dass nicht, wie in HLNK8, nach fünf Arten von Informationselementen (Personen, Orte, Ereignisse, Zeiten und Daten) gesucht werde, sondern die Suche auf Personennamen und/oder Adressen beschränkt sei. Dieser Unterschied sei nicht geeignet, die Patentfähigkeit zu begründen. Die Begrenzung der erfassten Informationselemente leiste keinen technischen Beitrag und sei bei der Beurteilung der erfinderischen Tätigkeit nicht zu berücksichtigen. Unabhängig davon dürfe die mit Merkmal 3.1 vorgenommene Beschränkung, weil nicht ursprungsoffenbart, bei der Prüfung auf erfinderische Tätigkeit nicht berücksichtigt werden. Für die nebengeordneten Ansprüche gelte nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Auch in der Fassung der Hilfsanträge sei das Streitpatent nicht rechtsbeständig. In der Fassung nach Hilfsantrag 1 beruhe der Gegenstand von Patentanspruch 1 auf unzulässiger Erweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>In der Fassung der Hilfsanträge 2 bis 4 genüge Patentanspruch 1 jeweils nicht dem Gebot der Klarheit. Es sei nicht hinreichend deutlich, was mit einer entsprechenden Handlung (appropriate action), die bei Auffinden einer E-Mail-Adresse oder einer Telefonnummer durchgeführt werde, gemeint sei. In dieser Fassung sei der Anspruch zudem in sich widersprüchlich, weil er einerseits bestimme, dass in dem eingegebenen Text nur Name oder Adresse bestimmt werden, andererseits vorsehe, dass auch E-Mail-Adressen und Telefonnummern erkannt würden. Insoweit gehe diese Fassung auch über den Inhalt der ursprünglichen Anmeldeunterlagen hinaus, weil dort zwar eine Speicherung, nicht aber eine Identifikation von E-Mail-Adresse oder Telefonnummern im eingegebenen Text offenbart sei. Auch eine unterschiedliche Reaktion auf das Identifizieren eines Namens oder einer Adresse einerseits und das Auffinden einer E-Mail-Adresse oder Telefonnummer andererseits sei nicht ursprungsoffenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>1. Im Berufungsrechtszug verteidigt die Beklagte das Streitpatent mit ihrem Hauptantrag in einer beschränkten Fassung, die dem erstinstanzlichen Hilfsantrag 4 entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Die Merkmale von Patentanspruch 1 nach diesem neuen Hauptantrag lassen sich wie folgt gliedern (Änderungen hervorgehoben).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Method of providing a function item within a word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren zum Bereitstellen eines Funktionselements innerhalb eines Textverarbeitungsprogramms;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">tied to a user operation in said word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei das Funktionselement mit einer Benutzeroperation in dem Textverarbeitungsprogramm verknüpft ist;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">said user operation initiating retrieval of a name, address and/or other person or company related information from outside said word processor</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Benutzeroperation leitet ein Wiederauffinden eines Namens, einer Adresse und/oder einer anderen personen- oder unternehmensbezogenen Information von einer Stelle außerhalb des Textverarbeitungsprogramms ein;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">comprising a single activation of said function item</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">das Verfahren umfasst eine einzelne Aktivierung eines Funktionselements,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">leading to an analysis of what a user has previously typed in said document</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die zu einer Analyse dessen führt, was ein Benutzer zuvor in das Dokument eingegeben hat,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">to identify only a name and/or address,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">zur Identifizierung nur eines Namens und/oder einer Adresse,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">being used as search terms,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die als Suchbegriffe verwendet werden;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3          </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein said analysis determines</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die Analyse bestimmt,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3a</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">whether the analyzed text represents a name and/or address or not <span style="text-decoration:underline">and</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">ob der analysierte Text einen Namen und/oder Adresse darstellt oder nicht, <span style="text-decoration:underline">und</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">3.3b</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">whether the analyzed text represents an e-mail address or a telephone number,</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">ob der analysierte Text eine E-Mail-Adresse oder eine Telefonnummer darstellt</span>
+                           <em>,</em>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wherein said analysis is performed by a computer program and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">wobei die Analyse von einem Computerprogramm durchgeführt wird, und,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">[leading] after the analysis<em>, </em>
+                           <span style="text-decoration:underline">if the analysis finds a name and/or adress to a search,</span> using said search terms</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die nach dieser Analyse<em>, </em>
+                           <span style="text-decoration:underline">sofern dabei ein Name oder eine Adresse gefunden wird,</span> zu einem Suchvorgang unter Verwendung der Suchbegriffe führt,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">in a database or file containing the name, address and/or or other person or company related information available on or through the computer</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">in einer Datenbank oder Datei, die den Namen, Adresse und/oder eine andere personen- oder unternehmensbezogene Information enthält, die auf oder durch den Computer verfügbar ist, und</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">and a display of said retrieved information found in said database or said file;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die zu einer Anzeige der in der Datenbank oder Datei aufgefundenen Information führt;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">6</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">wherein if the analysis finds an e-mail address a step of composing an e-mail is initiated</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">wobei, wenn die Analyse eine E-Mail-Adresse findet, ein Schritt des Verfassens einer elektronischen Nachricht eingeleitet wird,</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">7</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">and wherein if the analysis finds a telephone number a step of performing a phone call using the found telephone number is initiated</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">und wobei, wenn die Analyse eine Telefonnummer findet, ein Schritt des Tätigens eines Telefonanrufs unter Verwendung der gefundenen Telefonnummer eingeleitet wird.</span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>2. Die Verteidigung von Patentanspruch 1 in dieser Fassung ist unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat im Zusammenhang der Ausführungen zum erstinstanzlichen Hilfsantrag 4 zu Recht angenommen, dass die Merkmale 6 und 7 in der Veröffentlichung der internationalen Patentanmeldung 00/14655 (dfmp6), deren Inhalt den ursprünglichen Anmeldeunterlagen entspricht, nicht offenbart sind. Die hiergegen von der Berufung erhobenen Einwendungen greifen nicht durch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>a) Im Ausgangspunkt zutreffend weist die Berufung darauf hin, dass in dem Ausführungsbeispiel nach Figur 1 der Anmeldung, die der oben wiedergegebenen Figur 1 der Streitpatentschrift entspricht, neben der Möglichkeit der Identifikation eines Namens oder eines Namens und einer Adresse und deren anschließender Verwendung als Suchbegriff für die Suche in einer Datenbank auch die Möglichkeit aufgezeigt ist, dass die Analyse des in das Textverarbeitungsprogramm eingegebenen Textes zum Auffinden eines anderen Elements führt. Beispielhaft hierfür sind in Figur 1 und in der entsprechenden Passage der Beschreibung (S. 5 Z. 38 f.) eine E-Mail-Adressen-Mailing-Liste (e-mail adress mailing list) oder eine Kategorienbezeichnung-Telefonnummer (category name telephone number) aufgeführt. Wird eines dieser beiden Elemente im eingegebenen Text aufgefunden, wird es - anders als ein Name oder eine Kombination von Name und Adresse - nicht als Suchbegriff für die Suche in einer Datenbank verwendet. Für diesen Fall ist vielmehr als Schritt 10 eine zweckdienliche Aktion (appropriate action) vorgesehen und - in der Folge - die Beendigung des durch die Betätigung des Funktionselements eingeleiteten Verfahrens (S. 5 Z. 38 bis S. 6 Z. 2). In der Beschreibung wird insoweit erwähnt, dass es auch um eine andere Information ("or other information", S. 5 Z. 39) gehen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>In der ursprünglichen Anmeldung ist dabei weder erläutert, was unter einer E-Mail-Adressen-Mailing-Liste oder unter einer Kategorienbezeichnung-Telefonnummer zu verstehen ist, noch ist ausgeführt, welche Aktion als zweckdienlich in Betracht kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Anders als die Berufung meint, ist damit bereits nicht unmittelbar und eindeutig offenbart, dass die Analyse des eingegebenen Texts auch zum Auffinden einer E-Mail-Adresse oder einer Telefonnummer führen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon ist den ursprünglichen Anmeldeunterlagen nicht unmittelbar und eindeutig zu entnehmen, dass mit einer zweckdienlichen Aktion im Falle des Auffindens einer E-Mail-Adresse das Einleiten des Verfassens einer E-Mail-Nachricht oder im Falle des Auffindens einer Telefonnummer das Einleiten eines Telefonanrufs gemeint ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>b) Die genannten Merkmale sind auch in der weiteren von der Berufung angegebenen Passage der Beschreibung der Anmeldung (S. 5 Z. 9 bis 15) nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>aa) Diese Passage, die sich im allgemeinen Teil der Beschreibung befindet, schließt inhaltlich an die beiden vorangehenden Absätze (S. 4 Z. 12 bis S. 5 Z. 8) an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Dort wird beschrieben, dass die Betätigung der Funktionstaste eine Analyse des eingegebenen Texts auf bestimmte Informationen, wie etwa Namen, bewirkt und bei Auffinden eines Namens eine Datenbank darauf durchsucht wird, ob diese Information dort gespeichert ist. Sodann wird die weitere Vorgehensweise beschrieben, die davon abhängt, ob in der Datenbank gespeicherte Information ("stored information") gefunden wird oder nicht: Wird keine gespeicherte Information gefunden, wird der Nutzer gefragt, ob die aufgefundene Information, etwa der Name, in der Datenbank gespeichert werden soll. Wird eine korrespondierende Information gefunden, wird diese in den eingegebenen Text eingefügt, gegebenenfalls nach einer entsprechenden Bestätigung des Nutzers. Für den Fall einer Abweichung zwischen der im Text identifizierten und der in der Datenbank aufgefundenen Information sind verschiedene Optionen vorgesehen. Sind beispielsweise zu einem Namen mehrere Adressen in der Datenbank gespeichert und wird dieser Name abgerufen, werden alle Adressen angezeigt, um dem Nutzer die Auswahl einer Adresse zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Hieran anschließend spricht die Beschreibung die Möglichkeit an, auch andere Informationen, wie Telefon- oder Faxnummern, E-Mail-Adressen, Mailing-Listen etc. zu speichern und aufzufinden. Bei Abruf einer E-Mail-Adresse oder einer Faxnummer könne der Nutzer das Versenden einer E-Mail oder einer Faxnachricht anordnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Wie sich aus dem Zusammenhang mit den voranstehenden Absätzen ergibt, ist danach eine Programmerweiterung möglich, nach der eine E-Mail-Adresse, eine Fax- oder Telefonnummer in der Datenbank gespeichert und mit einem Namen verknüpft sein können, so dass bei Identifizieren des Namens im eingegebenen Text und dessen Verwendung als Suchbegriff in der Datenbank dem Nutzer nicht nur eine diesem Namen zugeordnete Adresse, sondern darüberhinaus auch E-Mail-Adresse oder Fax- oder Telefonnummer angezeigt werden und ihm die Möglichkeit angeboten wird, eine E-Mail oder Fax zu versenden oder ein Telefonat einzuleiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Eine Vorgehensweise, bei der die Analyse des eingegebenen Texts und das Auffinden einer E-Mail-Adresse oder einer Telefonnummer unmittelbar - ohne Suche in der Datenbank - dazu führt, dass im Sinne der Merkmale 6 und 7 die Erstellung einer E-Mail oder eines Telefonats eingeleitet wird, ist in der Anmeldung nicht beschrieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>bb) Die Merkmale 6 und 7 sind selbst dann nicht offenbart, wenn man entgegen dem zuvor Ausgeführten annimmt, dass das Programm über Namen und/oder Adressen hinaus auch andere Elemente des eingegebenen Textes identifiziert und sodann als Suchbegriffe verwendet, also mit dem Inhalt einer Datenbank abgleicht und gegebenenfalls in dieser Datenbank speichert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Die Anordnung des Versendens einer E-Mail oder des Einleitens eines Telefonats wäre damit für den Fall offenbart, dass eine E-Mail-Adresse oder Telefonnummer als Suchbegriff verwendet und in der Datenbank aufgefunden wird. Merkmale 6 und 7 beziehen sich dagegen gerade auf den Fall, dass eine E-Mail-Adresse oder Telefonnummer nicht als Suchbegriff verwendet wird. Dass in einer solchen Situation das Auffinden einer E-Mail-Adresse oder Telefonnummer das Versenden einer E-Mail oder einen Telefonanruf einleitet, ist auch an der genannten Stelle nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Beklagten wird der Begriff "retrieve" in der Anmeldung nicht durchweg in dem Sinne verwendet, dass er ein Auffinden eines Elements im eingegebenen Text bezeichnet und damit etwas anderes als die Suche in der Datenbank.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Sowohl in Anspruch 1 wie an mehreren Stellen der Beschreibung (etwa S. 1 Z. 9-14, S. 8 Z. 3, S. 12 Z. 16) werden die Begriffe "retrieve" bzw. "retrieval" nicht für die Suche im eingegebenen Text verwendet, sondern für die Suche in der Datenbank.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>d) Ohne Erfolg macht die Berufung geltend, es verstehe sich aus fachlicher Sicht von selbst, dass als "zweckdienliche Aktion" bei Auffinden einer Telefonnummer nur das Einleiten eines Telefonats bzw. bei Auffinden einer E-Mail-Adresse nur das Einleiten des Versands einer E-Mail in Betracht kommt. Dem Begriff der "zweckdienlichen Aktion" ist gerade keine bestimmte Festlegung oder Beschränkung in diesem Sinne zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>e) Ob die Fassung von Patentanspruch 1 in dieser Fassung unklar ist und ob sein Gegenstand auch in Bezug auf andere Merkmale über den Inhalt der ursprünglichen Anmeldung hinausgeht, bedarf unter diesen Umständen keiner Entscheidung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>3. Da Patentanspruch 1 in der Fassung von Hilfsantrag 1 das Merkmal 6 umfasst, ist die Verteidigung des Streitpatents in dieser Fassung ebenfalls unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG mit § 97 Abs. 1 und § 100 ZPO. Die Verpflichtung der Beklagten zur Kostenerstattung umfasst auch die außergerichtlichen Kosten der Streithelferinnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="0" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Deichfuß     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Hoffmann     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">
+                           <span>RinBGH Dr. Kober-Dehm ist<br/>wegen Urlaub an der<br/>Unterschrift gehindert.</span>
+                        </p>
+                        <p style="text-align:center">
+                           <span>Deichfuß</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Rombach     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Crummenerl     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE633112023&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

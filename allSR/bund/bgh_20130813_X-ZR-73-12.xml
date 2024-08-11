@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301372013</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20130813</entsch-datum>
+   <aktenzeichen>X ZR 73/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 121 Abs 2 PatG, § 93 ZPO</norm>
+   <vorinstanz>vorgehend BPatG München, 6. Februar 2012, Az: 5 Ni 37/10 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Wirkung einer beschränkten Schutzrechtsverteidigung als sofortiges Anerkenntnis; Veranlassung zur Erhebung einer Nichtigkeitsklage - Druckdatenübertragungsverfahren</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Druckdatenübertragungsverfahren</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Im Patentnichtigkeitsverfahren steht es einem sofortigen Anerkenntnis im Sinne von § 93 ZPO gleich, wenn der Patentinhaber in der Klageerwiderung das Schutzrecht nur in eingeschränkter Fassung verteidigt und auf den darüber hinausgehenden Schutz für die Vergangenheit und Zukunft verzichtet. Eine Erklärung des Patentinhabers, er erkenne das gegen den nicht verteidigten Teil des Patents gerichtete Klagebegehren an, ist grundsätzlich als Verzicht in diesem Sinne auszulegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein Patentinhaber gibt auch dann Veranlassung zur Erhebung einer Nichtigkeitsklage, wenn er dem potentiellen Kläger trotz Aufforderung nicht schon vor Klageerhebung eine Rechtsstellung verschafft, die mit derjenigen nach der Nichtigerklärung des Patents vergleichbar ist. Dies kann dadurch geschehen, dass der Patentinhaber beim Patentamt die Beschränkung des Streitpatents beantragt und auf das Recht zur Rücknahme dieses Antrags verzichtet, nicht aber durch einen nur gegenüber einzelnen Personen erklärten Verzicht auf die Rechte aus dem Patent (Ergänzung zu BGH, Urteil vom 8. Dezember 1983, X ZR 15/82, GRUR 1984, 272, 276 - Isolierglasscheibenrandfugenfüllvorrichtung).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 6. Februar 2012 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 262 035 (Streitpatents), das am 23. Februar 2001 unter Inanspruchnahme der Priorität einer deutschen Patentanmeldung vom 23. Februar 2000 angemeldet worden ist und ein Verfahren zur Übertragung von Daten in Netzwerken über Datenleitungen betrifft. Patentanspruch 1, auf den dreizehn weitere Patentansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Übertragung von Daten in Netzwerken, dadurch gekennzeichnet, dass die an der Anbindung eines Endgerätes zur Datenübertragung verfügbare Bandbreite vor und/oder während der Übertragung der Daten in zumindest zwei Bandbreitenbereiche unterteilt wird, wobei die Unterteilung der Bandbreite manuell durch einen die Datenübertragung steuernden Nutzer vorgenommen wird, mindestens ein Bandbreitenbereich den zu übertragenden Daten zugeteilt wird und die übrige Bandbreite dem Nutzer für die parallele Übertragung anderer Daten zur Verfügung stehen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Unterlagen hinaus und sei nicht patentfähig. Die Beklagte hat das Streitpatent mit einem Hauptantrag und zwei Hilfsanträgen in geänderter Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Dagegen wendet sich die Beklagte mit ihrer Berufung, mit der sie ihre erstinstanzlichen Anträge weiterverfolgt und die Zurückverweisung der Sache an das Patentgericht begehrt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung bleibt im Ergebnis ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft in seinen verteidigten Fassungen ein Verfahren zur Übertragung von Druckdaten in Netzwerken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Nach den Ausführungen in der Streitpatentschrift waren im Stand der Technik verschiedene Verfahren zur Komprimierung von Daten bekannt, die es ermöglichen, das zu verarbeitende Datenvolumen und den für eine Übertragung der Daten erforderlichen Zeitaufwand zu reduzieren. Als Nachteil solcher Verfahren wird angegeben, der Versender und der Empfänger seien während der Datenübertragung daran gehindert, mit anderen Endgeräten oder der Zentraleinheit des jeweiligen Netzwerks zu kommunizieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein Übertragungsverfahren zur Verfügung zu stellen, bei dem der Versender oder der Empfänger während des Übertragungsvorgangs die Möglichkeit behalten, die Datenverbindung auch für andere Kommunikationsvorgänge zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems schlägt Patentanspruch 1 in der mit dem Hauptantrag verteidigten Fassung ein Verfahren zur Übertragung von Druckdaten vor, dessen Merkmale sich wie folgt gliedern lassen (Abweichungen gegenüber der erteilten Fassung und gegenüber der Gliederung des Patentgerichts sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Verfahren dient der Übertragung von Daten <span style="text-decoration:underline">zwischen einem Endgerät und einem Server</span> in Netzwerken [M1].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. <span style="text-decoration:underline">Durch einen Nutzer des Endgeräts wird auf dem Server ein Druckprozess gestartet [M1a].</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die an der Anbindung des Endgerätes zur Datenübertragung verfügbare Bandbreite wird vor und/oder während der Übertragung von <span style="text-decoration:underline">durch den Druckprozess erzeugten</span> Daten in zumindest zwei Bandbreitenbereiche unterteilt [M2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Die Unterteilung der Bandbreite wird manuell durch einen die Datenübertragung steuernden Nutzer vorgenommen [M3].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Mindestens ein Bandbreitenbereich wird den zu übertragenden<span style="text-decoration:underline">, durch den Druckprozess erzeugten</span> Daten zugeteilt [M4].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) <span style="text-decoration:underline">Dies geschieht, indem für die Übertragung dieser Daten von dem Server zu dem Endgerät die Bandbreite vorgegeben wird [M4a].</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) Die übrige Bandbreite steht dem Nutzer für die parallele Übertragung anderer Daten zur Verfügung [M5].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die im Streitpatent beanspruchte Lehre ziele auf die Einstellung der Bereiche der Bandbreite im Kontext eines Netzwerks ab. Sie umfasse zwar auch die softwaretechnische Festlegung eines Frequenzbereichs, sei aber nicht darauf beschränkt. Sie richte sich deshalb an einen Diplomingenieur (FH) der Nachrichtentechnik, der über Kenntnisse auf dem Gebiet der Übertragung und Verwaltung von Daten in Computernetzwerken und über Grundlagenwissen der auf seinem Fachgebiet zur Anwendung kommenden Programmiertechniken verfüge.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Einem Fachmann mit diesen Kenntnissen sei der Gegenstand des Streitpatents in allen verteidigten Fassungen schon durch sein Fachwissen nahegelegt. Ihm sei bekannt, dass bei der Abwicklung von Prozessen in einem Netzwerk unterschiedliche Prioritäten vergeben würden und hierzu auch Datenkanäle mit bestimmten Bandbreiten für den Datentransfer zur Verfügung zu stellen seien. Wenn Bedarf für eine parallele Kommunikation in mehreren Datenströmen bestehe, werde der Fachmann einen vorhandenen Kanal deshalb in mehrere Teilkanäle aufteilen. Hierzu stünden unterschiedliche Methoden zur Verfügung, unter anderem Zeitmultiplex, Frequenzmultiplex und Codemultiplex. Die Auswahl unter diesen Methoden und weitere Einzelheiten lege der Fachmann anhand der jeweiligen Vorgaben fest.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Diese Vorgehensweise sei dem Fachmann insbesondere dann nahegelegt, wenn es sich um einen umfangreichen Druckprozess handle, bei dem der Server weiterhin ansprechbar bleiben müsse. Da der Bandbreitenbedarf abhängig von der zu übertragenden Menge an Druckdaten sei, werde der Fachmann eine manuelle Einstellmöglichkeit für den Nutzer vorsehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nur im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung der Beklagten begründet der Umstand, dass das Patentgericht weder im angefochtenen Urteil noch in dem gemäß § 83 Abs. 1 PatG erteilten Hinweis auf die von der Klägerin herangezogenen Entgegenhaltungen eingegangen ist, nicht schon für sich gesehen einen Rechtsfehler.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>In einem Patentnichtigkeitsverfahren dürfte es zwar allenfalls in Ausnahmefällen in Betracht kommen, dass der Gegenstand des angegriffenen Schutzrechts dem Fachmann am Prioritätstag schon durch sein allgemeines Fachwissen nahegelegt war. Deshalb ist es in der Regel unumgänglich, dass das Patentgericht sich mit den aus seiner Sicht maßgeblichen Entgegenhaltungen auseinandersetzt und im Einzelnen darlegt, weshalb der Gegenstand des angegriffenen Patents durch sie offenbart oder nahegelegt ist. Gelangt das Patentgericht aber ausnahmsweise zu dem Ergebnis, der Gegenstand des Schutzrechts sei schon durch allgemeine Fachkenntnisse nahegelegt, so genügt es darzulegen, worin diese Kenntnisse im Einzelnen bestehen, weshalb sie dem Fachmann am Prioritätstag unabhängig von konkreten Entgegenhaltungen geläufig waren und weshalb der Fachmann Anlass hatte, schon aufgrund dieser Kenntnisse zum Gegenstand des zu beurteilenden Schutzrechts zu gelangen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Diesen formalen Anforderungen werden die Ausführungen in dem gemäß § 83 Abs. 1 PatG erteilten Hinweis und im angefochtenen Urteil gerecht. Der Erfolg der Berufung hängt mithin davon ab, ob die Beurteilung des Patentgerichts einer inhaltlichen Überprüfung standhält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>2. Die Beurteilung des Patentgerichts ist rechtsfehlerhaft, weil sie auf einer unzutreffenden Auslegung des Streitpatents beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht ist bei seinen Ausführungen zur erfinderischen Tätigkeit davon ausgegangen, die in Merkmal 3 [M2] vorgesehene Aufteilung der verfügbaren Bandbreite in zwei Bereiche könne unter anderem auch durch ein Frequenzmultiplex-Verfahren erfolgen, also dadurch, dass das zur Verfügung stehende Frequenzband in zwei Subfrequenzbänder aufgeteilt wird. Diese Auslegung trägt den Festlegungen der Merkmalsgruppe 3 [M2 bis M5] nicht hinreichend Rechnung. Aus diesen ergibt sich, dass der Gegenstand von Patentanspruch 1 nur Verfahren umfasst, bei denen die Unterteilung in zwei oder mehr Bandbreitenbereiche nicht durch physikalische Modifikation der eingesetzten Übertragungswege erfolgt, sondern allein durch Modifikation des zu übertragenden Datenstroms.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Unter den Wortlaut von Merkmal 3 [M2] könnten bei isolierter Betrachtung allerdings auch die vom Patentgericht angeführten Verfahren zur Unterteilung der Bandbreite subsumiert werden, insbesondere also Zeit-, Frequenz- oder Codemultiplexing. Nach Merkmal 3 b [M4] hat die Unterteilung der Bandbreite aber dadurch zu erfolgen, dass ein bestimmter Bandbreitenbereich den zu übertragenden, durch den Druckprozess erzeugten Daten zugeteilt wird. Nach Merkmal 3 c [M4a] wird hierzu eine Bandbreite für diese Daten vorgegeben. Diese Vorgabe erfolgt gemäß Merkmal 3 a [M3] manuell durch den Benutzer. All dies deutet darauf hin, dass die Unterteilung der Bandbreite nicht durch Eingriffe in die physikalischen Parameter des eingesetzten Übertragungswegs erfolgen darf, sondern auf einer vorgelagerten Ebene erfolgen muss, die von den physikalischen Gegebenheiten des im Einzelfall verfügbaren Übertragungswegs unabhängig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Dies wird bestätigt durch die zur Auslegung des Patentanspruchs heranzuziehende Beschreibung. Danach ist das erfindungsgemäße Verfahren für beliebige Netzwerke einsetzbar, unabhängig davon, ob diese in einem Festnetz, einem Mobilfunknetz oder einer Kombination aus beidem angesiedelt sind, und unabhängig von der insgesamt zur Verfügung stehenden Bandbreite (Abs. 19). Mit dieser Zielsetzung sind Eingriffe des Nutzers in die auf einer bestimmten Übertragungsstrecke eingesetzten Multiplexing-Verfahren oder sonstige physikalische Parameter nicht zu vereinbaren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Auch das in der Patentschrift geschilderte Ausführungsbeispiel steht in Einklang mit dieser engeren Auslegung des Patentanspruchs. In der Beschreibung des Streitpatents wird ausgeführt, für die Anbindung einer Filiale an einen Zentralrechner stehe in der Regel eine Bandbreite von 64 Kilobit pro Sekunde zur Verfügung. In diesem Fall könne die Bandbreite für die Übertragung der komprimierten Druckdaten von der Zentraleinheit zum Endgerät zum Beispiel auf 32 Kilobit pro Sekunde festgelegt werden, so dass für den Datenstrom vom Endgerät zur Zentraleinheit ebenfalls noch 32 Kilobit pro Sekunde zur Verfügung stünden (Abs. 24). Dies deutet ebenfalls darauf hin, dass in die physikalischen Gegebenheiten des Übertragungsweges nicht eingegriffen, sondern auf einer vorgelagerten Ebene dafür Sorge getragen wird, dass die zur Verfügung stehende Bandbreite nicht vollständig durch einen einzelnen Datenstrom in Anspruch genommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Hinweise darauf, dass die mit diesen Anforderungen korrespondierenden Merkmale 3 a bis 3 d [M3 bis M5] dennoch in weitergehendem Sinne auszulegen sind und auch Ausführungsformen umfassen sollen, bei denen der Benutzer in die physikalischen Gegebenheiten des Übertragungswegs eingreift, lassen sich demgegenüber weder den Patentansprüchen noch der Beschreibung entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>3. Die Berufung bleibt im Ergebnis dennoch ohne Erfolg, weil sich die angefochtene Entscheidung aus anderen Gründen als richtig darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>a) Das Vorbringen der Parteien, die sich in erster und zweiter Instanz eingehend mit den maßgeblichen Entgegenhaltungen auseinandergesetzt haben, ermöglicht dem Senat eine abschließende Beurteilung aller entscheidungserheblichen Fragen. Auf dieser Grundlage erweist sich die angefochtene Entscheidung im Ergebnis als richtig. Gemäß § 119 Abs. 1 PatG ist die Berufung deshalb zurückzuweisen. Die von der Beklagten angestrebte Aufhebung des angefochtenen Urteils unter Zurückverweisung der Sache an das Patentgericht kommt angesichts dessen nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>b) Der Gegenstand des Streitpatents war dem Fachmann durch die in den Anlagen LR11 bis LR13 dokumentierte Software ICQ nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>aa) Die zum Versenden und Empfangen von Textnachrichten und Dateien geeignete Software ICQ gab dem Nutzer schon in einer vor dem Prioritätstag veröffentlichten Version die Möglichkeit, über einen Schieberegler die Geschwindigkeit des Übertragungsvorgangs beim Versenden von Dateien festzulegen. Die Bildschirmmaske, über die diese Einstellung vorgenommen werden kann, ist in Anlage LR12 wiedergegeben:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="436px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Wählt der Nutzer bei der Option "Speed" einen Wert unterhalb des Maximalwerts, so werden die zu sendenden Daten mit einer Geschwindigkeit übertragen, die die zur Verfügung stehende Bandbreite nicht vollständig ausnutzt. Damit bleibt ein Teil der Bandbreite für andere Übertragungsvorgänge verfügbar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>bb) Das damit offenbarte Verfahren unterscheidet sich, wie auch die Parteien übereinstimmend vortragen, von dem Verfahren nach Patentanspruch 1 des Streitpatents in der mit dem Hauptantrag verteidigten Fassung dadurch, dass die zu übertragenden Daten nicht durch einen Druckprozess erzeugt worden sind, wie dies in den Merkmalen 2, 3 und 3 b [M1a, M2 und M4] vorgesehen ist. Der Fachmann hatte aber Anlass, die in ICQ für die Übertragung von Dateien offenbarte Lösung auch für die Übertragung von Daten heranzuziehen, die durch einen Druckprozess erzeugt worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>In diesem Zusammenhang kann dahingestellt bleiben, ob der mit der Problemstellung des Streitpatents betraute Fachmann, wie das Patentgericht meint, über vertiefte Kenntnisse auf dem Gebiet der Nachrichtentechnik verfügt. Nach den insoweit auch von der Beklagten nicht angegriffenen Feststellungen des Patentgerichts waren dem Fachmann jedenfalls die grundlegenden Programmiertechniken geläufig, die auf dem Gebiet der Datenübertragung eingesetzt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Der Fachmann hatte deshalb Anlass, am Prioritätstag öffentlich zugängliche Programme darauf zu überprüfen, ob diese auch bei Übertragung großer Datenmengen die parallele Übertragung anderer Daten ermöglichen. Aus dem Umstand, dass in ICQ dem Benutzer hierfür eine Einstellungsmöglichkeit zur Verfügung gestellt wird, konnte und musste der Fachmann entnehmen, dass parallele Übertragungsvorgänge neben der Übertragung einer Datei möglich bleiben, wenn die Geschwindigkeit, mit der die Daten eines Übertragungsvorgangs zur Verfügung gestellt werden, die zur Verfügung stehende Bandbreite nicht vollständig ausschöpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dies gab dem Fachmann Anlass, die in ICQ offenbarte Lösung auch für die Übertragung von Druckdaten heranzuziehen. Zwar konnte die Software ICQ selbst für diese Aufgabe jedenfalls dann nicht ohne Modifikation eingesetzt werden, wenn die Druckdaten nicht in einer Datei zwischengespeichert sind, auf die andere Prozesse zugreifen können, sondern ausschließlich in einer außerhalb des Druckprozesses nicht zugänglichen Pufferdatei mit variabler Größe vorgehalten werden. Der Fachmann, der mit der Weiterentwicklung eines Programms zur Übertragung von Druckdaten zwischen zwei Rechnern betraut war, konnte anhand der in ICQ realisierten Lösung aber erkennen, dass die mittels einer Verringerung der Geschwindigkeit bewirkte Beschränkung der Bandbreite unabhängig davon realisiert werden kann, in welcher Weise die zu übertragenden Daten vor dem Übertragungsvorgang gespeichert worden sind, weil es alleine darauf ankommt, mit welcher Geschwindigkeit sie vom einen Rechner zum anderen übertragen werden. Der Fachmann hatte deshalb Anlass, die in ICQ für die Übertragung von Dateien offenbarte Lösung auch in ein Programm zur Übertragung von Druckdaten zu übernehmen. Hierzu brauchte er die Software ICQ nicht in das von ihm zu entwickelnde Programm zu integrieren. Es genügte, die in ICQ offenbarte Einstellmöglichkeit nachzuprogrammieren. Dass hierzu besondere programmiertechnische Fertigkeiten erforderlich gewesen wären, die die durchschnittlichen Fähigkeiten eines mit dem Problem des Streitpatents betrauten Fachmanns überstiegen hätten, ist weder geltend gemacht noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>cc) Eine abweichende Beurteilung ergäbe sich auch dann nicht, wenn die Übertragungsgeschwindigkeit bei ICQ ausschließlich durch den die Daten empfangenden Nutzer vorgegeben werden könnte, wie dies die Beklagte behauptet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Auch nach Merkmal 3 c [M4a] des Streitpatents wird eine bestimmte Bandbreite für die Übertragung der Daten vom Server zum Endgerät, also vom sendenden zum empfangenden Gerät festgelegt. Ein Unterschied zu der nach Behauptung der Beklagten in ICQ allein offenbarten Lösung besteht nur insoweit, als die maßgebliche Einstellung durch den Nutzer des empfangenden Geräts erfolgt. Der mit der Problemstellung des Streitpatents betraute Fachmann hatte aber schon deshalb Anlass, das Verfahren in der genannten Weise zu modifizieren, weil die Übertragung der Druckdaten vom Nutzer des Endgeräts angestoßen wird. In ICQ wird die Übertragungsgeschwindigkeit ebenfalls von demjenigen Benutzer festgelegt, der den Übertragungsvorgang auslöst. Damit war auch für die vom Streitpatent betroffenen Einsatzzwecke nahegelegt, demjenigen Benutzer die Einstellmöglichkeit zu geben, der die Datenübertragung steuert, wie dies in Merkmal 3 a [M3] vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>dd) Die weiteren von der Beklagten angeführten Besonderheiten von Druckdaten führen ebenfalls nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(1) Dass Druckdaten jedenfalls dann, wenn sie über eine Druckerwarteschlange (Spooler) geleitet werden, nur über eine bestimmte Schnittstelle zugänglich sind, die mit ICQ nicht angesprochen werden kann, bildet keinen Grund, von dem auch für Druckdaten nahegelegten Weg einer Reduzierung der Übertragungsgeschwindigkeit Abstand zu nehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Dabei ist unerheblich, ob ein allein mit der Übertragung von Dateien vertrauter Programmierer über die erforderlichen Kenntnisse verfügte, um auf Druckdaten zugreifen und sie dem mit ICQ nahegelegten Verfahren unterziehen zu können. Entscheidend ist, dass ein mit der Übertragung von Druckdaten betrauter Fachmann am Prioritätstag über diese Kenntnisse verfügte. Dies war, wie die Beklagte in der mündlichen Verhandlung eingeräumt hat, der Fall. Dass es darüber hinausgehender Kenntnisse oder Fertigkeiten bedurft hätte, geht auch aus der Streitpatentschrift nicht hervor. Diese geht auf die Frage, in welcher Weise der Zugriff auf die Druckdaten erfolgen soll, nicht ein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(2) Dass die Datenübertragung mit ICQ typischerweise zwischen Rechnern mit gleicher Funktion (Peer to Peer) erfolgt, während die Übertragung der Druckdaten nach dem Streitpatent zwischen einem Client und einem Server erfolgen soll, gab ebenfalls keinen Anlass, von dem durch ICQ nahegelegten Lösungsweg Abstand zu nehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Dabei kann offenbleiben, ob die an einem Datenaustausch mit ICQ beteiligten Rechner aufgrund ihrer Funktion ebenfalls als Client und Server bezeichnet werden können. Die Beklagte hat jedenfalls nicht aufgezeigt, welche zusätzlichen Schwierigkeiten die Übertragung von Druckdaten zwischen einem Server und einem Client aufwirft. Auch die Streitpatentschrift befasst sich mit diesem Aspekt nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>c) Der Gegenstand des Streitpatents war dem Fachmann ferner durch die in den Anlagen LR14 und LR15 dokumentierte Software Slowpipe und durch die in Anlage LR17 dokumentierte Software lftp nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>aa) Die vor dem Prioritätstag öffentlich zugängliche Software Slowpipe ermöglicht es, die Übertragungsrate von Datenübertragungsvorgängen zu reduzieren. Das Programm ist als Filter konzipiert, der die zu übertragenden Daten entgegennimmt und inhaltlich unverändert, aber mit reduzierter Geschwindigkeit weitergibt (LR14 Abs. 3). Damit soll vermieden werden, dass ein einzelner Übertragungsvorgang die gesamte verfügbare Bandbreite in Anspruch nimmt und parallele Übertragungsvorgänge nahezu unmöglich macht (LR14 Abs. 2). Die gewünschte Bandbreite in Kilobyte pro Sekunde kann beim Aufruf des Programms vom Nutzer festgelegt werden (LR14 Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>bb) Die Software lftp ermöglichte es bereits in einer vor dem Prioritätstag öffentlich zugänglichen Version, bei der Übertragung von Dateien eine Grenze für die Datenübertragungsrate festzulegen. Hierzu kann mittels des Parameters "net:limit-rate" ein Wert in Byte pro Sekunde angegeben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>cc) Die in Slowpipe und lftp offenbarte Lösung entspricht, wie auch die Parteien übereinstimmend vortragen, derjenigen in ICQ. Anders als diese ist aber jedenfalls Slowpipe nicht auf die Übertragung von Dateien beschränkt. Es ermöglicht die Übertragung von Standard-Datenströmen, zu denen auch nach dem Vorbringen der Beklagten zumindest Tastatureingaben gehören.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Damit hatte der Fachmann aus den bereits im Zusammenhang mit ICQ dargelegten Gründen Anlass, die in Slowpipe offenbarte Lösung auch für die Übertragung von Druckdaten von einem Server zu einem Endgerät heranzuziehen und die Einstellmöglichkeit demjenigen Benutzer zu geben, der den Übertragungsvorgang steuert. Ein zusätzlicher Anlass, auch in diesem Zusammenhang die Übertragungsgeschwindigkeit zu drosseln, ergab sich daraus, dass diese Lösung am Prioritätstag bereits in mehreren anderen Programmen für unterschiedliche Einsatzzwecke realisiert worden war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>4. Hinsichtlich der mit den Hilfsanträgen verteidigten Fassungen ergibt sich keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Die nach den Hilfsanträgen vorgesehenen Änderungen betreffen lediglich die Frage, zu welchem Zeitpunkt der Benutzer eine Unterteilung der Bandbreite vornehmen kann. Diesem Gesichtspunkt kommt vor dem Hintergrund des oben aufgezeigten Standes der Technik keine ausschlaggebende Bedeutung zu. Alle oben behandelten, am Prioritätstag öffentlich zugänglichen Programme sahen jedenfalls die Möglichkeit vor, die Übertragungsgeschwindigkeit vor Beginn der Übertragung festzulegen. Diese Möglichkeit ist auch in allen verteidigten Fassungen des Streitpatents vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO. Im Ergebnis zutreffend hat das Patentgericht von einer Anwendung des § 93 Abs. 1 ZPO zugunsten der Beklagten abgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Rechtsprechung des Bundesgerichtshofs kommt die Anwendung von § 93 Abs. 1 ZPO in einem Patentnichtigkeitsverfahren in Betracht, wenn der Beklagte, der keine Veranlassung zur Klage gegeben hat, das Schutzrecht nur in eingeschränkter Fassung verteidigt und auf den darüber hinausgehenden Schutz für die Vergangenheit und Zukunft verzichtet (BGH, Urteil vom 8. Dezember 1983 - X ZR 15/82, GRUR 1984, 272, 276 - Isolierglasscheibenrandfugenfüllvorrichtung) oder wenn er insoweit einen zulässigen Beschränkungsantrag stellt und auf das Recht auf Rücknahme dieses Antrags verzichtet (BGH, Urteil vom 29. Juli 2003 - X ZR 26/00, GRUR 2004, 138, 141 - Dynamisches Mikrofon).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>2. Im Streitfall hat die Beklagte nach Klageerhebung den zuerst genannten Tatbestand verwirklicht, indem sie das Streitpatent nur in geänderter Fassung verteidigt und zugleich erklärt hat, sie erkenne das Klagebegehren im Übrigen an. Diese Erklärung ist bei interessengerechter Auslegung als Verzicht auf einen weitergehenden Schutz für Vergangenheit und Zukunft zu verstehen und steht deshalb nach der aufgezeigten Rechtsprechung des Senats (GRUR 1984, 272, 276 - Isolierglasscheibenrandfugenfüllvorrichtung) einem Anerkenntnis im Sinne von § 93 ZPO gleich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>3. Die Beklagte hat aber Veranlassung für die Erhebung der Nichtigkeitsklage gegeben, weil sie der Klägerin trotz der von dieser ausgesprochenen Aufforderung nicht schon vor Klageerhebung eine entsprechende Rechtsstellung verschafft hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Die von der Beklagten abgegebene Erklärung, in der sie gegenüber der Klägerin und deren Vertriebspartnern auf die Rechte aus dem nicht mehr verteidigten Teil des Streitpatents verzichtet hat (LR19), führte nicht zu vergleichbaren Wirkungen wie eine Nichtigerklärung. Nach einer Verzichtserklärung dieses Inhalts mögen die Klägerin und deren Vertriebspartner kein rechtliches Interesse an einer Nichtigkeitsklage gegen den nicht verteidigten Teil des Patents mehr gehabt haben. Die Wirkungen des Patents gegenüber sonstigen Personen blieben davon jedoch unberührt. Die Klägerin durfte sich mit der Nichtigkeitsklage unabhängig vom Bestehen eines eigenen rechtlichen Interesses auch gegen diese Wirkungen wenden. Angesichts dessen wäre die Veranlassung zur Klage nur dann weggefallen, wenn die Beklagte auch insoweit auf den Schutz des Streitpatents verzichtet hätte. Dies hätte sie zum Beispiel dadurch erreichen können, dass sie beim Patentamt die Beschränkung des Streitpatents beantragte und auf das Recht zur Rücknahme dieses Antrags verzichtete.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                           Grabinski                         Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                     Hoffmann                          Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301372013&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,2757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE607882024</doknr>
+   <ecli>ECLI:DE:BGH:2024:160124UXZR11.22.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20240116</entsch-datum>
+   <aktenzeichen>X ZR 11/22</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm/>
+   <vorinstanz>vorgehend BPatG München, 6. Dezember 2021, Az: 4 Ni 9/21 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile/>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 6. Dezember 2021 wird auf Kosten der Klägerin zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 509 903 (Streitpatents), das am 30. Mai 2003 unter Inanspruchnahme der Priorität einer kanadischen Patentanmeldung vom 31. Mai 2002 angemeldet wurde und die Verschleierung von Rahmenfehlern in linear prädiktiven Sprachkodierern betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1, auf den 37 Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A method of concealing frame erasure caused by frames of an encoded sound signal erased during transmission from an encoder to a decoder, and for accelerating recovery of the decoder after non erased frames of the encoded sound signal have been received, comprising: determining, in the encoder, concealment/recovery parameters comprising at least two parameters selected from the group consisting of a signal classification parameter, an energy information parameter, a voicing information parameter and a phase information parameter; quantizing the concealment/recovery parameters; and transmitting to the decoder the quantized concealment/recovery parameters determined in the encoder;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein: the concealment/recovery parameters are usable to improve frame erasure concealment and recovery of the decoder after frame erasure; the sound signal is a speech signal;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that: determining, in the encoder, the concealment/recovery parameters comprises classifying successive frames of the encoded sound signal as unvoiced, unvoiced transition, voiced transition, voiced, or onset; and determining the concealment/recovery parameters comprises calculating the energy information parameter in relation to a maximum of a signal energy for frames classified as voiced or onset, and calculating the energy information parameter in relation to an average energy per sample for other frames.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 39, auf den 14 Ansprüche zurückbezogen sind, lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">A method for the concealment of frame erasure caused by frames erased during transmission of a sound signal encoded under the form of signal encoding parameters from an encoder to a decoder, and for accelerating recovery of the decoder after non erased frames of the encoded sound signal have been received, comprising: determining, in the decoder, concealment/recovery parameters from the signal-encoding parameters, the concealment/recovery parameters comprising at least two parameters selected from the group consisting of a signal classification parameter, an energy information parameter, a voicing information parameter and a phase information parameter; and in the decoder, conducting erased frame concealment and decoder recovery in response to the concealment/recovery parameters determined in the decoder;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">wherein: the sound signal is a speech signal;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that: determining, in the decoder, the concealment/recovery parameters comprises classifying successive frames of the encoded sound signal as unvoiced, unvoiced transition, voiced transition, voiced, or onset; and determining the concealment/recovery parameters comprises calculating the energy information parameter in relation to a maximum of a signal energy for frames classified as voiced or onset, and calculating the energy information parameter in relation to an average energy per sample for other frames.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 54, auf den 20 Ansprüche zurückbezogen sind, sowie Patentanspruch 75, auf den 14 Ansprüche zurückbezogen sind, schützen Vorrichtungen mit entsprechenden Merkmalen. Die Patentansprüche 90 und 91 stellen einen Dekodierer bzw. einen Kodierer unter Schutz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin strebt die Nichtigerklärung des Streitpatents im Umfang der Patentansprüche 1, 10, 29 bis 33, 39, 48 bis 52, 54, 63, 75, 80, 83 bis 88, 90 und 91 an. Sie macht geltend, der angegriffene Gegenstand sei nicht patentfähig und nicht so offenbart, dass ein Fachmann die Erfindung ausführen könne. Die Beklagte hat die angegriffenen Ansprüche in der erteilten Fassung und mit zwei geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Dagegen richtet sich die Berufung der Klägerin, die ihren erstinstanzlichen Antrag weiterverfolgt. Die Beklagte tritt dem Rechtsmittel mit ihren erstinstanzlichen Anträgen sowie einem weiteren Hilfsantrag entgegen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat in der Sache keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft die Verschleierung von Rahmenfehlern in linear prädiktiven Sprachkodierern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>1. Die Streitpatentschrift beschreibt im Stand der Technik bekannte Methoden zur Sprachkodierung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Das Sprachsignal wird hierbei abgetastet und quantisiert. Der abbildbare Frequenzbereich und damit die subjektive Qualität der Aufnahme hängt von der Abtastfrequenz ab (Abs. 2). Die digitalen Abtastwerte werden einer Kodierung unterzogen, um die Anzahl der benötigten Bits zu reduzieren (Abs. 3). Auch damit kann ein Qualitätsverlust einhergehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung des Streitpatents ermöglicht die Kodiermethode CELP (Code-Excited Linear Prediction) einen guten Kompromiss zwischen subjektiver Qualität und Bitrate. Dabei werde das abgetastete Sprachsignal in aufeinanderfolgenden Blöcken von mehreren Abtastwerten verarbeitet, die in der Regel als Rahmen bezeichnet würden. Ein Rahmen werde in kleinere Blöcke, so genannte Subrahmen (Subframes) unterteilt. In jedem Subrahmen werde ein Anregungssignal in der Regel aus zwei Komponenten gewonnen, der vergangenen Anregung (past excitation) und der innovativen Anregung (innovative excitation). Die zuerst genannte Komponente werde oft als adaptive Codebuch- oder Pitch-Anregung bezeichnet. Die zweite Komponente beruhe auf einem festen Codebuch (Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Hauptanwendungen der Sprachkodierung mit niedriger Bitrate seien drahtlose Mobilkommunikationssysteme und Voice-over-Packet-Netzwerke. Deshalb sei die Erhöhung der Robustheit der Sprachcodecs im Fall von Rahmenlöschungen von erheblicher Bedeutung. In solchen Systemen träten typischerweise Rahmenlöschraten von 3 bis 5 % auf. Darüber hinaus sei Breitband-Sprachkodierung ein wichtiger Vorteil dieser Systeme, damit sie mit dem traditionellen öffentlichen Telefonnetz (PSTN) konkurrieren könnten, das die alten Schmalband-Sprachsignale verwende (Abs. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Das adaptive Codebuch oder der Pitch-Prädiktor in CELP spiele eine wichtige Rolle bei der Aufrechterhaltung einer hohen Sprachqualität bei niedrigen Bitraten. Da der Inhalt des adaptiven Codebuchs jedoch auf dem Signal vergangener Rahmen basiere, reagiere der Codec-Modus empfindlich auf einen Rahmen-Verlust. Im Falle von gelöschten oder verlorenen Rahmen unterscheide sich der Inhalt des adaptiven Codebuchs im Dekodierer von seinem Inhalt im Kodierer. Die Auswirkung des verlorenen Rahmens hänge von der Art des Sprachsegments ab, in dem die Löschung stattgefunden habe. Wenn das Löschen in einem stationären Segment auftrete, könne eine wirksame Rahmenlöschungs-Verschleierung durchgeführt und die Auswirkung auf nachfolgende gute Rahmen minimiert werden. Wenn das Löschen bei einem Sprachbeginn oder einem Übergang auftrete, könne sich der Effekt über mehrere Rahmen ausbreiten. Wenn beispielsweise der Anfang eines stimmhaften Segments verlorengehe, fehle die erste Pitch-Periode im Inhalt des adaptiven Codebuchs. Dies habe schwerwiegende Auswirkungen auf den Pitch-Prädiktor in darauffolgenden guten Rahmen. Dann dauere es lange Zeit, bevor das Synthesematerial zum beabsichtigten Signal konvergiere (Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, die Verschleierung der Rahmenlöschung zu verbessern und die Wiederherstellung des Dekodierers zu beschleunigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt das Streitpatent in Patentanspruch 1 ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A method of concealing frame erasure caused by frames of an encoded sound signal erased during transmission from an encoder to a decoder, and for accelerating recovery of the decoder after non-erased frames of the encoded sound signal have been received.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren zum Verschleiern einer Rahmenlöschung, die durch Rahmen eines kodierten Tonsignals verursacht wird, die während der Übermittlung von einem Kodierer zu einem Dekodierer gelöscht werden, und zum Beschleunigen einer Wiederherstellung des Dekodierers, nachdem nicht gelöschte Rahmen des kodierten Tonsignals empfangen wurden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The sound signal is a speech signal.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Das Tonsignal ist ein Sprachsignal.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining, in the encoder, concealment/recovery parameters,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Im Kodierer werden Verschleierungs-/Wiederherstellungsparameter ermittelt,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">6</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">which are usable to improve frame erasure concealment and recovery of the decoder after frame erasure;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">die zur Verbesserung des Verschleierns einer Rahmenlöschung und des Wiederherstellens des Dekodierers nach einer Rahmenlöschung verwendbar sind;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">comprising at least two parameters selected from the group consisting of a signal classification parameter, an energy information parameter, a voicing information parameter and a phase information parameter.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von denen zumindest zwei Parameter aus der nachfolgenden Gruppe ausgewählt sind: Signalklassifizierungs-, Energieinformations-, Stimmhaftigkeitsinformations- und Phaseninformationsparameter.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining, in the encoder, the concealment/recovery parameters comprises classifying successive frames of the encoded sound signal as unvoiced, unvoiced transition, voiced transition, voiced, or onset.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Ermittlung im Kodierer umfasst ein Klassifizieren aufeinanderfolgender Rahmen des kodierten Tonsignals als stimmlos, stimmloser Übergang, stimmhafter Übergang, stimmhaft oder Einsetzen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining the concealment/recovery parameters comprises calculating the energy information parameter in relation to:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Ermittlung umfasst ein Berechnen des Energieinformationsparameters in Relation zu:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3.1 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a maximum of a signal energy for frames classified as voiced or onset;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einem Maximum einer Signalenergie für Rahmen, die als stimmhaft oder Einsetzen klassifiziert sind;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">an average energy per sample for other frames.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einer Durchschnittsenergie pro Abtastung für andere Rahmen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">4</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The concealment/recovery parameters are quantized.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Verschleierungs-/Wiederherstellungsparameter werden quantisiert.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">5</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The quantized concealment/recovery parameters determined in the encoder are transmitted to the decoder.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die im Kodierer ermittelten quantisierten Verschleierungs-Wiederherstellungsparameter werden an den Dekodierer übermittelt.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen der näheren Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Die Verfahren nach den Ansprüchen 1 und 39 zielen darauf ab, die Maßnahmen zur Kompensation von Rahmen-Löschungen an die Art des von der Löschung betroffenen Sprachsignals anzupassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung des Streitpatents erfordert eine solche Anpassung die Klassifizierung jedes einzelnen Sprachrahmens (Abs. 64). Hierbei müssten die Signalenergie, das Maß der Periodizität, die Spektral-Hüllkurve und die Pitch-Periode untersucht werden. Bei stimmhafter Sprache könne eine weitere Verbesserung durch eine Phasenkontrolle erreicht werden (Abs. 65). Bei einer geringen Erhöhung der Bitrate könnten zusätzliche Parameter quantisiert und übermittelt werden. Wenn keine zusätzliche Bandbreite verfügbar sei, könnten die Parameter im Dekodierer geschätzt werden (Abs. 65). Dem liege die Grundidee zu Grunde, dass sich die ideale Verschleierungs-Strategie für quasistationäre Sprachsegmente von derjenigen für Sprachsegmente mit rasch wechselnden Eigenschaften unterscheide (Abs. 71).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) In Einklang mit diesem Ansatz sehen die Merkmale 3 und 6 die Ermittlung von Parametern vor, die zur Verbesserung der Verschleierung oder Wiederherstellung eingesetzt werden können. Dieser Vorgang wird durch die Merkmale 3.1 und 3.2 näher spezifiziert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Nach Merkmal 3.1 müssen mindestens zwei Parameter ausgewählt sein aus einer Gruppe von Parametern, die sich auf Signalklassifizierung, Energieinformation, Stimmhaftigkeit oder Phaseninformation beziehen. Die Phaseninformation gibt die Position des ersten glottalen Impulses in einem Rahmen an (Abs. 108).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>In diesem Zusammenhang bedarf es keiner Entscheidung, ob Merkmal 3.1 verlangt, dass der Kodierer für die Ermittlung und Übertragung sämtlicher Parameter ausgerüstet sein muss oder ob es reicht, wenn er nur zwei Parameter zur Verfügung stellen kann. Auch auf der Grundlage der weiteren Auslegung erweist sich das Streitpatent aus den unten aufgezeigten Gründen als rechtsbeständig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Aus der Zusammenschau mit der Merkmalsgruppe 3.3 ergibt sich, dass die Ermittlung eines Energieinformationsparameters stets zwingend ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Die Merkmalsgruppe 3.3 enthält nicht nur Vorgaben zu der Art und Weise, in der ein solcher Parameter zu berechnen ist. Merkmal 3.3 schreibt vielmehr zwingend vor, dass die Ermittlung eine solche Berechnung umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>cc) Gemäß Merkmal 3.2 müssen ferner die einzelnen Rahmen einer der dort aufgeführten Klassen (unvoiced, unvoiced transition, voiced transition, voiced, onset) zugeordnet werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(1) Bei dem in der Beschreibung des Streitpatents geschilderten Beispiel werden hierzu verschiedene Signalklassifizierungsparameter ermittelt und mit Hilfe von (experimentell ermittelten) Koeffizienten kp und cp so skaliert, dass sie einen Wert zwischen 0 und 1 haben (Abs. 78-94). Die hierbei herangezogenen Parameter und Koeffizienten sind in der nachfolgend wiedergegebenen Tabelle 2 aufgeführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Der erste dieser Parameter (normalized correlation(s)) wird in diesem Zusammenhang auch als voicing information bezeichnet (Abs. 99).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>(2) Aus den skalierten Parameterwerten wird mittels einer Gütefunktion (merit function) ein gewichteter Durchschnittswert fm ermittelt, der ebenfalls einen Wert zwischen 0 und 1 haben kann. Die Klassifizierung eines Rahmens erfolgt anhand dieses Durchschnittswerts und anhand der Klasse des vorangehenden Rahmens, wie dies in der nachfolgend wiedergegebenen Tabelle 3 aufgeführt ist (Abs. 95 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="454px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="453px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>(3) Merkmal 3.2 gibt nicht vor, welche Parameter zur Klassifizierung der Rahmen heranzuziehen und in welcher Weise die einzelnen Parameter bei der Klassifizierung zu berücksichtigen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 10 schreibt demgegenüber vor, dass zumindest ein Teil der in Tabelle 2 aufgeführten Parameter zur Klassifizierung aufeinanderfolgender Rahmen herangezogen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>dd) Patentanspruch 1 legt nicht fest, in welchem Verhältnis die in Merkmal 3.1 aufgeführten Parameter zu der in Merkmal 3.2 vorgesehenen Klassifizierung aufeinanderfolgender Rahmen stehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Aus dem oben dargestellten Ausführungsbeispiel ergibt sich, dass die Klassifizierung der Rahmen anhand von Signalklassifizierungsparametern erfolgen kann, wie sie allgemein auch in Merkmal 3.1 vorgesehen sind. Als Klassifizierungsparameter in diesem Sinne werden in dem Ausführungsbeispiel unter anderem die in Merkmal 3.1 aufgeführten Energieinformations- und Stimmhaftigkeitsinformations-Parameter herangezogen, nicht aber die ebenfalls in Merkmal 3.1 aufgeführte Phaseninformation. Daraus folgt, dass alle gemäß Merkmal 3.1 ermittelten Parameter zum Klassifizieren aufeinanderfolgender Rahmen herangezogen werden können, dass dies aber nicht zwingend ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Klägerin ergibt sich aus der nachfolgend wiedergegebenen Figur 5 des Streitpatents keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Figur ergibt sich zwar, dass bei dem dargestellten Ausführungsbeispiel anstelle der zur Signalklassifizierung herangezogenen Parameter lediglich die ermittelte Klasse an den Dekodierer übermittelt wird. Daraus folgt aber nicht, dass die Übermittlung von Klassifizierungsparametern unzulässig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>c) Merkmalsgruppe 3.3 macht die Berechnung eines Energieinformationsparameters abhängig von der Klassifizierung des Rahmens.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht hat das Patentgericht angenommen, dass Merkmal 3.3.1 nicht vorgibt, anhand welcher Einzelwerte der maßgebliche Maximalwert zu ermitteln ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht näher dargelegt hat, wird der Maximalwert im Sinne von Merkmal 3.3.1 bei dem in der Beschreibung des Streitpatents geschilderten Ausführungsbeispiel anhand von Einzelwerten eines Teils des jeweiligen Rahmens ermittelt (Abs. 110).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung ergibt sich daraus nicht, dass Merkmal 3.3.1 von der Beschreibung abweicht. Vielmehr ist dieses Merkmal im Lichte der Beschreibung dahin auszulegen, dass die Heranziehung eines Teils dieses Rahmens genügt. Dieser Auslegung stehen weder der Wortlaut von Merkmal 3.3.1 noch sonstige Umstände entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht ebenfalls zutreffend angenommen hat, schreibt Merkmal 3.3.1 die im Ausführungsbeispiel gewählte Vorgehensweise nicht zwingend vor. Es lässt vielmehr die Freiheit, andere Bereiche des Rahmens oder wahlweise auch den gesamten Rahmen in die Betrachtung einzubeziehen. Ob darüber hinaus auch Werte aus anderen Rahmen Berücksichtigung finden dürfen, ist für die Entscheidung über die Nichtigkeitsklage nicht erheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Berufung ist die in Merkmal 3.3.2 vorgegebene Berechnungsweise nicht mit derjenigen aus Merkmal 3.3.1 identisch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(1) Die in beiden Merkmalen enthaltene Formulierung "in relation to" eröffnet allerdings die Möglichkeit, den ermittelten Maximal- bzw. Durchschnittswert weiteren Rechenoperationen zu unterziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend dargelegt hat, wird bei dem in der Beschreibung des Streitpatents geschilderten Ausführungsbeispiel der mittels einer Formel (16) ermittelte Maximalwert E einer weiteren Rechenoperation gemäß einer Formel (15) unterzogen, um die Information mit einer möglichst geringen Anzahl an Bits übertragen zu können. Derselben Rechenoperation wird auch der anhand einer Formel (17) ermittelte Durchschnittswert E unterzogen (Abs. 110).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(2) Hieraus ergibt sich jedoch nicht, dass es genügt, wenn der Maximalwert bzw. der Durchschnittswert nur in irgendeiner Weise in die Berechnung einfließt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Im Lichte der Beschreibung ist die Formulierung "in relation to" vielmehr dahin zu verstehen, dass der ermittelte Wert auch im Falle ergänzender Rechenoperationen einen Rückschluss auf den Ausgangswert ermöglichen muss, also auf den Maximalwert im Falle von Merkmal 3.3.1 und auf den Durchschnittswert im Falle von Merkmal 3.3.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Berufung folgt aus dem Umstand, dass Merkmal 3.3 nur zwischen zwei unterschiedlichen Rahmenarten unterscheidet, nicht, dass die übrigen in Merkmal 3.2 vorgesehenen Rahmenklassen technisch bedeutungslos sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufungserwiderung zu Recht darlegt, ermöglicht es die in Merkmal 3.2 vorgesehene Einteilung in fünf Rahmenklassen nach der Beschreibung, unterschiedliche Methoden zur Kompensation von Rahmenlöschungen anzuwenden (Abs. 76). Diese Möglichkeit hängt nicht allein von der Berechnung von Energieinformationsparametern gemäß der Merkmalsgruppe 3.3 ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>d) Als Quantisieren im Sinne von Merkmal 4 ist das Abbilden einer Wertemenge auf eine kleinere Menge zu verstehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht ist das Patentgericht davon ausgegangen, dass ein Quantisieren im Sinne von Merkmal 4 nicht zwingend wertekontinuierliche Parameter als Ausgangsmenge voraussetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Für das vom Patentgericht zugrunde gelegte Verständnis spricht der Umstand, dass die Beschreibung des Streitpatents ein Quantisieren auch für Ausgangswerte schildert, die bereits in digitaler Form vorliegen (Abs. 114). Letzteres zieht auch die Berufung nicht in Zweifel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Berufung ergibt sich hieraus nicht, dass jede beliebige Art der Kodierung ein Quantisieren im Sinne von Merkmal 4 darstellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(1) Auch das Patentgericht ist davon ausgegangen, dass eine Quantisierung die Codierung mit einer bestimmten Präzision erfordert. Damit geht Information, die ein höheres Maß an Präzision aufweist, verloren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(2) Dieses Verständnis steht in Einklang mit der Beschreibung des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung verwendet den Begriff "Quantisieren" teils im Zusammenhang mit der Digitalisierung kontinuierlicher Werte (Abs. 3, 25 ff., 40, 109 f., 115 ff.), teils im Zusammenhang mit der Reduzierung der Anzahl an zu übertragenden Bits bei digitalen Ausgangswerten (Abs. 114).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Diese Vorgänge sind mit einem Informationsverlust verbunden, weil mehrere unterschiedliche Ausgangswerte auf denselben Wert abgebildet werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(3) Für die in der Beschreibung geschilderte - nicht ausdrücklich als Quantisierung bezeichnete - Übertragung von fünf verschiedenen Rahmenklassen mit zwei Bit - also mit nur vier unterschiedlichen Zahlenwerten - gilt entgegen der Auffassung der Berufung nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Nach der Beschreibung kann der Empfänger allerdings auch bei dieser Vorgehensweise alle fünf Rahmenklassen voneinander unterscheiden, weil die Klassen "unvoiced transition" und "voiced transition" anhand der Klasse des vorangehenden Rahmens voneinander unterschieden werden können und deshalb denselben Zahlenwert erhalten können (Abs. 77).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Auch dieser Vorgang ist jedoch mit einem Informationsverlust verbunden. Dieser tritt dadurch ein, dass die fünf unterschiedlichen Ausgangswerte auf vier unterschiedliche Werte reduziert werden und deshalb die beiden Klassen "unvoiced transition" und "voiced transition" nicht allein anhand des übermittelten, durch Quantisierung erhaltenen Zahlenwerts unterschieden werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Dass die auf diese Weise verloren gegangene Information auf anderem Wege ermittelt werden kann, nämlich anhand der Klasse des vorangegangenen Rahmens, führt nicht zu einer abweichenden Beurteilung. Diese Vorgehensweise vermag den mit der Reduzierung auf zwei Bit eintretenden Informationsverlust nicht zu verhindern. Sie ermöglicht lediglich, die verlorene Information zu rekonstruieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>e) Es bedarf keiner Entscheidung, ob die Quantisierung und Übermittlung sich auf sämtliche in Merkmalen 3.1 bis 3.3 genannten Parameter beziehen muss oder nur auf solche, die in den Merkmalen 3.1 und/oder 3.2 als zwingend vorgesehen sind. Es bedarf in diesem Zusammenhang auch keiner Entscheidung, ob der zwingend zu ermittelnde Energieinformationsparameter (Merkmal 3.3) auch im Dekodierer ermittelt werden kann, was zur Folge hätte, dass eine Übertragung und Quantisierung durch den Kodierer nicht zwingend ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>5. Patentanspruch 39 schlägt ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (Abweichungen gegenüber Patentanspruch 1 sind hervorgehoben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A method <span style="text-decoration:line-through">of concealing</span> 
+                           <span style="text-decoration:underline">for the concealment</span> frame erasure caused by frames <span style="text-decoration:line-through">of an encoded sound signal</span> erased during transmission <span style="text-decoration:underline">of a sound signal encoded under the form of signal encoding parameters</span> from an encoder to a decoder, and for accelerating recovery of the decoder after non-erased frames of the encoded sound signal have been received.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren <span style="text-decoration:line-through">zum Verschleiern</span> zur <span style="text-decoration:underline">Verschleierung</span> einer Rahmenlöschung, die durch Rahmen eines <span style="text-decoration:line-through">kodierten Tonsignals</span> verursacht wird, die während der Übermittlung <span style="text-decoration:underline">eines unter der Form von Signalkodierungsparametern kodierten Tonsignals</span> von einem Kodierer zu einem Dekodierer gelöscht werden, und zum Beschleunigen einer Wiederherstellung des Dekodierers, nachdem nicht gelöschte Rahmen des kodierten Tonsignals empfangen wurden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">2<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">The sound signal is a speech signal.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Das Tonsignal ist ein Sprachsignal.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining, in the <span style="text-decoration:line-through">encoder</span> decoder, concealment/recovery parameters <span style="text-decoration:underline">from the signal-encoding parameters</span>,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Im <span style="text-decoration:line-through">Kodierer </span>
+                           <span style="text-decoration:underline">Dekodierer</span> werden Verschleierungs-/Wiederherstellungsparameter <span style="text-decoration:underline">aus den Signalkodierungsparametern</span> ermittelt,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.1<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">comprising at least two parameters selected from the group consisting of a signal classification parameter, an energy information parameter, a voicing information parameter and a phase information parameter.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von denen zumindest zwei Parameter aus der nachfolgenden Gruppe ausgewählt sind: Signalklassifizierungs-, Energieinformations-, Stimmhaftigkeitsinformations- und Phaseninformationsparameter.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">6<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Conducting, in the decoder, erased frame concealment and decoder recovery in response to the concealment/recovery parameters determined in the decoder.</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span style="text-decoration:underline">Im Dekodierer werden gelöschte Rahmen verschleiert und der Dekodierer wiederhergestellt in Antwort auf die im Dekodierer ermittelten Verschleierungs-/Wiederherstellungsparameter.</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.2<span style="text-decoration:underline">a</span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining, in the <span style="text-decoration:line-through">encoder </span>
+                           <span style="text-decoration:underline">decoder</span>, the concealment/recovery parameters comprises classifying successive frames of the encoded sound signal as unvoiced, unvoiced transition, voiced transition, voiced, or onset.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Ermittlung im <span style="text-decoration:line-through">Kodierer </span>
+                           <span style="text-decoration:underline">Dekodierer</span> umfasst ein Klassifizieren aufeinanderfolgender Rahmen des kodierten Tonsignals als stimmlos, stimmloser Übergang, stimmhafter Übergang, stimmhaft oder Einsetzen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Determining the concealment/recovery parameters comprises calculating the energy information parameter in relation to:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Die Ermittlung umfasst ein Berechnen des Energieinformationsparameters in Relation zu:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3.1</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a maximum of a signal energy for frames classified as voiced or onset;</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einem Maximum einer Signalenergie für Rahmen, die als stimmhaft oder Einsetzen klassifiziert sind;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">3.3.2</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">an average energy per sample for other frames.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einer Durchschnittsenergie pro Abtastung für andere Rahmen.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>6. Der Gegenstand von Patentanspruch 39 unterscheidet sich im Wesentlichen in zwei Aspekten von demjenigen des Anspruchs 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>a) Die für die Kompensation von Rahmenlöschungen herangezogenen Parameter werden anders als bei Anspruch 1 nicht im Kodierer ermittelt, sondern im Dekodierer.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>b) Während Anspruch 1 eine Übermittlung von Verschleierungs- bzw. Wiederherstellungsparametern vom Kodierer an den Dekodierer vorsieht, schreibt Merkmal 3<span style="text-decoration:underline">a</span> vor, dass der Dekodierer diese Parameter aus den Signalkodierungsparametern ermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Wie die Berufungserwiderung zutreffend darlegt, bedeutet dies, dass der Dekodierer nicht auf Verschleierungs-/Wiederherstellungsparameter zurückgreift, die der Kodierer ermittelt und übersandt hat, sondern diese Parameter anhand der Parameter für die Signalkodierung selbst ermittelt, wie dies die Merkmale 3.1<span style="text-decoration:underline">a</span> und 3.2<span style="text-decoration:underline">a</span> ausdrücklich vorsehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>7. Die durch die Ansprüche 54, 75, 90 und 91 geschützten Vorrichtungen werden durch ihre Eignung für die definierten Verfahrensschritte geprägt und unterliegen deshalb derselben Beurteilung wie die korrespondierenden Verfahrensansprüche.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung, soweit für das Berufungsverfahren von Interesse, im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Die Erfindung sei so offenbart, dass ein Fachmann - ein Ingenieur der Elektro- und Nachrichtentechnik mit Universitätsabschluss (Diplom oder Master) und mehrjähriger Berufserfahrung sowie mit einschlägigen Kenntnissen auf dem Gebiet der digitalen Signalverarbeitung, insbesondere der Kodierung von Sprachsignalen - sie ausführen könne. Dies gelte auch für das Quantisieren der Signalklassifizierungsparameter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 sei gegenüber der internationalen Patentanmeldung 01/86637 (K3) neu. K3 offenbare weder unmittelbar noch eindeutig eine Klasse "Onset" noch ein Berechnen des Energieinformationsparameters in Relation zu einem Maximum einer Signalenergie für stimmhafte oder als Einsetzen klassifizierte Rahmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 beruhe auch auf erfinderischer Tätigkeit. K3 gebe keine Anregungen oder Hinweise, den Energieinformationsparameter in Abhängigkeit der Rahmenklasse zu bestimmen und diesen in Relation zu einem Maximum einer Signalenergie für stimmhafte oder als Einsetzen klassifizierte Rahmen zu berechnen. Eine Tonhöhenepoche, über die nach K3 die Wurzel des quadratischen Mittelwerts der Energie des Sprachsignals zu berechnen sei, werde nicht nur in stimmhaften Sprachsegmenten bestimmt, sondern in allen Unterrahmen des Sprachsignals bei der Suche im adaptiven Codebuch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Auch bei Hinzunahme des Fachbuchs von Kondoz (K4) lägen die genannten Maßnahmen nicht nahe. Entgegen der Auffassung der Klägerin sei die Figur 3.1 in K4 kein Beleg dafür, dass der Fachmann benachbarte Signalspitzen stimmhafter Signale möglichst aneinander angleichen würde. Diese Figur zeige lediglich exemplarische Signalformen stimmhafter und stimmloser Signale. In der Streitpatentschrift erfahre der Fachmann demgegenüber, dass bei einer Rahmenlöschung eines stimmhaften Sprachsegments das Anregungssignal des letzten guten Rahmens typischerweise mit einer Dämpfungsstrategie zur Verschleierung der Rahmenlöschung verwendet werde. Wenn nach der Rahmenlöschung ein neues lineares Vorhersagefilter (LP Filter) mit dem ersten guten Rahmen im Dekodierer eintreffe, könne es zu einer Fehlanpassung zwischen der Energie des Anregungssignals und der Verstärkung des neuen linearen Vorhersagefilters kommen. Daher sei die Einstellung der Signalenergie bei Rahmenlöschung während stimmhafter Sprachsegmente am wichtigsten (Abs. 143). Zu derartigen Überlegungen des Streitpatents enthielten weder K3 noch K4 Anregungen oder Hinweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gelte für die Gegenstände der anderen angegriffenen Ansprüche.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand von Patentanspruch 1 geht nicht über den Inhalt der ursprünglich eingereichten Unterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>a) Die erstmalige Geltendmachung dieses Nichtigkeitsgrundes in der Berufungsinstanz ist gemäß § 116 Abs. 2 PatG zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Die darin liegende Antragsänderung ist sachdienlich, weil sie eine umfassende Erledigung der Auseinandersetzung über den Rechtsbestand des Streitpatents ermöglicht. Die für die Beurteilung des geänderten Antrags maßgeblichen Tatsachen stimmen mit denjenigen überein, die zur Beurteilung der bereits in erster Instanz geltend gemachten Nichtigkeitsgründe ohnehin herangezogen werden müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Berufung geht der Gegenstand von Patentanspruch 1 nicht deshalb über den Inhalt der ursprünglich eingereichten Unterlagen hinaus, weil Patentanspruch 1 anders als der in der Anmeldung formulierte Anspruch 1 keine Vorgaben hinsichtlich der im Dekodierer auszuführenden Verfahrensschritte enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Die ursprünglichen Unterlagen, deren Inhalt mit der Offenlegungsschrift (WO 03/102921 A 1, NB11) übereinstimmt, offenbaren -ebenso wie die Beschreibung des Streitpatents - sowohl die Kodierung als auch die Dekodierung von Signalen. Dem bereits in der Anmeldung enthaltenen Hinweis, dass die in Rede stehenden Sprachsignale nicht nur über einen Kommunikationskanal übermittelt, sondern wahlweise auch auf einem Speichermedium gespeichert werden können (S. 2 Z. 1 f.), lässt sich entnehmen, dass der Gegenstand der offenbarten Lehre nicht auf die Interaktion zwischen Kodierer und Dekodierer beschränkt ist, sondern die im Kodierer auszuführenden Verfahrensschritte auch für sich gesehen zur Erfindung gehören.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>Darüber hinaus wird bereits in der Anmeldung ausgeführt, dass die im Mittelpunkt stehende Klassifikation einzelner Rahmen wahlweise im Kodierer oder im Dekodierer erfolgen kann (S. 11 Z. 17-19). Daraus ergibt sich hinreichend deutlich, dass nicht nur das in Anspruch 1 der Anmeldung definierte Zusammenspiel aus Ermittlung und Übersendung der Parameter durch den Kodierer und Weiterverarbeitung der erhaltenen Parameter durch den Dekodierer zum Gegenstand der beanspruchten Erfindung gehört.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Dass von Patentanspruch 1 auch eine Ausgestaltung umfasst ist, bei der ein Kodierer zugleich eine Dekodier-Komponente enthält, führt nicht zu einer abweichenden Beurteilung. Schon aus der Anmeldung geht hinreichend deutlich hervor, dass es nur darum geht, die dort beschriebenen Kodier- bzw. Dekodierschritte durchzuführen, und dass es nicht ausgeschlossen ist, wenn eine für diese Zwecke eingesetzte Vorrichtung daneben noch weitere Funktionen umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Berufung ist der Anmeldung zu entnehmen, dass bei der Klassifizierung der Rahmen nicht zwingend alle Parameter aus Tabelle 2 (S. 35 oben) herangezogen werden müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Ebenso wie das Streitpatent führt die Anmeldung zu Beginn der diesbezüglichen Darlegungen aus, dass es sich um eine veranschaulichende Ausführungsform (S. 25 Z. 8: illustrative embodiment) handelt, also um ein Ausführungsbeispiel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>Daraus ergibt sich hinreichend deutlich, dass es nicht auf alle Einzelheiten des geschilderten Beispiels ankommt, sondern darauf, anhand geeigneter Parameter zwischen verschiedenen Rahmenklassen zu unterscheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>d) Bezüglich der Auswahl von Parametern aus der in Merkmal 3.1 aufgeführten Gruppe enthält die Beschreibung der Anmeldung den ausdrücklichen Hinweis, dass Verfahren zur Ermittlung und Übertragung von Parametern offenbart werden, wobei zwei oder mehr der in Merkmal 3.1 aufgezählten Parameter erfasst werden (S. 22 Z. 1-7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Dies reicht für eine ursprüngliche Offenbarung von Merkmal 3.1 auch dann aus, wenn man unterstellt, dass dieses Merkmal nicht zwingend voraussetzt, dass der Kodierer grundsätzlich in der Lage ist, sämtliche der dort genannten Parameter zu ermitteln und zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Dass diese Festlegung keine optimalen Ergebnisse gewährleistet, ist schon deshalb unerheblich, weil auch der Gegenstand der Anmeldung nicht auf eine optimale Lösung beschränkt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Eine abweichende Beurteilung ergibt sich auch nicht daraus, dass die Anmeldung an der besagten Stelle den ersten Parameter der Gruppe mit "frame classification" bezeichnet, während Merkmal 3.1 den Begriff "signal classification" verwendet. Bei der Schilderung des Ausführungsbeispiels werden die zur Klassifizierung von Rahmen herangezogenen, in Tabelle 2 aufgeführten Parameter als Signalklassifizierungsparameter bezeichnet. Damit wird hinreichend deutlich, dass zu den einleitend unter dem Stichwort "frame classification" gehörenden Parametern nicht nur das Ergebnis der Klassifikation gehört, sondern auch die für die Klassifikation eingesetzten Parameter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Dass die Anmeldung - auch insoweit übereinstimmend mit dem Streitpatent (Abs. 72 und 76) - für die Einteilung in Signalklassen (S. 23 Z. 29 ff.) zum Teil andere Kategorien benennt als für die Einteilung in Rahmenklassen (S. 25 f.), führt schon deshalb nicht zu einer abweichenden Beurteilung, weil bereits die Anmeldung den ausdrücklichen Hinweis enthält, für die Zwecke der Fehlerverschleierung könnten einige Signalklassen zu einer Gruppe zusammengefasst werden (S. 24 Z. 16-18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>e) Entgegen der Auffassung der Berufung offenbart die Anmeldung auch das Quantisieren eines Signalklassifizierungsparameters.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Der in der Anmeldung formulierte Anspruch 2 sieht für alle im Kodierer ermittelten Parameter eine Quantisierung vor. Dies gilt auch für Signalklassifizierungsparameter, die nach dem Inhalt der Anmeldung aus den genannten Gründen als zu ermittelnde Parameter in Betracht kommen. Vor diesem Hintergrund ist unerheblich, dass diese spezielle Kombination in Figur 5 nicht dargestellt und auch ansonsten nicht ausdrücklich benannt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>2. Zu Recht hat das Patentgericht entschieden, dass die Erfindung so offenbart ist, dass ein Fachmann sie ausführen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung steht dem nicht entgegen, dass das Streitpatent als Beispiel für das Quantisieren der Rahmenklasse nur die bereits erwähnte Darstellung von fünf verschiedenen Klassen mit zwei Bit anführt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, ist mit dieser Vorgehensweise schon deshalb ein Informationsverlust verbunden, weil die Differenzierung zwischen zwei bestimmten Klassen nur anhand weiterer Informationen möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung führt diese Vorgehensweise nicht nur dann zu einem Informationsverlust, wenn die für die Rekonstruktion der Information erforderlichen Angaben über den vorangegangenen Rahmen verloren gehen. Bezogen auf einen einzelnen Rahmen liegt ein Informationsverlust schon darin, dass überhaupt auf Daten eines anderen Rahmens zurückgegriffen werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>3. Zu Recht hat das Patentgericht entschieden, dass der Gegenstand von Patentanspruch 1 in K3 nicht vorweggenommen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>a) K3 befasst sich mit der Vorwärts-Fehlerkorrektur (Forward Error Correction, FEC) bei der Übertragung von Audioinformation, insbesondere von sprachkodierter Information (S. 1 Z. 3-6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>aa) Nach einer Erläuterung des Kodierverfahrens CELP (S. 1 Z. 12 ff.), des darauf beruhenden Verfahrens für GSM-Mobilfunk (GBM-EFR, S. 4 Z. 7 ff.), des dafür vorgeschlagenen Verfahrens zur Fehlerverschleierung (S. 7 Z. 2 ff.) und eines alternativen, für das US-Militär entwickelten Sprachdekoders (S. 9 Z. 1 ff.) stellt K3 die Vorwärts-Fehlerkorrektur als Möglichkeit zur Behandlung verlorener Pakete vor (S. 10 Z. 9 ff.). Bei FEC würden im Allgemeinen redundante Informationen zusammen mit der kodierten Sprache übertragen. Der Dekodierer versuche, die redundanten Informationen zu nutzen, um verlorene Pakete zu rekonstruieren (S. 10 Z. 15-17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene Figur 6 zeige, wie redundante Daten an primäre Daten angehängt werden könnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="546px"
+                       src="bild5_4.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>An die primären Daten jedes Rahmens würden redundante Daten des vorhergehenden Rahmens angefügt. Durch Übertragung zusätzlicher Kopien könnten weitere Redundanzstufen geschaffen werden (S. 11 Z. 17-24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Kodierung und Dekodierung solcher Datenpakete sind schematisch in der nachfolgend wiedergegebenen Figur 5 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild6_5.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Das Dekodiermodul (504) enthalte eine Logik zur Trennung der primären von den redundanten Daten. Diese würden zwei separaten Dekodierern (512, 514) zugeführt. Der Primärdatenrahmen werde erst dann dekodiert, wenn das nachfolgende Paket mit den redundanten Daten eintreffe. Dies führe zu einer Verzögerung bei der Wiedergabe (S. 12 Z. 5-17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Eine Steuerlogik (518) sorge dafür, dass das vom primären Dekodierer (512) erzeugte Sprachsignal verwendet werde, wenn das Paket mit den Primärdaten empfangen worden sei. Wenn ein Paket mit Primärdaten verloren gehe, diene die Steuerlogik (518) dazu, Lücken im empfangenen Strom mit redundant kodierten Rahmen aufzufüllen (S. 12 Z. 13-19).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>bb) K3 bezeichnet diese Vorgehensweise als nicht völlig zufriedenstellend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Sprachsynthesemodelle nutzten die Parameter früherer Betriebszustände. Selbst wenn ein Dekodierer fehlende Rahmen mit Hilfe redundanter Daten rekonstruieren könne, sei das "Gedächtnis" des primären Synthesemodells aufgrund des Verlusts von Primärdaten mangelhaft (S. 12 Z. 23 bis S. 13 Z. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>Darüber hinaus könnten weitere Probleme auftreten. Bei Analyse-durch-Synthese-Verfahren, die lineare Prädiktoren verwenden, könnten Diskontinuitäten der Phasen deutlich hörbar sein. Bei Techniken, die ein adaptives Codebuch verwendeten, könne ein Phasenfehler in der Rückkoppelungsschleife für zahlreiche Rahmen bestehen bleiben. Bei Sprachkodierern, die LP-Koeffizienten (LPC) verwendeten, die bei der Kodierung vorhergesagt würden, verringere ein Verlust des LPC-Parameters die Genauigkeit des Prädiktors (S. 13 Z. 6-13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>cc) Zur Verbesserung schlägt K3 eine weitergehende "Interaktion" zwischen dem primären und dem redundanten Synthesemodell (S. 13 Z. 27-30) und eine vorausschauende Verarbeitung im Kodier- und Dekodiermodul (S. 14 Z. 1-6) vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>Ein dafür geeignetes System ist schematisch in der nachfolgend wiedergegebenen Figur 7 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild7_6.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Um das Problem einer fehlenden Aktualisierung des "Gedächtnisses" des primären Synthesemodells zu lösen, würden bei Bedarf Informationen aus dem redundanten Synthesemodell zur Aktualisierung des Zustands des primären Synthesemodells eingesetzt. In ähnlicher Weise könne das Dekodiermodul (704) "Gedächtnis"-Mängel im redundanten Synthesemodell beheben, indem es parametrische Informationen aus dem primären Synthesemodell verwende (S. 17 Z. 18-25).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>Welche Strategie zur Aktualisierung verwendet werde, hänge von den Anforderungen der Modelle ab. Einige Modelle könnten eine stärkere Abhängigkeit von früheren Zuständen aufweisen als andere. Dies hänge auch von den vorherrschenden Fehlerbedingungen im Dekodiermodul (704) ab. Diese seien gekennzeichnet durch die Strategie, die im vorherigen Rahmen zur Dekodierung der Sprache verwendet worden sei (z.B. primär, redundant, Fehlerverschleierung), durch die Verfügbarkeit von Daten im aktuellen Rahmen (z.B. primär oder redundant) und durch den Empfang oder Nichtempfang des nächsten Rahmens. Dementsprechend definierten die Dekodieranweisungen, die jedem Zustand zugeordnet seien und die spezifisch für die Fehlerbedingungen seien, vorzugsweise auch die Methode zur Aktualisierung der Synthesemodelle (S. 17 Z. 28 bis S. 18 Z. 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Das Dekodiermodul (704) könne die Verzögerung zwischen Empfang und Dekodieren der primären Daten nutzen, um die primären Daten für vorgelagerte Prozesse zur Qualitätsverbesserung zu nutzen. Wenn etwa ein Rahmen n verlorengegangen sei und dessen Daten anhand der redundanten Daten im nachfolgenden Rahmen n+1 dekodiert würden, könnten die primären Daten dieses Rahmens eingesetzt werden, um durch Interpolation der Energiewerte einen sanfteren Übergang zwischen den beiden Rahmen zu ermöglichen (S. 19 Z. 9-23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>Das Kodiermodul (702) könne die ohnehin auftretende Verzögerung dazu nutzen, die primären Daten eines Rahmens n und die redundanten Daten des vorhergehenden Rahmens n-1 zur gleichen Zeit zu kodieren. Dies eröffne die Möglichkeit zu einer vorausschauenden Verarbeitung (S. 19 Z. 25 bis S. 20 Z. 9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Die Tonhöhenphase (pitch phase, pitch pulse phase, pitch pulse position) könne nützliche Informationen zur Fehlerkorrektur enthalten. Um dies auszunutzen, könne das Dekodiermodul (704) die Position des Tonhöhenpulses durch Auffinden der Korrelationsspitzen bestimmen (S. 20 Z. 19-24). Ferner könne das Kodiermodul (702) Informationen über die Tonhöhenphase des ursprünglichen Sprachsignals (z.B. Position und Vorzeichen des Tonhöhenpulses) bestimmen und in der redundanten Kodierung übertragen (S. 21 Z. 6-9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>dd) Ein alternatives Kodiermodul ist schematisch in der nachfolgend wiedergegebenen Figur 8 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="545px"
+                       src="bild8_7.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Ein Extraktor (804) extrahiere parametrische Informationen aus dem primären Kodierer (802). Diese würden durch ein Modul (806) um einen Rahmen verzögert. Der Extraktor (804) wähle eine Teilmenge aus den primär kodierten Parametern aus. Die extrahierten Parameter könnten in ein anderes Format konvertiert werden, um sie mit reduzierter Bandbreite darzustellen, zum Beispiel durch Quantisieren mit einer Methode, die weniger Bits erfordere (S. 22 Z.12-28).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>ee) Bei einem in K3 geschilderten Ausführungsbeispiel werden ein als GSM-VOC vocoder bezeichneter Kodierer und ein als GSM-VOC decoder bezeichneter Dekodierer eingesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Der Dekodierer weise eine Funktion zum Anlegen eines Anregungssignals auf, das entweder einen Rauschvektor (für stimmlose Laute) oder eine statische Pulsform (für stimmhafte Sprache) umfasse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Der Kodierer teile eingehende Sprache in Rahmen von 20 ms auf und berechne das quadratische Mittel (root mean square, RMS) der Energie. Danach berechne und quantifiziere er einen einzigen Satz von LP-Koeffizienten nach der im GSM-EFR-Standard festgelegten Methode (S. 23 Z. 30 bis S. 24 Z. 5).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>Anschließend führe der Kodierer eine Open-Loop-Tonhöhensuche für jede Hälfte eines Rahmens durch (S. 24 Z. 9 f.). Die Stimmhaftigkeit berechne er auf der Grundlage der ungewichteten maximalen Korrelation aus der Open-Loop-Suche. Dabei vergleiche er den aktuellen Halbrahmen mit den beiden vorangehenden und den beiden nachfolgenden Halbrahmen. Da bei der Verarbeitung eines Rahmens bereits Daten für den nächsten Rahmen zur Verfügung stünden, sei dies nicht mit zusätzlichen Verzögerungen verbunden (S. 24 Z. 21-30).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>Um zu bestimmen, ob Sprache stimmhaft sei, vergleiche der Kodierer die fünf angezeigten Korrelationen mit drei verschiedenen Schwellenwerten. Anhand des ersten Vergleichs könne er schnell auf den Beginn eines stimmhaften Segments reagieren. Der zweite Schwellenwert werde zur Erkennung von Stimmhaftigkeit während eines stimmhaften Abschnitts verwendet. Wenn der vorherige Halbrahmen stimmhaft gewesen sei, werde der dritte Schwellenwert herangezogen, um sicherzustellen, dass der Kodierer den Halbrahmenbereich, in dem der Übergang von stimmhafter zu stimmloser Sprache stattfinde, als stimmhaft markiere. Die an den Dekodierer gesendeten Informationen enthielten die auf diese Weise berechnete Stimmhaftigkeit für beide Halbrahmen (S. 25 Z. 3-18).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>ff) Der Dekodierer erzeuge einen Erregungsvektor aus der Bestimmung der Stimmhaftigkeit (voicing) und aus der Tonhöhe. Die Stimmhaftigkeit umfasse zwei stationäre Zustände (voiced, unvoiced) und zwei Übergangszustände (unvoiced to voiced, voiced to unvoiced). Die Übergangszustände träten in beiden Hälften der Rahmen auf und definierten somit vier verschiedene Zustände (S. 27 Z. 3-9).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>Das Dekodiermodul bilde die Erregung durch Summierung zweier Vektoren und passe die Amplitude des Erregungsvektors mit einem RMS-Wert für jeden Subrahmen an. Eine Anpassung auf Subrahmen-Basis stelle jedoch möglicherweise nicht die beste Option dar, da die Energieverteilung der Tonhöhenimpulse nicht gleichmäßig sei. Stattdessen könne eine Anpassung auf Basis eines Tonhöhenimpulses erfolgen. Dies erfolge durch Interpolation zwischen mehreren Effektivwerten (S. 30 Z. 25 bis S. 31 Z. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>Im Zusammenhang mit möglichen Abwandlungen führt K3 ergänzend aus, die RMS-Messung im letzten Subrahmen könne so geändert werden, dass die letzte vollständige Tonhöhen-Epoche, und damit nur ein Tonhöhenimpuls gemessen werde. Bei der aktuellen Messung über den letzten Subrahmen könnten je nach Position des Pulses und der Tonhöhenverzögerung null, ein oder zwei hochenergetische Teile vorhanden sein. Eine ähnliche Modifikation sei für die Energieverteilung im Zustand "Red Single Error" und den stationären stimmhaften Zustand möglich. In diesen Fällen könne die Energieinterpolation in Abhängigkeit von der Anzahl der Tonhöhenimpulse angepasst werden (S. 36 Z. 9-16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>gg) Als weitere Abwandlungsmöglichkeit führt K3 an, einige Parameter könnten weggelassen werden, um die Menge an redundanten Daten zu reduzieren. So könnten für stimmlose Sprache die in der nachfolgend wiedergegebenen Tabelle 2 aufgeführten Parameter verwendet werden. Hierbei könne der Parameter "voicing state" entfallen und stattdessen die Datenmenge als Indikator für stimmlose Sprache herangezogen werden (S. 37 Z. 9-16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild9_8.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>b) Damit sind die Merkmale 1, 2, 4, 5 und 6 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufungserwiderung ist in K3 eine Übertragung an den Dekodierer auch für die Information über die Stimmhaftigkeit eines Rahmens offenbart. Dies ergibt sich aus der oben wiedergegebenen Tabelle 2, die hierfür zwei Bit vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>c) K3 offenbart das Ermitteln von Informationen zur Energie, zur Stimmhaftigkeit und zur Phase. Mit der Korrelation zwischen mehreren Halbrahmen wird ferner ein Signalklassifizierungsparameter ermittelt. Diese Werte werden in K3 zur Klassifizierung eines Halbrahmens als stimmhaft oder stimmlos herangezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>Es kann zugunsten der Klägerin unterstellt werden, dass damit auch Merkmal 3.1 offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>d) Nicht vollständig offenbart ist jedenfalls Merkmal 3.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Berufung ist dieses Merkmal für die Beurteilung der Patentfähigkeit relevant. Wie bereits oben dargelegt wurde, kommt ihm technische Natur zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>bb) Wie die Berufungserwiderung zu Recht geltend macht, ist die Unterscheidung zwischen sechs verschiedenen Zuständen in K3 nur für den Dekodierer offenbart. Für den Kodierer wird hingegen nur eine Unterscheidung zwischen "voiced" und "unvoiced" geschildert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>e) Ebenfalls nicht vollständig offenbart ist die Merkmalsgruppe 3.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_133">133</a>
+            </dt>
+            <dd>
+               <p>aa) Wie bereits oben dargelegt wurde, sieht K3 als übliche Methode zur Ermittlung von Informationen über die Energie die Berechnung eines quadratischen Mittelwerts (RMS) vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_134">134</a>
+            </dt>
+            <dd>
+               <p>Dies entspricht der Vorgabe aus Merkmal 3.3.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_135">135</a>
+            </dt>
+            <dd>
+               <p>bb) Nicht offenbart ist hingegen die Berechnung eines Maximalwerts im Sinne von Merkmal 3.3.1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_136">136</a>
+            </dt>
+            <dd>
+               <p>(1) Entgegen der Auffassung der Berufung ist Merkmal 3.3.1 durch die in K3 enthaltenen Ausführungen zur Berechnung eines Mittelwerts nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_137">137</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, ergibt sich aus der Formulierung "in relation to" nicht, dass die Berechnung eines Mittelwerts als Berechnung in Relation zu einem Maximalwert angesehen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_138">138</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Berufung reicht die Festlegung einer unteren Summationsgrenze und einer oberen Summationsgrenze für die RMS-Berechnung für die Verwirklichung von Merkmal 3.3.1 ebenfalls nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_139">139</a>
+            </dt>
+            <dd>
+               <p>(2) Entgegen der Auffassung der Berufung führt die in K3 aufgezeigte Variante, für stimmhafte Varianten nur die letzte vollständige Tonhöhen-Epoche, also nur einen Tonhöhenimpuls zu messen, ebenfalls nicht zur Berechnung in Relation zu einem Maximum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_140">140</a>
+            </dt>
+            <dd>
+               <p>(a) Wie auch die Berufung nicht in Zweifel zieht, wird auch bei dieser Variante ein Durchschnittswert berechnet. Dass hierfür ein kleinerer Messbereich herangezogen wird, ist unerheblich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_141">141</a>
+            </dt>
+            <dd>
+               <p>(b) Aus dem von der Berufung angeführten Umstand, dass der RMS-Wert (im Deutschen auch Effektivwert genannt) und der Maximalwert (im Deutschen auch Scheitelwert genannt) bei einfachen periodischen Wellen in einem festen Verhältnis zueinander stehen, ergibt sich keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_142">142</a>
+            </dt>
+            <dd>
+               <p>Diesem Umstand käme allenfalls dann Bedeutung zu, wenn zu erwarten wäre, dass die in K3 untersuchten Impulse jedenfalls typischerweise die Form einer periodischen Welle haben. Letzteres ist nach den Feststellungen des Patentgerichts indes nicht der Fall. Konkrete Anhaltspunkte, die Zweifel an der Vollständigkeit oder Richtigkeit dieser Feststellung begründen, sind weder aufgezeigt noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_143">143</a>
+            </dt>
+            <dd>
+               <p>Für die in K3 vorgeschlagene Variante, bei der nur eine einzelne Impulsperiode (Pitch-Periode) untersucht wird, ergibt sich keine abweichende Beurteilung. Wie die Berufungserwiderung zu Recht geltend macht, ergibt sich aus der nachfolgend wiedergegebenen Figur 3.1 der Entgegenhaltung K4, die die Klägerin mit Markierungen zur Länge eines Tonhöhenimpulses ergänzt hat, dass bei Sprachsignalen auch ein einzelner Pitch-Puls keine Form aufweist, die es ermöglicht, aus dem Effektivwert Rückschlüsse auf den Scheitelwert zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="411px"
+                       src="bild10_9.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_144">144</a>
+            </dt>
+            <dd>
+               <p>(c) Der von der Berufung geltend gemachte Umstand, dass es bei bekannter Form im Ermessen des Fachmanns liegt, ob er den Effektivwert oder den Scheitelwert heranzieht, führt ebenfalls nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_145">145</a>
+            </dt>
+            <dd>
+               <p>Dieser Umstand vermag eine unmittelbare Offenbarung von Merkmal 3.3.1 in K3 schon deshalb nicht zu begründen, weil sich die genannte Erkenntnis nicht allein aus den Darlegungen in K3 ergibt, sondern allenfalls aus einer ergänzenden Heranziehung von Fachwissen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_146">146</a>
+            </dt>
+            <dd>
+               <p>4. Ebenfalls zutreffend ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand von Patentanspruch 1 auf einer erfinderischen Tätigkeit beruht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_147">147</a>
+            </dt>
+            <dd>
+               <p>a) Aus K3 ergeben sich keine Anregungen in Richtung auf die geschützte Lehre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_148">148</a>
+            </dt>
+            <dd>
+               <p>K3 gibt jedenfalls keine Anregung oder Hinweise, die Frage, ob zur Ermittlung des Energieinformationsparameters der Effektivwert oder der Scheitelwert als Ausgangswert der Berechnung ermittelt wird, von der Rahmenklasse abhängig zu machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_149">149</a>
+            </dt>
+            <dd>
+               <p>K3 unterscheidet zwar zwischen einzelnen Rahmenklassen, sieht jedoch für jede Rahmenklasse eine Berechnung des quadratischen Mittelwerts (RMS) der Energie und damit die Ermittlung des Effektivwerts vor. Dies gilt auch für die Variante, bei der nur die letzte vollständige Tonhöhen-Epoche gemessen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_150">150</a>
+            </dt>
+            <dd>
+               <p>Dass für die Wahl des Erfassungsbereichs der Rahmenklasse eine Bedeutung zukommen kann, gibt keine Veranlassung, für eine bestimmte Rahmenklasse von der in K3 für alle Klassen vorgesehenen Berechnung des quadratischen Mittels abzuweichen und diese nur für diese Rahmenklasse durch eine Berechnung in Relation zu einem Maximum der Signalenergie (Scheitelwert) zu ersetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_151">151</a>
+            </dt>
+            <dd>
+               <p>b) Diesbezügliche Anregungen ergaben sich auch nicht aus dem allgemeinen Fachwissen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_152">152</a>
+            </dt>
+            <dd>
+               <p>aa) Aus den von der Berufung aufgezeigten Zusammenhängen zwischen Effektiv- und Scheitelwert ergibt sich nicht die Anregung, die Berechnung der Energie von der Klassifizierung des Rahmens abhängig zu machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_153">153</a>
+            </dt>
+            <dd>
+               <p>bb) In der Veröffentlichung der U.S. Environmental Protection Agency (About sound, Washington D.C., Mai 1976, K7) wird unter dem Stichwort "Root mean-square" (S. 40) zwar ausgeführt, der RMS-Wert sei am besten für gleichmäßigen Schall geeignet, während der Spitzenwert für die Beurteilung von impulsartigem Schall notwendig sei. Daraus ergeben sich aber keine Hinweise darauf, dass dieser Unterschied auch für die Kodierung und Dekodierung von Sprachsignalen nach dem Vorbild von K3 von Bedeutung sein kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_154">154</a>
+            </dt>
+            <dd>
+               <p>5. Hinsichtlich der Ansprüche 39, 54, 75, 90 und 91 ergibt sich keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_155">155</a>
+            </dt>
+            <dd>
+               <p>Alle diese Ansprüche sehen das Merkmal 3.3 vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_156">156</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rombach     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE607882024&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE312272022</doknr>
+   <ecli>ECLI:DE:BGH:2022:180122UXZR14.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220118</entsch-datum>
+   <aktenzeichen>X ZR 14/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 54 Abs 2 EuPatÜbk, Art 56 EuPatÜbk, Art 138 Abs 1 Buchst c EuPatÜbk</norm>
+   <vorinstanz>vorgehend BGH, 5. Oktober 2021, Az: X ZR 14/20, Beschluss<br/>vorgehend BGH, 11. Mai 2021, Az: X ZR 14/20, Beschluss<br/>vorgehend BGH, 11. August 2020, Az: X ZR 14/20, Beschluss<br/>vorgehend BGH, 18. Juni 2020, Az: X ZR 14/20, Beschluss<br/>vorgehend BPatG München, 19. September 2019, Az: 2 Ni 14/17 (EP), Urteil<br/>nachgehend BGH, 8. März 2022, Az: X ZR 14/20, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Verfahren auf Nichtigerklärung eines Europäischen Patents: Äußerungen des Teilnehmers eines Treffens einer Arbeitsgruppe des European Telecommunication Standards Institute als der Neuheit abträglicher naheliegender Stand der Technik – CQI-Bericht</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>CQI-Bericht</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Dokumente und Informationen, die den Teilnehmern eines Treffens einer Arbeitsgruppe des European Telecommunication Standards Institute (ETSI) in einer förmlichen Sitzung präsentiert werden, sind in der Regel der Öffentlichkeit zugänglich. Äußert sich dagegen ein Teilnehmer eines solchen Treffens außerhalb einer Sitzung im Gespräch mit anderen Teilnehmern zu technischen Sachverhalten, muss er regelmäßig nicht damit rechnen, dass diese Informationen einem nicht begrenzten Kreis von Personen zugänglich werden.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 19. September 2019 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung der Klägerinnen zu 1 und zu 2 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Rechtsstreits erster Instanz tragen die Klägerinnen zu 1 und zu 2 je die Hälfte. Von den Gerichtskosten des Berufungsrechtszugs tragen die Klägerinnen zu 1 bis 3 und die Streithelferin je ein Viertel. Von den außergerichtlichen Kosten der Beklagten im Berufungsrechtszug tragen die Klägerinnen zu 1 und zu 2 und die Streithelferin je ein Viertel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 2 294 737 (Streitpatents), das unter Inanspruchnahme der Priorität einer europäischen Patentanmeldung vom 6. Mai 2008 am 2. April 2009 angemeldet wurde und ein Verfahren zum Empfangen eines Steuerkanalsignals von einer Basisstation sowie ein mobiles Endgerät zur Durchführung dieses Verfahrens betrifft. Patentanspruch 1, auf den sieben weitere Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A method comprising the following steps performed by a mobile terminal:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">receiving a control channel signal from a base station, wherein the control channel signal comprises a Modulation and Coding Scheme, MCS, Index, information on resource blocks used for the transmission from the mobile terminal to the base station, and a channel quality information trigger for triggering a transmission of an aperiodic channel quality information report to the base station,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">characterized in that the method further comprises</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">determining whether the channel quality information trigger is set and whether the control channel signal indicates a predetermined value of the MCS Index and indicates a number of resource blocks that is smaller than or equal to a predetermined resource block number, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">transmitting the aperiodic channel quality information report to the base station without multiplexing the aperiodic channel quality information report with Uplink Shared Channel data, in case the determining step yields a positive result.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 9, auf den sechs weitere Ansprüche zurückbezogen sind, betrifft ein mobiles Endgerät mit Komponenten, die zur Durchführung des Verfahrens eingerichtet (adapted) sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zu 1 und zu 2 haben geltend gemacht, der Gegenstand des Streitpatents gehe über den Inhalt der ursprünglich eingereichten Anmeldung hinaus und sei nicht patentfähig. Die Beklagte hat das Streitpatent in der erteilten und hilfsweise in sechs geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit dessen Gegenstand über die mit Hilfsantrag 3 verteidigte Fassung hinausgeht, und die weitergehende Klage abgewiesen. Hiergegen richten sich die Berufungen der Beklagten und der Klägerinnen zu 1 und zu 2. Die Klägerinnen verfolgen ihre erstinstanzlichen Anträge weiter. Die Beklagte verteidigt das Patent in der erteilten Fassung und nunmehr in sieben geänderten Fassungen. Die Streithelferin der Klägerinnen zu 1 und zu 2 ist dem Rechtsstreit im Berufungsrechtszug beigetreten. Die Klägerin zu 3 hat im Berufungsrechtszug ihren Beitritt zum Rechtsstreit erklärt und angekündigt, die gleichen Anträge wie die Klägerinnen zu 1 und zu 2 zu stellen. Sie hat ihren Beitritt dann jedoch zurückgenommen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufungen beider Seiten sind zulässig. Nur das Rechtsmittel der Beklagten ist begründet; es führt zur Abweisung der Klage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Der Beitritt der Streithelferin ist zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Streithelferin hat ein rechtliches Interesse an der Nichtigerklärung des Streitpatents, weil sie aus diesem gerichtlich in Anspruch genommen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>II. Das Streitpatent befasst sich mit der Signalisierung von Steuersignalen in einem Mobilfunksystem.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>1. In einem solchen System werden zwischen dem mobilen Endgerät und der Basisstation über eine Luftschnittstelle Nutz- und Anwenderdaten (user data) und Steuersignale (control signals) ausgetauscht. Mittels der Steuersignale kann die Mobilstation um die Zuweisung von Ressourcen bitten und die Basisstation solche Ressourcen zuweisen. Wie die Streitpatentschrift schildert, wird zumindest ein Teil der Ressourcen den verschiedenen Endgeräten dynamisch zugewiesen (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Die Qualität und Geschwindigkeit der Übertragung hängen unter anderem von der Codierrate und der Modulation ab. Die Basisstation informiert die Mobilstation darüber, welche Codierung und welche Modulation jeweils zu wählen ist, indem sie ihr über ein Steuersignal ein Modulations-Codierungs-Schema (modulation and coding scheme, MCS) mitteilt. Dafür kann ein MCS-Index verwendet werden, dessen Werte jeweils für eine bestimmte Kombination aus Modulation und Codierung stehen. Ein Beispiel hierfür ist in Tabelle 6 der Streitpatentschrift (Abs. 41) dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Für die Auswahl des Modulations-Codierungs-Schemas ist die Kanalgüte (channel quality) von Bedeutung. Ist diese hoch, können die Anforderungen an die Codierrate gesenkt und der Grad der Modulierung erhöht werden. Das Endgerät teilt der Basisstation die von ihm ermittelte Kanalgüte in der Form eines Kanalgüteinformationsberichts (channel quality indication report, CQI-Bericht) mit. Ein CQI-Bericht kann etwa über den gemeinsamen physikalischen Uplink-Kanal (Physical Uplink Shared Channel, PUSCH) übermittelt werden. Diese Meldung kann periodisch oder aperiodisch erfolgen. Das Streitpatent befasst sich mit dem aperiodischen CQI-Bericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Die Basisstation kann einen aperiodischen CQI-Bericht durch ein entsprechendes Steuersignal (CQI-Trigger) über den physikalischen Downlink-Steuerkanal (Physical Downlink Command Channel, PDCCH) anfordern. Dies soll mit möglichst geringem Aufwand geschehen (Abs. 44). Wie die Streitpatentschrift ausführt, wird der aperiodische CQI-Bericht normalerweise zusammen mit Anwenderdaten übertragen (Abs. 41), es sei denn, der Datenpuffer (data buffer) des mobilen Endgeräts ist leer. Durch das Multiplexen steigt das Risiko eines Übertragungsfehlers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund besteht das technische Problem darin, die Anforderung eines aperiodischen CQI-Berichts mit geringem Signalisierungsaufwand zu ermöglichen und das Risiko eines Fehlers bei der Übertragung eines solchen Berichts zu verringern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieser Aufgabe sieht Patentanspruch 1 ein Verfahren mit folgenden Merkmalen vor:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="1" class="Rsp" style="margin-left:18pt">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">A method comprising the following steps, performed by a mobile terminal:</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Verfahren, umfassend die nachfolgenden Schritte, die von einem mobilen Endgerät durchgeführt werden:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">receiving a control channel signal from a base station, wherein the control channel signal comprises</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Empfangen eines Steuerkanalsignals von einer Basisstation, das umfasst:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.1 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a Modulation and Coding Scheme Index,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen Modulations- und Codierschema-Index,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.2 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">information on resource blocks used for the transmission from the mobile terminal to the base station,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Information über Ressourcenblöcke, die zur Übertragung von dem mobilen Endgerät an die Basisstation verwendet werden,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.1.3 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a channel quality information trigger for triggering a transmission of an aperiodic channel quality information report to the base station,</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen Kanalgüteinformationsauslöser zum Auslösen einer Übertragung eines aperiodischen Kanalgüteinformationsberichts an die Basisstation;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">determining</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bestimmen,</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">whether the channel quality information trigger is set and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">ob der Kanalgüteinformationsauslöser gesetzt ist und</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.1a</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">whether the control channel signal indicates</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">ob das Steuerkanalsignal anzeigt:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.2 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a predetermined value of the MCS-Index and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">einen vorbestimmten Wert des MCS-Index und</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.2.3 </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">a number of resource blocks that is smaller or equal to a predetermined resource block number, and</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">eine Anzahl von Ressourcenblocks, die kleiner oder gleich einer vorbestimmten Anzahl ist;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">1.3     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">transmitting the aperiodic channel quality information report to the base station without multiplexing the aperiodic channel quality information report with Uplink Shared Channel data, in case the determining step yields a positive result.</p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Übertragen des aperiodischen Kanalgüteinformationsberichts an die Basisstation ohne Multiplexen mit Uplink-Shared-Channel-Daten, falls der Bestimmungsschritt ein positives Ergebnis zeitigt.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Erörterung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>a) Das geschützte Verfahren findet gemäß Merkmal 1 in einem Endgerät statt. Es setzt aber voraus, dass die Basisstation ein Steuerkanalsignal versendet, das das Endgerät im ersten Schritt des geschützten Verfahrens gemäß Merkmal 1.1 empfängt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Das Steuerkanalsignal muss gemäß Merkmalsgruppe 1.1 drei Komponenten umfassen, nämlich einen MCS-Index, Angaben über die Ressourcenblöcke, die zur Übertragung von Daten vom Endgerät an die Basisstation verwendet werden, und einen CQI-Trigger.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Ein Ressourcenblock im Sinne von Merkmal 1.1.2 ist nach der Beschreibung (Abs. 4) die kleinste Einheit der zur Übertragung von Daten über die Luftschnittstelle verfügbaren Ressourcen. Die Basisstation weist den Endgeräten je nach den vorhandenen Kapazitäten und den jeweils herrschenden Bedingungen eine bestimmte Anzahl solcher Blöcke zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Im zweiten Schritt prüft das Endgerät, ob das Steuerkanalsignal einen CQI-Trigger und einen bestimmten Wert für den MCS-Index enthält und ob die mitgeteilte Anzahl von Ressourcenblocks kleiner oder gleich ist wie ein vorbestimmter Vergleichswert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Dieser vorbestimmte Vergleichswert entspricht anspruchsgemäß einer Mehrzahl, also mindestens zwei Ressourcenblöcken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Dafür sprechen die Verwendung des Plurals in Merkmal 1.2.3 und der Umstand, dass zwei unterschiedliche Vergleichsmaßstäbe (kleiner oder gleich) zu einem positiven Ergebnis führen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Bestätigt wird dieses Verständnis durch die Beschreibung des einzigen Ausführungsbeispiels, das der erteilten Fassung von Patentanspruch 1 entspricht. Bei diesem beträgt der Vergleichswert 10 (Abs. 67 ff. mit Tabelle 8). Ergänzend wird erläutert, die Übersendung im CQI-only-Modus sei nur sinnvoll, wenn die Zahl der zugewiesenen Ressourcenblöcke klein sei (Abs. 68 f.). Dies setzt ebenfalls voraus, dass die mögliche Zahl der Ressourcenblöcke größer sein kann als 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist dem verallgemeinernden Hinweis in der Beschreibung, wonach statt 10 auch jeder andere Wert gewählt werden kann (Abs. 70), lediglich zu entnehmen, dass auch ein kleinerer oder größerer Vergleichswert in Betracht kommt, nicht aber, dass dieser den Wert 1 haben kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Wenn diese Prüfung ein positives Ergebnis zeitigt, versteht das Endgerät dies als Anweisung, einen aperiodischen CQI-Bericht an die Basisstation zu übertragen, ohne diesen mit Uplink-Shared-Channel-Daten zu mischen, und zwar unabhängig davon, ob der Datenpuffer des Endgeräts leer ist. In der Beschreibung ist diese Form der Übertragung als CQI-only-Modus (CQI-only mode) bezeichnet (Abs. 56, Abs. 60 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>d) Das Patentgericht hat angenommen, aus der erteilten Fassung von Patentanspruch 1 ergebe sich nicht eindeutig, ob ein positives Ergebnis im Sinne von Merkmal 1.3 nur dann vorliege, wenn die drei Bedingungen nach Merkmalsgruppe 1.2 kumulativ vorlägen. Möglich sei auch ein Verständnis, wonach es genüge, wenn eine der drei Bedingungen erfüllt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Dem vermag der Senat nicht beizutreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>aa) Schon der Wortlaut des Anspruchs, der die drei Bedingungen mit der Konjunktion "und" verbindet, spricht dafür, dass das Ergebnis der Prüfung nur dann als positiv interpretiert wird, wenn alle drei Bedingungen erfüllt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) In die gleiche Richtung weist die Beschreibung des einzigen Ausführungsbeispiels, bei dem alle drei in Merkmalsgruppe 2 vorgesehenen Komponenten übertragen werden (Abs. 67 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Wie sich aus Tabelle 8 ergibt, erfolgt die Übertragung im CQI-only-Modus in diesem Beispiel nur dann, wenn der MCS-Index den Wert 29 aufweist, der CQI-Trigger gesetzt ist und die Zahl der Ressourcenblöcke nicht größer als 10 ist. Wenn die beiden ersten Voraussetzungen vorliegen, die Zahl der Ressourcenblöcke aber größer als 10 ist, wird ebenfalls ein CQI-Bericht übertragen, gegebenenfalls aber zusammen mit vorhandenen Nutzerdaten (Abs. 71).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>cc) Aus dem Wortlaut von Merkmal 1.3 ergibt sich entgegen der Auffassung der Klägerinnen keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Zwar mag die Deutung des unbestimmten Artikels "a" als Zahlwort auch in der Verfahrenssprache grammatikalisch möglich sein. Die in Merkmal 1.3 formulierte Anforderung, dass ein positives Ergebnis (a positive result) vorliegen muss, bezieht sich aber nicht auf die einzelnen Prüfungsschritte nach den Merkmalen 1.2.1, 1.2.2 und 1.2.3, sondern auf den Bestimmungsschritt gemäß Merkmalsgruppe 1.2 in seiner Gesamtheit. Dieser besteht zwar, wie die Klägerin zu 2 im Ansatz zutreffend geltend macht, aus mehreren Unterschritten. Diese sind aber gerade durch die Konjunktion "und" verknüpft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>e) Zu Recht hat das Patentgericht entschieden, dass Patentanspruch 1 nicht schlechthin ausschließt, dass das Endgerät auch in bestimmten anderen Betriebssituationen einen aperiodischen CQI-Bericht ohne Multiplexen mit Uplink-Shared-Channel-Daten versendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>aa) Wie das Patentgericht im Zusammenhang mit Hilfsantrag 3 zutreffend ausgeführt hat, kommt dies insbesondere dann in Betracht, wenn die Basisstation einen aperiodischen CQI-Bericht ohne Festlegung auf den CQI-only-Modus anfordert und im betreffenden Moment keine Daten vorhanden sind, die zusammen mit dem CQI-Bericht versandt werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>Dass das Streitpatent von dieser Möglichkeit ausgeht, ergibt sich aus dem einleitenden Hinweis, es sei wünschenswert, eine Übertragung des aperiodischen CQI-Berichts ohne Multiplexen mit Uplink-Shared-Channel-Daten auch dann auslösen zu können, wenn der Datenpuffer nicht leer ist (Abs. 43). Das Streitpatent verfolgt nicht das Ziel, solche Übertragungsvorgänge auszuschließen. Vielmehr strebt es an, eine Übertragung in diesem CQI-only-Modus auch in anderen Situationen auf einfache Weise veranlassen zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Abweichendes ergibt sich entgegen der Auffassung der Klägerinnen auch nicht aus den Absätzen 68 und 69 der Beschreibung. Diesen ist nur zu entnehmen, dass es bei dem dort beschriebenen Ausführungsbeispiel - anders als im unmittelbar davor behandelten Beispiel - für die Auslösung eines CQI-Reports ohne Multiplexen nicht genügt, wenn die Bedingungen nach den Merkmalen 1.2.1 und 1.2.2 vorliegen, sondern zusätzlich erforderlich ist, dass das Steuerkanalsignal eine Anzahl von Ressourcenblöcken anzeigt, die kleiner oder gleich einer vorbestimmten Anzahl ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Darstellung ergeben sich keine zwingenden Schlussfolgerungen zu der Frage, ob und unter welchen Voraussetzungen eine Übertragung im CQI-only-Modus auch in anderen Betriebssituationen in Betracht kommt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Die Ausführungen zur mitgeteilten Anzahl der Ressourcenblöcke stehen im Kontext zu dem vorangegangenen Beispiel, bei dem schon die Übermittlung eines bestimmten Werts für den MCS-Index und eines CQI-Triggers zur Übertragung im CQI-only-Modus führt. Vor diesem Hintergrund ist der das zweite Beispiel betreffenden Angabe, eine Übermittlung in diesem Modus erfolge nur, wenn die mitgeteilte Anzahl der Ressourcenblöcke einen bestimmten Wert nicht überschreite, lediglich zu entnehmen, dass die beiden zuerst genannten Kriterien nicht ausreichen, sondern eine Übertragung in der geschilderten Ausgangssituation nur dann erfolgt, wenn alle drei Voraussetzungen erfüllt werden. Für Situationen, in denen schon eines der beiden ersten Kriterien nicht erfüllt ist, die Auswahl des CQI-only-Modus aber aus anderen Gründen in Betracht kommt, lassen sich hieraus keine Schlussfolgerungen ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>bb) Wie die Beklagte zu Recht geltend macht und das Patentgericht zutreffend gesehen hat, ergibt sich aus Merkmal 1.3 jedoch als Mindestanforderung, dass zwischen dem darin genannten Kriterium - einem positiven Ergebnis des in Merkmalsgruppe 1.2 definierten Bestimmungsschritts - und der Übersendung eines CQI-Berichts ohne Multiplexen mit Uplink-Shared-Channel-Daten eine Kausalbeziehung besteht, und zwar dergestalt, dass ein positives Ergebnis als Befehl interpretiert wird, der auf den weiteren Verfahrensablauf maßgebliche Auswirkungen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Klägerinnen sind damit insbesondere Gestaltungen ausgeschlossen, in denen der weitere Verfahrensablauf unabhängig davon ist, ob das Ergebnis positiv oder negativ ausgefallen ist. Bei einem positiven Ergebnis darf von der Ausführung des Befehls, also einer Übertragung im CQI-only-Modus, allenfalls dann abgesehen werden, wenn zusätzliche Umstände hinzutreten. Bei einem negativen Ergebnis darf eine solche Übertragung allenfalls dann erfolgen, wenn andere Voraussetzungen erfüllt sind, die neben den in Merkmalsgruppe 1.2 vorgesehenen Kriterien ebenfalls als Anlass zur Übersendung im CQI-only-Modus definiert worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Aus diesem Kausalitätserfordernis ergibt sich, wie die Beklagte ebenfalls zu Recht geltend macht, dass die vorbestimmte Anzahl im Sinne von Merkmal 1.2.3 kleiner sein muss als die maximale Anzahl an Ressourcenblöcken, die mit dem Steuersignal zugeteilt werden kann. Ansonsten käme dem Vergleich zwischen dem mitgeteilten und dem vorbestimmten Wert keine Bedeutung zu: Er würde stets dasselbe Ergebnis liefern, weil jeder mögliche Wert kleiner oder gleich dem Maximalwert ist. Nach Merkmal 1.2.3 hat der Vergleich aber die Funktion, eine Unterscheidung zwischen zwei unterschiedlichen Betriebszuständen zu ermöglichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>5. Patentanspruch 9 betrifft ein mobiles Endgerät mit einem Empfänger, einem Prozessor und einem Sender, die so ausgelegt sind, dass sie jeweils einen der in Patentanspruch 1 aufgeführten drei Verfahrensschritte durchführen können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung des Patentgerichts wird damit nicht Schutz für jedes beliebige mobile Endgerät beansprucht, das einen Empfänger, einen Prozessor und einen Sender aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Zwar beschränken Zweck- und Funktionsangaben in einem Sachanspruch dessen Gegenstand regelmäßig nicht auf den angegebenen Zweck oder die angegebene Funktion. Nach der Rechtsprechung des Senats sind solche Angaben gleichwohl nicht bedeutungslos. Sie definieren den durch das Patent geschützten Gegenstand vielmehr regelmäßig dahin, neben der Erfüllung der weiteren räumlich-körperlichen Merkmale auch so ausgebildet zu sein, dass er für den im Patentanspruch angegebenen Zweck verwendet werden oder die angegebene Funktion erfüllen kann, mithin objektiv geeignet ist, den angegebenen Zweck oder die angegebene Funktion zu erfüllen (BGH, Urteil vom 24. April 2018 - X ZR 50/16, GRUR 2018, 1128 Rn. 12 - Gurtstraffer).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Für das Streitpatent ergibt sich aus den in Patentanspruch 9 vorgesehenen Zweckbestimmungen für den Empfänger, den Prozessor und den Sender, dass diese aufgrund geeigneter Schaltung oder Programmierung in der Lage sein müssen, die drei Verfahrensschritte nach den Merkmalen 1.1, 1.2 und 1.3 durchzuführen. Ein Endgerät, das zwar entsprechend programmiert werden könnte, aber noch nicht mit der erforderlichen Software ausgerüstet ist, weist diese Eignung nicht auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Danach ist der Gegenstand von Patentanspruch 9 nicht anders zu beurteilen als derjenige von Patentanspruch 1, weil die Merkmale beider Ansprüche in allen wesentlichen Punkten übereinstimmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>III. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 in der erteilten Fassung gehe über den Inhalt der ursprünglichen Anmeldeunterlagen (NK2) hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>In der Anmeldung sei das Verfahren dahin beschrieben, dass das Steuerkanalsignal nur dann als Befehl für die Übertragung eines aperiodischen CQI-Berichts ohne Nutzerdaten interpretiert werde, wenn der CQI-Trigger gesetzt ist und der MCS-Index einen bestimmten Wert aufweist. Der Wortlaut von Patentanspruch 1 lasse demgegenüber auch die Interpretation zu, dass es ausreicht, wenn eine dieser beiden Voraussetzungen vorliegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>In der Anmeldung sei ferner vorgesehen, dass die Übertragung des aperiodischen CQI-Berichts ohne Nutzerdaten nur dann erfolge, wenn die Anzahl von Ressourcenblöcken einen vorgegebenen Wert nicht überschreitet. Patentanspruch 1 lasse demgegenüber offen, was geschehen solle, wenn diese Bedingung nicht erfüllt ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Da Patentanspruch 1 in der Fassung nach Hilfsantrag 1 unverändert bleibe, gelte für diesen nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>In der Fassung nach Hilfsantrag 2 sei die unzulässige Erweiterung nur insoweit behoben, als klargestellt sei, dass die drei Bedingungen kumulativ vorliegen müssten. Auch nach dieser Fassung bleibe aber offen, was geschehe, wenn dieses Kriterium nicht erfüllt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Dagegen gehe der Gegenstand von Patentanspruch 1 in der Fassung nach Hilfsantrag 3 nicht über den Inhalt der ursprünglichen Anmeldeunterlagen hinaus. In dieser Fassung seien die Ansprüche auch klar formuliert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Der so bestimmte Gegenstand sei neu. Das Streitpatent nehme zu Recht die Priorität der europäischen Anmeldung vom 6. Mai 2008 in Anspruch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Die europäische Patentanmeldung 2 242 302 (NK19) stelle, da sie zu Recht die Priorität einer US-amerikanischen Anmeldung (HE-NKHA1) in Anspruch nehme, für die Neuheitsprüfung relevanten Stand der Technik dar. NK19 offenbare nicht die Merkmale 1.1.2 und 1.2.3. Damit fehle es auch an einer Vorwegnahme von Merkmal 1.2.4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Der von Texas Instruments unterbreitete Vorschlag an die vom Konsortium 3GPP (3rd Generation Partnership Project) eingesetzte Arbeitsgruppe für das Funkzugangsnetzwerk (Technical Specification Group Radio Access Network, TSG-RAN) (CQI-Reporting on PUSCH, 3GPP TSG-RAN WG1 Meeting #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081383, NK20) nehme den Gegenstand von Patentanspruch 1 in der Fassung nach Hilfsantrag 3 ebenfalls nicht vollständig vorweg. Anders als von Merkmal 1.2.4 gefordert gehe dort die Ressourcenblockanzahl nicht in die Entscheidung ein, ob der CQI-Bericht zusammen mit anderen Daten oder im CQI-only-Modus übermittelt werde. Entgegen der Auffassung der Klägerinnen habe es für den Fachmann, der von NK20 ausgehe, auch nicht nahegelegen, für diese Entscheidung auch die Ressourcenblockanzahl zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Auch eine Zusammenschau des Vorschlags von NTT DoCoMo (On CQI-Reporting in E-UTRA, 3GPP TSG-RAN WG1 Meeting #51, Jeju, Korea, 5. bis 9. November 2007, R1-074819, NK23) und des Beitrags von Motorola (TBS and MCS Signaling and Tables, 3GPP TSG-RAN WG1 Meeting #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081638, NK24) lege den Gegenstand von Patentanspruch 1 in dieser Fassung nicht nahe. Aus diesen Dokumenten ergebe sich kein Hinweis darauf, die Übertragung des CQI-Berichts in irgendeiner Weise von der Anzahl der Ressourcenblöcke abhängig zu machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Soweit sich die Klägerinnen auf den Vorschlag von Panasonic (PDCCH contents and formats, 3GPP TSG-RAN WG1 Meeting #53, Kansas City, USA, 5. bis 9. Mai 2009, NK17) beriefen, sei nicht nachgewiesen, dass dieser bereits vor dem Prioritätstag der Öffentlichkeit zugänglich gewesen sei. Zudem sei auch diesem Dokument nicht zu entnehmen, dass das Ergebnis des zweiten Schritts von der Anzahl der angezeigten Ressourcenblöcke beeinflusst werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Für den Beitrag von Motorola (TBS=0 Signalling, 3GPP TSG-RAN WG1 Meeting #53, Kansas City, USA, 5. bis 9. Mai 2008, R1-082083, NK33) sei ebenfalls nicht nachgewiesen, dass dieser bereits vor dem Prioritätstag der Öffentlichkeit zugänglich gewesen sei. NK33 nehme zwar den Gegenstand von Patentanspruch 1 nicht vollständig vorweg, weil es am Setzen eines Kanalgüteinformationsauslösers fehle. Allerdings habe es für den Fachmann aufgrund des Vorschlags von Ericsson u.a. (Refinements on Signalling of CQI/Precoding Information on PDCCH, 3GPP TSG-RAN WG1 #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081682, NK32) nahegelegen, diesen Auslöser immer dann zu setzen, wenn ein Kanalgüteinformationsbericht angefordert werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Der E-Mail-Verkehr von Dr. T. M.    und G.   J.   vom 7. Januar 2008 (NK37) sei zwar als Stand der Technik zu berücksichtigen, da die betreffenden Nachrichten an eine Vielzahl von Empfängern versandt worden und damit öffentlich zugänglich gewesen seien. Es fehle jedoch wiederum an einem Hinweis darauf, die Übertragung des CQI-Berichts in irgendeiner Weise von der Anzahl der Ressourcenblöcke abhängig zu machen, vielmehr sehe NK37 vor, dass der CQI-Bericht ohne Multiplexen übertragen werde, wenn die Menge an zu übertragenden Nutzerdaten gering sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Auch ein mobiles Endgerät gemäß Patentanspruch 9 sei durch den Stand der Technik weder vollständig vorweggenommen noch nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Die US-amerikanische Patentanmeldung 2007/0149132 (NK10) offenbare zwar ein mobiles Endgerät mit Empfänger, Prozessor und Transmitter, doch sei NK10 nicht zu entnehmen, dass das dort beschriebene Gerät als Ganzes ausgelegt sei, das Verfahren nach Patentanspruch 1 durchzuführen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>IV. Diese Beurteilung hält der Überprüfung im Berufungsrechtszug nicht in allen Punkten stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung des Patentgerichts geht der Gegenstand von Patentanspruch 1 in der erteilten Fassung nicht über den Inhalt der ursprünglichen Anmeldeunterlagen (NK2) hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>a) Nach dem Verständnis des Senats beruht die gegenteilige Auffassung des Patentgerichts auf seiner abweichenden Auslegung von Patentanspruch 1 in der erteilten Fassung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>Für die Fassung von Patentanspruch 1 in der Fassung nach Hilfsantrag 3 hat das Patentgericht eine unzulässige Erweiterung mit zutreffenden Erwägungen verneint. Das dort vorgesehene Merkmal 1.2.4 enthält aus den oben dargelegten Gründen bei zutreffendem Verständnis nur eine Klarstellung dessen, was bereits die erteilte Fassung vorsieht. Deshalb geht auch die erteilte Fassung nicht über den Gegenstand der ursprünglich eingereichten Unterlagen hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung der Klägerinnen schließt die Anmeldung eine Übertragung im CQI-only-Modus in sonstigen Betriebssituationen nicht kategorisch aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Die Anmeldung beschreibt - ebenso wie das Streitpatent (Abs. 64 f.) - zunächst ein Ausführungsbeispiel, bei dem schon das Übermitteln eines bestimmten Wertes für den MCS-Index und eines CQI-Triggers zu einer Übertragung im CQI-only-Modus führen (S. 22 oben mit Tabelle 7). In diesem Zusammenhang wird - ebenfalls wortgleich mit der Beschreibung des Streitpatents (Abs. 66) - ausgeführt, ergänzend zu MCS-Index und CQI-Trigger könnten andere Parameter als Kriterien herangezogen werden (S. 22 Abs. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Im Anschluss daran wird - wiederum in Übereinstimmung mit dem Streitpatent (Abs. 67-72) - als weitere Ausführungsform ein Beispiel beschrieben, bei dem die Übertragung im CQI-only-Modus nur ausgelöst wird, wenn die mitgeteilte Anzahl der Ressourcenblöcke einen bestimmten Wert nicht überschreitet (S. 22 Abs. 4 bis S. 23). Bei diesem Beispiel wird die Anzahl der Ressourcenblöcke als zusätzliches Kriterium neben dem MCS-Index und dem CQI-Trigger herangezogen (S. 23 Abs. 2 mit Tabelle 8).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Darstellung ergeben sich entgegen der Auffassung der Klägerinnen keine zwingenden Schlussfolgerungen zu der Frage, ob und unter welchen Voraussetzungen eine Übertragung im CQI-only-Modus auch in anderen Betriebssituationen in Betracht kommt. Der das zweite Ausführungsbeispiel betreffenden Angabe, eine Übermittlung in diesem Modus erfolge nur, wenn die mitgeteilte Anzahl der Ressourcenblöcke einen bestimmten Wert nicht überschreite, ist vor diesem Hintergrund lediglich zu entnehmen, dass die Übermittlung eines bestimmten Wertes für den MCS-Index und eines CQI-Triggers nicht ausreichen, sondern die Übertragung im CQI-only-Modus in der genannten Konstellation nur dann erfolgt, wenn alle drei Voraussetzungen erfüllt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>Bestätigt wird dieses Verständnis durch die - ebenfalls mit der Beschreibung des Streitpatents (Abs. 43) übereinstimmenden - Ausführungen in den einleitenden Passagen, wonach es wünschenswert ist, eine Übertragung des aperiodischen CQI-Berichts ohne Multiplexen mit Uplink-Shared-Channel-Daten auch dann auslösen zu können, wenn der Datenpuffer nicht leer ist (S. 13 unten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Streithelferin betreffen die beiden genannten Ausführungsbeispiele keine alternativen Ausführungsformen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>Bei der Beschreibung des zweiten Ausführungsbeispiels stehen zwar Überlegungen zur Anzahl der Ressourcenblöcke und deren Bedeutung für die Übertragungsverhältnisse im Vordergrund. Aus der Darstellung in Tabelle 8 und den Erläuterungen hierzu ergibt sich jedoch, dass die mitgeteilte Anzahl der Ressourcenblöcke nur als zusätzliches Kriterium zu den beiden Kriterien aus dem ersten Ausführungsbeispiel herangezogen wird. Damit handelt es sich nicht um eine alternative, sondern um eine spezielle Ausgestaltung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>2. Wie das Patentgericht im Zusammenhang mit Hilfsantrag 3 zutreffend ausgeführt hat, wird der Gegenstand von Patentanspruch 1 in der erteilten Fassung durch den Stand der Technik nicht vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 ist durch die US-amerikanische Anmeldung 61/025808 (HE-NKHA1, Originalsprache koreanisch, englische Übersetzung in HE-NKHA1a), deren Priorität die nachveröffentlichte europäische Anmeldung 2 242 302 (NK19) in Anspruch nimmt, nicht vollständig vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>aa) HE-NKHA1 befasst sich mit Verfahren zur Anforderung einer aperiodischen Anzeige der Kanalqualität (CQI).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>Um die Übermittlung eines aperiodischen CQI-Berichts zu bewirken, müssen nach HE-NKHA1 entsprechende Steuerinformationen an das Endgerät übermittelt werden. Seien zu dem betreffenden Zeitpunkt Uplinkdaten vorhanden, werde der CQI-Bericht mit diesen im Multiplex über den physischen geteilten Uplinkkanal (Physical Uplink Shared Channel) gesendet. Dem Endgerät werde auch der Wert des MCS-Index übermittelt. Dieser Wert werde bei der Übertragung des CQI-Berichts berücksichtigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>bb) Das so beschriebene Verfahren nimmt, wie das Patentgericht zutreffend ausgeführt hat, die Merkmale 1 bis 1.1.1, 1.1.3, 1.2, 1.2.1 und 1.2.2 vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>cc) Nicht offenbart ist Merkmal 1.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>HE-NKHA1 enthält keinen Hinweis darauf, dass die Signalisierung dazu dient, bei Vorliegen bestimmter Bedingungen eine Übermittlung des aperiodischen CQI ohne Anwendungsdaten auszulösen. Ob ein Multiplexen mit anderen Daten stattfindet, hängt allein davon ab, ob solche Daten zum Übertragungszeitpunkt vorhanden sind (S. 1 letzter Absatz).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>Dass der CQI-Bericht ohne Multiplexen übermittelt wird, wenn keine anderen Daten vorhanden sind, reicht entgegen der Auffassung der Klägerinnen zur Offenbarung von Merkmal 1.3 nicht aus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>dd) Ebenfalls nicht offenbart ist die Kombination der Merkmale 1.1.2 und 1.2.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob der in HE-NKHA1 als Teil des Steuersignals angegebene Parameter "Informationsmenge" (information amount, S. 2) die Anzahl der Ressourcenblöcke im Sinne von Merkmal 1.1.2 repräsentiert. HE-NKHA1 ist jedenfalls nicht zu entnehmen, dass das Steuersignal diesen Wert mit einem vorbestimmten Höchstwert vergleicht und das Ergebnis dieses Vergleichs bei der Entscheidung der Frage berücksichtigt, ob der CQI-Bericht ohne zusätzliche Daten übersandt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>b) Der Beitrag von Texas Instruments (CQI-Reporting on PUSCH, 3GPP TSG-RAN WG1 Meeting #52bis in Shenzen, China, 31. März bis 4. April 2008, R1-081383, NK20) nimmt den Gegenstand von Patentanspruch 1 ebenfalls nicht vollständig vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>aa) NK20 stellt fest, im Rahmen der Standardisierungsbemühungen sei beschlossen worden, dass eine aperiodische CQI-Berichterstattung über ein 1-Bit-Triggerfeld im Format 0 DCI ausgelöst werde, das die Basisstation an das mobile Endgerät sende (S. 2 Abs. 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Der Gehalt eines Steuerkanalsignals des Formats 0 DCI ergab sich zum Prioritätszeitpunkt aus der Technischen Spezifikation 3GPP TS 36.212 (V8.2.0, März 2008, NK21). Danach werden mit diesem Format unter anderem das Modulations- und Codierungsschema und Informationen über die Ressourcenblöcke übertragen. Ferner ist ein Bit für die Anforderung eines CQI-Berichts vorgesehen (NK21 Abschnitt 5.3.3.1.1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>NK20 führt aus, es sei zudem beschlossen worden, dass es möglich sein solle, einen aperiodischen CQI-Bericht auch ohne Zuweisung von Kapazitäten für die Übertragung von Anwenderdaten im Uplink (UL data grant) auszulösen. Das bedeute, dass der CQI-Bericht ohne begleitende Datenübertragung übermittelt werden könne. Dies werfe unter anderem die Frage auf, wie bei Benutzung des Formats 0 DCI zwischen einer Übermittlung des CQI-Berichts mit oder ohne Daten unterschieden werden könne (S. 2 Abs. 1, mit dem dritten Aufzählungspunkt).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>Entgegen dem ersten Eindruck sei dafür ein weiteres Bit nicht erforderlich, weil sowohl der Basisstation als auch dem mobilen Endgerät der Status des UL-Puffers bekannt sei. Es bedürfe danach keiner Veränderung des Formats 0 DCI, um zu erreichen, dass der CQI-Bericht auch dann übermittelt werde, wenn der UL-Puffer leer sei (S. 2 Abs. 1, Unterpunkt zum dritten Aufzählungspunkt).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>bb) Zu Recht hat das Patentgericht entschieden, dass damit die Merkmale 1 bis 1.2.2 vorweggenommen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Annahme des Patentgerichts ist Merkmal 1.2.3 nicht unmittelbar und eindeutig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>Aus NK21 ergibt sich allerdings, dass das in NK20 benannte Format 0 DCI Angaben zur Zahl der Ressourcenblöcke umfasst. Daraus ist jedoch nicht unmittelbar und eindeutig zu entnehmen, dass das mobile Endgerät diesen Wert mit einer vorbestimmten Obergrenze vergleicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>dd) Darüber hinaus fehlt es an einer Offenbarung von Merkmal 1.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Wie das Patentgericht zutreffend ausgeführt hat, hängt die Entscheidung, ob ein angeforderter CQI-Bericht zusammen mit Anwenderdaten oder separat übertragen wird, nach der in NK20 vorgeschlagenen Vorgehensweise allein davon ab, ob der UL-Puffer voll oder leer ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>ee) Ob dem mobilen Endgerät, wie die Klägerinnen geltend machen, bei leerem UL-Puffer nur eine geringe Anzahl von Ressourcenblöcken zugewiesen wird, kann dahingestellt bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Selbst wenn diese Frage zu bejahen wäre, wäre eine geringe Anzahl von Ressourcenblöcken, wie das Patentgericht zutreffend ausgeführt hat, nur eine Begleiterscheinung des für die Übermittlung im CQI-only-Modus maßgeblichen Umstands, nicht aber ein ausschlaggebendes Kriterium für die Wahl dieses Modus. Etwas anderes könnte allenfalls dann gelten, wenn beide Zustände (leerer UL-Puffer und geringe Anzahl an Ressourcenblöcken) stets miteinander aufträten, so dass die Überprüfung des einen Kriteriums zugleich eindeutigen Aufschluss über das Vorliegen des anderen Kriteriums gäbe. Letzteres ist weder geltend gemacht noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>ff) Eine andere Beurteilung ist auch nicht deshalb gerechtfertigt, weil sich bei Befolgung der in NK20 vorgeschlagenen Vorgehensweise in bestimmten Fällen - etwa wenn die vorbestimmte Ressourcenblockzahl auf den maximalen oder den minimalen Wert festgesetzt wird - ergeben kann, dass die Bedingung nach Merkmal 1.2.3 vorliegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, darf die vorbestimmte Anzahl an Ressourcenblöcken nicht mit dem Maximalwert übereinstimmen, weil dann eine Unterscheidung zwischen zwei Übertragungsarten nicht möglich ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Auch bei einer Festsetzung auf den minimalen Wert (RB=1) wäre, wie ebenfalls bereits dargelegt wurde, Merkmal 1.2.3 nicht vorweggenommen, weil danach die vorbestimmte Anzahl von Ressourcenblöcken mindestens zwei betragen muss. Für eine entsprechende Bestimmung ergeben sich aus NK20 und NK21 keine Anhaltspunkte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>c) Der Beitrag von Ericsson u. a. (Refinements on Signalling of CQI/Precoding Information on PDCCH, 3GPP TSG-RAN WG1 #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081682, NK32) nimmt den Gegenstand von Patentanspruch 1 ebenfalls nicht vollständig vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>aa) NK32 schlägt Verfeinerungen der Signalisierung einer Kanalgüteinformation für verschiedene Anwendungsfälle vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>Den gemeinsamen Ausgangspunkt bildet der Vorschlag, in der Tabelle für die Transportblockgröße (transport block size, TBS) einen Eintrag für den Wert 0 vorzusehen (Abschnitt 2). Hierzu wird auf zwei Vorschläge von Panasonic (PDCCH transport block signaling, 3GPP TSG-RAN WG1 #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081195, NK40) und LG Electronics (Efficient support of retransmission using codeword DTX and signaling, 3GPP TSG- RAN WG1 #51bis, Sevilla, Spanien, 14. bis 18. Januar 2008, R1-080263, NK41) Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Für den Fall eines Steuerkanalsignals im Format 0 DCI wird vorgeschlagen, einen aperiodischen CQI-Bericht dadurch anzufordern, dass das CQI-Bit auf 1 gesetzt wird. Durch die zusätzliche Angabe des Werts 0 für die Transportblockgröße könne eine Übertragung des CQI-Berichts im CQI-only-Modus angefordert werden (Abschnitt 2.1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>bb) Damit sind die Merkmale 1 bis 1.2.2 vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>cc) Dagegen sind Merkmale 1.2.3 und 1.3 nicht unmittelbar und eindeutig offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>NK32 schlägt zwar wie das Streitpatent vor, die Übermittlung im CQI-only-Modus durch ein Signal auszulösen, für dessen Übertragung ein bereits definiertes Format ohne zusätzliche Felder eingesetzt werden kann. Das in Bezug genommene Format 0 DCI sieht aber ausweislich der damals aktuellen Festlegung in NK21 kein Feld für die Transportblockgröße vor. Dies lässt zwar die Möglichkeit offen, die Information "TBS=0" unter Nutzung anderer Felder zu übertragen. NK32 offenbart aber keinen konkreten Weg, auf dem dies geschehen könnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>Aus einem zu derselben Sitzung erstellten Vorschlag von Motorola (TBS and MCS Signalling and Tables, 3GPP TSG-RAN Meeting #52bis, Shenzen, China, 31. März bis 4. April 2008, R1-081638, NK24) ist zwar ersichtlich, dass - abweichend vom Vorbringen der Beklagten - damals bereits eine Einigung erzielt worden war, die Transportgröße nicht als gesonderte Information zu signalisieren, sondern aus den Werten für den MCS-Index und die Ressourcenblöcke abzuleiten (NK24 Abs. 1). Auch daraus ergibt sich aber nicht, dass die Information "TBS=0" dadurch angezeigt wird, dass die übermittelte Anzahl der Ressourcenblöcke einen bestimmten Wert nicht übersteigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>d) Schließlich trifft auch der Vorschlag von Texas Instruments (CQI-Reporting on PUSCH, 3GPP TSG-RAN WG1 #53, Kansas City, USA, 5. bis 9. Mai 2008, R1-081995, NK29) den Gegenstand von Patentanspruch 1 nicht neuheitsschädlich. Daher kann dahingestellt bleiben, ob dieser Vorschlag, wie die Klägerinnen geltend gemacht haben, bereits am 29. April 2008 per E-Mail an alle Teilnehmer des 3GPP-Meetings in Kansas City (USA) übermittelt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>Der Offenbarungsgehalt von NK29 reicht nicht über denjenigen der NK32 hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>Auch in NK29 wird vorgeschlagen, einen aperiodischen CQI-Bericht ohne Multiplexen mit Anwenderdaten dadurch auszulösen, dass ein Steuerkanalsignal im Format 0 DCI gesendet und zusätzlich der Wert für die Transportblockgröße auf 0 gesetzt wird (S. 2 oben, Aufzählungspunkt 2, Unterpunkt 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>Wie in NK32 wird aber auch hier nicht näher dargelegt, wie die Information "TBS=0" signalisiert werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>3. Ohne Erfolg machen die Klägerinnen geltend, der Gegenstand von Patentanspruch 1 in der erteilten Fassung sei im Prioritätszeitpunkt durch den Stand der Technik nahegelegt gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 war durch NK20 nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Dies ergibt sich bereits daraus, dass NK20 sich nicht mit der Frage befasst, wie sicherzustellen ist, dass ein aperiodischer CQI-Bericht auch dann im CQI-only-Modus übermittelt wird, wenn im Datenpuffer des mobilen Endgeräts Anwenderdaten für eine Übertragung im Uplink zur Verfügung stehen. Wie oben ausgeführt wurde, geht es in NK20 vielmehr darum, wie zu gewährleisten ist, dass der Report auch dann übertragen wird, wenn keine Anwenderdaten zur Verfügung stehen und ein Multiplexen des Reports mit solchen Daten deshalb ausscheidet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon sieht NK20 vor, das dort diskutierte Ziel ohne ein zusätzliches Signal zu erreichen. Daraus ergab sich für den Fachmann keine Anregung, für die Wahl des Übertragungsmodus des CQI-Berichts darauf abzustellen, welche Ressourcenblockanzahl signalisiert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen zeigen zudem nicht auf, warum es angesichts der Vielzahl von Möglichkeiten der Signalisierung ausgehend von NK20 im Prioritätszeitpunkt nahegelegen haben sollte, für die Entscheidung über den Modus der Übertragung des aperiodischen CQI-Berichts darauf abzustellen, ob die Anzahl der signalisierten Ressourcenblöcke kleiner oder gleich einer vorbestimmten Ressourcenblockanzahl ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>b) Auch ausgehend von dem Vorschlag von NTT DoCoMo (On CQI Reporting in E-UTRA, 3GPP TSG-RAN WG1 Meeting #51 in Jeju, Korea, 5. bis 9. November 2007, R1-074819, NK23) lag der Gegenstand von Patentanspruch 1 nicht nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Für den Fall, dass ein aperiodischer CQI-Bericht übertragen werden soll, jedoch keine Anwenderdaten zur Übertragung im Uplink im Endgerät vorhanden sind, sieht NK23 vor, dass die Basisstation dem Endgerät eine spezielle Zuteilung von Übertragungskapazitäten im Uplink (uplink grant) übermittelt. Bandbreite und Transportformat könnten dabei auf die Übertragung des CQI-Berichts begrenzt werden, weshalb der uplink grant kleiner sein könne als üblich (S. 3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Ebenso wie NK20 befasst sich NK23 danach mit der Situation, dass keine Anwenderdaten zur Übertragung im Uplink bereitstehen und ein Multiplexen mit solchen Daten deshalb von vornherein ausscheidet. Hieraus ergab sich keine Anregung, unabhängig vom Zustand des Datenpuffers schon die Zuteilung einer bestimmten (geringen) Übertragungskapazität als Kriterium für die Auswahl des CQI-only-Modus heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>c) Aus dem E-Mail-Verkehr zwischen Dr. T. M.    und G.   J.   (NK37 = ZP19) ergab sich keine weitergehende Anregung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>NK37 gibt keinen Hinweis darauf, die Übermittlung eines CQI-Berichts ohne Multiplexen mit Anwenderdaten davon abhängig zu machen, ob die mit dem Steuerkanalsignal übermittelte Anzahl von Ressourcenblöcken kleiner oder gleich einer vorbestimmten Ressourcenblockanzahl ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>d) Ohne Erfolg berufen sich die Klägerinnen darauf, der Gegenstand von Patentanspruch 1 sei durch NK33 nahegelegt worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>aa) Das Patentgericht hat festgestellt, dass die Klägerinnen den ihnen obliegenden Nachweis einer Veröffentlichung dieses Dokuments vor dem Prioritätsdatum nicht erbracht haben. Nach der Rechtsprechung des Bundesgerichtshofs handelt es sich auch bei der Feststellung des Erstgerichts, eine bestimmte Tatsachenbehauptung treffe nicht zu, um eine festgestellte Tatsache im Sinne von § 529 Abs. 1 Nr. 1 ZPO (BGH, Urteil vom 30. November 2004 - X ZR 133/03, NJW 2005, 422, 423).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_123">123</a>
+            </dt>
+            <dd>
+               <p>An diese Feststellung ist der Senat gemäß § 99 PatG i.V. mit § 529 Abs. 1 Nr. 1 ZPO gebunden. Die Klägerin zu 1 zeigt keine konkreten Anhaltspunkte auf, die Zweifel an der Richtigkeit dieser Feststellung begründen. Entgegen ihrer Auffassung spricht kein Beweis des ersten Anscheins dafür, dass Vorschläge für Tagungen des 3GPP innerhalb der hierfür von den Organisatoren vorgegebenen Frist und damit bereits vor Tagungsbeginn eingereicht und an die Teilnehmer übermittelt wurden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_124">124</a>
+            </dt>
+            <dd>
+               <p>bb) Ohne Erfolg berufen sich die Klägerinnen darauf, ein dem Inhalt der NK33 entsprechender Vorschlag sei bereits am 5. Mai 2008 und damit einen Tag vor dem Prioritätstag des Streitpatents in einem Gespräch unter vier Teilnehmern des Treffens der Radio Access Network Working Group 1 (RAN WG1) Nummer 53 in Kansas City, Missouri, USA, geäußert und bereits dadurch, jedoch zumindest durch eine E-Mail, mit der einer der Teilnehmer seinen Kollegen über dieses Gespräch berichtet habe, der Öffentlichkeit zugänglich geworden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_125">125</a>
+            </dt>
+            <dd>
+               <p>(1) Zum Stand der Technik rechnen nach Art. 54 Abs. 1 PatG alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag der Öffentlichkeit zugänglich gemacht worden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_126">126</a>
+            </dt>
+            <dd>
+               <p>Nach der Rechtsprechung des Senats ist ein schriftliches Dokument öffentlich, wenn es zur Verbreitung in der Öffentlichkeit bestimmt ist und der Allgemeinheit, d.h. einem an sich nicht beschränkten Personenkreis und nicht nur einzelnen Personen zugänglich geworden ist (BGH, Beschluss vom 9. Februar 1993 - X ZB 7/92, GRUR 1993, 466, 468 - Fotovoltaisches Halbleiterbauelement). Insoweit kommt es nicht auf den Nachweis an, dass das Dokument tatsächlich Dritten bekannt geworden ist. Erforderlich und genügend ist, dass ein nicht bestimmter Personenkreis vor dem Prioritätstag in der Lage war, Kenntnis vom Inhalt des Schriftstücks zu nehmen. Diese Grundsätze gelten entsprechend für mündliche Äußerungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_127">127</a>
+            </dt>
+            <dd>
+               <p>(2) Nach diesen Maßstäben haben die Klägerinnen nicht schlüssig dargetan, dass eine dem Inhalt der NK33 entsprechende Äußerung in dem am 5. Mai 2008 geführten Gespräch der Herren L.  (M.   ), W.    (P.    ), C.  (E.   ) und Li.   (N.  ) der Öffentlichkeit zugänglich gemacht wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_128">128</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Klägerinnen ist nicht jede Äußerung, die im Rahmen eines Treffens einer Arbeitsgruppe des European Telecommunications Standards Institute (ETSI) fällt, in diesem Sinne öffentlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_129">129</a>
+            </dt>
+            <dd>
+               <p>(a) Nach den einschlägigen Regelungen des ETSI werden allerdings Dokumente und Informationen, die den Teilnehmern in einer förmlichen Sitzung präsentiert werden, in der Regel der Öffentlichkeit zugänglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_130">130</a>
+            </dt>
+            <dd>
+               <p>Nach diesen Regelungen, wie sie in den Richtlinien für Delegierte (ETSI Delegate's Guide, NK50) und für die Sitzungsleiter (ETSI Chair's Guide, NK51) niedergelegt sind, werden die anfallenden Arbeiten durch Technische Gremien (Technical Bodies, Industry Specification Groups) durchgeführt, die wiederum Arbeitsgruppen (Working Groups) einrichten können (NK50, Absatz 1.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_131">131</a>
+            </dt>
+            <dd>
+               <p>Die Zulassung zu den Sitzungen (meetings) dieser Gremien und Arbeitsgruppen ist in den genannten Richtlinien ebenso näher geregelt (NK50, Abs. 1.2, NK51 Abs. 2.1) wie deren äußerer Ablauf. Danach sind grundsätzlich alle ETSI-Mitglieder berechtigt, durch Delegierte teilzunehmen. Darüber hinaus können unter bestimmten Voraussetzungen Gäste zugelassen werden. Für eine Plenarsitzung (Plenary meeting) ist vorgesehen, dass der Sitzungsleiter sicherstellt, dass ein Protokoll geführt und erstellt wird (NK51, Abs. 3.2 und 3.3). Auch für andere Sitzungen (non-Plenary meetings), wie Sitzungen einer Arbeitsgruppe oder ad-hoc-Sitzungen, sieht die Richtlinie vor, dass ein Sitzungsleiter die Teilnehmer begrüßt, auf die Regelungen des Wettbewerbsrechts hinweist und sie auffordert, möglicherweise relevante Schutzrechte anzugeben, dass er eine Tagesordnung vorstellt, die Anwesenheit erfasst und anschließend einen Bericht erstellt (NK51, Abs. 3.5, 3.6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_132">132</a>
+            </dt>
+            <dd>
+               <p>Dokumente und Informationen, die in einer solchen förmlichen Sitzung bereitgestellt werden, sind nicht als vertraulich anzusehen, es sei denn, sie werden ausdrücklich und unter Wahrung bestimmter Formen als vertraulich gekennzeichnet (NK50 Abs. 1.2, NK51 Abs. 4.5). Diese Regelung trägt dem Umstand Rechnung, dass in solchen Sitzungen regelmäßig Vorschläge zur Lösung von technischen Problemen erörtert werden, die sich bei der Entwicklung neuer technischer Standards ergeben, und zahlreiche Vertreter von miteinander in Wettbewerb stehenden Unternehmen teilnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_133">133</a>
+            </dt>
+            <dd>
+               <p>(b) Dagegen sind Äußerungen, die außerhalb förmlicher Sitzungen gegenüber einer begrenzten Zahl von Personen erfolgen, grundsätzlich nicht der Öffentlichkeit zugänglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_134">134</a>
+            </dt>
+            <dd>
+               <p>Äußert sich ein Teilnehmer eines Treffens einer Arbeitsgruppe außerhalb einer Sitzung im Gespräch mit anderen Teilnehmern zu technischen Sachverhalten, muss er regelmäßig nicht damit rechnen, dass diese Informationen einem nicht begrenzten Kreis von Personen zugänglich werden. Auch wenn die betreffende Äußerung gegenüber Vertretern eines Wettbewerbers erfolgt, darf er damit rechnen, dass sie von diesen vertraulich behandelt und allenfalls mit Mitarbeitern des von ihnen repräsentierten Unternehmens erörtert wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_135">135</a>
+            </dt>
+            <dd>
+               <p>(c) Nach diesen Grundsätzen haben die Klägerinnen nicht schlüssig dargetan, dass ein dem Inhalt der NK33 entsprechender Vorschlag bereits am 5. Mai 2008 der Öffentlichkeit zugänglich wurde. Daher war eine Vernehmung des von ihnen benannten Zeugen nicht angezeigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_136">136</a>
+            </dt>
+            <dd>
+               <p>Der Darstellung der Klägerinnen ist nicht zu entnehmen, dass es sich bei dem Gespräch der genannten vier Personen am 5. Mai 2008 um eine förmliche Sitzung der Arbeitsgruppe handelte; vielmehr soll es nach dem Ende der morgendlichen Sitzung stattgefunden haben. Handelte es sich danach aber um ein informelles Gespräch in einem kleinen Kreis, mussten die Beteiligten nur damit rechnen, dass die Gesprächspartner einen dort geäußerten Vorschlag untereinander oder mit Kollegen des von ihnen vertretenen Unternehmens erörtern würden, nicht jedoch damit, dass er einem grundsätzlich unbegrenzten Personenkreis zugänglich und damit an die Öffentlichkeit gelangen würde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_137">137</a>
+            </dt>
+            <dd>
+               <p>(d) Dem Vortrag der Klägerinnen lässt sich zudem nicht mit hinreichender Substanz entnehmen, dass einer der Gesprächsteilnehmer bereits zu diesem Zeitpunkt eine der angesprochenen Möglichkeiten als hinreichend ausgearbeitet und durchdacht ansah, um sie der Fachöffentlichkeit zu unterbreiten. Dies steht im Einklang mit der eigenen Darstellung der Klägerinnen, wonach ein Teilnehmer des Gesprächs erst in der darauffolgenden Nacht aus einem der zuvor diskutierten Vorschläge den als NK33 vorliegenden Standardisierungsvorschlag erarbeitet und am nächsten Tag dem Standardisierungsgremium zugeleitet hat. Auch in der als Anlage K42 vorgelegten E-Mail ist lediglich davon die Rede, Herrn W.    gefalle dieser Ansatz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_138">138</a>
+            </dt>
+            <dd>
+               <p>e) Schließlich lag der Gegenstand von Patentanspruch 1 auch ausgehend von NK32 in Verbindung mit NK21 und NK24 nicht nahe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_139">139</a>
+            </dt>
+            <dd>
+               <p>aa) Wie oben bereits dargelegt wurde, enthält NK32 den Vorschlag, eine Übertragung im CQI-only-Modus durch eine Kombination des CQI-Bits mit der Information "TBS=0" zu signalisieren. Mangels näherer Angaben dazu, wie Angaben zur Textblockgröße übermittelt werden können, bestand Anlass, die hierzu einschlägigen Festlegungen heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_140">140</a>
+            </dt>
+            <dd>
+               <p>bb) Zu den danach relevanten Entgegenhaltungen gehört NK24.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_141">141</a>
+            </dt>
+            <dd>
+               <p>Entgegen dem Vorbringen der Beklagten war im Zeitpunkt der Veröffentlichung von NK32 nicht offen, auf welche Weise Informationen zur Transportblockgröße übermittelt werden sollen. Zwar gab es hierzu ursprünglich unterschiedliche Vorschläge, unter anderem den in NK32 zitierten Vorschlag in NK40, einen Index für die Transportblockgröße anstelle eines MCS-Index zu versenden (NK40 Abschnitt 3). In dem Beitrag NK24, der zu derselben Sitzung und zu demselben Tagesordnungspunkt eingereicht wurde wie NK32, wird aber einleitend mitgeteilt, in einer vorangegangenen Sitzung sei Einigkeit darüber erzielt worden, die Transportblockgröße aus dem MCS und der Zuweisung der Ressourcenblöcke abzuleiten (NK24 Abschnitt 1). In Anhang B der NK24 ist ein Beispiel für eine Tabelle wiedergegeben, in der jeder Kombination von Werten für den mit dem MCS-Index mitgeteilten Modulationsschema (MS) und für die Ressourcenblockzahl eine bestimmte Transportblockgröße zugewiesen wird, die Werte zwischen 16 und 16480 annehmen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_142">142</a>
+            </dt>
+            <dd>
+               <p>cc) Vor diesem Hintergrund ergab sich ausgehend von NK32 zwar die Anregung, auch die dort vorgeschlagene Information "TBS=0" durch eine bestimmte Kombination eines Wertes für das Modulationsschema und eine Ressourcenblockzahl mitzuteilen, nicht aber die Anregung, mehrere Wertepaare für diesen Zweck einzusetzen und diese dadurch zu bestimmen, dass ein bestimmter Wert für den MCS-Index mit einer Gruppe von Ressourcenblock-Zahlen kombiniert wird, die einen bestimmten Vergleichswert nicht überschreiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_143">143</a>
+            </dt>
+            <dd>
+               <p>In der Tabelle in Anhang B zu NK24 ist zwar für verschiedene Textblockgrößen vorgesehen, dass sie mit mehreren unterschiedlichen Wertepaaren signalisiert werden können. Weder in NK32 noch in NK24 findet sich aber eine Anregung, von dieser Möglichkeit auch für die Signalisierung von "TBS=0" Gebrauch zu machen. Der Umstand, dass ein für die Signalisierung von "TBS=0" eingesetztes Wertepaar nicht mehr für den in NK24 vorgesehenen Signalisierungszweck eingesetzt werden kann, sprach sogar eher dagegen, mehrere Wertepaare heranzuziehen, wie dies das Streitpatent vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_144">144</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG sowie § 91 Abs. 1, § 97 Abs. 1, § 100 Abs. 1 und § 101 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_145">145</a>
+            </dt>
+            <dd>
+               <p>Die in der Berufungsinstanz angefallenen außergerichtlichen Kosten der Beklagten können nur den Klägerinnen zu 1 und 2 auferlegt werden. Eine diesbezügliche Kostenentscheidung zu Lasten der Klägerin zu 3 ist gemäß § 269 Abs. 3 ZPO nicht möglich, weil die Beklagte keinen Kostenantrag gestellt hat. Dieser Teil der Kosten verbleibt deshalb bei der Beklagten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Crummenerl     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE312272022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

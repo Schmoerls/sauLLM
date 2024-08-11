@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KARE600065106</doknr>
+   <ecli>ECLI:DE:BAG:2022:250822.U.6AZR499.21.0</ecli>
+   <gertyp>BAG</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Senat</spruchkoerper>
+   <entsch-datum>20220825</entsch-datum>
+   <aktenzeichen>6 AZR 499/21</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>ERVV, ERNPflV SH, § 46g ArbGG vom 10.10.2013, § 46c Abs 6 S 2 ArbGG vom 10.10.2013, § 4 S 1 KSchG, § 7 KSchG, Art 20 Abs 3 GG, Art 2 Abs 1 GG, § 291 ZPO, § 4 KSchG</norm>
+   <vorinstanz>vorgehend ArbG Lübeck, 1. Oktober 2020, Az: 1 Ca 572/20, Urteil<br/>vorgehend Landesarbeitsgericht Schleswig-Holstein, 13. Oktober 2021, Az: 6 Sa 337/20, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Anforderungen an elektronisch eingereichte Schriftsätze</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Ein als Word-Dokument übermittelter Schriftsatz ist nicht iSv. § 46c Abs. 2 Satz 1 ArbGG aF für die Bearbeitung durch das Gericht geeignet und damit formunwirksam eingereicht. Das gilt auch, wenn das Gericht ein IT-System nutzt, das im konkreten Fall die Bearbeitung eines solchen Dokuments zulässt.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">Die Revision der Klägerin gegen das Urteil des Landesarbeitsgerichts Schleswig-Holstein vom 13. Oktober 2021 - 6 Sa 337/20 - wird auf ihre Kosten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Parteien streiten über die formwirksame Erhebung einer Kündigungsschutzklage sowie über deren nachträgliche Zulassung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin war seit mehr als 20 Jahren bei der Firma G AG (vormalige Beklagte zu 1.), zuletzt in leitender Funktion im Support Department Finanzen &amp; Controlling, beschäftigt. Über das Vermögen der G AG (im Folgenden Schuldnerin) wurde am 1. Februar 2020 das Insolvenzverfahren eröffnet und der Beklagte zu 2. zum Insolvenzverwalter bestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit Schreiben vom 26. Februar 2020, der Klägerin am selben Tag persönlich übergeben, kündigte der Beklagte zu 2. das Arbeitsverhältnis ordentlich zum 31. Mai 2020. Die I GmbH (im Folgenden Beklagte zu 3.) übernahm zum 10. März 2020 die Bereiche E-Commerce und Großhandel sowie die Support Departements „Lager &amp; Logistik“, „IT“, „Finanzen &amp; Controlling“ und „HR &amp; Legal“ von der Schuldnerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat, vertreten durch ihren damaligen Prozessbevollmächtigten (im Folgenden Nebenintervenient zu 2.), der vorinstanzlich gemeinsam mit der Rechtsanwaltskanzlei M Rechtsanwälte Partnergesellschaft (im Folgenden Nebenintervenientin zu 1.) dem Rechtsstreit auf Seiten der Klägerin beigetreten ist, am 17. März 2020 per Telefax Kündigungsschutzklage vor dem Arbeitsgericht Lübeck erhoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Land Schleswig-Holstein hatte auf der Rechtsgrundlage des § 24 Abs. 2 Satz 1 des Gesetzes zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten vom 10. Oktober 2013 <em>(BGBl. I S. 3786, im Folgenden ERVGerFöG)</em> in § 1 der Landesverordnung über die Pflicht zur Nutzung des elektronischen Rechtsverkehrs vom 13. Dezember 2019 <em>(GVOBl. Schl.-H. S. 782, im Folgenden ERNPflV)</em> das Inkrafttreten des § 46g ArbGG bereits mit Wirkung zum 1. Januar 2020 angeordnet. Beim Arbeitsgericht Lübeck war die elektronische Akte schon seit dem 9. September 2019 führend <em>(Anlage 1 zu § 1 Abs. 1 der Landesverordnung über die elektronische Aktenführung in der Justiz - ElektAktFVO SH - vom 11. März 2019)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Am 17. März 2020 war der Versand und Empfang über das besondere elektronische Anwaltspostfach (im Folgenden beA) zumindest zeitweise technisch gestört. Aus der Klageschrift und ihren Anlagen ergaben sich keine Hinweise auf technische Störungen bei der Einlegung. Ebenso fehlte zunächst die Glaubhaftmachung, die Übermittlung sei aus technischen Gründen vorübergehend nicht möglich gewesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>§ 46c ArbGG in der für den Rechtsstreit maßgeblichen, seit dem 1. Januar 2018 geltenden Fassung <em>(sh. Art. 3 Nr. 2 ERVGerFöG, BGBl. 2013 I S. 3786, geändert durch Gesetz vom 12. Dezember 2019, BGBl. I S. 2633)</em> lautet auszugsweise:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>§ 46c Elektronisches Dokument</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich einzureichende Anträge und Erklärungen der Parteien sowie schriftlich einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und Erklärungen Dritter können nach Maßgabe der folgenden Absätze als elektronische Dokumente bei Gericht eingereicht werden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2) <sup>1</sup>Das elektronische Dokument muss für die Bearbeitung durch das Gericht geeignet sein. <sup>2</sup>Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die für die Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">…       </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(6) <sup>1</sup>Ist ein elektronisches Dokument für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und die geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. <sup>2</sup>Das Dokument gilt als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die gemäß Art. 26 Abs. 7 ERVGerFöG bundeseinheitlich erst am 1. Januar 2022 in Kraft getretene Bestimmung des § 46g ArbGG lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>§ 46g Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">
+                           <sup>1</sup>Vorbereitende Schriftsätze und deren Anlagen sowie schriftlich einzureichende Anträge und Erklärungen, die durch einen Rechtsanwalt, durch eine Behörde oder durch eine juristische Person des öffentlichen Rechts einschließlich der von ihr zur Erfüllung ihrer öffentlichen Aufgaben gebildeten Zusammenschlüsse eingereicht werden, sind als elektronisches Dokument zu übermitteln. <sup>2</sup>Gleiches gilt für die nach diesem Gesetz vertretungsberechtigten Personen, für die ein sicherer Übermittlungsweg nach § 46c Absatz 4 Nummer 2 zur Verfügung steht. <sup>3</sup>Ist eine Übermittlung aus technischen Gründen vorübergehend nicht möglich, bleibt die Übermittlung nach den allgemeinen Vorschriften zulässig. <sup>4</sup>Die vorübergehende Unmöglichkeit ist bei der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen; auf Anforderung ist ein elektronisches Dokument nachzureichen.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Art. 24 ERVGerFöG regelt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>Art. 24 Verordnungsermächtigung für die Länder</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1) <sup>1</sup>Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass … § 46c des Arbeitsgerichtsgesetzes … in der jeweils am 31. Dezember 2017 geltenden Fassung bis jeweils zum 31. Dezember des Jahres 2018 oder 2019 weiter Anwendung finden. <sup>2</sup>Die Fortgeltung der in Satz 1 genannten Vorschriften kann nur einheitlich bestimmt werden.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2) <sup>1</sup>Die Landesregierungen können für ihren Bereich durch Rechtsverordnung bestimmen, dass die in Artikel 26 Absatz 7 genannten Bestimmungen ganz oder teilweise bereits am 1. Januar 2020 oder am 1. Januar 2021 in Kraft treten. <sup>2</sup>Sofern die Landesregierung von der Ermächtigung nach Absatz 1 Gebrauch gemacht hat, kommt nur ein Inkrafttreten am 1. Januar 2021 in Betracht.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">(3) Die Landesregierungen können die Ermächtigungen nach den Absätzen 1 und 2 durch Rechtsverordnung auf die Landesjustizverwaltungen übertragen.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>§ 2 der Verordnung über die technischen Rahmenbedingungen des elektronischen Rechtsverkehrs und über das besondere elektronische Behördenpostfach vom 24. November 2017 in der bis zum 31. Dezember 2021 geltenden Fassung <em>(BGBl. I S. 3803, im Folgenden ERVV aF)</em> bestimmte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:center">„<strong>§ 2 Anforderungen an elektronische Dokumente</strong>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">(1) <sup>1</sup>Das elektronische Dokument ist in druckbarer, kopierbarer und, soweit technisch möglich, durchsuchbarer Form im Dateiformat PDF zu übermitteln. <sup>2</sup>Wenn bildliche Darstellungen im Dateiformat PDF nicht verlustfrei wiedergegeben werden können, darf das elektronische Dokument zusätzlich im Dateiformat TIFF übermittelt werden. <sup>3</sup>Die Dateiformate PDF und TIFF müssen den nach § 5 Absatz 1 Nummer 1 bekanntgemachten Versionen entsprechen.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">(2) Der Dateiname soll den Inhalt des elektronischen Dokuments schlagwortartig umschreiben und bei der Übermittlung mehrerer elektronischer Dokumente eine logische Nummerierung enthalten.</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="2" rowspan="1" valign="top">
+                        <p style="text-align:justify">(3) Dem elektronischen Dokument soll ein strukturierter maschinenlesbarer Datensatz im Dateiformat XML beigefügt werden, der den nach § 5 Absatz 1 Nummer 2 bekanntgemachten Definitions- oder Schemadateien entspricht und mindestens enthält:</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">1.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Bezeichnung des Gerichts;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">2.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">sofern bekannt, das Aktenzeichen des Verfahrens;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">3.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Bezeichnung der Parteien oder Verfahrensbeteiligten;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">4.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Angabe des Verfahrensgegenstandes;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">5.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">sofern bekannt, das Aktenzeichen eines denselben Verfahrensgegenstand betreffenden Verfahrens und die Bezeichnung der die Akten führenden Stelle.“</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Mit Schreiben vom 18. März 2020, dem Nebenintervenienten zu 2. am 19. März 2020 zugegangen, wies das Arbeitsgericht unter Bezugnahme auf die einschlägigen rechtlichen Bestimmungen und unter Wiedergabe des § 46g ArbGG darauf hin, dass die per Telefax eingegangene Klage unzulässig sein könnte, da vor allen Arbeitsgerichten in Schleswig-Holstein seit dem 1. Januar 2020 die Nutzung des elektronischen Rechtsverkehrs verpflichtend sei. Eine Ausnahme bestehe nur bei zeitweisen technischen Störungen. Diese seien unverzüglich glaubhaft zu machen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Am 18. März 2020, dem letzten Tag der Klagefrist nach § 4 Satz 1 KSchG, übermittelte der Nebenintervenient zu 2. dem Arbeitsgericht eine auf diesen Tag datierte weitere Klageschrift im Dateiformat .docx (im Folgenden Word-Datei). Der zuständige Vorsitzende Richter erhielt von diesem Schriftsatz erst am 27. März 2020 Kenntnis und informierte mit Verfügung vom selben Tag darüber, dass die nunmehr elektronisch eingegangene Klage vom 18. März 2020 gleichfalls unzulässig sein dürfte, weil die Übermittlung nicht in dem zugelassenen Dateiformat PDF erfolgt sei. Gleichzeitig wies er unter Wiedergabe des § 46c Abs. 6 Satz 2 ArbGG auf die Heilungsmöglichkeit nach dieser Norm hin. Das Hinweisschreiben wurde um 12:22 Uhr an den Nebenintervenienten zu 2. gesendet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Noch am 27. März 2020 übermittelte der Nebenintervenient zu 2. auf elektronischem Wege im Dateiformat PDF eine weitere Klageschrift mit Datum 27. März 2020, die um 17:37 Uhr beim Arbeitsgericht einging. Eine Glaubhaftmachung der inhaltlichen Übereinstimmung dieser Klageschrift mit der am 18. März 2020 eingereichten erfolgte nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Am 30. März 2020 wies das Arbeitsgericht darauf hin, dass auch die elektronisch eingegangene Klage vom 27. März 2020 unzulässig sein dürfte, weil die Datei nichteingebettete Schriftarten enthalte. Zudem unterrichtete es erneut über die Heilungsmöglichkeit nach § 46c Abs. 6 Satz 2 ArbGG durch Nachreichung einer formwirksamen Klageschrift sowie über das Erfordernis der Glaubhaftmachung, dass das Dokument mit dem zuerst eingereichten Schriftsatz inhaltlich übereinstimme.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Mit Schriftsatz vom 31. März 2020 reichte der Nebenintervenient zu 2. elektronisch im Dateiformat PDF eine weitere Klageschrift ein, die am 1. April 2020 beim Arbeitsgericht einging. Am selben Tag wies er in einem elektronisch übermittelten Schriftsatz im Dateiformat PDF auf die technische Störung beim Versand über das beA am 17. März 2020 hin und bezog sich zu deren Glaubhaftmachung auf einen beigefügten Screenshot der Webseite der Bundesrechtsanwaltskammer. Zusätzlich bot er Zeugenbeweis dafür an, dass am 17. März 2020 mehrfach versucht worden sei, die Kündigungsschutzklage über das beA zu übermitteln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Am 6. April 2020 informierte das Arbeitsgericht vor dem Hintergrund der landesweiten technischen Störung des Versands per beA am 17. März 2020 noch einmal über die in diesen Fällen mögliche Ersatzeinreichung nach § 46g Satz 3 und Satz 4 ArbGG sowie das Erfordernis der Glaubhaftmachung der konkreten Störung, die nunmehr mit Schriftsatz vom 31. März 2020 erfolgt sei. Darüber hinaus teilte der Vorsitzende der zuständigen Kammer mit, dass nach seiner vorläufigen Einschätzung der Sach- und Rechtslage die per Telefax am 17. März 2020 erhobene Kündigungsschutzklage jetzt zulässig sein dürfte, eine abschließende Entscheidung hierüber aber durch die Kammer erfolgen müsse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat die Auffassung vertreten, die Kündigungsschutzklage sei im Hinblick auf die technische Störung am 17. März 2020 an diesem Tag formwirksam und fristgerecht durch Ersatzeinreichung per Telefax erhoben worden. Einer Glaubhaftmachung der technischen Störung beim Versand mittels beA habe es vorliegend nicht bedurft. Diese habe außerhalb der Nutzersphäre gelegen und sei gerichtsbekannt gewesen. Im Übrigen habe sie auf die jeweiligen Prüfprotokolle zu den elektronisch eingereichten Schriftsätzen und die Auskünfte der Geschäftsstelle des Arbeitsgerichts vertrauen dürfen, die bestätigt hätten, dass die Einreichung erfolgreich bzw. korrekt erfolgt sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Jedenfalls sei die Frist nach § 4 Satz 1 KSchG durch die Klageschrift vom 18. März 2020 gewahrt worden. Die eingereichte Word-Datei sei durch das Arbeitsgericht bearbeitbar gewesen. Im Übrigen sei der durch die Übermittlung als Word-Datei erfolgte Formatfehler spätestens mit der am 1. April 2020 über das beA eingereichten Klageschrift vom 31. März 2020 geheilt worden. Einer Glaubhaftmachung der inhaltlichen Übereinstimmung mit der Klageschrift vom 18. März 2020 habe es vorliegend nicht bedurft. Diese sei für das Arbeitsgericht offenkundig gewesen. Im Übrigen habe sie aufgrund der arbeitsgerichtlichen Hinweise, insbesondere vom 6. April 2020, auf eine Heilung vertrauen dürfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Hilfsweise sei ihr Wiedereinsetzung in den vorigen Stand zu gewähren bzw. die Klage nachträglich zuzulassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat zuletzt beantragt</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">1.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">festzustellen, dass das zwischen ihr und der Beklagten zu 3. bestehende Arbeitsverhältnis nicht durch die schriftliche ordentliche Kündigung vom 26. Februar 2020, ausgesprochen durch den Beklagten zu 2., aufgelöst worden ist;</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">2.    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:justify">die Beklagte zu 3. zu verurteilen, sie als Leiterin Finanzen oder in zumutbarer gleichwertiger Stellung zu im Übrigen unveränderten Vertragsbedingungen zu beschäftigen.</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Die Beklagten haben Klageabweisung beantragt und gemeint, die Kündigungsschutzklage sei nicht innerhalb der Frist des § 4 Satz 1 KSchG formwirksam erhoben worden und die Kündigung gelte deshalb gemäß § 7 Halbs. 1 KSchG als wirksam.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Das Arbeitsgericht hat die Kündigungsschutzklage abgewiesen und die Anträge auf Wiedereinsetzung in den vorigen Stand sowie auf nachträgliche Klagezulassung zurückgewiesen. Das Landesarbeitsgericht hat die Berufung der Klägerin zurückgewiesen und die Revision zugelassen. Mit dieser verfolgt die Klägerin ihr Klagebegehren weiter.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Revision ist unbegründet. Das Landesarbeitsgericht hat im Ergebnis zu Recht die Kündigung vom 26. Februar 2020 gemäß § 7 Halbs. 1 KSchG als von Anfang an wirksam angesehen. Die Kündigungsschutzklage ist nicht fristgerecht in formwirksamer Weise beim Arbeitsgericht eingegangen. Der Klägerin war auch weder Wiedereinsetzung in den vorigen Stand zu gewähren noch war die Klage nachträglich zuzulassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>I. Die Klägerin hat weder durch die per Telefax am 17. März 2020 beim Arbeitsgericht eingegangene Klageschrift noch durch die in der Folge auf elektronischem Wege übermittelten Klageschriftsätze die dreiwöchige Klagefrist des § 4 Satz 1 KSchG gewahrt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>1. Auf den Rechtsstreit findet das bis zum 31. Dezember 2021 geltende Recht und damit § 46c ArbGG <em>(entsprechende Regelungen enthalten § 130a ZPO, § 55a VwGO, § 65a SGG, § 52a FGO)</em> sowie § 46g ArbGG <em>(entsprechende Regelungen enthalten § 130d ZPO, § 55d VwGO, § 65d SGG, § 52d FGO)</em> iVm. Art. 24 Abs. 2 ERVGerFöG Anwendung. Die streitgegenständliche Kündigung wurde der Klägerin am Mittwoch, dem 26. Februar 2020, ausgehändigt. Die Frist des § 4 Satz 1 KSchG endete damit am Mittwoch, dem 18. März 2020 <em>(§ 188 Abs. 2, § 187 Abs. 1 BGB)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>2. Die Frist des § 4 Satz 1 KSchG wurde nicht durch die per Telefax beim Arbeitsgericht am 17. März 2020 eingereichte Klageschrift gewahrt. Die Klägerin hat die vorübergehende technische Unmöglichkeit einer Übermittlung des Schriftsatzes auf elektronischem Wege nicht gemäß § 46g Satz 4 ArbGG rechtzeitig glaubhaft gemacht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Der Nebenintervenient zu 2. war als anwaltlicher Vertreter der Klägerin verpflichtet, die Klageschrift als elektronisches Dokument beim Arbeitsgericht einzureichen, weil das Land Schleswig-Holstein, in dem die Klage erhoben wurde, von der Öffnungsklausel nach Art. 24 Abs. 2 Satz 1 ERVGerFöG Gebrauch gemacht und mit § 1 ERNPflV die Bestimmung des Art. 3 Nr. 5 ERVGerFöG und damit der Sache nach § 46g ArbGG bereits mit Wirkung zum 1. Januar 2020 in Kraft gesetzt hatte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>b) Die durch § 46g Satz 1 ArbGG begründete aktive Nutzungspflicht für Rechtsanwälte verstößt, auch soweit sie durch die ERNPflV in Schleswig-Holstein vorgezogen worden ist, jedenfalls bei - wie im vorliegenden Fall - führender elektronischer Akte nicht gegen das sich aus dem Justizgewährungsanspruch aus Art. 20 Abs. 3 iVm. Art. 2 Abs. 1 GG ergebende Gebot des effektiven Rechtsschutzes <em>(zu diesem Gebot vgl. zB: BVerfG 29. September 2010 - 1 BvR 2649/06 - Rn. 21; BAG 10. Dezember 2020 - 2 AZN 82/20 - Rn. 5; sh. auch Oltmanns/Fuhlrott NZA 2020, 897, 900 f.; vgl. auch BAG 12. März 2020 - 6 AZM 1/20 -Rn. 10)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>aa) Zwar ist der Zugang zu den Gerichten durch die Pflicht zur Nutzung des elektronischen Rechtsverkehrs von der Erfüllung bestimmter formaler Voraussetzungen abhängig. Durch das niedrigschwellige Erfordernis, die vorübergehende technische Unmöglichkeit der elektronischen Übermittlung lediglich glaubhaft iSv. § 294 Abs. 1 ZPO machen zu müssen <em>(zu den allgemeinen Anforderungen an die Glaubhaftmachung vgl. zB BGH 2. August 2022 - VIII ZB 3/21 - Rn. 14 f.)</em>, was auch im Wege einer anwaltlichen Versicherung erfolgen kann <em>(vgl. BGH 5. Juli 2017 - XII ZB 463/16 - Rn. 14; OLG Dresden 10. März 2022 - 4 W 94/22 - Rn. 6; OLG Hamm 19. August 2021 - I-4 U 57/21 ua. - Rn. 47)</em>, ist dieser Zugang jedoch nicht in unzumutbarer Weise eingeschränkt. Das trifft umso mehr zu, als die Möglichkeit einer Ersatzeinreichung nicht nur bei Fehlern in der Sphäre des Gerichts oder Störungen des beA besteht, sondern auch dann, wenn die Ursache für die technische Unmöglichkeit, den Anforderungen des § 46g Satz 1 ArbGG zu genügen, in der Sphäre des Einreichenden liegt <em>(BT-Drs. 17/12634 S. 27)</em>. Dies gilt jedoch nicht bei bloßen Bedienungsfehlern des Einreichenden <em>(BayVGH 1. Juli 2022 - 15 ZB 22.286 - Rn. 14; GK-ArbGG/Horcher § 46g Stand Dezember 2021 Rn. 8)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>bb) Etwas anderes ergibt sich entgegen der Auffassung der Klägerin auch dann nicht, wenn dem Nebenintervenienten zu 2. die im Zeitpunkt der Klageerhebung bereits eingeführte Pflicht zur Nutzung des elektronischen Rechtsverkehrs in Schleswig-Holstein nicht oder nur kurzzeitig bekannt gewesen sein sollte. Ein Rechtsanwalt hat Gesetze und Verordnungen, die in einer Anwaltspraxis gewöhnlich zur Anwendung kommen, zur Kenntnis zu nehmen <em>(st. Rspr., zB BAG 30. Juli 2020 - 2 AZR 43/20 - Rn. 38 mwN, BAGE 172, 18; 18. Januar 2000 - 9 AZN 959/99 - zu II 1 der Gründe; BGH 3. November 2010 - XII ZB 197/10 - Rn. 19; 9. Juli 1993 - V ZB 20/93 - zu II 2 b der Gründe; 30. Juni 1971 - IV ZB 41/71 -; OVG Schleswig-Holstein 25. Januar 2022 - 4 MB 78/21 - Rn. 8; Ulrich/Schmieder NJW 2019, 113, 117)</em> und sich - wie das Landesarbeitsgericht zutreffend ausgeführt hat - erforderlichenfalls in der Fachpresse sachkundig zu machen. Dies trifft auch zu, wenn ein Rechtsanwalt ein Mandat in einem anderen Bundesland annimmt. Insoweit ist er aus anwaltlicher Sorgfaltspflicht gehalten, gerade die dort geltenden Regelungen im Zusammenhang mit Fristen zu überprüfen. Ungeachtet dessen war dem Nebenintervenienten zu 2. jedenfalls nach dem gerichtlichen Hinweis vom 18. März 2020 bekannt, dass das Land Schleswig-Holstein den elektronischen Rechtsverkehr bereits zum 1. Januar 2020 zwingend eingeführt hatte. Im Übrigen verfügte er, worauf die noch vor Erhalt des gerichtlichen Hinweisschreibens am 19. März 2020 auf elektronischem Wege erfolgte Übermittlung der Klageschrift am 18. März 2020 hinweist, sowohl über die technische Ausstattung als auch über entsprechende Rechtskenntnisse, um die erforderliche Form wahren zu können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>c) Vorliegend fehlt es für eine wirksame Ersatzeinreichung iSd. § 46g Satz 3 ArbGG an einer rechtzeitigen Glaubhaftmachung der vorübergehenden technischen Störung nach § 46g Satz 4 ArbGG am 17. März 2020. Der Nebenintervenient zu 2. hat die Glaubhaftmachung weder zeitgleich mit der Ersatzeinreichung im Wege des Telefaxes vorgenommen noch eine solche unverzüglich nachgereicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>aa) Nach § 46g Satz 4 ArbGG ist die technische Störung zusammen mit der Ersatzeinreichung oder unverzüglich danach glaubhaft zu machen. Zwischen diesen zeitlichen Alternativen der Glaubhaftmachung besteht nach der gesetzlichen Regelung kein Rangverhältnis dergestalt, dass die Gleichzeitigkeit von Ersatzeinreichung und Glaubhaftmachung vorrangig ist. Dies folgt bereits aus dem Wortlaut der Norm. Die Konjunktion „oder“ verbindet regelmäßig zwei oder mehrere Möglichkeiten, die zur Wahl stehen <em>(vgl. Duden Das große Wörterbuch der deutschen Sprache 3. Aufl. Stichwort: „oder“; sh. auch BAG 23. Februar 2022 - 4 AZR 354/21 - Rn. 36; 23. September 2020 - 5 AZR 367/19 - Rn. 26)</em>. Weil diese Verbindung nicht durch einen ihr nachfolgenden Zusatz wie etwa „im Fall des Fristablaufs“, der auf ein Regel-Ausnahme-Verhältnis hindeuten würde, eingeschränkt wird, sind nach dem Gesetzeswortlaut beide Alternativen gleichrangig <em>(abweichend OVG Schleswig-Holstein 25. Januar 2022 - 4 MB 78/21 - Rn. 5, das von einem Regel-Ausnahme-Verhältnis ausgeht)</em>. Diesem Wortlautverständnis stehen auch die Gesetzesmaterialien zur wortgleichen Bestimmung in § 130d Satz 3 ZPO <em>(BT-Drs. 17/12634 S. 28) </em>nicht entgegen. Die Wendung „Die Glaubhaftmachung soll möglichst gleichzeitig mit der Ersatzeinreichung erfolgen.“ verdeutlicht lediglich den gesetzgeberischen Willen, schnell Rechtssicherheit für alle Beteiligten zu schaffen, macht jedoch nicht hinreichend deutlich, dass beide Möglichkeiten der Glaubhaftmachung in einem Regel-Ausnahme-Verhältnis stehen sollen. Andernfalls hätte es nahegelegen, anstelle des Wortes „möglichst“ zB „grundsätzlich“ zu verwenden. Den Gesetzesmaterialien ist auch nicht zu entnehmen, dass eine zusätzliche Hürde für den Einreicher geschaffen werden sollte. Verlangt wird lediglich die Glaubhaftmachung der vorübergehenden technischen Störung, um den Zugang zu den Gerichten nicht unnötig zu erschweren. Diese niedrigschwellige Anforderung würde aber konterkariert, wenn der Einreicher die Nachholung seiner Glaubhaftmachung begründen und ggf. rechtfertigen müsste.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>bb) Im Streitfall ist die Glaubhaftmachung der technischen Störung nicht gemeinsam mit dem Telefax am 17. März 2020 vorgenommen worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>cc) Die Glaubhaftmachung ist auch nicht unverzüglich nachgeholt worden. Die Glaubhaftmachung vom 31. März 2020 ist nicht mehr unverzüglich iSv. § 46g Satz 4 ArbGG erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(1) Die Wendung „unverzüglich“ bedeutet nach der Legaldefinition des § 121 Abs. 1 Satz 1 BGB „ohne schuldhaftes Zögern“. Diesen Wortsinn hat der Gesetzgeber auch der mit § 46g Satz 4 ArbGG wörtlich übereinstimmenden Regelung in § 130d Satz 3 ZPO beigemessen <em>(BT-Drs. 17/12634 S. 28)</em>. Innerhalb welcher Zeitspanne die erforderlichen Erklärungen abzugeben sind, richtet sich deshalb nach den Umständen des Einzelfalls <em>(vgl. BAG 20. Mai 2021 - 2 AZR 596/20 - Rn. 14 mwN; 8. Dezember 2011 - 6 AZR 354/10 - Rn. 32, BAGE 140, 64)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(2) Unter normalen Umständen ist eine Zeitspanne von einer Woche für die Glaubhaftmachung einer technischen Störung iSd. § 46g Satz 3 ArbGG ausreichend <em>(BayVGH 2. Mai 2022 - 6 ZB 22.30401 - Rn. 8)</em>. Sie erfordert keinerlei Nachforschungen über die Ursache der technischen Störung bzw. ihren Entstehungsort <em>(vgl. BT-Drs. 17/12634 S. 27 zu dem wortgleichen § 130d ZPO; GMP/Künzl 10. Aufl. § 46g Rn. 11; BeckOK ArbR/Hamacher Stand 1. Juni 2022 ArbGG § 46g Rn. 6)</em>, sondern knüpft rein formal und routinemäßig lediglich an das Vorliegen einer vorübergehenden Unmöglichkeit der Übermittlung aus technischen Gründen an. Verlangt wird im Ergebnis lediglich die anwaltliche Versicherung einer technischen Störung <em>(Oltmanns/Fuhlrott NZA 2020, 897, 898)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(3) Besondere rechtfertigende Umstände, die die Glaubhaftmachung vom 31. März 2020 auch nach zwei Wochen noch als unverzüglich erscheinen ließen, liegen im Streitfall nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(a) Entgegen der Auffassung der Klägerin kommt es für die Prüfung, ob die Glaubhaftmachung noch unverzüglich erfolgt wäre, nicht erst auf die Zeit ab Erhalt des gerichtlichen Hinweises vom 27. März 2020 an. Die Überlegungsfrist beginnt vielmehr bereits dann zu laufen, wenn der zur Einreichung eines elektronischen Dokuments Verpflichtete Kenntnis davon erlangt, dass die Einreichung an einer technischen Störung gescheitert ist. Das war spätestens am 19. März 2020 mit Erhalt des gerichtlichen Hinweises vom 18. März 2020 der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(b) Die Klägerin nimmt auch zu Unrecht an, die Glaubhaftmachung sei entbehrlich gewesen bzw. jedenfalls am 31. März 2020 rechtzeitig erfolgt, weil die technische Störung des beA vom 17. März 2020 gerichtsbekannt bzw. offenkundig iSv. § 291 ZPO gewesen sei. Der Gesetzgeber hat in Kenntnis dieser Bestimmung, die die Beweisbedürftigkeit einer offenkundigen Tatsache entfallen lässt, gleichwohl in § 46g Satz 4 Halbs. 1 ArbGG den Nachweis einer technischen Störung durch die Wendung „ist … glaubhaft zu machen“ zwingend vorgesehen, obwohl er erkennen konnte, dass entsprechende Vorkommnisse auch offenkundig sein können. Auch in einem solchen Fall ist nicht ausgeschlossen, dass eine Ersatzeinreichung ausscheidet, weil die technische Störung nicht kausal für die gescheiterte Übermittlung als elektronisches Dokument ist. Das liegt nach Vorstellung des Gesetzgebers zB dann vor, wenn der Einreicher die für eine solche Einreichung erforderlichen technischen Mittel nicht hat <em>(BT-Drs. 17/12634 S. 28)</em>. Der Gesetzgeber hat darum das Erfordernis der Glaubhaftmachung ausnahmslos zur Voraussetzung für eine Ersatzeinreichung gemacht. Er hat diese Möglichkeit jedoch an keine besonderen Voraussetzungen wie Verschulden oder Entstehungsort der technischen Störung geknüpft, sondern lediglich bestimmt, dass diese Störung glaubhaft zu machen sei, was mit der Ersatzeinreichung und nur ausnahmsweise unverzüglich danach zu erfolgen habe. Damit hat er ein gegenüber § 291 ZPO eigenständiges, beschleunigtes Verfahren eingeführt. Es bedarf insoweit weder einer vorherigen Stellungnahme der übrigen Streitbeteiligten, wie dies bei der Zugrundelegung offenkundiger Tatsachen iSv. § 291 ZPO erforderlich ist <em>(vgl. zB BAG 28. Oktober 2010 - 8 AZR 546/09 - Rn. 26 mwN)</em>, noch muss das Gericht eigene Nachforschungen über die behauptete Störung anstellen, sofern es selbst keine Zweifel an ihr hat bzw. eine solche zwischen den Parteien streitig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>(c) Die Klägerin kann sich zur Rechtfertigung der verspäteten Glaubhaftmachung auch nicht darauf berufen, die Geschäftsstelle des Arbeitsgerichts habe die fristwahrende Übermittlung der Ersatzeinreichung vor dem Hintergrund der bekannten technischen Störung am 17. März 2020 bereits bestätigt. Die ordnungsgemäße Einreichung ist eine Frage der Zulässigkeit und von Amts wegen zu beachten <em>(vgl. BT-Drs. 17/12634 S. 27 zu dem wortgleichen § 130d ZPO)</em>. Die Entscheidung darüber, ob die Anforderungen des § 46g ArbGG erfüllt sind, obliegt dem zuständigen Spruchkörper des Gerichts und nicht der Geschäftsstelle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(d) Das Landesarbeitsgericht hat auch zutreffend angenommen, dass der gerichtliche Hinweis vom 6. April 2020 kein schutzwürdiges Vertrauen bei der Klägerin begründen konnte, sie habe ihre Kündigungsschutzklage zulässig erhoben. Der Vorsitzende Richter hat lediglich über seine vorläufige Einschätzung der Sach- und Rechtslage informiert und ausdrücklich darauf hingewiesen, dass die abschließende Entscheidung hierüber bei der Kammer liege. Damit war für die Klägerin klar erkennbar, dass seine Einschätzung keine bindende Wirkung hat. Die Voraussetzungen an eine Überraschungsentscheidung liegen daher nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(e) Schließlich kann sich die Klägerin für eine ihr zuzubilligende längere Überlegungsfrist auch nicht darauf berufen, dass sich die Geschehnisse während der Corona-Pandemie ereignet hätten. Es fehlt bereits an einem hinreichend substantiierten Vorbringen zur Organisation der Arbeitsabläufe während des streitgegenständlichen Zeitraums in der sie erstinstanzlich vertretenden Rechtsanwaltskanzlei. Der bloße Hinweis, der Nebenintervenient zu 2. habe sich durchgehend im Homeoffice befunden, ohne Darlegung konkreter Umstände, weshalb die Arbeit im Homeoffice eine rechtzeitige Glaubhaftmachung unmöglich gemacht haben soll, genügt hierfür nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>3. Die Kündigungsschutzklage ist auch nicht am 18. März 2020, dem letzten Tag der Frist nach § 4 Satz 1 KSchG, fristwahrend an das Arbeitsgericht übermittelt worden. Das auf elektronischem Wege als Word-Datei eingereichte Dokument erfüllt nicht die Anforderungen an eine formwirksame Einreichung iSv. § 46c Abs. 2 Satz 1 und Satz 2 ArbGG iVm. § 2 Abs. 1 Satz 1 ERVV aF, da es nicht im Dateiformat PDF übermittelt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 46c Abs. 2 Satz 1 ArbGG muss das elektronische Dokument für die Bearbeitung durch das Gericht geeignet sein. Gemäß § 46c Abs. 2 Satz 2 ArbGG bestimmt die Bundesregierung mit Zustimmung des Bundesrates durch Rechtsverordnung die entsprechenden Anforderungen an ein solches elektronisches Dokument. Davon hat sie in § 2 Abs. 1 Satz 1 ERVV aF Gebrauch gemacht und im Wege einer „Muss-Vorschrift“ („ist“) ua. geregelt, dass das Dokument im Dateiformat PDF zu übermitteln ist und daran auch in § 2 Abs. 1 Satz 1 ERVV nF festgehalten. Diese Regelung ist zwingend <em>(vgl. hierzu auch BAG 25. April 2022 - 3 AZB 2/22 - Rn. 23; Helml/Pessinger/Helml ArbGG 5. Aufl. § 46c Rn. 6)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>b) Danach handelt es sich bei einer Word-Datei um ein nicht formwirksam eingereichtes Dokument <em>(GK-ArbGG/Horcher § 46c Stand Dezember 2021 Rn. 47; BeckOK ArbR/Hamacher Stand 1. September 2022 ArbGG § 46c Rn. 7.1; aA LG Mannheim 4. September 2020 - 1 S 29/20 - zu II 1 der Gründe)</em>. Entgegen der Auffassung der Klägerin führt auch die Möglichkeit, dass im Einzelfall durch das bei einem Gericht eingesetzte IT-System die Bearbeitung eines nicht den Formatvorgaben iSv. § 2 Abs. 1 Satz 1 ERVV aF entsprechenden elektronischen Dokuments erfolgen kann, nicht zu seiner Formwirksamkeit. Der Gesetzgeber hat die für die Bearbeitung der elektronischen Dokumente maßgeblichen Anforderungen bundeseinheitlich und verbindlich festgelegt und hierdurch Rechtssicherheit in der elektronischen Kommunikation mit der Justiz geschaffen <em>(vgl. BR-Drs. 818/12 S. 32; BR-Drs. 645/17 S. 11 f.; OLG Koblenz 23. November 2020 - 3 U 1442/20 - Rn. 10; ErfK/Koch 22. Aufl. ArbGG § 46c Rn. 3)</em>. Neben dem Gericht soll auch der Verfahrensgegner mit dem eingereichten Schriftsatz arbeiten können. Ihm ist zwar zuzumuten, seine technische Ausstattung auf die Vorgaben der ERVV aF auszurichten, nicht aber, sich zusätzlich auf weitere Formate einstellen zu müssen <em>(Radke jM 2020, 461, 463)</em>. Der Gesetzgeber hat sich bewusst gerade für das Dateiformat PDF entschieden, weil dieses von den verbreiteten Computersystemen gelesen und regelmäßig ohne Veränderungen des äußeren Erscheinungsbildes dargestellt werden kann. Es bietet Schutz vor Schadsoftware, ist barrierefrei und auch insoweit für die Kommunikation im elektronischen Rechtsverkehr gut geeignet <em>(BR-Drs. 645/17 S. 12; Schindler NJW 2020, 2943, 2944)</em>. Bereits dieser eindeutig erkennbare Wille des Gesetzgebers steht der von der Klägerin angestrebten teleologischen Reduktion der Formanforderungen des § 46c Abs. 2 Satz 2 ArbGG iVm. § 2 Abs. 1 Satz 1 ERVV aF entgegen. Eine „Aufweichung“ des Verständnisses der „Bearbeitbarkeit“ iSv. § 46c Abs. 2 Satz 1 ArbGG iVm. § 2 Abs. 1 Satz 1 ERVV aF etwa dahin, es genügen zu lassen, wenn sich aus dem eingereichten elektronischen Dokument ein sog. Repräsentat erstellen lässt <em>(in diesem Sinne LG Mannheim 4. September 2020 - 1 S 29/20 - zu II 1 a der Gründe)</em>, hätte zudem zur Folge, dass die Formanforderungen vom jeweiligen Empfänger und damit von der technischen Ausstattung der Gerichte und ihrem Umgang mit der Beurteilung, welche Dokumente als bearbeitbar angesehen werden, abhingen <em>(Müller NJW 2021, 3281)</em>. Dies würde die bezweckte Rechtssicherheit unterlaufen und insbesondere bei Verweisungen an andere Gerichte und Gerichtsbarkeiten zu Zweifelsfragen führen. Die Gefahr, dass technische Vorgaben im elektronischen Rechtsverkehr zum bloßen Selbstzweck degradiert werden, besteht deshalb nicht <em>(aA LG Mannheim 4. September 2020 - 1 S 29/20 - zu II 1 b der Gründe)</em>. Insoweit ist es entgegen der Auffassung der Klägerin auch unbeachtlich, dass die Zivilprozessordnung zB in § 298 Abs. 1 Satz 1 und § 371b ZPO eine Überführung von Dokumenten in andere „Formate“ kennt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>4. Der in der Übermittlung der Word-Datei liegende Formmangel gilt auch nicht durch die Einreichung der erneuten Klageschrift am 27. März 2020 gemäß § 46c Abs. 6 Satz 2 ArbGG rückwirkend zum Zeitpunkt der Einreichung der Klageschrift am 18. März 2020 als geheilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>a) Nach § 46c Abs. 6 Satz 1 ArbGG hat das Gericht, wenn sich ein elektronisches Dokument nicht zur Bearbeitung iSv. § 46c Abs. 2 Satz 1 ArbGG iVm. der ERVV eignet, dies dem Absender unter Hinweis auf die Unwirksamkeit des Eingangs und der geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt nach § 46c Abs. 6 Satz 2 ArbGG als zum Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten Dokument inhaltlich übereinstimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>b) Diese Voraussetzungen sind vorliegend nicht erfüllt. Der Nebenintervenient zu 2. hat zwar am 27. März 2020 eine Klageschrift im Dateiformat PDF eingereicht. Allerdings hat er nicht glaubhaft gemacht, dass dieser Schriftsatz vom 27. März 2020 inhaltlich mit der Klageschrift vom 18. März 2020 übereinstimmt. Dieses Erfordernis war auch nicht entbehrlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Das Arbeitsgericht hat am 27. März 2020 den Hinweis erteilt, dass die auf elektronischem Wege eingegangene Klage vom 18. März 2020 unzulässig sein dürfte, weil sie als Word-Datei und nicht im Dateiformat PDF übermittelt worden sei. Gleichzeitig hat es in Fettdruck über die Heilungsmöglichkeit nach § 46c Abs. 6 Satz 2 ArbGG informiert und ausdrücklich auf die Pflicht zur Glaubhaftmachung der inhaltlichen Übereinstimmung des ersten Schriftsatzes mit dem formwirksam nachzureichenden Schriftsatz hingewiesen. Ein einmaliger Hinweis genügt <em>(vgl. BAG 12. März 2020 - 6 AZM 1/20 - Rn. 10)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>bb) Unschädlich ist, dass der gerichtliche Hinweis vom 27. März 2020 selbst nicht unverzüglich iSd. § 46c Abs. 6 Satz 1 ArbGG erfolgte. Dies kann der nachreichenden Partei zwar nicht zum Nachteil gereichen, indem durch den verspäteten Hinweis die Heilungsmöglichkeiten entfielen. Die Klägerin war durch die verzögerte Handlung des Arbeitsgerichts aber nicht von ihrer Obliegenheit entbunden, nach dem erteilten Hinweis ihrerseits unverzüglich die im Gesetz vorgesehenen Maßnahmen zur Heilung eines Formverstoßes zu ergreifen. Die Unverzüglichkeit des gerichtlichen Hinweises ist keine Voraussetzung für die Notwendigkeit der Fristwahrung der Partei nach § 46c Abs. 6 Satz 2 ArbGG, wonach allein der Nachreichende unverzüglich handeln muss. Der Hinweis dient ausschließlich dazu, ein Handeln der Partei innerhalb der noch nicht abgelaufenen Frist oder aber nach § 46c Abs. 6 Satz 2 ArbGG zu ermöglichen. Die Position der Gegenpartei ist insoweit nicht schutzbedürftig. Sie kann daher im Fall eines nicht mehr unverzüglichen Hinweises des Gerichts nicht darauf vertrauen, der Formfehler wirke sich zu ihren Gunsten aus <em>(vgl. BAG 25. April 2022 - 3 AZB 2/22 - Rn. 28 zum wortgleichen § 130a Abs. 6 ZPO aF)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>cc) Die Klägerin hat die inhaltliche Übereinstimmung der Schriftsätze vom 18. März 2020 und vom 27. März 2020 nicht glaubhaft gemacht. Eine solche Glaubhaftmachung war entgegen der Auffassung der Revision unentbehrlich. Das ergibt die Auslegung von § 46c Abs. 6 Satz 2 ArbGG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(1) Bereits der Wortlaut verdeutlicht, dass die Glaubhaftmachung der inhaltlichen Übereinstimmung unverzichtbare Tatbestandsvoraussetzung ist <em>(vgl. BAG 12. März 2020 - 6 AZM 1/20 - Rn. 9; LAG Schleswig-Holstein 15. Juli 2021 - 5 Sa 8/21 - zu II 3 a der Gründe; OLG Zweibrücken 9. November 2020 - 6 UF 109/20 - Rn. 5; für die wortgleiche Regelung in § 130a Abs. 6 Satz 2 ZPO sh. auch Anders/Gehle/Anders ZPO 80. Aufl. § 130a Rn. 24; MüKoZPO/Fritsche 6. Aufl. § 130a Rn. 22)</em>. Mit dem Wort „sofern“, welches „vorausgesetzt, dass“ bedeutet, hat der Gesetzgeber klar zum Ausdruck gebracht, dass die in der Folge bezeichneten Anforderungen zwingend sein sollen. Durch die Verwendung der Konjunktion „und“ werden beide Tatbestandsvoraussetzungen gleichrangig nebeneinandergestellt. Eine Gewichtung hinsichtlich ihrer Wertigkeit bzw. Bedeutung für den Eintritt der angeordneten Rechtsfolge einer Eingangsfiktion ist dem Wortlaut der Bestimmung nicht zu entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(2) Für dieses Auslegungsverständnis sprechen auch systematische Erwägungen sowie Sinn und Zweck des § 46c Abs. 6 Satz 2 ArbGG. Die Norm dient dem Ausgleich des „Spannungsverhältnisses“ <em>(vgl. hierzu Radke jM 2020, 461, 462)</em>, das sich aus der nach § 46g Satz 1 ArbGG ergebenden Pflicht zur Teilnahme am elektronischen Rechtsverkehr sowie den aus § 46c Abs. 2 ArbGG iVm. § 2 Abs. 1 Satz 1 ERVV aF folgenden besonderen formellen Anforderungen und dem Gebot des effektiven Rechtsschutzes in Verbindung mit dem Rechtsstaatsprinzip ergibt. Hierdurch soll eine Stärkung des Nutzervertrauens bewirkt werden <em>(vgl. BT-Drs. 17/12634 S. 26 zum wortgleichen § 130a Abs. 6 ZPO)</em>. Die Heilungsmöglichkeit nach § 46c Abs. 6 Satz 2 ArbGG stellt nur äußerst niedrigschwellige Anforderungen. Sie verlangt lediglich die unverzügliche Übermittlung eines formatfehlerfreien elektronischen Dokuments auf Hinweis des Gerichts und besteht im Übrigen unabhängig davon, ob der Absender die Einreichung eines ungeeigneten elektronischen Dokuments verschuldet hat <em>(BeckOK ArbR/Hamacher Stand 1. September 2022 ArbGG § 46c Rn. 11; für die wortgleiche Bestimmung in § 130a ZPO BeckOK ZPO/von Selle Stand 1. September 2022 ZPO § 130a Rn. 27)</em>. Damit stellt sie formal und inhaltlich deutlich geringere Anforderungen an den Zugang zu Gericht als die Bestimmungen zur Wiedereinsetzung in den vorigen Stand nach § 233 ff. ZPO <em>(BeckOK ZPO/von Selle aaO Rn. 27 mwN; vgl. auch NK-ArbR/Kloppenburg ArbGG § 46c Rn. 47)</em>. Angesichts derart geringer Anforderungen bedarf es zur Verhinderung von Manipulationen - zB im Wege einer nachträglichen Bearbeitung des Dokuments durch den Einreicher - jedoch eines zusätzlichen Kontrollinstruments. Dieses hat der Gesetzgeber mit der Verpflichtung, die inhaltliche Übereinstimmung des nachgereichten Schriftsatzes mit dem zuerst eingereichten Dokument glaubhaft zu machen, geschaffen und dadurch das erforderliche Maß an unverzichtbarer Rechtssicherheit für alle Beteiligten gewährleistet. Gleichzeitig hat er dadurch die Einhaltung anwaltlicher Sorgfaltspflichten gefördert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>(3) Durch die formellen Anforderungen des § 46c Abs. 2 ArbGG iVm. § 2 Abs. 1 Satz 1 ERVV aF, elektronische Dokumente im Dateiformat PDF einreichen zu müssen, und die Sanktion, formatfehlerhafte elektronische Dokumente als nicht eingereicht anzusehen, wenn sie nicht auf gerichtlichen Hinweis unverzüglich formgerecht nachgereicht werden und die Übereinstimmung beider Dokumente glaubhaft gemacht wird, wird der Zugang zu den Gerichten für den Rechtsuchenden nach der zu respektierenden Einschätzung des Gesetzgebers nicht unverhältnismäßig erschwert. Es ist Aufgabe des Gesetzgebers, das Rechtsschutzsystem auszugestalten und insbesondere die prozessualen Voraussetzungen für den Zugang zu Gericht festzulegen. Dabei hat er in Abwägung und unter Ausgleich der widerstreitenden Interessen der Prozessbeteiligten die Verfahrensordnung so auszugestalten, dass effektiver Rechtsschutz ermöglicht wird <em>(vgl. BVerfG 30. April 2003 - 1 PBvU 1/02 - zu C I 4 der Gründe, BVerfGE 107, 395)</em>. Die Grenzen einer zulässigen Ausgestaltung der Rechtsschutzgewährung durch eine Verfahrensordnung sind erst dann überschritten, wenn der Zugang zu Gericht in unzumutbarer, durch Sachgründe nicht mehr zu rechtfertigender Weise erschwert wird <em>(BVerfG 18. April 2007 - 1 BvR 110/07 - Rn. 20 f.)</em>. Der Gesetzgeber hat das Spannungsverhältnis von formellen Anforderungen an den Zugang zu Gericht bei Einreichung elektronischer Dokumente und effektivem Rechtsschutz erkannt <em>(BT-Drs. 17/12634 S. 26)</em>. Er hat es dadurch aufgelöst, dass er den Rechtsuchenden die Möglichkeit eingeräumt hat, den Formatfehler unverzüglich zu korrigieren, wobei er die Gerichte verpflichtet hat, auf den Formatfehler vorab hinzuweisen. Diese Anforderungen an eine ordnungsgemäße Einreichung elektronischer Dokumente bzw. an eine Heilung von Formatfehlern sind für den Personenkreis, für den aktuell § 46g ArbGG eine Pflicht zur Einreichung vorbereitender Schriftsätze in elektronischer Form vorsieht, ohne Weiteres zu erfüllen. Jedenfalls bei führender elektronischer Akte ist daher in der Gesamtschau der gesetzlichen Ausgestaltung der Zugang zu Gericht durch die Anforderung, vorbereitende Schriftsätze im Dateiformat PDF einzureichen, nicht unverhältnismäßig erschwert <em>(vgl. </em>
+                  <em>Radke jM 2020, 461, 462; aA bei führender Papierakte und druckbarem sowie zur Papierakte genommenem elektronischen Dokument BAG 1. August 2022 - 2 AZB 6/22 - Rn. 11 f.; zweifelnd bei führender Papierakte hinsichtlich des Ausschlusses druckbarer Dokumente auch BAG 25. April 2022 - 3 AZB 2/22 - Rn. 19 f.)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>(4) Entgegen der Auffassung der Revision kommt vorliegend auch eine teleologische Reduktion des § 46c Abs. 6 Satz 2 ArbGG dahingehend, dass die Glaubhaftmachung entbehrlich war, weil sofort erkennbar gewesen sei, dass identische Schriftsätze vorgelegen hätten und darum keine Umgehungsgefahr bestanden habe, nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>(a) Mit der teleologischen Reduktion, die zu den von Verfassungs wegen anerkannten Auslegungsgrundsätzen gehört, wird der ausgehend vom Gesetzeszweck zu weit gefasste Wortlaut auf den Anwendungsbereich reduziert, welcher der ratio legis entspricht <em>(BAG 27. Januar 2022 - 6 AZR 216/21 - Rn. 20 mwN)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>(b) Im Streitfall sind keine Umstände ersichtlich, die belegen, dass die Verpflichtung zur Glaubhaftmachung der inhaltlichen Übereinstimmung der beiden Schriftsätze zu zweckwidrigen Ergebnissen führt. § 46c Abs. 6 Satz 2 ArbGG sieht gerade keine Einschränkung vor, dass die Glaubhaftmachung nur bei nicht abrufbaren bzw. nicht zu öffnenden Dokumenten oder bei konkreten Anhaltspunkten für einen Missbrauch erfolgen soll. Die Gerichte sollen nach der gesetzgeberischen Konzeption nur dann - im Wege des Freibeweises <em>(vgl. hierzu BAG 3. Juni 2020 - 3 AZR 730/19 - Rn. 36, BAGE 171, 1)</em> - gehalten sein, die entsprechenden Dokumente auf ihre inhaltliche Übereinstimmung zu überprüfen, wenn diese von der gegnerischen Partei substantiiert bestritten ist oder sich dem Gericht selbst Zweifel hieran aufdrängen. Allenfalls für die Fälle, in denen der Inhalt der Schriftsätze von allen Beteiligten mit einem kurzen Blick erfasst werden kann, etwa bei der bloßen Einlegung eines Rechtsmittels ohne jeden Ansatz einer Begründung, kommt die Entbehrlichkeit der Glaubhaftmachung in Betracht. Ein solcher Fall liegt hier jedoch nicht vor. Die Klageschrift umfasst zehn Seiten zuzüglich Anlagen. Zudem trug jede Klageschrift das jeweils aktuelle Datum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>5. Da die Kündigung nach § 7 Halbs. 1 KSchG bereits als von Anfang an rechtswirksam gilt, weil die Klägerin die inhaltliche Übereinstimmung der Klageschrift vom 27. März 2020 mit dem zuerst elektronisch als Word-Datei übermittelten Schriftsatz vom 18. März 2020 nicht glaubhaft gemacht hat und der Schriftsatz vom 27. März 2020 deshalb nicht gemäß § 46c Abs. 6 Satz 2 ArbGG auf den letzten Tag der Frist nach § 4 Satz 1 KSchG zurückwirkt, kam es für die Entscheidung nicht auf die - allerdings rechtsfehlerhafte - Annahme des Landesarbeitsgerichts an, die Schriftsätze vom 27. März 2020 und vom 31. März 2020 hätten nicht den rechtlichen Vorgaben des § 46c Abs. 2 ArbGG iVm. § 5 ERVV aF und Nr. 1 der Bekanntmachung zu § 5 der Elektronischer-Rechtsverkehr-Verordnung vom 20. Dezember 2018 <em>(BAnz. AT 31. Dezember 2018 B3)</em> entsprochen, weil sie zwar im Dateiformat PDF übermittelt worden seien, jedoch nichteingebettete Schriftarten enthielten. Dass ein elektronisches Dokument nach diesen Bestimmungen nicht deshalb formunwirksam ist, weil nicht sämtliche Schriftarten eingebettet sind, hat der Dritte Senat des Bundesarbeitsgerichts bereits mit Beschluss vom 25. April 2022 <em>(- 3 AZB 2/22 - Rn. 29 ff.)</em> entschieden. Dem schließt sich der Senat an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>II. Die Klägerin hat weder einen Anspruch auf Wiedereinsetzung in den vorigen Stand iSv. § 233 ZPO noch auf eine nachträgliche Zulassung ihrer Kündigungsschutzklage nach § 5 KSchG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>1. Zutreffend hat das Landesarbeitsgericht angenommen, dass eine Wiedereinsetzung in den vorigen Stand gemäß §§ 233 ff. ZPO vorliegend nicht in Betracht kommt. Die Bestimmungen der §§ 233 ff. ZPO finden auf Kündigungsschutzklagen keine Anwendung, weil die Frist des § 4 Satz 1 KSchG keine der in § 233 Satz 1 ZPO genannten Fristen ist. § 5 KSchG regelt abschließend den Sonderfall einer unverschuldeten Versäumung der Klagefrist des § 4 Satz 1 KSchG <em>(MHdB ArbR/Rachor 5. Aufl. Bd. 2 § 130 Rn. 59 mwN; MüKoBGB/Hergenröder 8. Aufl. § 5 KSchG Rn. 2; APS/Hesse 6. Aufl. KSchG § 5 Rn. 5)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>2. Die Kündigungsschutzklage war auch nicht nach § 5 Abs. 1 Satz 1 KSchG nachträglich zuzulassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>a) § 5 Abs. 1 Satz 1 KSchG verlangt, dass der Arbeitnehmer trotz Aufwendung aller ihm nach Lage der Umstände zuzumutenden Sorgfalt gehindert war, die Klage rechtzeitig zu erheben. Dabei ist ihm das Verschulden eines (Prozess-)Bevollmächtigten an der Versäumung der gesetzlichen Klagefrist nach § 4 Satz 1 KSchG gemäß § 46 Abs. 2 Satz 1 ArbGG iVm. § 85 Abs. 2 ZPO zuzurechnen <em>(BAG 30. Juli 2020 - 2 AZR 43/20 - Rn. 37, BAGE 172, 18)</em>.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>b) Vorliegend trifft - wie das Landesarbeitsgericht zu Recht angenommen hat - den Nebenintervenienten zu 2. ein Verschulden, weil er es unterlassen hat, von der Heilungsmöglichkeit nach § 46c Abs. 6 Satz 2 ArbGG Gebrauch zu machen und glaubhaft zu versichern, dass der Schriftsatz vom 27. März 2020 mit dem Schriftsatz vom 18. März 2020 inhaltlich übereinstimmt. Als Rechtsanwalt hat er - wie in Rn. 30 ausgeführt - die Pflicht, die Gesetze und Rechtsverordnungen zu kennen, die in einer Anwaltspraxis gewöhnlich zur Anwendung kommen. Zudem stellt die Verpflichtung zur Glaubhaftmachung keine unzumutbaren Anforderungen an den Rechtsanwalt, da insoweit eine anwaltliche Versicherung genügt <em>(BAG 3. Juni 2020 - 3 AZR 730/19 - Rn. 35, BAGE 171, 1)</em>. Das Arbeitsgericht hat mit Schreiben vom 27. März 2020 auf die Heilungsmöglichkeit und die hierfür zu beachtenden Anforderungen auch hingewiesen. Das Versäumnis ihres Prozessbevollmächtigten ist der Klägerin zuzurechnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>III. Die Klägerin hat nach § 97 Abs. 1 ZPO die Kosten ihrer erfolglosen Revision zu tragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Spelge    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Krumbiegel    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    Wemheuer    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    C. Klar    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:center">    M. Werner    </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                     <td colspan="1" rowspan="1" valign="top">        </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KARE600065106&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

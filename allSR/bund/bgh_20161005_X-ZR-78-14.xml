@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304952016</doknr>
+   <ecli>ECLI:DE:BGH:2016:051016UXZR78.14.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20161005</entsch-datum>
+   <aktenzeichen>X ZR 78/14</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 4 PatG, § 83 Abs 1 PatG, § 117 PatG, Art 56 EuPatÜbk, Art 76 Abs 1 S 2 EuPatÜbk, Regel 22 EuPatÜbkAO, Art 2 § 6 Abs 1 IntPatÜbkG, § 531 Abs 2 S 1 Nr 3 ZPO</norm>
+   <vorinstanz>vorgehend BPatG München, 5. August 2014, Az: 2 Ni 34/12 (EP)<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Auswirkungen einer formell fehlerhaften Teilanmeldung auf die Zubilligung des Zeitrangs; Erforderlichkeit der Rechtfertigung der Wahl eines Ausgangspunkts für die Lösung eines technischen Problems; für den Fachmann naheliegender Ausgangspunkt; Erforderlichkeit ergänzenden Vortrags zur Verneinung der Patentfähigkeit nach Hinweis des Patentgerichts - Opto-Bauelement</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Opto-Bauelement</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Umstand, dass eine vom materiell Berechtigten eingereichte Teilanmeldung formell fehlerhaft war, steht der Zubilligung des in Art. 76 Abs. 1 Satz 2 EPÜ vorgesehenen Zeitrangs in einem Nichtigkeitsverfahren jedenfalls dann nicht entgegen, wenn der Fehler zu einem späteren Zeitpunkt behoben wurde und eine Teilanmeldung zu diesem Zeitpunkt noch zulässig war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2a. Die Wahl einer bestimmten Entgegenhaltung oder Vorbenutzung als Ausgangspunkt für die Lösung eines technischen Problems bedarf grundsätzlich der Rechtfertigung (Bestätigung von BGH, Urteil vom 16. Dezember 2008, X ZR 89/07, BGHZ 179, 168 = GRUR 2009, 382 Rn. 51 - Olanzapin; Urteil vom 18. Juni 2009, Xa ZR 138/05, GRUR 2009, 1039 Rn. 20 - Fischbissanzeiger).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2b. Für die Beurteilung der Frage, ob ein bestimmter Ausgangspunkt für den Fachmann naheliegend war, ist grundsätzlich ohne Bedeutung, ob andere Ausgangspunkte möglicherweise als noch näherliegend in Betracht kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Ein gemäß § 83 Abs. 1 PatG erteilter Hinweis des Patentgerichts, ein in einem Unteranspruch vorgesehenes Merkmal dürfte aus den vorgelegten Dokumenten nicht bekannt sein, gibt dem Nichtigkeitskläger regelmäßig Veranlassung, die Gründe aufzuzeigen, aus denen die Patentfähigkeit für den Gegenstand dieses Unteranspruchs zu verneinen ist.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufungen der Parteien gegen das Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 5. August 2014 werden mit der Maßgabe zurückgewiesen, dass die Kosten des Rechtsstreits für beide Instanzen gegeneinander aufgehoben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 022 787 (Streitpatents), das auf einer Stammanmeldung vom 31. Mai 1989 beruht und ein oberflächenmontierbares Opto-Bauelement sowie ein Verfahren zu dessen Herstellung betrifft. Patentanspruch 1, auf den fünf weitere Patentansprüche zurückbezogen sind, lautet in der erteilten Fassung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:18pt">Verfahren zum Herstellen eines oberflächenmontierbaren Opto-Bauelements, bei dem</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- an einem Leiterrahmen (Leadframe) mittels Umspritzen mit Kunststoff ein Grundkörper (1) mit einer Vorderseite und einer Rückseite und mit einer von der Vorderseite ausgehenden Vertiefung (5) ausgebildet wird und nachfolgend ein optischer Sender oder Empfänger (8) in der Vertiefung (5) angeordnet und mittels Bond-Draht-Verbindung mit einem elektrischen Anschluss (6) des Leiterrahmens verbunden wird,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- der Leiterrahmen zwei elektrische Anschlüsse (6, 7) aufweist, die, gesehen von der Grundkörpermitte, schmale Bereiche und diesen nachgeordnete breitere Bereiche aufweisen, die jeweils zusammenhängen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- der Grundkörper (1) derart ausgebildet wird, dass die elektrischen Anschlüsse (6, 7) auf einander gegenüberliegenden Seitenflächen des Grundkörpers (1) im Verlauf der schmalen Bereiche aus dem Grundkörper (1) herausragen, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- die elektrischen Anschlüsse (6, 7) in den schmalen Bereichen zur Rückseite des Grundkörpers (1) hin gebogen werden und im weiteren Verlauf in den breiteren Bereichen auf Höhe der Rückseite des Grundkörpers (1) zu dessen Mitte hin gebogen werden und an der Rückseite des Grundkörpers vollständig an diesen angelegt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 7, auf den fünf weitere Patentansprüche zurückbezogen sind, ist auf den Schutz eines Opto-Bauelements mit entsprechenden Eigenschaften gerichtet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, die von der Beklagten wegen Verletzung des Streitpatents gerichtlich in Anspruch genommen wird, hat geltend gemacht, der Gegenstand des Streitpatents beruhe nicht auf erfinderischer Tätigkeit. Die Beklagte hat Klageabweisung beantragt und das Streitpatent mit zwei Hilfsanträgen in geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit sein Gegenstand über die mit Hilfsantrag 2 verteidigte Fassung hinausgeht, und die Klage im Übrigen abgewiesen. Gegen diese Entscheidung wenden sich beide Parteien mit der Berufung. Die Klägerin begehrt weiterhin die vollständige Nichtigerklärung des Streitpatents, die Beklagte die vollständige Abweisung der Klage. Hilfsweise verteidigt sie das Streitpatent in erster Linie in einer im Vergleich zum erstinstanzlichen Hilfsantrag 1 abermals geänderten Fassung und in zweiter Linie in der Fassung des angefochtenen Urteils.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Rechtsmittel beider Parteien bleiben ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein auf der Oberfläche einer Leiterplatte montierbares Opto-Bauelement und ein Verfahren zu dessen Herstellung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. In der Streitpatentschrift wird ausgeführt, die Montage von unbedrahteten elektronischen Bauteilen (Surface Mounted Devices, SMD) auf der Oberfläche von Leiterplatten ermögliche im Vergleich zur herkömmlichen Einsteckmontage von bedrahteten Bauteilen eine Größenverringerung von bis zu 70 %, eine rationellere Fertigung und eine höhere Zuverlässigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>In der Streitpatentschrift werden mehrere im Stand der Technik bekannte Bauelemente beschrieben, bei denen ein Halbleiterelement auf einen Leiterrahmen (Leadframe) montiert und in ein lichtdurchlässiges Harz eingegossen ist. Hinsichtlich eines dieser Bauelemente wird als nachteilig bezeichnet, dass es nur für Durchsteckmontage geeignet sei, hinsichtlich eines anderen, dass die externen Anschlussstreifen seitlich aus dem Gehäuse herausragten, was einen vergleichsweise hohen Platzbedarf mit sich bringe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das in der japanischen Offenlegungsschrift Shō 61-42939 offenbarte Bauelement, bei dem die Anschlussstreifen seitlich aus dem Harzverguss herausgeführt, deren Kontaktteile aber unter den Harzverguss gebogen seien, wird in der Patentschrift hinsichtlich des Platzbedarfs als günstiger beurteilt. Als nachteilig wird aber der Umstand bezeichnet, dass die Anschlussstreifen im Verlauf zur Rückseite des Harzvergusses hin mehrere Biegungen aufwiesen, die ein Federn in vertikaler und lateraler Richtung ermöglichten. Das Herstellen dieser Biegungen führe zu einer starken Beanspruchung der Bauelemente und erfordere einen komplexen Herstellungsprozess.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein verbessertes Opto-Bauelement und ein Verfahren zu dessen Herstellung zur Verfügung zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Zur Lösung dieses Problems schlägt das Streitpatent in Patentanspruch 1 ein Verfahren zur Herstellung eines Opto-Bauelements vor, dessen Merkmale sich wie folgt gliedern lassen (die abweichende Gliederung des Patentgerichts ist in eckigen Klammern wiedergegeben):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Verfahren dient dem Herstellen eines auf der Oberfläche montierbaren Opto-Bauelements [A] und umfasst folgende Schritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. An einem Leiterrahmen (Leadframe) wird durch Umspritzen mit Kunststoff ein Grundkörper (1) ausgebildet [B], und zwar mit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) einer Vorderseite und einer Rückseite [B] sowie</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) einer von der Vorderseite ausgehenden Vertiefung (5) [C].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. In der Vertiefung wird ein optischer Sender oder Empfänger (8) angeordnet und mittels Bond-Draht-Verbindung mit einem elektrischen Anschluss des Leiterrahmens (6) verbunden [D].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Der Leiterrahmen weist zwei elektrische Anschlüsse (6, 7) auf, die</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) von der Grundkörpermitte aus gesehen schmale Bereiche und diesen nachgeordnete breitere Bereiche aufweisen, die jeweils zusammenhängen [E];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) auf einander gegenüberliegenden Seitenflächen des entsprechend ausgebildeten Grundkörpers (1) im Verlauf der schmalen Bereiche aus dem Grundkörper (1) herausragen [F];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) in den schmalen Bereichen zur Rückseite des Grundkörpers (1) hin gebogen werden [G];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) im weiteren Verlauf in den breiteren Bereichen auf Höhe der Rückseite des Grundkörpers (1) zu dessen Mitte hin gebogen werden [G];</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) an der Rückseite des Grundkörpers (1) vollständig an diesen angelegt werden [G].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>3. Merkmal 2 [B] bedarf näherer Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>a) Der Grundkörper (1) dient als Umhüllung für den elektrischen Leiterrahmen und zugleich als Aufnahme für das optische Element (8). Die Trennung zwischen Grundkörper und Optik bietet nach der Beschreibung des Streitpatents den Vorteil, dass das optische Element hinsichtlich Design und Material je nach Einsatzzweck in vielfacher Weise variiert werden kann, ohne dass das Gehäuse angepasst werden muss. Dies ermöglicht es, ein kostengünstiges Grundbauelement herzustellen und erst nach dem Montage- und Lötprozess mit einer dem jeweiligen Anwendungsfall angepassten Optik zu koppeln (Abs. 18-20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>b) Die Stärke und die Stabilität des Grundkörpers sind in Patentanspruch 1 nicht ausdrücklich festgelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Aus der in Merkmal 2 [B] definierten Anforderung, dass der Grundkörper durch Umspritzen des Leiterrahmens auszubilden ist, ergibt sich allerdings, dass er den Leiterrahmen zumindest in einem bestimmten Bereich vollständig umgeben muss. Aus dem Zusammenhang mit Merkmalsgruppe 4 [Merkmale E, F und G] ist ferner abzuleiten, dass der Grundkörper hinreichend stabil ausgebildet sein muss, um die beiden elektrischen Anschlüsse (6, 7) zusammenzuhalten. Dies wird in der Beschreibung ausdrücklich hervorgehoben (Abs. 26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Hieraus mag sich die Schlussfolgerung ergeben, dass der Grundkörper hinreichend "massiv" ausgebildet sein muss. Entgegen der Auffassung der Beklagten stellt dies aber kein eigenständiges Merkmal dar. Wie "massiv" der Grundkörper sein muss, ergibt sich vielmehr aus den Anforderungen, denen er genügen muss, damit er seine Funktion als Umhüllung des Leiterrahmens und Aufnahme für das optische Element erfüllen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c) Die Art und Weise, in der das optische Element (8) im Grundkörper (1) angeordnet oder befestigt wird, ist in Patentanspruch 1 nur insoweit festgelegt, als die elektrische Verbindung zum Leiterrahmen mittels Bond-Draht erfolgt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>In der Beschreibung wird ergänzend ausgeführt, die Vertiefung (5), in der das optische Element angeordnet sei, könne abschließend mit Gießharz ausgegossen werden. Zwingend vorgesehen ist dies in Patentanspruch 2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents in der erteilten Fassung und in der Fassung von Hilfsantrag 1 sei dem Fachmann, einem mit der Herstellung von für die Oberflächenmontage geeigneten Bauelementen vertrauten Diplom-Ingenieur der Elektrotechnik mit Fachhochschulabschluss, durch den Stand der Technik nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Allerdings gehöre die Stammanmeldung, aus der das Streitpatent hervorgegangen sein, selbst dann nicht zum Stand der Technik, wenn die dem Streitpatent zugrunde liegende Teilanmeldung mangels Anmelderidentität als unwirksam hätte behandelt werden müssen; ein diesbezüglicher Verfahrensfehler stelle keinen Nichtigkeitsgrund dar und sei durch die Erteilung des Streitpatents geheilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents sei aber durch die japanische Offenlegungsschrift Shō 62-213223 (NK3) nahegelegt. In NK3 sei ein Verfahren zur Herstellung eines auf der Oberfläche montierbaren elektronischen Bauelements mit dem Merkmalen 2 [B] und der Merkmalsgruppe 4 [Merkmale E, F und G] offenbart. In der Beschreibung von NK3 werde darauf hingewiesen, dass das angegebene Verfahren nicht nur zur Herstellung von Kondensator-Bauelementen einsetzbar sei, sondern zur Herstellung beliebiger elektronischer Bauelemente. Deshalb ziehe es der Fachmann auch zur Herstellung eines Opto-Bauelements in Betracht. Dazu passe er das Verfahren entsprechend den Merkmalen 2b und 3 [C und D] an. Die darin vorgesehene Bauform sei für Leuchtdioden üblich, was sich etwa aus dem japanischen Geschmacksmuster 744802 (NK2) ergebe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Entsprechendes gelte für den Gegenstand des Streitpatents in der mit Hilfsantrag 1 verteidigten Fassung. Die nach diesem Antrag zusätzlich vorgesehenen Merkmale stellten für Leuchtdioden übliche Maßnahmen dar, was sich etwa aus den japanischen Offenlegungsschriften Shō 55-105388 (NK8) und Shō 63-300578 (NK9) sowie der deutschen Offenlegungsschrift 23 09 586 (NK10) ergebe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents in der mit Hilfsantrag 2 verteidigten Fassung beruhe hingegen auf erfinderischer Tätigkeit. NK3 und NK9 enthielten keine Angaben zur Materialwahl. NK8 und NK10 offenbarten als Material für den Grundkörper Epoxidharz und damit einen duroplastischen Kunststoff. Die nach Hilfsantrag 2 stattdessen vorgesehenen thermoplastischen Materialien seien aus Sicht des Fachmanns nicht ohne weiteres als Alternative anzusehen, weil sie nur in begrenztem Umfang thermisch belastbar seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält den Berufungsangriffen beider Parteien stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>1. Zu Recht hat das Patentgericht die unter der Nummer 400 176 (NK1) veröffentlichte Stammanmeldung nicht als zum Stand der Technik gehörend angesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat bislang offen gelassen, ob und unter welchen Voraussetzungen formelle oder materielle Fehler einer Teilanmeldung dazu führen, dass dieser in einem Nichtigkeitsverfahren nicht der in Art. 76 Abs. 1 Satz 2 EPÜ (für deutsche Patente: § 39 Abs. 1 Satz 4 PatG) bestimmte Zeitrang zukommt, und ob dies gegebenenfalls zur Folge haben kann, dass die in Bezug genommene Stammanmeldung im Falle ihrer Veröffentlichung zum Stand der Technik zu zählen ist (BGH, Beschluss vom 30. September 2002 - X ZB 18/01, BGHZ 152, 172, 176 ff. = GRUR 2003, 47, 48 - Sammelhefter).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Diese Frage bedarf auch im Streitfall keiner Entscheidung. Die von der Beklagten eingereichte Teilanmeldung ist jedenfalls dadurch wirksam geworden, dass ein eventueller Verfahrensfehler nachträglich behoben wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>a) Nach der Entscheidungspraxis des Europäischen Patentamts steht das Recht zur Teilung einer Anmeldung nur dem Anmelder zu. Art. 76 EPÜ sieht dies zwar nicht ausdrücklich vor. Die Vorschrift dient aber der Umsetzung von Art. 4G PVÜ und ist deshalb im Lichte dieser Vorschrift auszulegen (EPA ABl. 2005, 88 Rn. 2.4 - Teilanmeldung / The Trustees of Dartmourth College).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Ob hieraus folgt, dass eine Teilanmeldung im Falle eines Rechtsübergangs entsprechend der allgemeinen Bestimmung in Regel 22 Abs. 3 AOEPÜ (in der hier noch maßgeblichen Fassung: Regel 20 Abs. 3 AOEPÜ a.F.) nur dann durch den neuen Rechtsinhaber erfolgen darf, wenn dieser den Rechtsübergang durch Vorlage von Dokumenten nachgewiesen hat, kann dahingestellt bleiben. Wenn diese Voraussetzungen bei der Einreichung einer Teilanmeldung durch den materiell Berechtigten noch nicht vorliegen, begründet dies nur einen formellen Rechtsfehler, der im vorliegenden Zusammenhang nach dem Sinn und Zweck von Art. 76 EPÜ jedenfalls dann nicht mehr beachtlich ist, wenn die sich aus Regel 22 Abs. 3 AOEPÜ ergebenden Anforderungen zu einem späteren Zeitpunkt erfüllt waren und eine Teilanmeldung zu diesem Zeitpunkt noch zulässig war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Art. 76 EPÜ sieht für die Einreichung einer Teilanmeldung - anders als etwa Art. 87 Abs. 1 EPÜ für die Inanspruchnahme eines Prioritätsrechts - keine Frist vor. Nach Regel 36 Abs. 1 AOEPÜ in der bis 31. März 2010 und wieder seit 1. Januar 2014 geltenden Fassung ist eine Teilanmeldung zulässig, solange die Stammanmeldung anhängig ist. Innerhalb dieses zeitlichen Rahmens kann eine Teilanmeldung durch eine neue Teilanmeldung ersetzt werden. Jedenfalls im Zusammenhang mit der Frage, welcher Zeitrang einer Teilanmeldung im Rahmen eines Nichtigkeitsverfahrens gegen ein darauf erteiltes Patent zukommt, kann es aber keinen Unterschied machen, ob der Anmelder einen formellen Fehler dadurch behebt, dass er eine neue, fehlerfreie Teilanmeldung mit gleichem Inhalt einreicht, oder dadurch, dass er die bereits anhängige Teilanmeldung in einzelnen Punkten korrigiert. Im einen wie im anderen Fall hat er innerhalb des von Übereinkommen und Ausführungsordnung vorgesehenen Zeitraums hinreichend deutlich zum Ausdruck gebracht, dass er für die Teilanmeldung den Zeitrang der Stammanmeldung beansprucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>b) Vor diesem Hintergrund ist das Patentgericht zu Recht zu dem Ergebnis gelangt, dass der Teilanmeldung, auf der das Streitpatent beruht, der Zeitrang der Stammanmeldung zukommt. Ein möglicher Verstoß gegen Regel 20 Abs. 3 AOEPÜ a.F. wurde im Streitfall mit dem am 12. Mai 2000 eingereichten Antrag auf Berichtigung des Anmelders der Teilanmeldung behoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob das Europäische Patentamt diesem Antrag zu Recht entsprochen hat und ob diese Entscheidung der inhaltlichen Überprüfung im Nichtigkeitsverfahren unterliegt. Dem Schreiben ist jedenfalls mit hinreichender Deutlichkeit zu entnehmen, dass die im Register eingetragene Anmelderin die Teilanmeldung als von ihr stammend gelten lassen will. Die Teilanmeldung genügte mithin von diesem Zeitpunkt an - zu dem die Stammanmeldung noch anhängig war - den Anforderungen von Regel 20 Abs. 3 AOEPÜ a.F.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>2. Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand von Patentanspruch 1 in der erteilten Fassung dem Fachmann durch die Entgegenhaltungen NK3 und NK2 nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend hat das Patentgericht entschieden, dass in NK3 ein Verfahren mit dem Merkmal 2 [B] und der Merkmalsgruppe 4 [Merkmale E, F und G] offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Beklagten befasst sich NK3 nicht nur mit einem an der Oberfläche montierbaren Bauelement, sondern auch mit wesentlichen Verfahrensschritten zur Herstellung eines solchen Elements. In der (in anderem Zusammenhang auch von der Beklagten zitierten) Beschreibung zu Figur 1a wird ausgeführt, nach oben ragende Teile (2b) einer Kammelektrode (2) würden auf eine Metallicon-Elektrode (1a) aufgeschweißt. Anschließend erfolge eine Umhüllung mit Harz mit einer Dicke von 0,5 mm. Danach werde die Kammelektrode an vorgegebenen Stellen geschnitten und ein Biegeprozess durchgeführt, um den in Figur 1b dargestellten Kondensator zu erhalten (NK3a S. 2 unten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="334px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="192px"
+                       src="bild2_1.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>bb) Wie auch die Beklagte nicht in Zweifel zieht, entspricht die in NK3 offenbarte Kammelektrode (2) dem in Merkmal 2 [B] des Streitpatents vorgesehenen Leiterrahmen. Sie weist zwei elektrische Anschlüsse auf, die in der in Merkmalsgruppe 4 [Merkmale E, F und G] definierten Weise angeordnet und ausgestaltet sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Beklagten stellt die in NK3 offenbarte Umhüllung (3) einen Grundkörper im Sinne von Merkmal 2 [B] dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung von NK3 enthält zwar keine Angaben zur Stabilität der Umhüllung. Aus dem Zusammenhang ergibt sich aber, dass die Umhüllung hinreichend stabil sein muss, um die in ihr angeordneten Bauteile zu halten. Damit ist die in NK3 offenbarte Umhüllung in gleichem Sinne als "massiv" anzusehen wie der in Merkmal 2 [B] vorgesehene Grundkörper. In welcher Weise die erforderliche Stabilität erreicht werden kann, bleibt - wie in der Beschreibung des Streitpatents - dem Fachmann überlassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>b) Ebenfalls zutreffend ist das Patentgericht zu der Auffassung gelangt, dass der Fachmann Veranlassung hatte, das in NK3 offenbarte Verfahren für die Herstellung eines Opto-Bauelements in Betracht zu ziehen, wie es etwa in NK2 offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Beklagten hatte der mit der Aufgabenstellung des Streitpatents betraute Fachmann Anlass, NK3 als Ausgangspunkt heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>(1) Nach der Rechtsprechung des Senats bedarf die Wahl eines Ausgangspunkts für die Lösung eines technischen Problems einer Rechtfertigung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Die - allenfalls aus rückschauender Sicht mögliche - Einordnung eines bestimmten Ausgangspunkts als "nächstkommender" Stand der Technik ist hierfür weder ausreichend (BGH, Urteil vom 16. Dezember 2008 - X ZR 89/07, BGHZ 179, 168 = GRUR 2009, 382 Rn. 51 - Olanzapin) noch erforderlich (BGH, Urteil vom 18. Juni 2009 - Xa ZR 138/05, GRUR 2009, 1039 Rn. 20 - Fischbissanzeiger). Vielmehr bedarf es konkreter Umstände, die dem Fachmann im Prioritätszeitpunkt Veranlassung gaben, eine bestimmte Entgegenhaltung oder Vorbenutzung als Ausgangspunkt seiner Überlegungen heranzuziehen. Diese Rechtfertigung liegt in der Regel in dem Bemühen des Fachmanns, für einen bestimmten Zweck eine bessere oder andere Lösung zu finden, als sie der Stand der Technik zur Verfügung stellt (BGHZ 179, 168 = GRUR 2009, 382 Rn. 51 - Olanzapin).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(2) An dieser Voraussetzung fehlt es im Streitfall im Hinblick auf NK3 nicht deshalb, weil diese Entgegenhaltung einen Kondensator offenbart, während NK2 ein Opto-Bauelement betrifft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob NK2 wegen dieses Umstands aus rückschauender Sicht im Vergleich zu NK3 möglicherweise als "näherliegender" Stand der Technik angesehen werden könnte. Selbst wenn dies zu bejahen wäre, ergäbe sich daraus nicht, dass NK3 oder sonstige Entgegenhaltungen als möglicher Ausgangspunkt ausscheiden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Wenn für den Fachmann zur Lösung eines Problems mehrere Alternativen in Betracht kommen, können mehrere von ihnen naheliegend sein. Hierbei ist grundsätzlich ohne Bedeutung, welche der Lösungsalternativen der Fachmann als erste in Betracht zöge (BGH, Urteil vom 16. Februar 2016 - X ZR 5/14, GRUR 2016, 1023 Rn. 36 - Anrufroutingverfahren). Dementsprechend ist es für die Frage, ob ein bestimmter Ausgangspunkt für den Fachmann naheliegend war, grundsätzlich ohne Bedeutung, ob andere Ausgangspunkte möglicherweise als noch näherliegend in Betracht kommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(3) Vor diesem Hintergrund ist das Patentgericht zutreffend zu dem Ergebnis gelangt, dass der Fachmann Anlass hatte, NK3 als Ausgangspunkt seiner Überlegungen heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Hierfür mag der in der Beschreibung NK3 enthaltene Hinweis, die dort offenbarte Erfindung sei nicht nur für den als Ausführungsbeispiel dargestellten Kondensator, sondern für jede elektronische Komponente anwendbar, für sich genommen nicht ausreichen. Die in NK3 angestrebten Vorteile - insbesondere die Möglichkeit, eine höhere Zuverlässigkeit bei geringeren Fertigungskosten zu erzielen (NK3Ü S. 2) - decken sich aber weitgehend mit der Aufgabenstellung des Streitpatents. Zudem lässt die in NK3 vorgeschlagene Lösung keinen spezifischen Zusammenhang mit der Funktion des elektronischen Bauteils erkennen. Sie betrifft vielmehr Aspekte, die sich bei einer Vielzahl von an der Oberfläche montierbaren elektronischen Bauteilen in vergleichbarer Weise stellen. Angesichts all dessen hatte der Fachmann Anlass, sich mit der Frage zu befassen, ob die in NK3 offenbarte Lösung auch für die Fertigung von an der Oberfläche montierbaren Opto-Bauelementen herangezogen werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>bb) Das in NK3 offenbarte Verfahren kann für die Herstellung von Opto-Bauelementen zwar nicht unverändert übernommen werden. Hinreichende Anregungen zu der Frage, welche Maßnahmen für die insoweit erforderliche Anpassung in Betracht kommen, ergaben sich für den Fachmann aber aus bekannten Opto-Bauelementen, wie sie etwa in NK2 dargestellt sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>(1) In NK2 ist ein auf der Oberfläche montierbares Opto-Bauelement in verschiedenen Ansichten dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="2" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:left">
+                           <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="92px"
+                                src="bild3_2.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>   </p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:left">
+                           <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="103px"
+                                src="bild4_3.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>   </p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:left">
+                           <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="109px"
+                                src="bild5_4.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>   </p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:left">
+                           <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="82px"
+                                src="bild6_5.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>   </p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:left">
+                           <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="77px"
+                                src="bild7_6.jpg"
+                                alt="Abbildung"
+                                title="Abbildung"
+                                style="margin-top: 3px;"/>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:center">Vorderansicht</p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:center">Seitenansicht</p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:center">Schnitt A – A</p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:center">von oben</p>
+                     </td>
+                     <td colspan="1" rowspan="1">
+                        <p style="text-align:center">von unten</p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Damit ist ein auf der Oberfläche montierbares Opto-Bauelement offenbart, das die Merkmale 1 bis 4c [Merkmale A bis F sowie einen Teil von Merkmal G] aufweist und dessen Aufbau hinsichtlich der die Montierbarkeit auf der Oberfläche betreffenden Merkmale 2, 4a, 4b und 4c [Merkmale B, C, E und F sowie ein Teil von Merkmal G] mit demjenigen des in NK3 offenbarten Bauelements übereinstimmt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(2) Daraus ergab sich für den Fachmann eine Bestätigung des in NK3 enthaltenen Hinweises, der dort dargestellte Aufbau könne auch für andere Bauelemente als Kondensatoren eingesetzt werden, und eine Konkretisierung dieser Anregung dahin, dass dies insbesondere für Opto-Bauelemente gilt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>(3) Als Ausgangspunkt für die Umsetzung dieser Anregung kamen für den Fachmann sowohl das in NK2 als auch das in NK3 offenbarte Bauelement in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>NK2 mag für den mit der Aufgabenstellung des Streitpatents betrauten Fachmann von besonderem Interesse gewesen sein, weil dort bereits ein Opto-Bauelement offenbart ist. Andererseits konnte der Fachmann aus NK2 keine näheren Informationen zur Funktion und zu den Vor- und Nachteilen der dort nur als Design beanspruchten Lösung entnehmen. Aus NK3 ergaben sich solche Informationen einschließlich des - durch NK2 bestätigten - Hinweises, dass diese auch für Opto-Bauelemente genutzt werden können. Damit hatte der Fachmann nicht nur Anlass, das in NK2 offenbarte Bauelement im Wesentlichen unverändert zu übernehmen. Vielmehr lag es ebenfalls nahe, die in NK3 offenbarte Lösung als Ausgangspunkt zu nehmen und auf ein Opto-Bauelement zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>(4) Ausgehend von der in NK3 offenbarten Lösung lag es nahe, die dort offenbarte Ausgestaltung der elektrischen Anschlüsse unverändert - also einschließlich des Merkmals 4d - zu übernehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Die elektrischen Anschlüsse der in NK2 und NK3 offenbarten Bauelemente unterscheiden sich im Wesentlichen nur dadurch, dass in NK2 die Übergänge von den schmalen zu den breiten Bereichen - abweichend von Merkmal 4d - nicht an den Seiten des Bauelements, sondern an dessen Boden ausgebildet sind. Weder aus NK2 noch aus NK3 ergaben sich eindeutige Hinweise darauf, welche Vor- und Nachteile sich aus diesem Unterschied ergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen mag für den Fachmann kein Anlass bestanden haben, die in NK2 und NK3 beschriebenen Lösungen gerade in diesem Detailpunkt zu ändern. Daraus und aus dem Umstand, dass für den Fachmann beide Entgegenhaltungen als Ausgangspunkt in Betracht kamen, ergibt sich jedoch, dass für den Fachmann beide Ausgestaltungen nahegelegen haben. Ausgehend von der in NK2 offenbarten Lösung mag Anlass bestanden haben, die Übergänge von den schmalen zu den breiteren Bereichen am Boden des Bauelements zu belassen. Ausgehend von NK3 bestand indes Anlass, die Übergänge an den Seiten des Bauelements anzuordnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>3. Hinsichtlich des Gegenstands von Patentanspruch 7 ergibt sich, wovon auch beide Parteien ausgehen, keine abweichende Beurteilung. Die darin geschützte Vorrichtung ist aus denselben Gründen nicht patentfähig wie das in Patentanspruch 1 geschützte Verfahren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>4. Für den Gegenstand von Patentanspruch 1 in der mit Hilfsantrag 1 verteidigten Fassung gilt nichts anderes.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob die nach diesem Hilfsantrag vorgesehene Ersetzung des Ausdrucks "Grundkörper" durch "massiver Grundkörper" zu einer inhaltlichen Änderung führt. Wie bereits oben dargelegt wurde, kann dem Attribut "massiv" jedenfalls nicht mehr entnommen werden, als dass der Grundkörper hinreichend stabil ausgestaltet sein muss, um seine Funktion zu erfüllen. Diese Eigenschaft ist auch in NK3 offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>5. Der Gegenstand von Patentanspruch 1 in der Fassung des angefochtenen Urteils erweist sich auf der Grundlage der hierfür heranzuziehenden Entgegenhaltungen hingegen als patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>a) Zu Recht ist das Patentgericht zu dem Ergebnis gelangt, dass der nach dieser Fassung vorgesehene Einsatz von thermoplastischem Material zur Herstellung des Grundkörpers dem Fachmann durch die in erster Instanz zu beurteilenden Entgegenhaltungen nicht nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>aa) Von diesen Entgegenhaltungen enthält nur NK8 nähere Hinweise auf das eingesetzte Material.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>In NK8 wird der Grundkörper aus Epoxidharz hergestellt. Dies ist nach den nicht angefochtenen Feststellungen des Patentgerichts ein duroplastisches Material. Damit fehlt es an einer Anregung zum Einsatz eines thermoplastischen Materials.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Dass in NK8 der Innenraum, in dem die Leuchtdiode angeordnet ist, mit einem thermoplastischen Material, nämlich Acrylharz ausgefüllt wird, führt entgegen der Auffassung der Klägerin nicht zu einer abweichenden Beurteilung. Der Umstand, dass für die beiden Bestandteile des Opto-Bauteils Materialien mit unterschiedlichen Eigenschaften zum Einsatz kommen, spricht sogar eher dagegen, dass diese Materialien beliebig austauschbar sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Klägerin ist der Einsatz von thermoplastischem anstelle von duroplastischem Material nicht schon deshalb nahegelegt, weil es nur diese beiden Arten von Kunststoffen gibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Wie auch die Klägerin nicht in Zweifel zieht, sind thermoplastische und duroplastische Materialien nicht beliebig austauschbar. Ob sie für einen bestimmten Einsatzzweck geeignet sind, hängt vielmehr davon ab, welche Materialeigenschaften im konkreten Zusammenhang erforderlich sind. Mithin bedarf es für den Fachmann einer Anregung, um den Grundkörper des nach dem geschützten Verfahren hergestellten Bauelements aus thermoplastischem Material anzufertigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>Aus den in zweiter Instanz ergänzend vorgelegten Unterlagen zum allgemeinen Fachwissen (SB1 bis SB3) ergeben sich keine weitergehenden Erkenntnisse. Dort werden nur allgemeine Eigenschaften bestimmter Kunststoffe beschrieben, nicht aber deren Eignung zur Herstellung eines Grundkörpers für ein Opto-Bauelement.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Klägerin führt der Umstand, dass die Grundkörper in NK8 durch Gießen und in NK9 durch Spritzgießen hergestellt werden, ebenfalls nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Wie auch die Klägerin nicht in Zweifel zieht, können auch duroplastische Materialien durch Spritzgießen verarbeitet werden. Dass Spritzgießen von thermoplastischem Material in der Regel kostengünstiger ist, gibt allenfalls dann Anlass, diese Alternative in Betracht zu ziehen, wenn zu erwarten ist, dass dieses Material für den konkreten Einsatzzweck geeignet ist. Diesbezügliche Hinweise ergeben sich aus NK8 und NK9 aus den bereits genannten Gründen nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>b) Die in zweiter Instanz ergänzend vorgelegten US-Patentschriften 4 781 960 (SB4) und 4 032 963 (SB5) sind gemäß § 117 PatG und § 531 Abs. 2 ZPO nicht zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>aa) Entgegen der Auffassung der Klägerin stellen die beiden Entgegenhaltungen und das darauf bezogene Vorbringen der Klägerin nicht lediglich eine Vertiefung und Konkretisierung des erstinstanzlichen Vortrags dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>In erster Instanz hat die Klägerin im Wesentlichen geltend gemacht, für den Fachmann habe sich schon aufgrund seines allgemeinen Fachwissens über die Eigenschaften von thermoplastischen und duroplastischen Kunststoffen eine Anregung zum Einsatz vom thermoplastischem Material ergeben. Mit ihrem auf SB4 und SB5 bezogenen Vortrag macht sie hingegen geltend, thermoplastische Kunststoffe seien im Stand der Technik bereits für den hier in Rede stehenden Zweck eingesetzt worden. Damit zeigt sie einen neuen Gesichtspunkt auf (vgl. BGH, Urteil vom 28. August 2012 - X ZR 99/11, BGHZ 194, 290 Rn. 36 = GRUR 2012, 1236 - Fahrzeugwechselstromgenerator).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>bb) Die Klägerin hatte bereits in erster Instanz Anlass, Entgegenhaltungen vorzulegen, aus denen sich eine Anregung zum Einsatz eines thermoplastischen Materials für die Herstellung eines Grundkörpers im Sinne von Merkmal 2 [B] ergab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>Aus dem gemäß § 83 Abs. 1 PatG erteilten Hinweis des Patentgerichts, wonach unter anderem das in Patentanspruch 6 vorgesehene Merkmal - die Herstellung des Grundkörpers aus thermoplastischem Material - aus den vorgelegten Dokumenten nicht bekannt sein dürfte, ergab sich für die Klägerin, dass das Patentgericht den Gegenstand dieses Anspruchs jedenfalls als potentiell patentfähig ansah. Die Klägerin war deshalb zu ergänzendem Vortrag innerhalb der gesetzten Frist gehalten. Sie hat auch reagiert und unter Vorlage der Entgegenhaltungen NK8 bis NK10 ergänzend vorgetragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hätte bei sorgfältiger Prozessführung erkennen können und müssen, dass dieser Vortrag für die Verneinung der Patentfähigkeit nicht ausreichend war. Aus dem Hinweis des Patentgerichts ergab sich zwar nicht im Einzelnen, welche Gesichtspunkte insoweit von Bedeutung sein könnten. Diesbezügliche Hinweise waren aber auch nicht veranlasst, weil es Aufgabe der Klägerin ist, die Gründe aufzuzeigen, aus denen die Patentfähigkeit zu verneinen ist. Aus dem erteilten Hinweis, das in Rede stehende Merkmal sei aus den vorgelegten Entgegenhaltungen "nicht bekannt", musste die Klägerin zudem entnehmen, dass ihr Begehren nur dann Aussicht auf Erfolg haben würde, wenn sie Entgegenhaltungen aufzeigt, in denen der Einsatz von thermoplastischem Material für den in Rede stehenden Zweck offenbart ist oder die zumindest eine konkrete Anregung hierfür enthalten. Dass sie bei einer hierauf gerichteten sorgfältigen Recherche die Entgegenhaltungen SB4 und 5 nicht hätte auffinden können, legt die Klägerin nicht dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung ergibt sich aus § 121 Abs. 2 PatG sowie § 92 Abs. 1 und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>Abweichend von der Einschätzung des Patentgerichts vermag der Senat nicht zu erkennen, dass eine der beiden Parteien zu einem überwiegenden Teil obsiegt hat. Ein überwiegendes Obsiegen der Klägerin kann nicht schon daraus hergeleitet werden, dass die Beklagte nur mit ihrem zweiten Hilfsantrag erfolgreich war. Maßgeblich ist vielmehr, in welchem Umfang der Gegenstand des Streitpatents durch die teilweise Nichtigerklärung eingeschränkt worden ist. Insoweit vermag der Senat kein Überwiegen zugunsten der einen oder anderen Partei zu erkennen. Deshalb erscheint es angemessen, die Kosten für beide Instanzen gegeneinander aufzuheben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                           Bacher                           Grabinski</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                      Hoffmann                       Deichfuß</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304952016&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

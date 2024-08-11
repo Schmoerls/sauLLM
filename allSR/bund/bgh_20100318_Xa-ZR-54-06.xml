@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE317922010</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10a. Zivilsenat</spruchkoerper>
+   <entsch-datum>20100318</entsch-datum>
+   <aktenzeichen>Xa ZR 54/06</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 84 EuPatÜbk, Art 2 § 6 Abs 3 IntPatÜbkG</norm>
+   <vorinstanz>vorgehend BPatG München , 27. Januar 2006, Az: 2 Ni 30/05 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Anforderungen an die Formulierung beschränkter Patentansprüche  - Proxyserversystem</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Proxyserversystem</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Ein europäisches Patent kann im Nichtigkeitsverfahren nicht mit Patentansprüchen beschränkt verteidigt werden, die dem Erfordernis einer deutlichen (klaren) und knappen Anspruchsfassung nicht genügen .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 27. Januar 2006 verkündete Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des am 3. April 1997 unter Inanspruchnahme der Priorität einer Voranmeldung in den Vereinigten Staaten von Amerika vom 10. April 1996 angemeldeten, auch mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 892 947 (Streitpatents), das ein Proxyserversystem zur Verbesserung der Funktionalität von auf Internetsysteme zugreifenden Rechnern betrifft und 13 Patentansprüche umfasst. Patentanspruch 1, dem die Patentansprüche 2, 7, 8, 11 und 13 nebengeordnet sind, lautet in der Verfahrenssprache Englisch:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A computing system comprising: a field computer (13) comprising a display having a specific size and resolution; and a Proxy-Server (19) connected to the field computer by a data link (15), the Proxy-Server (19) having an Internet port (37); wherein the Proxy-Server (19) is adapted to access Internet servers (23) through the Internet port (37) directed by commands and data received from the field computer (13), to download data from the Internet servers (23) thus accessed, to transpose the downloaded data by reducing information density, and to transfer the transposed data to the field computer (13) via the data link in a TCP/IP format, characterised in that the Proxy-Server (19) downloads data comprising WEB pages and transposes the data to match the specific size and resolution of the display of the field computer (13)."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>In der deutschen Übersetzung der Streitpatentschrift lautet dieser Patentanspruch wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Rechensystem mit: einem Anwendercomputer (13) mit einer Anzeige mit einer speziellen Größe und Auflösung; und einem Proxyserver (19), der mit dem Anwendercomputer durch eine Datenübertragungsstrecke (15) verbunden ist, wobei der Proxyserver einen Internetanschluss (37) aufweist; wobei der Proxyserver (19) dazu ausgelegt ist, über den Internetanschluss (37) auf Internetserver (23) zuzugreifen, wobei er durch Befehle und Daten, die vom Anwendercomputer (13) empfangen werden, angewiesen wird, Daten von den Internetservern (23), auf die so zugegriffen wird, herunterzuladen, die heruntergeladenen Daten durch Verringern der Informationsdichte umzusetzen und die umgesetzten Daten über die Datenübertragungsstrecke in einem TCP/IP-Format zum Anwendercomputer (13) zu übertragen, dadurch gekennzeichnet, dass der Proxyserver (19) Daten, umfassend WEB-Seiten, herunterlädt und die Daten umsetzt, um sie an die spezielle Größe und Auflösung der Anzeige des Anwendercomputers (13) anzupassen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen haben, gestützt auf den Nichtigkeitsgrund der mangelnden Patentfähigkeit, die vollständige Nichtigerklärung des Streitpatents beantragt. Die Klägerin zu 2 hat weiter den Nichtigkeitsgrund der mangelnden ausführbaren Offenbarung geltend gemacht. Dabei haben sich die Klägerinnen auf verschiedene Entgegenhaltungen bezogen, deren Vorveröffentlichung teilweise umstritten ist, darunter insbesondere die bereits im Erteilungsverfahren berücksichtigte, in der Beschreibung des Streitpatents abgehandelte und nach übereinstimmender Angabe aller Parteien vorveröffentlichte Internetveröffentlichung "GloMop: Global Mobile Computing by Proxy", Universität Berkeley, 13.9.1995 (Anlage D1/LNK2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent unter Verneinung des Nichtigkeitsgrunds der mangelnden Ausführbarkeit wegen mangelnder Patentfähigkeit seines Gegenstands in vollem Umfang für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Gegen die Entscheidung des Patentgerichts richtet sich die Berufung der beklagten Patentinhaberin, die das Streitpatent in der Berufungsinstanz nur eingeschränkt verteidigt, insoweit die Abweisung der Klage begehrt und das Streitpatent auch mit zwei Hilfsanträgen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 1 lautet in seiner hauptsächlich verteidigten Fassung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Rechensystem mit: einem Anwendercomputer (13) mit einer Anzeige mit einer speziellen Größe und Auflösung; und einem Proxyserver (19), der mit dem Anwendercomputer durch eine Datenübertragungsstrecke (15) verbunden ist, wobei der Proxyserver einen Internetanschluss (37) aufweist; wobei der Proxyserver (19) dazu ausgelegt ist, über den Internetanschluss (37) auf Internetserver (23) zuzugreifen, wobei er durch Befehle und Daten, die vom Anwendercomputer (13) empfangen werden, angewiesen wird, Daten von den Internetservern (23), auf die so zugegriffen wird, herunterzuladen, die heruntergeladenen Daten durch Verringern der Informationsdichte umzusetzen und die umgesetzten Daten über die Datenübertragungsstrecke in einem TCP/IP-Format zum Anwendercomputer (13) zu übertragen, dadurch gekennzeichnet, dass der Anwendercomputer (13) bei der Verbindung zum Proxyserver (19) eine für die spezielle Größe und Auflösung der Anzeige des Anwendercomputers (13) spezielle Information überträgt, und wobei der Proxyserver (19) die Information beim Umsetzen der Daten, umfassend WEB-Seiten, zur Übertragung zum Anwendercomputer (13) integriert, um die Daten an die spezielle Größe und Auflösung der Anzeige des Anwendercomputers (13) anzupassen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Patentansprüche 2, 8, 12 und 13 sollen demnach entfallen, Patentansprüche 3 bis 6 sollen sich mit entsprechend geänderter Rückbeziehung anschließen. Patentanspruch 7, an den sich die bisherigen Patentansprüche 9 und 10 unter angepasster Rückbeziehung anschließen sollen, soll - nunmehr als Patentanspruch 6 - wie folgt lauten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"6. Internet-Proxyserver (19) mit: einem ersten Datenanschluss (37), der zum Zugreifen auf andere Internetserver ausgelegt ist; und einem zweiten Datenanschluss (35), der zum Verbinden mit einem Anwendercomputer (13) ausgelegt ist; wobei der Proxyserver (19) dazu ausgelegt ist, über den ersten Datenanschluss (37) auf die anderen Internetserver (23) zuzugreifen, wobei er durch Befehle und Daten, die über den zweiten Datenanschluss (35) vom Anwendercomputer (13) empfangen werden, angewiesen wird, Daten von den Internetservern (23), auf die so zugegriffen wird, herunterzuladen, die heruntergeladenen Daten durch Verringern der Informationsdichte umzusetzen und die umgesetzten Daten über die erste Datenübertragungsstrecke in einem TCP/IP-Format zum Anwendercomputer zu übertragen, dadurch gekennzeichnet, dass der Proxyserver (19) dazu ausgelegt ist, eine für die spezielle Größe und Auflösung der Anzeige eines am zweiten Datenanschluss (35) angeschlossenen Anwendercomputers (13) spezielle Information anzunehmen, und wobei der Proxyserver (19) die angenommene Information beim Umsetzen der Daten, umfassend WEB-Seiten, zur Übertragung zum Anwendercomputer (13) integriert, um die Daten an die spezielle Größe und Auflösung einer Anzeige des Anwendercomputers (13) anzupassen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Patentanspruch 11 soll als Patentanspruch 9 folgende Fassung erhalten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"9. Verfahren zur Anpassung von Internetdateien für einen Anwendercomputer (13) mit den Schritten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(a) Herunterladen von Dateien vom Internet auf einen Proxyserver (19);</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(b) Umsetzen der Dateien durch Durchführen einer Informationsdichteverringerung;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">(c) Übertragen der umgesetzten Dateien über eine Datenübertragungsstrecke (15), die den Anwendercomputer (13) mit dem Proxyserver (19) verbindet, zum Anwendercomputer (13),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">dadurch gekennzeichnet, dass in Schritt (b) eine für den angeschlossenen Anwendercomputer (13) spezifische Information über die Größe und Auflösung der Anzeige des Anwendercomputers (13), die vom Anwendercomputer über die Datenübertragungsstrecke, die den Anwendercomputer mit dem Proxyserver verbindet, zum Proxyserver (19) übertragen wird, beim Umsetzen der Dateien verwendet wird, um die Daten an die spezielle Größe und Auflösung der Anzeige des Anwendercomputers (13) anzupassen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Nach Hilfsantrag I soll in den Patentansprüchen 1, 6 und 9 jeweils am Ende eingefügt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"wobei HTML- und Bilddaten durch den Proxyserver (19) zu einer einzelnen Datei neu kombiniert werden."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Nach Hilfsantrag II soll in denselben Patentansprüchen zusätzlich angefügt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"und wobei der Proxyserver (19) die Daten vor der Übertragung zum Anwendercomputer (13) in ein einfacheres Datenübertragungsprotokoll auf der Basis von HTTP umsetzt."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Klägerinnen treten dem Rechtsmittel entgegen und verteidigen das erstinstanzliche Urteil auch gegenüber der eingeschränkten Verteidigung des Streitpatents.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Im Auftrag des Senats hat Professor Dr. W. N., Universität H., Institut für verteilte Systeme, ein schriftliches Gutachten erstattet, das er in der mündlichen Verhandlung erläutert und ergänzt hat. Die Klägerin zu 2 hat ein Parteigutachten von Prof. Dr. S. F., Universität L., eingereicht, die Beklagte ein Parteigutachten von Prof. Dr. W. R., Universität T.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung der beklagten Patentinhaberin bleibt ohne Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft in seiner noch verteidigten Fassung ein Rechensystem mit Anwendercomputer und mit diesem verbundenen Proxyserver, einen Internet-Proxyserver (d.h. eine Kommunikationsschnittstelle) und ein Verfahren zur Anpassung von Internetdateien für einen Anwendercomputer. Das System soll vor allem für kleine, tragbare Computer (darunter Organizer und persönliche digitale Assistenten [PDA]) von Bedeutung sein, die den Zugriff auf das World Wide Web ermöglichen. Hierzu gibt die Beschreibung des Streitpatents ein Rechensystem mit einem Anwendercomputer, der über eine Anzeige spezieller Größe und Auflösung verfügt, und mit einem mit dem Anwendercomputer über eine Datenübertragungsstrecke verbundenen Proxyserver als etwa aus "GloMop: Global Mobile Computing by Proxy" (1995; D1) bekannt an. Der Proxyserver weist einen Internetanschluss auf, der auf Internetserver zugreift und aufgrund von Befehlen des Anwendercomputers Daten vom Internetserver herunterlädt. Die Daten werden durch Verringern der Informationsdichte umgesetzt und über die Datenübertragungsstrecke mittels eines Internetprotokolls zum Anwendercomputer übertragen (Beschr. Sp. 2 Abs. 11).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent enthält keine explizite Angabe zu dem von ihm zu lösenden technischen Problem. Es sollen jedoch für kleine batteriebetriebene tragbare Computer oder Taschencomputer (Handhelds) anspruchsvolle Anwendungen wie Web-Browsen ermöglicht werden, ohne dass durch hohe Prozessorbelastung die Batterien zu schnell entladen oder deswegen besonders schwere Batterien (Akkumulatoren) benötigt werden (vgl. Beschr. Sp. 2 Abs. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Erfindungsgemäß sollen hierzu die heruntergeladenen Daten, die Web-Seiten (WEB Pages) umfassen, vom Proxyserver umgesetzt (transposed) werden, um sie an die spezielle Größe und Auflösung (der Anzeige des Bildschirms oder Displays) des Anwendercomputers anzupassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>In seiner verteidigten Fassung (Merkmal 3.4 nach Hilfsantrag I unterstrichen) soll Patentanspruch 1 ein Rechnersystem schützen mit</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. einem Anwendercomputer (field computer) mit einer Anzeige einer spezifischen</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 Größe und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 Auflösung,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. einem Proxyserver, der</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 mit dem Anwendercomputer durch eine Datenübertragungsstrecke verbunden ist,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 einen Internetanschluss aufweist und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3 dazu ausgelegt ist, über den Internetanschluss auf Internetserver zuzugreifen;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. der Proxyserver wird durch vom Anwendercomputer empfangene Befehle und Daten angewiesen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.1 Web-Seiten umfassende Daten von den Internetservern herunterzuladen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.2 die Daten durch Verringern der Informationsdichte umzusetzen und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.3 die umgesetzten Daten (über die Datenübertragungsstrecke) in einem TCP/IP-Format zum Anwendercomputer zu übertragen,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3.4 <span style="text-decoration:underline">wobei HTML- und Bilddaten durch den Proxyserver zu einer einzigen Datei neu kombiniert werden;</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. dabei wird eine auf die spezifische Größe und Auflösung der Anzeige abgestimmte Information</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.1 vom Anwendercomputer zum Proxyserver übertragen und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4.2 vom Proxyserver beim Umsetzen der Daten integriert, um diese an Größe und Auflösung der Anzeige anzupassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Die vom Proxyserver zum Anwendercomputer zu übertragenden Daten sollen mithin an Format und Auflösungsvermögen der Anzeige des Anwendercomputers angepasst sein. Demnach formatiert der Proxyserver die aus dem Internet heruntergeladenen Daten (wie Web-Seiten) entsprechend den Vorgaben (Einschränkungen) des Anwendercomputers. Dadurch entfällt ein Großteil des Rechen- und Formatierungsaufwands auf dem Anwendercomputer und es wird auch die Übertragungszeit verringert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Nach Hilfsantrag I sollen die Text-/HTML-Daten und die Bilddaten durch den Proxyserver zu einer Datei neu kombiniert werden, wobei nach Hilfsantrag II der Proxyserver vor der Übertragung zum Anwendercomputer die Daten in ein einfacheres Datenübertragungsprotokoll auf der Basis von HTTP (Hypertext Transfer Protocol) übersetzen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat die Nichtigerklärung des Streitpatents (wobei seiner Beurteilung dessen erteilte Fassung zugrunde lag) im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Zwar sei die Lehre des Streitpatents wie auch die Lehre der Patentansprüche gemäß den beiden Hilfsanträgen in der Patentschrift so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen könne. Der jeweilige Gegenstand der Patentansprüche in den verteidigten Fassungen sei aber entweder nicht neu oder er beruhe nicht auf erfinderischer Tätigkeit. Für den Fachmann, als den das Patentgericht einen EDV-Systementwickler mit sehr guten Kenntnissen über Netzwerk-Software angesehen hat, der einen Hochschul- oder Fachhochschulabschluss im Bereich der angewandten Datenverarbeitung besitzt, habe der grundlegende und auch im Streitpatent als bekannt bezeichnete Lösungsgedanke darin bestanden, zwischen den Anwendercomputer und das Internet einen Proxyserver zu schalten, der die Anfragen des Anwendercomputers ins Internet weiterleite und die eintreffenden Antworten so aufbereite, dass der Anwendercomputer sie mit geringerem Rechenaufwand weiterverarbeiten, insbesondere darstellen könne. Dieses allgemeine Lösungsprinzip werde vom Streitpatent durch spezifische Details weitergebildet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Die Veröffentlichung "GloMop" (D1/LNK2) beschreibe ein Rechensystem mit einem Anwendercomputer ("client") mit einer Anzeige einer speziellen Größe und Auflösung und mit einem Proxyserver ("proxy"), der mit dem Anwendercomputer durch eine Datenübertragungsstrecke verbunden sei und einen Internetanschluss aufweise. Weiterhin sei der Proxyserver dazu ausgelegt, über den Internetanschluss auf Internetserver zuzugreifen, wobei er durch vom Anwendercomputer empfangene Befehle und Daten angewiesen werde, Daten von den Internetservern herunterzuladen, diese Daten durch Verringern der Informationsdichte umzusetzen und die umgesetzten Daten über die Datenübertragungsstrecke in einem TCP/IP-Format zum Anwendercomputer zu übertragen. Darüber hinaus seien der Veröffentlichung aber auch konkrete Möglichkeiten zu entnehmen, wie der Proxyserver die Internetdaten (beispielsweise Web-Seiten) vor der Übertragung umsetzen könne. Für Bilder bestehe die Möglichkeit, die Farbpalette oder die Fläche, also die Größe, zu reduzieren. Zur Anzeige auf einem Sony Magic-Link PDA werde ein GIF (Graphics Interchange Format)-Bild mit 8-Bit-Farbtiefe und voller VGA (Video Graphics Array)-Bildschirmgröße umgesetzt auf Vorschaubild (Thumbnail)-Größe mit vier Graustufen, wobei eine optimale Quantisierung bezüglich der statischen Graustufentafel des persönlichen digitalen Assistenten (PDA) vorgenommen werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Es sei bekannt gewesen, dass der Bildschirm des Sony MagicLink PDA keine Farbe, aber 16 Graustufen habe anzeigen können. Für den Fachmann sei offensichtlich, dass eine Anpassung an die speziellen Eigenschaften der Anzeige des Anwendercomputers angeregt werde. Es verstehe sich für ihn von selbst, zunächst die Eigenschaften zu reduzieren, die nicht nutzbar seien (in diesem Fall die Farbe) oder wenig Auswirkung hätten (zu große, nicht darstellbare Fläche), was nur unter Berücksichtigung der jeweiligen speziellen Eigenschaften der Anzeige (Farbfähigkeit, Größe oder Auflösung) sinnvoll beurteilt werden könne. Weiter beschreibe die Entgegenhaltung, dass der Anwendercomputer beim Herstellen der Verbindung zum Proxyserver eine Liste mit Datentypen übertrage, die entgegenzunehmen er imstande sei. Unter "Datentypen" verstehe der Fachmann die verschiedenen Dokumentenarten wie Textdatei, Bild, Tondatei, Videoclip; aber auch HTML-Datei unter anderem. Welche Untermenge der im Internet vorkommenden Dokumentenarten ein Anwendercomputer verarbeiten könne, sei eine spezifische Eigenschaft des Anwendercomputers. Wie die "spezielle Information" darüber aussehen solle, werde durch das Streitpatent nicht festgelegt. Der Fachmann werde daher auch unter der "Liste der Datentypen" nichts anderes als die "spezielle Information" verstehen. Dass der Proxyserver diese Information beim Umsetzen "integriere", verstehe sich von selbst. Zwar möge dies nur in einem "Weglassen" der nicht verarbeitbaren Dokumentenarten bestehen, aber auch das sei eine Art der Integration der vom Anwendercomputer übertragenen Information in die Datenumsetzung. Unabhängig hiervon liege es für den Fachmann jedoch auch nahe, eine andere für den Anwendercomputer spezifische Information, die für das Umsetzen von Bedeutung sei, zum Proxyserver zu übertragen. Gerade das Beispiel der an einen nur graustufenfähigen Bildschirm anzupassenden Farbbilddateien rege den Fachmann an, über die Liste mit Datentypen hinaus eine solche die Anzeigeeigenschaften des Anwendercomputers betreffende Information zu übertragen, um sie dann beim Umsetzen zu "integrieren".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Durch die Entgegenhaltung nahegelegt sei auch die (jetzt in Hilfsantrag I aufgenommene) zusätzliche Maßnahme, Internetseiten mit mehreren Seiten durch den Proxyserver zu Seiten mit einer einzelnen Datei neu zu kombinieren. Eine einzelne Datei liege aus Sicht des Fachmanns auch dann vor, wenn mehrere Dateien direkt nacheinander abgespeichert oder ohne Trennung übertragen würden. Der Veröffentlichung sei zu entnehmen, dass jede einzelne HTTP-Anforderung zum Auf- und Abbau eines TCP-Datenstroms führe, der einen erheblichen Overhead zur Folge habe. Für den Fachmann liege es daher nahe, diesen Hinweis aufzugreifen und per TCP/IP nicht viele Dateien zu übertragen, sondern im Idealfall nur eine. Da der Proxyserver ohnehin für eine Umsetzung der Internetdateien vorgesehen sei, liege es auf der Hand, diese so durchzuführen, dass nur eine Datei entstehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat weiter angenommen, dass sich auch der Gegenstand der weiteren selbstständigen Patentansprüche in naheliegender Weise aus der Veröffentlichung "GloMop" ergebe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>III. Dies greift die Berufung an: Das Streitpatent habe eine genial einfache Lösung für das Problem der Datenübertragung zu mobilen Endgeräten vorgeschlagen, die darin bestehe, den Anwendercomputer ohne Zutun des Nutzers bei der Verbindung zum Proxyserver eine spezielle Information übertragen zu lassen und den Proxyserver auf Grund dieser Information wiederum ohne Zutun des Nutzers die aus dem Internet geladenen Daten an die spezielle Größe und Auflösung des Bildschirms des Anwendercomputers anpassen zu lassen; hierdurch könnten eine Vielzahl von Anwendercomputern unterschiedlicher Auslegung von ein und demselben Proxyserver individuell angepasst bedient werden. Die als Destillation bezeichnete Umsetzung der vom Proxyserver geladenen Web-Seiten in der Entgegenhaltung D1 erfolge nicht geräte-, sondern dateitypspezifisch. Soweit Dienstgüteparameter berücksichtigt würden, beträfen sie die Dienstgüte der Verbindung zwischen Proxyserver und Anwendungscomputer, nicht aber Eigenschaften des Anwendungscomputers, die auch nicht an den Proxyserver übertragen würden. Die Erfindung nach Hilfsantrag II breche radikal mit den zum Prioritätszeitpunkt als unumstößlich betrachteten Regeln der Kommunikation von Internetdaten mit Hilfe des HTTP-Protokolls.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>IV. Damit kann die Berufung nicht durchdringen. Mit dem Patentgericht sieht der Senat den ausführbar offenbarten Gegenstand des Patentanspruchs 1 des Streitpatents auch in seiner durch die ursprüngliche Offenbarung und das erteilte Patent gedeckten, in erster Linie verteidigten Fassung zwar als neu an; dieser Gegenstand ergab sich aber in naheliegender Weise aus dem Stand der Technik (Art. 56 EPÜ).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>a) In der Internetveröffentlichung "GloMop: Global Mobile Computing by Proxy", Universität Berkeley, 13.9.1995, (Anlage D1/LNK2), deren Vorveröffentlichung außer Zweifel steht, wird beschrieben, dass es verschiedene Lösungen für die Verbindung mobiler Geräte mit dem "Rest der Welt" ("for connecting mobile devices to the rest of the world") gebe, die jedoch durchwegs unter geringer Bandbreite und zu hohen Latenzzeiten litten. Die für den Zugriff auf das Internet auch bei Mobilgeräten verwendeten Protokolle (TCP/IP) widmeten dem Bandbreitenproblem keine besondere Aufmerksamkeit, beispielsweise sei jede HTTP-Anforderung mit dem Auf- und Abbau eines neuen TCP-Datenstroms verbunden, dessen erhebliche Kopfdaten (Overhead) sich nicht "amortisierten", und jedes über HTTP angeforderte Dokument werde in Quellform übermittelt, obwohl das anfordernde Gerät nicht die Ressourcen zur Darstellung haben möge (mangels Speichers, mangels Rechenleistung oder wegen eines kleinen Bildschirms). Daraus ergebe sich, dass das Arbeiten im Internet mühsam sein könne ("As a result, Web surfing is extremely painful at 14.4 Kbits/sec", Seite 2, Ende des Absatzes nach der Tabelle 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Nach dem GloMop-Modell soll der "Client" (d.h. der mobile Rechner) statt unmittelbar mit einem Internetserver mit einem Proxyserver verbunden werden, der seinerseits über eine Internetverbindung hoher Bandbreite verfügt. Der Proxyserver soll zwei Schlüsseldienstleistungen erbringen, die im Eingang der Seite 3 als Destillation ("distillation") und inkrementelle Wiederverfeinerung ("incremental refinement") bezeichnet werden. Die Destillation wird zusammenfassend als verlustbehaftete semantische Kompression ("semantic lossy compression") charakterisiert, Wiederverfeinerung dahin erläutert, dass der Nutzer selektiv die Wiederherstellung von Teilen des vom Proxyserver zwischengespeicherten Originaldokuments (der Originaldatei, siehe die Definition des Dokuments in Abschnitt 3.3, erster Absatz) anfordern könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Im nachfolgenden Unterabschnitt 1.3 wird die Destillation am Beispiel einer Graphikdatei, eines formatierten Texts und eines Videofilms näher erläutert. Dabei heißt es zum ersten Beispiel:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">" <strong>Example: Graphic image</strong> . We can reduce the area or the color palette or both for a large full-color graphic. For example, we reduced an 8-bit-color, full-screen (VGA) GIF image to a thumbnail-sized 4-gray image for display on a Sony MagicLink PDA. In so doing, we reduced the image's size from 503 Kbytes to 560 bytes, and the transmission time (including real-time distillation) from 2000 seconds to 13 seconds at 1200 baud. Furthermore, because our image processing included optimal quantization to the PDA's (static) graymap, the resulting image was much sharper on the PDA screen (and therefore more useful to the human viewer) than the dithered original, so we actually increased the perceived image quality while reducing the size a thousand fold."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dies hat die Klägerin zu 2 wie folgt übersetzt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">" <strong>Beispiel: Graphische Abbildung</strong> – Wir können bei einer größeren Vollfarbgraphik die Fläche oder die Farbpalette oder beides reduzieren. Beispielsweise haben wir eine (VGA) Vollbild-GIF-Grafik mit einer Farbtiefe von 8 Bit zu einem daumennagelgroßen Bild mit 4 Graustufen zur Anzeige auf einem Sony MagicLink PDA reduziert. Dabei haben wir die Größe des Bildes von 502 KByte auf 560 Byte und die Übertragungsdauer (einschließlich Destillation in Echtzeit) von 2.000 Sekunden auf 13 Sekunden bei 1200 Baud verringert. Da unsere Bildverarbeitung die optimale Quantisierung zur Anpassung an das (statische) Graymap-Format des PDA umfasste, war das resultierende Bild auf dem PDA-Bildschirm erheblich schärfer (und damit für den menschlichen Betrachter erheblich nützlicher) als das in ein einfarbiges Bild verwischte Original, so dass wir die wahrgenommene Bildqualität sogar verbessert haben, während wir gleichzeitig die Größe um den Faktor 1000 verringert haben."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Zusammenfassend heißt es:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"In summary, distillation exploits large amounts of computing power on the proxy side to maximize the client’s limited computing and network resources, by performing intelligent semantic compression in a datatype-dependent way."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>In der Übersetzung der Klägerin zu 2:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Zusammenfassend nutzt die Destillation große Mengen an Rechnerleistung auf der Proxy-Seite aus, um die begrenzten Rechner- und Netzressourcen des Client zu maximieren, indem eine intelligente semantische Komprimierung auf eine datentypabhängige Weise durchgeführt wird."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>In Abschnitt 3 werden die GloMop-Funktionen näher beschrieben. Dabei heißt es in Unterabschnitt 3.3 (Document Centric Request Model):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"When the client connects to the proxy, it registers a list of data types it is prepared to accept. Note that since the datatype specific modules reside in the GloMop client layer and not in the individual applications, this single list can apply to all requests regardless of the originating application.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">To request a document, the client passes the proxy a document locator, specifying how the source document may be retrieved, and a set of QOS parameters, specifying which constraints are most important to the client. The proxy retrieves the source document, determines its type, and locates a type-specific module (TSM) consistent with the registered type list to handle the request. The TSM negotiates with the network management layer (NM) to determine how to distill the document for this client given the QOS parameters, which may encode a constraint such as "Deliver the best representation possible while keeping the transmission time under 30 seconds" or "…while keeping the transmission cost under $5.00"."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>In der Übersetzung der Klägerin zu 2:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Wenn sich der Client mit dem Proxy verbindet, meldet er eine Liste von Datentypen an, die er zu empfangen bereit ist. Da die datentypspezifischen Module in der GloMop-Client-Schicht und nicht in den einzelnen Anwendungen angesiedelt sind, kann diese einzige Liste für alle Anforderungen gelten, unabhängig von der Anwendung, aus der sie hervorgehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Um ein Dokument anzufordern, übermittelt der Client dem Proxy einen Dokumenten-Ortsangeber ("Document Locator"), in dem angegeben ist, wie das Quelldokument abgerufen werden kann, und einen Satz von Parametern der Dienstgüte ("Quality of Service, QOS"), mit denen angegeben wird, welche Beschränkungen für den Client am wichtigsten sind. Der Proxy ruft das Quelldokument ab, ermittelt dessen Typ und legt ein typspezifisches Modul (TSM) im Einklang mit der eingetragenen Typenliste fest, welches die Anforderungen bearbeitet. Das TSM stimmt sich mit der Netzwerk-Management-Schicht (NM) ab, um zu ermitteln, wie das Dokument für diesen Client angesichts der QOS-Parameter, in denen eine Einschränkung wie "Bestmögliche Darstellung bei Übertragungszeit unter 30 Sekunden" oder "... bei Übertragungskosten unter $ 5.00" einkodiert sein kann, destilliert werden soll."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Dies entspricht den Merkmalen 1 bis 3.3 des verteidigten Patentanspruchs 1, wovon auch das Streitpatent und die Beklagte ausgehen. Hingegen ist die Merkmalsgruppe 4 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>b) Das Patentgericht hat dies auch nicht angenommen. Es hat lediglich ausgeführt - insoweit in Übereinstimmung mit dem Urteil von Pumfrey J im Verfahren vor dem High Court für England und Wales -, dass die Übermittlung der akzeptierten "Datentypen" vom Client an den Proxyserver die Übermittlung einer für spezifische Eigenschaften des Anwendercomputers charakteristischen Information (im Sinn des Patentanspruchs 2 des erteilten Patents) darstelle, und es im Übrigen für naheliegend erachtet, auch andere spezifische Informationen über den Anwendercomputer, insbesondere solche, die sich unmittelbar oder mittelbar auf Größe und Auflösung seines Bildschirms beziehen, zu übertragen. Dem tritt der Senat im Ergebnis bei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Das Beispiel zur Destillation einer Graphikdatei, das in Abschnitt 1.3 gegeben wird, ist dabei, wie die Beklagte zu Recht geltend macht, zunächst und isoliert betrachtet nur ein Beispiel für den dateibezogenen ("document centric") Destillationsvorgang, das unter Verwendung eines bestimmten persönlichen digitalen Assistenten (PDA) als Anwendercomputer (client) durchgeführt wird. Dass Informationen über dessen Bildschirm übermittelt würden, wovon in der gesamten Veröffentlichung keine Rede ist, ergibt sich daraus nicht. Schon gar nicht ist aus diesem Absatz allein zu erkennen, dass Bildschirmeigenschaften aus der Sicht der D1 zu den Parametern der Dienstgüte (quality of service, QOS) gehören. Mit der Qualität des "Diensts", d.h. der Datenübertragung, haben sie nichts zu tun, sondern sie bestimmen allenfalls mit, welche Dienstgüte für den Anwendercomputer von Interesse ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Das für eine Bilddatei gegebene Beispiel gibt dem Fachmann indessen gleichwohl einen Hinweis auf die geräte- und insbesondere bildschirmspezifischen Bedingungen einer nutzerfreundlichen Darstellung "destillierter" Web-Seiten. Es lehrt zunächst, dass bei der Destillation nur die Größe, nur die Farbpalette oder beides reduziert werden kann ("we can reduce the area or the color palette or both for a large full-color graphic"; D1, Unterabschnitt 1.3, Eingang des zweiten Absatzes). Es wird ferner hervorgehoben, dass bei dem als Beispiel gewählten persönlichen digitalen Assistenten (PDA) durch Anpassung an dessen Grautontabelle ein schärferes Bild erzielt werden konnte ("… because our image processing included optimal quantization to the PDA’s (static) graymap, the resulting image was much sharper on the PDA screen … than the dithered original" D1, ebenda, im letzten Teil des zweiten Absatzes; das von der Klägerin zu 2 mit "verwischt" übersetzte "dithered" bedeutet hier Bildfehlerdiffusion, vor allem bei der Farbreduktion). Dies lenkt schon darauf hin, dass es sinnvoll sein kann, die gerätespezifischen Bedingungen für die Bilddarstellung bei der Umwandlung der Bilddatei durch die Destillation zu berücksichtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Auf die geräte-, insbesondere bildschirmspezifischen Bedingungen wird weiter in Abschnitt 3.3 am Ende eingegangen. Dort heißt es im Zusammenhang mit der Auswahl des Destillationsmodus, dass dieser klientenbezogen und damit gerätespezifisch festgelegt werde ("how to distill the document for this client") und unter Berücksichtigung der Dienstgüteparameter die bestmögliche Darstellung ("the best representation possible") gewährleisten solle. Dies zeigt zum einen, dass es in der Entgegenhaltung nicht lediglich, wie die Beklagte meint, um die Berücksichtigung geringer Bandbreiten für die Datenübertragung und geringer Rechenkapazitäten mobiler Anwendercomputer geht; vielmehr wird die Aufmerksamkeit des Fachmanns auch darauf hingelenkt, die Darstellung einer "destillierten" Datei auf dem Bildschirm solcher Geräte zu optimieren. Zum anderen wird hierbei wiederum deutlich, dass eine solche Optimierung nicht allgemein erfolgen kann, sondern auf einen bestimmten Anwendercomputer bezogen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>In Abschnitt 1.6 wird zudem darauf hingewiesen, dass die Verfasser Geräte der PDA-Klasse von konventionellen Laptops unterschieden, dass aber Anwendungen über die gesamte Breite der Gerätepalette möglich sein sollen ("we wish to enable applications across the entire range of devices"). Dies wird auch auf Seite 2 im zweiten Textabsatz deutlich, wo es heißt, dass mobile Geräte aller Art für ein viel größeres Publikum nutzbar gemacht werden könnten, indem die Geräte von schlechten ("poor") Netzwerken isoliert werden. Auf die individuellen Möglichkeiten des Anwendercomputers wird nochmals am Ende dieses Absatzes abgestellt, wenn dort ausgesagt wird, dass auch dann, wenn das anfordernde Gerät nicht die Möglichkeiten haben möge, das Quelldokument wiederzugeben ("even though the requesting machine may not have the resources to render the source document"), die Dokumente (an den Proxyserver, wie sich aus dem folgenden Absatz ergibt) in Quellform übermittelt werden; als Beispiele für die fehlenden Möglichkeiten werden unter anderem genannt: zu kleiner Speicher ("lack of memory") und kleiner Bildschirm ("a small screen").</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Auch wenn die Entgegenhaltung selbst nicht von dem auf den Dokumententyp fokussierten Ansatz abweicht, wird für den Fachmann vor dem - zudem ausdrücklich angesprochenen - Hintergrund seines Wissens um die Vielgestaltigkeit der Anzeigeeigenschaften mobiler Anwendercomputer aus alledem deutlich, dass die angestrebte bestmögliche Darstellung eines Texts oder Bilds nicht unabhängig von der Größe und dem Auflösungsvermögen des Bildschirms bestimmt werden kann, auf dem die Darstellung erfolgen soll. Daraus ergibt sich jedoch zwangsläufig die Erwägung, etwa bei der Destillation einer Bilddatei zumindest unterschiedliche Kompressionsgrade vorzusehen und dazu beispielsweise eine Mehrzahl von JPEG-spezifischen Modulen anzubieten, zwischen denen der Benutzer wählen kann. Mit der Wahl eines solchen, für seinen Bildschirm geeigneten Moduls übermittelt der Nutzer jedoch eine auf die spezifische Größe und Auflösung der Anzeige seines Geräts abgestimmte Information zum Proxyserver, die sodann von diesem beim Umsetzen der Daten integriert wird, um diese - durch Anwendung der gewünschten Kompressionsrate - an Größe und Auflösung der Anzeige anzupassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Beklagten stand einer solchen Erkenntnis des Fachmanns nicht der von der Entgegenhaltung angebotene Mechanismus der inkrementellen Wiederverfeinerung entgegen. Der Wiederverfeinerungsmechanismus mag es zwar ermöglichen, eine zu klein geratene Darstellung wieder zu vergrößern. Dies ist jedoch nicht seine primäre, ihm von der Entgegenhaltung zugewiesene Funktion. Die inkrementelle Wiederverfeinerung soll vielmehr dazu dienen, nach Art einer Lupenfunktion selektiv bestimmte Bereiche eines Bildes zu vergrößern ("selectively request refinements of portions of the document"), die aufgrund der beschränkten Größe des Bildschirms in der Gesamtdarstellung für den Nutzer nicht hinreichend erkennbar sind. Dem kann nicht entnommen werden, die Entgegenhaltung lehre, jedes Bild zunächst im Wortsinn auf Vorschaubildgröße ("thumbnail") zu verkleinern, um es anschließend wieder auf der Größe des Bildschirms entsprechende Abmessungen zu vergrößern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Patentanspruchs 1 war damit für den Fachmann durch die D1 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>V. Das gilt im Ergebnis auch für den nach Hilfsantrag I verteidigten Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Dessen zusätzliches Merkmal 3.4 nach vorstehender Merkmalsgliederung, nach dem HTML- und Bilddaten durch den Proxyserver zu einer einzigen Datei neu kombiniert werden, ergab sich für den Fachmann ebenfalls in naheliegender Weise aus der Entgegenhaltung GloMop (D1/LNK2) in Verbindung mit den zum Prioritätszeitpunkt bekannten Multipurpose Internet Mail Extensions- (MIME-)Dateien. Dabei geht der Senat zugunsten der beklagten Patentinhaberin davon aus, dass die einzige Datei jedenfalls in Form eines Mantels vorliegen muss und dass es nicht ausreicht, wenn mehrere Dateien unmittelbar aufeinanderfolgend übertragen werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>GloMop weist auf Seite 2 auf den mit jeder HTTP-Anforderung verbundenen "setup and teardown of a new TCP stream" hin; in Unterabschnitt 3.2 wird dieser Gesichtspunkt nochmals angesprochen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"… associating a separate reliable stream connection with each virtual connection (e.g. one TCP connection per HTTP request) exacts a high price in performance and data overhead."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>In der deutschen Übersetzung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"… dass die Verknüpfung einer zuverlässigen separaten Datenstromverbindung mit jeder virtuellen Verbindung (zum Beispiel eine TCP-Verbindung für jede HTTP-Anforderung) einen hohen Preis hinsichtlich Leistung und Daten-Overhead fordert."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Das Augenmerk des Fachmanns wird damit unmittelbar auf die Frage gelenkt, ob sich die Verwaltungsdaten (der "Overhead") auf dem Übertragungsweg vom Proxyserver zum Anwendercomputer verringern lassen. Dies ließ sich, wie die in der D1 in Bezug genommene (Literaturliste Nr. 13) vorveröffentlichte Abhandlung von Padmanabhan, "Improving World Wide Web Latency" (auszugsweise LNK66) zeigt, etwa dadurch ermöglichen, dass HTTP um einen "GETALL"-Befehl ergänzt wurde, mit dem der Internetserver angewiesen wird, ein HTML-Dokument mit allen auf diesem Server abgelegten eingeschlossenen Bilddateien zu übermitteln. Dafür, einen solchen Weg zu gehen, sprach, wie die Klägerinnen zu Recht geltend machen, schon der Gesichtspunkt, dass bei Einschaltung eines Proxyservers dieser "verstreut" aufgefundene Dateien wie auf einer Internetseite "verlinkte" Bilddateien bereits gesammelt hat, so dass eine getrennte Übertragung zum Anwendercomputer (client) eher fern lag. Schließlich spricht GloMop selbst in Unterabschnitt 3.2, davon, dass virtuelle Verbindungen auf die verlässlichen Ströme gemultiplext, d.h. gebündelt und gemeinsam übertragen werden ("multiplexing virtual connections onto the reliable streams" (letzter Absatz).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Mit Blick auf die Übertragungsfunktion stellte es jedoch, wie der gerichtliche Sachverständige überzeugend ausgeführt hat, für den Fachmann gleichwertige und ohne weiteres austauschbare Wege dar, entweder eine Mehrzahl von Dateien gemeinsam zu übertragen oder aber sie in einer einzigen, mit einem entsprechenden "Inhaltsverzeichnis" versehenen Datei zusammenzufassen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Zudem bot das in GloMop mehrfach erwähnte (Unterabschnitte 1.4, 1.6, 3.4) und in der Literaturliste unter Nr. 3 in Bezug genommene MIME-Format mit der Funktion "MIME multipart" (s. dazu RFC 1872 von Dezember 1995) eine Möglichkeit zur Zusammenfassung mehrerer Dateien; aus fachmännischer Sicht stellte dies eine hinreichende Anregung dar, sich dieser oder einer anderen Möglichkeit zur Verringerung des mit einer Einzelübertragung von Dateien verbundenen Anfalls von Verwaltungsdaten ("Overhead") zu bedienen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Für die nebengeordneten verteidigten Patentansprüche 6 und 9 gelten dieselben Überlegungen sinngemäß.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>VI. Mit Hilfsantrag II kann die Beklagte das Streitpatent nicht in zulässiger Weise verteidigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Das zusätzliche Merkmal, wonach der Proxyserver die Daten vor der Übertragung "in ein einfacheres Datenübertragungsprotokoll auf der Basis von HTTP umsetzt", ist weder klar noch in der ursprünglichen Offenbarung enthalten. Dies steht seiner nachträglichen Aufnahme entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>In Abschnitt 46 der Beschreibung und im weiteren ist davon die Rede, dass HTML-Dateien zu einer einzigen HT-Lite-Datei zusammengefasst und von einem "HT-Lite NanoBrowser" dargestellt werden. Dabei wird nicht erwähnt, dass es sich bei dem vom Erfinder als HT-Lite bezeichneten Protokoll ("the protocol the inventor terms HT-Lite") um ein Datenübertragungsprotokoll auf der Basis von HTTP handeln soll (was nach der Berufungsbegründung zudem "eine radikale Abkehr von der Kommunikation von Internetdaten unter dem HTTP-Protokoll darstellen" soll). Unklar bleibt dabei zudem, was "auf der Basis von http" heißen soll. Was das einfachere an dem erfindungsgemäßen Protokoll sein soll, wird nicht erläutert. Damit genügt der mit Hilfsantrag II verteidigte Patentanspruch 1 auch dem Gebot der Deutlichkeit (Klarheit) nicht, wie es in Art. 84 EPÜ niedergelegt und auch bei der Formulierung beschränkter Patentansprüche in Patentnichtigkeitsverfahren zu beachten ist (vgl. zur mangelnden Ursprungsoffenbarung BGH, Urt. v. 18.5.1999 - X ZR 113/96, bei Bausch Nichtigkeitsrechtsprechung in Patentsachen, BGH 1999 - 2001, 180, 192 - Ventilbetätigungsvorrichtung m.w.N.; Keukenschrijver GRUR 2001, 571, 574).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>VII. Die Kostenentscheidung beruht auf § 121 Abs. 2 Satz 1 PatG i.V.m. § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                    Keukenschrijver                                        Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                             Bacher                                                 Hoffmann</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE317922010&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE307992017</doknr>
+   <ecli>ECLI:DE:BGH:2017:010317UXZR10.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20170301</entsch-datum>
+   <aktenzeichen>X ZR 10/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 82 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 29. Dezember 2014, Az: 4 Ni 12/12 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache: Zulässigkeit einer beschränkten Verteidigung des Patents durch Kombination eines angegriffenen Anspruchs mit einem nicht angegriffenen Unteranspruch - Ankopplungssystem</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Ankopplungssystem</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Ein Patent kann vom Nichtigkeitsbeklagten nur insoweit beschränkt verteidigt werden, als es vom Nichtigkeitskläger angegriffen wird. Die beschränkte Verteidigung des Streitpatents durch Kombination eines angegriffenen Anspruchs mit einem nicht angegriffenen Unteranspruch oder mit einer von mehreren Varianten eines nicht angegriffenen Unteranspruchs ist unzulässig.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Klägerin wird das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 29. Dezember 2014 abgeändert und das europäische Patent 1 302 147 im Umfang von Patentanspruch 1 mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Beklagte trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des - unter Inanspruchnahme der Priorität einer schwedischen Patentanmeldung vom 8. Januar 1998 - am 30. Dezember 1998 angemeldeten und mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 302 147 (Streitpatents). Das Streitpatent beruht auf einer Teilanmeldung; die Stammanmeldung ist als WO 99/08237 (N3) veröffentlicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent wird mit der Nichtigkeitsklage der Klägerin allein im Umfang des selbständigen Patentanspruchs 1 angegriffen, der in der Verfahrenssprache folgenden Wortlaut hat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A docking system (1) which essentially comprises</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) at least one self-propelled working-tool (3), preferably intended for attendance of ground or floor, such as grass-cutting, moss-scratching, watering, vacuum-cleaning, polishing, transportation etc., having a body (16) and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) at least one docking station (2) for the at least one working tool (3),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) wherein the docking station and the tool can by way of emitted signals establish contact with each other, so that the tool can drive up to the docking station, characterized by that</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) the docking station is provided with at least one first transmission part (5, 6; 5', 6') and the working tool is provided with at least one cooperating second transmission part (7, 8) for transmission of energy between the docking station and the working tool,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) wherein the docking station is provided with at least one rising part (10, 11, 12, 13), of which at least one part is used for mounting of the first transmission part(s),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">f) wherein the tool's second transmission part(s) (7, 8) is/are located on the upper side of the body.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand des Streitpatents sei im angegriffenen Umfang nicht patentfähig und gehe über den Inhalt der Anmeldung in der ursprünglichen Fassung hinaus. Die Beklagte hat das Streitpatent verteidigt. Das Patentgericht hat die Klage abgewiesen. Mit ihrer Berufung verfolgt die Klägerin ihr Klageziel weiter. Die Klägerin tritt dem Rechtsmittel entgegen und verteidigt das Streitpatent hilfsweise in der Fassung von sechs Hilfsanträgen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Berufung der Klägerin ist zulässig und hat auch in der Sache Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Ankopplungssystem, das ein selbstfahrendes Arbeitsgerät insbesondere für die Bearbeitung eines Bodens oder Fußbodens, wie Rasenmähen, Moosentfernen, Bewässern, Staubsaugen, Polieren oder Transportieren, sowie eine Ankopplungsstation für das Arbeitsgerät umfasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>1. In der Streitpatentschrift wird ausgeführt, dass aus dem US-amerikanischen Patent 5 440 216 (N5) ein Ankopplungssystem bekannt sei, das einen Bodenreinigungsroboter und eine Ankopplungsstation zum Aufladen der Batterie des Roboters aufweise. Der Roboter werde in die Nachbarschaft der Ankopplungsstation durch Ultraschallwellen geführt, die von der Station emittiert würden. Die genaue Ankopplung werde mittels Magneten und magnetischen Sensoren erreicht, die an dem Roboter und der Ankopplungsstation montiert seien. Ein Gleichstromstecker an der Ankopplungsstation greife in eine Ladesteckdose an dem Roboter in horizontaler Richtung ein. Die Ankopplungsstation umfasse eine Basisplatte und einen aufsteigenden Teil, an dem der Ladestecker montiert sei. Während des Ankoppelmanövers fahre der Roboter mit seinen Rädern auf die Basisplatte der Ankopplungsstation (Streitpatent Abs. 5; Übersetzung Abs. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>2. Nach den Erläuterungen der Streitpatentschrift liegt der Erfindung das Problem zugrunde, ein Ankopplungssystem zu schaffen, das vor Schmutz geschützt ist (Streitpatent Abs. 6; Übersetzung Abs. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>3. Das soll nach Patentanspruch 1 durch folgende Vorrichtung erreicht werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Ankopplungssystem (1), das im Wesentlichen umfasst:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 mindestens ein selbstfahrendes Arbeitsgerät (3), vorzugsweise für die Bearbeitung eines Bodens oder Fußbodens, wie Rasenmähen, Moosentfernung, Bewässerung, Staubsaugen, Polieren, Transportieren, etc. mit einem Körper (16) und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 mindestens eine Ankopplungsstation (2) für das ein Arbeitsgerät (3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Die Ankopplungsstation und das Gerät können durch ausgesendete Signale miteinander Kontakt aufnehmen, so dass das Gerät in die Ankopplungsstation fahren kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Ankopplungsstation ist mit mindestens einem ersten Übertragungsteil (5, 6, 5', 6') und das Arbeitsgerät ist mit mindestens einem (mit dem ersten) zusammenwirkenden zweiten Übertragungsteil (7, 8) für die Übertragung von Energie zwischen der Ankopplungsstation und dem Arbeitsgerät versehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die Ankopplungsstation ist mit mindestens einem ansteigenden Teil ("at least one rising part", 10, 11, 12, 13) versehen, von dem mindestens ein Teil zur Montage des Übertragungsteiles dient.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Das zweite Übertragungsteil (7, 8) des Arbeitsgeräts ist auf der Oberseite ("on the upper side") des Körpers angeordnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene Figur 1 stammt aus der Streitpatentschrift und zeigt ein erfindungsgemäßes Ausführungsbeispiel:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="438px"
+                       src="bild1_0.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>4. Nach der erfindungsgemäßen Lehre sind das (mindestens eine) selbstfahrende Arbeitsgerät und die (mindestens eine) Ankopplungsstation des erfindungsgemäßen Ankopplungssystems derart eingerichtet, dass sie hinsichtlich zweier Funktionen miteinander in Verbindung treten können. Die eine Funktion betrifft die Informationsübertragung zwischen dem Arbeitsgerät und der Ankopplungsstation. Insoweit ist in Merkmal 2 vorgesehen, dass das Arbeitsgerät und die Ankopplungsstation miteinander Kontakt aufnehmen können, so dass das Gerät in die Ankopplungsstation fahren kann. Die andere Funktion dient der Versorgung des Arbeitsgerätes mit Energie. Nach Merkmal 3 sind dafür die Ankopplungsstation mit mindestens einem ersten Übertragungsteil und das Arbeitsgerät mit mindestens einem kooperierenden zweiten Übertragungsteil zur Übertragung von Energie zwischen der Ankopplungsstation und dem Arbeitsgerät versehen. Die Merkmale 4 und 5 betreffen die nähere Ausgestaltung dieser beiden kooperierenden Übertragungsteile mit dem Ziel, diese vor Schmutz zu schützen. Zwar kann auch die Übertragung von Signalen oder Informationen prinzipiell eine Energieübertragung beinhalten, doch ergibt sich aus der getrennten Behandlung beider Funktionen im Rahmen der Lehre aus Patentanspruch 1, dass mit dem erfindungsgemäßen Begriff der "Energie" allein die Übertragung von Versorgungsenergie für den Betrieb des Arbeitsgerätes gemeint ist, wie bereits das Patentgericht zutreffend ausgeführt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Dieses Verständnis steht in Einklang mit der Beschreibung und den Zeichnungen, in denen ein Ausführungsbeispiel beschrieben und gezeigt wird, bei dem die ersten Übertragungsteile 5 und 6 zur Übertragung von elektrischer Energie zwischen der Ankopplungsstation und dem Gerät zum Laden und auch zum Entladen eines im Gerät befindlichen elektrischen Akkumulators vorgesehen sind (Streitpatent Abs. 27; Übersetzung Abs. 28). Entsprechend heißt es in der Beschreibung, dass die Ankopplungsstation "normalerweise" zur Übertragung von elektrischer Energie zum Laden der Batterie benutzt werde. Dass zudem ausgeführt ist, dass "auch andere Arten der Übertragung … möglich" seien und zum Beispiel Informationen von der Station zum Gerät oder umgekehrt mittels weiterer Übertragungsteile oder mittels der bereits vorhandenen übertragen werden könnten, so dass sowohl elektrische Energie als auch elektrische Informationen übertragen werden könnten (Streitpatent Abs. 27; Übersetzung Abs. 28), steht dem nicht entgegen. Insoweit handelt es sich um Möglichkeiten der Ausgestaltung des erfindungsgemäßen Ankopplungssystems, die im Belieben des Anwenders stehen, aber für die Verwirklichung der erfindungsgemäßen Lehre nicht zwingend vorgeschrieben sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat angenommen, der Gegenstand von Patentanspruch 1 gehe nicht über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinaus und sei auch patentfähig. Zur Patentfähigkeit hat es im Wesentlichen folgendes ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Als Fachmann sei ein Ingenieur (FH) der Fachrichtung Maschinenbau anzusehen, der über umfangreiche Kenntnisse im Bereich der Entwicklung von selbstfahrenden Haushalts- oder Gartenbaugeräten verfüge und bereits Erfahrungen in der Gestaltung der Strom- und Signalversorgung derartiger selbstfahrender Geräte besitze.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand aus Patentanspruch 1 des Streitpatents sei neu und nicht aus der N5 bekannt. Diese Entgegenhaltung offenbare ein Ankopplungssystem für eine selbstfahrende automatische Reinigungsvorrichtung zur Reinigung eines Bodens mit einem Reinigungskörper und einer automatischen Ladestation für die Reinigungsvorrichtung. Die automatische Ladestation und die Reinigungsvorrichtung stünden durch Ultraschallwellensignale miteinander in Kontakt, wodurch die Reinigungsvorrichtung bei Absinken der Batterieleistung unter einen bestimmten Pegel in die automatische Ladestation fahren könne. Die automatische Ladestation sei mit einem Gleichstromanschluss und die Reinigungsvorrichtung mit einer mit dem Anschluss kooperierenden Buchse für die Aufladung der von der Reinigungsvorrichtung mitgeführten Batterie versehen. Die automatische Ladestation sei mit einem hochstehenden Teil versehen, an dem der Gleichstromanschluss angeordnet sei. Das erfindungsgemäße Ankopplungssystem unterscheide sich von dem in der N5 offenbarten darin, dass die mit dem Gleichstromanschluss kooperierende Buchse der Reinigungsvorrichtung nicht an der Oberseite, sondern an einer Seitenfläche derselben angeordnet sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand von Patentanspruch 1 des Streitpatents habe sich für den Fachmann auch nicht in naheliegender Weise aus dem Stand der Technik ergeben. Ausgehend von dem Problem eines Ankopplungssystems, das besser gegen Verschmutzung geschützt sei, habe der Fachmann der N5 ein Ankopplungssystem entnehmen können, bei dem dieses Ziel aufgrund der Anordnung der Buchse (31) des Steckkontaktstifts (156) im deutlichen Abstand zum Boden sowie der geschützten Lage der Kontaktfeder (31a) bereits gelöst sei. Eine Anregung, demgegenüber die konkrete erfindungsgemäße Lösung zu wählen, sei auch unter Einsatz weiterer fachmännischer Überlegungen nicht ersichtlich. Darin liege auch keine beliebige oder zum Standard-Repertoire gehörende Maßnahme, auf welche der Fachmann ohne weiteres aufgrund seines Fachwissens zurückgreifen könne.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>III. Die Beurteilung des Patentgerichts hält der Überprüfung im Berufungsverfahren nicht stand. Der Gegenstand von Patentanspruch 1 in der erteilten Fassung ist zwar neu, beruht aber nicht auf einer erfinderischen Tätigkeit, da er sich für den Fachmann in naheliegender Weise aus dem Stand der Technik ergab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Die N5, aus der die nachfolgend wiedergegebene, ein Ausführungsbeispiel zeigende Figur 1 stammt,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="369px"
+                       src="bild2_1.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>offenbart ein Ankopplungssystem für eine selbstfahrende automatische Reinigungsvorrichtung zur Reinigung mit einem Reinigungsvorrichtungskörper und einer automatischen Ladestation. Die Ladestation und die Reinigungsvorrichtung stehen durch Ultraschallwellensignale miteinander in Kontakt, wodurch die Reinigungsvorrichtung in die automatische Ladestation fahren kann. Dafür sind auf der Oberseite des Arbeitsgerätes ein Navigationssensor (23) und an der Ankopplungsstation ein Ultraschalloszillator (150) angeordnet (N5, Sp. 3, Z. 31 ff., 44 ff.; Sp. 7, Z. 64 ff.; Sp. 8, Z. 44 ff.; Figuren 1, 9a und 10). Entgegen der Ansicht der Klägerin wird in der N5 jedoch kein an der Oberseite des Gerätekörpers angeordnetes zweites Übertragungsteil offenbart. Der wegen seiner Anordnung an der Oberseite des Gerätekörpers insoweit allein in Betracht kommende Navigationssensor (23) ist nicht als zweites Übertragungsteil anzusehen, da dieser zwar in Zusammenwirken mit dem Ultraschalloszillator (150) der Ankopplungsstation der Signalübertragung dient, nicht aber der Übertragung von Versorgungsenergie, so wie dies - nach den obigen Erläuterungen zur Auslegung der Lehre aus Patentanspruch 1 - für das Vorliegen des Merkmals 5 erforderlich ist. Der Gegenstand von Patentanspruch 1 ist daher aus der N5 nicht vorbekannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Ausgehend von der N5 ergab sich dieser für den Fachmann aber bei Einsatz seines Fachwissens und -könnens in naheliegender Weise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Das in der N5 offenbarte Ankopplungssystem zur Reinigung eines Bodens weist in Gestalt des Gleichstromanschlusses (156) und der mit diesem kooperierenden Buchse (31) ein erstes und ein zweites Übertragungsteil auf, mit denen Energie zwischen der Ankopplungsstation und dem Arbeitsgerät übertragen werden kann. Allerdings befindet sich das zweite Übertragungsteil (Leiter 91 und Anschlussbuchse 31) in etwa auf zwei Drittel der Höhe der Seitenfläche und damit nicht - wie in Merkmal 5 gefordert - an der Oberseite des Gerätekörpers. Auch ist es zutreffend, dass dem Fachmann in der N5 erste und zweite Übertragungsteile (Stecker 156 und Anschlussbuchse 31) zur Übertragung von Energie zwischen der Ankopplungsstation und dem Arbeitsgerät offenbart werden, die aufgrund ihrer Anordnung in deutlichem Abstand zum Boden sowie der geschützten Lage des Steckers (156) durch die Seitenwand (51) und der Kontaktfeder (31a) hinter einer leicht trichterförmigen, ein Gefälle von innen nach außen aufweisenden Anschlussbuchse (31) weitgehend gegen Verschmutzung geschützt sind, wie auch durch die nachfolgend wiedergegebenen Figuren 10 und 12 der N5 deutlich wird:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="235px"
+                       src="bild3_2.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/> <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="178px"
+                       src="bild4_3.png"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Mag damit bei einem dem Ausführungsbeispiel der N5 entsprechenden Gerät das Bestreben, die Übertragungsteile vor Verschmutzung zu schützen, den Fachmann nicht dazu anregen, diese von einer Anordnung auf etwa 2/3 der Höhe der senkrechten Seitenfläche des Reinigungsgeräts - wie sie in etwa in den Figuren 1 und 10 der N5 gezeigt ist - auf die Oberseite zu verlegen, weil die Aufgabe bereits durch die offenbarte Anordnungshöhe befriedigend gelöst war, bedeutet dies jedoch nicht, dass der Fachmann nicht durch eine in sein Belieben gestellte formgestalterische Abänderung des Reinigungsgeräts zu einer solchen Verlegung veranlasst werden konnte. Zwar mag die in den Figuren 1 und 10 der N5 gezeigte Abschrägung der Außenfläche des Gerätes zwischen der waagerechten Oberfläche, auf der sich auch der Navigationssender (23) befindet und der senkrechten Seitenfläche, an der die Anschlussbuchse (31) und dahinter die Kontaktfeder (31a) angeordnet sind, für eine Verlegung der als Steck-Buchsen-Verbindung ausgestalteten Übertragungsteile nach oben nicht gut geeignet sein, wenngleich auch dies bei einer gaubenartigen Ausgestaltung der Anschlussbuchse nicht ausgeschlossen erscheint. Je nach den an ihn herangetragenen gestalterischen Wünschen und je nach dem benötigten Gehäusevolumen war es aber jedenfalls für den Fachmann ohne weiteres vorstellbar, in Abänderung des Gerätedesigns die schrägen Flächen entweder erheblich abzuflachen und die senkrechte Seitenfläche in etwa bis zur Höhe der waagerechten Oberfläche zu erhöhen (wie dies tendenziell bereits auf der linken Seite des in Figur 1 der N5 gezeigten Reinigungsgerätes verwirklicht ist,) oder durch eine Anordnung der waagerechten Oberfläche und der senkrechten Seitenfläche in einem Winkel von etwa 90° zu ersetzen. Da die Erwägung, die Übertragungsteile vor Verschmutzung zu schützen, insbesondere bei einem niedrigen Gehäuse Anlass gab, das Übertragungsteil möglichst weit oben anzuordnen, wie dies auch bei der N5 realisiert wurde, bot es sich bei einer solchen Ausgestaltung an, die Übertragungsteile im Winkelbereich der Ober- und der Seitenfläche anzuordnen, so dass sich diese auf der Oberseite des Körpers befinden. Mithin ergab sich für den Fachmann bei Einsatz seines Fachwissens und -könnens und ausgehend vom Offenbarungsgehalt der N5 auch das Merkmal 5 in naheliegender Weise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>IV. Auch auf Grundlage der Hilfsanträge der Beklagten hat Patentanspruch 1 keinen Bestand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags 1 beruht nicht auf einer erfinderischen Tätigkeit, da er sich für den Fachmann in naheliegender Weise aus der N5 ergab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Hilfsantrag 1 unterscheidet sich von der Fassung des Hauptantrags dadurch, dass die nach Merkmal 3 ersten und zweiten Übertragungsteile nicht mehr nur allgemein für die Übertragung von "Energie" vorgesehen sind, sondern speziell für die Übertragung von "elektrischer Energie zum Laden der Batterie oder Energie in Form von Benzin oder anderen Treibstoffen" ("electric energy for battery-charging or energy in form of petrol or other power fuels"). Das hinzugekommene Merkmal ist aus der N5 bekannt, da die dort offenbarten ersten und zweiten Übertragungsteile (Stecker 156; Anschlussbuchse 31 und Kontaktfeder 31a) gleichfalls der Übertragung elektrischer Energie zum Laden der Batterie dienen (N5, Sp. 3, Z. 39 ff.; Sp. 4, Z. 18 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>2. Die Verteidigung des Gegenstands von Patentanspruch 1 in der Fassung des Hilfsantrags 2 ist unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags 2 unterscheidet sich von der erteilten Fassung durch folgende weitere Merkmale:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"wherein the docking station is designed as a base plate (9), intended to be placed on ground or floor and" und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"wherein the docking station’s first transmissions part(s) is/are located in a rising part (11), called transmission head (11), which is located higher up than the base plate (9)"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Die hinzugefügten Merkmale sind identisch mit einer von zwei Varianten des Unteranspruchs 5 sowie dem Unteranspruch 6, weshalb die Beklagte auch anregt, die bisherigen Unteransprüche 5 und 6 zu streichen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>b) Die beschränkte Verteidigung eines mit einer Teilnichtigkeitsklage angegriffenen Patentanspruchs durch Kombination mit einem insoweit nicht angegriffenen Unteranspruch oder mit einer von mehreren Varianten eines insoweit nicht angegriffenen Unteranspruchs ist unzulässig (BGH, Urteil vom 24. Juni 1960 - I ZR 109/55, Liedl, 395, 410 - Schwingungswalze; Urteil vom 11. November 2003 - X ZR 61/99, juris Rn. 27 - Humanmedizinische Abschabungsvorrichtung; BPatG, Urteil vom 19. Dezember 1995 - 3 Ni 40/94, BPatGE 36, 35, 36 f.; Benkard/Hall/Nobbe, 11. Aufl., 2015, § 82 Rn. 39; Schulte/Voit, 9. Aufl., 2014, § 81 PatG Rn. 122; vgl. auch BGH, Urteil vom 26. Mai 2009 - X ZR 185/04, GRUR 2009, 929 Rn. 50 - Schleifkorn; Busse/Keukenschrijver, 8. Aufl., 2016, § 82 PatG Rn. 104 und Fn. 358).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Ein Patent kann vom Nichtigkeitsbeklagten nur in dem Umfang beschränkt verteidigt werden, in dem es vom Nichtigkeitskläger angegriffen wird. Mit der beschränkten Verteidigung eines teilweise angegriffenen Patents durch Kombination eines angegriffenen Anspruchs mit einem auf diesen rückbezogenen, aber mit der Nichtigkeitsklage nicht angegriffenen Unteranspruch wird das Streitpatent der Sache nach im Umfang des nicht angegriffenen Unteranspruchs zur gerichtlichen Überprüfung gestellt. Die Möglichkeit, das Patent beschränkt zu verteidigen, dient aber allein der Verteidigung des Nichtigkeitsbeklagten gegenüber dem vom Nichtigkeitskläger geführten Angriff auf die Wirksamkeit des Patents und nicht auch der gerichtlichen Überprüfung des Patents im Übrigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Für eine solche beschränkte Verteidigung ist ein Rechtsschutzbedürfnis selbst dann nicht anzuerkennen, wenn der Nichtigkeitskläger die Rechtsbeständigkeit des mit der Nichtigkeitsklage nicht angegriffenen Unteranspruchs in Zweifel zieht. Denn die beschränkte Verteidigung gegenüber einer Teilnichtigkeitsklage auch im Umfang eines nicht angegriffenen Unteranspruchs hätte im Wesentlichen die Wirkung einer Widerklage des Patentinhabers gegenüber dem Nichtigkeitskläger auf Feststellung der Rechtsbeständigkeit des Streitpatents im Umfang des nicht angegriffenen Unteranspruchs. Eine solche Klage ist aber im Gesetz nicht vorgesehen und kann deshalb auch nicht Gegenstand einer beschränkten Verteidigung des Nichtigkeitsbeklagten sein.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>c) Im Streitfall ist die beschränkte Verteidigung des Streitpatents durch eine Kombination des Patentanspruchs 1 mit den von der Klägerin nicht angegriffenen Unteransprüchen 5 und 6 damit unzulässig. Insoweit ist es auch unerheblich, dass von den zwei Varianten in Unteranspruch 5 ("the docking station is designed as or provided with a base plate (9)") lediglich die erste in Patentanspruch 1 aufgenommen werden soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>3. Unzulässig ist weiterhin die Verteidigung des Gegenstands von Patentanspruch 1 in der Fassung des Hilfsantrags 3, in dem die durch die Fassungen der Hilfsanträge 1 und 2 gegenüber der erteilten Fassung des Patentanspruchs 1 hinzugekommenen Merkmale kombiniert werden. Der Umstand, dass Patentanspruch 1 in der Fassung des Hilfsantrags 3 neben zwei nicht angegriffenen Unteransprüchen auch mit einem Merkmal kombiniert werden soll, das nicht Gegenstand eines nicht angegriffenen Unteranspruchs ist, ändert nichts daran, dass die Beklagte das Streitpatent damit in im Nichtigkeitsverfahren unzulässiger Weise beschränken will.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>4. Der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags 4 unterscheidet sich von der Fassung des Hilfsantrags 1 dadurch, dass das mindestens eine selbstfahrende Arbeitsgerät nach Merkmal 1.1 ein Rasenmäher sein soll ("embodied as a lawn-mover"). Auch wenn Patentanspruch 1 auf einen Rasenmäher als selbstfahrendes Arbeitsgerät beschränkt wird, war es für den Fachmann, der ein solches Arbeitsgerät weiter konstruktiv verbessern wollte, naheliegend, andere selbstfahrende Arbeitsgeräte wie die in N5 offenbarte automatische Reinigungsvorrichtung zur Kenntnis zu nehmen und - entsprechend den obigen Erläuterungen - eine Anordnung des zweiten Übertragungsteils auf der Oberseite auch eines Rasenmähers in Erwägung zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>5. Die Verteidigung des Gegenstands von Patentanspruch 1 in der Fassung der Hilfsanträge 5 und 6, in denen das Merkmal der Verkörperung des selbstfahrenden Arbeitsgeräts mit Patentanspruch 1 in der Fassung der Hilfsanträge 2 oder 3 kombiniert wird, ist aus den unter 2 und 3 genannten Gründen ebenfalls unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>6. In der Fassung der Hilfsanträge 7 bis 13 wird Patentanspruch 1 in der erteilten Fassung sowie in den Fassungen der Hilfsanträge 1 bis 6 jeweils kombiniert mit Unteranspruch 7 verteidigt. Auch diese Hilfsanträge sind aus den unter 2 und 3 genannten Gründen unzulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG, § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Meier-Beck      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Schuster      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE307992017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

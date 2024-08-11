@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300562018</doknr>
+   <ecli>ECLI:DE:BGH:2018:270218UVIZR489.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20180227</entsch-datum>
+   <aktenzeichen>VI ZR 489/16</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 823 Abs 1 BGB, § 823 Abs 2 BGB, § 1004 Abs 1 BGB, § 29 Abs 1 S 1 Nr 2 BDSG, § 29 Abs 2 S 1 BDSG, Art 1 GG, Art 2 Abs 1 GG, Art 5 Abs 1 GG, Art 8 Abs 1 MRK, Art 10 Abs 1 MRK, Art 7 EUGrdRCh, Art 8 Abs 1 EUGrdRCh, Art 11 EUGrdRCh</norm>
+   <vorinstanz>vorgehend OLG Köln, 13. Oktober 2016, Az: I-15 U 173/15, Urteil<br/>vorgehend LG Köln, 16. August 2015, Az: 28 O 14/14, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Persönlichkeitsrechtsverletzung im Internet: Prüfungspflicht des Betreibers einer Internet-Suchmaschine; datenschutzrechtliche Zulässigkeit der geschäftsmäßigen Erhebung personenbezogener Daten zum Zwecke der Übermittlung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Zur Prüfungspflicht des Betreibers einer Internet-Suchmaschine bei Persönlichkeitsrechtsverletzungen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Revision gegen das Urteil des 15. Zivilsenats des Oberlandesgerichts Köln vom 13. Oktober 2016 wird auf Kosten der Kläger zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Kläger nehmen die Beklagten als Betreiber einer Internetsuchmaschine in Anspruch, es zu unterlassen, bestimmte, sie nach ihrem Vortrag in ihren Persönlichkeitsrechten verletzende Inhalte auf Drittseiten über die Suchmaschine auffindbar zu machen. Sie verlangen ferner von den Beklagten, einen entsprechenden Suchfilter einzurichten, der künftige Verletzungen verhindert, sowie eine Geldentschädigung für die bereits erfolgte Verletzung des Persönlichkeitsrechts.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 1, die ihren Sitz in Kalifornien hat, betreibt die Internetsuchmaschine "Google". Dabei durchsucht sie mit einer Software kontinuierlich und automatisiert das Internet und übernimmt die so ermittelten Internetseiten in einen Suchindex. Die Daten gibt die Suchmaschine an die Nutzer entsprechend dem eingegebenen Suchbegriff nach einem von der Beklagten zu 1 erstellten Algorithmus als Ergebnisliste aus und verlinkt diese. Die Beklagte zu 2 ist eine Tochtergesellschaft der Beklagten zu 1 mit Sitz in Deutschland. Sie vermarktet Werbeflächen auf der Internetseite der Beklagten zu 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die nunmehr verheirateten Kläger sind als Anbieter von IT-Dienstleistungen und selbständige Handelsvertreter tätig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Der Kläger zu 2 hatte nach eigenem Vorbringen ab Mitte Februar 2011 zumindest beim Aufsetzen eines Internetforums - nachfolgend: F-Internetforum - geholfen. Mitglieder dieses Forums führten mittels Beiträgen auf verschiedenen Forenseiten Auseinandersetzungen mit Mitgliedern eines anderen Internetforums. Den Mitgliedern des F-Internetforums wurde u.a. vorgeworfen, Dritte zu stalken und zu drangsalieren. Über eine von dem Kläger zu 2 im Rahmen seiner Tätigkeit für das F-Internetforum eingerichtete E-Mail-Weiterleitung erhielt er in der Folge eine Beschwerde eines Internetnutzers. Der Kläger zu 2 antwortete und verwies den Absender an den aus seiner Sicht Zuständigen des F-Internetforums. Aufgrund dieser Antwort-E-Mail stellten Dritte die IP-Adresse und die Identität des Klägers zu 2 fest und gaben diese Informationen an Mitglieder des mit dem F-Internetforum verfeindeten Internetforums weiter. Letztere verfassten sodann auf den mit der Klage beanstandeten Internetseiten Beiträge, in denen die Kläger für Handlungen von Mitgliedern des F-Internetforums (unter anderem angebliches Stalking) verantwortlich gemacht wurden. Auf den suchenden Internetnutzern in der Ergebnisliste der Beklagten zu 1 nachgewiesenen Seiten hieß es deshalb, der Kläger zu 2 betreibe das F-Internetforum sei, für die dort veröffentlichten Inhalte (mit-)verantwortlich oder habe von den Inhalten des Forums zumindest Kenntnis gehabt und die Klägerin zu 1 müsse von der Rolle ihres Mannes in diesem Forum Kenntnis gehabt haben. Dabei wurden in Bezug auf die Kläger Worte gebraucht wie etwa "Arschkriecher", "Schwerstkriminelle", "kriminelle Schufte", "Terroristen", "Bande", "Stalker", "krimineller Stalkerhaushalt".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Kläger wandten sich an die Beklagten und monierten, dass ihr Persönlichkeitsrecht verletzende Inhalte auf bestimmten, von ihnen benannten Internetseiten über den Suchindex der Suchmaschine auffindbar gemacht würden. Diese Seiten dienten nach Auffassung der Kläger allein der Diffamierung, Kreditgefährdung und Rufschädigung. Der Kläger zu 2 stehe in keiner geschäftlichen oder privaten Beziehung zum F-Internetforum, sei nicht dessen Betreiber, Administrator oder Mitglied. Gleiches gelte für die Klägerin zu 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 1 bat daraufhin um die Übersendung der Verknüpfungen ("Links") in elektronischer Form sowie um Darlegung, welche konkreten Aussagen beanstandet würden, wo genau sich die geltend gemachten Rechtsverletzungen in Bezug auf die Verknüpfungen befänden und woraus sich diese ergäben. Die Kläger übersandten daraufhin entsprechende Angaben, verwiesen aber darauf, dass eine Differenzierung nicht möglich sei, da alle beanstandeten Beiträge Hinweise auf eine in Wahrheit nicht bestehende Beziehung der Kläger zum F-Internetforum enthielten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Später teilte die Beklagte zu 1 mit, einige der beanstandeten Verknüpfungen entfernt zu haben. Die Kläger monierten jedoch eine Vielzahl weiterer Verknüpfungen. Sie übersandten der Beklagten zu 1 eine Abmahnung und beanstandeten mehrere hundert weitere zu löschende Verknüpfungen. Die Beklagte zu 1 teilte daraufhin wieder mit, dass (weitere) Verknüpfungen entfernt worden seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Die Kläger sind der Auffassung, die Beklagten seien als Betreiber der Suchmaschine mitverantwortlich für die fortwährende Verletzung ihrer Persönlichkeitsrechte. Insbesondere die Beklagte zu 1 hafte auf Unterlassung, da sie durch die Indexierung der Beiträge die unwahren und beleidigenden Aussagen erst allgemein auffindbar gemacht habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat die Beklagte zu 1 verurteilt, es zu unterlassen, einzelne Verknüpfungen auffindbar zu machen und die Klage im Übrigen abgewiesen. Auf die Anschlussberufung der Beklagten zu 1 hat das Oberlandesgericht unter Zurückweisung der Berufung der Kläger die Klage insgesamt abgewiesen. Mit der vom Berufungsgericht zugelassen Revision verfolgen die Kläger ihr Klagebegehren weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>A.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht (Urteil veröffentlicht in K&amp;R 2017, 55) hat im Wesentlichen ausgeführt, dass den Klägern ein Unterlassungsanspruch gegen die Beklagte zu 2 weder aus dem Gesichtspunkt der Persönlichkeitsrechtsverletzung nach § 823 Abs. 1, § 1004 BGB analog, Art. 2 Abs. 1, Art. 1 GG zustehe noch wegen Verstoßes gegen das Bundesdatenschutzgesetz nach § 1004 BGB analog, § 823 Abs. 2 BGB iVm § 29 BDSG. Zwar greife die Beklagte zu 1 in das Allgemeine Persönlichkeitsrecht der Kläger ein, wenn sie durch ihre Suchmaschine Internetseiten auffindbar mache, auf denen die Behauptung aufgestellt werde, der Kläger zu 2 sei Betreiber des F-Internetforums, und auf denen es zu Beschimpfungen der Kläger komme. Dadurch werde der soziale Geltungsanspruch der Kläger beeinträchtigt. Insoweit könne sich eine Haftung der Beklagten zu 1 als mittelbare Störerin ergeben. Das Landgericht habe eine Haftung im Ausgangspunkt zu Recht angenommen, wenn und soweit die Beklagte zu 1 im Einzelfall gegen reaktive Prüfpflichten verstoßen habe. Dies setze einen Hinweis auf eine klare Rechtsverletzung voraus. Weder die Vorschriften des Telemediengesetzes, noch der E-Commerce-Richtlinie (Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000, ABl. L 178/1 vom 17. Juli 2000, hiernach: "ECRL") stünden der Annahme einer solchen Prüfpflicht entgegen. Ein Unterlassungsanspruch der Kläger scheitere aber an der nicht ordnungsgemäßen Inkenntnissetzung der Beklagten zu 1, so dass keine reaktiven Prüfpflichten ausgelöst worden seien. Ein Suchmaschinenbetreiber sei zur Sperrung von Verknüpfungen nur verpflichtet, wenn die behauptete Rechtsverletzung offensichtlich erkennbar sei, der Betroffene also den Sachverhalt detailliert beschrieben habe. Diesen Anforderungen seien die Kläger nicht gerecht geworden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Ein Unterlassungsanspruch ergebe sich ebenso wenig aus einer Verletzung des Bundesdatenschutzgesetzes (BDSG). Die Beklagte zu 1 habe die öffentlich zugänglichen Daten auf den Internetseiten erheben und als Ergebnislisten an ihre Nutzer übermitteln dürfen (§ 29 Abs. 1 Satz 1 Nr. 2 und Abs. 2 Satz 1 BDSG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Mangels einer Verletzung des Allgemeinen Persönlichkeitsrechts der Kläger bestehe kein Anspruch auf Geldentschädigung. Der geltend gemachte Anspruch auf Einrichtung eines Suchfilters entbehre einer Anspruchsgrundlage.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte zu 2 sei, auch wenn es sich bei ihr um eine wirtschaftlich abhängige Tochtergesellschaft der Beklagten zu 1 handele, nicht passivlegitimiert, da sie selbst nicht Betreiberin der Suchmaschine sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>B.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Das angegriffene Urteil hält revisionsrechtlicher Nachprüfung stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Zutreffend ist das Berufungsgericht davon ausgegangen, dass sich die internationale Zuständigkeit der deutschen Gerichte für die gegen die in den USA ansässige Beklagte zu 1 gerichtete Klage, die auch in der Revisionsinstanz zu prüfen ist (Senatsurteil vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 9 ff. - New York Times; BGH, Urteile vom 28. November 2002 - III ZR 102/02, BGHZ 153, 82, 84 ff.; vom 20. November 2008 - I ZR 70/06, VersR 2009, 807 mwN; vom 22. Oktober 2009 - I ZR 88/07, VersR 2011, 648), nach § 32 ZPO bestimmt. Denn die Vorschriften über die örtliche Zuständigkeit (§§ 12 ff. ZPO) regeln mittelbar auch die Grenzziehung zwischen der Zuständigkeit deutscher und ausländischer Gerichte (vgl. Senatsurteil vom 3. Mai 1977 - VI ZR 24/75, NJW 1977, 1590; BGH, Urteil vom 22. November 1994 - XI ZR 45/91, NJW 1995, 1225, 1226).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>1. Nach § 32 ZPO ist für Klagen aus unerlaubten Handlungen das Gericht zuständig, in dessen Bezirk die Handlung begangen ist. Zur Begründung der Zuständigkeit genügt es, wenn der Kläger schlüssig Tatsachen behauptet, aus denen sich eine im Gerichtsbezirk begangene unerlaubte Handlung ergibt (vgl. BGH, Urteile vom 25. November 1993 - IX ZR 32/93, BGHZ 124, 237, 241; vom 28. Februar 1996 - XII ZR 181/93, BGHZ 132, 105, 110 f.). Begehungsort der deliktischen Handlung ist dabei sowohl der Handlungs- als auch der Erfolgsort, so dass eine Zuständigkeit wahlweise dort gegeben ist, wo die Verletzungshandlung begangen wurde, oder dort, wo in ein geschütztes Rechtsgut eingegriffen wurde (vgl. BGH, Urteil vom 28. Februar 1996 - XII ZR 181/93, BGHZ 132, 105, 110 f.; vom 21. April 2016 - I ZR 43/14, GRUR 2016, 1048 Rn. 18 - An evening with Marlene Dietrich). Erfasst werden neben Ansprüchen auf Schadensersatz auch Unterlassungsansprüche (vgl. Senatsurteil vom 29. März 2011 - VI ZR 111/10, AfP 2011, 265 Rn. 6 f. - www.womanineurope.com; BGH, Urteil vom 21. April 2016 - I ZR 43/14, GRUR 2016, 1048 Rn. 17 - An evening with Marlene Dietrich; Beschluss vom 17. März 1994 - I ZR 304/91, MDR 1995, 282 - Beta).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die deutschen Gerichte sind zur Entscheidung über Klagen wegen Persönlichkeitsbeeinträchtigungen durch im Internet abrufbare Veröffentlichungen international zuständig, wenn die als rechtsverletzend beanstandeten Inhalte objektiv einen deutlichen Bezug zum Inland in dem Sinne aufweisen, dass eine Kollision der widerstreitenden Interessen - Interesse der Kläger an der Achtung ihres Persönlichkeitsrechts einerseits, Interesse der Beklagten an der Gestaltung ihres Internetauftritts und an einer Berichterstattung andererseits - nach den Umständen des konkreten Falls, insbesondere aufgrund des Inhalts der beanstandeten Meldung, im Inland tatsächlich eingetreten sein kann oder eintreten kann (vgl. Senatsurteil vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 15 ff. "New York Times"). Dies ist dann anzunehmen, wenn eine Kenntnisnahme von der beanstandeten Meldung nach den Umständen des konkreten Falls im Inland erheblich näher liegt als es aufgrund der bloßen Abrufbarkeit des Angebots der Fall wäre und die von den Klägern behauptete Beeinträchtigung ihres Persönlichkeitsrechts durch Kenntnisnahme von der Meldung (auch) im Inland eintreten würde (vgl. Senat aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Nach diesen Grundsätzen ist die internationale Zuständigkeit der deutschen Gerichte gemäß § 32 ZPO entgegen der Ansicht der Revisionserwiderung betreffend alle von der Beklagten zu 1 angebotenen Suchmaschinenleistungen gegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Ein Inlandsbezug besteht auch hinsichtlich der über www.google.com gewonnenen Suchergebnisse. Zwar weist die Revisionserwiderung darauf hin, dass die von der Beklagten zu 1 eingesetzte Technik die deutschen Nutzer der Suchmaschine www.google.com zum länderspezifischen Internetauftritt www.google.de umleite. Nach den unangegriffenen Feststellungen des Berufungsgerichts ist es jedoch möglich, von Deutschland aus die Suche über www.google.com durchzuführen und dabei deutschsprachige Ergebnisse zu erzielen. Die Beklagte zu 1 hält für die Nutzer nach der Umleitung auf den deutschlandspezifischen Internetauftritt eine Option auf der Internetseite vor, gleichwohl mit www.google.com zu suchen. Auch die bei einer Suche über www.google.com angezeigten Ergebnislisten weisen einen deutlichen Inlandsbezug auf, weil sie die angezeigten Treffer in deutscher Sprache aufführen und die in Deutschland wohnenden und hier ihrer beruflichen Tätigkeit nachgehenden Kläger namentlich genannt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht geht zu Recht von der Anwendbarkeit deutschen materiellen Rechts aus. Die richtige Anwendung des deutschen Internationalen Privatrechts ist in der Revisionsinstanz von Amts wegen zu prüfen (vgl. Senatsurteile vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 13; vom 15. Juli 2008 - VI ZR 105/07, BGHZ 177, 237 Rn. 8 mwN; BGH, Urteil vom 2. Oktober 1997 - I ZR 88/95, BGHZ 136, 380, 386; Zöller/Geimer, ZPO, 32. Aufl., § 293 Rn. 9 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>1. Die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II-Verordnung) ist im Streitfall nicht anwendbar, da gemäß deren Art. 1 Abs. 2 lit. g außervertragliche Schuldverhältnisse aus der Verletzung der Persönlichkeitsrechte vom Anwendungsbereich der Verordnung ausgenommen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>2. Dass der von den Klägern geltend gemachte Anspruch nach deutschem Recht zu beurteilen ist, folgt aus Art. 40 Abs. 1 Satz 2 EGBGB, dem auch der Persönlichkeitsschutz einschließlich sich daraus herleitender Unterlassungsansprüche unterfällt (vgl. Senatsurteil vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>a) Art. 40 EGBGB wird nicht durch § 3 Abs. 2 TMG verdrängt. Denn diese Bestimmung enthält keine Kollisionsnorm (Senatsurteil vom 8. Mai 2012 - VI ZR 217/08, VersR 2012, 994 Rn. 23 ff. nach Vorlage an den EuGH, Urteil vom 25. Oktober 2011 - Rs. C-509/09, juris - eDate Advertising).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>b) Der maßgebliche Erfolgsort liegt in Deutschland. Hier wird der soziale Geltungsanspruch, den die Kläger in ihrem Lebenskreis genießen, gestört bzw. gefährdet (vgl. Senatsurteile vom 8. Mai 2012 - VI ZR 217/08, VersR 2012, 994 Rn. 31; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 23; vom 3. Mai 1977 - VI ZR 24/75, NJW 1977, 1590 f.). Hier kollidiert ihr Interesse an der Unterlassung der ihr Persönlichkeitsrecht berührenden Anzeige der Suchergebnisse mit dem Interesse der Beklagten zu 1 an der Gestaltung ihres Internetauftritts und an der Ausübung ihres Geschäftsmodells.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Den Klägern steht gegen die Beklagte zu 1 kein Anspruch zu, es zu unterlassen, die beanstandeten Inhalte auf den von ihnen benannten Internetseiten durch Anzeige in den Suchergebnissen mit entsprechender Verlinkung auffindbar zu machen. Der Unterlassungsanspruch ergibt sich weder aufgrund einer Haftung der Beklagten zu 1 als mittelbare Störerin wegen Verletzung des Allgemeinen Persönlichkeitsrechts (§ 823 Abs. 1, § 1004 Abs. 1 BGB analog iVm Art. 2 Abs. 1, Art. 1 GG) noch aufgrund einer Verletzung datenschutzrechtlicher Schutzgesetze (§ 823 Abs. 2 BGB iVm § 4 Abs. 1, § 29 BDSG). Auch die darüber hinaus von den Klägern geltend gemachten Ansprüche auf Einrichtung eines Filters, auf Auskunft über die Identität von Verfassern der beanstandeten Interneteinträge sowie auf Zahlung einer Geldentschädigung bestehen nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>1. Die Kläger haben gegen die Beklagte zu 1 keinen Unterlassungsanspruch aufgrund einer Haftung als mittelbare Störerin wegen Verletzung ihres allgemeinen Persönlichkeitsrechts nach § 823 Abs. 1, § 1004 Abs. 1 BGB analog iVm Art. 2 Abs. 1, Art. 1 GG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Zutreffend geht das Berufungsgericht davon aus, dass es im Streitfall nicht um die Haftung der Beklagten zu 1 als unmittelbare Störerin geht (in der Diktion des I. Zivilsenats "Täterin"; zu den unterschiedlichen Begrifflichkeiten des erkennenden Senats einerseits und des I. Zivilsenats andererseits vgl. Senatsurteil vom 28. Juli 2015 - VI ZR 340/14, AfP 2015, 425 Rn. 34; v. Pentz, AfP 2014, 8, 16).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>aa) Unmittelbare Störerin könnte die Beklagte zu 1 nur sein, wenn es sich bei den von den Klägern angegriffenen Suchergebnisseiten um eigene Inhalte der Beklagten zu 1 handelte, wobei zu den eigenen Inhalten eines Suchmaschinenbetreibers auch solche Inhalte gehören, die zwar von einem Dritten hergestellt wurden, die sich der Suchmaschinenbetreiber aber zu eigen gemacht hat. Von einem Zu-Eigen-Machen ist auszugehen, wenn der in Anspruch Genommene nach außen erkennbar die inhaltliche Verantwortung für die auf seiner Internetseite veröffentlichten Inhalte übernommen hat, was aus Sicht eines verständigen Durchschnittsnutzers auf der Grundlage einer Gesamtbetrachtung aller relevanten Umstände zu beurteilen ist (Senatsurteile vom 4. April 2017 - VI ZR 123/16, VersR 2017, 895 Rn. 18; vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 17 - jameda.de II; vom 27. März 2012 - VI ZR 144/11, AfP 2012, 264 Rn. 10 f. - RSS-Feeds; vom 30. Juni 2009 - VI ZR 210/08, AfP 2009, 494 Rn. 19 - Domainverpächter; BGH, Urteil vom 19. März 2015 - I ZR 94/13, NJW 2015, 3443 Rn. 25 - Hotelbewertungsportal). Dabei ist bei der Annahme einer Identifikation mit fremden Inhalten grundsätzlich Zurückhaltung geboten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>bb) Die von den Klägern beanstandeten Inhalte auf den Internetseiten, welche die Beklagte zu 1 durch Verlinkung auffindbar macht, sind keine eigenen Inhalte der Beklagten zu 1. Sie wurden von anderen Personen ins Internet eingestellt. Die Beklagte zu 1 hat sich die Inhalte durch Aufnahme in den Such-index auch nicht zu Eigen gemacht. Die Beklagte zu 1 durchsucht mit Hilfe sog. crawler-Programme die im Internet vorhandenen Seiten und erstellt hieraus automatisiert und nach ihren Algorithmen einen Suchindex. Bei der Anfrage durch einen Nutzer durchsucht die Suchmaschine der Beklagten zu 1 diesen Index und liefert entsprechende Suchergebnisse. Auf der Grundlage einer Gesamtbetrachtung aller relevanten Umstände übernimmt die Beklagte zu 1 aus der Sicht eines verständigen Durchschnittsnutzers damit nicht nach außen erkennbar die Verantwortung für die nachgewiesenen Inhalte (vgl. Senatsurteil vom 1. März 2016 - VI ZR 34/15 BGHZ 209, 139 Rn. 16 - jameda.de II). Der Anzeige der Suchergebnisse entnimmt der verständige Durchschnittsnutzer lediglich die Aussage, dass sich die von ihm eingegebenen Suchbegriffe in irgendeiner Weise in den über die angegebenen Links erreichbaren Texten auf den nachgewiesenen Internetseiten befinden; er entnimmt ihr hingegen nicht, dass sich die Beklagte zu 1 mit den auffindbar gemachten Inhalten identifiziert. Dass die Beklagte zu 1 die indexierten Internetseiten inhaltlich-redaktionell überprüft hätte, ist (vgl. Senatsurteil vom 27. März 2012 - VI ZR 144/11, AfP 2012, 264 Rn. 11 - RSS-Feeds; BGH, Urteil vom 19. März 2015 - I ZR 94/13, NJW 2015, 3443 Rn. 25 ff. mwN - Hotelbewertungsportal) ist im Übrigen weder festgestellt noch von den Klägern behauptet worden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>b) Wie das Berufungsgericht weiter zutreffend angenommen hat, kommt allerdings eine Haftung der Beklagten zu 1 als mittelbare Störerin in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>aa) Grundsätzlich ist als mittelbarer Störer verpflichtet, wer, ohne unmittelbarer Störer zu sein, in irgendeiner Weise willentlich und adäquat kausal zur Beeinträchtigung des Rechtsguts beiträgt. Dabei kann als Beitrag auch die Unterstützung oder Ausnutzung der Handlung eines eigenverantwortlich handelnden Dritten genügen, sofern der in Anspruch Genommene die rechtliche und tatsächliche Möglichkeit zur Verhinderung dieser Handlung hatte (vgl. Senatsurteile vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 22 - jameda.de II; vom 28. Juli 2015 - VI ZR 340/14, AfP 2015, 425 Rn. 34; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 21 mwN - Blog-Eintrag). Die Haftung als mittelbarer Störer darf nach ständiger höchstrichterlicher Rechtsprechung aber nicht über Gebühr auf Dritte erstreckt werden, welche die rechtswidrige Beeinträchtigung nicht selbst vorgenommen haben. Sie setzt deshalb die Verletzung von Verhaltenspflichten, insbesondere von Prüfpflichten, voraus. Deren Umfang bestimmt sich danach, ob und inwieweit dem als mittelbaren Störer in Anspruch Genommenen nach den Umständen des Einzelfalls eine Verhinderung der Verletzung zuzumuten ist (Senatsurteile vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 22 - jameda.de II; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 22 - Blog-Eintrag; vom 30. Juni 2009 - VI ZR 210/08, AfP 2009, 494 Rn. 18 - Domainverpächter; BGH, Urteile vom 21. September 2017 - I ZR 11/16, WRP 2018, 201 Rn. 74 - Vorschaubilder III; vom 17. August 2011 - I ZR 57/09, BGHZ 191, 19 Rn. 20 - Stiftparfüm; vom 17. Dezember 2010 - V ZR 44/10, AfP 2011, 156 Rn. 15; vom 1. April 2004 - I ZR 317/01, BGHZ 158, 343, 350 - Schöner Wetten; vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 251 - Internetversteigerung I; vom 30. April 2008 - I ZR 73/05, NJW-RR 2008, 1136 Rn. 50 - Internetversteigerung III).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>bb) Für die Verhaltenspflichten eines Hostproviders, der dem unmittelbaren Störer die Internetplattform zur Verfügung stellt, hat der erkennende Senat bereits Grundsätze aufgestellt. Danach ist ein Hostprovider zur Vermeidung einer Haftung als mittelbarer Störer grundsätzlich nicht verpflichtet, die von den Nutzern in das Netz gestellten Beiträge vor der Veröffentlichung auf eventuelle Rechtsverletzungen zu überprüfen. Er ist aber verantwortlich, sobald er Kenntnis von der Rechtsverletzung erlangt. Weist ein Betroffener den Hostprovider auf eine Verletzung seines Persönlichkeitsrechts durch den Nutzer seines Angebots hin, kann der Hostprovider verpflichtet sein, künftig derartige Störungen zu verhindern (Senatsurteile vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 23 - jameda.de II; vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 24 - Blog-Eintrag; vgl. auch BGH, Urteile vom 17. August 2011 - I ZR 57/09, BGHZ 191, 19 Rn. 21 - Stiftparfüm; vom 12. Juli 2007 - I ZR 18/04, BGHZ 173, 188 Rn. 41 ff. - Jugendgefährdende Medien bei ebay; vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 251 f. - Internet-Versteigerung I). Wird eine Verletzung von Persönlichkeitsrechten behauptet, wird sich eine Rechtsverletzung allerdings nicht stets ohne weiteres feststellen lassen. Denn sie erfordert eine Abwägung zwischen dem Recht des Betroffenen auf Schutz seiner Persönlichkeit aus Art. 1 Abs. 1 iVm Art. 2 Abs. 1 GG, Art. 8 Abs. 1 EMRK und dem durch Art. 5 Abs. 1 GG, Art. 10 EMRK geschützten Recht jedenfalls des Providers auf Meinungs- und Medienfreiheit. Ist der Provider mit der Beanstandung eines Betroffenen konfrontiert, die so konkret gefasst ist, dass der Rechtsverstoß auf der Grundlage der Behauptung des Betroffenen unschwer bejaht werden kann, ist eine Ermittlung und Bewertung des gesamten Sachverhalts unter Berücksichtigung einer etwaigen Stellungnahme des für den beanstandeten Beitrag Verantwortlichen erforderlich (Senatsurteil vom 25. Oktober 2011 - VI ZR 93/10, BGHZ 191, 219 Rn. 25 f. - Blog-Eintrag). Dies gilt auch dann, wenn die beanstandete Äußerung nicht als Tatsachenbehauptung, sondern als Werturteil zu qualifizieren ist, das Werturteil vom Betroffenen aber mit der schlüssigen Behauptung als rechtswidrig beanstandet wird, der tatsächliche Bestandteil der Äußerung, auf dem die Wertung aufbaue, sei unrichtig, dem Werturteil fehle damit jegliche Tatsachengrundlage (Senatsurteil vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 24 - jameda.de II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>cc) Diese Grundsätze können im Ansatz auch auf den Betreiber einer Internet-Suchmaschine übertragen werden (vgl. BGH, Urteile vom 29. April 2010 - I ZR 69/08, BGHZ 185, 291 Rn. 39 - Vorschaubilder I - und vom 21. September 2017 - I ZR 11/16, WRP 2018, 201 Rn. 60 ff. - Vorschaubilder III). An dessen Prüfpflichten sind jedoch geringere Anforderungen zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(1) Vom Anbieter einer Suchmaschine kann vernünftigerweise nicht erwartet werden, dass er sich vergewissert, ob die von den Suchprogrammen aufgefundenen Inhalte rechtmäßig ins Internet eingestellt worden sind, bevor er diese auffindbar macht. Einer Pflicht des Anbieters einer Suchfunktion, Nachforschungen zur Rechtmäßigkeit der Veröffentlichung der von Suchmaschinen aufgefundenen Inhalte anzustellen (proaktive Prüfungspflicht), stehen Aufgabe und Funktionsweise der Suchmaschinen entgegen. Der Zugriff einer Suchmaschine auf andere Internetseiten erfolgt nicht in der Weise, dass absichtlich und gezielt einzelne Hyperlinks auf bestimmte andere Internetseiten gesetzt werden. Suchmaschinen durchsuchen das frei zugängliche Internet in einem automatisierten Verfahren unter Einsatz von Computerprogrammen, wobei sie nicht danach unterscheiden können, ob der aufgefundene Beitrag eine Persönlichkeitsrechtsverletzung eines Dritten darstellt (vgl. BGH, Urteil vom 21. September 2017 - I ZR 11/16, WRP 2018, 201 Rn. 60 ff. - Vorschaubilder III). Eine allgemeine Kontrollpflicht wäre im Blick auf die Aufgabe von Internetsuchmaschinen unangemessen. Ohne die Hilfestellung einer solchen Suchmaschine wäre das Internet aufgrund der nicht mehr übersehbaren Flut von Daten für den Einzelnen nicht sinnvoll nutzbar. Letztlich ist damit die Nutzung des Internets insgesamt auf die Existenz und Verfügbarkeit von Suchmaschinen angewiesen. Wegen ihrer essentiellen Bedeutung für die Nutzbarmachung des Internets dürfen keine Prüfpflichten statuiert werden, die den Betrieb von Suchmaschinen gefährdeten oder unverhältnismäßig erschwerten. Die Annahme einer - praktisch kaum zu bewerkstelligenden - allgemeinen Kontrollpflicht würde die Existenz von Suchmaschinen als Geschäftsmodell, das von der Rechtsordnung gebilligt worden und gesellschaftlich erwünscht ist, ernstlich in Frage stellen (vgl. zum Vorstehenden BGH, Urteile vom 21. September 2017 - I ZR 11/16, WRP 2018, 201 Rn. 60 ff. - Vorschaubilder III - und vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 251 f. - Internet-Versteigerung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(2) Anders als in den bislang vom erkennenden Senat zu entscheidenden Fällen, die eine Haftung der Portalbetreiber betrafen, steht der Suchmaschinenbetreiber regelmäßig in keinem rechtlichen Verhältnis zu den Verfassern der in der Ergebnisliste nachgewiesenen Inhalte. Die Ermittlung und Bewertung des gesamten Sachverhaltes unter Berücksichtigung einer Stellungnahme des unmittelbaren Störers (notice-and-take-down-Verfahren) ist mangels bestehenden Kontakts zu den Verantwortlichen der Internetseiten regelmäßig nicht ohne weiteres möglich. In der Regel stehen dem Suchmaschinenbetreiber nur die Angaben des Betroffenen zur Verfügung, der die Löschung der Internetseite aus der Ergebnisanzeige begehrt. Die Kontaktaufnahme zum Verantwortlichen der beanstandeten Internetseite kann einen erheblichen Suchaufwand erfordern und muss nicht gelingen (kritisch hierzu Rau, K&amp;R 2017, 60). Von einer fehlenden zeitnahen Rückmeldung könnte daher nicht ohne weiteres auf die Rechtswidrigkeit der nachgewiesenen Inhalte geschlossen werden. Eine Überspannung der Anforderungen an den Suchmaschinenbetreiber in einer Situation, in der die Rechtswidrigkeit des Eingriffs in das geschützte Rechtsgut - anders als bei Marken- oder Urheberrechtsrechtsverletzungen - nicht indiziert ist (vgl. Senatsurteil vom 8. Mai 2012 - VI ZR 217/08, AfP 2012, 372 Rn. 35) und die Durchführung eines notice-and-take-down-Verfahrens nicht möglich ist, führte zu der Gefahr des Overblocking, also zu einer Neigung des Diensteanbieters, im Zweifelsfall zur Vermeidung weiterer Auseinandersetzungen die beanstandete Internetseite aus dem Suchindex zu entfernen. Dies hätte zur Folge, dass im ersten Zugriff als problematisch angesehene, aber bei weiterer Prüfung als zulässig zu beurteilende Inhalte faktisch unauffindbar gemacht würden (vgl. EuGH, Urteile vom 16. Februar 2012, Rs. C-360/10, juris Rn. 50 - SABAM; vom 24. November 2011, Rs. C-70/10, juris Rn. 52 - Scarlet Extended; siehe auch Masing, VerfBlog vom 14. August 2014, Ziffer 5: http://verfassungsblog.de/ribverfg-masing-vorlaeufige-einschaetzung-der-google-entscheidung-des-eugh/). Darüber hinaus wäre, weil Links gelöscht würden, jeweils der komplette Beitrag betroffen und nicht nur der konkret als unzulässig beanstandete Teil eines Beitrags.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>(3) Den Betreiber einer Suchmaschine treffen daher erst dann spezifische Verhaltenspflichten, wenn er durch einen konkreten Hinweis Kenntnis von einer offensichtlichen und auf den ersten Blick klar erkennbaren Rechtsverletzung erlangt hat (vgl. zum Umfang der Prüfpflichten eines Suchmaschinenbetreibers auch OLG Hamburg, Urteil vom 16. August 2011 - 7 U 51/10, AfP 2011, 491; LG Hamburg, Urteil vom 07. November 2014 - 324 O 660/12, NJW 2015, 796). Der Hinweis ist erforderlich, um den grundsätzlich nicht zur präventiven Kontrolle verpflichteten Diensteanbieter in die Lage zu versetzen, in der Vielzahl der indexierten Internetseiten diejenigen auffinden zu können, die möglicherweise die Rechte Dritter verletzen (vgl. BGH, Urteil vom 17. August 2011 - I ZR 57/09, BGHZ 191, 19 Rn. 21, 28 - Stiftparfüm). Ein Rechtsverstoß kann beispielsweise im oben genannten Sinn auf der Hand liegen bei Kinderpornographie, Aufruf zur Gewalt gegen Personen, offensichtlichen Personenverwechslungen, Vorliegen eines rechtskräftigen Titels gegen den unmittelbaren Störer, Erledigung jeglichen Informationsinteresses durch Zeitablauf (vgl. EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, juris Rn. 92 ff. - Google Spain), Hassreden (vgl. EGMR, Urteil vom 16. Juni 2015 - 64569/09, NJW 2015, 2863 Rn. 153 ff. - Delfi AS/Estland) oder eindeutiger Schmähkritik.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(4) Allerdings kann die Grenze insbesondere in den beiden letztgenannten Fällen schwer zu ziehen sein. Gerade bei Schmähkritik ist die Erkennbarkeit einer offensichtlichen Rechtsverletzung für den Suchmaschinenbetreiber problematisch. Die Grenze zulässiger Meinungsäußerungen liegt nicht schon da, wo eine polemische Zuspitzung für die Äußerung sachlicher Kritik nicht erforderlich ist (vgl. BVerfG, NJW 2016, 2870 Rn. 13; BVerfGE 82, 272, 283 f.; BVerfGE 85, 1, 16). Eine Schmähkritik kann nicht bereits dann angenommen werden, wenn eine Äußerung überzogen oder ausfällig ist. Hinzutreten muss eine das sachliche Anliegen der Äußerung völlig in den Hintergrund drängende persönliche Kränkung (vgl. BVerfGE 93, 266 Ziffer 7b; BVerfGE 82, 272, 284), deren abschließende Bewertung ohne verifizierbare Erkenntnisse zum sachlichen Hintergrund selten möglich ist. Entsprechendes gilt für herabsetzende Tatsachenbehauptungen oder Werturteile mit Tatsachenkern. Denn hier kommt es maßgeblich auf den Wahrheitsgehalt der behaupteten Tatsache an (v. Pentz, AfP 2017, 102, 115). Hierzu hat der Suchmaschinenbetreiber typischerweise keine Erkenntnisse. Ist eine Validierung des Vortrags der Betroffenen somit regelmäßig nicht möglich, führt auch der Maßstab der "offensichtlich und auf den ersten Blick klar erkennbaren Rechtsverletzung" nur in Ausnahmefällen zu einem eindeutigen Ergebnis für den Suchmaschinenbetreiber. Eine sichere und eindeutige Beurteilung, ob unter Berücksichtigung aller widerstreitenden grundrechtlich geschützten Belange und der Umstände des Einzelfalls das Schutzinteresse der Betroffenen die schutzwürdigen Belange der Internetseitenbetreiber, der Beklagten zu 1 sowie der Internetnutzer überwiegt (vgl. Senatsurteile vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 30; vom 17. Dezember 2013 - VI ZR 211/12, BGHZ 199, 237 Rn. 22 - Sächsische Korruptionsaffäre; vom 15. September 2015 - VI ZR 175/14, VersR 2015, 1437 Rn. 20; vom 28. Juli 2015 - VI ZR 340/14, AfP 2015, 425 Rn. 29; vom 13. Januar 2015 - VI ZR 386/13, VersR 2015, 336 Rn. 13 - Filialleiter bei Promi-Friseur; vom 30. September 2014 - VI ZR 490/12, AfP 2014, 534, 536 - Innenminister unter Druck; vom 29. April 2014 - VI ZR 137/13, AfP 2014, 325 Rn. 8 - Adoptivtochter), ist dem Suchmaschinenbetreiber im Regelfall nicht ohne weiteres möglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>c) Nach diesen Grundsätzen wendet sich die Revision ohne Erfolg gegen die Annahme des Berufungsgerichts, dass die Kläger den Anforderungen an einen hinreichend konkreten Hinweis, der dem Suchmaschinenbetreiber eine offensichtliche und bereits auf den ersten Blick klar erkennbare Rechtsverletzung aufzeigt, nicht genügt haben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>aa) Das Berufungsgericht ist zutreffend davon ausgegangen, dass die von der Revision beanstandeten Bezeichnungen der Kläger zwar ausfallend scharf sind und ihre Ehre beeinträchtigen. Es hat jedoch weiter mit Recht angenommen, dass ihr ehrbeeinträchtigender Gehalt nicht von vornherein außerhalb jedes in einer Sachauseinandersetzung wurzelnden Verwendungskontextes steht. Denn die Äußerungen stehen ersichtlich im Zusammenhang mit der Rolle, welche die Kläger beim F-Internetforum gespielt haben sollen. Nach dem Inhalt der beanstandeten Suchergebnisse werden den Mitgliedern des F-Internetforums u.a. Stalking (Straftat iS des § 238 StGB) vorgeworfen. Darüber hinaus darf nach den Feststellungen des Berufungsgerichts auch nicht unberücksichtigt bleiben, dass es sich bei den Foren, in denen die betreffenden Äußerungen über die Kläger abgegeben wurden, in Gänze um Seiten handelt, auf denen eine eher deftige und grenzwertige Diktion vorherrscht und der Kläger zu 2 immerhin an der Erstellung des F-Internetforums mitgewirkt hat, das ebenfalls als Plattform für entsprechende Äußerungen gegen Dritte dient. Die vom Kläger zu 2 beanstandeten Begriffe fügen sich nahtlos in die auf diesen Seiten vorherrschende Wortwahl ein, was in Verbindung mit einem bestehenden Sachbezug gegen eine offensichtliche und bereits auf den ersten Blick klar erkennbare Rechtsverletzung spricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>bb) Die Beteiligung des Klägers zu 2 an der Erstellung des F-Internetforums haben die Kläger nicht zweifelsfrei klären können. Der Kläger zu 2 räumt selbst ein, am "Aufsetzen" des F-Internetforums beteiligt gewesen zu sein; auch war eine von ihm eingerichtete E-Mail-Weiterleitung über das F-Internetforum an ihn noch Wochen nach dem Aufsetzen des Forums aktiv. Über die eigene, durch "eidesstattliche Versicherung" bekräftigte, jedoch ziemlich allgemein gehaltene und pauschale Behauptung hinaus, mit dem F-Internetforum nichts zu tun zu haben, hat der Kläger zu 2 keinerlei belastbare Indizien für die Haltlosigkeit der ihm - und zumindest mittelbar in Form der Mitwisserschaft seiner Frau, der Klägerin zu 1, - gemachten Vorwürfe aufgezeigt. Eine offensichtliche und auf den ersten Blick klar erkennbare Rechtsverletzung musste die Beklagte zu 1 den beanstandeten Äußerungen deshalb nicht entnehmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>cc) Vor diesem Hintergrund wird die von der Revision als persönlichkeitsrechtsverletzend beanstandete Bezeichnung "Arschkriecher" auf der durch den Link in der Suchmaschine nachgewiesenen Seite nicht zusammenhanglos zur Diffamierung der Person des Klägers zu 2 verwendet, sondern weist aufgrund der Bezugnahme auf den Bekannten des Klägers zu 2 als mutmaßlichen Initiator des F-Internetforums noch eine Beziehung zur sachlichen Auseinandersetzung über die Rolle des Klägers zu 2 in diesem Forum auf. Mit der in ihrer Gesamtheit zu beurteilenden Äußerung "Der hat seinen jahrelangen Arschkriecher und Fußsoldaten…(Kläger zu 2)...ermuntert, die Seite F… ins Netz zu stellen" wird für den durchschnittlichen Rezipienten deutlich, dass nicht - ohne Sachbezug - eine im Vordergrund stehende Schmähung des Klägers zu 2 erfolgen, sondern vielmehr sein Verhalten gegenüber dem mutmaßlichen Initiator des F-Internetforums einer polemischen und überspitzten Kritik zugeführt werden sollte. Ähnliches gilt für die Bezeichnungen "Schwerstkriminelle" und "krimineller Schuft", die unter Berücksichtigung der Meinungsfreiheit der Blogger noch Teil einer sachbezogenen Auseinandersetzung mit den gegen den Kläger zu 2 und - zumindest als Mitwisserin - gegen die Klägerin zu 1 erhobenen Vorwürfen des Stalking sein konnten, das von dem vom Kläger zu 2 miterschaffenen F-Internetforum ausgegangen sein soll. Es ist insofern nicht - jedenfalls nicht aus Sicht der Beklagten zu 1 - offensichtlich und auf den ersten Blick klar erkennbar, dass sich die Äußerungen von den sachbezogenen Vorwürfen völlig gelöst hätten und die Verantwortlichkeit der Kläger nur als mutwillig gesuchter Anlass oder Vorwand genutzt würde, um die Kläger persönlich zu diffamieren. Da Mitgliedern des F-Internetforums u.a. Stalking vorgeworfen wurde und sich davon Betroffene "terrorisiert" fühlten, gilt entsprechendes für die beanstandeten Ausdrücke "Terroristen", "Bande", "Stalker", "krimineller Stalkerhaushalt" u.ä.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>2. Den Klägern steht gegen die Beklagte zu 1 der von ihnen geltend gemachte Unterlassungsanspruch auch nicht nach § 1004 BGB analog, § 823 Abs. 2 BGB iVm §§ 4, 29 Abs. 1 Satz 1 Nr. 2, Abs. 2 BDSG zu. Nach diesen Vorschriften kann der Betroffene die Unterlassung einer unzulässigen Erhebung und Übermittlung von Daten verlangen. Eine Unzulässigkeit in diesem Sinne liegt im Streitfall nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>a) Das Berufungsgericht ist zunächst zutreffend von der grundsätzlichen Anwendbarkeit des Bundesdatenschutzgesetzes (BDSG) ausgegangen. Dessen Anwendungsbereich ist nach § 1 Abs. 2 Nr. 3 BDSG, derjenige seines dritten Abschnitts nach § 27 Abs. 1 Satz 1 Nr. 1 BDSG eröffnet. Denn die Beklagte zu 1 ist als juristische Person des privaten Rechts, die nicht unter § 2 Abs. 1 bis 3 BDSG fällt, gemäß § 2 Abs. 4 Satz 1 BDSG eine nicht-öffentliche Stelle und verarbeitet personenbezogene Daten im Sinne des § 3 Abs. 1 BDSG über die Kläger unter Einsatz von Datenverarbeitungsanlagen (Senatsurteile vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242 Rn. 12 - Ärztebewertungsportal II; vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328 Rn. 17 f.; siehe auch EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, juris Rn. 28 und 33 - Google Spain; ferner Dammann, in: Simitis, BDSG, 8. Aufl., § 3 Rn. 7 ff.; BeckOK DatenSR/Buchner, 21. Ed., 1. Februar 2017, BDSG § 29 Rn. 41 f.; Stehmeier/Schimke, UFITA 2014, 661, 666 f.), hier in Form von Suchprogrammen, sog. crawlern, um die gewonnenen Daten systematisch anhand ihrer Algorithmen zu durchsuchen, zu indexieren und zu speichern. Der Begriff der personenbezogenen Daten umfasst alle Informationen, die über eine Bezugsperson etwas aussagen oder mit ihr in Verbindung zu bringen sind. Das sind nicht nur der Name oder der Geburtsort, sondern auch Meinungsäußerungen, Beurteilungen und Werturteile, die sich auf einen bestimmten oder bestimmbaren Betroffenen beziehen, die Wiedergabe von mündlichen und schriftlichen Aussagen eines Betroffenen und die Darstellung des privaten oder des beruflichen Verhaltens eines Betroffenen (vgl. Senatsurteil vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328 Rn. 17; vgl. Gola/Schomerus/Körffer/Gola/Klug, BDSG, 12. Aufl., § 3 Rn. 2 ff.; Dammann, in: Simitis, BDSG, 8. Aufl., § 3 Rn. 7 ff.; Bergmann/Möhrle/Herb, BDSG, 38. Erg., § 3 Rn. 24). Dass die personenbezogenen Daten bereits im Internet veröffentlicht worden sind und von der Suchmaschine der Beklagten zu 1 nicht verändert werden, ändert daran nichts (vgl. EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, juris Rn. 29 f. - Google Spain).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>b) Dem Berufungsgericht ist weiter darin beizupflichten, dass einem entsprechenden Anspruch der Kläger auch das Medienprivileg nach § 57 des Rundfunkstaatsvertrages nicht entgegenstünde. Denn diese Sonderstellung der Medien ist daran gebunden, dass die Erhebung, Verarbeitung und Nutzung personenbezogener Daten einer pressemäßigen Veröffentlichung dient, die Daten also ausschließlich für eigene journalistisch-redaktionelle oder literarische Zwecke bestimmt sind. Übertragen auf den Bereich der Telemedien kann mithin die reine Übermittlung von erhobenen Daten an Nutzer nicht unter den besonderen Schutz der Presse fallen, weil die bloße automatische Auflistung von redaktionellen Beiträgen noch nicht eine eigene journalistisch-redaktionelle Gestaltung darstellt (vgl. Senatsurteile vom 23. September 2014 - VI ZR 358/13, juris Rn. 13 und vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328). Dies macht auch die Revision nicht geltend.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>c) Der Kläger muss sich auch nicht - wie die Revisionserwiderung meint - darauf verweisen lassen, vorrangig die verantwortlichen Betreiber der streitgegenständlichen Internetseiten in Anspruch zu nehmen. Die Haftung des Suchmaschinenbetreibers ist nach der Rechtsprechung des Europäischen Gerichtshofs gerade nicht subsidiär, da ein wirksamer und umfassender Schutz der betroffenen Personen nicht erreicht werden kann, wenn diese vorher oder parallel bei den Herausgebern der Websites die Löschung der sie betreffenden Informationen erwirken müsste (vgl. EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, Rn. 82 ff. - Google Spain; vgl. hierzu auch OLG Celle, Urteil vom 1. Juni 2017 - 13 U 178/16, AfP 2017, 444 Rn. 15). Im Übrigen kann die Abwägung im Rahmen des Anspruches aus § 35 Abs. 2 Satz 2 Nr. 1 BDSG gegen den Suchmaschinenbetreiber zu einem anderen Ergebnis führen als im Rahmen des Anspruchs gegen den Herausgeber der Website, da sowohl die berechtigten Interessen, die die Datenverarbeitungen rechtfertigen, unterschiedlich sein können als auch die Folgen, die die Verarbeitungen für die betroffene Person, insbesondere für ihr Privatleben, haben (vgl. EuGH, aaO, Rn. 86).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>d) Ein Unterlassungsanspruch der Kläger scheitert jedoch - wie das Berufungsgericht mit Recht angenommen hat - daran, dass die geschäftsmäßige Erhebung der beanstandeten Daten zum Zwecke der Übermittlung nach § 29 Abs. 1 Nr. 2 BDSG und ihre Übermittlung nach § 29 Abs. 2 Satz 1 BDSG zulässig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>aa) Nach § 29 Abs. 1 Nr. 2 BDSG ist das geschäftsmäßige Erheben, Speichern, Verändern oder Nutzen personenbezogener Daten zum Zweck der Übermittlung, insbesondere wenn dies der Werbung, der Tätigkeit von Auskunfteien oder dem Adresshandel dient, zulässig, wenn die Daten aus allgemein zugänglichen Quellen entnommen werden können oder die verantwortliche Stelle sie veröffentlichen dürfte, es sei denn, dass das schutzwürdige Interesse des Betroffenen an dem Ausschluss der Erhebung, Speicherung oder Veränderung offensichtlich überwiegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>bb) Die Tatsache, dass die Beklagte zu 1 mit ihrer Suchmaschine Werbeeinnahmen generiert, führt - wie bereits der Wortlaut der Vorschrift zeigt - noch nicht dazu, die Datenerhebung als solche als Mittel für die Erfüllung eigener Geschäftszwecke im Sinne von § 28 BDSG zu qualifizieren (vgl. Simitis, BDSG, 8. Aufl., § 28 BDSG Rn. 22). Der Zweck der Datenerhebung als solcher besteht nämlich darin, die im Internet recherchierten Informationen über die Suchmaschine für die Nutzer auffindbar zu machen. Dass die Suchmaschine daneben auch als Werbeplattform dient, ist (erwünschte) Folge, dagegen nicht Zweck der Datenerhebung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>cc) Die Beklagte zu 1 hat die Daten der Kläger - nach den Feststellungen des Berufungsgerichts - aus allgemein zugänglichen Quellen entnommen. Allgemein zugänglich sind solche Quellen, die sich nach ihrer technischen Ausgestaltung und Zielsetzung dazu eignen, einem individuell nicht bestimmbaren Personenkreis Informationen zu vermitteln (vgl. Simitis, BDSG, 8. Aufl., § 28 BDSG Rn. 152). Zu den allgemein zugänglichen Quellen gehören insbesondere auch die für jedermann auffindbaren Inhalte des Internets (vgl. Gola/Schomerus, BDSG, 12. Aufl., § 28 Rn. 33a; Plath, BDSG, 2. Aufl., § 29 Rn. 56; OLG Hamburg, Beschluss vom 13. November 2009 - 7 W 125/09, juris Rn. 3; OLG Celle, Urteil vom 1. Juni 2017 - 13 U 178/16, aaO Rn. 17).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>dd) Die Voraussetzung eines Unterlassungsanspruchs der Kläger, dass ihr schutzwürdiges Interesse an dem Ausschluss der Erhebung, Speicherung oder Veränderung "offensichtlich" überwiegt und Grund zu der Annahme besteht, dass sie ein schutzwürdiges Interesse an dem Ausschluss der Übermittlung haben, liegt nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>(1) Für das Vorliegen eines "schutzwürdigen Interesses" der Kläger ist eine Abwägung zwischen dem Schutz ihres Rechts auf informationelle Selbstbestimmung nach Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG, Art. 8 Abs. 1 EMRK, Art. 7, Art. 8 EU-Grundrechtecharta auf der einen Seite und dem Recht der Beklagten und der Nutzer ihrer Suchmaschine auf Kommunikationsfreiheit nach Art. 5 Abs. 1 GG, Art. 10 Abs. 1 EMRK, Art. 11 EU-Grundrechtecharta auf der anderen unter Berücksichtigung der mittelbaren Drittwirkung von Grundrechten (vgl. Senatsurteile vom 23. Juni 2009 - VI ZR 196/08, BGHZ 181, 328; vom 23. September 2014 - VI ZR 358/13, BGHZ 202, 242 Rn. 12 - Ärztebewertungsportal II und vom 20. Februar 2018 - VI ZR 30/17 zV in BGHZ bestimmt, jeweils mwN) erforderlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(2) Bei der danach gebotenen Abwägung der grundrechtlich geschützten Positionen der Kläger einerseits, der Beklagten zu 1 und ihrer Nutzer andererseits greifen die oben - zur Frage des Unterlassungsanspruchs gemäß § 823 Abs. 1, § 1004 BGB analog, Art. 1 Abs. 1 iVm Art. 2 Abs. 1 GG - angestellten Überlegungen entsprechend Platz. Unter Berücksichtigung der Arbeitsweise und der besonderen Bedeutung der Suchmaschine für die Nutzbarmachung des Internets (vgl. oben unter III. 1. b) cc) (1)) erfordert das Überwiegen eines schutzwürdigen Interesses der Kläger mithin auch hier einen hinreichend konkreten Hinweis, der dem Suchmaschinenbetreiber eine offensichtliche und bereits auf den ersten Blick klar erkennbare Rechtsverletzung aufzeigt. Dies ist im Streitfall - wie oben bereits ausgeführt - nicht der Fall. Darüber hinaus wurden die beanstandeten Suchergebnisse nicht schon bei schlichter Eingabe der Namen der Kläger angezeigt (vgl. EuGH, Urteil vom 13. Mai 2014 - Rs. C-131/12, juris - Google Spain). Dies macht selbst die Revision nicht geltend. Voraussetzung für ihr Auffinden war vielmehr, dass bei der Suche bestimmte Suchphrasen und -kombinationen verwendet wurden, der Nutzer also bereits Vorkenntnisse von der Verbindung der Kläger mit dem F-Internetforum oder bestimmten, diesem nahestehenden Personen haben musste.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>3. Ohne Erfolg wendet sich die Revision auch gegen die Beurteilung des Berufungsgerichts, dass den Klägern gegenüber der Beklagten zu 1 kein Anspruch auf Einrichtung eines Suchfilters zustehe, der die Suchergebnisse automatisch nach bestimmten, im Antrag wiedergegebenen Begriffskombinationen absucht und übereinstimmende Ergebnisse unterdrückt. Dabei kann wiederum dahinstehen, ob und inwieweit ein solcher Anspruch bei Persönlichkeitsrechtsverletzungen überhaupt in Betracht kommt (zum Markenrecht vgl. BGH, Urteile vom 19. April 2007 - I ZR 35/04, BGHZ 172, 119 Rn. 47 - Internet-Versteigerungen II - und vom 30. April 2008 - I ZR 73/05, NJW-RR 2008, 1136 Rn. 53 - Internet-Versteigerungen III; vgl. auch EuGH, Urteile vom 24. November 2011, Rs. C-70/10, juris Rn. 35 - Scarlet Extended und vom 16. Februar 2012, Rs. C-360/10, juris Rn. 26 ff., 52 - SABAM). Denn jedenfalls müsste die Beklagte zu 1 als mittelbare Störerin erst tätig werden, wenn sie durch einen konkreten Hinweis auf eine offensichtliche und auf den ersten Blick klar erkennbare Rechtsverletzung von dieser Kenntnis erlangt hätte. Dies war nach den obigen Ausführungen nicht der Fall. Deshalb muss auch der von den Klägern diesbezüglich hilfsweise gestellte Feststellungsantrag zu 13 - wie vom Berufungsgericht zutreffend erkannt - erfolglos bleiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>4. Rechtsfehlerfrei ist weiterhin die Beurteilung des Berufungsgerichts, dass den Klägern gegenüber der Beklagten zu 1 kein Anspruch auf Auskunft über die Identität der Verfasser beanstandeter Äußerungen zustehe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>a) Auf den allgemeinen Auskunftsanspruch nach § 242 BGB, wonach ein Anspruch auf Auskunftserteilung nach Treu und Glauben grundsätzlich in jedem Rechtsverhältnis besteht, in dem der Berechtigte in entschuldbarer Weise über Bestehen und Umfang seines Rechtes im Ungewissen und der Verpflichtete unschwer zur Auskunftserteilung in der Lage ist (BGH, Urteil vom 17. Mai 2001 - I ZR 291/98, BGHZ 148, 26 Rn. 29 - Entfernung der Herstellungsnummer II), können sich die Kläger nicht berufen. Das hierzu erforderliche Schuldverhältnis zwischen den Parteien besteht nicht, auch nicht in Form von Pflichten des mittelbaren Störers (vgl. OLG Dresden, Beschluss vom 8. Februar 2012 - 4 U 1850/11, juris Rn. 11), denn eine die mittelbare Störerstellung begründende Pflichtverletzung der Beklagten zu 1 liegt nach den rechtsfehlerfreien Feststellungen des Berufungsgerichts nicht vor.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>b) Darüber hinaus zeigt die Revision keinen übergangenen Sachvortrag der Kläger auf, dass der Beklagten zu 1 die Auskunftserteilung unschwer möglich wäre. Die Beklagte zu 1 unterhält als Suchmaschinenbetreiberin - anders als ein Hostprovider - regelmäßig keine geschäftlichen Beziehungen zu den Verfassern der angegriffenen Textpassagen, aufgrund derer ihr deren Identität bekannt oder ohne weiteres ermittelbar wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>5. Schließlich hat das Berufungsgericht mit Recht einen Anspruch auf Zahlung einer Geldentschädigung verneint.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Ein Schadensersatzanspruch käme grundsätzlich nur in Betracht, wenn die Beklagte zu 1 als unmittelbare oder als mittelbare Störerin haften würde (vgl. BGH, Urteile vom 17. August 2011 - I ZR 57/09, BGHZ 191, 19 Rn. 47 - Stiftparfüm; vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 253 - Internetversteigerung I). Dies ist - wie oben ausgeführt - nicht der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>6. Rechtsfehlerfrei ist letztlich auch die Beurteilung des Berufungsgerichts, dass der Beklagten zu 2 die Passivlegitimation fehlt, weil sie selbst nicht Betreiberin einer Suchmaschine ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>a) Zwar kann nach der Rechtsprechung des erkennenden Senats - wie die Revision im Ausgangspunkt zutreffend annimmt - als Störer jeder haften, der in irgendeiner Weise willentlich und adäquat kausal an der Herbeiführung einer rechtswidrigen Beeinträchtigung mitgewirkt hat (Senatsurteil vom 14. Mai 2013 - VI ZR 269/12, BGHZ 197, 213 Rn. 24 mwN - Autocomplete). Voraussetzung hierfür ist jedoch, dass der in Anspruch Genommene die rechtliche und tatsächliche Möglichkeit zur Verhinderung dieser Handlung hatte (vgl. Senatsurteile vom 28. Juli 2015 - VI ZR 340/14, AfP 2015, 425 Rn. 34 und vom 1. März 2016 - VI ZR 34/15, BGHZ 209, 139 Rn. 22). Die Beklagte zu 2 ist nach den Feststellungen des Berufungsgerichts nicht Betreiberin der Suchmaschine, sondern nur eine zum Verkauf von Online-Werbung gegründete Gesellschaft. Eine Möglichkeit der Beklagten zu 2, die Datenerfassung und Ausgestaltung der Suchindizes der Beklagten zu 1 zu beeinflussen, ist nicht festgestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>b) Soweit die Revision aus dem Urteil des Gerichtshofs der Europäischen Union in Sachen "Google Spain" (EuGH, Urteil vom 13. Mai 2014, Rs. C-131/12, juris) schlussfolgern will, auch die in einem Mitgliedstaat befindliche Tochtergesellschaft sei im vorliegenden Fall passivlegitimiert, ist dies der Entscheidung nicht zu entnehmen. Der Gerichtshof nimmt in seiner Entscheidung eine Zurechnung der Datenverarbeitung der in den Vereinigten Staaten von Amerika domizilierten Suchmaschinenbetreiberin zu einer Niederlassung mit Sitz in der Europäischen Union, die für die Vermarktung der Werbung in der länderspezifischen Suchmaschine verantwortlich ist, vor, so dass die Verarbeitung personenbezogener Daten zwar nicht "von" der Niederlassung, so aber doch "im Rahmen der Tätigkeiten" der Niederlassung durchgeführt wird (vgl. Art. 4 Abs. 1 lit. a der Datenschutzrichtlinie). Dies führt zur Eröffnung des Anwendungsbereichs der Datenschutzrichtlinie und ihres umfassenden Schutzes der Grundfreiheiten und Grundrechte natürlicher Personen auch auf Suchmaschinenbetreiber, die - wie im Streitfall die Beklagte zu 1 - außerhalb der Europäischen Union ihren Sitz haben (EuGH, aaO, Rn. 51 ff., 58). Insoweit sind die Tätigkeit des Suchmaschinenbetreibers und die seiner Niederlassung untrennbar miteinander verbunden (EuGH, aaO, Rn. 56). Eine Erstreckung der Haftung auf die Niederlassung (hier: Tochtergesellschaft) geht damit aber nicht einher. Dementsprechend nahmen sowohl der Spanische Oberste Gerichtshof (Tribunal Supremo, Urteil vom 14. März 2016, Az. 964/2016, CRi 2016, 81) als auch das Tribunal de Grande Instance de Paris (Urteil vom 13. Mai 2016, Monsieur X ./. Google France et Google Inc.) an, dass die nationalen, die Suchmaschine nicht selbst betreibenden Niederlassungen in vergleichbaren Fällen nicht passivlegitimiert und die Unterlassungsklagen vielmehr gegen den Suchmaschinenbetreiber selbst zu richten seien. Entsprechendes gilt für den Streitfall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>IV.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Nach alledem war die Revision der Kläger zurückzuweisen. Der Senat hatte keine Veranlassung, den Gerichtshof der Europäischen Union gemäß Art. 267 Abs. 1 bis 3 AEUV um eine Vorabentscheidung zu ersuchen. Die im Streitfall maßgeblichen unionsrechtlichen Fragen waren - wie ausgeführt - bereits Gegenstand der Entscheidung des Gerichtshofs vom 13. Mai 2014 (Rs. C-131/12 - Google Spain) und sind damit actes éclairés (vgl. EuGH, Urteil vom 6. Oktober 1982 - C-283/81, Slg. 1982, 3415 Rn. 13 - CILFIT).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Galke     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Wellner     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">von Pentz</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Oehler     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Klein     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300562018&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

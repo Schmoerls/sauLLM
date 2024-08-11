@@ -1,0 +1,2820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE320232017</doknr>
+   <ecli>ECLI:DE:BGH:2017:260917UXZR109.15.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20170926</entsch-datum>
+   <aktenzeichen>X ZR 109/15</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 2. Juli 2015, Az: 1 Ni 18/14 (EP), Urteil<br/>nachgehend BGH, 21. März 2018, Az: X ZR 109/15, Beschluss</vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitssache betreffend ein Europäisches Patent: Durch den Stand der Technik nahegelegter Gegenstand des Patentanspruchs; Anlass zur Heranziehung einer bestimmten technischen Lösung - Spinfrequenz</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Spinfrequenz</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Für die Beurteilung der Frage, ob sich dem Fachmann ein bestimmter Stand der Technik als möglicher Ausgangspunkt seiner Bemühungen anbot, ist die Einordnung eines bestimmten Ausgangspunkts als - aus der Sicht ex post - nächstkommender Stand der Technik weder ausreichend noch erforderlich (st. Rspr., zuletzt BGH, Urteil vom 31. Januar 2017, X ZR 119/14, GRUR 2017, 498 Rn. 28 - Gestricktes Schuhoberteil).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die Annahme, dass der Fachmann Anlass zur Heranziehung einer bestimmten technischen Lösung hatte, auch wenn ein konkretes Vorbild hierfür nicht aufgezeigt werden kann, setzt Feststellungen dazu voraus, dass diese Lösung als ein generelles, für eine Vielzahl von Anwendungsfällen in Betracht zu ziehendes Mittel ihrer Art nach zum allgemeinen Fachwissen gehörte, dass sich die Nutzung ihrer Funktionalität in dem zu beurteilenden Zusammenhang als objektiv zweckmäßig darstellt und dass keine besonderen Umstände vorliegen, die eine Anwendung aus fachlicher Sicht als nicht möglich, mit Schwierigkeiten verbunden oder sonst untunlich erscheinen lassen (Fortführung von BGH, Urteil vom 11. März 2014, X ZR 139/10, GRUR 2014, 647 - Farbversorgungssystem).</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das Urteil des 1. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 2. Juli 2015 abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Das europäische Patent 1 698 380 wird mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland für nichtig erklärt, soweit sein Gegenstand über eine Fassung hinausgeht, in der die Patentansprüche wie folgt lauten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. A method of estimating a spin frequency of a rotating sports ball in flight, wherein the sports ball is substantially spherical rotational symmetric, the method comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. a number of points in time during the flight, receiving electromagnetic waves reflected from the rotating sports ball and providing a corresponding signal modulated by a modulating frequency,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. performing a frequency analysis of the modulated signal, and identifying two or more discrete spectrum traces positioned at least substantially equidistantly in frequency and being continuous over time among a spectrum trace caused by the velocity of the ball and spectrum traces being harmonics of the modulating frequency, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. estimating the spin frequency from a frequency distance between the identified discrete spectrum traces assuming that the spin frequency equals the spacing between the discrete spectrum traces.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. A method according to claim 1, wherein step 1 comprises receiving the reflected electromagnetic waves using a receiver, and wherein step 2 comprises identifying, subsequent to the frequency analysis, a first frequency corresponding to a velocity of the ball in a direction toward or away from the receiver and wherein identification of the spectrum traces comprises identifying spectrum traces positioned symmetrically around the first frequency.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. A method according to claim 1 or 2, wherein step 2 comprises, for each point in time and sequentially in time:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- performing the frequency analysis and an identification of equidistant candidate frequencies for a point in time,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- subsequently identifying those candidates which each has a frequency deviating at the most a predetermined amount from a frequency of a candidate of one or more previous points in time,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- then identifying, as the frequency traces, traces of identified candidates,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">and where step 3 comprises estimating the frequency on the basis of the identified spectrum traces.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. A system for estimating a spin frequency of a rotating sports ball in flight, wherein the sports ball is substantially spherical rotational symmetric, the system comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. a receiver adapted to, a number of points in time during the flight, receive electromagnetic waves reflected from the rotating sports ball and provide a corresponding signal modulated by a modulating frequency,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. means for performing a frequency analysis of the modulated signal, and identifying two or more discrete spectrum traces positioned at least substantially equidistantly in frequency and being continuous over time among a spectrum trace caused by the velocity of the ball and spectrum traces being harmonics of the modulating frequency, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. means for estimating the frequency from a frequency distance between the identified discrete spectrum traces assuming that the spin frequency equals the spacing between the discrete spectrum traces.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. A system according to claim 4, wherein the means 2 are adapted to identify, subsequent to the frequency analysis, a first frequency corresponding to a velocity of the ball in a direction toward or away from the receiver and to identify, as the spectrum traces, spectrum traces positioned symmetrically around the first frequency.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">6. A system according to claim 4 or 5, wherein the means 2 are adapted to, for each point in time and sequentially in time:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- perform the frequency analysis and the identification of equidistant candidate frequencies for a point in time,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- subsequently identify those candidates which have a frequency deviating at the most a predetermined amount from a frequency of a candidate of one or more previous points in time,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">- then identify, as the frequency traces, traces of identified candidates,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">and where the means 3 are adapted to estimate the frequency on the basis of the identified spectrum traces.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">7. A method of estimating a spin, comprising a spin axis and a spin frequency, of a sports ball while in flight, the method comprising estimating the spin frequency according to claim 1 and the steps of:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. determining at least part of a 3D-trajectory of the flying sports ball,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. estimating, from the trajectory, an acceleration of the sports ball at a predetermined position along the trajectory,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. estimating an acceleration of the sports ball caused by gravity at the predetermined position,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. estimating an acceleration of the sports ball caused by air resistance/drag at the predetermined position, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. estimating the spin axis, at the predetermined position, on the basis of the estimated accelerations.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">8. A system for estimating a spin, comprising a spin axis and a spin frequency, of a sports ball while in flight, the system comprising the system according to claim 4, the system further comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. means for determining at least part of a 3D-trajectory of the flying sports ball,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. means for estimating, from the trajectory, an acceleration of the sports ball at a predetermined position along the trajectory,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. means for estimating an acceleration of the sports ball caused by gravity at the predetermined position,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">4. means for estimating an acceleration of the sports ball caused by air resistance/drag at the predetermined position, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">5. means for estimating the spin axis, at the predetermined position, on the basis of the estimated accelerations.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Übrigen wird die Klage abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die weitergehende Berufung der Beklagten und die Berufung der Klägerin werden zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von den Kosten des Berufungsverfahrens tragen die Klägerin 3/4 und die Beklagte 1/4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des am 28. Februar 2006 unter Inanspruchnahme einer US-amerikanischen Priorität angemeldeten und mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 698 380 (Streitpatents), das die Ermittlung der Bewegungsparameter eines Sportballs betrifft. Patentansprüche 1 und 4, auf die weitere Ansprüche rückbezogen sind, lauten in der erteilten Fassung wie folgt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. A method of estimating a rotational velocity or spin frequency of a rotating sports ball in flight, the method comprising</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. a number of points in time during the flight, receiving electromagnetic waves reflected from the rotating sports ball and providing a corresponding signal,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. performing a frequency analysis of the signal, and identifying two or more discrete spectrum traces positioned at least substantially equidistantly in frequency and being continuous over time, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. estimating the rotational velocity/spin frequency from a frequency distance between the discrete spectrum traces.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. A system for estimating a rotational velocity or spin frequency of a rotating sports ball in flight, the system comprising:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1. a receiver adapted to, a number of points in time during the flight, receive electromagnetic waves reflected from the rotating sports ball and provide a corresponding signal,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2. means for performing a frequency analysis of the signal, and identifying two or more discrete spectrum traces positioned at least substantially equidistantly in frequency and being continuous over time, and</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">3. means for estimating the velocity/frequency from a frequency distance between the discrete spectrum traces."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat das Streitpatent insgesamt wegen fehlender Patentfähigkeit angegriffen. Die Beklagte hat das Streitpatent mit einem Hauptantrag und sieben Hilfsanträgen in geänderter Fassung verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit sein Gegenstand über die Fassung nach dem in erster Instanz gestellten Hilfsantrag V hinausgeht, und die Klage im Übrigen abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Mit ihren Berufungen verfolgen beide Parteien ihr erstinstanzliches Begehren in vollem Umfang weiter. Die Beklagte verteidigt das Streitpatent ergänzend mit sechs weiteren Hilfsanträgen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die Berufung der Beklagten hat nur insoweit Erfolg, als sie das Streitpatent in der Fassung von Hilfsantrag III verteidigt. Die Berufung der Klägerin ist in vollem Umfang unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft die Bestimmung der Parameter der Eigendrehung (<em>spin</em>) eines Sportballs während seines Fluges.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung des Streitpatents heißt es dazu, die Kenntnis dieser Parameter sei sowohl für den Gebrauch von Sportbällen als auch für die Entwicklung solcher Bälle und der Sportgeräte, mit denen sie geschlagen werden, etwa Golfschläger, von großem Interesse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Der Streitpatentschrift zufolge erfolgte die Bestimmung solcher Parameter bei Golfbällen im Stand der Technik normalerweise dergestalt, dass auf dem Golfball Streifen oder Muster aus einem Material angebracht wurden, die Radarwellen reflektieren. Dies sei jedoch nur zu Testzwecken möglich. Die Beschreibung nennt es als Ziel des Streitpatents, diese Bestimmung ohne solche Änderungen am Ball vornehmen zu können (Abs. 4).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>2. Unter Verweis hierauf hat das Patentgericht das technische Problem darin gesehen, die Spin-Parameter eines Sportballs während seines Flugs zu bestimmen, ohne dass es hierzu einer Veränderung des Balls bedürfe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Diese Definition begegnet Bedenken, weil jedenfalls eine der in der Patentschrift angeführten Veröffentlichungen aus dem Stand der Technik bereits Verfahren offenbart, bei denen die Bälle nicht besonders präpariert werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>In der US-Patentschrift 6 244 971 (D3) wird unter anderem ausgeführt, es sei möglich, die Spinfrequenz eines rotierenden Objekts, etwa eines Golfballs im Flug, ohne Einsatz von Kontrastzonen zu bestimmen, wenn der Ball ein Grübchenmuster (<em>dimple patterns</em>) oder - allgemeiner - eine Oberflächenrauheit (<em>surface roughness</em>) aufweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Im vorliegenden Zusammenhang ist nicht zu klären, ob die Erfindung damit vorweggenommen oder nahegelegt ist. Nach der Rechtsprechung des Senats darf bei der Definition des technischen Problems, das einer Erfindung zu Grunde liegt, nicht ohne weiteres unterstellt werden, dass dem Fachmann die Befassung mit einer bestimmten Aufgabenstellung nahegelegt war. Vielmehr ist das technische Problem so allgemein und neutral zu formulieren, dass sich diese Frage ausschließlich in dem Zusammenhang stellt, in dem sie relevant ist, nämlich bei der Prüfung der erfinderischen Tätigkeit (BGH, Urteil vom 13. Januar 2015 - X ZR 41/13, GRUR 2015, 352 Rn. 17 - Quetiapin; Urteil vom 21. Juni 2016 - X ZR 41/14, GRUR 2016, 1038 Rn. 12 - Fahrzeugscheibe II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist das technische Problem dahin zu formulieren, bekannte Verfahren und Vorrichtungen zur Bestimmung der Spin-Parameter eines Sportballs während seines Flugs weiterzuentwickeln.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung dieses Problems schlägt das Streitpatent in der mit dem Hauptantrag verteidigten Fassung ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (Änderungen gegenüber der erteilten Fassung sind hervorgehoben, die abweichende Gliederung durch das Patentgericht ist in eckigen Klammern hinzugefügt):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zur Abschätzung einer <span style="text-decoration:line-through">Drehgeschwindigkeit oder</span> Eigendrehfrequenz eines rotierenden Sportballs im Flug [M1], umfassend</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. zu einer Anzahl von Zeitpunkten während des Flugs</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.1 Empfangen von elektromagnetischen Wellen, die von dem rotierenden Sportball reflektiert werden [M2], und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">1.2 Bereitstellen eines korrespondierenden Signals, <span style="text-decoration:underline">das von einer modulierenden Frequenz moduliert ist [M3]</span>;</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.1 Durchführen einer Frequenzanalyse dieses <span style="text-decoration:underline">modulierten</span> Signals und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.2 Identifizieren von zwei oder mehr diskreten Spektrumspuren [M4],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">
+                  <span style="text-decoration:line-through">2.2.1. die zumindest im Wesentlichen äquidistant bezüglich der Frequenz angeordnet [M5a] und</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:90pt">
+                  <span style="text-decoration:line-through">2.2.2. über die Zeit stetig sind [M5b];</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">2.3 <span style="text-decoration:underline">unter einer Spektrumspur, die durch die Ballgeschwindigkeit verursacht ist, und Spektrumspuren, die Harmonische der modulierenden Frequenz sind [M5c];</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Abschätzen der Drehgeschwindigkeit/Eigendrehfrequenz nach einem Abstand der Frequenzen zwischen den <span style="text-decoration:underline">identifizierten</span> diskreten Spektrumspuren [M6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>4. Der Patentanspruch bedarf der Erläuterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Zur Durchführung des Verfahrens werden von einem Transmitter elektromagnetische Wellen ausgesendet. Treffen diese auf die Oberfläche des Balls, werden sie reflektiert und von einem Empfänger empfangen (Merkmal 1.1). Aus den empfangenen Wellen wird ein korrespondierendes Signal bereitgestellt (Merkmal 1.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Die Frequenz der empfangenen Wellen weicht von derjenigen der ausgesendeten Wellen ab.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Dies beruht zum einen auf dem Doppler-Effekt, der aufgrund der Bewegung des Balles relativ zum Sende- und Empfangsgerät auftritt. Entfernt sich der Ball von dem Messgerät, ist die Frequenz der vom Ball reflektierten Wellen aufgrund des Doppler-Effektes niedriger als die der ausgesendeten Wellen. Das Maß der Veränderung, die die Frequenz dadurch erfährt, ist proportional zur Fluggeschwindigkeit des Balls.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Zum anderen wird die Frequenz der reflektierten Wellen aufgrund der Rotation des Balles modifiziert, sofern dieser, was praktisch stets der Fall ist, keine perfekte Kugelform aufweist. Das von einem einzelnen Punkt auf der nicht völlig gleichförmigen Oberfläche des Balles reflektierte Signal weist eine sich periodisch ändernde Frequenz auf, weil sich die Geschwindigkeit des Punkts relativ zum Sende- und Empfangsgerät bei jeder Drehung des Balles periodisch verändert. Dadurch kommt es zu einer Frequenzmodulation, d.h. zu einer Überlagerung der ersten, durch Sendefrequenz und Ballgeschwindigkeit verursachten Frequenz (Trägerfrequenz) mit einer weiteren, durch die Eigendrehung des Balls verursachten Frequenz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b)Um die von der Eigendrehung des Balls verursachte Frequenz zu ermitteln, wird das empfangene und bereitgestellte Signal einer Frequenzanalyse unterworfen (Merkmal 2.1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Hierzu wird die auf einen bestimmten Zeitraum bezogene Darstellung des bereitgestellten Signals (das Zeitsignal) mittels einer Fourier-Transformation umgewandelt in eine auf Frequenzen bezogene Darstellung (das Frequenzsignal). Dem Frequenzsignal kann entnommen werden, aus welchen Einzelfrequenzen sich das während des betreffenden Zeitraums aufgetretene Signal zusammensetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Ein frequenzmoduliertes sinusartiges Zeitsignal führt zu einem Frequenzsignal, das neben der Trägerfrequenz eine Anzahl weiterer Frequenzen aufweist. Diese werden als Seitenbänder bezeichnet und sind auf beiden Seiten symmetrisch und in gleichen Abständen (äquidistant) um die Trägerfrequenz herum angeordnet. Der Abstand zwischen der Trägerfrequenz und dem ersten Seitenband und damit auch der Abstand zwischen zwei benachbarten Seitenbändern hängt von der Modulationsfrequenz ab. Der Abstand jedes Seitenbandes zur Trägerfrequenz entspricht einem ganzzahligen Vielfachen der Modulationsfrequenz. Die Seitenbänder werden im Streitpatent deshalb als "Harmonische" bezeichnet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>c) Zur Ermittlung der Modulationsfrequenz sieht Merkmal 2.2 vor, mindestens zwei diskrete Spektrumspuren (<em>discrete spectrum spaces</em>) zu identifizieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Spektrumspuren sind nach der Beschreibung des Streitpatents (Abs. 10) das Ergebnis einer Aneinanderreihung von Frequenzen - gemeint sind Darstellungen von Frequenzsignalen -, die in der zeitlichen Reihenfolge der entsprechenden Signale angeordnet werden und damit den Verlauf der Trägerfrequenz und der charakteristischen harmonischen Seitenbänder über die Zeit darstellen. Entgegen der Darstellung der Beklagten handelt es sich damit bei einer Spektrumspur nicht um einen inhärenten Bestandteil des modulierten Frequenzsignals. Sie kann daher auch nicht bereits aus einem einzelnen Signal erlangt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>aa) Diskrete Spektrumspuren sind solche, die hinreichend deutlich voneinander unterscheidbar sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Die zur Ermittlung der Modulationsfrequenz herangezogenen Spektrumspuren müssen voneinander unterscheidbar sein, weil nur dann ihr Abstand voneinander hinreichend exakt bestimmt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>bb) Nach Merkmal 2.2 sind anhand der aneinandergereihten Frequenzspektren mindestens zwei Spektrumspuren zu identifizieren, die zur Ermittlung der Modulationsfrequenz geeignet sind. Die hierfür maßgeblichen Auswahlkriterien sind in den mit dem Hauptantrag und den Hilfsanträgen I, I B und II verteidigten Fassungen zumindest verbal anders formuliert als in der erteilten Fassung:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Nach der erteilten Fassung sollen die Spektrumspuren hinsichtlich ihrer Frequenz zumindest im Wesentlichen äquidistant liegen (Merkmal 2.2.1) und über die Zeit stetig (<em>continuous over time</em>) sein, also keine Sprünge aufweisen (Merkmal 2.2.2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Nach der mit dem Hauptantrag verteidigten Fassung sollen die Spektrumspuren ausgewählt werden aus einer Spur, die durch die Geschwindigkeit des Balls verursacht wird, und Spuren, die Harmonische der Modulationsfrequenz sind (Merkmal 2.3).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>cc)Wie geeignete Spektrumspuren aussehen können, ist aus Figur 2 des Streitpatents ersichtlich:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="541px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Die für die Ballgeschwindigkeit stehende Spur ist typischerweise etwas kräftiger, weil die Reflektion der elektromagnetischen Wellen an dem zum Sende- und Empfangsgerät am nächsten liegenden Punkt stärker ist als an den anderen Punkten der Oberfläche des Sportballs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Spuren, die um diese Spur herum angeordnet sind und bei denen der Abstand zwischen benachbarten Spuren sowohl untereinander als auch im Verhältnis zur Spur der Trägerfrequenz im Wesentlichen gleich ist, können als charakteristisch für die Modulationsfrequenz angesehen werden. Solche Spuren gilt es nach Merkmal 2.2 zu identifizieren. Sie ermöglichen es, die Spinfrequenz des Balls abzuschätzen, wie dies in Merkmal 3 vorgesehen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>d) Das Empfangen der vom Ball reflektierten Wellen und das Bereitstellen des dazu korrespondierenden Signals erfolgen zu einer Anzahl von Zeitpunkten während des Flugs des Balls (Merkmal 1). Aus dem Zusammenhang mit den Merkmalen 2.2, 2.3 und 3 ergibt sich, dass dies über einen Zeitraum hinweg erfolgen muss, der insgesamt ausreichend lang ist, um mittels der Frequenzanalyse ein aussagekräftiges, d.h. zur zuverlässigen Ermittlung der Modulationsfrequenz geeignetes Frequenzsignal zu erhalten. Die nähere Ausgestaltung überlässt Patentanspruch 1 insoweit dem Fachmann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>aa) Um ein Zeitsignal im Sinne von Merkmal 1.2 zu erhalten, muss das empfangene Signal über einen bestimmten Zeitraum hinweg abgetastet werden. Daraus ergibt sich, dass der Signalzustand für mehrere einzelne Zeitpunkte ermittelt werden muss.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>bb) Um eine Spektrumspur im Sinne der Merkmale 2.2, 2.3 und 3 zu erhalten, ist ein gesondertes Frequenzsignal für mehrere unterschiedliche Zeiträume erforderlich. Nur unter dieser Voraussetzung ist es möglich, den zeitlichen Verlauf der Trägerfrequenz und der Seitenbänder darzustellen, wie dies in den genannten Merkmalen vorausgesetzt wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>cc) Patentanspruch 1 enthält keine konkrete Festlegung, über welchen Zeitraum sich die Messung und das Bereitstellen eines korrespondierenden Zeitsignals mindestens erstrecken und wie viele Frequenzsignale mindestens gebildet werden müssen. Vorgaben hierfür ergeben sich deshalb allein aus dem mit dem Verfahren angestrebten Ziel einer zuverlässigen Ermittlung der Modulationsfrequenz anhand der Spektrumspuren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>Um diskrete Spektrumspuren im Sinne von Merkmal 2.2 zu erhalten, muss die Dauer des Zeitraums, für den jeweils ein gesondertes Frequenzsignal erstellt wird, an die Bandbreite angepasst werden. Wird die Dauer eines einzelnen Zeitraums (die Fensterbreite) zu kurz gewählt, kann es zu einer "Verschmierung" kommen, was die Ermittlung der einzelnen Frequenzen schwierig oder unmöglich macht; dafür werden Übergänge zwischen unterschiedlichen Zuständen exakter dargestellt. Bei größerer Fensterbreite ergibt sich eine bessere Trennung der einzelnen Frequenzen; dafür werden Übergänge zwischen unterschiedlichen Zuständen weniger exakt abgebildet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund müssen Anzahl und Dauer der betrachteten Zeiträume so ausgewählt werden, dass eine ausreichende Trennung der zu identifizierenden Spektrumspuren erzielt wird und der zeitliche Verlauf hinreichend deutlich erkennbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Die Verteidigung von Patentanspruch 1 in der Fassung des Hauptantrags und der Hilfsanträge I und II sei nicht zulässig, weil die danach vorgesehenen Änderungen zu einer unzulässigen Erweiterung des Schutzbereichs führten. Die nach diesen Fassungen vorgesehene Streichung von Merkmal 2.2.2, wonach die Spektrumspuren über die Zeit stetig sind, werde durch das eingefügte Merkmal 2.3, wonach die zu identifizierenden Spektrumspuren unter denen auszuwählen sind, die durch die Ballgeschwindigkeit verursacht oder aber Harmonische der modulierenden Frequenz sind, nicht kompensiert. Harmonisch liegende Spektrumspuren eines Balls im Flug seien nicht notwendig über die Zeit stetig. Entsprechendes gelte für die nach dem Hauptantrag und nach Hilfsantrag II vorgesehene Streichung von Merkmal 2.2.1. Nach Merkmal 2.3 sei es beispielsweise möglich, die erste und die fünfte Harmonische auszuwählen, die jedoch zur doppler-verschobenen Geschwindigkeitslinie nicht gleich beabstandet seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Dagegen sei die Verteidigung von Patentanspruch 1 in der Fassung der Hilfsanträge III bis V zulässig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Die Gegenstände von Patentanspruch 1 in der Fassung der Hilfsanträge III und IV beruhten jedoch nicht auf erfinderischer Tätigkeit. Die Merkmale bis einschließlich Merkmal 2.1 seien bereits in D3 offenbart. Da einem zu einer Zeitdauer ermittelten Spektrum bekanntermaßen auch Fehlmessungen zugrunde liegen könnten, liege es im Griffbereich des Fachmanns, mehrere Aufnahmen miteinander zu vergleichen und zu prüfen, ob sie über die Zeit stetig seien.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Dagegen sei der Gegenstand von Patentanspruch 1 in der Fassung des Hilfsantrags V durch den Stand der Technik nicht nahegelegt. Das dort aufgenommene weitere Merkmal, wonach zum Abschätzen der Eigendrehfrequenz die Harmonischen-Nummer jeder der identifizierten Spektrumspuren ermittelt werde und die Frequenz jeder dieser Spektrumspur relativ zu der durch die Ballgeschwindigkeit verursachten Spektrumspur durch die entsprechende Nummer der Harmonischen geteilt werde, sei durch keine der Entgegenhaltungen nahegelegt. Auch eine offenkundige Vorbenutzung sei insoweit nicht dargelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren nicht in allen Punkten stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>1. Ohne Erfolg wendet sich die Beklagte allerdings dagegen, dass das Patentgericht die Verteidigung des Streitpatents nach Maßgabe des Hauptantrags sowie der Hilfsanträge I und II als unzulässig angesehen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Zu Recht hat das Patentgericht angenommen, dass der Gegenstand von Patentanspruch 1 in den mit diesen Anträgen verteidigten Fassungen schon deshalb auf einer unzulässigen Erweiterung des Schutzbereichs beruht, weil der Anspruch Merkmal 2.2.2 der erteilten Fassung nicht umfasst, wonach die Spektrumspuren, die identifiziert werden, über die Zeit stetig sind. Entsprechendes gilt für den erstmals im Berufungsrechtszug gestellten Hilfsantrag I B, weshalb die Frage, ob dieser Antrag nach § 116 Abs. 2 PatG zulässig ist, offen bleiben kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>a) Die Beklagte macht insoweit geltend, an einer unzulässigen Erweiterung des Schutzbereichs fehle es, weil durch das in den Hauptantrag aufgenommene Merkmal 2.3 in Verbindung mit der Angabe, dass es um die Bestimmung der Spinfrequenz eines Sportballs im Flug gehe, gewährleistet sei, dass die zu identifizierenden Spektrumspuren auch die sich aus den Merkmalen 2.2.1 und 2.2.2 ergebenden Anforderungen erfüllten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>Dies ist nicht richtig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>aa) Dabei kann dahingestellt bleiben, ob das beanspruchte Verfahren nur Messungen während eines ungestörten Flugs betrifft, bei dem die Frequenz der vom Ball reflektierten Wellen mangels abrupter Einwirkungen von außen aus physikalischen Gründen notwendigerweise stetig verläuft. Selbst wenn diese Frage zu bejahen wäre, ergäbe sich daraus nicht ohne weiteres die Verwirklichung von Merkmal 2.2.2.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Dieses Merkmal betrifft nicht die Identifizierung von tatsächlichen Frequenzverläufen, sondern die Identifizierung von Spektrumspuren, die anhand der erfassten Messwerte gebildet wurden. Diese Spektrumspuren können, wie auch die Beklagte nicht in Zweifel zieht, aufgrund von Messfehlern zeitliche Unstetigkeiten aufweisen, obwohl der Frequenzverlauf der vom Ball reflektierten und gemessenen Wellen über die Zeit stetig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung der Beklagten sind als Spektrumspuren im Sinne von Merkmal 2.2 nicht die tatsächlichen Frequenzverläufe der vom Ball reflektierten Wellen anzusehen, sondern die anhand einer Frequenzanalyse ermittelten Frequenzverläufe der erfassten Messwerte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>Sowohl die Frequenzanalyse als auch die in Merkmalsgruppe 2.2 vorgesehenen Verfahrensschritte zur Identifizierung bestimmter Spektrumspuren dienen zwar dazu, Rückschlüsse über den tatsächlichen Frequenzverlauf zu gewinnen. Als Mittel dazu sieht das Streitpatent nach der erteilten Fassung von Patentanspruch 1 aber vor, die gewonnenen Messwerte nach Spektrumspuren zu durchsuchen, die über die Zeit stetig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>cc) Dies entspricht der Vorgehensweise bei dem in der Patentschrift geschilderten Ausführungsbeispiel.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Dort werden anhand des empfangenen Signalspektrums, wie es beispielhaft in Figur 2 dargestellt ist, zunächst die Ballgeschwindigkeit und anschließend die harmonischen Seitenbänder bestimmt (Abs. 40 f.). Die hierzu eingesetzten Verfahren werden zwar nicht im Einzelnen beschrieben, sondern als Standardverfahren bezeichnet. Der Beschreibung lassen sich aber keine Hinweise dazu entnehmen, dass eine Spektrumspur auch dann als zur Bestimmung eines Seitenbands mit über die Zeit stetigem Frequenzverlauf geeignet in Betracht gezogen werden kann, wenn ihr anhand der Messwerte ermittelter Verlauf Unstetigkeiten aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>b) Die weiteren von der Beklagten herangezogenen Passagen aus der Beschreibung des Streitpatents führen nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>aa) Dem Hinweis, es sei vorzugswürdig, die Strahlung so lange zu empfangen, wie die Spektrumspuren im Signal ermittelt werden können (Abs. 7), ist lediglich zu entnehmen, dass die Spektrumspuren anhand der empfangenen Wellen und der daraus erhaltenen Messwerte zu ermitteln sind. Hinweise darauf, dass dies anders geschehen kann als durch Identifizierung von über die Zeit stetig verlaufenden Spektrumspuren in den analysierten Messwerten, ergeben sich daraus nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>bb) Die an verschiedenen Stellen der Beschreibung enthaltenen Ausführungen zum zu erwartenden Verlauf der Spektrumspuren (z.B. Abs. 10: langsam abnehmend; Abs. 35: äquidistant) geben lediglich Hinweise darauf, anhand welcher Kriterien geeignete Spuren in den Messwerten identifiziert werden können. Daraus ist ebenfalls nicht zu entnehmen, dass die bei der Analyse der Messwerte gewonnenen Spektrumspuren auch dann geeignet sein können, wenn sie nicht über die Zeit stetig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>cc) Die Ausführungen, wonach eine Rauschunterdrückung dadurch ausgeführt werden kann, dass Ergebnisse einer einzelnen Messung, die gültigen äquidistanten Spektrumlinien ähneln könnten, aus der weiteren Betrachtung ausgeschieden werden, wenn in anderen, etwa benachbarten Messungen keine genauen Entsprechungen vorhanden sind (Abs. 14), sprechen nicht gegen, sondern für das vom Patentgericht gefundene Ergebnis.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Diesen Ausführungen ist zu entnehmen, dass als Kriterium zum Auffinden geeigneter Spektrumlinien gerade ein stetiger Verlauf der aus einzelnen zeitlich aufeinanderfolgenden Messungen gewonnenen Spektrumspuren herangezogen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>2. Das Patentgericht hat weiter zutreffend angenommen, dass die Verteidigung des Streitpatents in der Fassung nach Hilfsantrag III zulässig ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>a) Die in dieser Antragsfassung vorgenommene Ergänzung von Merkmal 3, wonach die Abschätzung der Spinfrequenz unter der Prämisse erfolgen soll, dass die Spinfrequenz dem Abstand zwischen den diskreten Spektrumspuren entspricht, stellt entgegen der Auffassung der Klägerin keine unzulässige Erweiterung dar.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Ergänzung ergeben sich keine weitergehenden Anforderungen an das erfindungsgemäße Verfahren. Sie erläutert lediglich die physikalischen Grundannahmen, die schon den in Merkmalsgruppe 2.2 und Merkmal 2.3 vorgesehenen Verfahrensschritten zu Grunde liegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben dargelegt wurde, ist aus der Modulationstheorie bekannt, dass das Spektrum einer sinusartigen Frequenzmodulation zu einem Spektrum mit diskreten Frequenzlinien führt, von denen eine die Trägerfrequenz repräsentiert und die anderen symmetrisch darum in einem Abstand angeordnet sind, der einem ganzzahligen Vielfachen der Modulationsfrequenz entspricht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent macht sich diese Annahme zu Nutze, weil die Trägerfrequenz der Geschwindigkeit und die Modulationsfrequenz der Spinfrequenz des Balls entspricht. Die diesbezüglichen Ausführungen in der Streitpatentschrift (Abs. 34 bis 36) finden sich bereits in den ursprünglichen Anmeldeunterlagen (Abs. 47 bis 49).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>b) Vor diesem Hintergrund führt die Ergänzung des Merkmals 3 auch nicht zu einer Unklarheit des Anspruchs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>c) Die Aufnahme von Merkmal 2.3, wonach die Spektrumspuren ausgewählt werden aus einer Spur die durch die Geschwindigkeit des Balls verursacht wird, und aus Spuren, die Harmonische der Modulationsfrequenz sind, begegnet ebenfalls keinen Bedenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Mit diesem Merkmal wird ebenfalls der bereits im Zusammenhang mit der ergänzten Fassung von Merkmal 3 dargestellte physikalische Zusammenhang zwischen Ballgeschwindigkeit und Spinfrequenz und dem daraus resultierenden Frequenzspektrum verdeutlicht. Ebenso wie bei der Ergänzung von Merkmal 3 liegt darin weder eine unzulässige Erweiterung noch eine Erweiterung des Schutzbereichs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht hat das Patentgericht die Merkmale 2.2 und 2.3 in Übereinstimmung mit dem Vorbringen der Beklagten dahin ausgelegt, dass die ausgewählten Spuren aus der die Trägerfrequenz repräsentierenden Spur und lediglich einer ein Seitenband repräsentierenden Spur bestehen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>(1) Mit dieser Auslegung stehen die genannten Merkmale allerdings in einem gewissen Spannungsverhältnis zu Merkmal 2.2.1, wonach die ausgewählten Spektrumspuren äquidistant sein müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>Die Frage, ob gleiche Abstände vorliegen, kann, wie das Patentgericht ebenfalls zutreffend dargelegt hat, nur dann beantwortet werden, wenn mindestens zwei Abstände - und damit mindestens drei Spuren - in die Betrachtung einbezogen werden. Selbst eine Beschränkung auf drei Spuren ist, wie die Klägerin im Ansatz zutreffend darlegt, im Zusammenhang mit dem geschützten Verfahren nicht geeignet, wenn nicht feststeht, zu welchem harmonischen Seitenband die betrachteten Spuren gehören.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_71">71</a>
+            </dt>
+            <dd>
+               <p>(2) Daraus resultiert indes kein unauflösbarer Widerspruch, weil die Merkmale 2.2, 2.2.1 und 2.3 ein mehrstufiges Auswahlverfahren beschreiben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_72">72</a>
+            </dt>
+            <dd>
+               <p>Gemäß Merkmal 2.2 ist es zwar möglich, im Ergebnis nur zwei Spektrumspuren zur Abschätzung der Spinfrequenz auszuwählen. Die in den Merkmalen 2.2.1, und 2.3 festgelegten Kriterien für die zur Auswahl geeigneten Spektrumspuren erfordern aber, dass in einem vorgelagerten Schritt eine größere Anzahl von Spuren identifiziert werden muss, die diesen Auswahlkriterien entsprechen. Diese Spuren müssen aufgrund ihrer Anzahl und ihrer Lage zueinander die Schlussfolgerung zulassen, dass der Abstand zwischen zwei benachbarten Spuren jeweils gleich ist und dass sie die die Trägerfrequenz repräsentierende Spur umfassen. Wie dies im Einzelnen erreicht werden kann, überlässt das Streitpatent dem Fachmann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_73">73</a>
+            </dt>
+            <dd>
+               <p>bb) In der Aufnahme dieses Merkmals liegt weder eine unzulässige Erweiterung noch eine Schutzbereichserweiterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_74">74</a>
+            </dt>
+            <dd>
+               <p>Sowohl die ursprünglichen Anmeldeunterlagen (Abs. 54) als auch die Streitpatentschrift (Abs. 41) schildern bei der Beschreibung eines Ausführungsbeispiels anhand der Figuren, dass die Spektrumspuren untersucht werden, die sich aus der Auswertung der Signale über einen gewissen Zeitraum ergeben, dass sodann festgestellt wird, welche von ihnen als Harmonische zu qualifizieren sind, und auf dieser Grundlage die Spinfrequenz unter Auswertung beliebiger Harmonischer bestimmt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_75">75</a>
+            </dt>
+            <dd>
+               <p>3. Entgegen der Auffassung des Patentgerichts ist der Gegenstand von Patentanspruch 1 in der Fassung von Hilfsantrag III patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_76">76</a>
+            </dt>
+            <dd>
+               <p>a) Der Gegenstand von Patentanspruch 1 in dieser Fassung wird durch keine der in das Verfahren eingeführten Entgegenhaltungen vollständig vorweggenommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_77">77</a>
+            </dt>
+            <dd>
+               <p>aa) Der Beitrag "Spin Measurements" von Jens-Erik Lolock zum zehnten internationalen Symposium der Ballistik vom Oktober 1987 in San Diego (D1) beschreibt ein Verfahren, mit dem der Spin eines um seine Flugachse rotierenden Projektils mithilfe von Doppler-Radar-Messungen bestimmt werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_78">78</a>
+            </dt>
+            <dd>
+               <p>(1) Um die Bestimmung des Spins zu ermöglichen, wird bei dem in D1 offenbarten Verfahren der Boden des Projektils, von dem die Radar-Wellen reflektiert werden, modifiziert, etwa durch das Anbringen von Kerben. Ferner wird linear polarisierte Radarstrahlung eingesetzt. Die Drehung des Projektils um seine Flugachse führt dann dazu, dass die Amplitude und die Phase des reflektierten Signals moduliert werden. Die Phasenmodulation führt zu Seitenbändern des Trägersignals, das der Fluggeschwindigkeit des Projektils entspricht. Werden die Signale über die Zeit verfolgt, lassen sich die Ergebnisse, wie aus den nachstehenden Figuren 2 und 3 ersichtlich, als dreidimensionale Spektrumspuren (Figur 2) und als Kurven (Figur 3) darstellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild2_1.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild2_1.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="482px"
+                       src="bild3_2.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_79">79</a>
+            </dt>
+            <dd>
+               <p>Dabei repräsentiert die mittlere Kurve die Geschwindigkeit des Projektils. Die beiden parallelen Kurven zeigen die Phasenmodulation des Doppler-Signals an (D1, S. 3). D1 beschreibt es als vorteilhaft, die Messung über einen längeren Zeitraum vorzunehmen, weil dies die Bildung von Spektrumspuren ermöglicht, deren Abstand herangezogen werden kann, um die Spinfrequenz des Projektils zu bestimmen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_80">80</a>
+            </dt>
+            <dd>
+               <p>D1 beschreibt weiter, eine Modulation der Frequenz sei zum Teil auch bei Projektilen beobachtet worden, deren Boden nicht mit Kerben oder dergleichen versehen worden sei. Die Ursache dieser Modulation stehe noch nicht fest; möglicherweise sei sie in Beschädigungen des Projektilbodens zu finden, die beim Abfeuern entstanden seien und die axiale Symmetrie des Bodens beeinträchtigt hätten (D1, S. 7).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_81">81</a>
+            </dt>
+            <dd>
+               <p>(2)D1 offenbart nicht sämtliche Merkmale von Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_82">82</a>
+            </dt>
+            <dd>
+               <p>(a) Allerdings greift der Einwand der Beklagten, D1 betreffe ein Verfahren, bei dem das Objekt der Beobachtung modifiziert werden müsse, bereits deshalb nicht durch, weil der Gegenstand von Patentanspruch 1 nicht auf Verfahren beschränkt ist, bei welchen der Sportball nicht modifiziert ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_83">83</a>
+            </dt>
+            <dd>
+               <p>(b) D1 betrifft jedoch lediglich Projektile und damit Objekte, die aus Waffen abgefeuert werden, jedoch keine Sportbälle.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_84">84</a>
+            </dt>
+            <dd>
+               <p>bb) Die japanische Patentanmeldung 2003-294777 (D2) befasst sich mit Vorrichtungen und Verfahren zur Erfassung der Drehgeschwindigkeit (Spinfrequenz) eines Objekts. Beispielhaft nennt die Schrift die Spinfrequenz von Golf- oder Tennisbällen, wobei sie hervorhebt, dass diese nicht modifiziert werden müssen (Übersetzung S. 17 unten). Die Schrift behandelt auch den Fall, dass sich das Objekt zudem relativ zum Messgerät linear bewegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_85">85</a>
+            </dt>
+            <dd>
+               <p>(1) Bei dem in D2 offenbarten Verfahren kommt eine Vorrichtung zum Einsatz, die ein Sendesignal mit konstanter Frequenz zu dem Ball sendet, die von diesem reflektierte Strahlung empfängt und aus dem Signal ein Frequenzspektrum ermittelt. Aufgrund der Eigendrehung des Balls kommt es zu Änderungen in der Frequenz des reflektierten Signals, weil sich die Oberfläche zum Teil in die Flugrichtung, zum Teil entgegengesetzt bewegt. Durch eine Analyse dieses Signals ergibt sich ein Frequenzband. Ist der Radius des Balls bekannt, kann aus der Breite des Frequenzbandes die Drehgeschwindigkeit abgeleitet werden. Dies kann genauer erfolgen, wenn das Frequenzband mehrere Höchstwerte aufweist. Die Spinfrequenz wird dabei aus der Differenz von zwei Frequenzen ermittelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_86">86</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene, aus D2 entnommene Figur 2B zeigt eine Empfangseinrichtung B1 sowie ein kugelförmiges Objekt M, das sich auf den Empfänger zubewegt und sich dabei um eine quer zur Flugrichtung verlaufende Achse dreht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="418px"
+                       src="bild4_3.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">Figur 2B</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                       src="bild5_4.jpg"
+                       class="docLayoutGraphicScale"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+                  <a xmlns:xs="http://www.w3.org/2001/XMLSchema" target="_blank" class="Overl"
+                     href="bild5_4.jpg"
+                     title="öffnet in neuem Fenster">
+                     <br/>
+                     <span>Abbildung in Originalgröße in neuem Fenster öffnen</span>
+                  </a>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">Figur 3B</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_87">87</a>
+            </dt>
+            <dd>
+               <p>Figur 3B zeigt eine Frequenzspektrumsfunktion des Reflexionssignals Rw. Das Spektrum weist drei Höchstwerte für die Frequenzen FR0, FR3 und FR4 auf. Dabei steht FR0 für die Frequenz des Reflexionssignals, die der linearen Bewegungsgeschwindigkeit des Balls entspricht. FR3 und FR4 entsprechen den Frequenzen des Reflexionssignals an den Punkten P1 (maximale Geschwindigkeit) und P2 (minimale Geschwindigkeit). Anhand der Differenz dieser Frequenzen kann nach den Ausführungen in D2 die Spinfrequenz genauer bestimmt werden. Dabei ist es vorteilhaft, die Frequenz FR0, bei der das reflektierte Signal am stärksten ist, als mittlere Frequenz zu wählen (Übersetzung S. 16 oben, S. 25 oben).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_88">88</a>
+            </dt>
+            <dd>
+               <p>(2) Damit sind die Merkmale 1 bis 2.1 offenbart. Nicht offenbart ist hingegen die Auswertung des Ergebnisses der Frequenzanalyse über einen Zeitraum hinweg, um Spektrumspuren zu identifizieren (Merkmal 2.2), die den Anforderungen der Merkmale 2.2.1, 2.2.2 und 2.3 genügen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_89">89</a>
+            </dt>
+            <dd>
+               <p>Nach der Lehre der D2 wird die Spinfrequenz nicht anhand von diskreten Spektrumspuren ermittelt, sondern mithilfe der Abstände der Frequenzen in einem einzelnen Frequenzspektrum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_90">90</a>
+            </dt>
+            <dd>
+               <p>cc) Das US-amerikanische Patent 6 244 971 (D3) betrifft ein Gerät und eine Methode zur Bestimmung der Eigendrehparameter eines sich drehenden Objekts, ferner einen Ball, der hierfür verwendet werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_91">91</a>
+            </dt>
+            <dd>
+               <p>(1) Eingesetzt wird eine Vorrichtung, die einen Sender und einen Empfänger für elektromagnetische Wellen umfasst. Das betreffende Objekt, etwa ein Golfball, wird mit Zonen versehen, die solche Wellen besonders gut reflektieren. Dreht sich der Ball während seines Flugs, wird durch die reflektierenden Zonen eine Amplitudenmodulation der reflektierten Welle hervorgerufen. Mithilfe eines Demodulators kann hieraus die Eigendrehfrequenz des Balls bestimmt werden (Sp. 1 bis 8 oben).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_92">92</a>
+            </dt>
+            <dd>
+               <p>Die nachfolgend wiedergegebene, aus D3 entnommene Figur 3 zeigt einen mit einem Streifen reflektierenden Materials versehenen Ball</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="328px"
+                       src="bild6_5.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_93">93</a>
+            </dt>
+            <dd>
+               <p>Figur 4a zeigt das daraus resultierende amplitudenmodulierte Signal, das sich bei einer Drehung um die Achse A ergibt. Durch Demodulation ergibt sich ein analoges Signal (Figur 4b), das in ein digitales Signal (Figur 4c) umgewandelt werden kann. Die Frequenz der Impulse 4c dient der Bestimmung der Eigendrehfrequenz.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="337px"
+                       src="bild7_6.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_94">94</a>
+            </dt>
+            <dd>
+               <p>Ergänzend wird in D3 ausgeführt, die Spinfrequenz eines rotierenden Objekts wie eines Golfballs könne auch ohne Kontrastzonen bestimmt werden, sofern der Ball etwa ein Grübchenmuster (<em>dimple pattern</em>) oder - allgemeiner - eine Oberflächenrauheit (<em>surface roughness</em>) aufweise (Sp. 11 Z. 37 bis Sp. 12 Z. 12). Dies führe bekanntermaßen zu einer Verbreiterung der reflektierenden Strahlung als einer Funktion der Spinrate des Balls, wie etwa in Figuren 9a und 9b zu sehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="304px"
+                       src="bild8_7.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_95">95</a>
+            </dt>
+            <dd>
+               <p>Die Vorrichtung könne geeignete Mittel aufweisen, um eine solche Verbreiterung zu erfassen und in Korrelation mit der Spinrate des Balls zu setzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_96">96</a>
+            </dt>
+            <dd>
+               <p>Werde ein Golfball durch den Abschlag deformiert, führe dies zu einer Frequenz- und Amplitudenmodulation des reflektierten, dopplerverschobenen Signals, wie etwa aus Figur 9c ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="365px"
+                       src="bild9_8.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_97">97</a>
+            </dt>
+            <dd>
+               <p>(2) Damit fehlt es ebenfalls an einer Offenbarung der Merkmalsgruppe 2.2 und des Merkmals 2.3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_98">98</a>
+            </dt>
+            <dd>
+               <p>Dabei kann dahingestellt bleiben, ob die Auffassung der Beklagten zutrifft, eine Frequenzmodulation der in Figur 9c gezeigten Art trete abweichend von den Ausführungen in D3 nicht nur dann auf, wenn der Ball durch die Wucht des Abschlags deformiert werde, sondern bei jeder Abweichung von einer perfekten Kugelform, wie sie etwa durch die Grübchen in einem Golfball hervorgerufen werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_99">99</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon ist in D3 jedenfalls nicht offenbart, das Ergebnis der Frequenzanalyse über einen Zeitraum auszuwerten, um Spektrumspuren zu identifizieren (Merkmal 2.2), die den Anforderungen der Merkmale 2.2.1, 2.2.2 und 2.3 genügen. Nach D3 wird die Spinfrequenz nicht anhand von diskreten Spektrumspuren ermittelt, sondern mithilfe der Abstände der Frequenzen in einem einzelnen Frequenzspektrum.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_100">100</a>
+            </dt>
+            <dd>
+               <p>b) Entgegen der Auffassung des Patentgerichts war der Gegenstand von Patentanspruch 1 in der Fassung von Hilfsantrag III nicht durch den Stand der Technik nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_101">101</a>
+            </dt>
+            <dd>
+               <p>aa) Zu Recht hat das Patentgericht D1 nicht als möglichen Ausgangspunkt für die Beurteilung der erfinderischen Tätigkeit herangezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_102">102</a>
+            </dt>
+            <dd>
+               <p>Ob sich dem Fachmann ein bestimmter Stand der Technik als möglicher Ausgangspunkt seiner Bemühungen anbot, bestimmt sich nach der Rechtsprechung des Bundesgerichtshofs nicht danach, ob es sich hierbei um den nächstliegenden Stand der Technik handelt. Die Einordnung eines bestimmten Ausgangspunkts als - aus der Sicht ex post - nächstkommender Stand der Technik ist weder ausreichend noch erforderlich (BGH, Urteil vom 31. Januar 2017 - X ZR 119/14, GRUR 2017, 498 Rn. 28 mwN - Gestricktes Schuhoberteil).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_103">103</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund scheidet eine Heranziehung von D1 zwar nicht bereits deshalb aus, weil D2 und D3 sich mit der Bestimmung von Spinparametern bei Sportbällen befassen und damit "näher" zum Gegenstand des Streitpatents liegen mögen als D1. Der Fachmann hatte aber keinen Anlass, diese Schrift als Ausgangspunkt heranzuziehen, weil sie sich allein mit dem Gebiet der Waffentechnologie befasst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_104">104</a>
+            </dt>
+            <dd>
+               <p>Die Berufung der Klägerin zeigt keine hinreichenden Anhaltspunkte dafür auf, dass der Fachmann im Prioritätszeitpunkt darüber informiert war, dass auch im Bereich der militärischen Ballistik die Radartechnologie eingesetzt wird, um den Spin eines Projektils zu bestimmen. Ohne diesbezügliche Kenntnisse hatte der Fachmann keinen Anlass, sich auf diesem Gebiet nach einer Lösungsmöglichkeit für seine eigene technische Problemstellung umzusehen. Insoweit kommt es insbesondere nicht darauf an, ob der Begriff des Projektils <em>(projectile</em>) in der englischen Sprache über den Bereich der Waffentechnologie hinaus auch andere Gegenstände erfassen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_105">105</a>
+            </dt>
+            <dd>
+               <p>Unabhängig davon befasst sich D1, wie die Beklagte zu Recht geltend macht, allein mit nicht kugelförmigen Projektilen, die deutlich höhere Geschwindigkeiten erreichen als ein Sportball und zudem um ihre Längsachse rotieren. Dementsprechend zielt das Verfahren in D1 lediglich darauf ab, die Spinfrequenz zu ermitteln, nicht aber die Spinachse. Angesichts dessen ergab sich für den Fachmann keine Anregung, dieses Verfahren als Vorbild für Messungen an einem kugelförmigen Objekt einzusetzen, dessen Spinachse nicht feststeht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_106">106</a>
+            </dt>
+            <dd>
+               <p>bb) Entgegen der Auffassung des Patentgerichts ist der Gegenstand von Patentanspruch 1 in der mit Hilfsantrag III verteidigten Fassung nicht durch D3 nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_107">107</a>
+            </dt>
+            <dd>
+               <p>(1) Zu Recht hat das Patentgericht D3 allerdings als Ausgangspunkt für die Beurteilung der erfinderischen Tätigkeit herangezogen. D3 befasst sich mit einer in allen wesentlichen Aspekten vergleichbaren Fragestellung wie das Streitpatent.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_108">108</a>
+            </dt>
+            <dd>
+               <p>(2) Zu Recht hat das Patentgericht ferner entschieden, dass sich für den Fachmann aus keiner Entgegenhaltung eine Anregung dafür ergab, die Zuverlässigkeit einer Abschätzung der Spinfrequenz dadurch zu erhöhen, dass zwei oder mehr Spektrumspuren identifiziert werden, die zumindest im Wesentlichen äquidistant in Bezug auf die Frequenz angeordnet und über die Zeit stetig sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_109">109</a>
+            </dt>
+            <dd>
+               <p>(a) Eine solche Anregung ergab sich insbesondere nicht aus D1. Die oben angeführten Gründe, die den Fachmann davon abhielten, D1 als Ausgangspunkt seiner Überlegungen heranzuziehen, stehen auch einer Heranziehung auf der Suche nach einer Weiterentwicklung von Verfahren für Messungen an Bällen entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_110">110</a>
+            </dt>
+            <dd>
+               <p>(b) Eine entsprechende Anregung erhielt der Fachmann auch nicht aus dem Aufsatz "Analysis of micro-Doppler signatures" (V.C. Chen et.al., IEE Proc.-Radar Sonar Navig., Vol. 150 No. 4, 2003, S. 271 ff. = D17 = D39B). Der Aufsatz befasst sich mit den Veränderungen, die ein Radarsignal erfährt, wenn es von einem Objekt reflektiert wird, das sich nicht lediglich relativ zum Radarsystem bewegt, sondern zudem vibriert oder rotiert, und den Erkenntnissen, die hieraus gewonnen werden können. Danach generiert die dadurch bewirkte zusätzliche Frequenzmodulation Seitenbänder, die als Mikro-Doppler-Signaturen bezeichnet werden und es ermöglichen, Eigenschaften des Zielobjekts zu bestimmen. Der Fachmann, der aus der D3 weiß, dass die Spinfrequenz eines rotierenden Balls auch ohne dessen Veränderung bestimmt werden kann, sofern seine Oberfläche nicht glatt ist, wird daher die D17 heranziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_111">111</a>
+            </dt>
+            <dd>
+               <p>Aus dem Vortrag der Klägerin ergeben sich jedoch keine hinreichenden Anhaltspunkte dafür, dass die D17 dem Fachmann die Anregung vermittelte, Frequenzsignale aneinander zu reihen und zu untersuchen, um so äquidistante und stetige Spektrumspuren auffinden zu können, von denen sodann mindestens zwei herangezogen werden, um den Spin abzuschätzen. Dies wäre jedoch insbesondere im Hinblick darauf erforderlich gewesen, dass der im Verletzungsverfahren beauftragte gerichtliche Sachverständige in seinem zweiten Ergänzungsgutachten darauf hingewiesen hat, dass es sich bei den in D17 behandelten Mikro-Doppler-Signaturen nicht um Frequenzspuren (Spektrumspuren) im Sinne des Streitpatents handelt (D39A S. 6).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_112">112</a>
+            </dt>
+            <dd>
+               <p>(3) Zu Unrecht ist das Patentgericht zu dem Ergebnis gelangt, die Heranziehung mehrerer Aufnahmen zur Identifizierung der benötigten Peaks habe "im Griffbereich" des Fachmanns gelegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_113">113</a>
+            </dt>
+            <dd>
+               <p>Sofern eine technische Lösung als ein generelles, für eine Vielzahl von Anwendungsfällen in Betracht zu ziehendes Mittel ihrer Art nach zum allgemeinen Fachwissen des angesprochenen Fachmanns gehört, kann Veranlassung zu ihrer Heranziehung nach der Rechtsprechung des Bundesgerichtshofs allerdings bereits dann bestehen, wenn es für ihre Anwendung zwar kein konkretes Vorbild gibt, sich aber die Nutzung ihrer Funktionalität in dem betreffenden Zusammenhang als objektiv zweckmäßig darstellt und keine besonderen Umstände festzustellen sind, die eine Anwendung als nicht möglich, mit Schwierigkeiten verbunden oder sonst untunlich erscheinen lassen (BGH, Urteil vom 11. März 2014 - X ZR 139/10, GRUR 2014, 647 - Farbversorgungssystem).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_114">114</a>
+            </dt>
+            <dd>
+               <p>Die vom Patentgericht getroffenen Feststellungen tragen jedoch nicht die Annahme, eine solche Konstellation liege im Streitfall vor. Das Patentgericht hat keine Umstände aufgezeigt, denen entnommen werden kann, dass die Anordnung einer Mehrzahl von Frequenzspektren zu einer Spektrumspur und ihre Auswertung im Prioritätszeitpunkt zum allgemeinen Fachwissen des angesprochenen Fachmanns gehörten. Es hat ferner keine Feststellungen dazu getroffen, ob sich ein solches Vorgehen zur Abschätzung der Spinparameter eines Sportballs im Prioritätszeitpunkt als objektiv zweckmäßig darstellte, und sich nicht mit der Frage befasst, ob Umstände vorlagen, die einer Anwendung entgegenstehen konnten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_115">115</a>
+            </dt>
+            <dd>
+               <p>Anhaltspunkte, die die vom Patentgericht gezogene Schlussfolgerung tragen könnten, ergeben sich auch nicht aus dem Vortrag der Klägerin.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_116">116</a>
+            </dt>
+            <dd>
+               <p>(4) Darüber hinaus hat das Patentgericht unberücksichtigt gelassen, dass die Merkmale 2.2.1 und 2.3 es aus den oben genannten Gründen erfordern, vor der Auswahl der zur Frequenzbestimmung herangezogenen Spektrumspuren eine größere Anzahl solcher Spuren zu untersuchen, damit ermittelt werden kann, ob die letztendlich ausgewählten Spuren äquidistant sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_117">117</a>
+            </dt>
+            <dd>
+               <p>Eine solche Betrachtung ist, wie das Patentgericht im Zusammenhang mit dem erstinstanzlichen Hilfsantrag 5 zutreffend dargelegt hat, in D3 nicht offenbart und auch durch den sonstigen Stand der Technik nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_118">118</a>
+            </dt>
+            <dd>
+               <p>Der von der Klägerin geltend gemachte Umstand, die in D3 herangezogenen Spuren der ersten Harmonischen könnten in der Praxis aufgrund von Störungen häufig nicht zuverlässig ermittelt werden, führt nicht zu einer abweichenden Beurteilung. Wenn dem Fachmann diese Probleme im Prioritätszeitpunkt bekannt waren, mag ihm dies Anlass gegeben haben, das in D3 offenbarte Verfahren als eher ungeeignet anzusehen. Daraus ergab sich indes keine Anregung, auf Spuren anderer Harmonischer zurückzugreifen und unter diesen mindestens zwei geeignete Spuren auszuwählen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_119">119</a>
+            </dt>
+            <dd>
+               <p>Dem weiteren Vortrag der Klägerin, in der Praxis träten regelmäßig Peaks bei Frequenzen auf, die um ein Mehrfaches der Spinfrequenz vom Peak der Ballgeschwindigkeit beabstandet seien, könnte eine solche Anregung allenfalls dann entnommen werden, wenn dem Fachmann Hinweise darauf vorgelegen hätten, dass die aufgetretenen Peaks tatsächlich einer höherzahligen Harmonischen zuzuordnen sind. Diese Voraussetzung lag nach den vom Patentgericht im Zusammenhang mit dem erstinstanzlichen Hauptantrag 5 getroffenen tatsächlichen Feststellungen im Prioritätszeitpunkt nicht vor. Konkrete Anhaltspunkte, die Zweifel an der Vollständigkeit oder Richtigkeit dieser Feststellungen begründen könnten, sind weder vorgetragen noch sonst ersichtlich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_120">120</a>
+            </dt>
+            <dd>
+               <p>cc) Eine andere Beurteilung ergibt sich auch dann nicht, wenn die D2 als Ausgangspunkt gewählt wird. Auch in dieser Entgegenhaltung sind, wie ausgeführt, die Merkmalsgruppe 2.2 und Merkmal 2.3 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_121">121</a>
+            </dt>
+            <dd>
+               <p>4. Ist danach der Gegenstand von Patentanspruch 1 in der Fassung von Hilfsantrag III patentfähig, gilt Entsprechendes für den Gegenstand von Patentanspruch 4, der eine Vorrichtung zur Durchführung des Verfahrens nach Patentanspruch 1 unter Schutz stellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_122">122</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG in Verbindung mit §§ 92 Abs. 1, 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Gröning     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Hoffmann     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Deichfuß     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">       </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>
+                  <strong>Berichtigungsbeschluss vom 14. Februar 2018</strong>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left">
+                  <span>Das Urteil vom 26. September 2017 wird wegen offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO wie folgt berichtigt:</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left">
+                  <span>Im Tenor entfallen bei der Wiedergabe von Patentanspruch 1 und Patentanspruch 4 jeweils die Wörter "wherein the sports ball is substantially spherical rotational symmetric".</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <span style="text-decoration:underline;">
+                     <span>Gründe:</span>
+                  </span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p style="text-align:left">
+                  <span>Die Fassung des Tenors beruht auf einer offenbaren Unrichtigkeit. Wie sich aus den Entscheidungsgründen ergibt, war das Streitpatent nur insoweit für nichtig zu erklären, als es über eine Fassung hinausgeht, die Hilfsantrag III entspricht. Bei der Abfassung des Tenors wurde versehentlich nicht berücksichtigt, dass der aktuelle Hilfsantrag III nach einer in der mündlichen Verhandlung vor dem Bundespatentgericht vom 2. Juli 2015 vorgenommenen Änderung der Bezeichnung (GA 568) dem früheren Hilfsantrag II (GA 375) entspricht; statt dessen wurde auf den damaligen Hilfsantrag III (GA 381) zurückgegriffen.</span>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:left"/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table border="0" cellpadding="0" cellspacing="0" class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Meier-Beck     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Grabinski     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Hoffmann</span>
+                        </p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Deichfuß     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>Marx     </span>
+                        </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">
+                           <span>  </span>
+                        </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE320232017&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

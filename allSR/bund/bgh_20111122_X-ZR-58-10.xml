@@ -1,0 +1,1194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE304342011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20111122</entsch-datum>
+   <aktenzeichen>X ZR 58/10</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 56 EuPatÜbk, § 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 10. Februar 2010, Az: 5 Ni 33/09 (EU), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentfähigkeit eines europäischen Patents: Erfordernis der Überprüfung einer überschaubaren Zahl von möglichen Lösungsansätzen bei der punktuellen Verbesserung einer in einem internationalen Standard vorgesehenen Datenstruktur - E-Mail via SMS</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>E-Mail via SMS</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Der Fachmann, der mit einer punktuellen Verbesserung einer in einem internationalen Standard vorgesehenen Datenstruktur befasst ist, hat in der Regel Veranlassung, zur Lösung des technischen Problems auf Mechanismen zurückzugreifen, die im Standard bereits vorgesehen sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ergibt sich aus dem Standard eine überschaubare Zahl von möglichen Lösungsansätzen, von denen jeder spezifische Vor- und Nachteile hat, gibt dies in der Regel Veranlassung, jeden dieser Lösungsansätze in Betracht zu ziehen.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 10. Februar 2010 verkündete Urteil des 5. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 243 107 (Streitpatents), das am 14. November 2000 unter Inanspruchnahme der Priorität einer deutschen Anmeldung vom 17. Dezember 1999 angemeldet worden ist und ein Verfahren zur Übertragung von elektronischen Postnachrichten betrifft. Patentanspruch 1, auf den die übrigen elf Patentansprüche zurückbezogen sind, lautet in der Verfahrenssprache Deutsch:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Übertragung von elektronischen Postnachrichten (1) unter Verwendung eines SMS-Kurznachrichtendienstes, wobei mit einer Kurznachricht (5) des SMS-Kurznachrichtendienstes in einem ersten Kommunikationsnetz (100) eine elektronische Postnachricht (1) sowie Adress- und/oder Identifikationsdaten für die Übertragung der elektronischen Postnachricht (1) in einem zweiten Kommunikationsnetz (200) übertragen werden, wobei mit der Kurznachricht (5) eine Benutzerdatenkopfinformation (11) mit einer Signalisierung des Vorhandenseins mehrerer Datenfelder (20, 25, 30, 35) übertragen wird, die die Adress- und/oder Identifikationsdaten umfassen, wobei eine zweite Kopfinformation (12) mit der Kurznachricht (5) übertragen wird, die auf das Vorhandensein der Benutzerdatenkopfinformation (11) hinweist, dadurch gekennzeichnet, dass die mehreren Datenfelder (20, 25, 30, 35) innerhalb eines Datenteils (50) der Kurznachricht (5) außerhalb der Benutzerdatenkopfinformation (11) und der zweiten Kopfinformation (12) übertragen werden und dass die Signalisierung des Vorhandenseins der mehreren Datenfelder (20, 25, 30, 35) mittels eines Identifikators in der Benutzerdatenkopfinformation erfolgt, indem der Identifikator einen Wert angibt, der gemäß einer Zuordnungstabelle einer RFC-822 Adressierung zugeordnet ist, nach der die Adress- und/oder Identifikationsdaten im Datenteil (50) vorliegen."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, der Gegenstand von Patentanspruch 1 gehe über den Inhalt der ursprünglich eingereichten Anmeldung hinaus. Außerdem sei der Gegenstand des Streitpatents nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent antragsgemäß für nichtig erklärt. Dagegen wendet sich die Beklagte mit der Berufung, mit der sie weiterhin die Abweisung der Klage anstrebt und das Streitpatent ferner mit zwei Hilfsanträgen in geänderter Fassung verteidigt. Die Klägerin tritt dem Rechtsmittel entgegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat von der Hinzuziehung eines gerichtlichen Sachverständigen abgesehen. Die Beklagte hat ein Privatgutachten von Prof. Dr.-Ing.    C.                              vorgelegt, die Klägerin ein Privatgutachten von Dr.    O.      .</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung ist unbegründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren zur Übertragung von elektronischen Postnachrichten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. In der Beschreibung des Streitpatents wird ausgeführt, im Stand der Technik seien verschiedene Verfahren zur Übertragung von Internet-E-Mails (nachfolgend: E-Mails) unter Verwendung des Kurznachrichtendienstes SMS (Short Message Service) bekannt. Nach den einschlägigen Standards für die Mobilfunksysteme GSM (Global System for Mobile Communications) und UMTS (Universal Mobile Telecommunications System) müsse hierzu ein Signalisierungseintrag PID (Protocol Identifier) in einer Kopfinformation der SMS-Kurznachricht (nachfolgend: Kurznachricht) auf einen bestimmten Wert eingestellt werden. Der Datenteil der Kurznachricht beginne nach diesen Festlegungen (nachfolgend zusammenfassend als SMS-Standard bezeichnet) mit der Zieladresse für die E-Mail. Beim Empfangen einer E-Mail über den Kurznachrichtendienst sei die Zieladresse von einer Netzwerkeinheit durch die Quelladresse des Absenders ersetzt worden. Optional unterstütze der Standard die Angabe mehrerer, jeweils durch ein Komma voneinander getrennter Zieladressen sowie die Angabe von untereinander durch Sonderzeichen getrennten Datenfeldern für den Titel der Nachricht (Subject) und für den eigentlichen Namen des Absenders (Real Name).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>In der Streitpatentschrift wird nicht ausdrücklich angegeben, welches technische Problem das Streitpatent betrifft. Aus der Schilderung der mit der Erfindung verbundenen Vorteile und der Ausführungsbeispiele lässt sich entnehmen, dass mit den im SMS-Standard vorgesehenen Datenfeldern nicht alle Kopfdatenfelder abgebildet werden können, die bei der Versendung von E-Mails verwendet werden und die im Standard RFC 822 spezifiziert sind. Beispielsweise sieht der SMS-Standard keine Entsprechung für das Kopfdatenfeld cc (carbon copy) vor, mit dem Empfänger angegeben werden, die die E-Mail nur zur Kenntnisnahme erhalten sollen. Außerdem stimmen die Regeln, die der SMS-Standard für die Trennung zwischen den einzelnen Feldern vorsieht, nicht vollständig mit den entsprechenden Regeln des Standards RFC 822 überein. Dies erschwert die Übertragung von E-Mails mittels Kurznachrichten insbesondere dann, wenn die Kommunikationsnetze für die beiden genannten Übertragungsarten nicht vom gleichen Dienstanbieter betrieben werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent betrifft vor diesem Hintergrund das technische Problem, ein Verfahren zur Verfügung zu stellen, mit dem in einer Kurznachricht weitere Datenfelder übertragen werden können, die im Standard RFC 822 vorgesehen sind, und so die Übertragung unter Beteiligung unterschiedlicher Dienstanbieter zu erleichtern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>2. Zur Lösung des Problems schlägt das Streitpatent ein Verfahren mit folgenden Merkmalen vor (die abweichende Merkmalsgliederung des Patentgerichts ist in eckigen Klammern wiedergegeben; in eckigen Klammern und kursiv zum besseren Verständnis die übliche englischsprachige Terminologie):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Verfahren dient zur Übertragung von elektronischen Postnachrichten [<em>E-Mail</em>] (1) unter Verwendung eines SMS-Kurznachrichtendienstes [1],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. In einem ersten Kommunikationsnetz (100) wird eine Kurznachricht (5) übertragen, die folgende Daten enthält [2]:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) eine elektronische Postnachricht (1) [2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Adress- und/oder Identifikationsdaten für die Übertragung der elektronischen Postnachricht (1) in einem zweiten Kommunikationsnetz (200) [2],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) eine Benutzerdaten-Kopfinformation [<em>User Data Header - UDH</em>] (11) mit einer Signalisierung des Vorhandenseins mehrerer Datenfelder (20, 25, 30, 35) [3],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) eine zweite Kopfinformation [<em>User Data Header Indicator - UDHI</em>] (12), die auf das Vorhandensein der Benutzerdaten-Kopfinformation (11) hinweist [4],</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">e) mehrere Datenfelder (20, 25, 30, 35), die die Adress- und/oder Identifikationsdaten umfassen [5].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Die Datenfelder (20, 25, 30, 35) werden innerhalb eines Datenteils (50) außerhalb der Benutzerdaten-Kopfinformation (11) und der zweiten Kopfinformation (12) übertragen [5].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. Die Signalisierung des Vorhandenseins der Datenfelder (20, 25, 30, 35) erfolgt mittels eines Identifikators in der Benutzerdaten-Kopfinformation [6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Dieser Identifikator gibt einen Wert an, der gemäß einer Zuordnungstabelle einer RFC-822-Adressierung zugeordnet ist [6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Die Adress- und/oder Identifikationsdaten im Datenteil (50) liegen nach dieser RFC-822-Adressierung vor [6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Ein Beispiel für die in Patentanspruch 1 vorgesehene Anordnung der einzelnen Datenfelder ist in Figur 2 der Streitpatentschrift veranschaulicht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="568px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>3. Einige Merkmale bedürfen näherer Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>a) Das Verfahren nach dem Streitpatent ermöglicht es, Informationen zwischen zwei Kommunikationsteilnehmern zu übertragen, von denen der eine einen Kurznachrichtendienst, der andere hingegen einen Dienst für elektronische Postnachrichten, beispielsweise zur Übertragung von E-Mails, nutzt. Das Verfahren kann für beide Übertragungsrichtungen genutzt werden, also sowohl für den Versand einer Kurznachricht, die als E-Mail empfangen wird, als auch für den Versand einer E-Mail, die als Kurznachricht empfangen wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Die in der Streitpatentschrift geschilderten Ausführungsbeispiele betreffen den Versand einer E-Mail unter Nutzung eines Kurznachrichtendienstes nach dem SMS-Standard. Der Gegenstand von Patentanspruch 1 ist jedoch, wie in der Beschreibung ausdrücklich klargestellt wird, weder auf die Nutzung von Kurznachrichten in einem GSM-Mobilfunknetz noch auf den Versand von Internet-E-Mails beschränkt, sondern umfasst auch die Nutzung eines anderen SMS-Kurznachrichtendienstes zur Versendung einer anderen Art von elektronischer Postnachricht (Abs. 50).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Für den Aufbau einer nach dem patentgemäßen Verfahren übertragenen elektronischen Postnachricht ergeben sich gewisse Vorgaben aus der in Merkmalsgruppe 4 enthaltenen Bezugnahme auf den Standard RFC 822 (Standard for the Format of ARPA Internet Text Messages, K12), der Vorgaben über die Anordnung von Daten in einer zur Versendung über das Internet geeigneten Nachricht und die hierfür zu verwendenden Sonderzeichen enthält und unter anderem verschiedene Datenfelder zur Adressierung der Nachricht vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>b) Für den Fall, dass die zu übertragende E-Mail mehr Zeichen umfasst als eine Kurznachricht aufnehmen kann - der SMS-Standard sieht für eine Kurznachricht maximal 160 Zeichen vor -, sieht das Streitpatent im zweiten Ausführungsbeispiel eine dritte Kopfinformation (13) vor, aus der ersichtlich ist, dass der Inhalt der E-Mail auf mehrere Kurznachrichten verteilt worden ist. Der Einsatz dieser dritten Kopfinformation ist lediglich in Patentanspruch 9 und den darauf zurückbezogenen Patentansprüchen zwingend vorgesehen, nicht aber in Patentanspruch 1.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>c) Die Zahlwörter, die im Zusammenhang mit der in der Beschreibung als "erste" Kopfinformation bezeichneten Benutzerdaten-Kopfinformation (11) und der "zweiten" Kopfinformation (12) verwendet werden, dienen nur der Unterscheidung der beiden Informationseinheiten und haben keine Bedeutung für die Reihenfolge, in der diese übermittelt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Bei den in der Streitpatentschrift geschilderten Ausführungsbeispielen, die in den Figuren 2 und 3 illustriert sind, ist die "zweite" Kopfinformation (12) jeweils vor der "ersten" Kopfinformation (11) angeordnet. Diese Reihenfolge wird in der Beschreibung als vorzugswürdig bezeichnet (Abs. 45 Z. 12 f.), in Patentanspruch 1 aber nicht zwingend vorgeschrieben. Entsprechendes gilt für die im zweiten Ausführungsbeispiel zusätzlich eingesetzte "dritte" Kopfinformation (13), die nur nach Patentanspruch 9 und den darauf bezogenen weiteren Patentansprüchen zwingend vorgesehen ist. Diese kann nach den Ausführungen in der Beschreibung auch vor der "ersten" Kopfinformation angeordnet werden (Abs. 45 Z. 10 bis 12). Patentanspruch 1 lässt darüber hinaus auch die Möglichkeit offen, die "dritte" Kopfinformation an den Anfang der Kurznachricht zu stellen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>d) Die in Merkmalsgruppe 4 vorgesehene Signalisierung des Vorhandenseins mehrerer Datenfelder mittels eines Identifikators, der einen Wert angibt, der gemäß einer Zuordnungstabelle einer RFC-822-Adressierung zugeordnet ist, und die entsprechende Anordnung der Adress- und Identifikationsdaten im Datenteil kann, wie sich aus der Beschreibung des Streitpatents ergibt, in der Weise erfolgen, dass ein bestimmtes Feld in der Benutzerdaten-Kopfinformation auf das Vorhandensein von RFC-822-Angaben im Datenteil hinweist und dass die einzelnen Angaben im Datenteil durch Schlüsselwörter gekennzeichnet und voneinander getrennt werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>In einem in der Streitpatentschrift geschilderten ersten Ausführungsbeispiel werden als Schlüsselwörter in RFC 822 definierte Feldnamen wie "To", "From" und "Subject" eingesetzt (Abs. 28 bis 31). Als zusätzliche Möglichkeit wird aufgezeigt, die einzelnen Datenfelder mit einem Trennungszeichen abzuschließen, damit die Schlüsselwörter auch innerhalb der Datenfelder enthalten sein können (Abs. 34). Als weitere vorteilhafte Ausgestaltung wird ein zweites Ausführungsbeispiel geschildert, bei dem den in RFC 822 vorgesehenen Schlüsselwörtern anhand einer Referenztabelle Binärcodes zugeordnet sind, um die Zahl der übermittelten Zeichen zu reduzieren (Abs. 38). Die Verwendung von Schlüsselwörtern ist in Patentanspruch 2 vorgesehen, ihre Codierung in Patentanspruch 3.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>Entgegen dem Vorbringen der Beklagten in der mündlichen Verhandlung vor dem Senat kann weder den erwähnten Passagen in der Beschreibung noch dem sonstigen Inhalt der Streitpatentschrift entnommen werden, dass die in Merkmal 4 a vorgesehenen Zuordnungstabellen ausschließlich so gestaltet werden dürfen, dass die Verwendung von Schlüsselwörtern entbehrlich ist. Zwar mag die in der mündlichen Verhandlung aufgezeigte Möglichkeit, dem Identifikator nicht nur einen allgemeinen Hinweis auf eine RFC-822-Adressierung, sondern einen Hinweis auf eine fest definierte Datenstruktur zuzuordnen, die die Verwendung von Schlüsselwörtern innerhalb der Benutzerdaten entbehrlich macht, vom Gegenstand von Patentanspruch 1 umfasst sein, der - anders als Patentanspruch 2 - die Verwendung von Schlüsselwörtern nicht zwingend vorschreibt. Aus den bereits erwähnten Passagen in der Beschreibung und aus dem Inhalt der Patentansprüche 2 und 3 ergibt sich jedoch, dass der Gegenstand des Streitpatents nicht auf solche Ausgestaltungen beschränkt ist, sondern auch Verfahren umfasst, bei denen Datenfelder durch Schlüsselwörter gekennzeichnet und optional auch voneinander getrennt werden. Eine konkrete Möglichkeit, die Daten so anzuordnen, dass Schlüsselwörter nicht erforderlich sind, wie sie die Beklagte in der mündlichen Verhandlung vor dem Senat aufgezeigt hat, wird in der Streitpatentschrift ohnehin nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand des Streitpatents sei dem Fachmann, einem Diplomingenieur der Fachrichtung Nachrichtentechnik mit Erfahrung auf den Gebieten der Mobilfunkkommunikation und der elektronischen Datennetze und umfassenden Kenntnissen der dabei zum Einsatz gelangenden Datenstrukturen und deren Standardisierung, durch den SMS-Standard (K5) in Verbindung mit seinem Fachwissen und Fachkönnen nahegelegt worden. Aus dem SMS-Standard sei ein Verfahren mit den Merkmalen 1 bis 2 d [1 bis 4] bekannt gewesen. Dieses Verfahren weise ersichtlich Nachteile auf, weil nur ein Teil der möglichen Kopfdatenfelder einer E-Mail unterstützt werde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Anregungen zu Verbesserungen habe der Fachmann bereits dem SMS-Standard entnommen. Dieser sehe zwei unterschiedliche Mechanismen zur Verknüpfung zwischen dem in der Benutzerdaten-Kopfinformation (UDH) enthaltenen Informationselementindikator (IEI) und den zugehörigen Daten vor. Die Daten, auf die der Informationselementindikator (IEI) verweise, befänden sich entweder in der Benutzerdaten-Kopfinformation selbst oder aber im daran anschließenden Nutzdatenteil. Die zweite Möglichkeit werde im SMS-Standard für die zur Datenübertragung auf die SIM-Karte (Subscriber Identity Module) bestimmten SIM Toolkit Security Header genutzt. Eine solche Datenstruktur habe sich dem Fachmann angeboten, um die genannten Unzulänglichkeiten bei der Übertragung von elektronischen Postnachrichten mittels Kurznachrichten zu vermeiden. Der Fachmann habe die grundsätzliche Gleichartigkeit der Datenstrukturen für die Übertragung eines SIM-Toolkit und die Übertragung einer E-Mail erkannt. Deshalb habe es für ihn nahegelegen, die Datenfelder nach dem gleichen Muster anzuordnen. Dem stehe nicht entgegen, dass die übertragenen Daten auf den beiden genannten Einsatzfeldern zu unterschiedlichen Zwecken und an unterschiedliche Empfänger übermittelt würden. Ausschlaggebend sei, dass die übertragenen Daten in ihrer Struktur übereinstimmten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung im Berufungsverfahren jedenfalls im Ergebnis stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>1. Der Gegenstand der erteilten Fassung von Patentanspruch 1 ist nicht patentfähig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Wie das Patentgericht im Einzelnen zutreffend dargelegt hat, ist in dem Standard 3G TS 23.040 Version 3.2.0, Oktober 1999 (K5, SMS-Standard) in Kapitel 3.8 (K5 S. 21 f.) ein Verfahren zur Übertragung von E-Mails unter Verwendung des dort definierten Kurznachrichtendienstes in beide Richtungen bekannt, das einige, aber nicht alle Merkmale von Patentanspruch 1 aufweist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>Für den Versand von E-Mails ist in Kapitel 3.8 der Einsatz einer Kurznachricht mit einer Struktur vorgesehen, wie sie allgemein in Kapitel 9.2.2 (K5 S. 36 ff.) für Nachrichten definiert ist. In Betracht kommen dafür die Nachrichtentypen SMS-Deliver (K5 Kap. 9.2.2.1, S. 37) für Nachrichten vom Servicecenter (SC) zur Mobilstation (MS) und SMS-Submit (K5 Kap. 0.2.2.2, S. 40 f.) für Nachrichten in umgekehrter Richtung. Für beide Typen sind mehrere Datenfelder definiert, die nach einem vorgegebenen Schema Sende- und Adressierungsinformationen enthalten. An diese Daten schließt sich das Feld TP-User-Data an, das die Nutzdaten, also die eigentliche Nachricht enthält. Dieses Feld kann weitere Kopfinformationen (User Data Header) enthalten, deren Vorhandensein durch das Feld TP-User-Data-Header-Indicator angezeigt wird (K5 Kap. 9.2.3.23, S. 61). Für diese zusätzlichen Kopfinformationen ist ebenfalls eine feste Struktur definiert. Diese besteht aus einer Abfolge einzelner Informationselemente, denen jeweils ein Identifikationsmerkmal und eine Längenangabe vorangestellt sind (K5 Kap. 9.2.3.24, S. 61 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Für den Versand von E-Mails ist in K5 ergänzend vorgesehen, dass das Feld TP-PID einen Wert enthält, der auf das Vorhandensein einer E-Mail hinweist (K5 Kap. 3.8, S. 21). Ferner ist mindestens ein Feld vorgesehen, das die Adresse des Empfängers oder des Absenders der E-Mail enthält. Die Angabe mehrerer Adressen ist möglich; in diesem Fall können die einzelnen Adressen jeweils durch ein Komma voneinander getrennt werden. Möglich ist auch die Übertragung von Namensangaben im Klartext (real name) und von Angaben zum Betreff der E-Mail (subject). Diese Angaben werden von den Adressangaben durch runde Klammern oder Rauten und untereinander durch eine doppelte Raute getrennt (K5 Kap. 3.8.2, S. 22). Alle diese Daten sind Bestandteil der Nutzdaten (des Feldes TP-User-Data) und von der eigentlichen Nachricht durch ein Leerzeichen abgetrennt (K5 Kap. 3.8.1, S. 21). Ihre Anordnung in der Benutzerdaten-Kopfinformation (UDH) ist in K5 nicht vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Entgegen dem Vorbringen der Beklagten in der mündlichen Verhandlung vor dem Senat können die Festlegungen in Kapitel 3.8 des SMS-Standards (K5) nicht dahin verstanden werden, dass die genannten Adressdaten zwingend in den Kopfdaten der Kurznachricht - also außerhalb der Nutzdaten - zu übermitteln sind. Aus den Ausführungen in Kapitel 3.8.1 (K5 S. 21) ergibt sich vielmehr, dass die Übermittlung jedenfalls auch in der Weise erfolgen kann, dass die für die Adressierung vorgesehenen Kopfdatenfelder TP-OA und TP-DA die Adresse eines Gateway enthalten und die E-Mail-Adresse des Empfängers bzw. Absenders in der aufgezeigten Weise - also getrennt durch ein Leerzeichen - am Anfang der Nutzdaten hinzugefügt wird. Für die zusätzlich möglichen Angaben zu subject und real name sind die Kopfdatenfelder TP-OA und TP-DA ohnehin nicht geeignet. Dass die in Kapitel 3.8 vorgesehenen E-Mail-Adress-Informationen am Prioritätstag tatsächlich in den Nutzdaten von Kurznachrichten übertragen worden sind, wie dies auch in der Streitpatentschrift dargestellt wird, hat auch die Beklagte nicht in Zweifel gezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Damit ist ein Verfahren mit den Merkmalen 1, 2, 2 a, 2 b, 2 e und 3 offenbart. Eine Kurznachricht mit dem in Kapitel 3.8 vorgesehenen Aufbau enthält eine E-Mail und Adressdaten für deren Übertragung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Nicht offenbart sind hingegen die Merkmale 2 c und 2 d. Zwar sieht K5 die Möglichkeit vor, eine Benutzerdaten-Kopfinformation zu übertragen und auf deren Vorhandensein in einer "zweiten" Kopfinformation - dem Feld TP-User-Data-Header-Indicator - hinzuweisen. Die Nutzung dieser Möglichkeit zur Übertragung von Adress- oder Identifikationsdaten für die Übertragung einer E-Mail ist in dem hierfür einschlägigen Kapitel 3.8 jedoch nicht vorgesehen. Die für die Adressierung der E-Mail verwendeten Angaben werden nicht in der Benutzerdaten-Kopfinformation und der dafür vorgesehenen Struktur übertragen, sondern in den daran anschließenden Nutzdaten. Die in Kapitel 3.8 vorgesehene Datenstruktur - Trennung einzelner Adressen durch Komma, Trennung der übrigen Angaben durch runde Klammern und Rauten und Trennung der Adressdaten von der Nachricht durch Leerzeichen - könnte zwar als besonders definierte Benutzerdaten-Kopfinformation im Sinne des Streitpatents angesehen werden, deren Vorhandensein durch die spezifische Belegung des Feldes TP-PID angezeigt wird. Dies ist indes keine Benutzerdaten-Kopfinformation im Sinne von Merkmal 2 c des Streitpatents, weil sie nicht das Vorhandensein von an anderer Stelle angeordneten Datenfeldern signalisiert, sondern diese Datenfelder selbst enthält.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Jedenfalls nicht vollständig offenbart ist ferner die Merkmalsgruppe 4, wonach mittels eines Identifikators in der Benutzerdaten-Kopfinformation darauf hingewiesen wird, dass mehrere Datenfelder vorliegen, die Adressierungsdaten nach dem Standard RFC 822 enthalten. In K5 ist zwar vorgesehen, dass der zur Benutzerdaten-Kopfinformation gehörende Informationselementindikator (IEI) Angaben über die Art der übermittelten Benutzerdaten-Kopfinformationen enthält (K5 S. 64). Ein Wert, der auf das Vorhandensein von RFC-822-Adressdaten hinweist, ist dort aber nicht definiert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>b) Zutreffend ist das Patentgericht zu dem Ergebnis gelangt, dass der Gegenstand von Patentanspruch 1 durch den Stand der Technik nahegelegt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(1) Für den Fachmann, einen Diplomingenieur der Fachrichtung Nachrichtentechnik mit Erfahrung auf den Gebieten der Mobilfunk- und Internetkommunikation und der dafür gebräuchlichen Standards und Datenstrukturen, war aus K5 erkennbar, dass die dort offenbarte Datenstruktur nicht geeignet ist, alle im Standard RFC 822 vorgesehenen Datenfelder abzubilden. Dies gilt nicht nur für das in K5 (S. 21) ausdrücklich als nicht unterstützt bezeichnete Feld "cc", sondern auch für andere in RFC 822 vorgesehene (K12 S. 20 ff.) Felder wie "bcc", "date", "reply-to" oder "message-id" und erst recht für die nach diesem Standard möglichen (K12 S. 25) benutzerdefinierten Felder. Dies gab dem Fachmann Veranlassung, nach Wegen zu suchen, auch diese Informationen oder zumindest einzelne von ihnen (wie insbesondere das häufig benutzte cc-Feld) in strukturierter Information in einer Kurznachricht zu übertragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Die im SMS-Standard vorgesehene Beschränkung auf 160 Zeichen pro Kurznachricht stellte keinen grundsätzlichen Hinderungsgrund dar. Die Verkettung mehrerer Kurznachrichten ist in K5 (S. 21) ausdrücklich vorgesehen und kann schon deshalb geboten sein, weil der Inhalt einer E-Mail diese Grenze nicht selten überschreitet. Angesichts dessen lag es nahe, diese - ohnehin nur in Patentanspruch 9 und den darauf zurückbezogenen Patentansprüchen vorgesehene - Möglichkeit auch zur Übertragung umfangreicher Adressierungs- und Identifikationsdaten zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>(2) Zur Erreichung dieses Ziels lag es nahe, Mechanismen zu nutzen, die in K5 bereits vorgesehen waren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>Zwar mag es daneben eine theoretisch unbegrenzte Anzahl von möglichen weiteren Lösungsansätzen gegeben haben. Lösungsansätze, die eine grundlegende Änderung des etablierten SMS-Standards erforderten, hatten aber allenfalls geringe Aussicht auf praktische Umsetzbarkeit, zumal der mit dem patentgemäßen Verfahren erreichbare Zusatznutzen im Vergleich zu dem in K5 vorgesehenen Verfahren zwar nicht unbedeutend sein mag, sich aber doch in überschaubarem Rahmen hält. Der an einer praktischen Umsetzbarkeit interessierte Fachmann hatte angesichts dessen Anlass, sich vorrangig mit Ansätzen zu befassen, die mit keiner Änderung oder allenfalls mit einer möglichst geringfügigen Ergänzung des vorhandenen Standards verbunden waren. Dafür bot es sich an, sich innerhalb der in K5 vorgegebenen Strukturen zu bewegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>(3) Mit Hilfe der in K5 vorgesehenen Mechanismen kommen objektiv im Wesentlichen drei Möglichkeiten in Betracht:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Zum einen konnte das in K5 vorgeschlagene Verfahren dahin erweitert werden, dass am Beginn der Nutzdaten - vor dem Leerzeichen, das den Beginn der eigentlichen Nachricht anzeigt - weitere Daten angeordnet werden. Hierzu hätten geeignete Zeichen zur Trennung der einzelnen Datenfelder und zur Kennzeichnung von deren Bedeutung definiert werden müssen, wie dies in K5 (Kap. 3.8.2, S. 22) für die Datenfelder "subject" und "real name" sowie für ein optionales Steuerzeichen (control flag) bereits erfolgt war.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>Alternativ konnte die in K5 optional vorgesehene Benutzerdaten-Kopfinformation genutzt werden. Hierfür hätte die bereits definierte Werteliste für den Informationselementindikator IEI (K5 S. 64) um Einträge erweitert werden müssen, die auf das Vorhandensein von Adress- und Identifikationsdaten nach dem Standard RFC 822 hinweisen. Hierfür kamen die Hexadezimalwerte 0A bis 6F (dezimal 10 bis 111) und E0 bis FF (dezimal 224 bis 255) in Betracht, die in K5 als für zukünftigen Gebrauch reserviert ausgewiesen werden. Eine Strukturierung in dieser Weise war wenige Wochen vor dem Prioritätstag Gegenstand eines Änderungsvorschlags an die Teilnehmer der zuständigen Untergruppe des Standardisierungsgremiums (Change Request K6). Darin wurde angeregt, die durch den SMS-Standard unterstützen Felder "address", "real name" und "subject" nicht mehr im Text der Kurznachricht, sondern in der Benutzerdaten-Kopfinformation (UDH) anzuordnen und hierfür aus der in K5 definierten Werteliste für den Informationselementindikator (IEI) die bislang reservierten Einträge 20 bis 22 (dezimal 32 bis 34) einzusetzen sowie die ebenfalls noch nicht genutzten Einträge 23 bis 27 (35 bis 39) ausdrücklich für die spätere Nutzung im Zusammenhang mit E-Mail-Parametern zu reservieren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Schließlich war eine Aufteilung der Daten zwischen der Benutzerdaten-Kopfinformation und dem Nutzdatenbereich denkbar, wie sie in K5 für SIM Tool Security Headers vorgesehen ist. Bei dieser Struktur, der in K5 (S. 64) die Identifikationswerte 70 bis 7F (112 bis 127) zugewiesen sind, werden die den eigentlichen Nutzdaten (Secured Data) vorangestellten Befehlskopfdaten (Command Header) - mit Ausnahme des in den Informationselementindikator (IEI) "verlagerten" ersten, das Befehlsdatenpaket als solches identifizierenden Oktetts (Command Packet Identifier - CPI) - nicht in der Benutzerdaten-Kopfinformation, sondern am Beginn des unmittelbar daran anschließenden Teils des Feldes TP-User-Data angeordnet (K5 Kap. 9.2.3.24.7, S. 69 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>(4) Es kann dahingestellt bleiben, ob der Fachmann Anlass hatte, den dritten Weg zu beschreiten, den das Patentgericht als naheliegend und zielführend angesehen hat. Der Fachmann hatte jedenfalls Anlass, neben dem in K6 aufgezeigten zweiten Weg auch den eng an K5 orientierten ersten Weg in Betracht zu ziehen. Bereits dadurch war der Gegenstand des Streitpatents nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(a) Entgegen der Auffassung der Beklagten war keiner dieser Lösungswege durch den Stand der Technik als vorzugswürdig vorgegeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Die in K5 vorgesehene rudimentäre Strukturierung der Daten ist zwar mit dem Nachteil verbunden, dass es bei der automatisierten Verarbeitung der Daten zu Schwierigkeiten kommen kann. Dieser Umstand, der zum Anlass für den Änderungsvorschlag K6 genommen wurde, gab dem Fachmann jedoch keine Veranlassung, die Anordnung der Daten entsprechend dem in K5 vorgesehenen Grundmuster von vornherein zu verwerfen und ausschließlich dem in K6 vorgezeigten alternativen Konzept Beachtung zu schenken. Der in K6 vorgeschlagene neue Ansatz, der sich auf die im SMS-Standard ohnehin schon vorgesehenen Felder (address, real name, subject) bezog und die Einbeziehung weiterer Angaben allenfalls als später zu realisierende Option vorsah, war nämlich seinerseits mit Folgeproblemen verbunden. Dies ergibt sich aus dem bis zum 16. Dezember 1999 angefallenen, auf K6 Bezug nehmenden E-Mail-Verkehr zwischen den Teilnehmern der zuständigen Untergruppe des Standardisierungsgremiums (K7), dessen öffentliche Zugänglichkeit am Prioritätstag die Parteien nicht in Zweifel gezogen haben und von der der Senat ausgeht. Dort wurde aufgezeigt, dass der Versand von Kurznachrichten, deren Benutzer-Kopfdaten die Höchstgrenze von 160 Zeichen pro Kurznachricht überschreitet, nicht ohne weiteres möglich ist, weil eine Verkettung mehrerer Kurznachrichten im SMS-Standard nur für den Fall vorgesehen war, dass die Länge des Datenteils die genannte Höchstgrenze übersteigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Angesichts dessen war weder durch K6 noch die nachfolgenden E-Mail-Diskussion eine Abkehr von dem bisher im SMS-Standard vorgesehenen Ansatz vorgezeichnet. Für eine engere Orientierung an K5 sprachen der bereits erwähnte Gesichtspunkt, die erforderlichen Ergänzungen des vorhandenen Standards möglichst gering zu halten, und die besseren Möglichkeiten einer Kompatibilität mit vorhandenen Geräten und Anwendungen. Angesichts der insgesamt überschaubaren Zahl von Lösungsansätzen, die bei der gebotenen Orientierung am vorhandenen Standard in Betracht kamen, hatte der Fachmann mithin Veranlassung, jeden dieser Ansätze in Betracht zu ziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>(b) Bei der danach nahegelegten Befassung mit der Möglichkeit, die in K5 vorgesehene Anordnung der Adress- und Informationsdaten im Datenteil der Kurznachricht so zu erweitern, dass weitere in RFC 822 vorgesehene Felder eingesetzt werden können, lag es für den Fachmann nahe, die in K5 (Kap. 3.8.2.1 und 3.8.2.2, S. 22) für die Felder "subject" und "real name" vorgesehene Vorgehensweise zu übernehmen, also die einzelnen Angaben am Anfang des Datenteils anzuordnen und durch definierte Zeichen oder Zeichenfolgen voneinander zu trennen. Bereits damit gelangte er zu der in Merkmal 4 b des Streitpatents vorgesehenen Anordnung der Daten. Den in K5 vorgesehenen Trennzeichen kommt hierbei die Funktion von Schlüsselwörtern zu, weil sie die einzelnen Datenfelder voneinander trennen und zusammen mit der Definition in K5 deren Bedeutung festlegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>(c) In Weiterverfolgung dieses durch K5 nahegelegten Ansatzes stand der Fachmann lediglich noch vor der Aufgabe, eine Kurznachricht des neu definierten Typs von einer Kurznachricht zu unterscheiden, bei der die Adressierung ausschließlich nach den bisherigen Festlegungen in K5 erfolgt. Auch zur Lösung dieser Teilaufgabe stand ihm aufgrund der Festlegungen in K5 eine überschaubare Anzahl an Möglichkeiten zur Verfügung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>Theoretisch kam in Betracht, einen entsprechenden Hinweis bereits in dem Feld TP-PID in den Kopfdaten der Kurznachricht vorzusehen, also zusätzlich zu dem in K5 für die Übertragungsart "Internet Electronic Mail" vorgesehenen Wert 10010 einen weiteren Wert zu belegen und diesem die Bedeutung "RFC 822 Mail" oder dergleichen zuzuordnen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Als mindestens gleichwertige Alternative kam aber in Betracht, es für beide Arten von Nachrichten bei der Zuordnung zu dem Typ "Internet Electronic Mail" zu belassen und ein Unterscheidungskriterium auf einer logisch nachgeordneten Ebene hinzuzufügen. Eine auf der Hand liegende Möglichkeit hierzu bot K5 durch die Benutzerdaten-Kopfinformationen, in denen grundsätzlich beliebige Datenfelder definiert werden konnten. Dies ist die in den Merkmalen 2 c, 2 d und 4 a vorgesehene Vorgehensweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>Anlass, sich mit dieser Alternative zu befassen, gab auch der am Beginn der E-Mail-Diskussion (K7) unterbreitete Vorschlag, einen einzigen Identifikator vorzusehen, der sich auf einen RFC-822-Header bezieht. Dem steht nicht entgegen, dass dieser Vorschlag in den nachfolgenden Diskussionsbeiträgen nur in Zusammenhang mit dem Ansatz erörtert wurde, auch die Adress- und Identifikationsdaten in den Benutzerdaten-Kopfinformationen anzuordnen. Die Verengung auf dieses Thema lag schon deshalb nahe, weil Ausgangspunkt der E-Mail-Diskussion der in K6 enthaltene Vorschlag war, die im SMS-Standard vorgesehenen drei Datenfelder in die Benutzerdaten-Kopfinformation zu verlagern. Der Fachmann, der sich mit dem dem Streitpatent zugrunde liegenden technischen Problem befasste und ausgehend von K5 zu der Frage gelangt war, wie eine vom bisherigen Standard abweichende Anordnung der in den Nutzdaten enthaltenen Adress- und Identifikationsdaten signalisiert werden kann, hatte hingegen Anlass, die in K7 vorgeschlagene Art der Signalisierung auch in diesem Kontext heranzuziehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>(5) Eine abweichende Beurteilung kann entgegen der Auffassung des von der Beklagten beauftragten Privatgutachters nicht auf die Erwägung gestützt werden, der Lösungsvorschlag des Streitpatents bedeute eine Abkehr von allem Vorbekannten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>Das im Streitpatent geschützte Verfahren führt nicht zu einer Abkehr von der im SMS-Standard vorgesehenen Vorgehensweise, sondern nutzt im Standard vorgesehene Mechanismen in bekannter Weise, um zuvor bestehende Beschränkungen zu überwinden. Aus dem Umstand, dass diese Beschränkungen im SMS-Standard in Kauf genommen worden waren, kann nicht gefolgert werden, dass ein leistungsfähigeres Verfahren aus Sicht des Fachmanns als technisch nicht erreichbar anzusehen war. Wie auch der Privatgutachter der Beklagten ausführt, beruhen die Festlegungen des SMS-Standards auch auf Design- und Effizienzüberlegungen. Von diesen Überlegungen hat sich das Streitpatent teilweise gelöst, indem es zu Gunsten einer erweiterten Funktionalität einen komplexeren Aufbau der Kopf- und Benutzerdaten in Kauf nimmt. Für die Beurteilung der erfinderischen Tätigkeit kommt dem nur insoweit Bedeutung zu, als die Umsetzung dieser neuen Designvorgabe technische Mittel erforderte, die durch den Stand der Technik nicht nahegelegt waren. Letzteres ist aus den oben dargelegten Gründen hier nicht der Fall.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Den vom Privatgutachter der Beklagten aufgezeigten und von der Beklagten in der mündlichen Verhandlung vor dem Senat zusätzlich hervorgehobenen Unterschieden zwischen der Datenstruktur eines SIM Toolkit Security Headers und der Datenstruktur nach dem Streitpatent kommt keine ausschlaggebende Bedeutung zu. Der Fachmann hatte aus den oben genannten Gründen auch ohne nähere Befassung mit jener Struktur Anlass, den SMS-Standard in der im Streitpatent beanspruchten Weise fortzuentwickeln. Er hatte hingegen keinen Anlass, eine aufgrund dieser Überlegungen aufgefundene Datenstruktur zusätzlich darauf zu überprüfen, ob sie der Struktur des SIM Toolkit Security Header entspricht, und sie zu verwerfen, wenn dies nicht der Fall ist. Wie auch die Beklagte nicht in Zweifel zieht, dient der SIM Toolkit Security Header einem grundlegend anderen Einsatzzweck als die Datenstruktur für den Versand von E-Mails. Angesichts dessen bestand keine Veranlassung, auf eine möglichst enge Ähnlichkeit dieser beiden Datenstrukturen zu achten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>2. Dass der Gegenstand der auf Patentanspruch 1 zurückbezogenen übrigen Patentansprüche hinsichtlich der erfinderischen Tätigkeit abweichend zu beurteilen wäre, ist weder geltend gemacht noch sonst ersichtlich. Zu Recht hat das Patentgericht das Streitpatent deshalb auch insoweit für nichtig erklärt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>Die Ausführungen in dem von der Beklagten vorgelegten Privatgutachten, wonach es sich bei der in Patentanspruch 3 vorgesehenen Codierung der Schlüsselwörter für die Bezeichnung der einzelnen Adressfelder um "einen cleveren Ansatz" handle, führen insoweit nicht zu einer anderen Beurteilung. Die Verwendung von codierten Schlüsselwörtern zur Abgrenzung und Identifikation der einzelnen Datenfelder ist, wie oben dargelegt wurde, bereits in den Kapiteln 3.8.2.1 und 3.8.2.2 des SMS-Standards (K5 S. 22) vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>3. Hinsichtlich der mit den Hilfsanträgen verteidigten Fassungen von Patentanspruch 1 ergibt sich ebenfalls keine abweichende Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>a) Nach Hilfsantrag 1 soll Patentanspruch 1 am Ende wie folgt ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">", wobei die einzelnen Datenfelder (20, 25, 30, 35) durch Schlüsselwörter voneinander unterschieden werden, wobei jedem Datenfeld ein Schlüsselwort zugeordnet ist, wobei die einzelnen Datenfelder (20, 25, 30, 35) nicht nur über die Schlüsselwörter eindeutig gekennzeichnet werden, sondern auch voneinander getrennt werden."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Die Unterscheidung und Trennung der Datenfelder durch Schlüsselwörter ist, wie bereits mehrfach ausgeführt, schon im SMS-Standard (K5 S. 22) vorgesehen. Die dort als Schlüsselwörter vorgesehenen Zeichen (runde Klammern, Raute, doppelte Raute) dienen sowohl der Trennung der einzelnen Datenfelder als auch - zusammen mit den Festlegungen in K5 - deren Identifizierung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>b) Nach Hilfsantrag 2 soll Patentanspruch 1 wie folgt ergänzt werden:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Nach den Worten "mittels eines Identifikators" wird eingefügt: "in einem Kennzeichnungsdatenfeld".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">- Am Ende des Textes wird angefügt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">", wobei das Kennzeichnungsdatenfeld (15) von einem zweiten Längendatenfeld (45) gefolgt wird, das die Länge IEIDL (Information Element Identifier Data Length) eines dritten Längendatenfeldes (46) angibt und wobei das dritte Längendatenfeld (46) die Länge der Datenfelder (20, 25, 30, 35) im Datenteil (50) angibt."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>Auch mit diesen zusätzlichen Merkmalen ist der Gegenstand des Streitpatents durch den Stand der Technik nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Die aus den oben genannten Gründen durch den Stand der Technik nahegelegte Signalisierung der RFC-822-Adressierung mittels eines Identifikators in den Benutzerdaten-Kopfinformationen hat nach dem SMS-Standard zwangsläufig zur Folge, dass der Identifikator in einem Kennzeichnungsdatenfeld angeordnet ist und dass zusätzlich zum Identifikator ein Längendatenfeld (IEIDL) und ein weiteres Datenfeld zur Verfügung stehen, dessen Inhalt beliebig festgelegt werden kann. Ob dieses Feld, das zur Übertragung der Adressierungs- und Identifikationsdaten nicht benötigt wird, leer bleibt oder für andere Zwecke genutzt wird, ist eine Frage der zweckmäßigen Ausgestaltung. Die mit Hilfsantrag 2 beanspruchte Variante, in diesem Feld die Länge der in den Nutzdaten angeordneten Adress- und Identifikationsdaten anzugeben, hält sich im Rahmen der hierfür durch den SMS-Standard nahegelegten Möglichkeiten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 97 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Meier-Beck                                           Keukenschrijver                                           Mühlens</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                             Grabinski                                                         Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE304342011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

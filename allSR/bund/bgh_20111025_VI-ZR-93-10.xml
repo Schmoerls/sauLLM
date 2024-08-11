@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE301992011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20111025</entsch-datum>
+   <aktenzeichen>VI ZR 93/10</aktenzeichen>
+   <doktyp>Versäumnisurteil</doktyp>
+   <norm>§ 32 ZPO, Art 40 Abs 1 S 2 BGBEG, § 823 Abs 1 BGB, § 1004 BGB</norm>
+   <vorinstanz>vorgehend Hanseatisches Oberlandesgericht Hamburg, 2. März 2010, Az: 7 U 70/09, Urteil<br/>vorgehend LG Hamburg, 22. Mai 2009, Az: 325 O 145/08<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Persönlichkeitsschutz im Internet: Unterlassungsanspruch wegen Verbreitung einer in einem Blog enthaltenen persönlichkeitsrechtsverletzenden Äußerung; Verletzung zumutbarer Prüfpflichten des Hostproviders</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Nimmt ein Betroffener einen Hostprovider auf Unterlassung der Verbreitung einer in einem Blog enthaltenen Äußerung eines Dritten in Anspruch, weil diese das Persönlichkeitsrecht des Betroffenen verletze, setzt die Störerhaftung des Hostproviders die Verletzung zumutbarer Prüfpflichten voraus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Hostprovider ist erst verantwortlich, wenn er Kenntnis von der Verletzung des Persönlichkeitsrechts erlangt. Dies setzt voraus, dass die Beanstandung des Betroffenen so konkret gefasst ist, dass der Rechtsverstoß auf der Grundlage der Behauptungen des Betroffenen unschwer bejaht werden kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Eine Verpflichtung zur Löschung des beanstandeten Eintrags besteht, wenn auf der Grundlage der Stellungnahme des für den Blog Verantwortlichen und einer etwaigen Replik des Betroffenen unter Berücksichtigung etwa zu verlangender Nachweise von einer rechtswidrigen Verletzung des Persönlichkeitsrechts auszugehen ist.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten zu 2 wird das Urteil des 7. Zivilsenats des Hanseatischen Oberlandesgerichts Hamburg vom 2. März 2010 im Kostenpunkt und insoweit aufgehoben, als zum Nachteil der Beklagten zu 2 erkannt worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Der Kläger zu 1 (künftig: Kläger) nimmt die Beklagte zu 2 (künftig: Beklagte) wegen der Verbreitung einer Äußerung, die sich auf der Webseite m….blogspot.com befindet, auf Unterlassung in Anspruch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Der Kläger ist im Immobiliengeschäft tätig. Er war Geschäftsführer einer in Deutschland ansässigen GmbH, die nach Abweisung eines Antrags auf Eröffnung des Insolvenzverfahrens mangels Masse im Jahr 2003 aufgelöst wurde. Ferner war er Geschäftsführer einer spanischen Bauträgergesellschaft mit Sitz in Palma de Mallorca. Nunmehr ist der Kläger Geschäftsführer einer anderen spanischen Gesellschaft.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte, die ihren Sitz im Bundesstaat Kalifornien der Vereinigten Staaten hat, stellt die technische Infrastruktur und den Speicherplatz für die Website www.blogger.com und für die unter www.blogspot.com von Nutzern eingerichteten Weblogs (Blogs), also journal- oder tagebuchartig angelegte Webseiten, zur Verfügung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Ein an dem Rechtsstreit nicht beteiligter Dritter richtete auf der Webseite www.blogspot.com den Blog m...blogspot.com ein. Dort hieß es in einem auf den 2. August 2007 datierten Eintrag unter der Überschrift "Hat Pleitier … F… ein Intelligenzproblem?" unter anderem:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Apropos Banco S…, im Frühjahr 2000 hat das Institut Herrn F…s Firmen… Visakarte auf Veranlassung seines Steuerberaters!!!, … gesperrt und eingezogen. Begründung: F… nützte diese Visa-Karte im Wesentlichen zur Begleichung von Sex-Club Rechnungen und sei allem Anschein nach ‚manchen Situationen nicht gewachsen.‘ Honi soit qui mal y pense!"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Der Kläger verlangt von der Beklagten, es zu unterlassen, folgende Behauptung zu verbreiten: "F… nützte diese Visa-Karte im Wesentlichen zur Begleichung von Sex-Club Rechnungen", hilfsweise Beseitigung der Äußerung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat der Klage hinsichtlich dieses Unterlassungsbegehrens stattgegeben, allerdings nur bezogen auf die Verbreitung im Bereich der Bundesrepublik Deutschland. Die dagegen gerichtete Berufung der Beklagten hatte keinen Erfolg. Mit der vom Berufungsgericht zugelassenen Revision erstrebt die Beklagte vollumfängliche Klageabweisung. Hinsichtlich einer Reihe weiterer vom Kläger beanstandeter Äußerungen sowie hinsichtlich der Beklagten zu 1 und der Klägerin zu 2 ist die Klage in den Vorinstanzen rechtskräftig abgewiesen worden.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht, dessen Urteil in MMR 2010, 490 veröffentlicht ist, hat ausgeführt: Das Landgericht habe die Anwendbarkeit deutschen materiellen Rechts zu Recht und mit zutreffender Begründung aus Art. 40 EGBGB hergeleitet. Bezüglich der Verbreitung des Satzes "F… nützte diese Visa-Karte im Wesentlichen zur Begleichung von Sex-Club-Rechnungen…" auf der von der Beklagten "gehosteten" Seite bestehe ein Unterlassungsanspruch des Klägers gegen die Beklagte als Störerin. Die Beklagte habe nicht vorgetragen, dass die in dem Beitrag erwähnte Visa-Karte der Banco S… zur Begleichung einer Sex-Club-Rechnung verwendet worden sei. Der Kläger habe bestritten, jemals Sex-Club-Rechnungen mit Visa-Karte beglichen zu haben, und vorgetragen, dass die Banco S… der Firma C… niemals eine Kreditkarte ausgestellt habe. Diese Aussage sei hinreichend bestimmt. Der Kläger bringe damit zum Ausdruck, dass es keine Anhaltspunkte für die verbreitete Behauptung gebe, sondern dass es sich um eine freie Erfindung handele. Weitere Ausführungen zu einem nicht geschehenen Ereignis könne eine Partei naturgemäß nicht machen. Diese Erklärung des Klägers habe die Beklagte veranlassen müssen, in eine Prüfung einzutreten, ob die unzweifelhaft ehrenrührige Behauptung zutreffe, und, sofern dies nicht zu klären gewesen sei, den Betreiber zur Löschung der Passage zu veranlassen. Da die Beklagte abgesehen von der Weiterleitung der Beanstandung nichts unternommen habe, um den Verfasser zur Löschung zu veranlassen, und da sie auch weder dargetan noch bewiesen habe, dass die Tatsachenbehauptung zutreffend gewesen sei, sei sie insoweit ihrer Pflicht als technische Verbreiterin nicht nachgekommen. Dass ihr ein Handeln nicht zumutbar oder möglich gewesen wäre, habe sie selbst nicht behauptet. Daher bestehe insoweit ein Unterlassungsanspruch des Klägers.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Über die Revision der Beklagten ist, da der Kläger trotz ordnungsgemäßer Ladung im Termin nicht vertreten war, durch Versäumnisurteil zu entscheiden, das aber inhaltlich nicht auf der Säumnis, sondern auf einer sachlichen Prüfung des Antrags beruht (vgl. BGH, Urteil vom 4. April 1962 - V ZR 110/60, BGHZ 37, 79, 81).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Revision führt zur Aufhebung des angefochtenen Urteils und zur Zurückverweisung der Sache an das Berufungsgericht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat allerdings zu Recht die internationale Zuständigkeit der deutschen Gerichte angenommen, die in jedem Verfahrensabschnitt, auch im Revisionsverfahren, von Amts wegen zu prüfen ist (Senatsurteile vom 29. März 2011 - VI ZR 111/10, VersR 2011, 900 Rn. 6; vom 29. Juni 2010 - VI ZR 122/09, VersR 2011, 137 Rn. 10; BGH, Urteile vom 28. November 2002 - III ZR 102/02, BGHZ 153, 82, 84 ff.; vom 19. April 2007 - I ZR 35/04, BGHZ 172, 119 Rn. 16 - Internet-Versteigerung II).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Zur Entscheidung über Klagen wegen Persönlichkeitsbeeinträchtigungen durch im Internet abrufbare Veröffentlichungen sind die deutschen Gerichte nach § 32 ZPO international zuständig, wenn die als rechtsverletzend beanstandeten Inhalte objektiv einen deutlichen Bezug zum Inland in dem Sinne aufweisen, dass eine Kollision der widerstreitenden Interessen nach den Umständen des konkreten Falls im Inland tatsächlich eingetreten sein kann oder eintreten kann. Dies ist dann anzunehmen, wenn eine Kenntnisnahme der beanstandeten Meldung nach den Umständen des konkreten Falls im Inland erheblich näher liegt als es aufgrund der bloßen Abrufbarkeit des Angebots der Fall wäre und die vom Kläger behauptete Beeinträchtigung seines Persönlichkeitsrechts durch eine Kenntnisnahme von der Meldung (auch) im Inland eintreten würde (Senatsurteile vom 29. März 2011 - VI ZR 111/10, aaO Rn. 8 ff.; vom 2. März 2010 - VI ZR 23/09, BGHZ 184, 313 Rn. 16 ff.). Nach diesen Kriterien bestimmt sich der für die internationale Zuständigkeit maßgebliche Erfolgsort auch dann, wenn gegen den Hostprovider als Störer geklagt wird, ungeachtet der eventuell strengeren Voraussetzungen für dessen Haftung (dazu nachfolgend).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Danach ist die internationale Zuständigkeit der deutschen Gerichte gegeben. Der Kläger hat im Streitfall spätestens zum Zeitpunkt der letzten mündlichen Verhandlung einen deutlichen Inlandsbezug des beanstandeten Blogs schlüssig vorgetragen. Maßgebend ist der Inlandsbezug der behaupteten Verletzung von Persönlichkeitsrechten des Klägers. Insoweit ist auf den Inhalt des beanstandeten Blogs abzustellen. Dieser richtet sich vorrangig an auf Mallorca und in Deutschland ansässige Personen, die - etwa als "Residenten" oder "Immobilienbesitzer" - einen Bezug zu Mallorca und Interesse an den in der Blog-Überschrift angekündigten "Insiderinfos" und "Fakten" haben. Der Blogeintrag vom 2. August 2007, der die angegriffene Äußerung enthält, ist in deutscher Sprache abgefasst und der Kläger ist unter Angabe seines Wohnorts in Deutschland mit vollem Namen genannt. In dem Blogeintrag wird auch die angeblich fortdauernde Geschäftstätigkeit des Klägers in Deutschland angesprochen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>2. Das Berufungsgericht geht zu Recht von der Anwendbarkeit deutschen materiellen Rechts aus. Die richtige Anwendung des deutschen Internationalen Privatrechts ist in der Revisionsinstanz von Amts wegen zu prüfen (vgl. Senatsurteil vom 15. Juli 2008 - VI ZR 105/07, BGHZ 177, 237 Rn. 8 mwN; BGH, Urteil vom 2. Oktober 1997 - I ZR 88/95, BGHZ 136, 380, 386; Zöller/Geimer, ZPO, 28. Aufl., § 293 Rn. 9 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>a) Das anwendbare Recht bestimmt sich nach den Art. 40 ff. EGBGB. Denn außervertragliche Schuldverhältnisse aus der Verletzung der Persönlichkeitsrechte sind nach Art. 1 Abs. 2 Buchst. g der Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des Rates vom 11. Juli 2007 über das auf außervertragliche Schuldverhältnisse anzuwendende Recht (Rom II-VO) vom Anwendungsbereich der Rom II-VO ausgenommen (vgl. dazu MünchKommBGB/Junker, 5. Aufl., Art. 1 Rom II-VO Rn. 43). Auch § 3 TMG, dessen kollisionsrechtlicher Charakter streitig ist (vgl. Senat, Vorabentscheidungsersuchen vom 10. November 2009 - VI ZR 217/08, VersR 2010, 226 Rn. 31 ff. mwN), greift nicht ein. Denn die Beklagte hat ihren Sitz nicht in dem Geltungsbereich der Richtlinien 2000/31/EG und 89/552/EWG, sondern in den Vereinigten Staaten (vgl. MünchKommBGB/Martiny, 5. Aufl., Art. 9 Rom I-VO Anh. III. Rn. 71).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>b) Maßgebend ist Art. 40 EGBGB, dem auch der Persönlichkeitsschutz einschließlich sich daraus herleitender Unterlassungsansprüche unterfällt (vgl. MünchKommBGB/Junker, 5. Aufl., Art. 40 EGBGB Rn. 85, und die Begründung des zugrunde liegenden Gesetzentwurfs BT-Drucks. 14/343, S. 10). Im Streitfall ergibt sich die Anwendbarkeit deutschen Rechts jedenfalls daraus, dass der Kläger sein Bestimmungsrecht zugunsten deutschen Rechts gemäß Art. 40 Abs. 1 Satz 2 EGBGB in der Klageschrift ausgeübt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>aa) Dem Kläger stand ein Bestimmungsrecht nach Art. 40 Abs. 1 Satz 2 EGBGB zu. Nach den von den Parteien nicht angegriffenen Feststellungen des Landgerichts, auf die das Berufungsurteil Bezug nimmt, liegt der nach Art. 40 Abs. 1 Satz 2 EGBGB maßgebliche Erfolgsort in Deutschland. Der Kläger, der in Deutschland wohnt und Geschäfte betreibt, ist hier in seinem Persönlichkeitsrecht betroffen; hier kollidiert sein Interesse an der Unterlassung der ehrverletzenden Veröffentlichung mit dem Interesse des Bloggers daran, ein deutsches Publikum über die behaupteten Machenschaften des Klägers zu informieren. Daran ist auch im Fall der Klage gegen den Hostprovider anzuknüpfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>bb) Den nicht angegriffenen Feststellungen der Vorinstanzen ist auch eine Ausübung des Bestimmungsrechts durch den Kläger zu entnehmen. Im Streitfall hat der Kläger sich in der Klageschrift vom 8. Juli 2008 auf deutsche Rechtsnormen berufen und auch auf den vorgerichtlichen Schriftwechsel verwiesen. Dazu gehört das Anwaltsschreiben vom 8. Februar 2008 (Anlage K6 zur Klageschrift vom 8. Juli 2008), auf das im Tatbestand des Berufungsurteils Bezug genommen wird. In dem Schreiben bezieht sich der Kläger auf deutsches Recht und widerspricht der E-Mail der Beklagten zu 1 vom 7. Februar 2008, in der sie für die Beklagte zu 2 die Auffassung vertreten hat, nur Recht der Vereinigten Staaten sei anwendbar. Danach hat der Kläger bereits mit der Klageschrift klar zum Ausdruck gebracht, dass deutsches Recht zur Anwendung kommen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>3. Auf der Grundlage der bisher getroffenen Feststellungen kann nach deutschem Recht (§ 823 Abs. 1, § 1004 Abs. 1 BGB, Art. 1 Abs. 1, Art. 2 Abs. 1 GG) ein Unterlassungsanspruch des Klägers gegen die Beklagte nicht bejaht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Allerdings ist die Beklagte nicht bereits nach § 10 Satz 1 TMG von der Verantwortlichkeit für den Inhalt der von ihr betriebenen Website befreit. Sie hält zwar als Diensteanbieter nach § 2 Satz 1 Nr. 1 Halbs. 1 TMG Telemedien im Sinne des § 1 Abs. 1 Satz 1 TMG zur Nutzung bereit. Sie unterhält die Website www.blogger.com und speichert die unter www.blogspot.com eingerichteten Blogs, journal- oder tagebuchartige Webseiten mit chronologisch sortierten Beiträgen des "Bloggers" (vgl. Heckmann in jurisPK-Internetrecht, 2. Aufl., Kap. 1.7 Rn. 34), zum Zwecke des Abrufs. Die Beklagte fungiert damit als Hostprovider (vgl. Art. 14 - "Hosting" - der Richtlinie 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der Dienste der Informationsgesellschaft, insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt). Die Haftungsbeschränkung des § 10 Satz 1 TMG gilt aber nicht für Unterlassungsansprüche (st. Rspr., vgl. Senatsurteile vom 27. März 2007 - VI ZR 101/06, VersR 2007, 1004 Rn. 7 - Meinungsforum; vom 30. Juni 2009 - VI ZR 210/08, VersR 2009, 1417 Rn. 17 - Domainverpächter; BGH, Urteile vom 19. April 2007 - I ZR 35/04, BGHZ 172, 119 Rn. 19 - Internet-Versteigerung II; vom 22. Juli 2010 - I ZR 139/08, GRUR 2011, 152 Rn. 26 - Kinderhochstühle im Internet). Wie sich aus § 7 Abs. 2 Satz 2 TMG und dem Gesamtzusammenhang der gesetzlichen Regelung ergibt, betrifft § 10 TMG lediglich die strafrechtliche Verantwortlichkeit und die Schadensersatzhaftung (vgl. Senatsurteil vom 27. März 2007 - VI ZR 101/06, aaO; BGH, Urteil vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 245 ff. - Internet-Versteigerung I, zur Vorgängerregelung des § 11 Teledienstegesetz).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Die Beklagte trifft aber hinsichtlich des vom Kläger beanstandeten Eintrags nur eine eingeschränkte Verantwortlichkeit, weil sie ihn weder verfasst noch sich seinen Inhalt zu Eigen gemacht hat. Sie kann lediglich als Störerin in Anspruch genommen werden, weil sie die technischen Möglichkeiten des Blogs zur Verfügung gestellt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>aa) Als Störer ist verpflichtet, wer, ohne Täter oder Teilnehmer zu sein, in irgendeiner Weise willentlich und adäquat kausal zur Beeinträchtigung des Rechtsguts beiträgt (vgl. Senatsurteil vom 30. Juni 2009 - VI ZR 210/08, aaO Rn. 13 f. - Domainverpächter; BGH, Urteil vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 251 - Internet-Versteigerung I; Urteil vom 22. Juli 2010 - I ZR 139/08, aaO Rn. 45 - Kinderhochstühle im Internet; Urteil vom 17. August 2011 - I ZR 57/09, zur Veröffentlichung in BGHZ bestimmt, Rn. 20 - Stiftparfüm). Indem die Beklagte die Website www.blogspot.com betreibt, dabei den Speicherplatz für die von den Nutzern eingerichteten Webseiten bereitstellt und den Abruf dieser Webseiten über das Internet ermöglicht, trägt sie willentlich und adäquat kausal zur Verbreitung von Äußerungen bei, die das allgemeine Persönlichkeitsrecht Dritter beeinträchtigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>bb) Die Störerhaftung darf jedoch nicht über Gebühr auf Dritte erstreckt werden, welche die rechtswidrige Beeinträchtigung nicht selbst vorgenommen haben. Sie setzt die Verletzung zumutbarer Verhaltenspflichten, insbesondere von Prüfungspflichten voraus; deren Umfang bestimmt sich danach, ob und inwieweit dem als Störer in Anspruch Genommenen nach den jeweiligen Umständen des Einzelfalls unter Berücksichtigung seiner Funktion und Aufgabenstellung sowie mit Blick auf die Eigenverantwortung desjenigen, der die rechtswidrige Beeinträchtigung selbst unmittelbar vorgenommen hat, eine Prüfung zuzumuten ist (vgl. Senatsurteil vom 30. Juni 2009 - VI ZR 210/08, aaO Rn. 18 - Domainverpächter; BGH, Urteil vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 251 - Internet-Versteigerung I; vom 30. April 2008 - I ZR 73/05, GRUR 2008, 702 Rn. 50 - Internet-Versteigerung III; Urteil vom 17. August 2011 - I ZR 57/09, aaO Rn. 20 - Stiftparfüm, jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>c) Unter Berücksichtigung der widerstreitenden Interessen gelten für die Inanspruchnahme des Hostproviders unter dem Gesichtspunkt der Störerhaftung für das Persönlichkeitsrecht verletzende Blogs die folgenden Maßstäbe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>aa) Ein Hostprovider ist nicht verpflichtet, die von den Nutzern in das Netz gestellten Beiträge vor der Veröffentlichung auf eventuelle Rechtsverletzungen zu überprüfen. Er ist aber verantwortlich, sobald er Kenntnis von der Rechtsverletzung erlangt. Weist ein Betroffener den Hostprovider auf eine Verletzung seines Persönlichkeitsrechts durch den Nutzer eines Blogs hin, kann der Hostprovider als Störer verpflichtet sein, zukünftig derartige Verletzungen zu verhindern (vgl. BGH, Urteil vom 11. März 2004 - I ZR 304/01, BGHZ 158, 236, 252 - Internet-Versteigerung I; Urteil vom 19. April 2007 - I ZR 35/04, BGHZ 172, 119 - Internet-Versteigerung II; Urteil vom 12. Juli 2007 - I ZR 18/04, BGHZ 173, 188 Rn. 43 - Jugendgefährdende Medien bei eBay; Urteil vom 17. August 2011 - I ZR 57/09, aaO Rn. 26 - Stiftparfüm). Diese Erwägungen stehen im Einklang mit den Maßstäben, die der Gerichtshof der Europäischen Union und der Bundesgerichtshof hinsichtlich der Verantwortlichkeit von Betreibern eines Internet-Marktplatzes für Markenrechtsverletzungen aufgestellt haben (vgl. EuGH, Urteil vom 12. Juli 2011 - C-324/09, EuZW 2011, 754 - L’Oreal/eBay; BGH, Urteil vom 17. August 2011 - I ZR 57/09, aaO Rn. 22 ff. - Stiftparfüm).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>bb) Allerdings wird sich bei der behaupteten Verletzung von Persönlichkeitsrechten eine Rechtsverletzung nicht stets ohne weiteres feststellen lassen. Sie erfordert eine Abwägung zwischen dem Recht des Betroffenen auf Schutz seiner Persönlichkeit sowie Achtung seines Privatlebens aus Art. 1 Abs. 1, Art. 2 Abs. 1 GG, Art. 8 Abs. 1 EMRK und dem durch Art. 5 Abs. 1 GG, Art. 10 EMRK geschützten Recht des Providers auf Meinungs- und Medienfreiheit. Ist der Provider mit der Beanstandung eines Betroffenen konfrontiert, die richtig oder falsch sein kann, ist eine Ermittlung und Bewertung des gesamten Sachverhalts unter Berücksichtigung einer etwaigen Stellungnahme des für den Blog Verantwortlichen erforderlich. Hiernach ergeben sich für den Provider regelmäßig folgende Pflichten:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Ein Tätigwerden des Hostproviders ist nur veranlasst, wenn der Hinweis so konkret gefasst ist, dass der Rechtsverstoß auf der Grundlage der Behauptungen des Betroffenen unschwer - das heißt ohne eingehende rechtliche und tatsächliche Überprüfung - bejaht werden kann. Dabei hängt das Ausmaß des insoweit vom Provider zu verlangenden Prüfungsaufwandes von den Umständen des Einzelfalls ab, insbesondere vom Gewicht der angezeigten Rechtsverletzungen auf der einen und den Erkenntnismöglichkeiten des Providers auf der anderen Seite.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Regelmäßig ist zunächst die Beanstandung des Betroffenen an den für den Blog Verantwortlichen zur Stellungnahme weiterzuleiten. Bleibt eine Stellungnahme innerhalb einer nach den Umständen angemessenen Frist aus, ist von der Berechtigung der Beanstandung auszugehen und der beanstandete Eintrag zu löschen. Stellt der für den Blog Verantwortliche die Berechtigung der Beanstandung substantiiert in Abrede und ergeben sich deshalb berechtigte Zweifel, ist der Provider grundsätzlich gehalten, dem Betroffenen dies mitzuteilen und gegebenenfalls Nachweise zu verlangen, aus denen sich die behauptete Rechtsverletzung ergibt. Bleibt eine Stellungnahme des Betroffenen aus oder legt er gegebenenfalls erforderliche Nachweise nicht vor, ist eine weitere Prüfung nicht veranlasst. Ergibt sich aus der Stellungnahme des Betroffenen oder den vorgelegten Belegen auch unter Berücksichtigung einer etwaigen Äußerung des für den Blog Verantwortlichen eine rechtswidrige Verletzung des Persönlichkeitsrechts, ist der beanstandete Eintrag zu löschen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>d) Danach kann ein Unterlassungsanspruch des Klägers derzeit nicht bejaht werden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Nicht zu beanstanden ist die Auffassung des Berufungsgerichts, der Kläger habe hinreichend deutlich gemacht, dass es sich bei der beanstandeten Mitteilung betreffend die Verwendung der Visakarte um eine freie Erfindung handelte, so dass die Beklagte in eine Prüfung habe eintreten müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Dies hat die Beklagte indes zunächst getan, indem sie über die Beklagte zu 1 in einen Schriftwechsel eintrat. Nach den Feststellungen des Berufungsgerichts widersprach der Kläger dem Angebot der Beklagten zu 1 vom 7. Februar 2008, die Abmahnung des Klägers an den Blogger weiterzuleiten, unter dem 8. Februar 2008 und erteilte der Klägervertreter erst nach Klageerhebung durch Schreiben vom 11. Dezember 2008 gegenüber den Beklagten die Erlaubnis zur Weiterleitung an den Blogger, was die Beklagte unverzüglich veranlasste. Hinsichtlich des weiteren Verlaufs stellt das Berufungsgericht lediglich fest, dass die Seiten weiterhin abrufbar blieben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Es erscheint nicht ausgeschlossen, dass die Parteien weiter hätten vortragen können und vorgetragen hätten, wenn sie die oben dargestellten Maßstäbe zu dem der Beklagten obliegenden Prüfungsvorgang in den Blick genommen hätten. Hierzu ist ihnen nunmehr rechtliches Gehör zu gewähren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Die Sache ist demnach an das Berufungsgericht zurückzuverweisen, damit dieses - eventuell nach ergänzendem Tatsachenvortrag der Parteien - die noch notwendigen Feststellungen treffen kann. Gegebenenfalls wird auch die Frage einer bestehenden Wiederholungs- oder Erstbegehungsgefahr zu prüfen sein (vgl. dazu BGH, Urteil vom 17. August 2011 - I ZR 57/09, aaO Rn. 37 ff. - Stiftparfüm). Für den Fall, dass das Berufungsgericht erneut zu einer Verurteilung der Beklagten gelangt, wird es die Ausführungen der Revision zur Fassung des Unterlassungsausspruchs in Erwägung ziehen müssen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Galke                                                     Zoll                                         Wellner</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                          Diederichsen                                       Stöhr</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE301992011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

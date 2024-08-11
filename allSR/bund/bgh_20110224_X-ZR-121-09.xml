@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE310822011</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20110224</entsch-datum>
+   <aktenzeichen>X ZR 121/09</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 1 Abs 1 PatG, § 1 Abs 3 Nr 3 PatG, § 1 Abs 4 PatG</norm>
+   <vorinstanz>vorgehend BPatG München, 4. Juni 2009, Az: 2 Ni 50/07, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Patentnichtigkeitsverfahren: Voraussetzungen für den Patentschutz einer Erfindung im Bezug zu Geräten und Verfahren der elektronischen Datenverarbeitung - Webseitenanzeige</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Webseitenanzeige</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Bei Erfindungen mit Bezug zu Geräten und Verfahren (Programmen) der elektronischen Datenverarbeitung ist zunächst zu klären, ob der Gegenstand der Erfindung zumindest mit einem Teilaspekt auf technischem Gebiet liegt (§ 1 Abs. 1 PatG). Danach ist zu prüfen, ob dieser Gegenstand lediglich ein Programm für Datenverarbeitungsanlagen als solches darstellt und deshalb vom Patentschutz ausgeschlossen ist. Der Ausschlusstatbestand greift nicht ein, wenn diese weitere Prüfung ergibt, dass die Lehre Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen  .</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Ein Verfahren, das der datenverarbeitungsmäßigen Abarbeitung von Verfahrensschritten in netzwerkmäßig verbundenen technischen Geräten (Server, Clients) dient, weist die für den Patentschutz vorauszusetzende Technizität auch dann auf, wenn diese Geräte nicht ausdrücklich im Patentanspruch genannt sind .</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Berufung gegen das am 4. Juni 2009 verkündete Urteil des 2. Senats (Nichtigkeitssenats) des Bundespatentgerichts wird auf Kosten der Beklagten zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist eingetragene Inhaberin des am 30. März 2001 angemeldeten deutschen Patents 101 15 895 (Streitpatents), dessen Patentanspruch 1 lautet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"1. Verfahren zur Erzeugung einer Darstellung für das Wiederfinden einer bereits von der Startseite (50) eines Informationsanbieters aus aufgerufenen und inzwischen verlassenen Informationsseite, welche über das Internet, ein Intranet oder ein Extranet aufrufbar ist, aufweisend folgende Verfahrensschritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Registrieren eines Benutzers (5) bei Aufruf der Startseite (50),</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Registrieren der von dem Benutzer unmittelbar und mittelbar von der Startseite (50) aus aufgerufenen Informationsseiten des Informationsanbieters und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) Erzeugung einer anzeigbaren Darstellung (80, 81), aus der die Abfolge der von dem Benutzer (5) aufgerufenen Informationsseiten des Informationsanbieters erkennbar ist."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Wegen der nachgeordneten Ansprüche 2 bis 7 wird auf die Patentschrift Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Nichtigkeitsklage hat die Klägerin geltend gemacht, der Gegenstand des Streitpatents sei nicht patentfähig; er liege nicht auf technischem Gebiet und sei nicht neu, beruhe jedenfalls aber nicht auf einer erfinderischen Tätigkeit.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat beantragt, das Streitpatent für nichtig zu erklären; die Beklagte hat um Klageabweisung gebeten und das Streitpatent hilfsweise mit einem eingeschränkten Antrag verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt. Mit ihrer dagegen eingelegten Berufung, deren Zurückweisung die Klägerin beantragt, verteidigt die Beklagte das Streitpatent nur noch beschränkt mit Patentanspruch 1 in der aus den Entscheidungsgründen unter I 2 ersichtlichen Fassung, die nach Auffassung der Klägerin zu einer unzulässigen Erweiterung führt, und nach Maßgabe zweier Hilfsanträge, an die sich die Ansprüche 2 bis 7 jeweils anschließen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die zulässige Berufung hat in der Sache keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>I. 1. Das Streitpatent betrifft ein Verfahren zur Erzeugung einer Darstellung für das Wiederfinden einer von der Startseite eines Informationsanbieters aus aufgerufenen und inzwischen verlassenen Informationsseite. Die Beschreibung führt dazu aus, es komme häufig vor, dass Nutzer beim Aufrufen aufeinander folgender verschiedener Seiten im Internet über "Hyperlinks" ("Surfen") nach einiger Zeit eine zuvor aufgesuchte Internetseite wieder finden möchten. Dafür böten die meisten Netzwerk-Browser mit dem "Zurück-Button" eine Funktion an, mit der von der aktuell aufgerufenen Internetseite zu der unmittelbar zuvor besichtigten gelangt werden könne. Außerdem könne eine Liste besuchter Internetseiten aufgerufen werden. Diese Liste umfasse regelmäßig jedoch keine Adressen von Seiten, die von einer Startseite bzw. Homepage aus indirekt, mittels eines "Links", aufgerufen worden seien. Insbesondere nach längerem Surfen im Internet seien der Zurück-Button und die Adressliste nur bedingt geeignet, eine zuvor aufgerufene, insbesondere eine von einer Startseite abzweigende Internetseite wieder zu finden.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund soll durch das Streitpatent ein Verfahren zur Verfügung gestellt werden, mit dem eine bereits aufgerufene und inzwischen verlassene Informationsseite eines Informationsanbieters, die von dessen Startseite aus unmittelbar oder mittelbar aufrufbar ist, in einfacher Weise wieder gefunden und erneut aufgerufen werden kann. Dafür schlägt Patentanspruch 1 (ohne Bezugszeichen) in der jetzt noch verteidigten Fassung (ohne Bezugszeichen, Ergänzung gegenüber der erteilten Fassung in Fettdruck) ein Verfahren vor</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">zur Erzeugung einer Darstellung für das Wiederfinden einer bereits von der Startseite eines Informationsanbieters aus aufgerufenen und inzwischen verlassenen Informationsseite, welche über das Internet, ein Intranet oder ein Extranet aufrufbar ist, aufweisend folgende <strong>von dem Server durchgeführte</strong> Verfahrensschritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Registrieren eines Benutzers bei Aufruf der Startseite,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Registrieren der von dem Benutzer unmittelbar und mittelbar von der Startseite aus aufgerufenen Informationsseiten des Informationsanbieters und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) Erzeugung einer anzeigbaren Darstellung, aus der die Abfolge der von dem Benutzer aufgerufenen Informationsseiten des Informationsanbieters erkennbar ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Gemäß Hilfsantrag 1 soll Patentanspruch 1 folgende Fassung erhalten (Ergänzungen gegenüber der Fassung gemäß Hauptantrag <em>kursiv</em>):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Erzeugung einer Darstellung für das Wiederfinden einer bereits von der Startseite eines Informationsanbieters aus aufgerufenen und inzwischen verlassenen Informationsseite, welche über das Internet, ein Intranet oder ein Extranet aufrufbar ist, aufweisend folgende von dem Server durchgeführte Verfahrensschritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Registrieren eines Benutzers bei Aufruf der Startseite,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Registrieren der von dem Benutzer unmittelbar und mittelbar von der Startseite aus aufgerufenen Informationsseiten des Informationsanbieters,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) Erzeugung einer <em>dem Benutzer</em> anzeigbaren Darstellung, aus der die Abfolge der von dem Benutzer aufgerufenen Informationsseiten des Informationsanbieters erkennbar ist, <em>auf einem Server des Informationsanbieters</em> und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) <em>Übermittlung der Darstellung vom Server über das Internet, das Intranet oder das Extranet an eine Anzeigevorrichtung des Benutzers, wobei die Darstellung Links enthält, über die der Benutzer zur jeweiligen Informationsseite gelangen kann.</em>"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>In der Fassung von Hilfsantrag 2 lautet Patentanspruch 1 (Ergänzungen gegenüber der erteilten Fassung unterstrichen):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Verfahren zur Erzeugung einer Darstellung für das Wiederfinden einer bereits von der Startseite eines Informationsanbieters aus aufgerufenen und inzwischen verlassenen Informationsseite <span style="text-decoration:underline">in einer Klienten-Server-Struktur</span>, welche über das Internet, ein Intranet oder ein Extranet aufrufbar ist, <span style="text-decoration:underline">wobei das Hypertext-Transfer-Protocol (HTTP) verwendet wird</span>, aufweisend folgende von dem Server durchgeführte Verfahrensschritte:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) <span style="text-decoration:underline">Auf einem Server</span> Registrieren eines Benutzers bei Aufruf der Startseite <span style="text-decoration:underline">mittels eines Cookies</span>,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) <span style="text-decoration:underline">auf dem Server</span> Registrieren der von dem Benutzer unmittelbar und mittelbar von der Startseite aus aufgerufenen Informationsseiten des Informationsanbieters,</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">c) <span style="text-decoration:underline">auf dem Server</span> Erzeugung einer <span style="text-decoration:underline">dem Benutzer</span> anzeigbaren Darstellung, aus der die Abfolge der von dem Benutzer (5) aufgerufenen Informationsseiten des Informationsanbieters erkennbar ist, und</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">d) <span style="text-decoration:underline">Übermittlung der Darstellung vom Server über das Internet, das Intranet oder das Extranet an eine Anzeigevorrichtung des Benutzers, wobei die Darstellung Links enthält, über die der Benutzer zur jeweiligen Informationsseite gelangen kann.</span>"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>3. Das patentgemäße Verfahren bezieht sich auf die Wahrnehmung von Informationsangeboten im Internet (World Wide Web), auch über Intra- oder Extranets, bei der die Benutzer vom eigenen Computer (client) aus dialogartig auf Informationsbestände (Webseiten) von Informationsanbietern zugreifen, die auf Servern gespeichert und über eine bestimmte Adressenstruktur (Uniform Resource Locator, URL-Adressen) aufrufbar sind. In der erteilten Fassung lässt Patentanspruch 1 offen, wie die Registrierung eines Benutzers bei Aufruf der Startseite (Schritt a) bewirkt werden soll. Die Beschreibung nennt als einfache Möglichkeit die Registrierung durch eine auf dem Server laufende Registrierungssoftware mittels "Cookies" (vgl. Beschreibung Abs. 24 f.). Über das Cookie kann die auf dem Server laufende Registrierungssoftware den Rechner und somit indirekt den Benutzer beim Aufruf der Homepage des Informationsanbieters registrieren; anschließend werden alle von dem Benutzer bzw. von seinem Rechner aus aufgerufenen Internetseiten des Informationsanbieters oder deren Adressen registriert. Auf diese Weise kann mittels der Registrierungssoftware die Abfolge der von dem Benutzer aufgerufenen Internetseiten des Informationsanbieters ermittelt und in einer Darstellung grafisch veranschaulicht werden (Beschreibung Abs. 26). In der Fassung gemäß dem jetzigen Hauptantrag findet die Registrierung stets auf dem Server statt, ist dabei aber nicht auf die Cookie-Technik beschränkt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Wie die anzeigbare Darstellung der erzeugten Abfolge der besuchten Internetseiten auszugestalten ist, lässt Patentanspruch 1 offen. Gemäß einer bevorzugten Ausführungsform soll die Darstellung wenigstens im Wesentlichen auf Inhalte der Startseite aufsetzen und die Abfolge der aufgerufenen Informationsseiten grafisch, beispielsweise durch Pfeile oder Zahlen - gegebenenfalls auch nur temporär - gekennzeichnet werden (Beschreibung Abs. 11 ff.). Auch eine Darstellung auf mehreren Ebenen unter Benutzung von mehreren Fenstern ist möglich (vgl. Figuren 3 und 4 des Streitpatents).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat angenommen, das Verfahren nach Patentanspruch 1 liege nicht auf technischem Gebiet und sei daher dem Patentschutz nicht zugänglich. Es enthalte keine Anweisungen, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienten. Soweit ein Benutzer gemäß dem Verfahren bei Aufruf der Startseite eines Informationsanbieters registriert werde und die von ihm ab der Startseite aufgerufenen Seiten auf irgendeine Weise dargestellt würden, handele es sich um Anweisungen allgemeiner Art, aber nicht um solche zur gezielten Verwendung bestimmter Vorrichtungen oder Verfahrensabläufe aus technischen Erwägungen heraus und zur Lösung eines konkreten technischen Problems. Der einzige erkennbare Ansatz im Hinblick auf eine konkrete technische Problemstellung liege darin, dass der Anspruch stillschweigend davon ausgehe, dass zur Implementierung ein Datenverarbeitungssystem verwendet werde. Dadurch allein werde das Verfahren aber nicht dem Patentschutz zugänglich. Soweit die Beklagte in der Registrierung des Benutzers und der von ihm aufgerufenen Seiten technische Maßnahmen sehe, mit denen die Bedienbarkeit der Datenverarbeitungsanlage verbessert werde, weil der Benutzer einen besseren Überblick über sein Internetaufrufverhalten gewinne, gehe dies schon deshalb fehl, weil das anspruchsgemäße Verfahren objektiv nicht mehr als die Erzeugung irgendeiner an den Benutzer gerichteten Darstellung leiste, aus der sich die Abfolge seiner Aufrufe erkennen lasse. Die verbesserte Bedienbarkeit trete erst in Interaktion mit dem Benutzer ein und hänge wesentlich von der konkreten Ausgestaltung und Übersichtlichkeit der erzeugten Darstellung ab, die aber nicht Gegenstand des Anspruchs sei. Auch die Erzeugung einer bestimmten, leicht auffassbaren grafischen Darstellung lasse keine technische Problemstellung erkennen, weil eine solche Darstellung sich nur an der Auffassungsgabe des menschlichen Benutzers orientiere, die Überwindung einer konkreten technischen Problemstellung dabei aber ebenso wenig eine Rolle spiele, wie bei den irgendwie erfolgenden Registrierungsvorgängen, in denen lediglich der bestimmungsgemäße Gebrauch einer Datenverarbeitungsanlage zu erkennen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>III. Die dagegen gerichteten Angriffe der Berufung haben keinen Erfolg, weil das Patentgericht im Ergebnis richtig entschieden hat. Der Gegenstand von Patentanspruch 1, den die Beklagte zulässigerweise beschränkt verteidigt, weil schon die erteilte Fassung die Durchführung der vorgesehenen Verfahrensschritte sowohl auf dem Client-Rechner als auch auf dem Server umschließt, ist nicht patentfähig (§ 21 Abs. 1 Nr. 1, § 22 Abs. 1 PatG); er erfüllt zwar das Technizitätserfordernis, unterfällt aber dem Patentierungsausschluss des § 1 Abs. 3 Nr. 3, Abs. 4 PatG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Rechtsprechung des Bundesgerichtshofs ist bei Erfindungen mit Bezug zu Geräten und Verfahren (Programmen) der elektronischen Datenverarbeitung zunächst zu klären, ob der Gegenstand der Erfindung auf technischem Gebiet liegt (§ 1 Abs. 1 PatG), wofür ausreicht, dass ein Teilaspekt der geschützten Lehre ein technisches Problem bewältigt (BGH, Urteil vom 26. Oktober 2010 - X ZR 47/07, GRUR 2011, 125 Rn. 31 - Wiedergabe topografischer Informationen). Ist das zu bejahen, ist auf der Grundlage der Regelung in § 1 Abs. 3 Nr. 3 PatG weiter zu prüfen, ob er Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen (vgl. BGH, Beschluss vom 20. Januar 2009 - X ZB 22/07, GRUR 2009, 479 Rn. 8, 11 - Steuerungseinrichtung für Untersuchungsmodalitäten; Beschluss vom 22. April 2010 - Xa ZB 20/08, BGHZ 185, 214 = GRUR 2010, 613 Rn. 11 ff., 22 - dynamische Dokumentengenerierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>a) Die erforderliche Technizität ist im Streitfall zu bejahen, weil das unter Schutz gestellte Verfahren der datenverarbeitungsmäßigen Abarbeitung von Verfahrensschritten in netzwerkmäßig verbundenen technischen Geräte dient, wobei die von einem Benutzer bei einem Internetbesuch aufgerufenen Webseiten registriert werden und eine anzeigbare Darstellung dieser Seiten erzeugt wird. Dabei handelt es sich um typische Schritte der Verarbeitung, Speicherung und Übermittlung von Daten mittels technischer Geräte (vgl. auch BGH, GRUR 2009, 479 Rn. 8 - Steuerungseinrichtung für Untersuchungsmodalitäten). Soweit diese (Server, Clients) nicht im Patentanspruch 1 genannt sind, ist dies unschädlich, weil für den Fachmann, als den das Patentgericht zutreffend einen Informatiker ansieht, der über praktische Erfahrung in der Programmierung von Browser-Programmen und Benutzerführungen verfügt, offenkundig ist, dass das Verfahren nach Patentanspruch 1 den Einsatz von Computern in Netzwerken bedingt. Es genügt auch bei einem Verfahrensanspruch für die Erfüllung des Technizitätserfordernisses, wenn die Erfindung eine bestimmte Nutzung der Komponenten einer Datenverarbeitungsanlage lehrt und damit eine Anweisung zum technischen Handeln gibt (BGHZ 185, 214 Rn. 20 mwN - dynamische Dokumentengenerierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>b) Auch ein auf dem Gebiet der Technik eingesetztes Verfahren ist nach der ständigen Rechtsprechung des Bundesgerichtshofs nicht schon deswegen dem Patentschutz zugänglich, weil es zur Herbeiführung des angestrebten Erfolgs auch den Einsatz eines Programms zur Steuerung einer Datenverarbeitungsanlage vorsieht (vgl. BGH, Beschluss vom 19. Oktober 2004 - X ZB 33/03, GRUR 2005, 141 - Anbieten interaktiver Hilfe; vom 24. Mai 2004 - X ZB 20/03, BGHZ 159, 197 = GRUR 2004, 667 - elektronischer Zahlungsverkehr). Da das Gesetz Programme für Datenverarbeitungsanlagen als solche vom Patentschutz ausschließt, muss die beanspruchte Lehre vielmehr über die für die Patentfähigkeit unabdingbare Technizität hinaus Anweisungen enthalten, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen (st. Rspr., vgl. BGH, Beschluss vom 20. Januar 2009 - X ZB 22/07, GRUR 2009, 479 Rn. 11 - Steuerungseinrichtung für Untersuchungsmodalitäten; BGHZ 185, 214 Rn. 22 - dynamische Dokumentengenerierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Dieses Erfordernis steht nicht in Widerspruch zu Art. 27 Abs. 1 des Übereinkommens über handelsbezogene Aspekte der Rechte des geistigen Eigentums (TRIPS). Dieses Abkommen garantiert Programmen für Datenverarbeitungsanlagen keinen uneingeschränkten Patentschutz. Einschränkungen des Erfindungsbegriffs wie durch den in § 1 Abs. 3 Nr. 3, Abs. 4 PatG formulierten Patentierungsausschluss waren lange vor dem Abschluss des Abkommens in den Rechtsordnungen von Vertragsstaaten bzw. in von diesen geschlossenen Übereinkommen (Art. 52 Abs. 2, 3 EPÜ) verankert und sind durch den Abschluss des TRIPS-Abkommens nicht hinfällig geworden (vgl. hierzu die Denkschrift BT-Drucks. 12/7655 (neu), S. 345 und die Auskunft der deutschen Delegation WTO-Dokument IP/Q3/DEU/1 vom 28. Oktober 1997; Neef in Busche/Stoll, TRIPS, Art. 27 Rn. 33).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>c) Der Gegenstand von Patentanspruch 1 betrifft nicht die Lösung eines konkreten technischen Problems mit technischen Mitteln, wie das Patentgericht in der Sache zutreffend erkannt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>aa) Ob ein konkretes technisches Problem durch eine Erfindung mit technischen Mitteln gelöst wird, ist objektiv danach zu bestimmen, was die Erfindung tatsächlich leistet. Dies ist durch Auslegung des Patentanspruchs zu entwickeln. Die in der Patentschrift angegebene Aufgabe fungiert lediglich als Hilfsmittel bei der Ermittlung des objektiven technischen Problems (vgl. BGH, Urteil vom 4. Februar 2010 - Xa ZR 36/08, GRUR 2010, 602 Rn. 27 - Gelenkanordnung; BGH, GRUR 2005, 141 Rn. 28 - Anbieten interaktiver Hilfe; st. Rspr.). Für die Herausarbeitung des objektiven technischen Problems, für das die Erfindung eine Lösung anbietet, ist entgegen der Ansicht der Beklagten die Hinzuziehung eines Sachverständigen nicht angezeigt. Aufgabe des gerichtlich gegebenenfalls zurate zu ziehenden Sachverständigen ist, wie der Bundesgerichtshof vielfach ausgesprochen hat, dem Gericht erforderlichenfalls die für das Verständnis der unter Schutz gestellten Lehre benötigte Kenntnis der technischen Zusammenhänge zu erläutern und den erforderlichen Einblick in die Kenntnisse, Fertigkeiten und Erfahrungen der jeweils typischen, im Durchschnitt der beteiligten Kreise angesiedelten Vertreter der einschlägigen Fachwelt einschließlich ihrer methodischen Herangehensweise zu vermitteln (vgl. BGH, Urteil vom 22. Dezember 2009 - X ZR 56/08 BGHZ 184, 49 = GRUR 2010, 314 Rn. 21 mwN - Kettenradanordnung II). Die Beklagte zeigt nicht auf und es ist auch nicht ersichtlich, unter welchem dieser Gesichtspunkte die Beauftragung eines Sachverständigen im Streitfall erforderlich wäre. Die Beklagte mag sich von der Einschaltung eines Gutachters Unterstützung für ihre Auffassung versprechen, dass das, worin sie die Lösung eines konkreten technischen Problems mit technischen Mitteln gesehen wissen möchte, der patentrechtlich zutreffenden Sichtweise entspricht und die Gewährung von Patentschutz rechtfertigt. Diese Fragen erfordern indes auf der Grundlage der ständigen Rechtsprechung des Senats keine Hinzuziehung eines Sachverständigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>bb) Ein technisches Mittel zur Lösung eines technischen Problems liegt vor, wenn Gerätekomponenten modifiziert oder grundsätzlich abweichend adressiert werden. Darauf zielt das Verfahren gemäß Patentanspruch 1 ersichtlich nicht. Weder die Verlagerung der Registrierung auf den Server noch die in der Beschreibung des Streitpatents und nach dem zweiten Hilfsantrag auch in Patentanspruch 1 vorgesehene Verwendung von Cookies oder eine sonst vorgesehene Maßnahme zielen auf die Modifikation oder grundsätzlich abweichende Adressierung von Gerätekomponenten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>cc) Von einem zur Lösung eines technischen Problems eingesetzten technischen Mittel kann ferner dann gesprochen werden, wenn der Ablauf eines zur Problemlösung eingesetzten Datenverarbeitungsprogramms durch technische Gegebenheiten außerhalb der Datenverarbeitungsanlage bestimmt wird oder wenn die Lösung gerade darin besteht, ein Datenverarbeitungsprogramm so auszugestalten, dass es auf die technischen Gegebenheiten der Datenverarbeitungsanlage Rücksicht nimmt (BGHZ 185, 214 Rn. 27 - dynamische Dokumentengenerierung). Auch diese Voraussetzungen sind im Streitfall nicht erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>(1) Die in Schritt a) des Verfahrens nach Patentanspruch 1 enthaltenen Anweisungen erschöpfen sich in der Erfassung und Speicherung von Informationen über einen Benutzer bei Aufruf einer Startseite. Aus dem Zusammenhang ergibt sich zwar, dass dies mit Mitteln der elektronischen Datenverarbeitung erfolgt. Die programmiertechnische Umsetzung dieser Anweisung ist aber, abgesehen von deren Lokalisierung auf dem Server, nicht Gegenstand des Patentanspruchs, sondern bleibt dem Fachmann überlassen. Die bereits erwähnte Verwendung von Cookies stellt, wie auch in der Beschreibung des Streitpatents ausgeführt wird, eine am Prioritätstag bekannte und gängige Methode der Datenverarbeitung dar (Beschreibung Abs. 25). Die Art und Weise, auf die sich die Lehre des Streitpatents der Cookie-Technik bedient, geht über die bloße Verarbeitung von Daten nicht hinaus. Das gilt auch, soweit die Lehre, wie die Beklagte in der mündlichen Verhandlung hervorgehoben hat, in Bezug auf die aufgesuchten und wieder verlassenen Webseiten eine Art Rückkommunikation des Benutzers über dessen Client-Rechner mit dem Server ermöglicht, bei der HTML-Strukturen generiert werden. Auch insoweit beschränkt sich der Gegenstand des Streitpatents darauf, im Stand der Technik bekannte technische Mittel einzusetzen, um Daten in bestimmter Form zusammenzustellen oder darzustellen. In der Beschreibung des Streitpatents ist erläutert, dass Cookies als Informationspakete beim Aufrufen einer auf dem Server gespeicherten Webseite an einen auf einem Client-Rechner laufenden Browser zum Speichern dort mitgeliefert werden. Mit jedem Zugreifen von diesem Client-Rechner auf die Webseite kann der Browser gespeicherte Cookies an den Server ausliefern (Beschreibung Abs. 25). Die patentierte Lehre erschließt dem Fachmann - auch mit der Auslagerung der Registrierung auf den Server - also nichts, was über die ihm bekannten Möglichkeiten der datenverarbeitungsmäßigen Gebrauchmachung von der Cookie-Technik hinausginge. Dass dabei HTML-Strukturen generiert werden, ist eine in der Kommunikation im Internet am Prioritätstag ebenfalls geläufige Maßnahme, wie sich gleichfalls aus der Beschreibung ergibt (Abs. 21).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Die Lehre des Streitpatents geht darüber nur insoweit hinaus, als sie vorsieht, diese Strukturen zur Darstellung bestimmter Inhalte zu nutzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Soweit die Registrierung nach dem jetzigen Hauptantrag nur noch auf dem Server erfolgen soll, kann dahingestellt bleiben, ob dies den Vorzug hat, den Einsatz schlichterer Client-Hardware zu ermöglichen, oder ob mit dieser vorgeschlagenen Verlagerung nur eine zu vernachlässigende Entlastung der Client-Hardware einhergeht. Der Gehalt dieses Schritts erschöpft sich jedenfalls darin, bestimmte Operationen der Datenverarbeitung vom Client-Rechner auf den Server zu verlagern. Das ist nicht mehr als eine äußerlich-organisatorische Umverlagerung der Datenverarbeitung zwischen mehreren Netzwerkkomponenten. Selbst wenn diese mittelbar ermöglichen sollte, einfacher ausgestattete Computer einzusetzen, wäre darin nur eine Maßnahme der Datenverarbeitung zu sehen und nicht die Lösung eines konkreten technischen Problems.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Für die Anweisung in Verfahrensschritt b) gilt das vorstehend Ausgeführte entsprechend. Sie beschränkt sich darauf, die weiteren vom Nutzer von der Startseite aus unmittelbar und mittelbar aufgerufenen Informationsseiten des jeweiligen Informationsanbieters elektronisch zu erfassen (zu registrieren).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Auch die Anweisungen im Verfahrensschritt c) gehen nicht über die Erfassung, Verarbeitung, Speicherung und Übermittlung von Daten hinaus. Die gemäß den Schritten a) und b) des Verfahrens gesammelten Daten sind demnach so aufzubereiten, dass eine anzeigbare Darstellung der Abfolge der vom Benutzer aufgerufenen Informationsseiten des Informationsanbieters erzeugt werden kann. Wie diese Aufbereitung vorgenommen wird, bleibt wiederum dem Fachmann überlassen. Dieser erhält aus der Beschreibung und den Unteransprüchen lediglich verschiedene Anregungen für die Art und Weise der Visualisierung an der Benutzeroberfläche (vgl. Beschreibung Abs. 27).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(2) Das Verfahren nach Patentanspruch 1 sieht nicht vor, dass die Datenverarbeitung auf technische Gegebenheiten Rücksicht nimmt, die der Datenverarbeitungsanlage selbst anhaften oder die außerhalb der Datenverarbeitungsanlage vorhanden sind. Es erschöpft sich vielmehr darin, Informationen über das Benutzerverhalten zu erfassen, zu speichern und in bestimmter Weise aufzubereiten. Hierzu sieht es nicht vor, etwa technische Umweltparameter - zu denen beispielsweise auch körperliche Eigenschaften des Benutzers zählen könnten - durch geeignete Messeinrichtungen zu erfassen oder die Daten in Abhängigkeit von technischen Gegebenheiten der Datenverarbeitungsanlage zu verarbeiten. Die Informationen werden vielmehr allein aus den Eingaben abgeleitet, die der Benutzer an seinem Client-Rechner tätigt. Auch die hilfsweise vorgesehene Übermittlung einer Darstellung an eine Anzeigevorrichtung des Benutzers wird nicht durch technische Parameter, sondern durch eine Anforderung des Benutzers ausgelöst. Damit geht das Verfahren nicht über den Bereich der Datenverarbeitung als solche hinaus.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>d) Der Hinweis der Beklagten, in Anbetracht der Existenz von Milliarden Internetseiten stelle sich das Auf- und Wiederfinden einer bestimmten Informationsseite weder als untechnisch noch als trivial dar, und, es gehe vielmehr darum, eine bestimmte Untermenge an Informationen innerhalb eines großen Netzes zur Verfügung zu stellen, geht an dem, was das Verfahren objektiv leistet, vorbei. Dabei kann dahingestellt bleiben, ob das bloße Auf- oder Wiederfinden einer bestimmten Informationsseite im Internet als ein konkretes technisches Problem angesehen werden kann. Die Leistung des Verfahrens besteht lediglich in der Erfassung, Speicherung und Aufbereitung der diesbezüglichen Rechneroperarationen des Benutzers mit üblichen datentechnischen Verfahrensschritten, was die Patentfähigkeit im Hinblick auf § 1 Abs. 3 Nr. 3 PatG jedenfalls nicht begründen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Ob die Anwendung des Verfahrens dazu beitragen kann, dass der Nutzer weniger Onlinezeit benötigt, um eine verlassene Webseite wieder zu finden, und damit das Netz geringer belastet, wie die Beklagte geltend macht, kann dahinstehen, weil solche sich vielleicht einstellenden Folgen nicht Gegenstand der patentgemäßen Anweisungen sind, sondern sich unter Umständen als deren mittelbare Folge ergeben können. Dass das Verfahren den Dialog zwischen Benutzer und Server vorteilhaft gestalten kann, liegt schon nicht auf technischem Gebiet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>2. Entsprechendes gilt für die Unteransprüche. Die dortigen Anweisungen betreffen allein Modalitäten in der Darstellung der gesammelten Informationen, die über die Datenverwaltung und -wiedergabe nicht hinausgehen. Das gilt auch für die zusätzlichen Maßnahmen in Patentanspruch 7, nach dem die Darstellung wenigstens zwei anzeigbare Ebenen umfasst, von denen eine auf eine Verzweigungsseite aufsetzt. Soweit Nutzern eine eingängigere Verwertung der zusammengestellten Daten ermöglicht wird, ist dies ein nicht auf technischem Gebiet liegender Erfolg, der bei der Beurteilung der Patentfähigkeit grundsätzlich außer Betracht zu bleiben hat (BGHZ 185, 204 Rn. 23 - dynamische Dokumentengenerierung).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>IV. Die Kostenentscheidung beruht auf § 97 Abs. 1 ZPO in Verbindung mit § 121 Abs. 2 Satz 2 PatG.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Keukenschrijver                                        Gröning                                              Bacher</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                                   Hoffmann                                           Schuster</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE310822011&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

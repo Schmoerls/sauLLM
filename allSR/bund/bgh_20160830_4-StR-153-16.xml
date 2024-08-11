@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>JURE160016350</doknr>
+   <ecli>ECLI:DE:BGH:2016:300816B4STR153.16.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>4. Strafsenat</spruchkoerper>
+   <entsch-datum>20160830</entsch-datum>
+   <aktenzeichen>4 StR 153/16</aktenzeichen>
+   <doktyp>Beschluss</doktyp>
+   <norm>§ 263a Abs 1 Alt 1 StGB</norm>
+   <vorinstanz>vorgehend LG Essen, 3. November 2015, Az: 21 KLs 17/15<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Computerbetrug: Manipulation von Glücksspielautomaten</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz/>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Die Revision des Angeklagten gegen das Urteil des Landgerichts Essen vom 3. November 2015 wird verworfen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Angeklagte hat die Kosten seines Rechtsmittels und die der Nebenklägerin hierdurch erwachsenen notwendigen Auslagen zu tragen.</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand/>
+   <entscheidungsgruende/>
+   <gruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat den Angeklagten P.    wegen dreier Fälle des gewerbs- und bandenmäßigen Computerbetruges in Tateinheit mit Verrat von Geschäfts- und Betriebsgeheimnissen – begangen jeweils in zahlreichen tateinheitlich zusammentreffenden, teils auch nur versuchten Fällen – zu einer Gesamtfreiheitsstrafe von drei Jahren verurteilt und eine Verfallsanordnung getroffen. Hiergegen richtet sich seine auf eine nicht ausgeführte Verfahrens- und die Sachrüge gestützte Revision. Das Rechtsmittel hat keinen Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat – unter anderem – folgende Feststellungen getroffen:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Der gesondert Verfolgte A.   T.   war seit mehreren Jahren für Hersteller und Betreiber von Glückspielautomaten tätig und beriet diese im Bereich des Manipulationsschutzes. Hierfür setzte er als „Computerspezialisten“ den Angeklagten P.   , seinen Schwiegersohn, ein. Sein Bruder S.      T.   betrieb seit längerem eigene Spielhallen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Im Verlauf des Jahres 2013 entschlossen sich A.   T.   und Dr. C.    , der Geschäftsführer und dreiprozentige Anteilseigner der Fa. Ca.       GmbH, in deren Spielcasinos in Deutschland aufgestellte Geldgewinnspielgeräte der Fa. L.           GmbH durch Veränderung an der Software zu manipulieren, um sich auf diese Weise zu bereichern. Hierzu entwickelte der in den Tatplan eingeweihte Angeklagte P. zum einen sog. „Aufbuchkarten“ bzw. „Aufbuchdongel“, mittels derer die Gerätesoftware so beeinflusst wurde, dass dem jeweiligen „Spieler“ ohne zuvor den üblichen Spielbetrieb ausgelöst zu haben, Punkte gutgeschrieben wurden, die er sich anschließend ausbezahlen lassen konnte. Zum anderen brachte er in die Software eine sog. „Hintertür“ ein, die durch die Eingabe von „Tagescodes“ aktiviert wurde. Die „Hintertür“ veränderte das bereits vorhandene „Risikospiel“ derart, dass auf die vom Spieler auszuwählende und bei üblichem Spielbetrieb nicht vorhersehbare rote oder schwarze Kartenfarbe mehrmals erneut dieselbe Kartenfarbe erschien und bei deren Betätigung dem „Spieler“ Punkte unter Ausschaltung der normalen Gewinn- und Verlustmöglichkeiten gutgeschrieben wurden, die er sich anschließend ausbezahlen lassen konnte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Bei den eingesetzten „Aufbuchkarten“ wurde die in den Automaten vorhandene Original-CF-Karte mit dem Spielprogramm für den Zeitraum des manipulierten „Spiels“ entnommen und durch eine Karte mit der veränderten Software ersetzt; sie wurde nachts außerhalb der Öffnungszeiten der Spielcasinos eingesetzt. Die „Hintertür“ wurde zunächst auf die in den Geldgewinnspielgeräten befindlichen CF-Karten mit der Originalsoftware eingefügt. Später wurde die Software mit der „Hintertür“ und/oder der „Aufbuchfunktion“ auf einen einem USB-Stick ähnlichen „Dongel“ aufgespielt, der in das jeweilige Gerät eingesetzt wurde.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Entsprechend ihrem Tatplan – der die hälftige Aufteilung der vereinnahmten Gelder zwischen A.   T.   und Dr. C.     vorsah – wurden mit Hilfe eingesetzter Dritter durch den 200-maligen Einsatz der „Aufbuchfunktion“ zwischen Juli 2014 und Januar 2015 insgesamt 485.965 € aus den Automaten „herausgeholt“. Über die „Hintertür“ wurden zwischen März 2014 und Januar 2015 mit Hilfe der von A. T. eingesetzten „Läufer“ in 43 Fällen insgesamt 214.030 € „erspielt“; die von S.      T.   geführten „Läufer“ – in einem Fall er selbst – vereinnahmten in 1771 Fällen insgesamt 1.219.920 €. Ferner „erspielte“ der Angeklagte P. zwischen Mai 2014 und Januar 2015 mit    D.    – ohne Beteiligung der Brüder T.   – mittels der „Hintertür“ und in 13 Fällen eingesetzter „Läufer“ insgesamt 138.600 €.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Das Rechtsmittel des Angeklagten P.    ist unbegründet (§ 349 Abs. 2 StPO). Ergänzend zu den Ausführungen des Generalbundesanwalts in der Antragsschrift vom 23. Mai 2016 bemerkt der Senat:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Die Schuldsprüche wegen gewerbs- und bandenmäßigen Computerbetruges weisen keinen den Angeklagten beschwerenden Rechtsfehler auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Der Tatbestand des Computerbetruges (§ 263a StGB) orientiert sich konzeptionell am Tatbestand des Betruges, wobei an die Stelle der Täuschung die Tathandlungen des § 263a Abs. 1 StGB treten und mit der Irrtumserregung und dem ungeschriebenen Tatbestandsmerkmal der Vermögensverfügung die Beeinflussung des Ergebnisses eines – vermögenserheblichen – Datenverarbeitungsvorgangs korrespondiert. Aufgrund dieser Struktur- und Wertgleichheit der Tatbestände des Betruges und des Computerbetruges erfasst § 263a Abs. 1 StGB in Einschränkung seines Wortlauts nur solche Handlungen, die, würden nicht lediglich maschinell gesteuerte Geschehensabläufe ausgelöst, als Betrug durch täuschungsbedingte Veranlassung der Vermögensverfügung eines – vom Täter zu unterscheidenden – anderen zu bewerten wären (zum Ganzen, BGH, Beschluss vom 23. Juli 2013 – 3 StR 96/13, BGHR StGB § 263a Anwendungsbereich 4, juris Rn. 12 mwN; vgl. auch BGH, Beschluss vom 19. November 2013 – 4 StR 292/13, BGHSt 59, 68, 73, juris Rn. 17; kritisch hierzu etwa Achenbach in Festschrift Gössel, 2002, S. 481).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Dies zugrunde gelegt, begegnen die Schuldsprüche wegen gewerbs- und bandenmäßigen Computerbetruges keinen Bedenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>aa) Durch die Manipulationen wurden sowohl in den Fällen der Verwendung der „Aufbuchkarten“ und der „Aufbuchdongel“ als auch denen der Benutzung der „Hintertür“ die Ergebnisse der Datenverarbeitungsvorgänge der Geldspielautomaten beeinflusst.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>(1) Das Ergebnis des Datenverarbeitungsvorgangs ist beeinflusst, wenn es von dem Ergebnis abweicht, das bei einem ordnungsgemäßen Programmablauf bzw. ohne die Tathandlung erzielt worden wäre (vgl. BGH, Beschluss vom 12. November 2015 – 2 StR 197/15, NStZ 2016, 338, 339, juris Rn. 18; Tiedemann in: Laufhütte u.a., StGB, Leipziger Kommentar, 12. Aufl., § 263a Rn. 26, 68; SSW-StGB/Hilgendorf, 2. Aufl., § 263a Rn. 28; Lenckner/Winkelbauer, CR 1986, 654, 659; Popp, JuS 2011, 385, 391; Kraatz, Jura 2010, 36, 38 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>(2) Dies steht aufgrund der vom Landgericht getroffenen Feststellungen außer Frage. Danach wurde mittels der „Aufbuchkarten“ und „Aufbuchdongel“ der ordnungsgemäße Ablauf des Programms verändert (vgl. dazu BT-Drucks. 10/318 S. 19 f.), da die das ursprüngliche Programm manipulierenden Daten in den Datenverarbeitungsvorgang des jeweiligen Geldspielautomaten Eingang gefunden und ihn mitbestimmt haben. Denn der ordnungsgemäße Programmablauf sah den Erwerb von ihn Geld einlösbaren Punkten ohne ein vorheriges Spiel mit einem entsprechendem Einsatz nicht vor. Dasselbe gilt in den Fällen der Verwendung der „Hintertür“, die einen „vollautomatisierten Vorgang“ (vgl. BGH, Beschluss vom 22. Januar 2013 – 1 StR 416/12, BGHSt 58, 119, 127, juris Rn. 31) durch die aufgrund der eingebrachten Daten erzwungene Wiederholung derselben Kartenfarbe verändert hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>bb) Diese Beeinflussung erfolgte „durch unrichtige Gestaltung des Programms“ (§ 263a Abs. 1 Alt. 1 StGB).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>(1) Dazu rechnen die sog. Programmmanipulationen (BT-Drucks. 10/318 S. 18), durch die auf die Arbeitsanweisungen für die Datenverarbeitung – also auf das Programm – eingewirkt wird (BT-Drucks. 10/318 S. 20). Eine solche Manipulation durch „Gestaltung des Programms“ umfasst sowohl das Neuschreiben ganzer Programme oder Programmteile als auch das Hinzufügen, das Verändern und das Löschen einzelner Programmablaufschritte, die Herstellung von Verzweigungen, welche Systemkontrollen umgehen, die Änderung von Bedingungen der Plausibilitätsprüfung und den Einbau sonstiger falscher Funktionen (vgl. Tiedemann aaO § 263a Rn. 28; SSW-StGB/Hilgendorf aaO § 263a Rn. 5; ähnlich Kraatz, Jura 2010, 36, 39 mwN; zur Abgrenzung zur letzten Tatbegehungsmodalität des § 263a Abs. 1 StGB: BT-Drucks. 10/5058 S. 30 (Rechtsausschuss); zur Gesetzesgeschichte auch Achenbach in Festschrift Gössel, 2002, S. 481, 485). Zur „Gestaltung des Programms“ kann sich der Täter mithin auch selbsttätig wirkender Programme bedienen oder Programmmanipulationen vornehmen, die nicht die dem Programm immanenten Programmablaufschritte ändern, sondern die vorhandenen durch nicht vorgesehene überlagern (Tiedemann aaO § 263a Rn. 28 mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>(2) Auch diese Voraussetzungen sind vorliegend in allen Begehungsweisen erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Denn sowohl die „Aufbuchkarten“ und „Aufbuchdongel“ als auch die „Hintertür“ griffen in das Programm der Geldspielautomaten ein, indem sie die „Arbeitsanweisungen“, wie die einzelnen Schritte der Datenverarbeitung ablaufen sollen (Kraatz, Jura 2010, 36, 39 mwN), abänderten („Hintertür“) oder einfügten („Aufbuchungen“; vgl. auch BGH, Beschluss vom 10. November 1994 – 1 StR 157/94, BGHSt 40, 331, 334, juris Rn. 17, zum Leerspielen eines Geldspielautomaten auch SSW-StGB/Hilgendorf aaO § 263a Rn. 22, 25; Tiedemann aaO § 263a Rn. 61 mwN, und KG, Urteil vom 8. Dezember 2014 – (3) 161 Ss 216/13 (160/13), NStZ-RR 2015, 111 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>(3) Die Gestaltung des Programms durch die Manipulationen war jeweils auch „unrichtig“.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Dabei bedarf keiner Entscheidung, ob dies objektiv (so für „unrichtige“ Daten etwa BGH, Beschluss vom 22. Januar 2013 – 1 StR 416/12 aaO juris Rn. 26; vgl. auch SSW-StGB/Hilgendorf aaO § 263a Rn. 5) oder subjektiv, also nach dem Willen des Verfügungsberechtigten bzw. des Systembetreibers, zu bestimmen ist (für Letzteres: BT-Drucks. 10/318 S. 20; Lenckner/Winkelbauer, CR 1986, 654, 656; vgl. zum Streitstand etwa Tiedemann aaO § 263a Rn. 29 ff. mwN; zur betrugsspezifischen Auslegung des Tatbestandsmerkmals „unbefugt“: BGH, Beschlüsse vom 22. Januar 2013 – 1 StR 416/12 aaO juris Rn. 27; vom 20. Dezember 2012 – 4 StR 580/11, BGHR StGB § 263a Anwendungsbereich 3, juris Rn. 59; vom 16. Juli 2015 – 2 StR 15/15, JR 2016, 342, 343, juris Rn. 9, 11 und 16/15, NStZ 2016, 149, 150 f., juris Rn. 10, 12).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Denn nach jeder dieser Begriffsbestimmungen war hier das Programm des jeweiligen Geldspielautomaten durch die Manipulation „unrichtig“ geworden. Dabei ist ohne Bedeutung, dass mit Dr. C.     der Geschäftsführer und zu 3% Anteilseigner der Fa. Ca.         GmbH mit den Veränderungen ein- verstanden war. Nicht anders als hinsichtlich der bei ihm möglicherweise (auch) gegebenen Untreue vermag sein ohne Kenntnis der weiteren Gesellschafter der Fa. Ca.        GmbH erklärtes Einverständnis den Tatbestand des § 263a StGB nicht auszuschließen. Denn bei einer GmbH, also einer juristischen Person, ist diese selbst der Vermögensträger (und ggf. auch der Systembetreiber). Bei ihr ist oberstes Willensorgan für die Regelung der inneren Angelegenheiten die Gesamtheit ihrer Gesellschafter (BGH, Urteil vom 26. September 2012 – 2 StR 553/11, wistra 2013, 63, 64, juris Rn. 15; Beschluss vom 15. Mai 2012 – 3 StR 118/11, NStZ 2012, 630, 632 f., juris Rn. 30), die in die Manipulationen indes – wie das Landgericht ausdrücklich festgestellt hat – nicht eingeweiht waren (vgl. auch BGH, Beschluss vom 10. November 1994 – 1 StR 157/94, BGHSt 40, 331, 335, juris Rn. 22).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>cc) Die Tathandlungen haben auch zu einem Vermögensschaden im Sinne des § 263a Abs. 1 StGB geführt und waren von der dort ferner geforderten Bereicherungsabsicht des Angeklagten getragen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>(1) Der Vermögensschaden muss grundsätzlich zwar unmittelbar durch das Ergebnis des Datenverarbeitungsvorgangs herbeigeführt worden sein (BT-Drucks. 10/318 S. 19; SSW-StGB/Hilgendorf aaO § 263a Rn. 31; Tiedemann aaO § 263a Rn. 65 mwN), also ohne weitere Handlung des Täters, Opfers oder eines Dritten durch den Datenverarbeitungsvorgang selbst eintreten (BGH, Beschlüsse vom 12. November 2015 – 2 StR 197/15 aaO juris Rn. 18; vom 28. Mai 2013 – 3 StR 80/13, BGHR StGB § 263a Vermögensschaden 1, juris Rn. 8, jeweils mwN). Dabei kann allerdings in Fällen, in denen noch weitere Verfügungen vorgenommen werden, das Merkmal der Unmittelbarkeit der Vermögensminderung gleichwohl zu bejahen sein, wenn das Ergebnis des von dem Täter manipulierten Datenverarbeitungsvorgangs ohne eigene Entscheidungsbefugnis und ohne inhaltliche Kontrolle von einer Person lediglich umgesetzt wird (BGH, Beschlüsse vom 28. Mai 2013 – 3 StR 80/13 aaO juris Rn. 9; vom 19. November 2013 – 4 StR 292/13, BGHSt 59, 68, 74 f., juris Rn. 20; vgl. auch SSW-StGB/Hilgendorf aaO § 263a Rn. 31).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>So verhält es sich hier. Denn zum einen war bereits mit der Gutschrift der Punkte eine zumindest schadensgleiche Vermögensgefährdung des Spielautomatenbetreibers eingetreten. Zum anderen war deren Einlösung lediglich die im obigen Sinn erfolgte Umsetzung des Ergebnisses des vorangegangenen – manipulierten – Datenverarbeitungsvorgangs.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>(2) Ohne Bedeutung ist ferner, dass die Geldgewinnspielgeräte und deren Software von der Fa. L.               GmbH entwickelt worden wa- ren. Denn unabhängig davon, ob es hierauf ankommt, bestünde zwischen dieser und der geschädigten Fa. Ca.         GmbH ein ausreichendes „Näheverhältnis“ (vgl. zu diesem Erfordernis auch Tiedemann aaO § 263a Rn. 71; SSW-StGB/Hilgendorf aaO § 263a Rn. 32; Lenckner/Winkelmann, CR 1986, 654, 659 f.)</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(3) Schließlich ist ein Vermögensschaden auch in Höhe der „erspielten“ Geldbeträge eingetreten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Insofern verweist der Senat auf seine Entscheidungen zum Sportwettenbetrug (insbes. den sich auch mit § 263a StGB befassenden Beschluss vom 20. Dezember 2012 – 4 StR 580/11 aaO juris Rn. 57 ff., sowie das Urteil vom 3. März 2016 – 4 StR 496/15, NJW 2016, 1336, 1337, juris Rn. 11 mwN). Da auch den Feststellungen des hier angegriffenen Urteils – jedenfalls in seinem Gesamtzusammenhang – zu entnehmen ist, dass die Fa. Ca.         GmbH die Spiele bei Kenntnis der Manipulationen nicht zugelassen hätte (vgl. dazu auch BGH, Beschluss vom 10. November 1994 – 1 StR 157/94, BGHSt 40, 331, 335, juris Rn. 22; OLG Stuttgart, Urteil vom 12. Mai 2016 – 4 Ss 73/16, juris Rn. 10; Tiedemann aaO § 263a Rn. 61), liegt – auch hier – der Vermögensverlust in Höhe der Differenz zwischen Spieleinsatz und Spielgewinn. Da beim Einsatz der „Aufbuchkarten“ und der „Aufbuchdongel“ kein Einsatz getätigt wurde, hat die Strafkammer zu Recht die ausbezahlten Beträge in voller Höhe als Schäden angesetzt. In den Fällen der „Hintertür“ ist zwar nicht erkennbar, dass sie die getätigten Spieleinsätze von den ausbezahlten Beträgen abgezogen hat, jedoch belegen die Feststellungen zweifelsfrei den Eintritt – erheblicher – Vermögensschäden (zur Strafzumessung: unten 3.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(4) Ein – wirksames – Einverständnis des Inhabers des Vermögens liegt aus den oben erörterten Gründen nicht vor (vgl. bb) (3)).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>dd) Das Landgericht ist rechtsfehlerfrei auch von gewerbs- und bandenmäßiger Tatbegehung und dem Vorliegen der subjektiven Voraussetzungen des § 263a StGB ausgegangen. Die Annahme von Mittäterschaft begegnet ebenfalls keinen Bedenken.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>2. Auch die Schuldsprüche wegen Verrats von Betriebs- und Geschäftsgeheimnissen (§ 17 Abs. 2 Nr. 2 UWG) weisen keinen Rechtsfehler auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht ist zutreffend zunächst davon ausgegangen, dass das Steuerungsprogramm der Geldspielautomaten der Fa. L.               GmbH ein Geschäfts- oder Betriebsgeheimnis darstellte (vgl. BGH, Beschluss vom 10. November 1994 – 1 StR 157/94, BGHSt 40, 331, 335, juris Rn. 22; OLG Stuttgart, Urteil vom 12. Mai 2016 – 4 Ss 73/16, juris Rn. 11; ferner OLG Celle, Urteil vom 11. April 1989 – 1 Ss 287/88, NStZ 1989, 367; KG, Urteil vom 8. Dezember 2014 – (3) 161 Ss 216/13 (160/13), NStZ-RR 2015, 111 f.; Ernst in: Ullmann, jurisPK-UWG, 4. Aufl., 2016, § 17 UWG Rn. 20). Dabei wird der Geheimnischarakter nicht dadurch aufgehoben, dass die Geräte vom Hersteller veräußert wurden (vgl. BayObLG, Urteil vom 28. August 1990 – RReg 4 St 250/89, NStZ 1990, 595 ff.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Dieses Geheimnis haben sich der Angeklagte P.    und seine Mittäter verschafft und eigennützig bzw. zur Bereicherung Dritter verwertet (vgl. dazu auch UA S. 71; ferner BT-Drucks. 10/5058 S. 41; auch Ernst in: Ullmann, jurisPK-UWG, 4. Aufl., 2016, § 17 UWG Rn. 33). Hierbei handelten sie unbefugt, nämlich entgegen dem Geheimhaltungsinteresse des Geheimnisträgers (vgl. BT-Drucks. 10/5058 S. 41). Eine Einwilligung der Fa. L.              GmbH lag nicht vor (vgl. Ernst in: Ullmann, jurisPK-UWG, 4. Aufl., 2016, § 17 UWG Rn. 37; Mühlbauer, wistra 2003, 247).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Da trotz des einheitlichen Verschaffungsvorgangs die Regelung des § 17 Abs. 2 Nr. 2 UWG in dieser Alternative auf das unbefugte Verwerten, also die wirtschaftliche Nutzung des Geheimnisses (vgl. Ernst in: Ullmann, jurisPK-UWG, 4. Aufl., 2016, § 17 UWG Rn. 34) abstellt, liegt das deliktische Handeln in der Verwendung des Geheimnisses, nicht in dessen einheitlichem Verschaffen (vgl. BGH, Beschluss vom 27. Februar 2014 – 1 StR 15/14, NStZ 2014, 271 f.; Urteil vom 22. November 2013 – 3 StR 162/13, NJW 2014, 1604, 1606).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>3. Die Strafaussprüche weisen im Ergebnis ebenfalls keinen durchgreifenden Rechtsfehler auf.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Soweit die Strafkammer in den „Hintertür“-Fällen die „erspielten“ Geldbeträge ohne Abzug der jeweiligen Spieleinsätze der Bestimmung der Vermögensschäden zugrunde gelegt hat, schließt der Senat aus, dass hierauf angesichts dieser im Vergleich zu den „Gewinnen“ geringen Beträge die vom Landgericht festgesetzten Einzel- oder Gesamtstrafen beruhen (entsprechend § 354 Abs. 1 StPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Sost-Scheible                           Roggenbuck                        Franke</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>                        Mutzbauer                              Quentin</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </gruende>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-JURE160016350&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

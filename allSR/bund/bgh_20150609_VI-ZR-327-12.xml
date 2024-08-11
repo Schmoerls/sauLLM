@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE300752015</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20150609</entsch-datum>
+   <aktenzeichen>VI ZR 327/12</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>Art 1 EWGRL 374/85, Art 6 Abs 1 EWGRL 374/85, Art 9 S 1 Buchst a EWGRL 374/85, § 1 Abs 1 ProdHaftG, § 3 Abs 1 ProdHaftG</norm>
+   <vorinstanz>vorgehend EuGH, 5. März 2015, Az: C-503/13 und C-504/13, Urteil<br/>vorgehend BGH, 30. Juli 2013, Az: VI ZR  327/12, EuGH-Vorlage<br/>vorgehend OLG Düsseldorf, 20. Juni 2012, Az: I-15 U 25/11, Urteil<br/>vorgehend LG Düsseldorf, 3. Februar 2011, Az: 3 O 182/10, Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Produkthaftung im Bereich der Medizintechnik: Fehlerhaftigkeit eines implantierbaren Cardioverter Defibrillators; Herstellerhaftung für die Kosten einer Austauschoperation</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Bei implantierbaren Cardioverter Defibrillatoren (ICD) können wegen ihrer Funktion, der Situation besonderer Verletzlichkeit der diese Geräte nutzenden Patienten und des außergewöhnlichen Schadenspotentials alle Produkte derselben Produktgruppe oder Produktionsserie als fehlerhaft eingestuft werden, wenn bei Geräten der Gruppe oder Serie eine Fehlfunktion festgestellt wurde, ohne dass der Fehler bei dem im konkreten Fall betroffenen ICD festgestellt zu werden braucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Der Hersteller haftet für den Ersatz des durch eine chirurgische Operation zum Austausch eines fehlerhaften ICD verursachten Schadens, wenn der Austausch erforderlich ist, um den Fehler zu beseitigen und das Sicherheitsniveau wiederherzustellen, das die Patienten zu erwarten berechtigt sind.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Urteil des 15. Zivilsenats des Oberlandesgerichts Düsseldorf vom 20. Juni 2012 im Kostenpunkt und insoweit aufgehoben, als zum Nachteil der Beklagten entschieden worden ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Im Umfang der Aufhebung wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, eine Trägerin der gesetzlichen Krankenversicherung, begehrt aus übergegangenem Recht ihres Mitglieds F. Ersatz der Kosten stationärer und ambulanter Behandlung wegen des operativen Austauschs eines implantierbaren Cardioverter Defibrillators (im Folgenden: ICD). Die Beklagte ist kraft Verschmelzung Rechtsnachfolgerin der G. GmbH &amp; Co. Medizintechnik KG (im Folgenden: G.). Ausweislich eines von der Klägerin vorgelegten Patientenausweises vom 5. April 2005 wurde F. an diesem Tag ein Herzinsuffizienz-Therapie-System mit ICD-Funktion (CRT-D) des Typs "G. CONTAK RENEWAL ® 4 AVT ®" mit der Modellnummer M 170 und der Seriennummer 100084 implantiert. Als Hersteller (Manufacturer) ist in dem Ausweis für Deutschland G. angegeben. Das Formular enthält auf mehreren Seiten den Aufdruck "G." und eine auf G. hinweisende Internetadresse.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Im Juni 2005 versandte die G. GmbH ein Schreiben mit der Überschrift "Dringende Medizinprodukte Sicherheitsinformation und Korrekturmaßnahmen für CONTAK RENEWAL ®", das u.a. Geräte des Typs 4 AVT ® mit der Modellnummer M 170 betraf. In dem Schreiben heißt es, die FDA (Food and Drug Administration - Amerikanische Aufsichtsbehörde) könnte diese Maßnahme als "Recall" einstufen. Das Cardiac Rhythm Management Qualitätssystem von G. habe feststellen müssen, dass bei den genannten Geräten ein Bauelemente-Fehler auftreten könne, der die Therapie-Verfügbarkeit einschränken könne. Die technische Analyse habe ergeben, dass ein Magnetschalter in der geschlossenen Position hängen bleiben könne. Vier Vorfälle aus einer Anzahl von 46.000 Geräten seien bestätigt worden, ein fünfter Vorfall werde vermutet, könne jedoch noch nicht bestätigt werden. In den vier Fällen, in denen das Gerät implantiert gewesen sei, seien die Patienten und/oder Ärzte auf den Zustand aufgrund hörbarer Pieptöne, die von den Geräten ausgegangen seien und ein Schließen des Magnetschalters signalisiert hätten, aufmerksam geworden. In diesen vier Fällen seien die Geräte ausgetauscht worden. Ein Ereignis sei vor der Implantation aufgetreten. Bisher sei es, vom Geräteaustausch abgesehen, zu keiner Beeinträchtigung der Patienten gekommen. Bei normaler Gerätefunktion schließe der Magnetschalter bei Magnetauflage und der Magnetmodus werde aktiviert, der dann temporär die Gerätefunktion steuere. Sei die Funktion "Magnetfunktion aktivieren (Enable Magnet Use)" auf EIN (ON) aktiviert, wie es in der beschriebenen Fehlersituation der Fall gewesen sei, und bleibe der Magnetschalter in der geschlossenen Position hängen, werde die Behandlung von ventrikulären und atrialen Arrhythmien unterbunden; die Bradykardie-Stimulation bleibe davon unberührt. Unter diesen Bedingungen sorgten die Sicherheitsfunktionen des Geräts für die Abgabe von Signaltönen; zusätzlich werde die Batterieentladung beschleunigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Im Folgenden wird in dem Schreiben empfohlen, die Magnetfunktion zu deaktivieren. Diese Programmierung stelle sicher, dass eine angemessene Therapie für die Behandlung von ventrikulären und atrialen Tachyarrhythmien zur Verfügung stehe, auch wenn der Magnetschalter in der geschlossenen Position hängen bleibe. Sodann wird darauf hingewiesen, dass bei dieser Programmierung ein Magnet nicht mehr die (Tachykardie-)Therapie inhibiere, die Funktion der vom Patienten ausgelösten Speicherung jedoch verfügbar bleibe, eine vorübergehende Inhibierung der Tachyarrhythmietherapie nur mit einem Programmiergerät vorgenommen werden könne und eine Magnetauflage keinen therapeutischen Nutzen habe und nicht angewendet zu werden brauche.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Abschließend heißt es, Patienten sollten sich <strong>unverzüglich</strong> mit ihrem Arzt in Verbindung setzen oder die Notaufnahme eines Krankenhauses aufsuchen, wenn sie Töne von ihrem Gerät hörten. Ärzte sollten sich an ihren örtlichen G. Außendienstmitarbeiter wenden oder telefonisch an den Technischen Service von G., um Unterstützung zur Beurteilung der Geräte einzuholen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Das Universitätsklinikum, in dem F. sich in der Zeit vom 28. Februar bis 5. März 2006 befand, teilte dessen Hausarzt mit, bei F. seien am 2. März 2006 ein vorzeitiger AICD-Aggregatwechsel bei defektem Magnetschalter mit nicht abfragbarem ICD-System durchgeführt und ein Dreikammer-ICD (Contak Renewal 4 AVT, G.) implantiert worden. Bei dem explantierten ICD-Aggregat habe es sich um einen Contak Renewal 4 AVT, Hersteller G., Serien-Nr. 100084 gehandelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat von der Beklagten mit Schreiben vom 31. August 2009 Zahlung der für den Krankenhausaufenthalt ihres Versicherten F. entstandenen Kosten, die sie mit 20.315,01 € beziffert hat, sowie Ersatz ambulanter Behandlungskosten in Höhe von 122,50 € begehrt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin macht geltend, der ursprünglich implantierte ICD sei fehlerhaft gewesen, da er nach dem OP-Bericht einen defekten Magnetschalter mit nicht abfragbarem ICD-System aufgewiesen habe. Da fehlerfreie Geräte eine Nutzungszeit von mindestens fünf Jahren hätten, handele es sich bei den entstandenen Aufwendungen nicht um "Sowieso-Kosten".</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Das Landgericht hat der Klage stattgegeben. Das Berufungsgericht hat auf die dagegen gerichtete Berufung der Beklagten das erstinstanzliche Urteil teilweise abgeändert und die Verurteilung der Beklagten in Höhe von (nur) 5.952,80 € nebst Zinsen aufrechterhalten. Mit der vom Berufungsgericht zugelassenen Revision begehrt die Beklagte die vollumfängliche Klageabweisung.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Die Revision hat Erfolg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsgericht hat zur Begründung seiner Entscheidung - soweit hier noch erheblich - im Wesentlichen ausgeführt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin habe einen Ersatzanspruch aus § 1 Abs. 1 ProdHaftG in Verbindung mit § 116 Abs. 1 SGB X. Die Beklagte habe nicht bestritten, dass dem Versicherten F. nach dem Inhalt des Patientenausweises ein ICD CONTAK RENEWAL ® 4 AVT ® mit der Modellnummer M 170 und der Seriennummer 100084 implantiert worden sei. Dahinstehen könne, ob die Rechtsvorgängerin der Beklagten, die G. GmbH, das Gerät hergestellt oder in den europäischen Wirtschaftsraum eingeführt habe. Die Beklagte hafte zumindest als Quasi-Herstellerin im Sinne von § 4 Abs. 1 Satz 2 ProdHaftG, denn ihre Rechtsvorgängerin habe sich als Herstellerin ausgegeben. Dafür sei nicht erforderlich, dass die Anbringung des Namens auf dem Produkt selbst erfolgt sei. Es genüge, dass sich der Name des Herstellers aus dem Patientenausweis ergebe. Die Beklagte habe nicht bestritten, diese Ausweise zu kennen. Die gemäß § 4 Abs. 1 Satz 2 ProdHaftG erforderliche Verbindung zwischen dem Produkt (ICD) und dem Ausweis sei durch den von den implantierenden Ärzten auf dem Ausweis angebrachten Aufkleber mit der Modellbezeichnung des Geräts und die von ihnen vorgenommenen handschriftlichen Eintragungen gewährleistet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Der dem Versicherten F. implantierte ICD weise einen Produktfehler auf. Das Gerät gehöre ausweislich des Sicherheitsinformationsschreibens vom 27. Juni 2005 zu einer Produktfamilie, bei der ein Bauelementefehler auftreten könne, der die Therapie-Verfügbarkeit einschränken könne. Sei die Magnetfunktion aktiviert und bleibe der Magnetschalter nach Entfernen des Magneten hängen, werde die Behandlung von ventrikulären und atrialen Arrhythmien unterbunden. Das bedeute, dass auch im Falle lebensgefährlicher Herzrhythmusstörungen diese nicht erkannt würden bzw. die dann adäquate Abgabe lebensrettender Schocks unterbleibe. Die in dem Sicherheitsinformationsschreiben ausgesprochene Empfehlung, die Magnetfunktion zu deaktivieren, würde dazu führen, dass eine Magnetauflage nicht mehr die Tachykardie-Therapie für die Dauer der Auflage unterbinde und die Magnetfunktion keinen therapeutischen Nutzen mehr hätte.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>In der Gefahr des Ausbleibens einer Schockabgabe bei lebensgefährlichen ventrikulären Herzrhythmusstörungen liege ein Produktfehler im Sinne von § 3 ProdHaftG. Das Gerät biete nicht die Sicherheit, die unter Berücksichtigung aller Umstände berechtigterweise erwartet werden könne. Dabei sei nicht allein auf die Erwartung der Ärzte, sondern zumindest auch auf die Erwartung der Patienten abzustellen, denen ein ICD implantiert worden sei. Deren berechtigte Erwartungen seien sehr hoch, weil dem Patienten bei einer - für ihn nicht ohne weiteres erkennbaren - Fehlfunktion schwerwiegende Gesundheitsschäden drohten, die zum Tode führen könnten. Dahinstehen könne, ob das dem Versicherten F. implantierte Gerät tatsächlich einen Bauelementefehler aufgewiesen habe. Bereits die Möglichkeit des in dem Sicherheitsinformationsschreiben beschriebenen Defekts des Magnetschalters begründe einen allen ICD anhaftenden Produktfehler, ohne dass es im konkreten Fall darauf ankomme, ob der Magnetschalter tatsächlich defekt gewesen sei.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>Die Haftung der Beklagten sei auch nicht nach § 1 Abs. 2 ProdHaftG ausgeschlossen. Der dem Hersteller gemäß § 1 Abs. 4 Satz 2 ProdHaftG obliegende Nachweis, dass das Produkt den Fehler zum Zeitpunkt des Inverkehrbringens noch nicht aufgewiesen habe, sei dadurch zu führen, dass entweder das Produkt bei Inverkehrgabe den Fehler noch nicht gehabt haben könne oder dass der Fehler tatsächlich erst danach entstanden sei. Die Beklagte habe nicht dargelegt, dass der Fehler zum Zeitpunkt des Inverkehrbringens noch nicht vorgelegen habe. Nach dem Operationsbericht habe bei dem betreffenden ICD der Magnetschalterdefekt vorgelegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Der Produktfehler habe infolge des erforderlichen operativen Geräteaustauschs adäquat kausal zu einer Körperverletzung des Versicherten F. geführt. Wie sich aus dem Schreiben des Universitätsklinikums S. vom 9. März 2006 ergebe, sei der AICD-Aggregatwechsel bei defektem Magnetschalter mit nicht abfragbarem ICD-System, mithin der Fehlfunktion, die das Sicherheitsinformationsschreiben der Beklagten vom 27. Juni 2005 beschrieben habe, erfolgt. Die angefallenen Behandlungskosten beliefen sich (geschätzt) auf 5.952,80 €. Der Anspruch der Klägerin sei nicht verjährt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Diese Beurteilung hält der rechtlichen Nachprüfung in einem Punkt nicht stand. Auf der Grundlage der bisherigen Feststellungen steht der Klägerin kein Anspruch gegen die Beklagte aus § 1 Abs. 1, § 4 Abs. 1 ProdHaftG in Verbindung mit § 116 Abs. 1 SGB X zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht ist allerdings zutreffend davon ausgegangen, dass die Beklagte aufgrund der in dem Patientenausweis enthaltenen Angaben als Quasi-Hersteller im Sinne von § 4 Abs. 1 Satz 2 ProdHaftG haftet. Insoweit wird zur Begründung auf den Beschluss des Senats vom 30. Juli 2013 (VI ZR 327/12, VersR 2013, 1451 Rn. 17) verwiesen. Daran ist festzuhalten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>2. Weiter zutreffend hat das Berufungsgericht angenommen, dass der dem Versicherten F. implantierte ICD einen Produktfehler im Sinne von § 3 Abs. 1 ProdHaftG, Art. 6 der Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte (Amtsblatt Nr. L 210 vom 7. August 1985, S. 29-33) aufgewiesen hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Für die Entscheidung des Rechtsstreits kommt es darauf an, ob ohne Feststellungen zur Fehlerhaftigkeit des konkreten, dem Versicherten F. implantierten ICD allein die Möglichkeit eines Defekts des Magnetschalters deshalb als Fehler im Sinne von § 3 Abs. 1 ProdHaftG, Art. 6 Abs. 1 der Richtlinie 85/374/EWG zu bewerten ist, weil nach den Feststellungen des Herstellers bei einer signifikanten Anzahl von Geräten derselben Serie eine Fehlfunktion aufgetreten ist. Auch insoweit wird zur Begründung auf den Beschluss des Senats vom 30. Juli 2013 (aaO Rn. 18 ff.) Bezug genommen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Der Senat hat daher dem Gerichtshof der Europäischen Union gemäß Art. 267 AEUV folgende Frage zur Vorabentscheidung vorgelegt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Ist Art. 6 Abs. 1 der Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte (Amtsblatt Nr. L 210 vom 7. August 1985, S. 29-33) dahin auszulegen, dass ein Produkt, wenn es sich um ein in den menschlichen Körper implantiertes Medizinprodukt (hier: implantierbarer Cardioverter Defibrillator - ICD) handelt, bereits dann fehlerhaft ist, wenn bei einer signifikanten Anzahl von Geräten derselben Serie eine Fehlfunktion aufgetreten, ein Fehler des im konkreten Fall implantierten Geräts aber nicht festgestellt ist?"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Der Gerichtshof hat - nach der Verhandlung der Sache mit einem weiteren Vorlageverfahren - mit Urteil vom 5. März 2015 (Rechtssachen C-503/13 und C-504/13, NJW 2015, 1163 ff. - Boston Scientific Medizintechnik GmbH ./. AOK Sachsen Anhalt - Die Gesundheitskasse, Betriebskrankenkasse RWE) die Frage wie folgt beantwortet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Art. 6 Abs. 1 der Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte ist dahin auszulegen, dass ein Produkt, das zu einer Gruppe oder Produktionsserie von Produkten wie Herzschrittmachern und implantierbaren Cardioverten Defibrillatoren gehört, bei denen ein potenzieller Fehler festgestellt wurde, als fehlerhaft eingestuft werden kann, ohne dass der Fehler bei diesem Produkt festgestellt zu werden braucht."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>Zur Begründung hat der Gerichtshof im Wesentlichen ausgeführt, ein Produkt nach Art. 6 Abs. 1 der Richtlinie sei fehlerhaft, wenn es nicht die Sicherheit biete, die man unter Berücksichtigung aller Umstände, insbesondere der Darbietung dieses Produkts, seines Gebrauchs, mit dem billigerweise gerechnet werden könne, und des Zeitpunkts, zu dem es in den Verkehr gebracht worden sei, zu erwarten berechtigt sei. Nach dem sechsten Erwägungsgrund der Richtlinie 85/374/EWG sei diese Beurteilung anhand der berechtigten Erwartungen der Allgemeinheit vorzunehmen. Die Sicherheit, die zu erwarten man nach dieser Bestimmung berechtigt sei, sei damit vor allem unter Berücksichtigung des Verwendungszwecks und der objektiven Merkmale und Eigenschaften des in Rede stehenden Produkts sowie der Besonderheiten der Benutzergruppe, für die es bestimmt sei, zu beurteilen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Bei medizinischen Geräten wie den im Ausgangsverfahren in Rede stehenden ICD seien die Anforderungen an ihre Sicherheit, die die Patienten zu erwarten berechtigt seien, in Anbetracht ihrer Funktion und der Situation besonderer Verletzlichkeit der diese Geräte nutzenden Patienten besonders hoch. Außerdem bestehe der potenzielle Mangel an Sicherheit, der die Haftung des Herstellers nach der Richtlinie 85/374/EWG auslöse, bei Produkten wie den im Ausgangsverfahren in Rede stehenden in ihrem außergewöhnlichen Schadenspotential für die betroffene Person.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>Daher könnten im Fall der Feststellung eines potenziellen Fehlers solcher Produkte derselben Produktgruppe oder Produktionsserie alle Produkte dieser Gruppe oder Serie als fehlerhaft eingestuft werden, ohne dass ein Fehler des betreffenden Produkts nachgewiesen zu werden brauche. Diese Auslegung stehe darüber hinaus im Einklang mit den vom Unionsgesetzgeber verfolgten Zielen, die insbesondere, wie sich aus den Erwägungsgründen 2 und 7 der Richtlinie 85/374/EWG ergebe, darin bestünden, eine gerechte Verteilung der mit der modernen technischen Produktion verbundenen Risiken zwischen dem Geschädigten und dem Hersteller zu gewährleisten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>c) Danach weist der implantierte ICD vorliegend einen Fehler im Sinne von § 3 Abs. 1 ProdHaftG auf. Er gehört zu einer Produktionsserie von implantierbaren Cardioverter Defibrillatoren, bei denen eine unter Umständen lebensbedrohliche Fehlfunktion festgestellt wurde. Ausweislich des Sicherheitsinformationsschreibens der G. GmbH vom 27. Juni 2005 handelt es sich um eine Produktfamilie, bei der ein Bauelementefehler auftreten kann. Die bei Geräten dieser Produktfamilie mögliche Fehlfunktion kann die Therapie-Verfügbarkeit einschränken und dazu führen, dass auch im Falle lebensgefährlicher Herzrhythmusstörungen diese nicht erkannt werden bzw. die dann adäquate Abgabe lebensrettender Schocks unterbleibt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>3. Auf der Grundlage seiner Feststellungen durfte das Berufungsgericht aber nicht davon ausgehen, dass es sich bei den Kosten der Operation zur Explantation des Produkts und zur Implantation eines anderen ICD um einen durch Körperverletzung verursachten Schaden im Sinne von Art. 1, Art. 9 Satz 1 lit. a der Richtlinie 85/374/EWG handelt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>a) Der Senat hat mit seinem Beschluss vom 30. Juli 2013 (VI ZR 327/12, VersR 2013, 1451) dem Gerichtshof der Europäischen Union gemäß Art. 267 AEUV für den Fall, dass die Frage nach der Fehlerhaftigkeit des implantierten Medizinprodukts mit ja beantwortet wird, folgende weitere Frage zur Vorabentscheidung vorgelegt:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Handelt es sich bei den Kosten der Operation zur Explantation des Produkts und zur Implantation eines anderen ICD um einen durch Körperverletzung verursachten Schaden im Sinne der Art. 1, Art. 9 Satz 1 lit. a der Richtlinie 85/374/EWG?"</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>b) Der Gerichtshof hat die ihm gestellte zweite Frage wie folgt beantwortet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">"Die Art. 1 und 9 Satz 1 Buchst. a der Richtlinie 85/374/EWG sind dahin auszulegen, dass es sich bei dem durch eine chirurgische Operation zum Austausch eines fehlerhaften Produkts wie eines Herzschrittmachers oder eines implantierbaren Cardioverten Defibrillators verursachten Schaden um einen "durch Tod und Körperverletzungen verursachten Schaden" handelt, für den der Hersteller haftet, wenn diese Operation erforderlich ist, um den Fehler des betreffenden Produkts zu beseitigen. Es ist Sache des vorlegenden Gerichts, zu prüfen, ob diese Voraussetzung in den Ausgangsverfahren erfüllt ist."</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Zur Begründung hat der Gerichtshof ausgeführt, der Begriff des "durch Tod und Körperverletzung verursachten Schadens" im Sinne von Art. 9 Satz 1 Buchst. a der Richtlinie 85/374/EWG sei im Hinblick auf die mit der Richtlinie verfolgten Ziele des Schutzes der Sicherheit und Gesundheit der Verbraucher weit auszulegen. Der Schadensersatz umfasse alles, was erforderlich sei, um die Schadensfolgen zu beseitigen und das Sicherheitsniveau wiederherzustellen, das man nach Art. 6 Abs. 1 der Richtlinie zu erwarten berechtigt sei. Deshalb schließe der Schadensersatz bei im Sinne der Richtlinie fehlerhaften medizinischen Geräten wie ICD die Kosten im Zusammenhang mit dem Austausch des fehlerhaften Produkts ein. Im vorliegenden Fall habe G. indes lediglich empfohlen, die Magnetfunktion dieser medizinischen Geräte zu deaktivieren. Insoweit sei es Sache des vorlegenden Gerichts, zu beurteilen, ob eine solche Deaktivierung unter Berücksichtigung der Situation besonderer Verletzlichkeit der Patienten, die einen ICD nutzten, geeignet sei, den Fehler dieses Produkts zu beseitigen, der in dem außergewöhnlichen Schadensrisiko liege, das dadurch für die betroffenen Patienten bestehe, oder ob ein Austausch des Produkts erforderlich sei, um diesen Fehler zu beseitigen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>c) Zu dieser Frage sind bisher keine ausreichenden Feststellungen getroffen. Das Berufungsgericht hat festgestellt, die in dem Sicherheitsinformationsschreiben vom 27. Juni 2005 ausgesprochene Empfehlung, die Programmierung der "Magnetfunktion aktivieren" auf "AUS (OFF)" vorzunehmen, führe dazu, dass eine Magnetauflage nicht mehr die Tachykardie-Therapie für die Dauer der Auflage unterbinde und die Magnetfunktion keinen therapeutischen Nutzen mehr habe. Dem Senat ist auf der Grundlage der bisherigen Feststellungen die Beurteilung, ob eine solche Deaktivierung unter Berücksichtigung der Situation besonderer Verletzlichkeit der Patienten, die einen ICD nutzten, geeignet ist, den Fehler dieses Produkts zu beseitigen, oder ob dafür ein Austausch des Produkts erforderlich ist, nicht möglich.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>4. Die Sache ist auch nicht deshalb zur Endentscheidung reif (§ 563 Abs. 3 ZPO), weil der Anspruch der Klägerin verjährt wäre. Zutreffend hat das Berufungsgericht angenommen, dass die Verjährungseinrede der Beklagten nicht durchgreift.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>Nach § 12 Abs. 1 ProdHaftG verjährt ein Anspruch nach § 1 ProdHaftG in drei Jahren von dem Zeitpunkt an, in dem der Ersatzberechtigte von dem Schaden, dem Fehler und von der Person des Ersatzberechtigten Kenntnis erlangt hat oder hätte erlangen können, wobei es für den Beginn der Verjährung genügt, wenn der Ersatzpflichtige aufgrund einfacher Fahrlässigkeit keine Kenntnis von den anspruchsbegründenden Umständen hat (MünchKommBGB/Wagner, 6. Aufl., § 12 ProdHaftG Rn. 2; Palandt/Sprau, 74. Aufl., § 12 ProdHaftG Rn. 2/3). Da es sich bei der Klägerin, auf die ein möglicher Anspruch nach § 116 SGB X übergegangen ist, um einen Sozialversicherungsträger handelt, ist die Kenntnis der Mitarbeiter ihrer Regressabteilung maßgebend (vgl. Senatsurteil vom 17. April 2012 - VI ZR 108/11, BGHZ 193, 67 Rn. 10 mwN). Die Klägerin macht geltend, sie habe erstmals mit Schreiben vom 13. August 2008 Informationen erhalten, aus denen sich die Möglichkeit eines Produktfehlers ergeben habe. Dem ist die Beklagte, wie das Berufungsgericht zutreffend ausführt, nicht in prozessual erheblicher Weise entgegengetreten. Auch die Revision zeigt keinen Sachvortrag auf, der eine andere Beurteilung rechtfertigen könnte. Entgegen der Auffassung der Revision reicht dafür allein der Umstand, dass die Regelung des § 294a SGB V in der zum Zeitpunkt der streitgegenständlichen Operation geltenden Fassung des GKV-Modernisierungsgesetzes vom 14. November 2003 (BGBl. I S. 2190) zugelassene Krankenhäuser bei Hinweisen auf drittverursachte Gesundheitsschäden verpflichtet, den Krankenkassen die erforderlichen Daten mitzuteilen, nicht aus. Die Beklagte trägt schon nicht vor, dass und wann eine solche Mitteilung erfolgt und zur Kenntnis der Mitarbeiter der Regressabteilung der Klägerin gelangt sei. Die Verjährung wurde daher durch den am 14. Mai 2010 zugestellten Mahnbescheid gehemmt, § 12 Abs. 3 ProdHaftG, § 204 Abs. 1 Nr. 3 BGB.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>III.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Das Berufungsurteil ist danach aufzuheben (§ 562 Abs. 1 ZPO). Die Sache ist, da sie nicht entscheidungsreif ist, an das Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1 und Abs. 3 ZPO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Galke                       Diederichsen                     von Pentz</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>            Offenloch                             Roloff</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE300752015&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

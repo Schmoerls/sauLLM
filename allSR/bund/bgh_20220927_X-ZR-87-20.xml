@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE307532022</doknr>
+   <ecli>ECLI:DE:BGH:2022:270922UXZR87.20.0</ecli>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>10. Zivilsenat</spruchkoerper>
+   <entsch-datum>20220927</entsch-datum>
+   <aktenzeichen>X ZR 87/20</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 14 PatG, Art 54 EuPatÜbk, Art 69 EuPatÜbk</norm>
+   <vorinstanz>vorgehend BPatG München, 30. Juni 2020, Az: 4 Ni 17/18 (EP), Urteil<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Auslegung eines Patentanspruchs - Brenngutkühlung</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Brenngutkühlung</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Wird in der Beschreibung eines Patents ausgeführt, eine bekannte Vorrichtung weise bestimmte Elemente auf, die zu einer vertikalen Mischbewegung führten, und sieht der Patentanspruch ein Verfahren vor, bei dem es an einer vertikalen Mischbewegung fehlt, ist dieses Merkmal im Zweifel so auszulegen, dass es die bei der bekannten Vorrichtung auftretende Bewegung ausschließt (Ergänzung zu BGH, Urteil vom 27. November 2018 - X ZR 16/17, GRUR 2019, 491 Rn. 19 - Scheinwerferbelüftungssystem und BGH, Urteil vom 2. März 2021 - X ZR 17/19, GRUR 2021, 945 Rn. 22 - Schnellwechseldorn).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Eine Entgegenhaltung, in der vorgeschlagen wird, die darin offenbarte Vorrichtung zur Steigerung des Wirkungsgrades mit bestimmten zusätzlichen Elementen zu versehen, nimmt eine Ausgestaltung, bei der der Wirkungsgrad ohne diese Elemente gesteigert wird, nicht neuheitsschädlich vorweg.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Anschlussberufung der Klägerin gegen das Urteil des 4. Senats (Nichtigkeitssenats) des Bundespatentgerichts vom 30. Juni 2020 wird zurückgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Berufung der Beklagten wird das genannte Urteil abgeändert.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klage wird abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Klägerin trägt die Kosten des Rechtsstreits.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Beklagte ist Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 1 509 737, das am 5. April 2004 unter Inanspruchnahme einer europäischen Priorität vom 8. Mai 2003 angemeldet wurde und ein Verfahren zum Kühlen von schüttfähigem Brenngut betrifft. Patentanspruch 1, auf den vier weitere Ansprüche zurückbezogen sind, lautet in der Verfahrenssprache:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">Verfahren zum Kühlen des aus einem Brennofen austretenden Brennguts als Schüttgutschicht auf dem Förderrost eines dem Ofen nachgeschalteten Kühlers mittels eines von unten durch den Rost und die Schüttgutschicht hindurchgeführten Gasstroms, wobei der Rost mehrere in Förderrichtung langgestreckte Planken umfasst, die in Förderrichtung vor- und zurückgehend angetrieben werden und von denen wenigstens zwei benachbarte Planken gleichzeitig vor und ungleichzeitig zurück bewegt werden, wobei oberhalb des Rosts keine Förderorgane vorhanden sind, dadurch gekennzeichnet, dass es an vertikaler Mischbewegung in der Schüttgutschicht fehlt und die Betthöhe im Mittel nicht geringer als das 0,7-Fache der Plankenbreite ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin hat geltend gemacht, die Erfindung sei nicht so offenbart, dass ein Fachmann sie ausführen könne, und der Gegenstand des Streitpatents sei nicht patentfähig. Die Beklagte hat das Schutzrecht in der erteilten Fassung und hilfsweise in zwei geänderten Fassungen verteidigt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Das Patentgericht hat das Streitpatent für nichtig erklärt, soweit dessen Gegenstand über den Inhalt der Patentansprüche 3 und 5 sowie der darauf zurückbezogenen Ansprüche 6 bis 9 in der Fassung von Hilfsantrag 1 hinausgeht, und die Klage im Übrigen abgewiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Berufung verfolgt die Beklagte ihr erstinstanzliches Begehren in vollem Umfang weiter. Die Klägerin hat ursprünglich ebenfalls Berufung eingelegt, diese aber später zurückgenommen. Sie tritt dem Rechtsmittel der Beklagten entgegen und verfolgt ihren Antrag auf vollständige Nichtigerklärung des Streitpatents nunmehr im Wege der Anschlussberufung weiter.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Beide Rechtsbehelfe sind zulässig. Nur die Berufung ist begründet.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>I. Das Streitpatent betrifft ein Verfahren zum Kühlen von schüttfähigem Brenngut.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>1. Nach der Beschreibung des Streitpatents waren im Stand der Technik verschiedene Vorgehensweisen zum Kühlen von Brenngut wie zum Beispiel Zementklinker bekannt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>Vornehmlich seien sogenannte Schubroste eingesetzt worden. Diese bestünden aus einander überlappenden Reihen von Rostplatten, die abwechselnd feststünden oder in Förderrichtung vor- und zurückbewegt würden. Durch die Rostplatten werde Kühlluft in das Gutbett eingeblasen und oberhalb der Gutschicht zur Wärmerückgewinnung abgeführt. Schubroste erforderten eine aufwendige Lagerung der bewegten Teile und seien auch wegen ihrer relativen Kleinteiligkeit aufwendig.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>Eine andere Rostbauart weise einen stationären, luftdurchlässigen Tragboden auf, über den die Glutschicht mittels kontinuierlich in Förderrichtung bewegter Kratzer oder hin- und hergehender Schuborgane bewegt werde. Die Kratzer oder Schuborgane müssten von unten durch die Rostfläche beweglich hindurchgeführt werden, was aufwendig sei. Außerdem seien sie in der heißen Glutschicht hohem Verschleiß ausgesetzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>Bei einer weiteren Bauart werde ein großflächiger Rost in seiner Gesamtheit vor- und zurückbewegt. Während des Rückhubs werde das Gutbett durch eine Stauplatte festgehalten, die am Beginn des Rosts angeordnet sei und oberhalb des Rosts auf die Schicht einwirke. Auf diese Weise könne der Rost unter dem Gutbett zurückgleiten. Dies habe den Nachteil, dass die Stauwirkung und damit die nutzbare Rostlänge begrenzt seien (Abs. 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>Schließlich sei aus der dänischen Patentanmeldung 1999/1403 (NiK5) eine Vorrichtung bekannt, bei der ein von unten nach oben von Kühlgas durchströmter Rost mehrere in Förderrichtung langgestreckte Planken umfasse. Diese würden in Förderrichtung hin- und zurückgehend derart angetrieben, dass wenigstens zwei benachbarte Planken gleichzeitig vor- und nicht gleichzeitig zurückbewegt würden. NiK5 stelle fest, dass der Wirkungsgrad dabei durch ein Kaltkanalproblem (Luftdurchbrüche durch die Schüttgutschicht) vermindert werde. Um dies zu vermeiden, seien vertikale Querwände auf den Planken des Rosts angeordnet, die sich mit den Planken vor- und zurückbewegten. Dadurch solle das Gut in eine vertikale Mischbewegung versetzt werden (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund betrifft das Streitpatent das technische Problem, ein Verfahren zur Verfügung zu stellen, das einen wirtschaftlichen Betrieb und ein hohes Maß an Wärmerückgewinn ermöglicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>3. Zur Lösung schlägt Patentanspruch 1 in der erteilten Fassung ein Verfahren vor, dessen Merkmale sich wie folgt gliedern lassen (die abweichende Gliederung des Patentgerichts ist in eckigen Klammern hinzugefügt):</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">1. Das Verfahren dient dem Kühlen des aus einem Brennofen austretenden Brennguts</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) als Schüttgutschicht (8) auf dem Förderrost (5) eines dem Ofen nachgeschalteten Kühlers [M2]</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) mittels eines von unten durch den Rost (5) und die Schüttgutschicht (8) hindurchgeführten Gasstroms [M3].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">2. Der Rost [M4] umfasst mehrere in Förderrichtung (11) langgestreckte Planken (10) [M4.1].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">a) Die Planken (10) werden in Förderrichtung vor- und zurückgehend angetrieben [M4.2].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:54pt">b) Wenigstens zwei benachbarte Planken (10) werden gleichzeitig nach vorne und nicht gleichzeitig nach hinten bewegt [M4.3].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">3. Oberhalb des Rosts sind keine Förderorgane vorhanden [M5].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">4. In der Schüttgutschicht (8) fehlt es an vertikaler Mischbewegung [M6].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="margin-left:36pt">5. Die Betthöhe ist im Mittel nicht geringer als das 0,7-Fache der Plankenbreite [M7].</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>4. Einige Merkmale bedürfen näherer Erörterung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>a) Mit dem in Merkmalsgruppe 2 vorgegebenen Bewegungsablauf von mehreren langgestreckten Planken übernimmt das Streitpatent das auch in NiK5 eingesetzte Förderprinzip.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung des Streitpatents führt aus, dieses Förderprinzip sei seit langer Zeit als "walking floor" bekannt. Auf dem Gebiet der Fördertechnik habe es keine große Rolle gespielt, weil es im Allgemeinen einfacher sei, die Gutschicht mit Kratzern oder Schuborganen zu bewegen. Im erfindungsgemäßen Zusammenhang stelle es hingegen einen besonderen Vorteil dar, dass oberhalb des Rosts keine Förderorgane vorhanden seien (Abs. 3). Ein wichtiger Vorteil der Erfindung bestehe darin, dass der Verschleiß des Rosts und seiner Lagerorgane seine Funktion nicht beeinträchtige. Deshalb könnten die Lagerorgane einfach gestaltet sein (Abs. 17 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>Der in Merkmal 2b festgelegte Ablauf hat zur Folge, dass zwei oder mehr benachbarte Planken das Fördergut bei der gemeinsamen Vorwärts-Bewegung mitnehmen. Wenn diese Planken einzeln zurückbewegt werden, kann das auf ihnen liegende Gut größtenteils nicht folgen, weil es durch das Gut auf den benachbarten Planken festgehalten wird (Abs. 23). Die hierzu erforderliche Reibung ist umso größer, je größer das Verhältnis zwischen Betthöhe und Plankenbreite ist (Abs. 35).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>Zwei Beispiele für Bewegungsabläufe, die den Anforderungen der Merkmalsgruppe 2 entsprechen, sind in den nachfolgend wiedergegebenen Figuren 2 und 3 dargestellt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p style="text-align:center">
+                  <img xmlns:xs="http://www.w3.org/2001/XMLSchema" width="567px"
+                       src="bild1_0.jpg"
+                       alt="Abbildung"
+                       title="Abbildung"
+                       style="margin-top: 3px;"/>
+               </p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>Bei der in Figur 2 dargestellten Vorgehensweise werden drei Planken (10) gemeinsam nach vorne bewegt, bis sie die vorderste Position erreicht haben. Anschließend werden sie einzeln in die hinterste Position zurückbewegt und der Ablauf beginnt erneut (Abs. 23).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>Bei der in Figur 3 dargestellten Vorgehensweise sind fünf Planken (10.n) so miteinander gekoppelt, dass immer vier davon in einer gestaffelten, aber gleichmäßigen Vorwärtsbewegung sind, während die fünfte nach Erreichen der vordersten Position mit größerer Geschwindigkeit zurückbewegt wird, so dass sie ihre hinterste Position erreicht hat, wenn die nächste Planke an deren vorderster Position angekommen ist (Abs. 24).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>b) Eine vertikale Mischbewegung im Sinne von Merkmal 4 findet statt, wenn das Material in bestimmten Bereichen vorübergehend angehoben wird und auf diese Weise ein Material- oder Wärmeaustausch zwischen Material in unterschiedlichen vertikalen Bereichen ermöglicht wird.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der Rechtsprechung des Senats ist es bei der Auslegung eines Patentanspruchs zu berücksichtigen, wenn sich ein Patent mit seiner Lehre von dem in ihm beschriebenen Stand der Technik abzugrenzen sucht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>Wird etwa in der Beschreibung ein bekannter Stand der Technik mit dem Oberbegriff eines Patentanspruchs gleichgesetzt, ist den Merkmalen des kennzeichnenden Teils im Zweifel kein Verständnis beizumessen, demzufolge diese sich in demjenigen Stand der Technik wiederfinden, von dem sie sich gerade unterscheiden sollen (BGH, Urteil vom 27. November 2018 - X ZR 16/17, GRUR 2019, 491 Rn. 19 - Scheinwerferbelüftungssystem). Entsprechendes gilt, wenn in der Beschreibung des Patents ein bekannter Stand der Technik als nachteilhaft bezeichnet und ein im Patentanspruch vorgesehenes Merkmal als Mittel hervorgehoben wird, um diesen Nachteil zu überwinden (BGH, Urteil vom 2. März 2021 - X ZR 17/19, GRUR 2021, 945 Rn. 22 - Schnellwechseldorn).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>bb) Im Streitfall dient Merkmal 4 der Abgrenzung von dem in NiK5 offenbarten Verfahren.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>Wie bereits oben aufgezeigt wurde, hebt die Beschreibung des Streitpatents als Merkmal der in NiK5 offenbarten Vorrichtung die Anordnung von vertikalen Querwänden auf den Planken des Rosts hervor, die sich mit den Planken vor- und zurückbewegten. Hierdurch solle das Gut in eine vertikale Mischbewegung versetzt werden (Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>Beim Streitpatent soll es demgegenüber an einer vertikalen Mischbewegung fehlen. Dies hat nach der Beschreibung zur Folge, dass das Behandlungsgas beim Kühlprozess zuletzt die heißesten Schichten durchquere und dadurch die Schicht mit einer höheren Temperatur verlasse, als es bei lebhafterer vertikaler Durchmischung möglich sei. Dies ermögliche einen besseren Wärmerückgewinn (Abs. 6 aE).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>Aus dieser Gegenüberstellung ergibt sich, dass das Streitpatent die in NiK5 offenbarte Bewegung des Schüttguts als nachteilhaft ansieht und dass das Fehlen vertikaler Mischbewegung im Sinne von Merkmal 4 das Mittel darstellt, um diesen Nachteil zu überwinden. Merkmal 4 ist deshalb in Abgrenzung zu NiK5 auszulegen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>cc) Nach der Rechtsprechung des Senats kann die Abgrenzung zu konkretem Stand der Technik allerdings nur dann zu einer einschränkenden Auslegung führen, wenn erkennbar ist, auf welche konkrete Ausgestaltung sich die Abgrenzung bezieht (BGH, Urteil vom 26. April 2022 - X ZR 44/20, GRUR 2022, 1129 Rn. 48 - Verbundelement).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>Auch diese Voraussetzung ist im Streitfall erfüllt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Mit der Anordnung von vertikalen Querwänden auf den Planken des Rosts und der dadurch hervorgerufenen vertikalen Mischbewegung gibt das Streitpatent hinreichend konkret an, von welcher Ausgestaltung es sich mit Merkmal 4 abgrenzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>dd) Entgegen der Auffassung des Patentgerichts ist Merkmal 4 vor diesem Hintergrund nicht dahin auszulegen, dass als vertikale Mischbewegung nur eine vollständige Durchmischung anzusehen ist, bei der Material aus unteren Schichten in beliebigem Umfang in obere Schichten verlagert werden kann und umgekehrt. Eine vertikale Mischbewegung liegt vielmehr schon dann vor, wenn das Material in bestimmten Bereichen durch auf dem Rost angeordnete quer verlaufende Planken oder ähnlich wirkende Elemente vorübergehend angehoben wird, wie dies in NiK5 offenbart ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(1) In NiK5 wird eine vertikale Verschiebung innerhalb der Klinkerschicht als vorteilhaft bezeichnet, weil damit dem so genannten Kaltkanalproblem begegnet werden könne. Weil Luft sich durch Erwärmung ausdehne, komme es an Stellen mit hoher Temperatur zu einer erhöhten Luftgeschwindigkeit. An kalten Stellen sei die Luftgeschwindigkeit geringer. Dies führe zu einem Druckabfall, so dass noch mehr Luft an diese Stellen gelange. Dies verringere den Wirkungsgrad des Kühlers, weil die größte Menge der durchströmenden Luft nicht von den Klinkern erwärmt werde. Eine Vertikalverschiebung breche die kalten Kanäle bereits in einem frühen Stadium in Einzelteile auf. Dadurch bleibe ein höherer Wirkungsgrad erhalten (NiK5a S. 2 unten).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Eine solche vertikale Verschiebung wird nach den Ausführungen in NiK5 bei den im Stand der Technik bekannten Kühlern erzielt, indem der untere Teil der Klinkerschicht über eine Kante bzw. den Rand der Rostplatte und die Spitzen der dreieckigen, quer verlaufenden Profile geschoben und diese Wellenbewegung am Boden der Klinkerschicht auf die gesamte Höhe der Klinkerschicht übertragen werde (NiK5a S. 3 Abs. 1).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>Für den in NiK5 offenbarten Kühler werden als geeignetes Mittel zum Hervorrufen dieser vertikalen Verschiebung beispielhaft vertikale Platten angeführt, die quer zu den in Längsrichtung verlaufenden Rostabschnitten verlaufen (NiK5a S. 3 Abs. 2).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>(2) Dies ist die Ausgestaltung, von der sich das Streitpatent abgrenzt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung des Streitpatents verwendet mit den Begriffen "vertikale Querwände" und "vertikale Mischbewegung" zwar andere Formulierungen als die deutsche Übersetzung von NiK5. Trotz dieser Abweichungen lässt sie aber hinreichend deutlich erkennen, dass sich Merkmal 4 auf Mischbewegungen bezieht, wie sie durch die in NiK5 eingesetzten vertikalen Platten und die damit erzeugte Vertikalverschiebung hervorgerufen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_37">37</a>
+            </dt>
+            <dd>
+               <p>ee) Dass die Beschreibung des Streitpatents Verschiebungen zwischen einzelnen Bereichen des Materials nicht vollständig ausschließt, führt nicht zu einer abweichenden Beurteilung. Diese Verschiebungen betreffen andere Bewegungsabläufe und sind deshalb nicht als vertikale Mischbewegungen im Sinne von Merkmal 4 anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_38">38</a>
+            </dt>
+            <dd>
+               <p>(1) Wie bereits oben dargelegt wurde, beschreibt das Streitpatent das in Merkmalsgruppe 2 festgelegte Förderprinzip dahin, dass das Fördergut der Rückwärtsbewegung einer einzelnen Planke größtenteils nicht folgen kann (Abs. 23). Daraus ergibt sich im Gegenschluss, dass ein kleiner Teil des Förderguts der Rückwärtsbewegung folgen kann, es also in gewissem Umfang zu einer Verschiebung zwischen einzelnen vertikalen Schichten kommen kann.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_39">39</a>
+            </dt>
+            <dd>
+               <p>Diese Verschiebung ist keine vertikale Mischbewegung im Sinne von Merkmal 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_40">40</a>
+            </dt>
+            <dd>
+               <p>Die von dieser Bewegung betroffenen Teile des Materials werden nicht in vertikaler Richtung verschoben. Vielmehr findet eine horizontale Verschiebung zwischen einzelnen vertikalen Schichten statt. Hierauf bezieht sich die Abgrenzung gegenüber NiK5 nicht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_41">41</a>
+            </dt>
+            <dd>
+               <p>(2) Nach der Beschreibung des Streitpatents kann in bestimmten Fällen eine stärkere Gutbewegung wünschenswert sein, etwa um ein Zusammenbacken des Materials zu verhindern. Eine solche Bewegung kann zum Beispiel herbeigeführt werden, indem die Vorwärtsförderung nicht gleichmäßig über die gesamte Rostbreite stattfindet, sondern abschnittsweise, so dass zwischen den Abschnitten eine Relativbewegung stattfindet. Eine andere Möglichkeit besteht darin, eine höhere Rostfrequenz zu wählen. Ferner kann durch stationäre, in das Bett hineinragende Einbauten eine Bewegung innerhalb des Gutbetts erzeugt werden (Abs. 7). Hierdurch kann gegebenenfalls auch verhindert werden, dass das Gut am Rand des Betts unerwünscht rasch fließt (Abs. 9) oder in bestimmten Bereichen sogar durchschießt (Abs. 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_42">42</a>
+            </dt>
+            <dd>
+               <p>Verschiebungen dieser Art sind ebenfalls keine vertikale Mischbewegung im Sinne von Merkmal 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_43">43</a>
+            </dt>
+            <dd>
+               <p>Auch bei diesen Bewegungsabläufen findet eine Verschiebung im Wesentlichen nur in horizontaler Richtung statt, nicht in vertikaler Richtung, wie dies Merkmal 4 vorsieht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_44">44</a>
+            </dt>
+            <dd>
+               <p>(3) Nach der Beschreibung des Streitpatents ist die Oberseite des Rosts zweckmäßigerweise im Wesentlichen vollflächig mit Mulden versehen, in denen sich abgekühltes Gut fängt und den unmittelbaren Kontakt des Rosts mit heißen Gutschichten verhindert (Abs. 16 und 29).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_45">45</a>
+            </dt>
+            <dd>
+               <p>Diese Mulden führen nicht zu einer vertikalen Mischbewegung im Sinne von Merkmal 4.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_46">46</a>
+            </dt>
+            <dd>
+               <p>Das Material, das sich in diesen Mulden ansammelt, verbleibt dort und bildet eine Schutzschicht gegenüber dem mittels der Planken geförderten heißen Material. Damit kann es nicht zu einer vertikalen Verschiebung kommen, wie sie in NiK5 beschrieben ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_47">47</a>
+            </dt>
+            <dd>
+               <p>ff) Wie die Berufung zu Recht geltend macht, ist Merkmal 4 allerdings nicht dahin zu verstehen, dass eine vertikale Mischbewegung im oben aufgezeigten Sinne schlechthin verboten ist. Solche Bewegungen sind vielmehr unschädlich, soweit sie aufgrund des in Merkmalsgruppe 2 festgelegten Förderprinzips praktisch nicht zu vermeiden sind.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_48">48</a>
+            </dt>
+            <dd>
+               <p>An einer Verwirklichung von Merkmal 4 fehlt es aber jedenfalls dann, wenn besondere Einrichtungen vorhanden sind, um eine vertikale Verschiebung, wie sie in NiK5 offenbart ist, zu fördern.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_49">49</a>
+            </dt>
+            <dd>
+               <p>II. Das Patentgericht hat seine Entscheidung hinsichtlich der erteilten Fassung des Klagepatents im Wesentlichen wie folgt begründet:</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_50">50</a>
+            </dt>
+            <dd>
+               <p>Der Gegenstand der erteilten Fassung von Patentanspruch 1 sei dem Fachmann, einem Ingenieur des Maschinenbaus mit Fachhochschulabschluss und mehrjähriger Berufserfahrung auf dem Gebiet der Auslegung und Konstruktion von Brenngutkühlern, ausgehend von NiK5 nahegelegt gewesen. Die in NiK5 offenbarte Vorrichtung weise nicht nur die Merkmale 1 bis 3 [M1 bis M5] auf, sondern auch das Merkmal 4 [M6]. Zwar erzeugten die Hindernisse (22) eine vertikale Verschiebung innerhalb der Klinkerschicht. Es komme jedoch nicht zu einer kompletten vertikalen Mischbewegung, weil die Verschiebung in Form einer Wellenbewegung erfolge, also nur lokal und vorübergehend, und das Schüttgut deshalb nicht in einer anderen Zusammensetzung durchmischt werde. Merkmal 5 [M7] ergebe sich für den Fachmann bereits aus der in NiK5 wiedergegebenen Figur 2, die durchgehend eine mindestens der Plankenbreite entsprechende Betthöhe zeige.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_51">51</a>
+            </dt>
+            <dd>
+               <p>III. Diese Beurteilung hält der Überprüfung in der Berufungsinstanz in einem entscheidenden Punkt nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_52">52</a>
+            </dt>
+            <dd>
+               <p>1. Entgegen der Auffassung des Patentgerichts ist Merkmal 4 [M6] in NiK5 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_53">53</a>
+            </dt>
+            <dd>
+               <p>a) Wie bereits im Zusammenhang mit der Auslegung von Merkmal 4 dargelegt wurde, offenbart NiK5 eine Vorrichtung zur Kühlung von partikelförmigem Material, zum Beispiel Zementklinker.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_54">54</a>
+            </dt>
+            <dd>
+               <p>Wie auch die Beschreibung des Streitpatents zutreffend darlegt, nutzt die in NiK5 offenbarte Vorrichtung das in Merkmalsgruppe 2 festgelegte, als "walking floor" bekannte Förderprinzip.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_55">55</a>
+            </dt>
+            <dd>
+               <p>Wie ebenfalls bereits dargelegt wurde, sieht NiK5 zur Behebung des dort geschilderten Kaltkanalproblems vor, vertikale Platten anzubringen, die quer zu den in Längsrichtung verlaufenden Rostabschnitten verlaufen und eine vertikale Verschiebung bewirken (NiK5a S. 3 Abs. 2). In den in NiK5 formulierten Patentansprüchen 6 bis 9 sind hierzu in Querrichtung verlaufende Hindernisse (obstruktioner) vorgesehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_56">56</a>
+            </dt>
+            <dd>
+               <p>b) Bei einer solchen Ausgestaltung ist Merkmal 4 aus den bereits oben dargelegten Gründen nicht verwirklicht, weil dieses Merkmal eine solche vertikale Verschiebung und die dadurch hervorgerufene vertikale Mischbewegung gerade ausschließen soll.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_57">57</a>
+            </dt>
+            <dd>
+               <p>c) Entgegen der Auffassung der Klägerin führt der Umstand, dass die genannten Hindernisse in NiK5 nur in Unteransprüchen vorgesehen sind, nicht zu einer abweichenden Beurteilung.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_58">58</a>
+            </dt>
+            <dd>
+               <p>Dieser Umstand führt zwar dazu, dass NiK5 auch Schutz für Vorrichtungen beansprucht, bei denen die in der Beschreibung geschilderte vertikale Durchmischung nicht auftritt. Wie die Berufung zutreffend geltend macht, ist hierdurch der Gegenstand des Streitpatents aber nicht eindeutig und unmittelbar offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_59">59</a>
+            </dt>
+            <dd>
+               <p>Entgegen der Auffassung der Klägerin ergibt sich aus der Staffelung der in NiK5 formulierten Ansprüche nicht, dass NiK5 zwei nebeneinanderstehende Ausführungsformen ohne bzw. mit Hindernissen offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_60">60</a>
+            </dt>
+            <dd>
+               <p>Die Beschreibung von NiK5 schildert zwar zunächst den Aufbau der Vorrichtung, ohne auf die Hindernisse einzugehen. In den daran anschließenden Passagen weist sie eine vertikale Verschiebung aber nicht als nur optionales Merkmal aus, das je nach Bedarf verwirklicht werden kann oder nicht. Sie bezeichnet eine Vorrichtung, bei der eine solche Bewegung nicht stattfindet, vielmehr als problematisch und wenig effizient. Vor diesem Hintergrund ist NiK5 zu entnehmen, dass eine vertikale Verschiebung, wie sie durch quer verlaufende vertikale Platten erzielt werden kann, zwingend erforderlich ist, um eine praktisch brauchbare Lösung zu erzielen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_61">61</a>
+            </dt>
+            <dd>
+               <p>d) NiK5 mag darüber hinaus die Schlussfolgerung zu entnehmen sein, dass auf die Anbringung von Hindernissen und das Hervorrufen von vertikalen Verschiebungen verzichtet werden kann, wenn die damit verbundenen Effizienznachteile hingenommen werden können.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_62">62</a>
+            </dt>
+            <dd>
+               <p>Die Lehre des Streitpatents beschränkt sich aber nicht auf einen solchen Verzicht und die Inkaufnahme der damit laut NiK5 verbundenen Nachteile.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_63">63</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent zeigt vielmehr auf, dass das in NiK5 beschriebene Kaltkanalproblem auch ohne eine vertikale Verschiebung gelöst werden kann. Diese Lehre ist in NiK5 nicht offenbart.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_64">64</a>
+            </dt>
+            <dd>
+               <p>2. Vor diesem Hintergrund war der Gegenstand von Patentanspruch 1 ausgehend von NiK5 nicht nahegelegt.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_65">65</a>
+            </dt>
+            <dd>
+               <p>Wie bereits aufgezeigt wurde, bewertet NiK5 eine Ausgestaltung ohne quer verlaufende Hindernisse als ineffizient. Das Streitpatent zeigt demgegenüber auf, dass sich auch ohne eine solche Ausgestaltung ein hoher Effizienzgrad erreichen lässt. Hierfür ergaben sich aus NiK5 keine Anregungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_66">66</a>
+            </dt>
+            <dd>
+               <p>3. Aus den übrigen Entgegenhaltungen ergeben sich insoweit keine weitergehenden Anregungen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_67">67</a>
+            </dt>
+            <dd>
+               <p>Diese Entgegenhaltungen zeigen Vorrichtungen mit anderen Förderprinzipien. Dies mag nicht ausschließen, einzelne Gestaltungsmerkmale daraus auf eine Vorrichtung mit einem "walking floor" zu übertragen. Zu einer alternativen Lösung des in NiK5 beschriebenen Kaltkanalproblems ergeben sich aus den Entgegenhaltungen aber keine Hinweise.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_68">68</a>
+            </dt>
+            <dd>
+               <p>IV. Die Sache ist zur Endentscheidung reif (§ 119 Abs. 5 Satz 2 PatG).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_69">69</a>
+            </dt>
+            <dd>
+               <p>Das Streitpatent erweist sich aus den oben aufgezeigten Gründen in seiner erteilten Fassung als rechtsbeständig. Auf die Hilfsanträge kommt es deshalb nicht an.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_70">70</a>
+            </dt>
+            <dd>
+               <p>V. Die Kostenentscheidung beruht auf § 121 Abs. 2 PatG und § 91 Abs. 1 ZPO.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <table class="Rsp">
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Bacher     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Grabinski     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Kober-Dehm</p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Marx     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">Rensen     </p>
+                     </td>
+                     <td colspan="1" rowspan="1" valign="top">
+                        <p style="text-align:left">      </p>
+                     </td>
+                  </tr>
+               </table>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE307532022&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>

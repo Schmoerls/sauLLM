@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dokument
+  SYSTEM "https://www.rechtsprechung-im-internet.de/dtd/v1/rii-dok.dtd">
+<dokument>
+   <doknr>KORE311872014</doknr>
+   <ecli/>
+   <gertyp>BGH</gertyp>
+   <gerort/>
+   <spruchkoerper>6. Zivilsenat</spruchkoerper>
+   <entsch-datum>20141118</entsch-datum>
+   <aktenzeichen>VI ZR 47/13</aktenzeichen>
+   <doktyp>Urteil</doktyp>
+   <norm>§ 426 BGB, § 823 Abs 1 BGB, § 104 Abs 1 S 1 SGB 7, § 108 Abs 1 SGB 7, § 110 Abs 1 SGB 7, § 1 Abs 1 S 1 AÜG</norm>
+   <vorinstanz>vorgehend Thüringer Oberlandesgericht, 9. Januar 2013, Az: 7 U 90/12<br/>vorgehend LG Erfurt, 6. Januar 2012, Az: 3 O 1182/10<br/>
+   </vorinstanz>
+   <region>
+      <abk>DEU</abk>
+      <long>Bundesrepublik Deutschland</long>
+   </region>
+   <mitwirkung/>
+   <titelzeile>
+      <dl class="RspDL">
+         <dt/>
+         <dd>
+            <p>Grundsätze des gestörten Gesamtschuldverhältnisses; Zuordnung des Unfalls und Haftungsprivilegierung des Entleihers des geschädigten Arbeitnehmers bei Anerkennung des Unfalls als Arbeitsunfall durch den zuständigen Sozialversicherer; Rückgriffsanspruch des Sozialversicherungsträgers; Verkehrssicherungspflicht des mit der örtlichen Bauüberwachung beauftragten Architekten</p>
+         </dd>
+      </dl>
+   </titelzeile>
+   <leitsatz>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>1. Besteht zwischen mehreren Schädigern ein Gesamtschuldverhältnis, können Ansprüche des Geschädigten gegen einen Gesamtschuldner (Zweitschädiger) auf den Betrag beschränkt sein, der auf diesen im Innenverhältnis zu dem anderen Gesamtschuldner (Erstschädiger) endgültig entfiele, wenn die Schadensverteilung nach § 426 BGB nicht durch eine sozialversicherungsrechtliche Haftungsprivilegierung des Erstschädigers gestört wäre.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>2. Die unanfechtbare Entscheidung des für den Verleiher zuständigen Versicherungsträgers, in der der Unfall eines auf Grund eines wirksamen Vertrags entliehenen Arbeitnehmers im Unternehmen des Entleihers als Arbeitsunfall anerkannt wird, hindert die Zivilgerichte nicht, den Unfall haftungsrechtlich dem Unternehmen des Entleihers zuzuordnen und diesen gemäß § 104 Abs. 1 Satz 1 SGB VII als haftungsprivilegiert anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>3. Die durch eine sozialversicherungsrechtliche Haftungsprivilegierung des Erstschädigers bewirkte Störung des Gesamtschuldverhältnisses wird nicht dadurch "ausgeglichen", dass dem aus übergegangenem Recht klagenden Sozialversicherungsträger ein Rückgriffsanspruch aus § 110 Abs. 1 SGB VII gegen den Erstschädiger zusteht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>4. Zur Verkehrssicherungspflicht des mit der örtlichen Bauüberwachung beauftragten Architekten.</p>
+            </dd>
+         </dl>
+      </div>
+   </leitsatz>
+   <sonstosatz/>
+   <tenor>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Auf die Revision der Beklagten wird das Grund- und Teilurteil des 7. Zivilsenats des Thüringischen Oberlandesgerichts vom 9. Januar 2013 aufgehoben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsrechtszuges, an das Berufungsgericht zurückverwiesen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Von Rechts wegen</p>
+            </dd>
+         </dl>
+      </div>
+   </tenor>
+   <tatbestand>
+      <div>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_1">1</a>
+            </dt>
+            <dd>
+               <p>Die Klägerin, eine Trägerin der gesetzlichen Unfallversicherung, nimmt die Beklagten aus übergegangenem Recht ihres Versicherten R. wegen der Verletzung von Verkehrssicherungspflichten auf Ersatz materiellen Schadens in Anspruch.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_2">2</a>
+            </dt>
+            <dd>
+               <p>Die Stadtwirtschaft W. GmbH beabsichtigte, auf dem Gelände ihres Betriebshofs eine Halle zu errichten. Sie beauftragte die Beklagte zu 1 mit den Grundleistungen der Leistungsphasen 1 bis 8 der Honorarordnung für Architekten und Ingenieure (§ 15 Abs. 2 HOAI in der Fassung vom 21. September 1995). Diese setzte für die Erbringung der Leistungsphase 8 - Objektüberwachung (Bauüberwachung) - den Beklagten zu 2 als verantwortlichen Mitarbeiter vor Ort ein. Die Elektroarbeiten wurden an die Streithelferin der Klägerin (nachfolgend: Streithelferin) vergeben.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_3">3</a>
+            </dt>
+            <dd>
+               <p>Am Samstag, dem 4. November 2006, führte die Streithelferin Elektroinstallationsarbeiten auf der oberen der beiden Ebenen der im Bau befindlichen Halle durch. An den Rändern dieser Ebene befanden sich ungesicherte Absturzkanten, die am selben Tag Gegenstand eines Gesprächs zwischen dem Beklagten zu 2 und einem Mitarbeiter der Streithelferin waren. Maßnahmen zur Absicherung der Absturzkanten wurden nicht ergriffen. Am Montag, dem 6. November 2006, wurden die Elektroinstallationsarbeiten auf der oberen Ebene fortgesetzt. Dabei setzte die Streithelferin erstmals den Versicherten R. - einen von der S. Personaldienstleistung GmbH &amp; Co. KG überlassenen Leiharbeitnehmer - ein. Dieser stürzte gegen 14.00 Uhr von der oberen Ebene auf den Betonfußboden der 2,68 m tiefer liegenden unteren Ebene der Halle und zog sich schwerste Verletzungen zu.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_4">4</a>
+            </dt>
+            <dd>
+               <p>Mit ihrer Klage nimmt die Klägerin die Beklagten in Höhe einer Haftungsquote von 60 % in Anspruch. Sie lässt sich ein "Mitverschulden" der Streithelferin in Höhe von 40 % anrechnen. Das Landgericht hat die Klage abgewiesen. Auf die Berufung der Klägerin und der Streithelferin hat das Berufungsgericht das landgerichtliche Urteil abgeändert. Es hat den Leistungsantrag dem Grunde nach zu 60 % für gerechtfertigt erklärt und festgestellt, dass die Beklagten als Gesamtschuldner verpflichtet sind, der Klägerin 60 % der weiteren übergangsfähigen Aufwendungen zu ersetzen, die ihr wegen des Unfalls entstanden sind und noch entstehen werden. Mit ihrer vom Senat zugelassenen Revision begehren die Beklagten die Wiederherstellung des landgerichtlichen Urteils.</p>
+            </dd>
+         </dl>
+      </div>
+   </tatbestand>
+   <entscheidungsgruende>
+      <div>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>I.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_5">5</a>
+            </dt>
+            <dd>
+               <p>Nach Auffassung des Berufungsgerichts kann die Klägerin von den Beklagten gemäß § 823 BGB, § 116 SGB X Schadensersatz auf der Grundlage einer Haftungsquote von 60 % verlangen. Die Beklagten hätten es pflichtwidrig unterlassen, für eine ordnungsgemäße Absturzsicherung zu sorgen. Ein Verstoß gegen § 12 der einschlägigen Unfallverhütungsvorschrift Bauarbeiten BGV C 22 stehe fest. An der Unfallstelle seien weder eine Absturzsicherung noch Fangeinrichtungen angebracht worden. Dafür hafteten die Beklagten. Zwar sei in erster Linie der Unternehmer für die Sicherheit der Baustelle verantwortlich. Der mit der Bauüberwachung beauftragte Architekt werde aber dann verkehrssicherungspflichtig, wenn er Gefahrenquellen erkannt habe oder bei gewissenhafter Beachtung der ihm obliegenden Sorgfalt hätte erkennen können. Solche sekundären Verkehrssicherungspflichten hätten die Beklagten verletzt. Denn der Beklagte zu 2 habe die Arbeiten zugelassen, obwohl er gewusst habe, dass keine Absturzsicherung vorhanden gewesen sei. Es sei nicht ausreichend gewesen, die Streithelferin lediglich auf die fehlende Absturzsicherung hinzuweisen. Die Beklagten hätten die erkannte Gefahrenquelle vielmehr beseitigen müssen. Sie hätten entweder für die Errichtung einer Absturzsicherung oder für ein Verbot der Baumaßnahmen an den entscheidenden Stellen sorgen müssen. Dafür, dass diese Pflichtverletzung für den Sturz des Geschädigten kausal geworden sei, spreche der Beweis des ersten Anscheins, den die Beklagten nicht erschüttert hätten.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_6">6</a>
+            </dt>
+            <dd>
+               <p>Die Haftung der Beklagten sei nicht gemäß § 106 Abs. 3 Fall 3 SGB VII ausgeschlossen, da eine gemeinsame Betriebsstätte nicht gegeben sei. Auch die Grundsätze des gestörten Gesamtschuldverhältnisses seien nicht zu berücksichtigen. Zwar sei die Streithelferin ebenfalls verkehrssicherungspflichtig gewesen. Sie habe mit Aufnahme der Elektroarbeiten eine Baustelle eröffnet und deshalb im gleichen Maße die Unfallverhütungsvorschriften beachten müssen. Auch greife zu Gunsten der Streithelferin die Haftungsprivilegierung des § 104 Abs. 1 SGB VII. Die Haftung des Entleihers für Arbeitsunfälle des Leiharbeitnehmers sei in derselben Weise beschränkt wie die Haftung des Stammunternehmers. Denn auch ein Leiharbeitnehmer werde für das Unternehmen des Entleihers tätig. Allerdings sei zu berücksichtigen, dass die Streithelferin im Falle einer Inanspruchnahme gemäß den §§ 110, 111 SGB VII den Sozialversicherungsträgern für die infolge des Versicherungsfalls entstandenen Aufwendungen hafte. Denn sie habe den Versicherungsfall grob fahrlässig herbeigeführt. Die Gefahr eines Sturzes sei offenkundig gewesen. Dass sie gleichwohl sehenden Auges mit den Arbeiten begonnen habe, sei subjektiv unentschuldbar und in hohem Maße pflichtwidrig. Danach hafteten die Beklagten als Gesamtschuldner, wobei ein Mitverschulden des Geschädigten in Höhe von 30 % zu berücksichtigen sei, weil er sich trotz fehlender Absturzsicherung in den Gefahrenbereich begeben habe.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>II.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_7">7</a>
+            </dt>
+            <dd>
+               <p>Diese Erwägungen halten der revisionsrechtlichen Nachprüfung nicht stand.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_8">8</a>
+            </dt>
+            <dd>
+               <p>1. Das Berufungsgericht hat allerdings zu Recht angenommen, dass dem Versicherten R. aufgrund seines Sturzes ein Schadensersatzanspruch gegen den Beklagten zu 2 aus § 823 Abs. 1 BGB erwachsen ist.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_9">9</a>
+            </dt>
+            <dd>
+               <p>a) Nach den nicht angegriffenen Feststellungen des Berufungsgerichts ist R. infolge des Fehlens einer ordnungsgemäßen Absturzsicherung von der oberen Ebene der Halle auf den Betonfußboden der 2,68 m tiefer liegenden unteren Ebene gefallen und hat sich schwerste Verletzungen zugezogen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_10">10</a>
+            </dt>
+            <dd>
+               <p>b) Die Revision wendet sich ohne Erfolg gegen die Beurteilung des Berufungsgerichts, dass der Beklagte zu 2 ihm gegenüber R. obliegende Verkehrssicherungspflichten verletzt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_11">11</a>
+            </dt>
+            <dd>
+               <p>aa) Nach der gefestigten Rechtsprechung des Bundesgerichtshofs trifft den mit der örtlichen Bauaufsicht, Bauleitung oder Bauüberwachung beauftragten Architekten die Pflicht, nicht nur seinen Auftraggeber sondern auch Dritte, die sich befugt auf der Baustelle aufhalten, vor Schäden zu bewahren, die im Zusammenhang mit der Errichtung des Bauwerks entstehen können. Im Regelfall braucht der Architekt allerdings nur diejenigen Verkehrssicherungspflichten zu beachten, die dem Bauherrn als dem mittelbaren Veranlasser der aus der Bauausführung fließenden Gefahren obliegen; ihn treffen im Allgemeinen nur sog. sekundäre Verkehrssicherungspflichten. Primär verkehrssicherungspflichtig ist der Unternehmer. Er hat für die Sicherheit der Baustelle zu sorgen. Die Unfallverhütungsvorschriften der Berufsgenossenschaften, die die im konkreten Fall zu beachtenden Sorgfaltspflichten durch Bestimmungen über Sicherheitsmaßnahmen konkretisieren (vgl. Senatsurteil vom 13. März 2001 - VI ZR 142/00, VersR 2001, 1040, 1041), wenden sich nur an ihn. Sie sollen die Versicherten vor den typischen Gefährdungen des jeweiligen Gewerbes schützen (vgl. Senatsurteile vom 30. Januar 2001 - VI ZR 49/00, VersR 2001, 985, 986; vom 8. Januar 2002 - VI ZR 364/00, VersR 2002, 330, 331). Diesen Zweck können sie nur erfüllen, wenn sie von dem Unternehmer zu beachten sind, der die Versicherten beschäftigt (vgl. Senatsurteil vom 15. April 1975 - VI ZR 19/74, VersR 1975, 812, 813).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_12">12</a>
+            </dt>
+            <dd>
+               <p>Unmittelbar selbst verkehrssicherungspflichtig wird der mit der örtlichen Bauaufsicht, Bauleitung oder Bauüberwachung beauftragte Architekt aber dann, wenn Anhaltspunkte dafür vorliegen, dass der Unternehmer in dieser Hinsicht nicht genügend sachkundig oder zuverlässig ist, wenn er Gefahrenquellen erkannt hat oder wenn er diese bei gewissenhafter Beobachtung der ihm obliegenden Sorgfalt hätte erkennen können (vgl. Senatsurteile vom 6. November 1973 - VI ZR 76/72, VersR 1974, 263, 264; vom 13. März 2007 - VI ZR 178/05, VersR 2007, 948 Rn. 12; BGH, Urteil vom 10. März 1977 - VII ZR 278/75, BGHZ 68, 169, 175 f.). Er ist dann verpflichtet, die notwendigen und zumutbaren Vorkehrungen zu treffen, um eine Schädigung anderer zu verhindern (vgl. Senatsurteile vom 6. Oktober 1970 - VI ZR 223/69, VersR 1971, 84, 85; vom 20. September 1983 - VI ZR 248/81, VersR 1983, 1141, 1142 und vom 13. März 2007 - VI ZR 178/05, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_13">13</a>
+            </dt>
+            <dd>
+               <p>bb) Nach diesen Grundsätzen hätte der mit der Bauüberwachung betraute Beklagte zu 2 vor dem Unfall für eine ausreichende Sicherung der Absturzkante sorgen müssen. Die ihm obliegende sekundäre Verkehrssicherungspflicht hatte sich in dem Moment aktualisiert, in dem er von dem Fehlen einer Absturzsicherung an den Kanten der oberen Hallenebene Kenntnis erlangt hatte. Denn wegen der ungesicherten Absturzkanten befand sich die Baustelle am Unfalltag in einem nicht verkehrssicheren Zustand, der die Ausführung von Arbeiten in diesem Bereich nicht zuließ (vgl. Senatsurteil vom 6. November 1973 - VI ZR 76/72, VersR 1974, 263, 264; OLG Hamm, VersR 1993, 491 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_14">14</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung der Revision hat der Beklagte zu 2 seiner Verkehrssicherungspflicht nicht dadurch genügt, dass er die Streithelferin auf die fehlende Absturzsicherung hingewiesen hat. Wie das Berufungsgericht zutreffend angenommen hat, bot der bloße Hinweis auf die Gefahrenstelle keine ausreichende Gewähr dafür, dass Dritte nicht zu Schaden kommen würden. Trotz des dadurch bewirkten Gefahrbewusstseins auf Seiten der Streithelferin lag es nahe, dass sich ein Arbeiter in die Nähe der Gefahrenstelle begibt und aufgrund kurzfristiger Unaufmerksamkeit durch ein unbedachtes Verhalten zu Schaden kommt (vgl. Senatsurteile vom 6. November 1973 - VI ZR 76/72, VersR 1974, 263, 264; vom 15. April 1975 - VI ZR 19/74, VersR 1975, 812 f.; vom 8. Januar 2002 - VI ZR 364/00, VersR 2002, 330; OLG Hamm, VersR 1993, 491 f.; Staudinger/Hager, BGB, Neubearbeitung 2009, § 823 E Rn. 383).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_15">15</a>
+            </dt>
+            <dd>
+               <p>Dieser Beurteilung steht nicht entgegen, dass auch die Streithelferin gegenüber dem ihr zur Arbeitsleistung überlassenen R. - jedenfalls gemäß § 618 BGB - verpflichtet war, die zur Abwendung von Gefahren für Leben und Gesundheit erforderlichen Schutzvorkehrungen zu treffen und die einschlägigen Unfallverhütungsvorschriften einzuhalten (vgl. BAGE 25, 514, 522; 131, 18 Rn. 23 ff.; BAG, NZA 1989, 340, 341; NZA-RR 2010, 123 Rn. 43 f.; Henssler/Willemsen/Kalb/Krause, Arbeitsrecht, 6. Aufl., § 618 BGB Rn. 6, 9; Erman/Belling, BGB, 14. Aufl., § 618 Rn. 1, 5; s. auch § 11 Abs. 6 S. 1 AÜG sowie Art. 8 RL 91/383/EWG über die Verbesserung des Gesundheitsschutzes).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_16">16</a>
+            </dt>
+            <dd>
+               <p>Denn die Verkehrssicherungspflicht des Beklagten zu 2 bestand unabhängig von der Verpflichtung der Streithelferin. Abgesehen davon war auch der Unternehmer verkehrssicherungspflichtig, der die ungesicherte Ebene hergestellt und damit die Gefahrenquelle geschaffen hatte (vgl. BGH, Urteil vom 28. März 1996 - IX ZR 77/95, VersR 1997, 61, 63; OLG Hamm, VersR 1993, 491 f.). Waren mithin mehrere Unternehmen für die Sicherheit der Baustelle in dem fraglichen Bereich verantwortlich, so durfte der für die Bauüberwachung zuständige Beklagte zu 2 sich jedenfalls nicht ohne eine ausdrückliche und eindeutige Anweisung und ohne eine Kontrolle darauf verlassen, dass die Streithelferin die erforderlichen Maßnahmen ergreifen würde (vgl. auch Senatsurteil vom 6. November 1973 - VI ZR 76/72, VersR 1974, 263, 264; OLG Hamm, VersR 1993, 491 f.; Staudinger/Hager, aaO). Dies gilt umso mehr, als sich im Streitfall eine Gefahr verwirklicht hat, die typischerweise mit der Abfolge verschiedener Gewerke und dem Tätigwerden einer Vielzahl von Personen bei der Errichtung des Bauwerks verbunden ist und von dem mit der Bauüberwachung betrauten Architekten am besten überblickt werden kann (vgl. Senatsurteil vom 13. März 2007 - VI ZR 178/05, VersR 2007, 948 Rn. 13).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_17">17</a>
+            </dt>
+            <dd>
+               <p>2. Dagegen wird die Beurteilung des Berufungsgerichts, auch die Beklagte zu 1 hafte unmittelbar aus § 823 Abs. 1 BGB, von den getroffenen Feststellungen nicht getragen. Danach traf die Beklagte zu 1 zunächst ebenfalls nur eine sekundäre Verkehrssicherungspflicht. Sie war nur dann verpflichtet, die notwendigen und zumutbaren Vorkehrungen zu treffen, um eine Schädigung anderer zu verhindern, wenn sich die sekundäre Verkehrssicherungspflicht zuvor in ihrer Person aktualisiert hatte. Hierzu hat das Berufungsgericht keine Feststellungen getroffen. Mangels näherer Feststellungen zur Stellung und Funktion des Beklagten zu 2 kann auch nicht davon ausgegangen werden, dass dessen zum Schadensersatz verpflichtendes Verhalten der Beklagten zu 1 analog § 31 BGB zuzurechnen ist (vgl. dazu Senatsurteil vom 24. Juni 2003 - VI ZR 434/01, BGHZ 155, 205, 210 f.; Erman/Westermann, BGB, 14. Aufl., § 31 BGB Rn. 2). Eine Haftung der Beklagten zu 1 aus §§ 831, 823 Abs. 1 BGB kann auf der Grundlage der bisherigen Feststellungen ebenfalls nicht bejaht werden (vgl. dazu Senatsurteil vom 13. März 2007 - VI ZR 178/05, VersR 2007, 948 Rn. 15).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_18">18</a>
+            </dt>
+            <dd>
+               <p>3. Die Revision wendet sich mit Erfolg gegen die Beurteilung des Berufungsgerichts, eine Haftungsbeschränkung der Beklagten nach den Grundsätzen des gestörten Gesamtschuldverhältnisses komme vorliegend nicht in Betracht.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_19">19</a>
+            </dt>
+            <dd>
+               <p>a) Nach der gefestigten Rechtsprechung des Senats können in den Fällen, in denen zwischen mehreren Schädigern ein Gesamtschuldverhältnis besteht, Ansprüche des Geschädigten gegen einen Gesamtschuldner (Zweitschädiger) auf den Betrag beschränkt sein, der auf diesen im Innenverhältnis zu dem anderen Gesamtschuldner (Erstschädiger) endgültig entfiele, wenn die Schadensverteilung nach § 426 BGB nicht durch eine sozialversicherungsrechtliche Haftungsprivilegierung des Erstschädigers gestört wäre. Die Beschränkung der Haftung des Zweitschädigers beruht dabei auf dem Gedanken, dass einerseits die haftungsrechtliche Privilegierung nicht durch eine Heranziehung im Gesamtschuldnerausgleich unterlaufen werden soll, es aber andererseits bei Mitberücksichtigung des Grundes der Haftungsprivilegierung, nämlich der anderweitigen Absicherung des Geschädigten durch eine gesetzliche Unfallversicherung, nicht gerechtfertigt wäre, den Zweitschädiger den Schaden alleine tragen zu lassen. Unter Berücksichtigung dieser Umstände ist der Zweitschädiger in Höhe des Verantwortungsteils freizustellen, der auf den Erstschädiger im Innenverhältnis entfiele, wenn man seine Haftungsprivilegierung hinwegdenkt. Dabei ist unter Verantwortungsteil die Zuständigkeit für die Schadensverhütung und damit der Eigenanteil des betreffenden Schädigers an der Schadensentstehung zu verstehen (vgl. etwa Urteile vom 12. Juni 1973 - VI ZR 163/71, BGHZ 61, 51, 53 ff.; vom 24. Juni 2003 - VI ZR 434/01, BGHZ 155, 206, 212 f.; vom 13. März 2007 - VI ZR 178/05, VersR 2007, 948 Rn. 19; vom 22. Januar 2008 - VI ZR 17/07, VersR 2008, 642 Rn. 11; vom 23. September 2014 - VI ZR 483/12, juris Rn. 16; jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_20">20</a>
+            </dt>
+            <dd>
+               <p>b) Nach diesen Grundsätzen haftet der Beklagte zu 2 nur in Höhe des im Innenverhältnis zur Streithelferin auf ihn entfallenden Verantwortungsteils.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_21">21</a>
+            </dt>
+            <dd>
+               <p>aa) Zwischen dem Beklagten zu 2 und der Streithelferin besteht - lässt man etwaige sozialversicherungsrechtliche Haftungsprivilegierungen außer Betracht - ein Gesamtschuldverhältnis. Dem der Streithelferin zur Arbeitsleistung überlassenen R. ist gegen diese jedenfalls ein vertraglicher Schadensersatzanspruch aus § 280 Abs. 1 BGB wegen Verstoßes gegen § 618 Abs. 1 BGB erwachsen. Dabei kann dahingestellt werden, ob sich dieser Anspruch aus einer unmittelbaren Anwendung der genannten Bestimmungen (sowohl BAGE 25, 514, 522; BAG, NZA 1989, 340, 341; NZA-RR 2010, 123 Rn. 44; ArbR-BGB/Friedrich, § 618 Rz. 12; Soergel/Kraft, BGB, 12. Auflage, § 618 Rz. 3), einer analogen Anwendung (so Henssler/Willemsen/Kalb/Krause, Arbeitsrecht, 6. Aufl., § 618 BGB Rn. 9) oder aus der Verletzung des zwischen der Streithelferin als Entleiherin und der S. Personaldienstleistung GmbH &amp; Co. KG als Verleiher abgeschlossenen Vertrags mit Schutzwirkung zugunsten des R. als Leiharbeitnehmer (so Staudinger/Oetker, BGB, Neubearbeitung 2011, § 618 Rz. 95; MünchKommBGB/Henssler, 6. Aufl., § 618 Rn. 25) ergibt. Denn unabhängig von der dogmatischen Herleitung schuldet die Streithelferin wegen der Verletzung vertraglicher Verkehrssicherungspflichten Ersatz des R. infolge des Sturzes entstandenen Schadens. Sie ist damit verpflichtet, dasselbe Gläubigerinteresse zu befriedigen wie der wegen der Verletzung deliktischer Verkehrssicherungspflichten haftende Beklagte zu 2. Die für die Annahme einer Gesamtschuld darüber hinaus erforderliche Gleichstufigkeit der Verpflichtungen folgt daraus, dass weder die Streithelferin noch der Beklagte zu 2 nur subsidiär oder vorläufig für die Verpflichtung des jeweils anderen einstehen müssen (vgl. Senatsurteil vom 28. November 2006 - VI ZR 136/05, VersR 2007, 198 Rn. 17 f.; BGH, Urteil vom 22. Dezember 2011 - VII ZR 7/11, BGHZ 192, 182 Rn. 18; Palandt-Grüneberg, BGB, 73. Aufl., § 421 Rn. 6 f., jeweils mwN).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_22">22</a>
+            </dt>
+            <dd>
+               <p>bb) Der Ausgleich im Innenverhältnis der Gesamtschuldner gemäß § 426 BGB ist durch eine sozialversicherungsrechtliche Haftungsprivilegierung gestört.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_23">23</a>
+            </dt>
+            <dd>
+               <p>(1) Die Haftung der Streithelferin ist allerdings nicht gemäß § 106 Abs. 3 Fall 3 SGB VII ausgeschlossen. Die in dieser Norm angeordnete Haftungsbeschränkung scheitert schon daran, dass der Versicherte R. nicht durch ein auf der Betriebsstätte tätiges Organ der Streithelferin geschädigt worden ist. Nach der gefestigten Rechtsprechung des Senats kommt das Haftungsprivileg dem Unternehmer nur dann zu Gute, wenn er Versicherter der gesetzlichen Unfallversicherung ist, selbst auf einer gemeinsamen Betriebsstätte eine betriebliche Tätigkeit verrichtet und dabei den Versicherten eines anderen Unternehmens verletzt (vgl. Senatsurteile vom 23. September 2014 - VI ZR 483/12, juris Rn. 14 mwN; vom 19. Mai 2009 - VI ZR 56/08, BGHZ 181, 160 Rn. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_24">24</a>
+            </dt>
+            <dd>
+               <p>(2) Die Haftung der Streithelferin ist aber gemäß § 104 Abs. 1 Satz 1 SGB VII ausgeschlossen. Nach dieser Bestimmung sind Unternehmer den Versicherten, die für ihre Unternehmen tätig sind oder zu ihren Unternehmen in einer sonstigen die Versicherung begründenden Beziehung stehen, zum Ersatz des Personenschadens, den ein Versicherungsfall verursacht hat, nur verpflichtet, wenn sie den Versicherungsfall vorsätzlich oder auf einem nach § 8 Abs. 2 Nr. 1 bis 4 versicherten Weg herbeigeführt haben. Danach haftet die Streithelferin vorliegend nicht. Nach den Feststellungen des Berufungsgerichts hat sie die Verletzungen des R. weder vorsätzlich herbeigeführt noch handelt es sich um einen Wegeunfall. Der Unfall des R. ist haftungsrechtlich auch dem Unternehmen der Streithelferin zuzuordnen. Denn R. war zum Unfallzeitpunkt als ein der Streithelferin überlassener Leiharbeitnehmer auf einer Baustelle der Streithelferin eingesetzt und damit als Versicherter für diese tätig. Dies gilt unbeschadet des Umstands, dass die Klägerin als für das Unternehmen des Verleihers zuständige Berufsgenossenschaft den Unfall des R. als Arbeitsunfall anerkannt hat.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_25">25</a>
+            </dt>
+            <dd>
+               <p>(a) Zwar ist der Zivilrichter gemäß § 108 Abs. 1 SGB VII an unanfechtbare Entscheidungen der Unfallversicherungsträger hinsichtlich der Frage gebunden, ob ein Arbeitsunfall vorliegt, in welchem Umfang Leistungen zu erbringen sind und ob der Unfallversicherungsträger zuständig ist. Nach der neueren Rechtsprechung des Senats erstreckt sich die Bindungswirkung auch auf die Entscheidung darüber, ob der Verletzte den Unfall als Versicherter aufgrund eines Beschäftigungsverhältnisses im Sinne des § 2 Abs. 1 Nr. 1 oder Abs. 2 Satz 1 SGB VII erlitten hat und welchem Unternehmen der Unfall zuzurechnen ist (vgl. Senatsurteile vom 22. April 2008 - VI ZR 202/07, VersR 2008, 820 Rn. 9, 13; vom 19. Mai 2009 - VI ZR 56/08, BGHZ 181, 160 Rn. 17, 21; vom 30. April 2013 - VI ZR 155/12, VersR 2013, 862 Rn. 9, jeweils mwN). An der Zuordnung des Unfalls zu einem anderen Unternehmen gemäß § 2 Abs. 2 Satz 1 SGB VII sind die Zivilgerichte danach gehindert (vgl. Senatsurteile vom 22. April 2008 - VI ZR 202/07, VersR 2008, 820 Rn. 13; vom 19. Mai 2009 - VI ZR 56/08, BGHZ 181, 160 Rn. 17, 20 f.; a.A. BAG, NZA-RR 2010, 123 Rn. 27, 54 f.).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_26">26</a>
+            </dt>
+            <dd>
+               <p>(b) Es kann dahingestellt bleiben, ob die Bestimmung des § 108 SGB VII auch im vorliegenden Rechtsstreit anwendbar ist, in dem "Ersatzansprüche der in den §§ 104 bis 107 genannten Art" nicht den Gegenstand der Klageforderung bilden, sondern über sie nur mittelbar bei der Prüfung der Frage zu entscheiden ist, ob die Haftung des Zweitschädigers in Hinblick auf eine sozialversicherungsrechtliche Privilegierung des Erstschädigers nach den Grundsätzen des gestörten Gesamtschuldverhältnisses beschränkt ist. Denn auch wenn die Bestimmung im Streitfall zur Anwendung käme, erstreckte sich die von ihr angeordnete Bindungswirkung nicht auf die Frage, welchem Unternehmen der Unfall zuzurechnen ist. Die unanfechtbare Entscheidung des für den Verleiher zuständigen Versicherungsträgers, in der der Unfall eines auf Grund eines wirksamen Vertrags entliehenen Arbeitnehmers (§ 1 Abs. 1 Satz 1 AÜG) im Unternehmen des Entleihers als Arbeitsunfall anerkannt wird, hindert die Zivilgerichte nicht, den Unfall haftungsrechtlich dem Unternehmen des Entleihers zuzuordnen und diesen als haftungsprivilegiert anzusehen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_27">27</a>
+            </dt>
+            <dd>
+               <p>(aa) Der Senat hat seine Auffassung, die Bindungswirkung des § 108 SGB VII erstrecke sich auch auf die Entscheidung darüber, welchem Unternehmen der Unfall zuzurechnen ist, damit begründet, dass durch die - im Zuge der Einordnung des Rechts der gesetzlichen Unfallversicherung in das Sozialgesetzbuch VII neu geschaffenen - Konkurrenzregelungen des § 135 SGB VII nicht nur die Zuständigkeit mehrerer Unfallversicherungsträger und ein mehrfacher Versicherungsschutz, sondern auch die Zuordnung eines Arbeitsunfalls zu mehreren Unternehmen verhindert werden solle (Urteile vom 22. April 2008 - VI ZR 202/07, aaO und vom 19. Mai 2009 - VI ZR 56/08, aaO Rn. 13, 18; zustimmend ErfK/Rolfs, 14. Aufl., § 108 SGB VII Rn. 3; Bereiter-Hahn/Mehrtens, Gesetzliche Unfallversicherung, § 104 Rn. 4.4 [Stand: Mai 2011]; Waltermann in Eichenhofer/Wenner, SGB VII, § 108 Rn. 4; ablehnend Ricke in Kasseler Kommentar, § 104 SGB VII Rn. 10 [Stand: Dezember 2011]; ders., NZS 2011, 454; von Koppenfels-Spies, SGb 2013, 373; Burmann/Jahnke, NZV 2014, 5, 10; anders auch BAG, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_28">28</a>
+            </dt>
+            <dd>
+               <p>(bb) Diese Erwägungen lassen sich jedoch nicht auf die erlaubte Arbeitnehmerüberlassung übertragen. Sie ist durch Besonderheiten gekennzeichnet, die der Annahme entgegenstehen, dass die Beschränkung der Zuordnung eines Arbeitsunfalls zu einem Unternehmen auch in dieser Fallkonstellation dem Willen des Gesetzgebers entspricht und den Schutzzwecken der §§ 104 ff. SGB VII Rechnung trägt (vgl. Senatsurteil vom 19. Mai 2009 - VI ZR 56/08, BGHZ 181, 160 Rn. 20).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_29">29</a>
+            </dt>
+            <dd>
+               <p>So wird ein mehrfacher Versicherungsschutz bei der Arbeitnehmerüberlassung in erster Linie durch die spezielle Vorschrift des § 133 Abs. 2 SGB VII verhindert, wonach sich die Zuständigkeit des Unfallversicherungsträgers nach der Zuständigkeit für das Unternehmen des Verleihers bestimmt (vgl. Köhler in Becker/Franke/Molkentin, SGB VII, 4. Aufl., § 133 Rn. 10; Quabach in jurisPK-SGB VII, 2. Aufl., § 133 Rn. 29). Anders als § 135 SGB VII (vgl. Senatsurteil vom 19. Mai 2009 - VI ZR 56/08, BGHZ 181, 160 Rn. 13) hat die Bestimmung des § 133 Abs. 2 SGB VII ein Vorbild in der Reichsversicherungsordnung. Sie entspricht im Wesentlichen dem mit Unfallversicherungs-Neuregelungsgesetz vom 30. April 1963 (BGBl. I S. 241) geschaffenen § 648 RVO, wonach eine Berufsgenossenschaft Arbeitsunfälle bei Tätigkeit in einem Unternehmen, das für Rechnung eines ihr nicht angehörigen Unternehmers geht, dann zu entschädigen hat, wenn ein ihr angehöriger Unternehmer den Auftrag gegeben und das Entgelt zu zahlen hat (vgl. BT-Drucks. 13/2204, S. 108). Trotz dieser Regelung bestand unter der Geltung der Reichsversicherungsordnung kein Zweifel daran, dass ein Arbeitsunfall haftungsrechtlich dem Unternehmen des Entleihers zugeordnet werden konnte und diesem deshalb das Haftungsprivileg des § 636 Abs. 1 RVO zugute kam. Dies ergab sich bereits aus der ausdrücklichen gesetzlichen Regelung in § 636 Abs. 2 RVO, durch die klargestellt werden sollte, dass der grundsätzliche Ausschluss der Haftung des Unternehmers gemäß § 636 Abs. 1 RVO auch für den Entleiher im Verhältnis zu dem für ihn tätigen Leiharbeitnehmer gilt (BT-Drucks. 3/758 S. 60; vgl. BAGE 42, 194, 200). Diesen Rechtszustand wollte der Gesetzgeber mit dem Erlass des Sozialgesetzbuchs VII nicht ändern. Ausweislich der Gesetzesbegründung ist er davon ausgegangen, dass dem Entleiher die Haftungsprivilegierung auch nach neuem Recht zugute kommt. Wegen des vermeintlich klaren Wortlauts des § 104 Abs. 1 Satz 1 SGB VII - "Versicherte, die für ihre Unternehmen tätig sind" - hat er eine besondere Regelung für Leiharbeitnehmer für entbehrlich gehalten (BT-Drucks. 13/2204 S. 100; vgl. Lemcke, r+s 2009, 391, 392; Kampen, NJW 2010, 2311, 2315; Ricke, NZS 2011, 454, 457; von Koppenfels-Spies, SGb 2013, 373, 378; Burmann/Jahnke, NZV 2014, 5, 10).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_30">30</a>
+            </dt>
+            <dd>
+               <p>Auch steht der Schutzzweck des § 133 Abs. 2 SGB VII, insbesondere für Leiharbeitnehmer ständig wechselnde Zuständigkeiten zu verhindern (Lemcke, r+s 2013, 411, 412; Köhler in Becker/Franke/Molkentin, SGB VII, 4. Aufl., § 133 Rn. 5), in keinem Bezug zu Sinn und Zweck der Haftungsprivilegierung. Diese dient zunächst als Ausgleich für die allein von dem Unternehmer getragene Beitragslast. Darüber hinaus bezweckt sie die Wahrung des Betriebsfriedens, indem Streitigkeiten über die Unfallverantwortung vermieden werden (vgl. Senatsurteile vom 16. Januar 1953 - VI ZR 161/52, BGHZ 8, 330, 338; vom 24. Januar 2006 - VI ZR 290/04, BGHZ 166, 42 Rn. 11; vom 16. Dezember 2003 - VI ZR 103/03, BGHZ 157, 213, 218, jeweils mwN; BVerfGE 34, 118, 129 f., 132). Schließlich soll sie auch dem Umstand Rechnung tragen, dass die Betriebsgemeinschaft eine Gefahrengemeinschaft darstellt (vgl. BVerfGE 34, 118, 136; Ricke in Kasseler Kommentar zum Sozialversicherungsrecht, § 104 SGB VII Rn. 2 [Stand: Dezember 2011]; Hollo in jurisPK-SGB VII, 2. Aufl., § 104 Rn. 9; von Koppenfels-Spies, SGb 2013, 373, 377).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_31">31</a>
+            </dt>
+            <dd>
+               <p>Diese Schutzzwecke würden im Fall der Arbeitnehmerüberlassung weitgehend verfehlt, wenn eine Haftungsprivilegierung des Entleihers verneint würde. Denn bei Arbeitsunfällen von Leiharbeitnehmern kommt eine Haftung der Verleiher unabhängig von einer Haftungsbeschränkung typischerweise nur selten in Betracht (vgl. Thüsing, AÜG, 3. Aufl., Einf. Rn. 78; Schüren in ders./Hamann, AÜG, 4. Aufl., Einl. Rn. 758). Demgegenüber wären die Entleiher auf Grund der sie treffenden Fürsorgepflicht (vgl. BAGE 25, 514, 522; BAG, NZA 1989, 340, 341; NZA-RR 2010, 123 Rn. 43 f.) - insbesondere der Pflicht, die Arbeit in den Unternehmen durch Beachtung der Unfallverhütungsvorschriften unfallsicher auszugestalten (vgl. bereits BT-Drucks. 3/758 S. 60) - und infolge der Eingliederung der Leiharbeitnehmer in ihr Unternehmen (vgl. BAGE 25, 514, 520; 77, 102, 110; 144, 222 Rn. 13) bei einer Verneinung der Haftungsbeschränkung einem erheblichen Haftungsrisiko ausgesetzt. Es steht in Einklang mit den Schutzzwecken des Haftungsprivilegs, dieses Risiko als durch die für die Leiharbeitnehmer gezahlten Unfallversicherungsbeiträge abgelöst anzusehen (vgl. bereits BT-Drucks. 3/758 S. 60).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_32">32</a>
+            </dt>
+            <dd>
+               <p>(cc) Dem steht nicht entgegen, dass der Entleiher die Beiträge regelmäßig nicht selbst an die zuständige Berufsgenossenschaft abführt, weil der Verleiher Beitragsschuldner ist (Schmitt, SGB VII, 4. Aufl., § 150 Rn. 11; Schlaeger in BeckOK SozR, § 150 SGB VII Rn. 7 [Stand: Juni 2014]). In den praktisch bedeutsamen Fällen der entgeltlichen Arbeitnehmerüberlassung wird der Verleiher die Beiträge bei der Kalkulation des Entgelts berücksichtigen und an den Entleiher weiterreichen (vgl. Senatsurteil vom 16. Januar 1953 - VI ZR 161/52, BGHZ 8, 330, 333; Lehmacher, r+s-Beil. 2011, 79, 81). Darüber hinaus haftet der Entleiher dem Unfallversicherungsträger gegenüber wie ein selbstschuldnerischer Bürge (§ 150 Abs. 3 Satz 1 SGB VII i.V.m. § 28e Abs. 2 Satz 1 SGB IV). Die Loslösung des Haftungsprivilegs von der Beitragspflicht ist im Übrigen eine Folge der Aufspaltung der Arbeitgeber-Stellung, die für die spezielle Situation der Leiharbeitnehmer kennzeichnend ist (vgl. BAGE 144, 340 Rn. 26).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_33">33</a>
+            </dt>
+            <dd>
+               <p>Vor diesem Hintergrund ist ein hinreichender Sachgrund dafür, Arbeitsunfälle von Leiharbeitnehmern im Verhältnis zum Entleiher haftungsrechtlich anders zu behandeln als Arbeitsunfälle der in gleicher Gefahrenlage arbeitenden eigenen Arbeitnehmer des Entleihers, nicht zu erkennen (so bereits RGZ 171, 393, 398 und Senatsurteil vom 16. Januar 1953 - VI ZR 161/52, aaO).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_34">34</a>
+            </dt>
+            <dd>
+               <p>(c) R. war zum Unfallzeitpunkt als Versicherter gemäß § 2 Abs. 2 Satz 1 SGB VII für die Streithelferin tätig. Er war als ein ihr überlassener Leiharbeitnehmer gemeinsam mit eigenen Arbeitnehmern der Streithelferin auf einer Baustelle der Streithelferin eingesetzt und damit wie ein Beschäftigter der Streithelferin tätig (§ 2 Abs. 2 Satz 1 SGB VII). Für die Beantwortung der Frage, ob der Geschädigte wie ein Beschäftigter im Sinne des § 2 Abs. 2 Satz 1 SGB VII tätig geworden ist, ist entscheidend, ob er Aufgaben des anderen Unternehmens wahrgenommen hat und die Aufgaben seiner Tätigkeit bei wertender Betrachtung der Einzelfallumstände auch das Gepräge gegeben haben (Senatsurteil vom 23. März 2004 - VI ZR 160/03, VersR 2004, 1045, 1046 f.; BAG, NZA-RR 2010, 123 Rn. 35). Diese Voraussetzungen sind erfüllt, wenn ein dem Entleiher zur Arbeitsleistung überlassener Arbeitnehmer im Unternehmen des Entleihers eingesetzt wird (vgl. BSGE 98, 285 Rn. 17; OLG Jena r+s 2010, 533; LAG Berlin-Brandenburg, r+s 2014, 48; Krasney in Becker/Burchardt/ders./Kruschinsky, Gesetzliche Unfallversicherung, § 104 Rn. 11; Schmitt, SGB VII, 4. Aufl., § 104 Rn. 8; Waltermann in Eichenhofer/Wenner, SGB VII, § 104 Rn. 10; Grüner in Becker/Franke/Molkentin, SGB VII, 4. Aufl., § 104 Rn. 11 f.; Hollo in jurisPK-SGB VII, 2. Aufl., § 104 Rn. 25; Schüren in ders./Hamann, AÜG, 4. Aufl., Einl. Rn. 756; Thüsing, AÜG, 3. Aufl., Einf. Rn. 77; Geigel/Wellner, Der Haftpflichtprozess, 26. Aufl., Kap. 31 Rn. 81; Lepa, Haftungsbeschränkungen bei Personenschäden nach dem Unfallversicherungsrecht, S. 154 f.). Die von dem Leiharbeitnehmer wahrgenommenen Aufgaben werden nämlich - anders als bei einem Dienst- oder Werkvertrag - nicht aufgrund des Arbeitnehmerüberlassungsvertrags von dem Verleiher übernommen. Dessen Verpflichtung beschränkt sich vielmehr darauf, dem Entleiher Arbeitskräfte zur Verfügung zu stellen, die dieser nach seinen Vorstellungen und Zielen in seinem Betrieb wie eigene Arbeitnehmer einsetzt (BAGE 77, 102, 110 f.; 87, 186, 189; 96, 150, 153).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_35">35</a>
+            </dt>
+            <dd>
+               <p>cc) Entgegen der Auffassung des Berufungsgerichts wird die durch die sozialversicherungsrechtliche Haftungsprivilegierung der Streithelferin bewirkte Störung des Gesamtschuldverhältnisses nicht dadurch "ausgeglichen", dass der Klägerin ein Rückgriffsanspruch aus eigenem Recht gemäß § 110 Abs. 1 SGB VII gegen die Streithelferin zusteht. Denn aufgrund der Haftungsprivilegierung der Streithelferin ist der mit der Klage geltend gemachte Anspruch des Geschädigten R. gegen die außerhalb des Sozialversicherungsverhältnisses stehenden Zweitschädiger, die Beklagten, von vornherein auf das beschränkt, was auf diese im Innenverhältnis endgültig entfiele, wenn die Schadensverteilung nach § 426 BGB nicht durch die Regelung des § 104 Abs. 1 Satz 1 SGB VII gestört wäre (vgl. Senatsurteil vom 12. Juni 1973 - VI ZR 163/71, BGHZ 61, 51, 55). Der Anspruch konnte auch nur in diesem beschränkten Umfang gemäß § 116 Abs. 1 Satz 1 SGB X auf die Klägerin übergehen. Die Anspruchsbeschränkung ist durch den Anspruchsübergang nicht wieder entfallen; der Gläubigerwechsel verändert den Inhalt des übergegangenen Anspruchs nämlich nicht (vgl. §§ 412, 404 BGB).</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt>
+               <a name="rd_36">36</a>
+            </dt>
+            <dd>
+               <p>4. Das Berufungsurteil war deshalb aufzuheben und die Sache zur neuen Verhandlung und Entscheidung an das Berufungsgericht zurückzuverweisen, damit es die erforderlichen Feststellungen treffen kann (§ 562 Abs. 1, § 563 Abs. 1 Satz 1 ZPO). Das Berufungsgericht wird insbesondere zu bewerten haben, wie groß der "Verantwortungsteil" der Streithelferin einerseits sowie der Beklagten und möglicher weiterer nicht privilegiert haftender Gesamtschuldner andererseits ist. Dabei hat es Gelegenheit, sich auch mit den weiteren im Revisionsverfahren erhobenen Einwendungen der Beteiligten auseinanderzusetzen.</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>Galke                        Wellner                       Stöhr</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p>             von Pentz                      Oehler</p>
+            </dd>
+         </dl>
+         <dl class="RspDL">
+            <dt/>
+            <dd>
+               <p/>
+            </dd>
+         </dl>
+      </div>
+   </entscheidungsgruende>
+   <gruende/>
+   <abwmeinung/>
+   <sonstlt/>
+   <identifier>http://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&amp;docid=jb-KORE311872014&amp;psml=bsjrsprod.psml&amp;max=true</identifier>
+   <coverage>Deutschland</coverage>
+   <language>deutsch</language>
+   <publisher>BMJ</publisher>
+   <accessRights>public</accessRights>
+</dokument>
